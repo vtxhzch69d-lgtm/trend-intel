@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프와 정치",
-      "summary": "트럼프의 골프와 정치 관련 논란",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제와 자산",
-      "summary": "자산 격차와 경제 관련 논란",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 트렌드",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술과 혁신",
-      "summary": "최신 기술과 혁신 관련 뉴스",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 트렌드",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 트렌드",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "골프와 정치 관련 논란"
-    },
-    {
-      "keyword": "자산",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "자산 격차와 경제 관련 논란"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술과 혁신 관련 뉴스"
+      "context": "AI 기술의 발전과 적용"
+    },
+    {
+      "keyword": "보이스피싱",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "보이스피싱의 증가와 대책"
+    },
+    {
+      "keyword": "애플",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "애플의 제품과 서비스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "트럼프와 정치 관련 논란이 계속 증가",
-      "action": "정치 관련 콘텐츠를 주의해서 다루기",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "자산과 경제 관련 논란이 증가",
-      "action": "자산과 경제 관련 콘텐츠를 다양하게 다루기",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 기술과 혁신 관련 뉴스가 증가",
-      "action": "최신 기술과 혁신 관련 콘텐츠를 더 많이 다루기",
+      "insight": "보이스피싱의 증가",
+      "action": "보이스피싱 예방을 위한 캠페인 진행",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 트럼프와 정치 관련 논란이 계속 증가하고 있습니다. 자산과 경제 관련 논란도 증가하고 있으며, 최신 기술과 혁신 관련 뉴스가 많아지고 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 다루는 것이 중요합니다. 특히 트럼프와 정치 관련 논란은 주의해서 다루어야 하며, 자산과 경제 관련 콘텐츠를 다양하게 다루는 것이 좋습니다. 또한 최신 기술과 혁신 관련 뉴스를 더 많이 다루는 것이 좋습니다.",
-  "analyzed_at": "2026-03-29T15:30:33.706Z",
+  "narrative": "최근의 트렌드는 기술 및 과학, 정치 및 사회, 경제 및 금융 관련 주제가 주를 이루고 있습니다. AI 기술의 발전과 적용이 긍정적인 반응을 보이고 있으며, 보이스피싱의 증가와 대책이 필요한 상황입니다. 또한, 애플의 제품과 서비스가 중립적인 반응을 보이고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 찾고, 보이스피싱 예방을 위한 캠페인을 진행하는 등 적극적인 대응이 필요합니다.",
+  "analyzed_at": "2026-03-29T16:00:33.883Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
