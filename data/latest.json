@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "보이스피싱 범죄 감소",
-      "summary": "정부의 칸막이 허물기 정책으로 보이스피싱 범죄가 30% 감소했다. 이 정책은 부처 간의 협력을 강화하여 범죄를 예방하고 단속하는 데 중점을 두고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "경제 및 정치",
+      "summary": "클리앙 커뮤니티에서 경제 및 정치 관련 게시글이 많이 올라왔습니다. 주제로는 자산 격차, 윤석열, 검새 등이 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술 발전",
-      "summary": "애플, 구글, 메타 등 주요 기술 기업들이 AI 기술을 발전시키고 있다. 이 기술은 다양한 산업 분야에서 활용될 것으로 기대된다.",
-      "post_count": 10,
+      "topic": "기술 및 과학",
+      "summary": "클리앙 커뮤니티에서 기술 및 과학 관련 게시글이 많이 올라왔습니다. 주제로는 AI, 반도체, 5G 등이 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "중동 쇼크로 코인 입법이 불발할 것으로 예상된다. 또한, 현대차가 차세대 코나를 출시할 계획이다.",
-      "post_count": 8,
+      "topic": "생활 및 문화",
+      "summary": "클리앙 커뮤니티에서 생활 및 문화 관련 게시글이 많이 올라왔습니다. 주제로는 음식, 영화, 음악 등이 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 활용"
+      "context": "AI 기술의 발전과 적용에 대한 관심이 높습니다."
     },
     {
-      "keyword": "보이스피싱",
+      "keyword": "윤석열",
       "count": 5,
       "sentiment": "negative",
-      "context": "보이스피싱 범죄의 감소"
+      "context": "윤석열에 대한 비판과 논란이 있습니다."
     },
     {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 뉴스"
+      "keyword": "5G",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "5G 기술의 발전과 적용에 대한 관심이 높습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기이지만, 일부에서는 긍정적 또는 부정적인 감정이 있습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용하여 비즈니스 모델을 개선한다.",
+      "insight": "AI 기술의 발전과 적용에 대한 관심이 높습니다.",
+      "action": "AI 기술을 활용한 새로운 제품이나 서비스를 개발하는 것을 고려해 보세요.",
       "priority": "high"
     },
     {
-      "insight": "보이스피싱 범죄의 감소",
-      "action": "보이스피싱 예방을 위한 교육과 홍보를 강화한다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 뉴스",
-      "action": "경제 및 금융 뉴스를 주시하고 비즈니스 전략을 조정한다.",
+      "insight": "5G 기술의 발전과 적용에 대한 관심이 높습니다.",
+      "action": "5G 기술을 활용한 새로운 제품이나 서비스를 개발하는 것을 고려해 보세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 보이스피싱 범죄의 감소가 주요 이슈로 나타났다. 또한, 경제 및 금융 뉴스가 중립적인 감정을 보였다. 이러한 트렌드는 비즈니스 전략을 조정하고 새로운 기회를 찾는 데 도움이 될 수 있다. 특히, AI 기술의 발전은 다양한 산업 분야에서 활용될 것으로 기대되며, 보이스피싱 범죄의 감소는 소비자의 안정성을 높일 수 있다. 따라서, 이러한 트렌드를 주시하고 비즈니스 모델을 개선하는 것이 중요하다.",
-  "analyzed_at": "2026-03-29T14:30:35.494Z",
+  "narrative": "클리앙 커뮤니티에서 경제 및 정치, 기술 및 과학, 생활 및 문화 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 적용에 대한 관심이 높으며, 5G 기술의 발전과 적용에 대한 관심도 높습니다. 일부에서는 윤석열에 대한 비판과 논란이 있습니다. 중립적인 분위기이지만, 일부에서는 긍정적 또는 부정적인 감정이 있습니다. AI 기술을 활용한 새로운 제품이나 서비스를 개발하는 것을 고려해 보세요.",
+  "analyzed_at": "2026-03-29T15:00:34.307Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
