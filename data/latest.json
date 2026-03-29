@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 관련 뉴스와 트렌드",
+      "topic": "경제 및 정치",
+      "summary": "最近의 경제 및 정치 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 자산 격차와 관련된 주제가 많이 обсужд되고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 트렌드",
+      "topic": "기술 및 게임",
+      "summary": "신규 기술과 게임에 대한 관심이 높아지고 있습니다. 특히, AI와 관련된 기술 및 게임이 많이 обсужд되고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 트렌드",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화에 대한 관심이 높아지고 있습니다. 특히, 여성 축구와 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "자산 격차",
       "count": 5,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
-    },
-    {
-      "keyword": "보이스피싱",
-      "count": 3,
       "sentiment": "negative",
-      "context": "보이스피싱의 증가와 대책"
+      "context": "경제 및 정치 뉴스에서 자주 등장하는 키워드"
     },
     {
-      "keyword": "애플",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "애플의 제품과 서비스"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 및 게임에서 자주 등장하는 키워드"
+    },
+    {
+      "keyword": "여자축구",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "사회 및 문화에서 자주 등장하는 키워드"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "mixed"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 서비스 개발",
+      "insight": "경제 및 정치 뉴스에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "보이스피싱의 증가",
-      "action": "보이스피싱 예방을 위한 캠페인 진행",
+      "insight": "신규 기술과 게임에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 문화에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 기술 및 과학, 정치 및 사회, 경제 및 금융 관련 주제가 주를 이루고 있습니다. AI 기술의 발전과 적용이 긍정적인 반응을 보이고 있으며, 보이스피싱의 증가와 대책이 필요한 상황입니다. 또한, 애플의 제품과 서비스가 중립적인 반응을 보이고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 찾고, 보이스피싱 예방을 위한 캠페인을 진행하는 등 적극적인 대응이 필요합니다.",
-  "analyzed_at": "2026-03-29T16:00:33.883Z",
+  "narrative": "最近의 트렌드는 경제 및 정치, 기술 및 게임, 사회 및 문화에 대한 관심이 높아지고 있습니다. 특히, 자산 격차와 관련된 주제가 많이 обсужд되고 있습니다. 또한, 신규 기술과 게임에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 활용하여 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한, 사회 및 문화에 대한 관심이 높아지고 있으므로 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-03-29T16:30:34.803Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
