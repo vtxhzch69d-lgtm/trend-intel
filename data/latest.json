@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "이재명 방북 비용, 트럼프 지지자 천박한 발언, 윤석열과 검새들에 대한 반발",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "이재명 방북 비용과 관련된 논란, 검찰의 수사와 관련된 뉴스",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "신한카드 애플페이 연동 무산, 애플 차단 모드 사용 중 스파이웨어 해킹 사례 없음",
-      "post_count": 8,
+      "topic": "기술",
+      "summary": "신한카드의 애플페이 연동과 관련된 뉴스, 애플의 차단 모드 사용 중 스파이웨어 해킹 사례",
+      "post_count": 4,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "메모리 호황, 현대차 차세대 코나, 카드발급시장 디지털 빅뱅",
-      "post_count": 7,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "국내외 경제 뉴스, 메모리 호황과 관련된 뉴스",
+      "post_count": 6,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "방북 비용과 관련된 논란"
-    },
-    {
-      "keyword": "트럼프",
       "count": 3,
       "sentiment": "negative",
-      "context": "천박한 발언과 관련된 논란"
+      "context": "방북 비용과 관련된 논란"
     },
     {
       "keyword": "애플",
       "count": 4,
       "sentiment": "neutral",
-      "context": "차단 모드 사용 중 스파이웨어 해킹 사례 없음"
+      "context": "애플페이 연동과 관련된 뉴스, 차단 모드 사용 중 스파이웨어 해킹 사례"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "국내외 경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "정치 및 사회적인 이슈가 많은 관심을 받고 있음",
-      "action": "관련된 주제에 대한 콘텐츠를 생성",
+      "insight": "정치와 경제 뉴스가 많은 것으로 보아 최근 국내외 정세가 불안정한 것으로 보입니다.",
+      "action": "시장 동향을 주시하고 대응策을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 및 과학적인 주제가 중립적인 감정을 유발",
-      "action": "관련된 주제에 대한 콘텐츠를 생성",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융적인 주제가 긍정적인 감정을 유발",
-      "action": "관련된 주제에 대한 콘텐츠를 생성",
+      "insight": "기술 뉴스가 많아 최근 기술 발전이 빠르다는 것을 알 수 있습니다.",
+      "action": "신기술을 연구하고 투자해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치 및 사회적인 이슈가 많은 관심을 받고 있으며, 트럼프와 이재명에 대한 논란이 많습니다. 기술 및 과학적인 주제는 중립적인 감정을 유발하며, 애플과 관련된 주제가 많이 논의되고 있습니다. 경제 및 금융적인 주제는 긍정적인 감정을 유발하며, 메모리 호황과 현대차 차세대 코나가 많이 논의되고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 관련된 주제에 대한 콘텐츠를 생성하여 사용자의 관심을 끌 수 있을 것입니다.",
-  "analyzed_at": "2026-03-29T19:00:35.319Z",
+  "narrative": "최근 국내외 정세가 불안정한 것으로 보이며, 기술 발전이 빠르다는 것을 알 수 있습니다. 따라서 시장 동향을 주시하고 대응책을 마련해야 하며, 신기술을 연구하고 투자해야 합니다. 또한, 최근 경제 뉴스가 많아 경제 동향을 주시해야 합니다.",
+  "analyzed_at": "2026-03-29T19:30:34.124Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
