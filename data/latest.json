@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "BTS",
-      "summary": "BTS의 아리랑이 빌보드 200에서 7번째 정상에 올랐다.",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치",
-      "summary": "이재명 방북 비용과 관련된 논란이 있다.",
-      "post_count": 2,
-      "sentiment": "negative",
+      "summary": "국힘의 몰락과 이재명의 정치 활동이 주목을 받고 있습니다. 또한, 보수와 진보의 대립이 계속되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "애플과 구글이 AI 기술을 개발하고 있다.",
-      "post_count": 5,
+      "summary": "최신 기술 뉴스와 트렌드가 주목을 받고 있습니다. 특히, AI와 데이터 센터의 발전이 주목을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 뉴스와 금융 트렌드가 주목을 받고 있습니다. 특히, 카드 발급 시장과 보안 SW의 중요성이 강조되고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "BTS",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "음악"
-    },
-    {
       "keyword": "이재명",
-      "count": 2,
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치"
+      "context": "정치 활동과 관련된 논란"
     },
     {
       "keyword": "AI",
-      "count": 3,
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 트렌드와 발전"
+    },
+    {
+      "keyword": "보안",
+      "count": 4,
       "sentiment": "neutral",
-      "context": "기술"
+      "context": "보안 SW의 중요성과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 8,
-    "neutral": 12,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "BTS의 인기로 음악 산업이 성장할 수 있다.",
-      "action": "음악 산업에 투자하기",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치적인 논란이 사회적인 불안을 조성할 수 있다.",
-      "action": "정치적인 논란을 주시하기",
+      "insight": "최신 기술 트렌드에 대한 투자가 필요",
+      "action": "최신 기술에 대한 투자와 연구",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 개발로 기술 산업이 성장할 수 있다.",
-      "action": "AI 기술에 투자하기",
+      "insight": "보안의 중요성이 강조됨",
+      "action": "보안 시스템의 강화와 교육",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 뉴스와 금융 트렌드에 대한 관심",
+      "action": "경제 뉴스와 금융 트렌드에 대한 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드에서는 BTS의 아리랑이 빌보드 200에서 7번째 정상에 올랐으며, 정치적인 논란이 사회적인 불안을 조성하고 있다. 또한, 애플과 구글이 AI 기술을 개발하고 있어 기술 산업이 성장할 수 있다. 이러한 트렌드들은 음악 산업, 정치, 기술 산업 등 다양한 분야에 영향을 미칠 수 있다. 따라서, 이러한 트렌드들을 주시하고 적절한 투자와 대응이 필요하다.",
-  "analyzed_at": "2026-03-29T21:30:33.377Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 분야에서 주목을 받고 있습니다. 특히, 최신 기술 트렌드와 보안의 중요성이 강조되고 있습니다. 또한, 경제 뉴스와 금융 트렌드에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다. 최신 기술에 대한 투자와 연구, 보안 시스템의 강화와 교육, 경제 뉴스와 금융 트렌드에 대한 분석이 필요합니다.",
+  "analyzed_at": "2026-03-29T22:30:34.124Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
