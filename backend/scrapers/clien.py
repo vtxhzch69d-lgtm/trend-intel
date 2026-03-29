@@ -10,9 +10,9 @@ class ClienScraper(BaseScraper):
     BASE_URL = "https://www.clien.net"
 
     HOT_BOARDS = [
-        "/service/board/cm_free",    # 자유게시판
-        "/service/board/park",       # 공원 (핫딜 등)
+        "/service/board/park",       # 공원 (핫딜/자유)
         "/service/board/cm_humor",   # 유머
+        "/service/board/news",       # 뉴스
     ]
 
     async def get_hot_posts(self, limit: int = 50) -> List[Dict]:

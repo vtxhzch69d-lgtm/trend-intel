@@ -1,0 +1,29 @@
+{
+  "trending_topics": [
+    {"topic": "이란-미국 전쟁 가능성", "summary": "중동 긴장이 고조되며 이란-미국 전면전 시나리오가 커뮤니티에서 활발히 논의되고 있음. 유가 및 글로벌 경제 영향에 대한 우려가 큼.", "post_count": 15, "sentiment": "negative", "urgency": "high"},
+    {"topic": "트럼프 관세 정책", "summary": "미국의 대규모 관세 부과가 한국 수출에 미치는 영향 분석. 반도체·자동차 업종 영향 논의 활발.", "post_count": 8, "sentiment": "mixed", "urgency": "medium"},
+    {"topic": "보이스피싱 수법 공유", "summary": "최신 보이스피싱 수법과 피해 예방 정보가 활발히 공유됨. 커뮤니티 자체 경보 기능 수행 중.", "post_count": 5, "sentiment": "positive", "urgency": "low"}
+  ],
+  "keywords": [
+    {"keyword": "이란", "count": 15, "sentiment": "negative", "context": "미국과의 군사적 충돌 가능성 논의"},
+    {"keyword": "트럼프", "count": 12, "sentiment": "mixed", "context": "관세 정책 및 중동 외교 관련"},
+    {"keyword": "관세", "count": 8, "sentiment": "negative", "context": "한국 수출 기업 피해 우려"},
+    {"keyword": "보이스피싱", "count": 5, "sentiment": "neutral", "context": "최신 수법 및 예방 정보 공유"},
+    {"keyword": "반도체", "count": 4, "sentiment": "negative", "context": "미국 관세 영향권 논의"}
+  ],
+  "sentiment_overview": {
+    "positive": 20,
+    "negative": 50,
+    "neutral": 30,
+    "overall_mood": "전반적으로 부정적. 지정학적 불안과 경제 불확실성이 커뮤니티 분위기를 압도하고 있음"
+  },
+  "business_insights": [
+    {"insight": "이란-미국 갈등으로 에너지·방산 관련 관심 급증", "action": "에너지 절약 제품, 안전 관련 콘텐츠 마케팅 타이밍", "priority": "high"},
+    {"insight": "관세 이슈로 국산 대체제 수요 증가 예상", "action": "메이드인코리아 포지셔닝 강화, 가격 경쟁력 부각", "priority": "high"},
+    {"insight": "보이스피싱 주의보로 보안·금융 앱 관심 상승", "action": "보안 기능 강조 캠페인 즉시 집행 기회", "priority": "medium"}
+  ],
+  "narrative": "2026년 3월 29일 기준 한국 주요 커뮤니티는 지정학적 불안과 경제 불확실성으로 부정적 감성이 지배적입니다.\n\n가장 뜨거운 이슈는 이란-미국 관계입니다. 트럼프 행정부의 이란 핵 협상 파기 이후 군사적 충돌 가능성에 대한 글이 쏟아지고 있으며, 유가 폭등과 글로벌 공급망 붕괴에 대한 우려가 실질적인 소비 위축으로 이어질 가능성이 높습니다. 마케터 입장에서는 '안전'과 '절약'을 키워드로 한 캠페인이 이 시기에 공감을 얻을 것입니다.\n\n트럼프의 관세 정책은 반도체·자동차 중심의 한국 수출 기업에 대한 우려와 함께, 역설적으로 국산 제품에 대한 관심을 높이고 있습니다. '국산', '메이드인코리아' 키워드를 활용한 마케팅이 효과적일 타이밍입니다.\n\n보이스피싱 관련 정보 공유가 활발한 것은 보안 관련 서비스·앱에 대한 잠재 수요가 높다는 신호입니다. 금융·보안 앱 마케팅 팀은 지금이 캠페인 집행 적기입니다.",
+  "analyzed_at": "2026-03-29T12:29:44.782958",
+  "post_count": 60,
+  "sources": ["ppomppu", "clien"]
+}
