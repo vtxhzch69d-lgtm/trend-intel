@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 관련 논란과 트럼프 지지자의 발언이 논쟁을 일으키고 있습니다.",
+      "summary": "이재명 방북 비용과 관련된 논란, 트럼프 지지자의 천박한 발언 등 정치 관련 주제가热을 끌고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "신한카드의 애플페이 연동과 메타의 데이터센터 가동이 주목을 받고 있습니다.",
-      "post_count": 8,
+      "summary": "신한카드의 애플페이 연동 무산, 메타의 데이터센터 가동, 애플의 AI 마케팅 임원 영입 등 기술 관련 뉴스가 주목을 끌고 있습니다.",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "일본 버블 폭락 후 자산 격차와 카드 발급 시장의 디지털 전환이 관심을 모으고 있습니다.",
-      "post_count": 6,
+      "summary": "일본 버블 폭락 후 자산 격차, 한국의 5G 단독모드 전환, 메모리 호황 등 경제 관련 뉴스가 관심을 끌고 있습니다.",
+      "post_count": 12,
       "sentiment": "mixed",
       "urgency": "medium"
     }
@@ -27,41 +27,41 @@
       "keyword": "이재명",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 논란"
+      "context": "방북 비용과 관련된 논란"
+    },
+    {
+      "keyword": "트럼프",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "천박한 발언"
     },
     {
       "keyword": "애플",
-      "count": 3,
+      "count": 4,
       "sentiment": "neutral",
-      "context": "기술 뉴스"
-    },
-    {
-      "keyword": "카드 발급",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "context": "AI 마케팅 임원 영입, 애플페이 연동 무산"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
     "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치 논란이 계속되면 소비자 심리가 부정적으로 영향을 받을 수 있습니다.",
-      "action": "마케팅 전략을 조정하여 정치 논란의 영향을 최소화합니다.",
+      "insight": "정치 관련 논란이 계속되면 경제에 부정적인 영향을 미칠 수 있습니다.",
+      "action": "정치 관련 뉴스를 주시하고 경제에 미치는 영향에 대비합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 뉴스가 증가하고 있습니다.",
-      "action": "신기술에 대한 투자를 고려하여 사업을 확장합니다.",
+      "insight": "기술 관련 뉴스가 주목을 끌고 있으므로 기술 개발에 투자할 수 있습니다.",
+      "action": "기술 개발에 투자하고 관련 뉴스를 주시합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 논란과 기술 뉴스가 주를 이루고 있습니다. 이재명 관련 논란과 트럼프 지지자의 발언이 논쟁을 일으키고 있습니다. 또한, 신한카드의 애플페이 연동과 메타의 데이터센터 가동이 주목을 받고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 조정하고, 신기술에 대한 투자를 고려하여 사업을 확장하는 것이 중요합니다.",
-  "analyzed_at": "2026-03-29T17:00:34.435Z",
+  "narrative": "현재 정치 관련 논란이 계속되며, 기술과 경제 관련 뉴스가 주목을 끌고 있습니다. 정치 관련 논란이 계속되면 경제에 부정적인 영향을 미칠 수 있으므로 주시하고 대비합니다. 기술 개발에 투자하고 관련 뉴스를 주시하여 사업 기회를 찾을 수 있습니다.",
+  "analyzed_at": "2026-03-29T17:30:34.132Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
