@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "이재명 방북 비용, 윤석열과 검새들에 대한 반발, 보이스피싱 범죄 감소 등",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
       "topic": "기술 및 과학",
-      "summary": "AI 기술, 5G 및 6G 개발, 데이터 스페이스 등",
-      "post_count": 10,
+      "summary": "최근 기술 및 과학 관련 뉴스와 개발이 주목을 받고 있습니다. 애플, 구글, 소니 등이 AI와 관련된 다양한 프로젝트와 제품을 발표하였습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "국산화 준비, 메모리 호황, 카드 발급 시장 디지털화 등",
-      "post_count": 8,
+      "summary": "경제 및 금융 관련 뉴스가 많이 등장하고 있습니다. 금융권의 디지털 전환과 새로운 기술의 적용이 주목을 받고 있습니다.",
+      "post_count": 12,
       "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스가 다양하게 등장하고 있습니다. 정치적 이슈와 사회적 문제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "방북 비용과 관련된 논란"
-    },
-    {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "기술 개발과 적용에 대한 기대"
+      "context": "새로운 기술의 적용"
     },
     {
-      "keyword": "보이스피싱",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "범죄 감소와 관련된 뉴스"
+      "keyword": "애플",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "제품 및 기술 개발"
+    },
+    {
+      "keyword": "금융",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "디지털 전환"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 적용",
-      "action": "투자와 연구 개발에 집중",
+      "insight": "기술 및 과학 분야의 발전",
+      "action": "새로운 기술의 적용",
       "priority": "high"
     },
     {
-      "insight": "국산화 준비",
-      "action": "국내 산업과 기술 개발에 지원",
-      "priority": "medium"
-    },
-    {
-      "insight": "보이스피싱 범죄 감소",
-      "action": "안전하고 신뢰할 수 있는 금융 시스템 개발",
+      "insight": "경제 및 금융 분야의 디지털 전환",
+      "action": "디지털 전환 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 정치 및 사회, 기술 및 과학, 경제 및 금융 등 다양한 주제가 등장했습니다. 특히 AI 기술 개발과 적용, 국산화 준비, 보이스피싱 범죄 감소 등이 주요한 인사이트를 제공했습니다. 이러한 인사이트를 바탕으로 기업과 기관은 투자와 연구 개발에 집중하고, 국내 산업과 기술 개발에 지원하며, 안전하고 신뢰할 수 있는 금융 시스템 개발에 노력해야 할 것입니다.",
-  "analyzed_at": "2026-03-29T20:30:33.978Z",
+  "narrative": "최근 기술 및 과학, 경제 및 금융, 사회 및 정치 관련 뉴스가 주목을 받고 있습니다. 애플, 구글, 소니 등이 AI와 관련된 다양한 프로젝트와 제품을 발표하였습니다. 금융권의 디지털 전환과 새로운 기술의 적용이 주목을 받고 있습니다. 사회 및 정치 관련 뉴스도 다양하게 등장하고 있습니다. 이러한 트렌드를 분석하여 새로운 기회를 찾고 미래를 준비하는 것이 중요합니다. 기술 및 과학 분야의 발전과 경제 및 금융 분야의 디지털 전환을 주목하여 새로운 비즈니스 기회를 찾는 것이 필요합니다.",
+  "analyzed_at": "2026-03-29T21:00:33.803Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
