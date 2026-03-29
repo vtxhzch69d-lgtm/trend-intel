@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 방북 비용과 관련된 논란, 검찰의 수사와 관련된 뉴스",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "신한카드의 애플페이 연동과 관련된 뉴스, 애플의 차단 모드 사용 중 스파이웨어 해킹 사례",
-      "post_count": 4,
-      "sentiment": "neutral",
+      "topic": "정치 및 사회",
+      "summary": "이재명 방북 비용, 윤석열과 검새들에 대한 반발, 보이스피싱 범죄 감소 등",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "국내외 경제 뉴스, 메모리 호황과 관련된 뉴스",
-      "post_count": 6,
-      "sentiment": "mixed",
+      "topic": "기술 및 과학",
+      "summary": "AI 기술, 5G 및 6G 개발, 데이터 스페이스 등",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "국산화 준비, 메모리 호황, 카드 발급 시장 디지털화 등",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 3,
+      "count": 5,
       "sentiment": "negative",
       "context": "방북 비용과 관련된 논란"
     },
     {
-      "keyword": "애플",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "애플페이 연동과 관련된 뉴스, 차단 모드 사용 중 스파이웨어 해킹 사례"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 개발과 적용에 대한 기대"
     },
     {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "국내외 경제 뉴스"
+      "keyword": "보이스피싱",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "범죄 감소와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
+    "neutral": 25,
+    "overall_mood": "중립적이지만 약간 부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제 뉴스가 많은 것으로 보아 최근 국내외 정세가 불안정한 것으로 보입니다.",
-      "action": "시장 동향을 주시하고 대응策을 마련해야 합니다.",
+      "insight": "AI 기술 개발과 적용",
+      "action": "투자와 연구 개발에 집중",
       "priority": "high"
     },
     {
-      "insight": "기술 뉴스가 많아 최근 기술 발전이 빠르다는 것을 알 수 있습니다.",
-      "action": "신기술을 연구하고 투자해야 합니다.",
+      "insight": "국산화 준비",
+      "action": "국내 산업과 기술 개발에 지원",
+      "priority": "medium"
+    },
+    {
+      "insight": "보이스피싱 범죄 감소",
+      "action": "안전하고 신뢰할 수 있는 금융 시스템 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 국내외 정세가 불안정한 것으로 보이며, 기술 발전이 빠르다는 것을 알 수 있습니다. 따라서 시장 동향을 주시하고 대응책을 마련해야 하며, 신기술을 연구하고 투자해야 합니다. 또한, 최근 경제 뉴스가 많아 경제 동향을 주시해야 합니다.",
-  "analyzed_at": "2026-03-29T19:30:34.124Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 정치 및 사회, 기술 및 과학, 경제 및 금융 등 다양한 주제가 등장했습니다. 특히 AI 기술 개발과 적용, 국산화 준비, 보이스피싱 범죄 감소 등이 주요한 인사이트를 제공했습니다. 이러한 인사이트를 바탕으로 기업과 기관은 투자와 연구 개발에 집중하고, 국내 산업과 기술 개발에 지원하며, 안전하고 신뢰할 수 있는 금융 시스템 개발에 노력해야 할 것입니다.",
+  "analyzed_at": "2026-03-29T20:30:33.978Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
