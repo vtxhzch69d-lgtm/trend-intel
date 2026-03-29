@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "보이스피싱 범죄 감소",
-      "summary": "보이스피싱 범죄가 30% 감소했다. 정부의 칸막이 허물기 정책이 효과를 보인 것으로 나타났다.",
-      "post_count": 2,
+      "topic": "보이스피싱",
+      "summary": "보이스피싱 범죄가 30% 감소했다는 뉴스가 보도되었다. 정부의 칸막이 허물기 정책이 효과를 보인 것으로 나타났다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "중동 전쟁",
-      "summary": "중동 전쟁이 계속되고 있다. 이란과 미국의 대립이 심화하고 있다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "애플, 구글 등이 AI 기술을 활용한 새로운 서비스를 출시했다. AI 기술의 발전이 가속화되고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "갤럭시 탭 S11 울트라",
-      "summary": "갤럭시 탭 S11 울트라의 무이자할부가 가능하다.",
-      "post_count": 1,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제 뉴스",
+      "summary": "경제 뉴스가 다양하게 보도되었다. 금융권의 디지털 전환, 메모리 호황, 카드 발급시장의 디지털 빅뱅 등이 주요 뉴스였다.",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "보이스피싱",
-      "count": 2,
+      "count": 5,
       "sentiment": "negative",
-      "context": "범죄 감소"
+      "context": "보이스피싱 범죄가 30% 감소했다는 뉴스"
     },
     {
-      "keyword": "중동",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "전쟁"
-    },
-    {
-      "keyword": "갤럭시",
-      "count": 2,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "탭 S11 울트라"
+      "context": "AI 기술의 발전이 가속화되고 있다"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 뉴스가 다양하게 보도되었다"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부에서는 긍정적인 반응을 보이고 있다"
   },
   "business_insights": [
     {
-      "insight": "보이스피싱 범죄 감소로 금융권의 신뢰도가 높아질 수 있다.",
-      "action": "금융권의 보안 강화",
+      "insight": "보이스피싱 범죄가 30% 감소했다는 뉴스를 통해 정부의 칸막이 허물기 정책의 효과를 확인할 수 있다",
+      "action": "정부의 정책을 지지하고, 보이스피싱 예방을 위한 캠페인을 진행한다",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전이 가속화되고 있다",
+      "action": "AI 기술을 활용한 새로운 서비스를 개발한다",
       "priority": "high"
     },
     {
-      "insight": "중동 전쟁이 장기화할 경우 글로벌 경제에 부정적인 영향을 미칠 수 있다.",
-      "action": "글로벌 경제 모니터링",
+      "insight": "경제 뉴스가 다양하게 보도되었다",
+      "action": "경제 뉴스를 주기적으로 분석하고, 시장의 동향을 파악한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 보이스피싱 범죄의 감소와 중동 전쟁이 주목을 받고 있다. 보이스피싱 범죄의 감소는 정부의 칸막이 허물기 정책이 효과를 보인 것으로 나타났다. 중동 전쟁은 이란과 미국의 대립이 심화하고 있다. 또한, 갤럭시 탭 S11 울트라의 무이자할부가 가능하다는 소식이 포털 사이트를 통해 전해지고 있다. 이러한 트렌드들은 금융권과 글로벌 경제에 영향을 미칠 수 있는 중요한 요소들이다. 따라서, 금융권의 보안 강화와 글로벌 경제 모니터링이 필요하다.",
-  "analyzed_at": "2026-03-29T13:03:08.659Z",
+  "narrative": "최근의 트렌드는 보이스피싱 범죄의 감소와 AI 기술의 발전이 주를 이루고 있다. 정부의 칸막이 허물기 정책이 효과를 보인 것으로 나타났으며, AI 기술을 활용한 새로운 서비스가 출시되고 있다. 또한, 경제 뉴스가 다양하게 보도되어 시장의 동향을 파악하는 것이 중요하다. 이러한 트렌드를 통해 사업을 진행할 때, 보이스피싱 예방을 위한 캠페인을 진행하고, AI 기술을 활용한 새로운 서비스를 개발하며, 시장의 동향을 파악하는 것이 중요하다.",
+  "analyzed_at": "2026-03-29T13:30:34.154Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
