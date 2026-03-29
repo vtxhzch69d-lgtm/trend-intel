@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "最近의 경제 및 정치 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 자산 격차와 관련된 주제가 많이 обсужд되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 게임",
-      "summary": "신규 기술과 게임에 대한 관심이 높아지고 있습니다. 특히, AI와 관련된 기술 및 게임이 많이 обсужд되고 있습니다.",
+      "topic": "정치",
+      "summary": "이재명 관련 논란과 트럼프 지지자의 발언이 논쟁을 일으키고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화에 대한 관심이 높아지고 있습니다. 특히, 여성 축구와 관련된 주제가 많이 обсужд되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "신한카드의 애플페이 연동과 메타의 데이터센터 가동이 주목을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "일본 버블 폭락 후 자산 격차와 카드 발급 시장의 디지털 전환이 관심을 모으고 있습니다.",
+      "post_count": 6,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "자산 격차",
+      "keyword": "이재명",
       "count": 5,
       "sentiment": "negative",
-      "context": "경제 및 정치 뉴스에서 자주 등장하는 키워드"
+      "context": "정치 논란"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "기술 및 게임에서 자주 등장하는 키워드"
-    },
-    {
-      "keyword": "여자축구",
+      "keyword": "애플",
       "count": 3,
-      "sentiment": "positive",
-      "context": "사회 및 문화에서 자주 등장하는 키워드"
+      "sentiment": "neutral",
+      "context": "기술 뉴스"
+    },
+    {
+      "keyword": "카드 발급",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "mixed"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "경제 및 정치 뉴스에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "정치 논란이 계속되면 소비자 심리가 부정적으로 영향을 받을 수 있습니다.",
+      "action": "마케팅 전략을 조정하여 정치 논란의 영향을 최소화합니다.",
       "priority": "high"
     },
     {
-      "insight": "신규 기술과 게임에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "기술 뉴스가 증가하고 있습니다.",
+      "action": "신기술에 대한 투자를 고려하여 사업을 확장합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 및 문화에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드는 경제 및 정치, 기술 및 게임, 사회 및 문화에 대한 관심이 높아지고 있습니다. 특히, 자산 격차와 관련된 주제가 많이 обсужд되고 있습니다. 또한, 신규 기술과 게임에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 활용하여 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한, 사회 및 문화에 대한 관심이 높아지고 있으므로 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-03-29T16:30:34.803Z",
+  "narrative": "최근의 트렌드는 정치 논란과 기술 뉴스가 주를 이루고 있습니다. 이재명 관련 논란과 트럼프 지지자의 발언이 논쟁을 일으키고 있습니다. 또한, 신한카드의 애플페이 연동과 메타의 데이터센터 가동이 주목을 받고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 조정하고, 신기술에 대한 투자를 고려하여 사업을 확장하는 것이 중요합니다.",
+  "analyzed_at": "2026-03-29T17:00:34.435Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
