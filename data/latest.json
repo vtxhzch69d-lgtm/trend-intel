@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
+      "topic": "경제 및 정치",
+      "summary": "환율 상승, 대통령의 발언, 경제 정책 등이 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 게임",
+      "summary": "신제품 출시, 기술 발전, 게임 관련 뉴스가热합니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 분석",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "high"
-    },
-    {
-      "topic": "사회",
-      "summary": "사회 문제와 논란",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "사회 및 문화",
+      "summary": "사회 문제, 문화 현象, 개인의 경험 등이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
-    },
-    {
-      "keyword": "사회",
+      "keyword": "환율",
       "count": 5,
       "sentiment": "negative",
-      "context": "사회 문제"
+      "context": "환율 상승에 대한 우려"
+    },
+    {
+      "keyword": "대통령",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "대통령의 발언 및 정책에 대한 비판"
+    },
+    {
+      "keyword": "AI",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전 및 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 10,
     "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "최신 기술을 활용한 마케팅",
-      "action": "최신 기술을 적용한 마케팅 전략 수립",
+      "insight": "환율 상승에 대비하여 금융 상품을 개발해야 합니다.",
+      "action": "금융 상품 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스와 분석을 통한 시장 예측",
-      "action": "경제 뉴스와 분석을 통한 시장 예측 모델 개발",
+      "insight": "AI 기술의 발전을 이용하여 새로운 비즈니스 모델을 개발해야 합니다.",
+      "action": "AI 기술 적용",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 문제와 논란을 통한 브랜드 이미지 향상",
-      "action": "사회 문제와 논란을 통한 브랜드 이미지 향상 전략 수립",
-      "priority": "low"
     }
   ],
-  "narrative": "최신 기술과 경제 뉴스, 사회 문제가 온라인 커뮤니티에서 주목을 받고 있습니다. 최신 기술을 활용한 마케팅과 경제 뉴스와 분석을 통한 시장 예측이 중요한 비즈니스 인사이트입니다. 또한, 사회 문제와 논란을 통한 브랜드 이미지 향상 전략을 수립하는 것도 중요합니다. 중립적인 마케팅 전략을 수립하여 최신 기술과 경제 뉴스, 사회 문제를 모두 고려하는 것이 중요합니다.",
-  "analyzed_at": "2026-03-30T06:30:33.702Z",
+  "narrative": "최근의 트렌드는 경제 및 정치, 기술 및 게임, 사회 및 문화 등 다양한 주제로 나뉘어 있습니다. 환율 상승, 대통령의 발언, 경제 정책 등이 논의되고 있으며, 기술 발전, 게임 관련 뉴스가热합니다. 사회 문제, 문화 현象, 개인의 경험 등도 논의되고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 새로운 비즈니스 모델을 개발해야 합니다.",
+  "analyzed_at": "2026-03-30T07:30:34.000Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
