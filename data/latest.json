@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "이란과의 협상",
-      "summary": "이란과의 협상이 잘 안 되는 이유를 분석하고 있다. 미국의 양보하지 않는 태도, 이란의 협상 방식 등 다양한 요인이 논의되고 있다.",
+      "topic": "이란과 미국의 협상",
+      "summary": "이란과 미국의 협상이 잘 안되는 이유를 분석하고 있다. 미국의 양보하지 않는 태도와 이란의 요구가 맞지 않아 협상이 어려워지고 있다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산 하락",
-      "summary": "부동산 하락이 기정사실로 여겨지고 있다. 다양한 요인이 부동산 시장에 영향을 미치고 있다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "BTS의 빌보드 핫백 1위",
+      "summary": "BTS의 새 앨범 'SWIM'이 빌보드 핫백 1위에 올랐다. 이는 BTS의 7번째 핫백 1위곡이다.",
+      "post_count": 1,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있다. 애플, 구글, 메타 등 주요企業들이 AI 기술을 개발하고 있다.",
-      "post_count": 4,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "이재명 수사",
+      "summary": "이재명 수사에 대한 논란이 계속되고 있다. 일부에서는 수사가 정당하다고 주장하는 반면, 다른 일부에서는 수사가 부당하다고 주장하고 있다.",
+      "post_count": 3,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "이란",
       "count": 7,
       "sentiment": "negative",
-      "context": "이란과의 협상이 잘 안 되는 이유를 분석하고 있다."
+      "context": "이란과 미국의 협상"
     },
     {
-      "keyword": "부동산",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "부동산 하락이 기정사실로 여겨지고 있다."
-    },
-    {
-      "keyword": "AI",
-      "count": 6,
+      "keyword": "BTS",
+      "count": 2,
       "sentiment": "positive",
-      "context": "AI 기술이 다양한 분야에서 적용되고 있다."
+      "context": "BTS의 새 앨범"
+    },
+    {
+      "keyword": "이재명",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "이재명 수사"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 25,
-    "neutral": 10,
-    "overall_mood": "부정적인 기분이 강하다."
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 비중이 높다"
   },
   "business_insights": [
     {
-      "insight": "이란과의 협상이 잘 안 되고 있다.",
-      "action": "이란과의 협상에 대한 대책을 마련해야 한다.",
+      "insight": "이란과 미국의 협상이 어려워지면 국제 정세가 불안정해질 수 있다",
+      "action": "국제 정세를 주시하고 대비책을 마련한다",
       "priority": "high"
     },
     {
-      "insight": "부동산 하락이 기정사실로 여겨지고 있다.",
-      "action": "부동산 시장에 대한 분석을 심도 있게 해야 한다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술이 다양한 분야에서 적용되고 있다.",
-      "action": "AI 기술을 활용한 비즈니스 모델을 개발해야 한다.",
+      "insight": "BTS의 인기로 한국 문화의 글로벌화가 가속화될 수 있다",
+      "action": "한국 문화의 글로벌화에 기여하는 마케팅 전략을 개발한다",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 이란과의 협상이 잘 안 되고 있으며, 부동산 하락이 기정사실로 여겨지고 있다. AI 기술이 다양한 분야에서 적용되고 있으며, 주요企業들이 AI 기술을 개발하고 있다. 이러한 트렌드에 따라 기업들은 이란과의 협상에 대한 대책을 마련하고, 부동산 시장에 대한 분석을 심도 있게 해야 하며, AI 기술을 활용한 비즈니스 모델을 개발해야 한다.",
-  "analyzed_at": "2026-03-30T18:00:34.284Z",
+  "narrative": "이번 주에는 이란과 미국의 협상, BTS의 새 앨범, 이재명 수사 등 다양한 주제가 논의되고 있다. 이란과 미국의 협상은 어려워지며, BTS의 새 앨범은 큰 성공을 거두고 있다. 이재명 수사에 대한 논란도 계속되고 있다. 이러한 주제들은 국제 정세, 한국 문화의 글로벌화, 정치적 안정성 등 다양한 측면에서 영향을 미칠 수 있다. 따라서 이러한 주제를 주시하고 대비책을 마련하는 것이 중요하다.",
+  "analyzed_at": "2026-03-30T18:30:34.556Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
