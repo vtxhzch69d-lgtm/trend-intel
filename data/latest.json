@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이란과의 협상",
-      "summary": "이란과의 협상이 잘 안되는 이유에 대한 추측과 분석",
-      "post_count": 5,
+      "topic": "미국-이란 협상",
+      "summary": "미국과 이란의 협상이 잘 안되는 이유에 대해 논의하고 있으며, 미국의 양보하지 않는 태도와 이란의 협상 방식이 문제라는 의견이 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "BTS",
-      "summary": "BTS의 빌보드 핫백 1위와 관련된 뉴스",
-      "post_count": 2,
+      "summary": "BTS의 새로운 노래 'SWIM'이 빌보드 핫백 1위에 올랐으며, 팬들은 이에 대해 기뻐하고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 하락과 관련된 뉴스",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "이재명",
+      "summary": "이재명의 수사와 관련된 글들이 올라오고 있으며, 일부에서는 이재명에 대한 지지를 나타내고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 7,
+      "keyword": "미국",
+      "count": 15,
       "sentiment": "negative",
-      "context": "이란과의 협상과 관련된 뉴스"
+      "context": "미국-이란 협상과 관련된 글에서 많이 언급되고 있습니다."
+    },
+    {
+      "keyword": "이란",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "미국-이란 협상과 관련된 글에서 많이 언급되고 있습니다."
     },
     {
       "keyword": "BTS",
-      "count": 2,
+      "count": 8,
       "sentiment": "positive",
-      "context": "BTS의 빌보드 핫백 1위와 관련된 뉴스"
-    },
-    {
-      "keyword": "부동산",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "부동산 하락과 관련된 뉴스"
+      "context": "BTS의 새로운 노래와 관련된 글에서 많이 언급되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 뉴스가 많지만 중립적인 뉴스도 많음"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "이란과의 협상이 안되는 이유를 분석하여 대응전략을 수립해야함",
-      "action": "이란과의 협상과 관련된 뉴스를 지속적으로 모니터링",
+      "insight": "미국-이란 협상과 관련된 글들이 많이 올라오고 있으며, 이에 대한 관심이 높아지고 있습니다.",
+      "action": "미국-이란 협상과 관련된 뉴스와 정보를 제공하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "BTS의 인기와 관련된 마케팅 전략을 수립해야함",
-      "action": "BTS와 관련된 뉴스를 분석하여 마케팅 전략을 수립",
+      "insight": "BTS의 새로운 노래가 발매되면서 관련된 글들이 많이 올라오고 있으며, 팬들의 관심이 높아지고 있습니다.",
+      "action": "BTS와 관련된 뉴스와 정보를 제공하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "이번 주에는 이란과의 협상과 관련된 뉴스가 많았으며, 부동산 하락과 관련된 뉴스도 많았습니다. BTS의 빌보드 핫백 1위와 관련된 뉴스도 관심을 끌었습니다. 이러한 뉴스들을 분석하여 대응전략을 수립하고, 마케팅 전략을 수립해야합니다. 또한, 중립적인 뉴스도 많았으므로 다양한 관점에서 뉴스를 분석해야합니다.",
-  "analyzed_at": "2026-03-30T21:00:34.071Z",
+  "narrative": "최근의 트렌드에 따르면, 미국-이란 협상과 관련된 글들이 많이 올라오고 있으며, 이에 대한 관심이 높아지고 있습니다. 또한, BTS의 새로운 노래가 발매되면서 관련된 글들이 많이 올라오고 있으며, 팬들의 관심이 높아지고 있습니다. 이러한 트렌드를 통해, 미국-이란 협상과 관련된 뉴스와 정보를 제공하여 관심을 끌 수 있습니다. 또한, BTS와 관련된 뉴스와 정보를 제공하여 관심을 끌 수 있습니다. 이러한 마케팅 전략을 통해, 관심을 끌고 고객을 유치할 수 있습니다.",
+  "analyzed_at": "2026-03-30T22:00:34.407Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
