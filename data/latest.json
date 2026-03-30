@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 주식",
-      "summary": "코스피 5,200 저지선과 펄어비스 주가 상승 등 경제 및 주식 관련 뉴스가 인기였습니다.",
+      "topic": "정치",
+      "summary": "이재명 대통령 뉴스와 정치 관련된 게시글이 많습니다. 트럼프와 관련된 게시글도 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "이재명 대통령 뉴스와 추미애의 공약 발표 등 정치 관련 뉴스가 인기였습니다.",
+      "topic": "경제",
+      "summary": "주식과 경제 관련된 게시글이 많습니다. 펄어비스와 코스피 관련된 게시글도 있습니다.",
       "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     },
     {
       "topic": "기술",
-      "summary": "AI와 반도체 관련 뉴스가 인기였습니다.",
+      "summary": "AI와 기술 관련된 게시글이 많습니다. 애플과 구글 관련된 게시글도 있습니다.",
       "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스"
-    },
-    {
-      "keyword": "주식",
-      "count": 10,
+      "keyword": "이재명",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "주식 시장과 관련된 뉴스"
+      "context": "대통령 뉴스"
     },
     {
-      "keyword": "정치",
+      "keyword": "트럼프",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "정치 관련된 게시글"
+    },
+    {
+      "keyword": "AI",
       "count": 8,
-      "sentiment": "mixed",
-      "context": "정치와 관련된 뉴스"
+      "sentiment": "positive",
+      "context": "기술 관련된 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 주목받고 있습니다.",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "정치와 경제 관련된 게시글이 많습니다.",
+      "action": "관련된 뉴스와 정보를 제공합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI와 기술 관련된 게시글이 많습니다.",
+      "action": "관련된 제품과 서비스를 개발합니다.",
       "priority": "high"
-    },
-    {
-      "insight": "주식 시장의 변동이 많은 관심을 받고 있습니다.",
-      "action": "주식 시장의 변동을 주시하고 투자 전략을 수립",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치와 관련된 뉴스가 많이 등장하고 있습니다.",
-      "action": "정치와 관련된 뉴스를 주시하고 비즈니스 전략을 수립",
-      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 주식, 정치, 기술 등 다양한 주제가 인기였습니다. AI 기술의 발전과 주식 시장의 변동이 많은 관심을 받고 있습니다. 또한, 정치와 관련된 뉴스가 많이 등장하고 있습니다. 이러한 트렌드를 바탕으로 비즈니스 전략을 수립하고, AI 기술을 활용한 비즈니스 모델 개발 등이 필요합니다.",
-  "analyzed_at": "2026-03-30T02:30:34.078Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 정치와 경제 관련된 게시글이 많습니다. 이재명 대통령 뉴스와 트럼프 관련된 게시글이 많이 있습니다. 또한, AI와 기술 관련된 게시글도 많습니다. 애플과 구글 관련된 게시글도 있습니다. 중립적인 분위기가 유지되고 있습니다. 관련된 뉴스와 정보를 제공하고, 관련된 제품과 서비스를 개발하는 것이 중요합니다.",
+  "analyzed_at": "2026-03-30T03:00:34.274Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
