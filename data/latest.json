@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프와 이란 협상",
-      "summary": "트럼프와 이란 협상이 진행 중이며, 곧 타결 임박할 것으로 보인다. 이란과 미국의 관계 개선이 예상된다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "경제 및 금융",
+      "summary": "코스피 및 나스닥 선물 급락, 주식 시장 불안정",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "코스피와 주식 시장",
-      "summary": "코스피와 주식 시장의 상황이 चर्च되고 있다. 일부 사용자는 주식 시장의 급락에 대한 우려를 나타내고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "정치 및 사회",
+      "summary": "트럼프와 이란 협상, 중동전쟁 특위 추경안 제출",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술과 AI",
-      "summary": "기술과 AI 관련된 주제가 다루어지고 있다. 새로운 기술의 개발과 적용이 चर्च되고 있다.",
-      "post_count": 10,
+      "topic": "기술 및 산업",
+      "summary": "AI 및 드론 산업 발전, 삼성전자 및 애플의 신제품 출시",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,43 +25,43 @@
   "keywords": [
     {
       "keyword": "트럼프",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "이란 협상과 관련된 뉴스"
+      "count": 7,
+      "sentiment": "negative",
+      "context": "이란 협상 및 중동전쟁 관련"
     },
     {
       "keyword": "코스피",
       "count": 5,
       "sentiment": "negative",
-      "context": "주식 시장의 상황"
+      "context": "주식 시장 불안정"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 4,
       "sentiment": "positive",
-      "context": "기술과 AI 관련된 주제"
+      "context": "기술 및 산업 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지된다"
+    "positive": 12,
+    "negative": 20,
+    "neutral": 8,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "기술과 AI 관련된 주제가 증가하고 있다",
-      "action": "기술과 AI 관련된 주제에 대한 투자와 연구를 강화할 필요가 있다",
+      "insight": "주식 시장 불안정",
+      "action": "투자자에게 주의 권고",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 상황이 불안정하다",
-      "action": "주식 시장의 상황을 주시하고, 투자 전략을 조정할 필요가 있다",
+      "insight": "AI 및 드론 산업 발전",
+      "action": "신제품 개발 및 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 트럼프와 이란 협상, 코스피와 주식 시장, 기술과 AI 관련된 주제가 주목을 받고 있다. 기술과 AI 관련된 주제는 증가하고 있으며, 주식 시장의 상황은 불안정하다. 이러한 트렌드에 따라, 기술과 AI 관련된 주제에 대한 투자와 연구를 강화할 필요가 있으며, 주식 시장의 상황을 주시하고, 투자 전략을 조정할 필요가 있다. 또한, 트럼프와 이란 협상이 진행 중이며, 곧 타결 임박할 것으로 보인다. 이러한 트렌드에 대한 지속적인 모니터링과 분석이 필요하다.",
-  "analyzed_at": "2026-03-30T01:00:34.037Z",
+  "narrative": "최근 뽐뿌 및 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 경제 및 금융, 정치 및 사회, 기술 및 산업이 주요 주제로 나타났습니다. 주식 시장 불안정 및 트럼프와 이란 협상이 주요 관심사였으며, AI 및 드론 산업의 발전도 긍정적인 반응을 보였습니다. 그러나 전체적인 기분은 부정적입니다. 따라서 투자자에게 주의를 권고하며, 신제품 개발 및 투자를 통해 AI 및 드론 산업의 기회를 잡아야 합니다.",
+  "analyzed_at": "2026-03-30T01:30:33.902Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
