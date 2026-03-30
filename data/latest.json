@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "김부겸의 출전과 이준석의 출연 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "summary": "이란과 트럼프의 합의, 김부겸의 출마, 이재명의 발언 등 정치 관련 주제가 인기",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI와 반도체 관련 기술이 발전하고 있으며, 이를 활용한 다양한 제품과 서비스가 출시되고 있습니다.",
+      "summary": "AI, 5G, 데이터센터, 보안 등 기술 관련 주제가 인기",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "여성의 외모에 대한 평가와 도난 사건 등 사회 관련 주제가 관심을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "경제",
+      "summary": "경제 관련 주제가 일부 인기",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김부겸",
+      "keyword": "이란",
       "count": 5,
+      "sentiment": "negative",
+      "context": "트럼프의 이란 관련 발언"
+    },
+    {
+      "keyword": "김부겸",
+      "count": 4,
       "sentiment": "positive",
-      "context": "김부겸의 출전과 관련된 글"
+      "context": "김부겸의 출마"
     },
     {
       "keyword": "AI",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 글"
-    },
-    {
-      "keyword": "이준석",
       "count": 3,
-      "sentiment": "negative",
-      "context": "이준석의 출연과 관련된 글"
+      "sentiment": "positive",
+      "context": "AI 기술 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가热한 관심을 받고 있습니다.",
-      "action": "정치 관련 주제에 대한 콘텐츠를 생성하세요.",
+      "insight": "정치 관련 주제가 인기",
+      "action": "정치 관련 콘텐츠 생성",
       "priority": "high"
     },
     {
-      "insight": "AI와 반도체 관련 기술이 발전하고 있습니다.",
-      "action": "AI와 반도체 관련 기술에 대한 투자를 고려하세요.",
+      "insight": "기술 관련 주제가 인기",
+      "action": "기술 관련 콘텐츠 생성",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치와 기술 관련 주제가 중심입니다. 김부겸의 출전과 이준석의 출연 등 정치 관련 주제가熱한 관심을 받고 있으며, AI와 반도체 관련 기술이 발전하고 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 생성하고 투자를 고려하세요. 또한, 여성의 외모에 대한 평가와 도난 사건 등 사회 관련 주제가 관심을 받고 있으므로, 이러한 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-03-30T13:00:34.783Z",
+  "narrative": "최근 정치 관련 주제가 인기이며, 특히 이란과 트럼프의 합의, 김부겸의 출마 등이 주목을 받고 있습니다. 또한 기술 관련 주제도 일부 인기이며, AI, 5G, 데이터센터, 보안 등이 주요 키워드입니다. 경제 관련 주제는 일부 인기이며, 중립적인 감정이 대부분입니다. 이러한 트렌드를 고려하여 정치 및 기술 관련 콘텐츠를 생성하고, 이를 통해 사용자와의 상호작용을 증가시킬 수 있습니다.",
+  "analyzed_at": "2026-03-30T13:30:34.166Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
