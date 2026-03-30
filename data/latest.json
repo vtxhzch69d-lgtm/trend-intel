@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "이란과 미국의 협상",
-      "summary": "이란과 미국의 협상이 잘 안 되는 이유에 대한 논의와 분석이 진행되고 있습니다. 미국의 양보하지 않는 태도와 이란의 요구가 맞지 않아 협상이 어려움을 겪고 있습니다.",
-      "post_count": 5,
+      "summary": "이란과 미국의 협상이 잘 안되는 이유를 분석하고 있다. 미국의 양보하지 않는 태도와 이란의 요구가 맞지 않아 협상이 난항을 겪고 있다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "BTS의 빌보드 핫백 1위",
-      "summary": "BTS의 새 노래 'SWIM'이 빌보드 핫백 1위에 올랐습니다. 이는 BTS의 7번째 핫백 1위곡입니다.",
-      "post_count": 1,
+      "summary": "BTS의 새 앨범 'SWIM'이 빌보드 핫백 1위에 올랐다. 이는 BTS의 7번째 빌보드 핫백 1위곡이다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "이재명 수사",
-      "summary": "이재명 수사에 대한 논의와 분석이 진행되고 있습니다. 박상용 검사의 공개 반박과 관련 뉴스가 있습니다.",
-      "post_count": 2,
-      "sentiment": "mixed",
+      "topic": "한국의 부동산 시장",
+      "summary": "한국의 부동산 시장은 하락하고 있다. 부동산 가격이 떨어지고 있다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이란",
-      "count": 5,
+      "count": 15,
       "sentiment": "negative",
       "context": "이란과 미국의 협상"
     },
     {
       "keyword": "BTS",
-      "count": 2,
+      "count": 10,
       "sentiment": "positive",
-      "context": "BTS의 빌보드 핫백 1위"
+      "context": "BTS의 새 앨범"
     },
     {
-      "keyword": "이재명",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "이재명 수사"
+      "keyword": "부동산",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "한국의 부동산 시장"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이란과 미국의 협상이 어려움을 겪고 있습니다.",
-      "action": "이란과 미국의 협상에 대한 분석과 논의를 진행해야 합니다.",
+      "insight": "이란과 미국의 협상이 안되는 이유를 분석하여 대응전략을 수립해야 한다.",
+      "action": "이란과 미국의 협상 동향을 지속적으로 모니터링한다.",
       "priority": "high"
     },
     {
-      "insight": "BTS의 인기와 영향력이 계속 증가하고 있습니다.",
-      "action": "BTS의 인기와 영향력을 활용한 마케팅 전략을 수립해야 합니다.",
+      "insight": "BTS의 인기로 한국 문화가 세계적으로 알려지고 있다.",
+      "action": "한국 문화를 세계적으로 홍보한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "한국의 부동산 시장은 하락하고 있다.",
+      "action": "부동산 투자 전략을 재검토한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "이번 주에는 이란과 미국의 협상, BTS의 빌보드 핫백 1위, 이재명 수사 등 다양한 주제가 논의되고 있습니다. 이란과 미국의 협상은 어려움을 겪고 있지만, BTS의 인기와 영향력은 계속 증가하고 있습니다. 이러한 트렌드와 인사이트를 활용하여 마케팅 전략을 수립하고, 사업을 발전시키기 위한 액션 플랜을 수립해야 합니다. 또한, 이재명 수사와 관련된 뉴스와 논의를 주시해야 합니다.",
-  "analyzed_at": "2026-03-30T20:00:34.516Z",
+  "narrative": "이번 주에는 이란과 미국의 협상, BTS의 새 앨범, 한국의 부동산 시장 등이 주목을 끌었다. 이란과 미국의 협상은 난항을 겪고 있으며, BTS의 새 앨범은 빌보드 핫백 1위에 올랐다. 한국의 부동산 시장은 하락하고 있다. 이러한 동향을 분석하여 대응전략을 수립해야 한다. 또한, 한국 문화를 세계적으로 홍보하고, 부동산 투자 전략을 재검토해야 한다.",
+  "analyzed_at": "2026-03-30T20:30:34.490Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
