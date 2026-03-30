@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많습니다. 대통령과 정치인에 대한 의견이 분분합니다.",
-      "post_count": 15,
+      "topic": "경기도 교육 정책",
+      "summary": "경기도교육청이 10년 만에 고입에 중 1학년 성적 반영키로 함. 이에 대한 논의가 클리앙 커뮤니티에서 활발히 진행됨.",
+      "post_count": 5,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부동산 시장",
+      "summary": "부동산 하락이 기정사실로 여겨짐. 클리앙 커뮤니티에서 부동산 시장에 대한 논의가 진행됨.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 기술 관련 뉴스가 많습니다. 새로운 기술의 개발과 적용에 대한 관심이 높습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전이 다양한 분야에서 적용됨. 클리언 커뮤니티에서 AI 기술에 대한 논의가 진행됨.",
       "post_count": 10,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스가 많습니다. 금융과 경제 정책에 대한 관심이 높습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술의 개발과 적용에 대한 관심"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
+      "keyword": "경기도",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 정책"
+      "context": "경기도 교육 정책 및 정치 관련 논의"
+    },
+    {
+      "keyword": "부동산",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "부동산 시장 하락 관련 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전 및 적용 관련 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적이며 정보를 공유하고 논의하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 개발과 적용에 대한 관심이 높습니다.",
-      "action": "AI 기술을 활용한 새로운 서비스나 제품을 개발하는 것을 고려합니다.",
+      "insight": "경기도 교육 정책에 대한 관심이 높아짐",
+      "action": "교육 정책 관련 제품이나 서비스 개발",
+      "priority": "medium"
+    },
+    {
+      "insight": "부동산 시장의 하락이 계속될 수 있음",
+      "action": "부동산 관련 비즈니스 전략 재평가",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견이 분분합니다.",
-      "action": "정치 관련 뉴스와 의견을 모니터링하고 대응하는 것을 고려합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스가 많습니다.",
-      "action": "경제 관련 뉴스를 모니터링하고 경제 정책에 대한 의견을 제시하는 것을 고려합니다.",
-      "priority": "medium"
+      "insight": "AI 기술의 발전이 다양한 분야에서 적용됨",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 정치, 기술, 경제 관련 뉴스가 많습니다. AI 기술의 개발과 적용에 대한 관심이 높으며, 정치 관련 뉴스와 의견이 분분합니다. 경제 관련 뉴스도 많으며, 금융과 경제 정책에 대한 관심이 높습니다. 이러한 트렌드를 고려하여 새로운 서비스나 제품을 개발하거나, 정치와 경제 관련 뉴스를 모니터링하고 대응하는 것을 고려합니다.",
-  "analyzed_at": "2026-03-30T14:00:33.984Z",
-  "post_count": 61,
+  "narrative": "클리앙 커뮤니티에서 경기도 교육 정책, 부동산 시장, AI 기술 등 다양한 주제에 대한 논의가 진행됨. 교육 정책과 부동산 시장에 대한 관심이 높아지고 있으며, AI 기술의 발전이 다양한 분야에서 적용되고 있음. 이러한 트렌드를 반영하여 교육 정책 관련 제품이나 서비스 개발, 부동산 관련 비즈니스 전략 재평가, AI 기술을 활용한 새로운 비즈니스 모델 개발 등 다양한 비즈니스 기회가 존재함.",
+  "analyzed_at": "2026-03-30T15:00:35.659Z",
+  "post_count": 59,
   "sources": [
     "ppomppu",
     "clien"
