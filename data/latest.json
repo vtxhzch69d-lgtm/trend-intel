@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "김부겸",
-      "summary": "대구시장 선거와 관련된 김부겸에 대한 논의",
+      "summary": "김부겸 전 총리의 연설과 대구 시장 출마에 대한 논의",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
+      "topic": "유시민",
+      "summary": "유시민의 발언과 책에 대한 논의",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "low"
+    },
+    {
       "topic": "이란",
-      "summary": "이란의 호르무즈 통행료 징수와 관련된 논의",
+      "summary": "이란과 관련된 국제 정치 및 경제 뉴스",
       "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
-    },
-    {
-      "topic": "유시민",
-      "summary": "유시민의 발언과 관련된 논의",
-      "post_count": 3,
-      "sentiment": "mixed",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "김부겸",
       "count": 7,
+      "sentiment": "positive",
+      "context": "대구 시장 출마"
+    },
+    {
+      "keyword": "유시민",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "대구시장 선거와 관련된 논의"
+      "context": "책과 발언"
     },
     {
       "keyword": "이란",
       "count": 4,
       "sentiment": "negative",
-      "context": "호르무즈 통행료 징수와 관련된 논의"
-    },
-    {
-      "keyword": "유시민",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "발언과 관련된 논의"
+      "context": "국제 정치 및 경제"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 15,
-    "neutral": 20,
+    "negative": 8,
+    "neutral": 12,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "대구시장 선거와 관련된 논의가 증가하고 있다",
-      "action": "관련된 뉴스와 정보를 제공하여 사용자들의 관심을 끌기",
-      "priority": "medium"
+      "insight": "정치와 경제 뉴스가 많은 관심을 받고 있다",
+      "action": "관련 뉴스와 정보를 제공",
+      "priority": "high"
     },
     {
-      "insight": "이란의 호르무즈 통행료 징수와 관련된 논의가 증가하고 있다",
-      "action": "관련된 뉴스와 정보를 제공하여 사용자들의 관심을 끌기",
-      "priority": "high"
+      "insight": "김부겸과 유시민은 중요한 인물이다",
+      "action": "관련 정보와 뉴스를 제공",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 대구시장 선거와 관련된 논의, 이란의 호르무즈 통행료 징수와 관련된 논의, 유시민의 발언과 관련된 논의 등이다. 사용자들은 이러한 주제에 대해 관심을 가지고 있으며, 관련된 뉴스와 정보를 제공하여 사용자들의 관심을 끌 수 있다. 또한, 사용자들의 감정은 중립적이며, 긍정적, 부정적, 중립적인 의견이 혼재되어 있다. 따라서, 관련된 뉴스와 정보를 제공하여 사용자들의 관심을 끌고, 사용자들의 감정을 고려하여 콘텐츠를 제공하는 것이 중요하다.",
-  "analyzed_at": "2026-03-30T11:30:33.475Z",
+  "narrative": "최근의 트렌드는 정치와 경제 뉴스에 대한 관심이 많습니다. 김부겸과 유시민은 중요한 인물로 등장하고 있습니다. 또한 이란과 관련된 국제 정치 및 경제 뉴스도 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여 관련 뉴스와 정보를 제공하는 것이 중요합니다. 또한 김부겸과 유시민에 대한 정보와 뉴스를 제공하여 사용자의 관심을满足하는 것이 필요합니다.",
+  "analyzed_at": "2026-03-30T12:30:33.671Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
