@@ -1,98 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "주식",
-      "summary": "주식에 대한 다양한 의견과 정보가 공유되고 있습니다.",
-      "post_count": 5,
+      "topic": "경제 및 정치",
+      "summary": "최근의 경제 및 정치 관련 뉴스와 논제가 많은 관심을 받고 있습니다. 주식, ETF, 고용유연성, 대통령의 정책 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 활발하게 공유되고 있습니다.",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술과 과학 관련 뉴스와 논제가 많은 관심을 받고 있습니다. AI, 5G, 6G, 데이터센터, 보안 등 다양한 주제가 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드가 обсужд되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 정보가 공유되고 있습니다.",
+      "topic": "사회 및 문화",
+      "summary": "최근의 사회 및 문화 관련 뉴스와 논제가 많은 관심을 받고 있습니다. 교육, 환경, 보건 등 다양한 주제가 논의되고 있습니다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
-    },
-    {
-      "topic": "사회",
-      "summary": "사회 관련 뉴스와 의견이 공유되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "mixed",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 관련 정보"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 트렌드"
+      "context": "최신 기술과 과학 관련 뉴스와 논제"
     },
     {
-      "keyword": "경제",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "경제 관련 정보"
-    },
-    {
-      "keyword": "사회",
-      "count": 10,
+      "keyword": "주식",
+      "count": 4,
       "sentiment": "mixed",
-      "context": "사회 관련 뉴스"
+      "context": "경제 및 정치 관련 뉴스와 논제"
+    },
+    {
+      "keyword": "5G",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "최신 기술과 과학 관련 뉴스와 논제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "중립적이고 다양한 의견이 공유되고 있습니다."
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 변동성에 대한 관심이 높아지고 있습니다.",
-      "action": "주식 시장의 동향을 주시하고 투자 전략을 조정해야 합니다.",
+      "insight": "최신 기술과 과학 관련 뉴스와 논제가 많은 관심을 받고 있습니다.",
+      "action": "최신 기술과 과학 관련 제품이나 서비스를 개발하여 출시하는 것을 고려할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 트렌드에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 트렌드에 대한 정보를 수집하고 사업 전략을 조정해야 합니다.",
+      "insight": "경제 및 정치 관련 뉴스와 논제가 많은 관심을 받고 있습니다.",
+      "action": "경제 및 정치 관련 뉴스와 논제를 분석하여 이를 반영한 마케팅 전략을 수립하는 것을 고려할 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스와 정보가 중요하게 여겨지고 있습니다.",
-      "action": "경제 관련 뉴스와 정보를 수집하고 사업 전략을 조정해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "현재 온라인 커뮤니티에서는 주식, 정치, 기술, 경제, 사회 등 다양한 주제에 대한 의견과 정보가 공유되고 있습니다. 주식 시장의 변동성에 대한 관심이 높아지고 있으며, 최신 기술 트렌드에 대한 관심도 높아지고 있습니다. 또한, 경제 관련 뉴스와 정보가 중요하게 여겨지고 있습니다. 이러한 트렌드와 의견을 분석하여 사업 전략을 조정하고, 최신 기술 트렌드와 경제 관련 정보를 수집하여 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-03-30T05:30:34.177Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 경제 및 정치, 기술 및 과학, 사회 및 문화 관련 뉴스와 논제가 많은 관심을 받고 있습니다. 최신 기술과 과학 관련 뉴스와 논제는 많은 관심을 받고 있으며, 이를 반영한 마케팅 전략을 수립하는 것을 고려할 수 있습니다. 또한, 경제 및 정치 관련 뉴스와 논제를 분석하여 이를 반영한 마케팅 전략을 수립하는 것을 고려할 수 있습니다.",
+  "analyzed_at": "2026-03-30T06:00:33.725Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
