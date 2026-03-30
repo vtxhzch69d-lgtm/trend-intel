@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "경제 및 금융",
-      "summary": "환율 상승, 주식 동전주 상폐, ISA 계좌 개편 등 경제 및 금융 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 10,
+      "summary": "환율이 심각하게 오르고 있으며, 주식 동전주들은 상폐를 시키는 것으로 나타났습니다. 또한, 무위험 5% 주는 상품이 등장했습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "정치",
-      "summary": "이 대통령의 발언, 정치권의 대응 등 정치 관련 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 8,
+      "summary": "이 대통령이 정치인에 대해 신념과 가치의 실험은 옳지 않다고 말했습니다. 또한, 무늬만 본사인 카카오와 넥슨을 겨냥했습니다.",
+      "post_count": 4,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI, 주식, 기술 관련 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "기술",
+      "summary": "AI와 관련된 기술이 발전하고 있으며, 오픈AI가 제미나이나 다른 AI에 비해 뒤떨어지는 느낌이 있습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "환율",
-      "count": 5,
+      "count": 2,
       "sentiment": "negative",
-      "context": "환율 상승에 대한 우려"
+      "context": "환율이 심각하게 오르고 있음"
     },
     {
       "keyword": "주식",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "주식 동전주 상폐 등 주식 관련 뉴스"
+      "count": 2,
+      "sentiment": "negative",
+      "context": "주식 동전주들이 상폐를 시키는 것으로 나타남"
     },
     {
       "keyword": "AI",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전 및 적용"
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "AI와 관련된 기술이 발전하고 있음"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 25,
-    "overall_mood": "부정적인 감정의 비중이 높지만 중립적인 감정도 많습니다."
+    "positive": 5,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정이 다소 강한 것으로 나타남"
   },
   "business_insights": [
     {
-      "insight": "환율 상승에 대비하여 수출입 기업의 대응 전략을 수립해야 합니다.",
-      "action": "환율 변동에 대한 모니터링 및 대응 계획 수립",
+      "insight": "환율의 변동이 경제에 미치는 영향",
+      "action": "환율의 변동을 주시하고 대응策을 마련해야 함",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다.",
-      "action": "AI 기술의 적용 가능성을 연구하고 투자할 산업을 탐색",
+      "insight": "AI와 관련된 기술의 발전",
+      "action": "AI와 관련된 기술을 연구하고 투자해야 함",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융 관련 주제가 많은 관심을 받고 있습니다. 환율 상승, 주식 동전주 상폐 등 경제 불안정성에 대한 우려가 높아지고 있습니다. 또한, AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다. 따라서, 기업은 환율 변동에 대한 모니터링 및 대응 계획을 수립하고, AI 기술의 적용 가능성을 연구하여 새로운 기회를 창출할 수 있어야 합니다. 또한, 정치 관련 주제도 많은 관심을 받고 있으므로, 기업은 정치적 변동에 대한 모니터링을 통해リス크를 관리해야 합니다.",
-  "analyzed_at": "2026-03-30T08:00:34.386Z",
+  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융, 정치, 기술 등 다양한 주제가 등장했습니다. 환율의 변동이 경제에 미치는 영향과 AI와 관련된 기술의 발전이 주목할 만한 내용입니다. 이러한 트렌드를 고려하여 사업 전략을 수립하고 대응策을 마련하는 것이 중요할 것으로 보입니다.",
+  "analyzed_at": "2026-03-30T08:30:33.623Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
