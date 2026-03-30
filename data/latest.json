@@ -2,44 +2,44 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이란과 트럼프의 합의, 김부겸의 출마, 이재명의 발언 등 정치 관련 주제가 인기",
+      "summary": "최근 정치 관련 게시글이 많습니다. 대통령과 정치인에 대한 의견이 분분합니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI, 5G, 데이터센터, 보안 등 기술 관련 주제가 인기",
+      "summary": "AI와 기술 관련 뉴스가 많습니다. 새로운 기술의 개발과 적용에 대한 관심이 높습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 주제가 일부 인기",
-      "post_count": 5,
+      "summary": "경제 관련 뉴스가 많습니다. 금융과 경제 정책에 대한 관심이 높습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "트럼프의 이란 관련 발언"
-    },
-    {
-      "keyword": "김부겸",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "김부겸의 출마"
-    },
-    {
       "keyword": "AI",
-      "count": 3,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술 관련 주제"
+      "context": "AI 기술의 개발과 적용에 대한 관심"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스와 정책"
     }
   ],
   "sentiment_overview": {
@@ -50,18 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 인기",
-      "action": "정치 관련 콘텐츠 생성",
+      "insight": "AI 기술의 개발과 적용에 대한 관심이 높습니다.",
+      "action": "AI 기술을 활용한 새로운 서비스나 제품을 개발하는 것을 고려합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 주제가 인기",
-      "action": "기술 관련 콘텐츠 생성",
+      "insight": "정치 관련 뉴스와 의견이 분분합니다.",
+      "action": "정치 관련 뉴스와 의견을 모니터링하고 대응하는 것을 고려합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스가 많습니다.",
+      "action": "경제 관련 뉴스를 모니터링하고 경제 정책에 대한 의견을 제시하는 것을 고려합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 관련 주제가 인기이며, 특히 이란과 트럼프의 합의, 김부겸의 출마 등이 주목을 받고 있습니다. 또한 기술 관련 주제도 일부 인기이며, AI, 5G, 데이터센터, 보안 등이 주요 키워드입니다. 경제 관련 주제는 일부 인기이며, 중립적인 감정이 대부분입니다. 이러한 트렌드를 고려하여 정치 및 기술 관련 콘텐츠를 생성하고, 이를 통해 사용자와의 상호작용을 증가시킬 수 있습니다.",
-  "analyzed_at": "2026-03-30T13:30:34.166Z",
+  "narrative": "최근 정치, 기술, 경제 관련 뉴스가 많습니다. AI 기술의 개발과 적용에 대한 관심이 높으며, 정치 관련 뉴스와 의견이 분분합니다. 경제 관련 뉴스도 많으며, 금융과 경제 정책에 대한 관심이 높습니다. 이러한 트렌드를 고려하여 새로운 서비스나 제품을 개발하거나, 정치와 경제 관련 뉴스를 모니터링하고 대응하는 것을 고려합니다.",
+  "analyzed_at": "2026-03-30T14:00:33.984Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
