@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "환율이 심각하게 오르고 있으며, 주식 동전주들은 상폐를 시키는 것으로 나타났습니다. 또한, 무위험 5% 주는 상품이 등장했습니다.",
-      "post_count": 5,
+      "topic": "환율",
+      "summary": "환율이 심각하다는 게시글이 여러 개 등장했습니다. 트럼프의 영향으로 환율이 높아진 것으로 보입니다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이 대통령이 정치인에 대해 신념과 가치의 실험은 옳지 않다고 말했습니다. 또한, 무늬만 본사인 카카오와 넥슨을 겨냥했습니다.",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "경제 관련 게시글이 많이 등장했습니다. 산업부의 러시아산 나프타 수입, 삼성전자의 앱장 상승, 광화문 받들어총 모형 등 다양한 주제가 다루어졌습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술이 발전하고 있으며, 오픈AI가 제미나이나 다른 AI에 비해 뒤떨어지는 느낌이 있습니다.",
-      "post_count": 3,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치 관련 게시글이 여러 개 등장했습니다. 조정훈 국힘 의원 공천헌금 의혹, 유시민의 이재명에 대한 발언 등 다양한 주제가 다루어졌습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "환율",
-      "count": 2,
+      "count": 5,
       "sentiment": "negative",
-      "context": "환율이 심각하게 오르고 있음"
+      "context": "트럼프의 영향으로 환율이 높아진 것으로 보입니다."
     },
     {
-      "keyword": "주식",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "주식 동전주들이 상폐를 시키는 것으로 나타남"
-    },
-    {
-      "keyword": "AI",
-      "count": 2,
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "AI와 관련된 기술이 발전하고 있음"
+      "context": "산업부의 러시아산 나프타 수입, 삼성전자의 앱장 상승 등 다양한 경제 관련 주제가 다루어졌습니다."
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "조정훈 국힘 의원 공천헌금 의혹, 유시민의 이재명에 대한 발언 등 다양한 정치 관련 주제가 다루어졌습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 다소 강한 것으로 나타남"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부 부정적인 게시글이 존재합니다."
   },
   "business_insights": [
     {
       "insight": "환율의 변동이 경제에 미치는 영향",
-      "action": "환율의 변동을 주시하고 대응策을 마련해야 함",
+      "action": "환율의 변동을 주시하고, 경제에 미치는 영향을 분석하여 대응策을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술의 발전",
-      "action": "AI와 관련된 기술을 연구하고 투자해야 함",
+      "insight": "경제 관련 주제의 인기",
+      "action": "경제 관련 주제에 대한 게시글을 더 많이 작성하여, 사용자의 관심을 끌어야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 주제의 혼재",
+      "action": "정치 관련 주제에 대한 게시글을 작성할 때, 중립적인 입장을 유지하고, 다양한 관점을 고려해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융, 정치, 기술 등 다양한 주제가 등장했습니다. 환율의 변동이 경제에 미치는 영향과 AI와 관련된 기술의 발전이 주목할 만한 내용입니다. 이러한 트렌드를 고려하여 사업 전략을 수립하고 대응策을 마련하는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-03-30T08:30:33.623Z",
+  "narrative": "최근의 트렌드 분석 결과, 환율, 경제, 정치 등 다양한 주제가 다루어졌습니다. 환율의 변동이 경제에 미치는 영향, 경제 관련 주제의 인기, 정치 관련 주제의 혼재 등 다양한 인사이트를 얻을 수 있었습니다. 이러한 인사이트를 바탕으로, 사용자의 관심을 끌기 위한 전략을 마련하고, 중립적인 입장을 유지하여 다양한 관점을 고려하는 것이 중요합니다.",
+  "analyzed_at": "2026-03-30T09:30:34.480Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
