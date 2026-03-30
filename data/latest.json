@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "물가 상승과 경제 불안정에 대한 우려",
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 이슈",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 현안과 정책에 대한 논의",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "最近의 경제 뉴스와 이슈",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "AI와 기술 발전에 대한 관심",
-      "post_count": 6,
+      "summary": "最近의 기술 뉴스와 이슈",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "물가",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "물가 상승에 대한 우려"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "경제",
-      "count": 10,
+      "count": 15,
       "sentiment": "negative",
-      "context": "경제 불안정에 대한 우려"
+      "context": "경제 상황의 악화"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "AI와 기술 발전에 대한 관심"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 뉴스와 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 25,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 기분"
   },
   "business_insights": [
     {
-      "insight": "물가 상승에 대한 우려가 높아지고 있다",
-      "action": "물가 상승에 대한 대응 전략 수립",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술 발전에 대한 관심이 높아지고 있다",
-      "action": "AI와 기술 발전에 대한 투자 및 연구",
+      "insight": "경제 상황의 악화",
+      "action": "경제 상황에 대응한 비즈니스 전략 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 뉴스와 이슈",
+      "action": "정치 뉴스와 이슈에 대한 모니터링",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 온라인 커뮤니티 트렌드 분석 결과, 물가 상승과 경제 불안정에 대한 우려가 높아지고 있는 것으로 나타났다. 또한, AI와 기술 발전에 대한 관심이 높아지고 있는 것으로 나타났다. 이러한 트렌드에 대한 분석과 대응 전략 수립이 필요하다. 또한, 물가 상승에 대한 대응 전략 수립과 AI와 기술 발전에 대한 투자 및 연구가 필요하다.",
-  "analyzed_at": "2026-03-30T03:30:33.005Z",
+  "narrative": "最近의 정치, 경제, 기술 뉴스와 이슈가 커뮤니티에서 많이 обсужд되고 있습니다. AI 기술의 발전은 많은 관심을 받고 있으며, 경제 상황의 악화는 많은 우려를 받고 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 개발하는 것이 중요합니다.",
+  "analyzed_at": "2026-03-30T04:00:34.201Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
