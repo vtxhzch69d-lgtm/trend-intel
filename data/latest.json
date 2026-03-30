@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "서울시장 선거와 정치 관련 뉴스가 많이 обсужд되고 있습니다.",
-      "post_count": 10,
+      "topic": "이란 문제",
+      "summary": "이란의 호르무즈 통행료 징수와 관련된 문제가 논의되고 있습니다. 일부 국가들은 이란의 조치를 지지하는 반면, 다른 국가들은 이를 비판하고 있습니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "신기술과 관련된 뉴스와 제품 출시가 많이 обсужд되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "김부겸 연설",
+      "summary": "김부겸의 연설이 논의되고 있습니다. 일부 사용자는 그의 연설을 칭찬하는 반면, 다른 사용자는 비판하고 있습니다.",
+      "post_count": 3,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 기업 동향이 많이 обсужд되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "neutral",
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스가 논의되고 있습니다. 새로운 기술의 개발과 출시가 언급되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "서울시장",
+      "keyword": "이란",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "서울시장 선거 관련 뉴스"
+      "sentiment": "negative",
+      "context": "이란의 호르무즈 통행료 징수와 관련된 문제"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "신기술과 관련된 뉴스"
+      "keyword": "김부겸",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "김부겸의 연설"
     },
     {
-      "keyword": "경제",
+      "keyword": "기술",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "신기술과 관련된 뉴스가 많이 обсужд되고 있습니다.",
-      "action": "신기술에 대한 투자와 연구를 강화해야 합니다.",
+      "insight": "이란의 호르무즈 통행료 징수는 글로벌 경제에 영향을 미칠 수 있습니다.",
+      "action": "글로벌 경제 동향을 주시하고, 필요한 대책을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스가 많이 обсужд되고 있습니다.",
-      "action": "경제 동향을 주시하고 대응策을 마련해야 합니다.",
+      "insight": "최신 기술의 개발과 출시는 비즈니스 기회를 창출할 수 있습니다.",
+      "action": "최신 기술을 연구하고, 이를 비즈니스에 적용해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 정치와 기술, 경제 관련 뉴스가 많이 обсужд되고 있습니다. 신기술과 관련된 뉴스는 많은 관심을 받고 있으며, 경제 관련 뉴스는 중립적인 반응을 보이고 있습니다. 이러한 트렌드를 분석하여 신기술에 대한 투자와 연구를 강화하고, 경제 동향을 주시하여 대응策을 마련하는 것이 중요합니다.",
-  "analyzed_at": "2026-03-30T10:30:33.776Z",
+  "narrative": "이번 주에는 이란의 호르무즈 통행료 징수와 관련된 문제가 논의되고 있습니다. 일부 국가들은 이란의 조치를 지지하는 반면, 다른 국가들은 이를 비판하고 있습니다. 또한, 김부겸의 연설이 논의되고 있습니다. 일부 사용자는 그의 연설을 칭찬하는 반면, 다른 사용자는 비판하고 있습니다. 최신 기술 뉴스도 논의되고 있습니다. 새로운 기술의 개발과 출시가 언급되고 있습니다. 이러한 동향을 고려하여, 비즈니스 기회를 창출하고, 글로벌 경제 동향을 주시해야 합니다.",
+  "analyzed_at": "2026-03-30T11:00:34.597Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
