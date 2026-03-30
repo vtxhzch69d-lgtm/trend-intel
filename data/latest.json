@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "코스피 및 나스닥 선물 급락, 주식 시장 불안정",
-      "post_count": 15,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "트럼프와 이란 협상, 중동전쟁 특위 추경안 제출",
+      "topic": "경제 및 주식",
+      "summary": "코스피 5,200 저지선과 펄어비스 주가 상승 등 경제 및 주식 관련 뉴스가 인기였습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "AI 및 드론 산업 발전, 삼성전자 및 애플의 신제품 출시",
+      "topic": "정치",
+      "summary": "이재명 대통령 뉴스와 추미애의 공약 발표 등 정치 관련 뉴스가 인기였습니다.",
       "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI와 반도체 관련 뉴스가 인기였습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "이란 협상 및 중동전쟁 관련"
-    },
-    {
-      "keyword": "코스피",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "주식 시장 불안정"
-    },
-    {
       "keyword": "AI",
-      "count": 4,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 및 산업 발전"
+      "context": "AI 기술의 발전과 관련된 뉴스"
+    },
+    {
+      "keyword": "주식",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "주식 시장과 관련된 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 12,
-    "negative": 20,
-    "neutral": 8,
-    "overall_mood": "부정적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장 불안정",
-      "action": "투자자에게 주의 권고",
+      "insight": "AI 기술의 발전이 주목받고 있습니다.",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 및 드론 산업 발전",
-      "action": "신제품 개발 및 투자",
+      "insight": "주식 시장의 변동이 많은 관심을 받고 있습니다.",
+      "action": "주식 시장의 변동을 주시하고 투자 전략을 수립",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치와 관련된 뉴스가 많이 등장하고 있습니다.",
+      "action": "정치와 관련된 뉴스를 주시하고 비즈니스 전략을 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 뽐뿌 및 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 경제 및 금융, 정치 및 사회, 기술 및 산업이 주요 주제로 나타났습니다. 주식 시장 불안정 및 트럼프와 이란 협상이 주요 관심사였으며, AI 및 드론 산업의 발전도 긍정적인 반응을 보였습니다. 그러나 전체적인 기분은 부정적입니다. 따라서 투자자에게 주의를 권고하며, 신제품 개발 및 투자를 통해 AI 및 드론 산업의 기회를 잡아야 합니다.",
-  "analyzed_at": "2026-03-30T01:30:33.902Z",
+  "narrative": "최근의 트렌드 분석 결과, 경제 및 주식, 정치, 기술 등 다양한 주제가 인기였습니다. AI 기술의 발전과 주식 시장의 변동이 많은 관심을 받고 있습니다. 또한, 정치와 관련된 뉴스가 많이 등장하고 있습니다. 이러한 트렌드를 바탕으로 비즈니스 전략을 수립하고, AI 기술을 활용한 비즈니스 모델 개발 등이 필요합니다.",
+  "analyzed_at": "2026-03-30T02:30:34.078Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
