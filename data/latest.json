@@ -1,72 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "토트넘 현황",
-      "summary": "토트넘의 감독 경질과 선수 현황에 대한 논의",
-      "post_count": 3,
+      "topic": "주식",
+      "summary": "주식에 대한 다양한 의견과 정보가 공유되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견이 활발하게 공유되고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 물가",
-      "summary": "물가 상승과 경제 상황에 대한 우려",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드가 обсужд되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI의 발전과 기술 뉴스에 대한 관심",
-      "post_count": 10,
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 정보가 공유되고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
+    },
+    {
+      "topic": "사회",
+      "summary": "사회 관련 뉴스와 의견이 공유되고 있습니다.",
+      "post_count": 12,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "토트넘",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "토트넘의 감독 경질과 선수 현황"
+      "keyword": "주식",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "주식 관련 정보"
     },
     {
-      "keyword": "물가",
-      "count": 3,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "negative",
-      "context": "물가 상승과 경제 상황"
+      "context": "정치 관련 뉴스"
     },
     {
       "keyword": "AI",
       "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 트렌드"
+    },
+    {
+      "keyword": "경제",
+      "count": 12,
       "sentiment": "neutral",
-      "context": "AI의 발전과 기술 뉴스"
+      "context": "경제 관련 정보"
+    },
+    {
+      "keyword": "사회",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "사회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "중립적이고 다양한 의견이 공유되고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "토트넘의 감독 경질과 선수 현황에 대한 관심이 높아짐",
-      "action": "토트넘 관련 뉴스와 분석 제공",
+      "insight": "주식 시장의 변동성에 대한 관심이 높아지고 있습니다.",
+      "action": "주식 시장의 동향을 주시하고 투자 전략을 조정해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "물가 상승과 경제 상황에 대한 우려가 증가",
-      "action": "경제 뉴스와 분석 제공",
+      "insight": "최신 기술 트렌드에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 트렌드에 대한 정보를 수집하고 사업 전략을 조정해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI의 발전과 기술 뉴스에 대한 관심이 증가",
-      "action": "AI 관련 뉴스와 분석 제공",
+      "insight": "경제 관련 뉴스와 정보가 중요하게 여겨지고 있습니다.",
+      "action": "경제 관련 뉴스와 정보를 수집하고 사업 전략을 조정해야 합니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근 토트넘의 감독 경질과 선수 현황에 대한 관심이 높아졌으며, 물가 상승과 경제 상황에 대한 우려도 증가하고 있습니다. 또한, AI의 발전과 기술 뉴스에 대한 관심도 증가하고 있습니다. 이러한 트렌드를 반영하여, 토트넘 관련 뉴스와 분석, 경제 뉴스와 분석, AI 관련 뉴스와 분석을 제공함으로써 사용자의 관심을 끌고 유지할 수 있습니다.",
-  "analyzed_at": "2026-03-30T05:00:33.421Z",
+  "narrative": "현재 온라인 커뮤니티에서는 주식, 정치, 기술, 경제, 사회 등 다양한 주제에 대한 의견과 정보가 공유되고 있습니다. 주식 시장의 변동성에 대한 관심이 높아지고 있으며, 최신 기술 트렌드에 대한 관심도 높아지고 있습니다. 또한, 경제 관련 뉴스와 정보가 중요하게 여겨지고 있습니다. 이러한 트렌드와 의견을 분석하여 사업 전략을 조정하고, 최신 기술 트렌드와 경제 관련 정보를 수집하여 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-03-30T05:30:34.177Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
