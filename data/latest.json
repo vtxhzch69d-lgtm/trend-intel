@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "이란과의 협상, 미국의 이란 점령 가능성, 부동산 하락 등 정치 및 사회 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "이란과의 협상",
+      "summary": "이란과의 협상이 잘 안 되는 이유에 대해 다양한 의견이 나오고 있습니다. 미국의 양보할 생각이 없는 것이 주요 원인으로 꼽히고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI, 5G, 데이터센터, 보안 등 기술 및 과학 관련 주제가 많이 обсужд되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "부동산 하락",
+      "summary": "부동산 하락이 기정사실로 받아들여지고 있으며, 주택담보대출을 당연한 권리라고 생각하는 사람이 많습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "주택담보대출, 카드발급시장, 디지털화 등 경제 및 금융 관련 주제가 많이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 애플과 구글이 AI 마케팅 임원 영입 등으로 AI 기술을 강화하고 있습니다.",
+      "post_count": 4,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,41 +27,46 @@
       "keyword": "이란",
       "count": 5,
       "sentiment": "negative",
-      "context": "이란과의 협상 관련 논의"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "AI 기술 및 응용 관련 논의"
+      "context": "이란과의 협상이 잘 안 되는 이유"
     },
     {
       "keyword": "부동산",
-      "count": 4,
+      "count": 3,
       "sentiment": "negative",
-      "context": "부동산 하락 관련 논의"
+      "context": "부동산 하락"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 비중이 높습니다."
   },
   "business_insights": [
     {
-      "insight": "기술 및 과학 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "기술 및 과학 관련 콘텐츠 개발",
+      "insight": "이란과의 협상이 잘 안 되는 이유를 분석하여 대응 전략을 수립해야 합니다.",
+      "action": "외교적 노력을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제가 많은 논의되고 있습니다.",
-      "action": "경제 및 금융 관련 콘텐츠 개발",
+      "insight": "부동산 하락의 영향을 최소화하기 위해 부동산 투자 전략을 재검토해야 합니다.",
+      "action": "부동산 투자 전략을 재검토해야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전을 활용하여 비즈니스 모델을 혁신해야 합니다.",
+      "action": "AI 기술을 활용하여 비즈니스 모델을 혁신해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 정치 및 사회, 기술 및 과학, 경제 및 금융 관련 주제가 많은 관심을 받고 있습니다. 기술 및 과학 관련 주제는 많은 긍정적인 논의를 보이고 있으며, 경제 및 금융 관련 주제는 중립적인 논의를 보이고 있습니다. 이러한 트렌드를 반영하여 기술 및 과학 관련 콘텐츠 개발을 우선적으로 진행하는 것이 좋을 것입니다. 또한, 경제 및 금융 관련 콘텐츠 개발도 필요합니다.",
-  "analyzed_at": "2026-03-30T15:30:34.201Z",
+  "narrative": "최근의 트렌드 분석 결과, 이란과의 협상이 잘 안 되는 이유와 부동산 하락이 주요 관심사로 나타났습니다. 또한, AI 기술의 발전이 다양한 분야에서 적용되고 있으며, 이를 활용하여 비즈니스 모델을 혁신해야 합니다. 이러한 트렌드를 분석하여 대응 전략을 수립하고, 비즈니스 모델을 혁신하여 경쟁력을 강화해야 합니다.",
+  "analyzed_at": "2026-03-30T16:00:34.811Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
