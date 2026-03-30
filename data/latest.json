@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "최근의 경제 및 정치 관련 뉴스와 이슈가 주목을 받고 있습니다. 환율, 주식시장, 정치인들의 활동 등이 주요 관심사입니다.",
-      "post_count": 15,
+      "topic": "정치",
+      "summary": "서울시장 선거와 정치 관련 뉴스가 많이 обсужд되고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "신기술 및 과학 관련 뉴스와 이슈가 주목을 받고 있습니다. AI, 5G, 데이터센터 등이 주요 관심사입니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "신기술과 관련된 뉴스와 제품 출시가 많이 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 관련 뉴스와 이슈가 주목을 받고 있습니다. 교육, 환경, 예술 등이 주요 관심사입니다.",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 기업 동향이 많이 обсужд되고 있습니다.",
+      "post_count": 12,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "환율",
+      "keyword": "서울시장",
       "count": 5,
-      "sentiment": "negative",
-      "context": "환율의 급등에 대한 우려"
+      "sentiment": "neutral",
+      "context": "서울시장 선거 관련 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "신기술과 관련된 뉴스"
     },
     {
       "keyword": "경제",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "경제 상황과 정책에 대한 논의"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 12,
-    "negative": 10,
-    "neutral": 18,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "경제 및 정치 관련 뉴스와 이슈가 주목을 받고 있습니다.",
-      "action": "관련된 기업이나 산업에 대한 투자와 지원을 고려합니다.",
+      "insight": "신기술과 관련된 뉴스가 많이 обсужд되고 있습니다.",
+      "action": "신기술에 대한 투자와 연구를 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "신기술 및 과학 관련 뉴스와 이슈가 주목을 받고 있습니다.",
-      "action": "신기술과 과학에 대한 투자와 연구를 강화합니다.",
+      "insight": "경제 관련 뉴스가 많이 обсужд되고 있습니다.",
+      "action": "경제 동향을 주시하고 대응策을 마련해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 경제 및 정치, 기술 및 과학, 사회 및 문화 등 다양한 주제를 다루고 있습니다. 환율, 주식시장, 정치인들의 활동 등이 주요 관심사입니다. 또한, 신기술 및 과학 관련 뉴스와 이슈가 주목을 받고 있습니다. 이러한 트렌드는 기업과 기관에 대한 투자와 지원, 신기술과 과학에 대한 연구와 개발 등 다양한 비즈니스 기회를 제공하고 있습니다. 중립적인 감정과 높은 긴급성이 특징입니다.",
-  "analyzed_at": "2026-03-30T10:00:33.856Z",
+  "narrative": "최근의 트렌드에 따르면, 정치와 기술, 경제 관련 뉴스가 많이 обсужд되고 있습니다. 신기술과 관련된 뉴스는 많은 관심을 받고 있으며, 경제 관련 뉴스는 중립적인 반응을 보이고 있습니다. 이러한 트렌드를 분석하여 신기술에 대한 투자와 연구를 강화하고, 경제 동향을 주시하여 대응策을 마련하는 것이 중요합니다.",
+  "analyzed_at": "2026-03-30T10:30:33.776Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
