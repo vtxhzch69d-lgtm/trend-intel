@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "이란과의 협상",
-      "summary": "이란과의 협상이 잘 안 되는 이유에 대해 다양한 의견이 나오고 있습니다. 미국의 양보할 생각이 없는 것이 주요 원인으로 꼽히고 있습니다.",
+      "summary": "이란과의 협상이 잘 안 되는 이유에 대한 다양한 의견이 나오고 있습니다. 미국의 양보하지 않는 태도, 이란의 협상 방식 등이 문제로 지적되고 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산 하락",
-      "summary": "부동산 하락이 기정사실로 받아들여지고 있으며, 주택담보대출을 당연한 권리라고 생각하는 사람이 많습니다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "경기도지사 선거",
+      "summary": "경기도지사 선거에 대한 토론과 공약 검토가 활발하게 진행되고 있습니다. 후보자의 공약과 능력에 대한 평가가 이루어지고 있습니다.",
+      "post_count": 7,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 애플과 구글이 AI 마케팅 임원 영입 등으로 AI 기술을 강화하고 있습니다.",
-      "post_count": 4,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "부동산 하락",
+      "summary": "부동산 하락에 대한 우려가 나타나고 있습니다. 일부 사용자는 부동산 하락이 기정사실이라고 주장하고 있습니다.",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이란",
-      "count": 5,
+      "count": 10,
       "sentiment": "negative",
       "context": "이란과의 협상이 잘 안 되는 이유"
     },
     {
-      "keyword": "부동산",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "부동산 하락"
+      "keyword": "경기도지사",
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "경기도지사 선거에 대한 토론과 공약 검토"
     },
     {
-      "keyword": "AI",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "keyword": "부동산",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "부동산 하락에 대한 우려"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정의 비중이 높습니다."
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재하고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "이란과의 협상이 잘 안 되는 이유를 분석하여 대응 전략을 수립해야 합니다.",
-      "action": "외교적 노력을 강화해야 합니다.",
+      "insight": "이란과의 협상이 잘 안 되는 이유를 분석하여 대응 전략을 수립할 필요가 있습니다.",
+      "action": "이란과의 협상에 대한 전문가 의견을 수집하고 분석하여 대응 전략을 수립합니다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 하락의 영향을 최소화하기 위해 부동산 투자 전략을 재검토해야 합니다.",
-      "action": "부동산 투자 전략을 재검토해야 합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전을 활용하여 비즈니스 모델을 혁신해야 합니다.",
-      "action": "AI 기술을 활용하여 비즈니스 모델을 혁신해야 합니다.",
+      "insight": "경기도지사 선거에 대한 토론과 공약 검토를 통해 후보자의 능력과 공약을 평가할 수 있습니다.",
+      "action": "경기도지사 선거에 대한 토론과 공약 검토를 진행하여 후보자의 능력과 공약을 평가합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 이란과의 협상이 잘 안 되는 이유와 부동산 하락이 주요 관심사로 나타났습니다. 또한, AI 기술의 발전이 다양한 분야에서 적용되고 있으며, 이를 활용하여 비즈니스 모델을 혁신해야 합니다. 이러한 트렌드를 분석하여 대응 전략을 수립하고, 비즈니스 모델을 혁신하여 경쟁력을 강화해야 합니다.",
-  "analyzed_at": "2026-03-30T16:00:34.811Z",
+  "narrative": "이번 분석에서 이란과의 협상, 경기도지사 선거, 부동산 하락 등이 주요 트렌드로 나타났습니다. 이란과의 협상이 잘 안 되는 이유에 대한 다양한 의견이 나오고 있습니다. 경기도지사 선거에 대한 토론과 공약 검토가 활발하게 진행되고 있습니다. 부동산 하락에 대한 우려가 나타나고 있습니다. 이러한 트렌드를 분석하여 대응 전략을 수립할 필요가 있습니다. 또한, 후보자의 능력과 공약을 평가하여 선거에 대한 의견을 형성할 수 있습니다.",
+  "analyzed_at": "2026-03-30T16:30:34.509Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
