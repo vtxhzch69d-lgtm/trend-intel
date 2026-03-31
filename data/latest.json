@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논쟁이 많습니다. 권영진, 김부겸, 이정현 등 정치인에 대한 이야기가 많습니다.",
+      "topic": "경제 지원",
+      "summary": "최근 정부의 경제 지원 정책이 논란이 되고 있습니다. 일부에서는 지원 정책이 필요하다고 주장하는 반면, 다른 일부에서는 경제에 부정적인 영향을 미칠 수 있다고 우려합니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많습니다. 삼성전자, LG, 애플 등 기업에 대한 이야기가 많습니다.",
+      "topic": "기술 발전",
+      "summary": "최근 기술 발전이 빠르게 진행되고 있습니다. AI, VR, AR 등 다양한 기술이 등장하고 있으며, 이를 활용한 새로운 제품과 서비스가 출시되고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 뉴스와 분석이 많습니다. AI, 반도체, 5G 등 기술에 대한 이야기가 많습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "환경 문제",
+      "summary": "환경 문제가 최근에 다시 주목을 받고 있습니다. 플라스틱 쓰레기, 기후 변화 등 다양한 환경 문제가 논란이 되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
+      "keyword": "경제 지원",
       "count": 20,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논쟁"
+      "context": "정부의 경제 지원 정책에 대한 논란"
     },
     {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 분석"
-    },
-    {
-      "keyword": "기술",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스와 분석"
+      "context": "AI 기술의 발전과 이를 활용한 새로운 제품과 서비스"
+    },
+    {
+      "keyword": "환경",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "환경 문제에 대한 우려와 논란"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "mixed"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제는 밀접한 관련이 있습니다.",
-      "action": "정치와 경제에 대한 분석을 더 많이 انجام해야 합니다.",
+      "insight": "정부의 경제 지원 정책에 대한 논란이 계속될 수 있습니다.",
+      "action": "정책에 대한 의견을 수렴하고, 이를 반영한 새로운 정책을 제시할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "기술은 빠르게 발전하고 있습니다.",
-      "action": "기술에 대한 분석을 더 많이 수행해야 합니다.",
+      "insight": "기술 발전이 빠르게 진행되고 있습니다.",
+      "action": "새로운 기술을 활용한 제품과 서비스를 개발하고, 이를 시장에 출시할 필요가 있습니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "환경 문제가 다시 주목을 받고 있습니다.",
+      "action": "환경 문제에 대한 해결책을 제시하고, 이를 실천에 옮길 필요가 있습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 정치와 경제는 많은 사람들이 관심을 가지고 있는 주제입니다. 기술도 빠르게 발전하고 있으며, 많은 사람들이 관심을 가지고 있습니다. 이러한 트렌드를 분석하여 사업을 진행할 때 참고할 수 있습니다. 또한, 정치와 경제에 대한 분석을 더 많이 수행하고, 기술에 대한 분석도 더 많이 수행해야 합니다.",
-  "analyzed_at": "2026-03-31T04:00:34.072Z",
-  "post_count": 61,
+  "narrative": "최근 정부의 경제 지원 정책이 논란이 되고 있습니다. 일부에서는 지원 정책이 필요하다고 주장하는 반면, 다른 일부에서는 경제에 부정적인 영향을 미칠 수 있다고 우려합니다. 기술 발전이 빠르게 진행되고 있으며, 이를 활용한 새로운 제품과 서비스가 출시되고 있습니다. 환경 문제가 다시 주목을 받고 있으며, 이를 해결하기 위한 노력이 필요합니다. 이러한 상황에서 기업은 정부의 정책에 대한 의견을 수렴하고, 이를 반영한 새로운 정책을 제시할 필요가 있습니다. 또한, 새로운 기술을 활용한 제품과 서비스를 개발하고, 이를 시장에 출시할 필요가 있습니다. 마지막으로, 환경 문제에 대한 해결책을 제시하고, 이를 실천에 옮길 필요가 있습니다.",
+  "analyzed_at": "2026-03-31T05:00:34.520Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
