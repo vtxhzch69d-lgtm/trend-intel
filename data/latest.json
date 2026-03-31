@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 김영환의 공천 컷오프 효력 정지와 관련된 뉴스가 많이 보도되고 있습니다.",
+      "topic": "반도체 산업",
+      "summary": "월가의 반도체 주목표價 하락 및 삼성 하닉 손절 여부 등 반도체 산업 관련 게시물이 주목을 받고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "장동혁 컷오프 효력 정지, 권성동 관련 게시물, 통일교 및 신천지 관련 게시물 등 정치 및 사회 관련 게시물이 활발합니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "고유가와 관련된 뉴스가 많이 보도되고 있습니다. 미국 휘발유 가격이 4달러/갤런을 돌파했습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 관련된 뉴스가 많이 보도되고 있습니다. 마이크로소프트의 코파일럿 에이전트와 관련된 뉴스가 있습니다.",
+      "topic": "테크 및 IT",
+      "summary": "마이크로소프트의 코파일럿 에이전트, AI 관련 기술 및 제품 출시 등 테크 및 IT 관련 게시물이 증가하고 있습니다.",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
@@ -24,45 +24,45 @@
   ],
   "keywords": [
     {
-      "keyword": "김영환",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "공천 컷오프 효력 정지와 관련된 뉴스"
-    },
-    {
-      "keyword": "고유가",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "미국 휘발유 가격이 4달러/갤런을 돌파"
+      "keyword": "반도체",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "반도체 산업 관련 게시물"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 8,
       "sentiment": "positive",
-      "context": "마이크로소프트의 코파일럿 에이전트와 관련된 뉴스"
+      "context": "AI 관련 기술 및 제품 출시"
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "정치 및 사회 관련 게시물"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
     "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 더 강한 것으로 나타났습니다."
+    "neutral": 25,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "고유가와 관련된 뉴스가 많이 보도되고 있습니다.",
-      "action": "고유가와 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "반도체 산업의 동향을 주시하여 투자 및 비즈니스 기회를 찾기",
+      "action": "반도체 산업 관련 뉴스 및 게시물 모니터링",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 뉴스가 많이 보도되고 있습니다.",
-      "action": "AI와 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "AI 관련 기술 및 제품 출시를 주시하여 비즈니스 기회를 찾기",
+      "action": "AI 관련 기술 및 제품 출시 모니터링",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 김영환의 공천 컷오프 효력 정지와 관련된 뉴스가 많이 보도되고 있습니다. 또한, 고유가와 관련된 뉴스가 많이 보도되고 있습니다. 미국 휘발유 가격이 4달러/갤런을 돌파했습니다. 기술 분야에서는 AI와 관련된 뉴스가 많이 보도되고 있습니다. 마이크로소프트의 코파일럿 에이전트와 관련된 뉴스가 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립해야 합니다. 고유가와 관련된 마케팅 전략을 수립해야 합니다. 또한, AI와 관련된 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-03-31T09:30:33.977Z",
-  "post_count": 61,
+  "narrative": "현재 반도체 산업 및 정치 및 사회 관련 게시물이 주목을 받고 있습니다. 반도체 산업의 동향을 주시하여 투자 및 비즈니스 기회를 찾는 것이 중요합니다. 또한 AI 관련 기술 및 제품 출시를 주시하여 비즈니스 기회를 찾는 것도 필요합니다. 전체적으로 중립적이지만 약간 부정적인 분위기입니다. 따라서 비즈니스 기회를 찾기 위해 주시하고 분석하는 것이 중요합니다.",
+  "analyzed_at": "2026-03-31T11:00:34.497Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
