@@ -2,85 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 뉴스와 이슈",
+      "summary": "정치 관련 뉴스와 논쟁이 많습니다. 권영진, 김부겸, 이정현 등 정치인에 대한 이야기가 많습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "最近의 경제 뉴스와 이슈",
+      "summary": "경제 관련 뉴스와 분석이 많습니다. 삼성전자, LG, 애플 등 기업에 대한 이야기가 많습니다.",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "最近의 기술 뉴스와 이슈",
+      "summary": "기술 관련 뉴스와 분석이 많습니다. AI, 반도체, 5G 등 기술에 대한 이야기가 많습니다.",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "사회",
-      "summary": "最近의 사회 뉴스와 이슈",
-      "post_count": 7,
-      "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "이란과 관련된 뉴스"
-    },
-    {
-      "keyword": "삼성",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "삼성과 관련된 뉴스"
-    },
-    {
-      "keyword": "애플",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "애플과 관련된 뉴스"
-    },
-    {
-      "keyword": "정부",
-      "count": 5,
+      "keyword": "정치",
+      "count": 20,
       "sentiment": "mixed",
-      "context": "정부와 관련된 뉴스"
+      "context": "정치 관련 뉴스와 논쟁"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스와 분석"
+    },
+    {
+      "keyword": "기술",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 12,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "最近의 정치 뉴스는 매우 다양하다",
-      "action": "정치 뉴스를 주시하여 시장의 변화를 예측하자",
+      "insight": "정치와 경제는 밀접한 관련이 있습니다.",
+      "action": "정치와 경제에 대한 분석을 더 많이 انجام해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스는 안정적인 편이다",
-      "action": "경제 뉴스를 지속적으로 모니터링 하자",
+      "insight": "기술은 빠르게 발전하고 있습니다.",
+      "action": "기술에 대한 분석을 더 많이 수행해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "기술 뉴스는 매우 발전적이다",
-      "action": "최신 기술 뉴스를 주시하여 시장의 기회를 찾자",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 이슈는 매우 다양하여 시장의 변화를 예측하기 어렵다. 그러나 경제 뉴스는 안정적인 편으로 지속적인 모니터링이 필요하다. 기술 뉴스는 매우 발전적이므로 최신 기술 뉴스를 주시하여 시장의 기회를 찾는 것이 중요하다. 또한, 최근의 사회 뉴스와 이슈는 매우 부정적인 편으로 사회적 문제를 해결하기 위한 노력이 필요하다.",
-  "analyzed_at": "2026-03-31T03:30:33.920Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드에 따르면, 정치와 경제는 많은 사람들이 관심을 가지고 있는 주제입니다. 기술도 빠르게 발전하고 있으며, 많은 사람들이 관심을 가지고 있습니다. 이러한 트렌드를 분석하여 사업을 진행할 때 참고할 수 있습니다. 또한, 정치와 경제에 대한 분석을 더 많이 수행하고, 기술에 대한 분석도 더 많이 수행해야 합니다.",
+  "analyzed_at": "2026-03-31T04:00:34.072Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
