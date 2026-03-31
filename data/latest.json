@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "이란-미국 관계",
-      "summary": "이란과 미국의 관계가緊張하고 있으며, 다양한 뉴스와 의견이 나오고 있습니다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 변동성과 관련된 게시글이 많습니다. 특히, 삼전과 마이크론의 주가 변동에 대한 관심이 높습니다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 변동이 크게 나타나고 있으며, 투자자들의 관심이 집중되고 있습니다.",
+      "topic": "환율",
+      "summary": "환율의 변동과 관련된 게시글이 많습니다. 특히, 환율의 불안정성과 경제에 대한 우려가 표현됩니다.",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 트렌드가 나오고 있으며, 다양한 주제가 논의되고 있습니다.",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 개발에 대한 관심이 높습니다. 특히, AI와 반도체에 대한 게시글이 많습니다.",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "이란과 미국의 관계가緊張하고 있습니다."
+      "keyword": "주식",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "주식 시장의 변동성과 관련된 게시글"
     },
     {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "주식 시장의 변동이 크게 나타나고 있습니다."
+      "keyword": "환율",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "환율의 변동과 관련된 게시글"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드가 나오고 있습니다."
+      "context": "최신 기술 및 과학 관련 뉴스와 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 다소 높지만, 긍정적인 감정도 존재합니다."
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이란-미국 관계의緊張이 글로벌 경제에 영향을 미칠 수 있습니다.",
-      "action": "글로벌 경제 동향을 주시하고, 투자 전략을 조정해야 합니다.",
+      "insight": "주식 시장의 변동성에 대한 관심이 높습니다.",
+      "action": "주식 시장의 변동성에 대한 분석과 예측을 제공합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 트렌드는 비즈니스 기회를 창출할 수 있습니다.",
-      "action": "최신 기술 트렌드를 연구하고, 비즈니스 적용 가능성을 평가해야 합니다.",
+      "insight": "환율의 불안정성에 대한 우려가 있습니다.",
+      "action": "환율의 변동에 대한 분석과 대응 전략을 제공합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 및 과학 관련 뉴스와 개발에 대한 관심이 높습니다.",
+      "action": "최신 기술 및 과학 관련 뉴스와 개발에 대한 정보를 제공합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "이번 분석 결과, 이란-미국 관계의緊張과 주식 시장의 변동이 주목을 끌고 있습니다. 또한, 최신 기술 뉴스와 트렌드가 나오고 있으며, 다양한 주제가 논의되고 있습니다. 이러한 동향을 주시하고, 비즈니스 전략을 조정하는 것이 중요합니다. 또한, 최신 기술 트렌드를 연구하고, 비즈니스 적용 가능성을 평가하는 것이 필요합니다.",
-  "analyzed_at": "2026-03-30T23:00:34.055Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 변동성과 환율의 불안정성에 대한 관심이 높습니다. 또한, 최신 기술 및 과학 관련 뉴스와 개발에 대한 관심도 높습니다. 이러한 트렌드에 대한 분석과 예측을 제공함으로써, 사업자들은 시장의 변동성에 대응하고, 최신 기술 및 과학 관련 뉴스와 개발에 대한 정보를 제공할 수 있습니다. 또한, 이러한 트렌드에 대한 이해를 통해, 사업자들은 고객의需求을 더 잘 이해하고, 고객에게 더好的 서비스를 제공할 수 있습니다.",
+  "analyzed_at": "2026-03-31T00:00:34.750Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
