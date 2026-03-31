@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "원유 가격 상승",
-      "summary": "원유 가격 상승으로 인한 경제적 영향",
+      "summary": "원유 가격 상승으로 인한 경제적 영향과 다양한 산업 분야에서의 영향",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 분야에서의 적용",
+      "summary": "AI 기술의 발전과 다양한 산업 분야에서의 적용",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제에 대한 논의",
+      "summary": "정치 및 사회 문제에 대한 논의와 의견",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
@@ -46,7 +46,7 @@
     "positive": 20,
     "negative": 25,
     "neutral": 15,
-    "overall_mood": "부정적인 감정의 비중이 높음"
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
@@ -55,13 +55,13 @@
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신규 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전과 산업 분야에서의 적용",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 원유 가격 상승과 AI 기술의 발전이 주요 관심사로 나타났습니다. 원유 가격 상승은 경제적 영향을 미치며, 기업들은 이를 대응하기 위한 전략을 수립해야 합니다. 반면, AI 기술의 발전은 다양한 분야에서 새로운 비즈니스 기회를 창출할 수 있습니다. 또한, 정치 및 사회 문제에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드에 대한 분석과 이해를 통해, 기업들은 시장의 변화를 예측하고, 새로운 기회를 창출할 수 있습니다.",
-  "analyzed_at": "2026-03-31T13:00:34.189Z",
+  "narrative": "최근의 트렌드 분석 결과, 원유 가격 상승과 AI 기술의 발전이 주요 관심사로 나타났습니다. 원유 가격 상승은 경제적 영향을 미치며, 다양한 산업 분야에서 영향을 받을 수 있습니다. 반면, AI 기술의 발전은 다양한 산업 분야에서 적용 가능하며, 비즈니스 모델의 혁신을 가져올 수 있습니다. 또한, 정치 및 사회 문제에 대한 논의와 의견이 많았습니다. 이러한 트렌드에 대한 분석과 대응 전략의 수립이 필요합니다.",
+  "analyzed_at": "2026-03-31T13:30:34.206Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
