@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "대통령과 정치검찰의 관계, 학생 상담 내용의 비밀 보장 등 정치 관련 주제가 논의되고 있습니다.",
-      "post_count": 10,
+      "summary": "정치 관련된 다양한 뉴스와 의견이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "주식",
-      "summary": "주식 시장의 상황, 주식 투자 전략 등 주식 관련 주제가 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
+      "topic": "주식",
+      "summary": "주식 관련된 뉴스와 의견이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
       "topic": "기술",
-      "summary": "신기술, AI, 반도체 등 기술 관련 주제가 논의되고 있습니다.",
-      "post_count": 12,
+      "summary": "최신 기술 관련된 뉴스와 의견이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "대통령",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "대통령과 정치검찰의 관계"
+      "keyword": "정치",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "정치 관련된 뉴스와 의견"
     },
     {
       "keyword": "주식",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "주식 시장의 상황"
+      "context": "주식 관련된 뉴스와 의견"
     },
     {
-      "keyword": "AI",
-      "count": 4,
+      "keyword": "기술",
+      "count": 15,
       "sentiment": "positive",
-      "context": "신기술, AI"
+      "context": "최신 기술 관련된 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상황을 주시하여 투자 전략을 수립해야 합니다.",
-      "action": "주식 시장 분석",
+      "insight": "클리앙 커뮤니티에서 정치와 주식 관련된 뉴스와 의견이 활발하게讨論되고 있다.",
+      "action": "관련된 뉴스와 의견을 모니터링하고 분석하여 마케팅 전략을 수립한다.",
       "priority": "high"
     },
     {
-      "insight": "신기술, AI 등 기술 관련 주제에 관심을 가져야 합니다.",
-      "action": "기술 트렌드 분석",
+      "insight": "최신 기술 관련된 뉴스와 의견이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
+      "action": "관련된 뉴스와 의견을 모니터링하고 분석하여 기술 개발과 마케팅 전략을 수립한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 정치, 주식, 기술 등 다양한 주제가 논의되고 있습니다. 대통령과 정치검찰의 관계, 주식 시장의 상황, 신기술, AI 등 기술 관련 주제가 주요 관심사입니다. 주식 시장의 상황을 주시하여 투자 전략을 수립하고, 신기술, AI 등 기술 관련 주제에 관심을 가져야 합니다. 또한, 대통령과 정치검찰의 관계를 주시하여 정치적 상황을 이해해야 합니다.",
-  "analyzed_at": "2026-03-31T00:30:34.077Z",
+  "narrative": "클리앙 커뮤니티에서 정치, 주식, 기술 관련된 뉴스와 의견이 활발하게讨論되고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하고, 관련된 뉴스와 의견을 모니터링하고 분석하여 기술 개발과 마케팅 전략을 수립할 수 있다. 클리앙 커뮤니티의 중립적 분위기를 고려하여 마케팅 전략을 수립할 필요가 있다.",
+  "analyzed_at": "2026-03-31T01:00:33.716Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
