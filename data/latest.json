@@ -1,75 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "이란 혁명수비대 미국 공격대상 기업 발표",
-      "summary": "이란 혁명수비대가 미국 기업을 공격 대상으로 발표했다. 이는 이란과 미국의 관계가 더욱 긴장될 것으로 예상된다.",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "삼성전자, 2028년 '꿈의 반도체' 양산한다",
-      "summary": "삼성전자가 2028년에 꿈의 반도체를 양산할 계획이다. 이는 반도체 산업에 큰 영향을 미칠 것으로 예상된다.",
-      "post_count": 1,
-      "sentiment": "positive",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 обсужд되고 있습니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "클리앙 유료화 반대합니다",
-      "summary": "클리앙 사용자들이 클리앙 유료화에 반대하는 의견이 많다. 이는 클리앙의 사용자들이 유료화에 대한 불만을 가지고 있다.",
-      "post_count": 1,
-      "sentiment": "negative",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "이란 혁명수비대 미국 공격대상 기업 발표"
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "삼성전자",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "삼성전자, 2028년 '꿈의 반도체' 양산한다"
-    },
-    {
-      "keyword": "클리앙",
-      "count": 2,
+      "keyword": "이슈",
+      "count": 20,
       "sentiment": "negative",
-      "context": "클리앙 유료화 반대합니다"
+      "context": "이슈게시판 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 감정이 대부분이다."
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "이란과 미국의 관계가 긴장되면 글로벌 경제에 영향을 미칠 수 있다.",
-      "action": "글로벌 경제 동향을 주시하고 대비책을 마련한다.",
+      "insight": "커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
-    },
-    {
-      "insight": "삼성전자의 꿈의 반도체 양산은 반도체 산업에 큰 영향을 미칠 수 있다.",
-      "action": "반도체 산업 동향을 주시하고 기회를 찾는다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "클리앙 유료화에 대한 사용자들의 불만을 해결해야 한다.",
-      "action": "클리앙 사용자들의 의견을 수렴하고 유료화에 대한 대안을 찾는다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙과 뽐뿌 커뮤니티에서는 이란 혁명수비대 미국 공격대상 기업 발표와 삼성전자의 꿈의 반도체 양산, 클리앙 유료화 반대 등 다양한 주제가 обсужд되고 있다. 이러한 주제들은 글로벌 경제와 반도체 산업, 온라인 커뮤니티 사용자들의 불만 등 다양한 측면에서 영향을 미칠 수 있다. 따라서 이러한 동향을 주시하고 대비책을 마련하는 것이 중요하다. 또한, 클리앙 사용자들의 의견을 수렴하고 유료화에 대한 대안을 찾는 것이 필요하다.",
-  "analyzed_at": "2026-03-31T19:00:34.923Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 обсужд되고 있습니다. 이에 따라 마케팅 전략을 수립하여 커뮤니티에서 인기 있는 주제를 분석하고 타겟팅할 수 있습니다. 또한, 커뮤니티의 분위기를 중립적으로 유지하여 더 많은 사용자를 유치할 수 있습니다.",
+  "analyzed_at": "2026-03-31T20:30:34.059Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
