@@ -2,83 +2,66 @@
   "trending_topics": [
     {
       "topic": "경제 및 금융",
-      "summary": "금리 인상, 환율 상승, 재난 지원금 등 경제 및 금융 관련 주제가热한 관심을 받고 있습니다.",
+      "summary": "금리 및 환율에 대한 관심이 높아지고 있으며, 재난 지원금 및 경제 정책에 대한 논의가 활발하다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다. 특히, 대통령 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "기술 및 AI",
+      "summary": "AI 기술의 발전 및 적용에 대한 관심이 높아지고 있으며, 관련 뉴스 및 기사들이 많이 올라오고 있다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 주제가 많은 관심을 받고 있습니다. 특히, AI 및 반도체 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "사회 및 정치",
+      "summary": "노동절 및 법정 공휴일 지정에 대한 논의가 있으며, 사회 및 정치 관련 뉴스들이 많이 올라오고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "금리",
-      "count": 10,
+      "count": 8,
       "sentiment": "negative",
-      "context": "금리 인상 관련 주제"
+      "context": "금리 인상에 대한 우려"
     },
     {
       "keyword": "환율",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "환율 상승 관련 주제"
-    },
-    {
-      "keyword": "재난 지원금",
       "count": 5,
-      "sentiment": "positive",
-      "context": "재난 지원금 관련 주제"
+      "sentiment": "neutral",
+      "context": "환율 변동에 대한 관심"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 관련 주제"
-    },
-    {
-      "keyword": "반도체",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "반도체 관련 주제"
+      "context": "AI 기술의 발전 및 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "부정적인 감정이 많지만, 중립적인 감정도 많습니다."
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "경제 및 금융 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "경제 및 금융 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "금리 및 환율에 대한 관심이 높아지고 있으며, 관련 뉴스 및 기사들이 많이 올라오고 있다.",
+      "action": "금융 및 경제 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다.",
       "priority": "high"
     },
     {
-      "insight": "기술 및 과학 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "기술 및 과학 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 발전 및 적용에 대한 관심이 높아지고 있으며, 관련 뉴스 및 기사들이 많이 올라오고 있다.",
+      "action": "AI 기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "정치 및 사회 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융 관련 주제가 많은 관심을 받고 있습니다. 특히, 금리 인상, 환율 상승, 재난 지원금 등 경제 및 금융 관련 주제가热한 관심을 받고 있습니다. 또한, 기술 및 과학 관련 주제가 많은 관심을 받고 있습니다. 특히, AI 및 반도체 관련 주제가热한 관심을 받고 있습니다. 이러한 트렌드를 분석하여 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한, 경제 및 금융 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 기술 및 과학 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 정치 및 사회 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-03-31T07:00:34.306Z",
+  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융, 기술 및 AI, 사회 및 정치 관련 주제들이 많이 обсужд되고 있다. 금리 및 환율에 대한 관심이 높아지고 있으며, AI 기술의 발전 및 적용에 대한 관심도 높아지고 있다. 이러한 트렌드를 반영하여 콘텐츠를 제공하고, 사용자들의 관심을 끌어야 한다. 또한, 금융 및 경제 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다.",
+  "analyzed_at": "2026-03-31T07:30:33.491Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
