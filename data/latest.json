@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "월가의 반도체 주목표價 하락 및 삼성 하닉 손절 여부 등 반도체 산업 관련 게시물이 주목을 받고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "정치 및 경제",
+      "summary": "트럼프와 기름, 선별 지급, WTI 원유가격 등 정치 및 경제 관련 게시글이 많습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "장동혁 컷오프 효력 정지, 권성동 관련 게시물, 통일교 및 신천지 관련 게시물 등 정치 및 사회 관련 게시물이 활발합니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "기술 및 과학",
+      "summary": "AI, 반도체, 전기차 등 기술 및 과학 관련 게시글이 많습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크 및 IT",
-      "summary": "마이크로소프트의 코파일럿 에이전트, AI 관련 기술 및 제품 출시 등 테크 및 IT 관련 게시물이 증가하고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "스포츠",
+      "summary": "KBO, 크록스, 스타벅스 등 스포츠 관련 게시글이 있습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "반도체 산업 관련 게시물"
+      "keyword": "트럼프",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "기름 관련 논란"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 관련 기술 및 제품 출시"
+      "context": "기술 발전"
     },
     {
-      "keyword": "정치",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "정치 및 사회 관련 게시물"
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
+    "positive": 20,
+    "negative": 15,
     "neutral": 25,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 동향을 주시하여 투자 및 비즈니스 기회를 찾기",
-      "action": "반도체 산업 관련 뉴스 및 게시물 모니터링",
+      "insight": "기술 및 과학 관련 게시글이 많아 기술 발전에 관심이 높습니다.",
+      "action": "기술 관련 콘텐츠 제작",
       "priority": "high"
     },
     {
-      "insight": "AI 관련 기술 및 제품 출시를 주시하여 비즈니스 기회를 찾기",
-      "action": "AI 관련 기술 및 제품 출시 모니터링",
+      "insight": "정치 및 경제 관련 게시글이 많아 정치 및 경제 관련 콘텐츠에 관심이 높습니다.",
+      "action": "정치 및 경제 관련 콘텐츠 제작",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 반도체 산업 및 정치 및 사회 관련 게시물이 주목을 받고 있습니다. 반도체 산업의 동향을 주시하여 투자 및 비즈니스 기회를 찾는 것이 중요합니다. 또한 AI 관련 기술 및 제품 출시를 주시하여 비즈니스 기회를 찾는 것도 필요합니다. 전체적으로 중립적이지만 약간 부정적인 분위기입니다. 따라서 비즈니스 기회를 찾기 위해 주시하고 분석하는 것이 중요합니다.",
-  "analyzed_at": "2026-03-31T11:00:34.497Z",
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 기술 및 과학, 정치 및 경제, 스포츠 등 다양한 주제의 게시글이 있습니다. 기술 및 과학 관련 게시글이 가장 많아 기술 발전에 대한 관심이 높습니다. 또한, 정치 및 경제 관련 게시글도 많아 정치 및 경제 관련 콘텐츠에 대한 관심도 높습니다. 이러한 분석 결과를 통해 마케터는 콘텐츠 제작에 참고할 수 있습니다.",
+  "analyzed_at": "2026-03-31T11:30:34.438Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
