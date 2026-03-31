@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "고유가 지원금",
-      "summary": "고유가 지원금에 대한 반대가 많다. 미국 휘발유 가격이 4달러/갤런을 돌파했다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 김영환의 공천 컷오프 효력 정지와 관련된 뉴스가 많이 보도되고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "김영환 충북지사 공천 컷오프 효력정지, 이정현 사퇴 등 정치 관련 뉴스가 많다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "고유가와 관련된 뉴스가 많이 보도되고 있습니다. 미국 휘발유 가격이 4달러/갤런을 돌파했습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "환율안정 3법 통과, 양도세 최대 100% 면제 등 경제 관련 뉴스가 많다.",
+      "topic": "기술",
+      "summary": "AI와 관련된 뉴스가 많이 보도되고 있습니다. 마이크로소프트의 코파일럿 에이전트와 관련된 뉴스가 있습니다.",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "고유가",
-      "count": 10,
+      "keyword": "김영환",
+      "count": 5,
       "sentiment": "negative",
-      "context": "고유가 지원금에 대한 반대"
+      "context": "공천 컷오프 효력 정지와 관련된 뉴스"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "김영환 충북지사 공천 컷오프 효력정지 등"
+      "keyword": "고유가",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "미국 휘발유 가격이 4달러/갤런을 돌파"
     },
     {
-      "keyword": "경제",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "환율안정 3법 통과, 양도세 최대 100% 면제 등"
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "마이크로소프트의 코파일럿 에이전트와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 15,
     "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "부정적인 감정이 더 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "고유가 지원금에 대한 반대가 많다.",
-      "action": "고유가 지원금에 대한 대책 마련",
+      "insight": "고유가와 관련된 뉴스가 많이 보도되고 있습니다.",
+      "action": "고유가와 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스가 많다.",
-      "action": "정치 관련 뉴스 모니터링",
+      "insight": "AI와 관련된 뉴스가 많이 보도되고 있습니다.",
+      "action": "AI와 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스가 많다.",
-      "action": "경제 관련 뉴스 모니터링",
-      "priority": "low"
     }
   ],
-  "narrative": "현재 고유가 지원금에 대한 반대가 많다. 미국 휘발유 가격이 4달러/갤런을 돌파했다. 정치 관련 뉴스도 많다. 김영환 충북지사 공천 컷오프 효력정지, 이정현 사퇴 등 정치 관련 뉴스가 많다. 경제 관련 뉴스도 많다. 환율안정 3법 통과, 양도세 최대 100% 면제 등 경제 관련 뉴스가 많다. 이러한 뉴스들은 소비자와 기업에게 영향을 미칠 수 있다. 따라서 고유가 지원금에 대한 대책 마련, 정치 관련 뉴스 모니터링, 경제 관련 뉴스 모니터링 등이 필요하다.",
-  "analyzed_at": "2026-03-31T09:00:34.816Z",
-  "post_count": 60,
+  "narrative": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 김영환의 공천 컷오프 효력 정지와 관련된 뉴스가 많이 보도되고 있습니다. 또한, 고유가와 관련된 뉴스가 많이 보도되고 있습니다. 미국 휘발유 가격이 4달러/갤런을 돌파했습니다. 기술 분야에서는 AI와 관련된 뉴스가 많이 보도되고 있습니다. 마이크로소프트의 코파일럿 에이전트와 관련된 뉴스가 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립해야 합니다. 고유가와 관련된 마케팅 전략을 수립해야 합니다. 또한, AI와 관련된 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-03-31T09:30:33.977Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
