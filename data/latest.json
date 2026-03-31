@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "추미애와 관련된 여러 정치적인 이슈가 논의되고 있습니다. 또한, 대통령과 관련된 뉴스도 관심을 끌고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "기술 및 과학",
+      "summary": "최근 기술 및 과학 분야의 뉴스와 개발이 주목을 받고 있습니다. AI 기술의 발전, 새로운 반도체 기술, 그리고 우크라이나군의 외골격 기기 보급 등이 포함됩니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "고유가와 관련된 뉴스, 법인세 납부, 그리고 다양한 경제적인 이슈가 обсужд되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 분야의 뉴스와 논란이 주목을 받고 있습니다. 추미애의 발언, 이란 혁명수비대 미국 공격대상 기업 발표, 그리고 한국GM의 내수 반등 등이 포함됩니다.",
+      "post_count": 12,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술적인 뉴스, 그리고 다양한 기술적인 발전이 논의되고 있습니다.",
-      "post_count": 12,
+      "topic": "경제 및 비즈니스",
+      "summary": "경제 및 비즈니스 분야의 뉴스와 개발이 주목을 받고 있습니다. 삼성전자, LG, 그리고 TCL의 새로운 제품 출시, 그리고 유튜브 쇼핑 제휴 요건 완화 등이 포함됩니다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "추미애",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치적인 이슈"
-    },
-    {
-      "keyword": "고유가",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "경제적인 이슈"
-    },
-    {
       "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 새로운 응용 분야"
+    },
+    {
+      "keyword": "삼성전자",
       "count": 5,
       "sentiment": "positive",
-      "context": "기술적인 발전"
+      "context": "새로운 제품 출시와 기술 개발"
+    },
+    {
+      "keyword": "유튜브",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "쇼핑 제휴 요건 완화와 이용자 증가"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
+    "positive": 25,
+    "negative": 10,
     "neutral": 15,
-    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "고유가와 관련된 이슈는 계속해서 논의될 것으로 보입니다.",
-      "action": "고유가와 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "AI 기술의 발전과 새로운 응용 분야",
+      "action": "AI 기술을 활용한 새로운 제품과 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술적인 발전은 계속해서 관심을 끌 것으로 보입니다.",
-      "action": "AI와 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "유튜브 쇼핑 제휴 요건 완화",
+      "action": "유튜브 쇼핑 제휴를 통한 마케팅과 판매 증대",
+      "priority": "medium"
+    },
+    {
+      "insight": "새로운 반도체 기술의 개발",
+      "action": "새로운 반도체 기술을 활용한 제품 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치적인 이슈와 경제적인 이슈가 많은 관심을 끌고 있습니다. 특히, 추미애와 관련된 정치적인 이슈는 많은 논의를 불러일으키고 있습니다. 또한, 고유가와 관련된 경제적인 이슈도 많은 관심을 끌고 있습니다. 기술적인 발전도 계속해서 관심을 끌 것으로 보입니다. 따라서, 이러한 이슈를 고려한 마케팅 전략을 수립해야 합니다. 고유가와 관련된 마케팅 전략을 수립하고, AI와 관련된 마케팅 전략을 수립해야 합니다. 또한, 정치적인 이슈와 경제적인 이슈를 고려한 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-03-31T15:30:33.999Z",
+  "narrative": "최근 기술 및 과학 분야의 뉴스와 개발이 주목을 받고 있습니다. AI 기술의 발전, 새로운 반도체 기술, 그리고 우크라이나군의 외골격 기기 보급 등이 포함됩니다. 또한, 정치 및 사회 분야의 뉴스와 논란이 주목을 받고 있습니다. 추미애의 발언, 이란 혁명수비대 미국 공격대상 기업 발표, 그리고 한국GM의 내수 반등 등이 포함됩니다. 경제 및 비즈니스 분야의 뉴스와 개발도 주목을 받고 있습니다. 삼성전자, LG, 그리고 TCL의 새로운 제품 출시, 그리고 유튜브 쇼핑 제휴 요건 완화 등이 포함됩니다. 이러한 트렌드와 인사이트를 바탕으로, 기업과 마케터는 새로운 기회와 도전을 찾을 수 있을 것입니다.",
+  "analyzed_at": "2026-03-31T16:00:34.915Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
