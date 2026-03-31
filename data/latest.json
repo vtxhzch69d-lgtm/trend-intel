@@ -1,67 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프와 호르무즈",
-      "summary": "트럼프가 호르무즈에서 석유를 직접 확보하라고 말한 것에 대해 논의되고 있습니다. 이에 대한 반응은 다양합니다.",
+      "topic": "추미애",
+      "summary": "추미애에 대한 다양한 의견과 사건",
       "post_count": 5,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "클로드 코드",
+      "summary": "클로드 코드 소스코드 유출과 관련된 논의",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "한준호의 불출석",
-      "summary": "한준호의 불출석에 대한 논의가 있습니다. 일부 사용자는 그의 행동을 비판하고 있습니다.",
-      "post_count": 3,
+      "topic": "경제",
+      "summary": "고유가, 지원금, 미장 등 경제 관련 주제",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 관련된 기술 뉴스들이 많이 обсужд되고 있습니다. 사용자들은 이를 통해 새로운 기술을 배우고 있습니다.",
-      "post_count": 10,
+      "topic": "AI",
+      "summary": "AI 관련 기술과 시장 동향",
+      "post_count": 7,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 주제와 사건",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 5,
+      "keyword": "추미애",
+      "count": 7,
       "sentiment": "negative",
-      "context": "호르무즈와 관련된 논의"
+      "context": "추미애에 대한 비판"
+    },
+    {
+      "keyword": "클로드 코드",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "클로드 코드 소스코드 유출"
+    },
+    {
+      "keyword": "고유가",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "고유가로 인한 경제적 부담"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 5,
       "sentiment": "positive",
-      "context": "기술 뉴스와 관련된 논의"
+      "context": "AI 기술과 시장 동향"
     },
     {
-      "keyword": "한준호",
-      "count": 3,
+      "keyword": "미장",
+      "count": 2,
       "sentiment": "negative",
-      "context": "불출석에 대한 논의"
+      "context": "미장의 경제적 영향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 15,
+    "negative": 25,
     "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "AI와 관련된 기술 뉴스들이 많이 обсужд되고 있습니다.",
-      "action": "AI와 관련된 기술 개발에 투자할 수 있습니다.",
+      "insight": "고유가로 인한 경제적 부담이 증가",
+      "action": "고유가 완화 대책 마련",
       "priority": "high"
     },
     {
-      "insight": "트럼프와 호르무즈에 대한 논의가 많습니다.",
-      "action": "정치와 경제 뉴스를 주시할 수 있습니다.",
+      "insight": "AI 기술과 시장 동향이 중요",
+      "action": "AI 기술 투자와 연구",
       "priority": "medium"
+    },
+    {
+      "insight": "클로드 코드 소스코드 유출로 인한 보안 위협",
+      "action": "보안 대책 마련",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 트럼프와 호르무즈, 한준호의 불출석, AI와 기술에 대한 논의가 많습니다. 사용자들은 이러한 주제에 대해 다양한 반응을 보이고 있습니다. 마케터는 이러한 트렌드를 주시하고, AI와 관련된 기술 개발에 투자할 수 있습니다. 또한, 정치와 경제 뉴스를 주시하여 시장의 변화를 예측할 수 있습니다.",
-  "analyzed_at": "2026-03-31T14:00:34.373Z",
+  "narrative": "최근의 트렌드는 추미애와 클로드 코드, 경제, AI, 정치 등 다양한 주제로 구성되어 있습니다. 추미애에 대한 비판과 클로드 코드 소스코드 유출로 인한 보안 위협이 주요한 이슈입니다. 또한, 고유가로 인한 경제적 부담이 증가하고 있으며, AI 기술과 시장 동향이 중요합니다. 이러한 트렌드를 분석하여 사업적 인사이트를 도출하고, 적절한 대책을 마련하는 것이 중요합니다.",
+  "analyzed_at": "2026-03-31T14:30:35.811Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
