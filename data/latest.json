@@ -1,68 +1,104 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련된 다양한 뉴스와 의견이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "천궁Ⅱ 이라크 수출",
+      "summary": "천궁Ⅱ 이라크 수출용으로 부품 생산 들어가나보네요.",
+      "post_count": 1,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "환율",
+      "summary": "환율이 오른다고 수출업체들이 좋은건 아닙니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식",
-      "summary": "주식 관련된 뉴스와 의견이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "유시민",
+      "summary": "유시민 작가 반발에 대한 고민",
+      "post_count": 2,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련된 뉴스와 의견이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "이재명과 유시민 2017",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "medium"
+    },
+    {
+      "topic": "재생에너지",
+      "summary": "저는 재생에너지 관련 etf 줍줍하고 있습니다.",
+      "post_count": 1,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 20,
+      "keyword": "천궁Ⅱ",
+      "count": 1,
+      "sentiment": "neutral",
+      "context": "이라크 수출"
+    },
+    {
+      "keyword": "환율",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "수출업체"
+    },
+    {
+      "keyword": "유시민",
+      "count": 2,
       "sentiment": "mixed",
-      "context": "정치 관련된 뉴스와 의견"
+      "context": "작가 반발"
     },
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "주식 관련된 뉴스와 의견"
+      "keyword": "이재명",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "정치"
     },
     {
-      "keyword": "기술",
-      "count": 15,
+      "keyword": "재생에너지",
+      "count": 1,
       "sentiment": "positive",
-      "context": "최신 기술 관련된 뉴스와 의견"
+      "context": "etf"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 2,
+    "negative": 6,
+    "neutral": 4,
+    "overall_mood": "부정적인 감정이 강한 것으로 나타남"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 정치와 주식 관련된 뉴스와 의견이 활발하게讨論되고 있다.",
-      "action": "관련된 뉴스와 의견을 모니터링하고 분석하여 마케팅 전략을 수립한다.",
+      "insight": "천궁Ⅱ 이라크 수출이 진행 중임",
+      "action": "수출업체와 협력 강화",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 관련된 뉴스와 의견이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
-      "action": "관련된 뉴스와 의견을 모니터링하고 분석하여 기술 개발과 마케팅 전략을 수립한다.",
+      "insight": "환율 상승이 수출업체에 부정적인 영향을 미침",
+      "action": "환율 변동에 대한 대책 마련",
       "priority": "medium"
+    },
+    {
+      "insight": "유시민 작가의 반발이 여론에 영향을 미침",
+      "action": "여론에 대한 대응 전략 수립",
+      "priority": "medium"
+    },
+    {
+      "insight": "재생에너지 관련 투자가 증가하고 있음",
+      "action": "재생에너지 관련 투자 기회 탐색",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치, 주식, 기술 관련된 뉴스와 의견이 활발하게讨論되고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하고, 관련된 뉴스와 의견을 모니터링하고 분석하여 기술 개발과 마케팅 전략을 수립할 수 있다. 클리앙 커뮤니티의 중립적 분위기를 고려하여 마케팅 전략을 수립할 필요가 있다.",
-  "analyzed_at": "2026-03-31T01:00:33.716Z",
-  "post_count": 61,
+  "narrative": "최근 클리앙 커뮤니티에서는 천궁Ⅱ 이라크 수출, 환율, 유시민, 이재명, 재생에너지 등 다양한 주제가 논의되고 있습니다. 환율 상승과 관련된 부정적인 감정이 강한 것으로 나타나며, 수출업체와의 협력 강화, 환율 변동에 대한 대책 마련, 여론에 대한 대응 전략 수립 등의 액션이 필요해 보입니다. 또한, 재생에너지 관련 투자 기회를 탐색하는 것이 좋을 것으로 나타납니다.",
+  "analyzed_at": "2026-03-31T01:30:34.104Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
