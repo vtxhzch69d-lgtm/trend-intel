@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "정치 및 경제 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "원유 가격 상승",
+      "summary": "원유 가격 상승으로 인한 경제적 영향",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 관련 뉴스와 개발이 주목을 받고 있습니다.",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 다양한 분야에서의 적용",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠 및 엔터테인먼트",
-      "summary": "스포츠 및 엔터테인먼트 관련 뉴스와 소식이 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치 및 사회 문제",
+      "summary": "정치 및 사회 문제에 대한 논의",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 개발"
+      "keyword": "원유",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "원유 가격 상승"
     },
     {
-      "keyword": "애플",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "기술 비교"
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "정치",
       "count": 10,
-      "sentiment": "negative",
-      "context": "정치 관련 논쟁"
+      "sentiment": "mixed",
+      "context": "정치 및 사회 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 30,
-    "neutral": 45,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높음"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 개발에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 개발에 투자",
+      "insight": "원유 가격 상승으로 인한 경제적 영향",
+      "action": "원유 가격 변동에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "정치 및 경제 관련 뉴스에 대한 관심이 높아지고 있습니다.",
-      "action": "정치 및 경제 관련 뉴스 모니터링",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 신규 비즈니스 모델 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "스포츠 및 엔터테인먼트 관련 뉴스에 대한 관심이 있습니다.",
-      "action": "스포츠 및 엔터테인먼트 관련 뉴스 제공",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 또한, 최신 기술 및 과학 관련 뉴스와 개발이 주목을 받고 있습니다. 스포츠 및 엔터테인먼트 관련 뉴스와 소식도 관심을 받고 있습니다. 이러한 트렌드에 따라, 최신 기술 개발에 대한 투자와 정치 및 경제 관련 뉴스 모니터링이 중요해 보입니다. 또한, 스포츠 및 엔터테인먼트 관련 뉴스 제공도 고려할 수 있습니다.",
-  "analyzed_at": "2026-03-31T12:00:34.133Z",
+  "narrative": "최근의 트렌드 분석 결과, 원유 가격 상승과 AI 기술의 발전이 주요 관심사로 나타났습니다. 원유 가격 상승은 경제적 영향을 미치며, 기업들은 이를 대응하기 위한 전략을 수립해야 합니다. 반면, AI 기술의 발전은 다양한 분야에서 새로운 비즈니스 기회를 창출할 수 있습니다. 또한, 정치 및 사회 문제에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드에 대한 분석과 이해를 통해, 기업들은 시장의 변화를 예측하고, 새로운 기회를 창출할 수 있습니다.",
+  "analyzed_at": "2026-03-31T13:00:34.189Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
