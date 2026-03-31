@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "금리와 주식에 대한 관심이 높아지고 있으며, 노동절과 관련된 법정 공휴일 지정법이 국회 본회의에서 통과되었습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "AI와 관련된 기술이 발전하고 있으며, 삼성전자와 LGD가 애플 아이맥 OLED 대응체제를 돌입했습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "고유가 지원금",
+      "summary": "고유가 지원금에 대한 반대가 많다. 미국 휘발유 가격이 4달러/갤런을 돌파했다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "충북지사 경선과 관련된 뉴스가 있으며, 교권보호 확대와 관련된 법안이 있습니다.",
-      "post_count": 8,
+      "topic": "정치",
+      "summary": "김영환 충북지사 공천 컷오프 효력정지, 이정현 사퇴 등 정치 관련 뉴스가 많다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "환율안정 3법 통과, 양도세 최대 100% 면제 등 경제 관련 뉴스가 많다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "고유가",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "고유가 지원금에 대한 반대"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "김영환 충북지사 공천 컷오프 효력정지 등"
+    },
+    {
+      "keyword": "경제",
       "count": 12,
-      "sentiment": "positive",
-      "context": "AI와 관련된 기술이 발전하고 있음"
-    },
-    {
-      "keyword": "주식",
-      "count": 8,
       "sentiment": "neutral",
-      "context": "주식에 대한 관심이 높아지고 있음"
-    },
-    {
-      "keyword": "노동절",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "노동절과 관련된 법정 공휴일 지정법이 국회 본회의에서 통과됨"
+      "context": "환율안정 3법 통과, 양도세 최대 100% 면제 등"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
+    "positive": 10,
+    "negative": 20,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI와 관련된 기술이 발전하고 있으며, 이를 활용하여 새로운 비즈니스 모델을 개발할 수 있음",
-      "action": "AI와 관련된 기술을 연구하고 개발하여 새로운 비즈니스 모델을 개발함",
+      "insight": "고유가 지원금에 대한 반대가 많다.",
+      "action": "고유가 지원금에 대한 대책 마련",
       "priority": "high"
     },
     {
-      "insight": "주식에 대한 관심이 높아지고 있으며, 이를 활용하여 새로운 투자 전략을 개발할 수 있음",
-      "action": "주식에 대한 분석을进行하여 새로운 투자 전략을 개발함",
+      "insight": "정치 관련 뉴스가 많다.",
+      "action": "정치 관련 뉴스 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스가 많다.",
+      "action": "경제 관련 뉴스 모니터링",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 경제 및 금융, 기술 및 과학, 정치 및 사회와 관련된 주제가 주목을 받고 있습니다. AI와 관련된 기술이 발전하고 있으며, 이를 활용하여 새로운 비즈니스 모델을 개발할 수 있습니다. 또한, 주식에 대한 관심이 높아지고 있으며, 이를 활용하여 새로운 투자 전략을 개발할 수 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 발굴하고, 이를 활용하여 회사의 성장과 발전에 기여할 수 있습니다.",
-  "analyzed_at": "2026-03-31T08:00:34.233Z",
-  "post_count": 62,
+  "narrative": "현재 고유가 지원금에 대한 반대가 많다. 미국 휘발유 가격이 4달러/갤런을 돌파했다. 정치 관련 뉴스도 많다. 김영환 충북지사 공천 컷오프 효력정지, 이정현 사퇴 등 정치 관련 뉴스가 많다. 경제 관련 뉴스도 많다. 환율안정 3법 통과, 양도세 최대 100% 면제 등 경제 관련 뉴스가 많다. 이러한 뉴스들은 소비자와 기업에게 영향을 미칠 수 있다. 따라서 고유가 지원금에 대한 대책 마련, 정치 관련 뉴스 모니터링, 경제 관련 뉴스 모니터링 등이 필요하다.",
+  "analyzed_at": "2026-03-31T09:00:34.816Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
