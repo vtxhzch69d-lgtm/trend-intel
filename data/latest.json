@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "경제 및 금융",
-      "summary": "금리 및 환율에 대한 관심이 높아지고 있으며, 재난 지원금 및 경제 정책에 대한 논의가 활발하다.",
+      "summary": "금리와 주식에 대한 관심이 높아지고 있으며, 노동절과 관련된 법정 공휴일 지정법이 국회 본회의에서 통과되었습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 AI",
-      "summary": "AI 기술의 발전 및 적용에 대한 관심이 높아지고 있으며, 관련 뉴스 및 기사들이 많이 올라오고 있다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "노동절 및 법정 공휴일 지정에 대한 논의가 있으며, 사회 및 정치 관련 뉴스들이 많이 올라오고 있다.",
+      "topic": "기술 및 과학",
+      "summary": "AI와 관련된 기술이 발전하고 있으며, 삼성전자와 LGD가 애플 아이맥 OLED 대응체제를 돌입했습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "충북지사 경선과 관련된 뉴스가 있으며, 교권보호 확대와 관련된 법안이 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "금리",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "금리 인상에 대한 우려"
-    },
-    {
-      "keyword": "환율",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "환율 변동에 대한 관심"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전 및 적용"
+      "context": "AI와 관련된 기술이 발전하고 있음"
+    },
+    {
+      "keyword": "주식",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "주식에 대한 관심이 높아지고 있음"
+    },
+    {
+      "keyword": "노동절",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "노동절과 관련된 법정 공휴일 지정법이 국회 본회의에서 통과됨"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "금리 및 환율에 대한 관심이 높아지고 있으며, 관련 뉴스 및 기사들이 많이 올라오고 있다.",
-      "action": "금융 및 경제 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다.",
+      "insight": "AI와 관련된 기술이 발전하고 있으며, 이를 활용하여 새로운 비즈니스 모델을 개발할 수 있음",
+      "action": "AI와 관련된 기술을 연구하고 개발하여 새로운 비즈니스 모델을 개발함",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전 및 적용에 대한 관심이 높아지고 있으며, 관련 뉴스 및 기사들이 많이 올라오고 있다.",
-      "action": "AI 기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다.",
+      "insight": "주식에 대한 관심이 높아지고 있으며, 이를 활용하여 새로운 투자 전략을 개발할 수 있음",
+      "action": "주식에 대한 분석을进行하여 새로운 투자 전략을 개발함",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융, 기술 및 AI, 사회 및 정치 관련 주제들이 많이 обсужд되고 있다. 금리 및 환율에 대한 관심이 높아지고 있으며, AI 기술의 발전 및 적용에 대한 관심도 높아지고 있다. 이러한 트렌드를 반영하여 콘텐츠를 제공하고, 사용자들의 관심을 끌어야 한다. 또한, 금융 및 경제 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다.",
-  "analyzed_at": "2026-03-31T07:30:33.491Z",
+  "narrative": "최근의 트렌드에 따르면, 경제 및 금융, 기술 및 과학, 정치 및 사회와 관련된 주제가 주목을 받고 있습니다. AI와 관련된 기술이 발전하고 있으며, 이를 활용하여 새로운 비즈니스 모델을 개발할 수 있습니다. 또한, 주식에 대한 관심이 높아지고 있으며, 이를 활용하여 새로운 투자 전략을 개발할 수 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 발굴하고, 이를 활용하여 회사의 성장과 발전에 기여할 수 있습니다.",
+  "analyzed_at": "2026-03-31T08:00:34.233Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
