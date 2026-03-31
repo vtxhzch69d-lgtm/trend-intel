@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "원유 가격 상승",
-      "summary": "원유 가격 상승으로 인한 경제적 영향과 다양한 산업 분야에서의 영향",
+      "topic": "트럼프와 호르무즈",
+      "summary": "트럼프가 호르무즈에서 석유를 직접 확보하라고 말한 것에 대해 논의되고 있습니다. 이에 대한 반응은 다양합니다.",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업 분야에서의 적용",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "한준호의 불출석",
+      "summary": "한준호의 불출석에 대한 논의가 있습니다. 일부 사용자는 그의 행동을 비판하고 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제에 대한 논의와 의견",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "AI와 기술",
+      "summary": "AI와 관련된 기술 뉴스들이 많이 обсужд되고 있습니다. 사용자들은 이를 통해 새로운 기술을 배우고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "원유",
-      "count": 7,
+      "keyword": "트럼프",
+      "count": 5,
       "sentiment": "negative",
-      "context": "원유 가격 상승"
+      "context": "호르무즈와 관련된 논의"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "기술 뉴스와 관련된 논의"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 문제"
+      "keyword": "한준호",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "불출석에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "원유 가격 상승으로 인한 경제적 영향",
-      "action": "원유 가격 변동에 대한 대응 전략 수립",
+      "insight": "AI와 관련된 기술 뉴스들이 많이 обсужд되고 있습니다.",
+      "action": "AI와 관련된 기술 개발에 투자할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 산업 분야에서의 적용",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "트럼프와 호르무즈에 대한 논의가 많습니다.",
+      "action": "정치와 경제 뉴스를 주시할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 원유 가격 상승과 AI 기술의 발전이 주요 관심사로 나타났습니다. 원유 가격 상승은 경제적 영향을 미치며, 다양한 산업 분야에서 영향을 받을 수 있습니다. 반면, AI 기술의 발전은 다양한 산업 분야에서 적용 가능하며, 비즈니스 모델의 혁신을 가져올 수 있습니다. 또한, 정치 및 사회 문제에 대한 논의와 의견이 많았습니다. 이러한 트렌드에 대한 분석과 대응 전략의 수립이 필요합니다.",
-  "analyzed_at": "2026-03-31T13:30:34.206Z",
+  "narrative": "현재 트럼프와 호르무즈, 한준호의 불출석, AI와 기술에 대한 논의가 많습니다. 사용자들은 이러한 주제에 대해 다양한 반응을 보이고 있습니다. 마케터는 이러한 트렌드를 주시하고, AI와 관련된 기술 개발에 투자할 수 있습니다. 또한, 정치와 경제 뉴스를 주시하여 시장의 변화를 예측할 수 있습니다.",
+  "analyzed_at": "2026-03-31T14:00:34.373Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
