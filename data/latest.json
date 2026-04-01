@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명, 윤석열, 이준석 등 정치인 관련글이 많습니다. 정치 관련된 이야기가 많은 것으로 보입니다.",
+      "topic": "이란-미국 관계",
+      "summary": "이란과 미국의 관계가緊張하고 있으며, 이에 따른 석유 가격 상승과 경제적 영향에 대한 논의가 활발하다. 또한, 이란과 관련된 뉴스와 사건에 대한 관심이 집중되고 있다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자, 현대차, LG전자 등 기업 관련글이 많습니다. 경제 관련된 이야기가 많은 것으로 보입니다.",
-      "post_count": 15,
+      "topic": "자동차 산업",
+      "summary": "자동차 산업에 대한 관심이 높아지고 있으며, 전기자동차와 관련된 뉴스, 기술 개발, 및 시장 동향에 대한 논의가 활발하다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 전기차, 스마트폰 등 기술 관련글이 많습니다. 기술 관련된 이야기가 많은 것으로 보입니다.",
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회에 대한 논의가 활발하다. 특히, 정치인에 대한 평가, 선거, 및 사회 문제에 대한 관심이 집중되고 있다.",
       "post_count": 12,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
+      "keyword": "이란",
+      "count": 15,
       "sentiment": "negative",
-      "context": "정치 관련된 글에서 많이 언급됩니다."
+      "context": "이란과 미국의 관계에 대한 논의"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "경제 관련된 글에서 많이 언급됩니다."
-    },
-    {
-      "keyword": "AI",
+      "keyword": "자동차",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련된 글에서 많이 언급됩니다."
+      "context": "자동차 산업에 대한 관심"
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "정치와 사회에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "중립적이지만 부정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "정치 관련된 이야기가 많습니다.",
-      "action": "정치 관련된 마케팅 전략을 수립하세요.",
+      "insight": "이란-미국 관계의緊張은 석유 가격 상승과 경제적 영향을 미칠 수 있다.",
+      "action": "석유 가격과 경제적 영향을 주시하고, 대응 전략을 수립한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련된 이야기가 많습니다.",
-      "action": "경제 관련된 마케팅 전략을 수립하세요.",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술 관련된 이야기가 많습니다.",
-      "action": "기술 관련된 마케팅 전략을 수립하세요.",
+      "insight": "자동차 산업은 전기자동차와 관련된 기술 개발과 시장 동향에 대한 관심이 높아지고 있다.",
+      "action": "전기자동차와 관련된 기술 개발과 시장 동향을 주시하고, 투자와 마케팅 전략을 수립한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, 경제, 기술 관련된 이야기가 많습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요합니다. 특히, 정치 관련된 이야기가 많기 때문에 정치 관련된 마케팅 전략을 수립하는 것이 필요합니다. 또한, 경제와 기술 관련된 이야기도 많기 때문에 이러한 분야에 대한 마케팅 전략을 수립하는 것이 필요합니다.",
-  "analyzed_at": "2026-04-01T10:00:34.601Z",
+  "narrative": "현재의 트렌드는 이란-미국 관계의緊張과 자동차 산업에 대한 관심이 높아지고 있다. 이러한 트렌드는 석유 가격과 경제적 영향을 미칠 수 있으며, 전기자동차와 관련된 기술 개발과 시장 동향에 대한 관심이 높아지고 있다. 따라서, 석유 가격과 경제적 영향을 주시하고, 대응 전략을 수립하며, 전기자동차와 관련된 기술 개발과 시장 동향을 주시하고, 투자와 마케팅 전략을 수립하는 것이 중요하다. 또한, 정치와 사회에 대한 논의가 활발하므로, 이러한 트렌드를 주시하고, 대응 전략을 수립하는 것이 필요하다.",
+  "analyzed_at": "2026-04-01T11:30:35.262Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
