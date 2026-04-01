@@ -1,56 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 обсужд하고 있습니다.",
-      "post_count": 100,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "수출입통계, 주식시장 등 경제 관련 뉴스가 주를 이루고 있습니다. 수출입통계는 48.3% 증가로 역대 최대치를 기록했습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "정청래, 김관영 전북지사 긴급 윤리감찰 지시 등 정치 관련 뉴스가 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 다양한 기술 관련 주제에 대해 обсужд하고 있습니다.",
-      "post_count": 50,
+      "topic": "기술",
+      "summary": "AI, 반도체 등 기술 관련 뉴스가 있습니다. 오픈AI의 투자 유치, 삼성바이오로직스의 바이오의약품 생산시설 인수 등이 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "일상생활",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "사용자들이 일상생활과 관련된 주제에 대해 обсужд하고 있습니다."
+      "keyword": "수출입통계",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "수출입통계는 48.3% 증가로 역대 최대치를 기록했습니다."
     },
     {
-      "keyword": "기술",
-      "count": 30,
+      "keyword": "주식",
+      "count": 4,
       "sentiment": "positive",
-      "context": "사용자들이 기술 관련 주제에 대해 обсужд하고 있습니다."
+      "context": "주식시장은 상승세를 보이고 있습니다."
+    },
+    {
+      "keyword": "AI",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "AI 관련 뉴스가 많이 등장하고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기입니다."
   },
   "business_insights": [
     {
-      "insight": "사용자들은 일상생활과 기술 관련 주제에 대해 관심이 있습니다.",
-      "action": "관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "수출입통계의 증가",
+      "action": "수출입통계의 증가를 이용한 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 다양한 주제에 대해 обсужд하고 있습니다.",
-      "action": "다양한 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 이용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌와 클리앙 커뮤니티는 사용자들이 다양한 주제에 대해 обсужд하고 있습니다. 사용자들은 일상생활과 기술 관련 주제에 대해 관심이 있습니다. 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다. 또한, 다양한 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다. 중립적인 분위기이므로, 사용자들의 관심을 끌기 위해 다양한 전략을 고려해야 합니다.",
-  "analyzed_at": "2026-03-31T22:30:34.029Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드 분석 결과, 경제와 기술 관련 뉴스가 주를 이루고 있습니다. 수출입통계의 증가와 AI 기술의 발전이 주요 트렌드입니다. 이러한 트렌드를 이용한 마케팅 전략 수립과 새로운 비즈니스 모델 개발이 필요합니다. 또한, 정치 관련 뉴스도 주목할 필요가 있습니다. 전체적으로 긍정적인 분위기이지만, 부정적인 뉴스도 존재하므로 이를 고려한 전략 수립이 필요합니다.",
+  "analyzed_at": "2026-04-01T00:30:34.302Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
