@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명, 문재인 현 시점 지지율 비교 및 정치인들의 최근 활동",
+      "summary": "이재명, 윤석열, 이준석 등 정치인 관련글이 많습니다. 정치 관련된 이야기가 많은 것으로 보입니다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "주식",
-      "summary": "삼전 자사주 소각 및 주가 오르는 느낌",
-      "post_count": 5,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
+      "topic": "경제",
+      "summary": "삼성전자, 현대차, LG전자 등 기업 관련글이 많습니다. 경제 관련된 이야기가 많은 것으로 보입니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
       "topic": "기술",
-      "summary": "애플 창립 50주년 및 새로운 기술 개발",
-      "post_count": 8,
+      "summary": "AI, 전기차, 스마트폰 등 기술 관련글이 많습니다. 기술 관련된 이야기가 많은 것으로 보입니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -27,41 +27,46 @@
       "keyword": "이재명",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치인으로서의 활동"
+      "context": "정치 관련된 글에서 많이 언급됩니다."
     },
     {
-      "keyword": "삼전",
-      "count": 3,
+      "keyword": "삼성전자",
+      "count": 8,
       "sentiment": "positive",
-      "context": "주가 상승"
+      "context": "경제 관련된 글에서 많이 언급됩니다."
     },
     {
-      "keyword": "애플",
-      "count": 2,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "창립 50주년"
+      "context": "기술 관련된 글에서 많이 언급됩니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 불안정성이 경제에 미치는 영향",
-      "action": "정치적 상황을 주시하고 경제적 영향을 분석",
+      "insight": "정치 관련된 이야기가 많습니다.",
+      "action": "정치 관련된 마케팅 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "기술 개발이 산업에 미치는 영향",
-      "action": "신기술 개발을 주시하고 산업적 영향을 분석",
+      "insight": "경제 관련된 이야기가 많습니다.",
+      "action": "경제 관련된 마케팅 전략을 수립하세요.",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 관련된 이야기가 많습니다.",
+      "action": "기술 관련된 마케팅 전략을 수립하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치적 상황과 기술 개발이 경제와 산업에 미치는 영향을 분석한 결과, 정치적 불안정성이 경제에 미치는 영향과 기술 개발이 산업에 미치는 영향을 주시하고 분석하는 것이 중요하다는 것을 알 수 있었다. 또한, 삼전의 자사주 소각과 애플의 창립 50주년 등이 주목을 끌었다. 이러한 상황을 고려하여, 정치적 상황과 기술 개발을 주시하고 경제적 및 산업적 영향을 분석하여 사업 전략을 수립하는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-04-01T08:30:34.279Z",
+  "narrative": "현재의 트렌드는 정치, 경제, 기술 관련된 이야기가 많습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요합니다. 특히, 정치 관련된 이야기가 많기 때문에 정치 관련된 마케팅 전략을 수립하는 것이 필요합니다. 또한, 경제와 기술 관련된 이야기도 많기 때문에 이러한 분야에 대한 마케팅 전략을 수립하는 것이 필요합니다.",
+  "analyzed_at": "2026-04-01T10:00:34.601Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
