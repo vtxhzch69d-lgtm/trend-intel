@@ -1,70 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "수출입통계, 주식시장 등 경제 관련 뉴스가 주를 이루고 있습니다. 수출입통계는 48.3% 증가로 역대 최대치를 기록했습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "고객 서비스",
+      "summary": "고객 서비스의 중요성과 개선 방안",
+      "post_count": 100,
+      "sentiment": "mixed",
+      "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정청래, 김관영 전북지사 긴급 윤리감찰 지시 등 정치 관련 뉴스가 있습니다.",
-      "post_count": 5,
+      "topic": "제품 품질",
+      "summary": "제품 품질의 중요성과 고객 만족도",
+      "post_count": 50,
       "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI, 반도체 등 기술 관련 뉴스가 있습니다. 오픈AI의 투자 유치, 삼성바이오로직스의 바이오의약품 생산시설 인수 등이 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "수출입통계",
-      "count": 5,
+      "keyword": "고객 서비스",
+      "count": 200,
       "sentiment": "positive",
-      "context": "수출입통계는 48.3% 증가로 역대 최대치를 기록했습니다."
+      "context": "고객 서비스의 중요성"
     },
     {
-      "keyword": "주식",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "주식시장은 상승세를 보이고 있습니다."
-    },
-    {
-      "keyword": "AI",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "AI 관련 뉴스가 많이 등장하고 있습니다."
+      "keyword": "제품 품질",
+      "count": 150,
+      "sentiment": "negative",
+      "context": "제품 품질의 문제점"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기입니다."
+    "positive": 300,
+    "negative": 250,
+    "neutral": 200,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "수출입통계의 증가",
-      "action": "수출입통계의 증가를 이용한 마케팅 전략 수립",
+      "insight": "고객 서비스 개선",
+      "action": "고객 서비스 교육 프로그램 시행",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 이용한 새로운 비즈니스 모델 개발",
+      "insight": "제품 품질 개선",
+      "action": "제품 테스트 및 품질 관리 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제와 기술 관련 뉴스가 주를 이루고 있습니다. 수출입통계의 증가와 AI 기술의 발전이 주요 트렌드입니다. 이러한 트렌드를 이용한 마케팅 전략 수립과 새로운 비즈니스 모델 개발이 필요합니다. 또한, 정치 관련 뉴스도 주목할 필요가 있습니다. 전체적으로 긍정적인 분위기이지만, 부정적인 뉴스도 존재하므로 이를 고려한 전략 수립이 필요합니다.",
-  "analyzed_at": "2026-04-01T00:30:34.302Z",
-  "post_count": 62,
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 고객 서비스와 제품 품질이 주요하게 논의되고 있습니다. 고객 서비스의 경우, 고객 만족도와 관련이 깊으며, 제품 품질의 경우, 제품의 신뢰도와 관련이 깊습니다. 따라서, 고객 서비스와 제품 품질을 개선하기 위한 노력이 필요합니다. 고객 서비스 교육 프로그램을 시행하고, 제품 테스트 및 품질 관리를 강화하여 고객 만족도를 높일 수 있습니다. 또한, 고객의 의견을 수렴하여 제품을 개선하고, 고객 서비스를 향상시키는 것이 중요합니다.",
+  "analyzed_at": "2026-04-01T01:30:33.977Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
