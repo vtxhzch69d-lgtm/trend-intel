@@ -1,44 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판을 중심으로 나타남",
-      "post_count": 100,
+      "topic": "경제 및 산업",
+      "summary": "최근 클리앙 커뮤니티에서 삼성전자, 현대차, LG전자 등 대기업의 뉴스와 관련된 게시글이 많이 올라왔습니다. 또한, AI와 관련된 기술 및 산업 동향도 주목을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "클리앙 커뮤니티에서 정치 및 사회 관련된 게시글도 많이 올라왔습니다. 특히, 최근의 뉴스와 관련된 게시글이 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 게임",
+      "summary": "클리앙 커뮤니티에서 기술 및 게임 관련된 게시글도 많이 올라왔습니다. 특히, AI와 관련된 기술 및 게임 뉴스가 주목을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
+      "keyword": "삼성전자",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "context": "클리앙 커뮤니티에서 삼성전자 관련된 뉴스와 게시글이 많이 올라왔습니다."
     },
     {
-      "keyword": "이슈",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "이슈게시판 관련 글"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "클리앙 커뮤니티에서 AI와 관련된 기술 및 산업 동향이 주목을 받고 있습니다."
+    },
+    {
+      "keyword": "현대차",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "클리앙 커뮤니티에서 현대차 관련된 뉴스와 게시글이 올라왔습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "뽐뿌 커뮤니티에서 이슈게시판 관련 글은 대부분 부정적",
-      "action": "이슈게시판 글에 대한 모니터링 강화",
+      "insight": "클리앙 커뮤니티에서 대기업의 뉴스와 관련된 게시글이 많이 올라옵니다.",
+      "action": "대기업의 뉴스와 관련된 마케팅 전략을 수립합니다.",
       "priority": "high"
+    },
+    {
+      "insight": "클리앙 커뮤니티에서 AI와 관련된 기술 및 산업 동향이 주목을 받고 있습니다.",
+      "action": "AI와 관련된 기술 및 산업 동향을 분석하고 마케팅 전략을 수립합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판을 중심으로 나타남. 이슈게시판 관련 글은 대부분 부정적이며, 모니터링을 강화하여 브랜드 이미지를 보호할 필요가 있음. 또한, 커뮤니티에서 나타나는 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있음.",
-  "analyzed_at": "2026-04-01T02:30:33.448Z",
-  "post_count": 2,
+  "narrative": "클리앙 커뮤니티는 대기업의 뉴스와 관련된 게시글이 많이 올라오는 것으로 나타났습니다. 또한, AI와 관련된 기술 및 산업 동향도 주목을 받고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 클리앙 커뮤니티의 사용자들은 중립적인 분위기를 보이지만, AI와 관련된 기술 및 산업 동향에 대해 긍정적인 반응을 보입니다. 따라서, 대기업의 뉴스와 관련된 마케팅 전략을 수립하고, AI와 관련된 기술 및 산업 동향을 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-01T04:00:34.517Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
