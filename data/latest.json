@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "이란 전쟁",
-      "summary": "이란 전쟁 관련 뉴스와 논평이 많습니다. 트럼프의 출생시민권 패소 전망과 이란 외무장관의 발언 등이 논란이 되고 있습니다.",
-      "post_count": 10,
+      "topic": "아르테미스 2호",
+      "summary": "아르테미스 2호에 한국의 큐브위성이 실려있다. 아르테미스 2호의 오리온은 엔진 정상 작동하고 올바른 궤도에 올라갔다.",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "트럼프",
+      "summary": "트럼프의 출생시민권 패소 전망이 우세하고, 대법원에 방청객으로 참석했다.",
+      "post_count": 4,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 논평이 많습니다. 주담대 상단 7% 돌파와 미장의 급등 등이 논란이 되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "기술 관련 뉴스와 논평이 많습니다. 애플의 긴급구조 위치정보 확대와 삼성전자 하만의 전장 기술 공개 등이 논란이 되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
+      "summary": "내수경기 최악이라는 의견과 네이버의 N배송 거래액이 1년만에 71% 증가했다.",
+      "post_count": 3,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "이란 전쟁 관련 뉴스와 논평"
+      "keyword": "아르테미스 2호",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "한국의 큐브위성이 실려있다."
     },
     {
       "keyword": "트럼프",
-      "count": 8,
+      "count": 4,
       "sentiment": "negative",
-      "context": "트럼프의 출생시민권 패소 전망"
+      "context": "출생시민권 패소 전망"
     },
     {
       "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "경제 관련 뉴스와 논평"
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "내수경기와 N배송 거래액"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 5,
+    "negative": 6,
+    "neutral": 4,
+    "overall_mood": "부정적인 기운이 강하지만, 일부 긍정적인 소식도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "이란 전쟁의 가능성이 높아지고 있습니다.",
-      "action": "이란 전쟁 관련 뉴스와 논평을 주시하여 시장의 동향을 파악합니다.",
+      "insight": "아르테미스 2호에 한국의 큐브위성이 실려있다.",
+      "action": "우주 기술 개발에 투자하기",
+      "priority": "medium"
+    },
+    {
+      "insight": "트럼프의 출생시민권 패소 전망이 우세하다.",
+      "action": "정치적 불안정성에 대비하기",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스와 논평이 많습니다.",
-      "action": "경제 관련 뉴스와 논평을 주시하여 시장의 동향을 파악합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술 관련 뉴스와 논평이 많습니다.",
-      "action": "기술 관련 뉴스와 논평을 주시하여 시장의 동향을 파악합니다.",
+      "insight": "네이버의 N배송 거래액이 1년만에 71% 증가했다.",
+      "action": "전자상거래 시장에 진출하기",
       "priority": "medium"
     }
   ],
-  "narrative": "이번 주에 이란 전쟁 관련 뉴스와 논평이 많았습니다. 트럼프의 출생시민권 패소 전망과 이란 외무장관의 발언 등이 논란이 되고 있습니다. 또한, 경제 관련 뉴스와 논평이 많았습니다. 주담대 상단 7% 돌파와 미장의 급등 등이 논란이 되고 있습니다. 기술 관련 뉴스와 논평도 많았습니다. 애플의 긴급구조 위치정보 확대와 삼성전자 하만의 전장 기술 공개 등이 논란이 되고 있습니다. 이러한 뉴스와 논평을 주시하여 시장의 동향을 파악하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-01T22:00:34.429Z",
+  "narrative": "최근의 트렌드는 아르테미스 2호와 트럼프의 출생시민권 패소 전망이 주도하고 있다. 아르테미스 2호에 한국의 큐브위성이 실려있다는 소식은 긍정적인 반응을 불러일으켰지만, 트럼프의 출생시민권 패소 전망은 부정적인 반응을 일으켰다. 또한, 내수경기와 N배송 거래액의 증가 등 경제 관련 소식도 관심을 끌고 있다. 이러한 트렌드를 분석하면, 우주 기술 개발과 전자상거래 시장에 대한 투자 기회를 찾을 수 있을 것이다. 그러나, 정치적 불안정성에 대비하는 것도 중요하다.",
+  "analyzed_at": "2026-04-01T23:30:34.197Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
