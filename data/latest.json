@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이란-미국 관계",
-      "summary": "이란과 미국의 관계가 긴장되고 있으며, 휴전 요청과 관련된 논란이 있습니다. 또한, 이란 외무장관의 트럼프 발언에 대한 반박도 있습니다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "이번 주에는 정치 관련된 글들이 많았습니다. 민주당의 김관영 전격 제명과 트럼프의 출생시민권 패소 전망 등이 주목을 받았습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "미국의 디젤값과 모기지 금리가 상승하고 있으며, 한국의 은행권에서 예금 토큰 결제가 도입될 예정입니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "경제",
+      "summary": "경제 관련된 글들도 많았습니다. 주담대 상단 7% 돌파와 미 휘발유 가격 4달러 돌파 등이 주목을 받았습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "새로운 기술과 제품이 개발되고 있으며, 삼성전자와 애플의 신제품이 출시될 예정입니다.",
-      "post_count": 15,
+      "topic": "기술",
+      "summary": "기술 관련된 글들도 많았습니다. 삼성전자와 하이닉스의 새로운 기술과 제품이 주목을 받았습니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 10,
+      "keyword": "트럼프",
+      "count": 5,
       "sentiment": "negative",
-      "context": "이란과 미국의 관계가 긴장되고 있습니다."
+      "context": "트럼프의 출생시민권 패소 전망"
     },
     {
-      "keyword": "미국",
+      "keyword": "경제",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "미국의 디젤값과 모기지 금리가 상승하고 있습니다."
+      "sentiment": "negative",
+      "context": "주담대 상단 7% 돌파와 미 휘발유 가격 4달러 돌파"
     },
     {
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 4,
       "sentiment": "positive",
-      "context": "삼성전자의 신제품이 출시될 예정입니다."
+      "context": "삼성전자와 하이닉스의 새로운 기술과 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 25,
+    "neutral": 10,
+    "overall_mood": "부정적인 기분이 대부분입니다."
   },
   "business_insights": [
     {
-      "insight": "이란과 미국의 관계가 긴장되고 있습니다.",
-      "action": "이란과 미국의 관계에 대한 최신 정보를 모니터링하세요.",
+      "insight": "정치와 경제 관련된 글들이 많아졌습니다.",
+      "action": "정치와 경제 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "새로운 기술과 제품이 개발되고 있습니다.",
-      "action": "새로운 기술과 제품에 대한 정보를 수집하고, 사업 기회를 찾으세요.",
+      "insight": "기술 관련된 글들이 많아졌습니다.",
+      "action": "기술 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "이번 주에는 이란과 미국의 관계가 긴장되고 있으며, 휴전 요청과 관련된 논란이 있습니다. 또한, 새로운 기술과 제품이 개발되고 있으며, 삼성전자와 애플의 신제품이 출시될 예정입니다. 이러한 정보를 바탕으로, 사업 기회를 찾고, 최신 정보를 모니터링하는 것이 중요합니다. 또한, 이란과 미국의 관계에 대한 최신 정보를 모니터링하고, 새로운 기술과 제품에 대한 정보를 수집하는 것이 필요합니다.",
-  "analyzed_at": "2026-04-01T16:00:34.644Z",
+  "narrative": "이번 주에는 정치와 경제 관련된 글들이 많았습니다. 트럼프의 출생시민권 패소 전망과 주담대 상단 7% 돌파 등이 주목을 받았습니다. 기술 관련된 글들도 많았습니다. 삼성전자와 하이닉스의 새로운 기술과 제품이 주목을 받았습니다. 마케터들은 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 특히 정치와 경제 관련된 마케팅 전략을 수립해야 합니다. 또한 기술 관련된 마케팅 전략을 수립하여 새로운 기술과 제품을 홍보해야 합니다.",
+  "analyzed_at": "2026-04-01T17:30:33.973Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
