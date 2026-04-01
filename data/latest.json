@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "주택담보대출 금리 상승, 美 디젤값 상승, 식료품 가격 상승",
-      "post_count": 10,
+      "topic": "이란-미국 관계",
+      "summary": "이란과 미국의 관계가 긴장되고 있으며, 휴전 요청과 관련된 논란이 있습니다. 또한, 이란 외무장관의 트럼프 발언에 대한 반박도 있습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "민주당, '현금 살포 의혹' 김관영 전북지사 제명 의결, 정원오 후보 해명",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "경제 및 금융",
+      "summary": "미국의 디젤값과 모기지 금리가 상승하고 있으며, 한국의 은행권에서 예금 토큰 결제가 도입될 예정입니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "삼성전자, 갤럭시 북6 국내 출시, 애플 ’긴급구조 위치정보’ 확대",
-      "post_count": 8,
+      "topic": "기술 및 과학",
+      "summary": "새로운 기술과 제품이 개발되고 있으며, 삼성전자와 애플의 신제품이 출시될 예정입니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주택담보대출",
+      "keyword": "이란",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "이란과 미국의 관계가 긴장되고 있습니다."
+    },
+    {
+      "keyword": "미국",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "미국의 디젤값과 모기지 금리가 상승하고 있습니다."
+    },
+    {
+      "keyword": "삼성전자",
       "count": 5,
-      "sentiment": "negative",
-      "context": "금리 상승"
-    },
-    {
-      "keyword": "디젤값",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "상승"
-    },
-    {
-      "keyword": "갤럭시 북6",
-      "count": 2,
       "sentiment": "positive",
-      "context": "국내 출시"
+      "context": "삼성전자의 신제품이 출시될 예정입니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "경제적 불안정성",
-      "action": "재정 계획 수립",
+      "insight": "이란과 미국의 관계가 긴장되고 있습니다.",
+      "action": "이란과 미국의 관계에 대한 최신 정보를 모니터링하세요.",
       "priority": "high"
     },
     {
-      "insight": "기술 발전",
-      "action": "신제품 개발",
+      "insight": "새로운 기술과 제품이 개발되고 있습니다.",
+      "action": "새로운 기술과 제품에 대한 정보를 수집하고, 사업 기회를 찾으세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제적 불안정성과 기술 발전이 주요 관심사로 나타났습니다. 주택담보대출 금리 상승, 디젤값 상승, 식료품 가격 상승 등 경제적 불안정성은 많은 사람들의 관심을 끌었습니다. 또한, 삼성전자, 애플 등의 기술 회사들은 새로운 제품을 출시하며 기술 발전을 주도하고 있습니다. 이러한 트렌드에 따라, 기업들은 재정 계획 수립과 신제품 개발에 집중해야 할 것입니다.",
-  "analyzed_at": "2026-04-01T14:30:34.202Z",
+  "narrative": "이번 주에는 이란과 미국의 관계가 긴장되고 있으며, 휴전 요청과 관련된 논란이 있습니다. 또한, 새로운 기술과 제품이 개발되고 있으며, 삼성전자와 애플의 신제품이 출시될 예정입니다. 이러한 정보를 바탕으로, 사업 기회를 찾고, 최신 정보를 모니터링하는 것이 중요합니다. 또한, 이란과 미국의 관계에 대한 최신 정보를 모니터링하고, 새로운 기술과 제품에 대한 정보를 수집하는 것이 필요합니다.",
+  "analyzed_at": "2026-04-01T16:00:34.644Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
