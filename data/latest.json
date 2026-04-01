@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히, 정부와 정치인에 대한 비판적인 의견이 많았습니다.",
-      "post_count": 15,
+      "topic": "경제",
+      "summary": "주택담보대출 금리 상승, 美 디젤값 상승, 식료품 가격 상승",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 의견이 많았습니다. 특히, 기업과 산업에 대한 뉴스가 많았습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "민주당, '현금 살포 의혹' 김관영 전북지사 제명 의결, 정원오 후보 해명",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "스포츠 관련 뉴스와 의견이 많았습니다. 특히, 축구와 야구에 대한 뉴스가 많았습니다.",
+      "topic": "기술",
+      "summary": "삼성전자, 갤럭시 북6 국내 출시, 애플 ’긴급구조 위치정보’ 확대",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정부",
-      "count": 20,
+      "keyword": "주택담보대출",
+      "count": 5,
       "sentiment": "negative",
-      "context": "정부에 대한 비판적인 의견"
+      "context": "금리 상승"
     },
     {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 의견"
+      "keyword": "디젤값",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "상승"
     },
     {
-      "keyword": "스포츠",
-      "count": 10,
+      "keyword": "갤럭시 북6",
+      "count": 2,
       "sentiment": "positive",
-      "context": "스포츠 관련 뉴스와 의견"
+      "context": "국내 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
-      "action": "관련 뉴스와 의견을 제공하여 사용자에게 가치를 제공합니다.",
+      "insight": "경제적 불안정성",
+      "action": "재정 계획 수립",
       "priority": "high"
     },
     {
-      "insight": "스포츠에 대한 관심이 높아지고 있습니다.",
-      "action": "스포츠 관련 뉴스와 의견을 제공하여 사용자에게 가치를 제공합니다.",
+      "insight": "기술 발전",
+      "action": "신제품 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 경제에 대한 관심이 높아지고 있습니다. 특히, 정부와 정치인에 대한 비판적인 의견이 많았습니다. 또한, 경제 관련 뉴스와 의견이 많았습니다. 스포츠에도 많은 관심이 집중되어 있습니다. 이러한 트렌드를 반영하여 관련 뉴스와 의견을 제공하여 사용자에게 가치를 제공할 수 있습니다. 또한, 사용자의 관심과 의견을 분석하여 더 나은 서비스를 제공할 수 있습니다.",
-  "analyzed_at": "2026-04-01T13:00:34.319Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 경제적 불안정성과 기술 발전이 주요 관심사로 나타났습니다. 주택담보대출 금리 상승, 디젤값 상승, 식료품 가격 상승 등 경제적 불안정성은 많은 사람들의 관심을 끌었습니다. 또한, 삼성전자, 애플 등의 기술 회사들은 새로운 제품을 출시하며 기술 발전을 주도하고 있습니다. 이러한 트렌드에 따라, 기업들은 재정 계획 수립과 신제품 개발에 집중해야 할 것입니다.",
+  "analyzed_at": "2026-04-01T14:30:34.202Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
