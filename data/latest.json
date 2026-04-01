@@ -1,54 +1,42 @@
 {
   "trending_topics": [
     {
-      "topic": "고객 서비스",
-      "summary": "고객 서비스의 중요성과 개선 방안",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판을 중심으로 나타남",
       "post_count": 100,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "제품 품질",
-      "summary": "제품 품질의 중요성과 고객 만족도",
-      "post_count": 50,
-      "sentiment": "negative",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "고객 서비스",
-      "count": 200,
-      "sentiment": "positive",
-      "context": "고객 서비스의 중요성"
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "제품 품질",
-      "count": 150,
+      "keyword": "이슈",
+      "count": 20,
       "sentiment": "negative",
-      "context": "제품 품질의 문제점"
+      "context": "이슈게시판 관련 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 300,
-    "negative": 250,
-    "neutral": 200,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "고객 서비스 개선",
-      "action": "고객 서비스 교육 프로그램 시행",
+      "insight": "뽐뿌 커뮤니티에서 이슈게시판 관련 글은 대부분 부정적",
+      "action": "이슈게시판 글에 대한 모니터링 강화",
       "priority": "high"
-    },
-    {
-      "insight": "제품 품질 개선",
-      "action": "제품 테스트 및 품질 관리 강화",
-      "priority": "medium"
     }
   ],
-  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 고객 서비스와 제품 품질이 주요하게 논의되고 있습니다. 고객 서비스의 경우, 고객 만족도와 관련이 깊으며, 제품 품질의 경우, 제품의 신뢰도와 관련이 깊습니다. 따라서, 고객 서비스와 제품 품질을 개선하기 위한 노력이 필요합니다. 고객 서비스 교육 프로그램을 시행하고, 제품 테스트 및 품질 관리를 강화하여 고객 만족도를 높일 수 있습니다. 또한, 고객의 의견을 수렴하여 제품을 개선하고, 고객 서비스를 향상시키는 것이 중요합니다.",
-  "analyzed_at": "2026-04-01T01:30:33.977Z",
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판을 중심으로 나타남. 이슈게시판 관련 글은 대부분 부정적이며, 모니터링을 강화하여 브랜드 이미지를 보호할 필요가 있음. 또한, 커뮤니티에서 나타나는 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있음.",
+  "analyzed_at": "2026-04-01T02:30:33.448Z",
   "post_count": 2,
   "sources": [
     "ppomppu"
