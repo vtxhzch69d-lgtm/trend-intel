@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피와 코스닥이 상승세를 보이고 있으며, 외인 자금이 들어오고 있다. 삼성전자와 한화 등의 기업이 관련 뉴스를 내고 있다.",
-      "post_count": 10,
+      "topic": "만우절",
+      "summary": "클리앙 커뮤니티에서 만우절 관련 게시글이 인기입니다. 크라운 만우절 이벤트, 넷플릭스코리아 x 만우절 등 다양한 만우절 관련 주제가 обсужд되고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "주식",
+      "summary": "클리앙 커뮤니티에서 주식 관련 게시글이 인기입니다. 주식으로 돈 번 사람이 생각보다 많지는 않다는 주제가 обсужд되고 있습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 오픈AI와 네이버 AI 등의 기업이 관련 뉴스를 내고 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스가 많으며, 윤석열과 이재명 등의 인물이 언급되고 있다.",
-      "post_count": 6,
-      "sentiment": "mixed",
+      "topic": "AI",
+      "summary": "클리앙 커뮤니티에서 AI 관련 게시글이 인기입니다. AI 가짜판례 검증 없이 내면 과태료 부과·징계 등 다양한 AI 관련 주제가 обсужд되고 있습니다.",
+      "post_count": 4,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
+      "keyword": "만우절",
+      "count": 5,
       "sentiment": "positive",
-      "context": "주식 시장 관련 뉴스"
+      "context": "크라운 만우절 이벤트, 넷플릭스코리아 x 만우절 등 다양한 만우절 관련 주제"
+    },
+    {
+      "keyword": "주식",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "주식으로 돈 번 사람이 생각보다 많지는 않다는 주제"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술 관련 뉴스"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "삼성전자 관련 뉴스"
+      "count": 4,
+      "sentiment": "negative",
+      "context": "AI 가짜판례 검증 없이 내면 과태료 부과·징계 등 다양한 AI 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
+    "positive": 10,
+    "negative": 15,
     "neutral": 20,
-    "overall_mood": "긍정적"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승세를 이용하여 투자할 기회가 있다.",
-      "action": "주식 투자",
-      "priority": "high"
+      "insight": "만우절 관련 마케팅 캠페인",
+      "action": "만우절 관련 콘텐츠 생성",
+      "priority": "low"
     },
     {
-      "insight": "AI 기술의 발전을 이용하여 새로운 비즈니스 모델을 개발할 수 있다.",
-      "action": "AI 기술 개발",
+      "insight": "주식 관련 마케팅 캠페인",
+      "action": "주식 관련 콘텐츠 생성",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 관련 마케팅 캠페인",
+      "action": "AI 관련 콘텐츠 생성",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 주식 시장은 상승세를 보이고 있으며, 외인 자금이 들어오고 있다. 또한, AI 기술의 발전이 다양한 분야에서 적용되고 있다. 이러한 추세를 이용하여 주식 투자와 AI 기술 개발을 통해 새로운 비즈니스 모델을 개발할 수 있다. 그러나, 정치 관련 뉴스가 많으며, 이를 주의하여야 한다.",
-  "analyzed_at": "2026-04-01T05:30:33.825Z",
+  "narrative": "클리앙 커뮤니티에서 만우절, 주식, AI 등 다양한 주제가 인기입니다. 만우절 관련 마케팅 캠페인을 통해 고객과의 상호작용을 증가시킬 수 있습니다. 주식 관련 마케팅 캠페인을 통해 투자자들의 관심을 끌 수 있습니다. AI 관련 마케팅 캠페인을 통해 고객들의 니즈를 충족시킬 수 있습니다. 이러한 마케팅 캠페인을 통해 고객과의 관계를 강화하고, 브랜드 이미지를 개선할 수 있습니다.",
+  "analyzed_at": "2026-04-01T07:00:34.136Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
