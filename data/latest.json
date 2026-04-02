@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "국방 및 방위산업",
-      "summary": "한화에어로, 美서 탄약 직접생산 '정조준' 및 현대차, ‘볼더’ 콘셉트 공개 등 국방 및 방위산업 관련 뉴스가 트렌드하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "유가 엄청 오르네요, 기름값 뛰자 전기차로 이동…현대차·기아, 3월 판매 두 배 증가 등 경제 및 금융 관련 뉴스가 트렌드하고 있습니다.",
-      "post_count": 8,
+      "topic": "정치 및 경제",
+      "summary": "문재인 정부의 정책과 경제 상황에 대한 논의",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "기술 및 과학",
-      "summary": "AI 관련 뉴스 및 우주항공청 아르테미스 2호에 탑재된 국내개발 큐브위성(K-RadCube) 사출 성공 등 기술 및 과학 관련 뉴스가 트렌드하고 있습니다.",
-      "post_count": 12,
+      "summary": "최신 기술 및 과학 뉴스와 발전에 대한 논의",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화 현상에 대한 논의",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "한화에어로",
+      "keyword": "문재인",
       "count": 5,
-      "sentiment": "positive",
-      "context": "한화에어로, 美서 탄약 직접생산 '정조준'"
+      "sentiment": "negative",
+      "context": "문재인 정부의 정책에 대한 비판"
     },
     {
-      "keyword": "현대차",
+      "keyword": "테슬라",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "테슬라의 전기차 기술에 대한 논의"
+    },
+    {
+      "keyword": "코인",
       "count": 4,
-      "sentiment": "positive",
-      "context": "현대차, ‘볼더’ 콘셉트 …공개"
-    },
-    {
-      "keyword": "AI",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "AI 관련 뉴스"
+      "sentiment": "mixed",
+      "context": "코인의 시장 상황과 투자에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "트렌드는 주로 긍정적인 뉴스와 기술 및 과학 관련 뉴스로 구성되어 있습니다."
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "국방 및 방위산업 관련 뉴스가 트렌드하고 있습니다.",
-      "action": "국방 및 방위산업 관련 제품이나 서비스를 개발하거나 투자하는 것을 고려해 볼 수 있습니다.",
+      "insight": "전기차 시장의 성장",
+      "action": "전기차 관련 제품 및 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스가 트렌드하고 있습니다.",
-      "action": "경제 및 금융 관련 제품이나 서비스를 개발하거나 투자하는 것을 고려해 볼 수 있습니다.",
+      "insight": "코인 시장의 불안정성",
+      "action": "코인 투자에 대한 주의",
       "priority": "medium"
     }
   ],
-  "narrative": "트렌드는 주로 국방 및 방위산업, 경제 및 금융, 기술 및 과학 관련 뉴스로 구성되어 있습니다. 이러한 트렌드는 기업이나 투자자에게 새로운 기회를 제공할 수 있습니다. 특히, 국방 및 방위산업 관련 뉴스는 높은 우선순위를 가지고 있습니다. 또한, 기술 및 과학 관련 뉴스는 긍정적인 감정과 높은 우선순위를 가지고 있습니다. 이러한 트렌드를 고려하여 기업이나 투자자는 새로운 제품이나 서비스를 개발하거나 투자하는 것을 고려해 볼 수 있습니다.",
-  "analyzed_at": "2026-04-02T11:00:34.013Z",
+  "narrative": "최근의 트렌드는 정치 및 경제, 기술 및 과학, 사회 및 문화 등 다양한 주제에 대한 논의를 보여주고 있습니다. 특히 전기차 시장의 성장과 코인 시장의 불안정성에 대한 논의가 많았습니다. 이러한 트렌드를 통해 기업은 전기차 관련 제품 및 서비스 개발과 코인 투자에 대한 주의를 통해 비즈니스 기회를 찾을 수 있을 것입니다.",
+  "analyzed_at": "2026-04-02T12:30:34.020Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
