@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "테슬라",
-      "summary": "테슬라의 1분기 생산량과 에너지 저장량이 공개되었습니다.",
-      "post_count": 2,
+      "topic": "호르무즈 해협",
+      "summary": "호르무즈 해협 통행료 및 통과 과정에 관한 논의",
+      "post_count": 5,
       "sentiment": "neutral",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "나스닥의 급반등, 환율, 양전 등 경제 및 금융 관련 주제",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "아르테미스 2호",
-      "summary": "아르테미스 2호의 화장실 고장이 해결된 모양입니다.",
-      "post_count": 2,
+      "topic": "테크 및 IT",
+      "summary": "최신 기술 및 IT 관련 뉴스, 제품 출시 등",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "low"
-    },
-    {
-      "topic": "전기차",
-      "summary": "기름값이 뛰자 전기차로 이동하는 사람들이 증가하고 있습니다.",
-      "post_count": 1,
-      "sentiment": "positive",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "테슬라",
-      "count": 2,
+      "keyword": "호르무즈 해협",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "테슬라의 1분기 생산량과 에너지 저장량"
+      "context": "호르무즈 해협 통행료 및 통과 과정"
     },
     {
-      "keyword": "아르테미스 2호",
+      "keyword": "나스닥",
       "count": 2,
       "sentiment": "positive",
-      "context": "아르테미스 2호의 화장실 고장이 해결된 모양"
+      "context": "나스닥의 급반등"
     },
     {
-      "keyword": "전기차",
-      "count": 1,
-      "sentiment": "positive",
-      "context": "기름값이 뛰자 전기차로 이동하는 사람들이 증가"
+      "keyword": "환율",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "환율 변동"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 25,
+    "positive": 15,
+    "negative": 8,
+    "neutral": 12,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "전기차 시장의 성장",
-      "action": "전기차 관련 제품이나 서비스 개발",
+      "insight": "호르무즈 해협 통행료 및 통과 과정은 경제 및 금융 시장에 영향을 미칠 수 있다.",
+      "action": "관련 뉴스 및 데이터를 모니터링",
       "priority": "high"
     },
     {
-      "insight": "테슬라의 생산량 증가",
-      "action": "테슬라의 생산량과 에너지 저장량을 주시",
+      "insight": "나스닥의 급반등은 경제 회복의 신호일 수 있다.",
+      "action": "투자 전략을 재평가",
       "priority": "medium"
-    },
-    {
-      "insight": "아르테미스 2호의 성공",
-      "action": "우주 산업의 발전에 관심을 가질 것",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 전기차와 테슬라, 아르테미스 2호를 중심으로 형성되고 있습니다. 전기차 시장의 성장은 기름값의 증가와 관련이 있으며, 테슬라의 생산량 증가와 아르테미스 2호의 성공은 우주 산업의 발전에 긍정적인 영향을 미칠 수 있습니다. 따라서 전기차 관련 제품이나 서비스 개발, 테슬라의 생산량과 에너지 저장량을 주시, 우주 산업의 발전에 관심을 가지는 것이 중요할 것입니다.",
-  "analyzed_at": "2026-04-02T14:00:34.402Z",
+  "narrative": "최근의 트렌드 분석 결과, 호르무즈 해협 통행료 및 통과 과정, 나스닥의 급반등, 환율 변동 등이 주요 관심사로 나타났다. 이러한 주제들은 경제 및 금융 시장에 영향을 미칠 수 있으며, 관련 뉴스 및 데이터를 모니터링하는 것이 중요하다. 또한, 나스닥의 급반등은 경제 회복의 신호일 수 있으므로 투자 전략을 재평가하는 것이 필요하다.",
+  "analyzed_at": "2026-04-02T15:30:33.963Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
