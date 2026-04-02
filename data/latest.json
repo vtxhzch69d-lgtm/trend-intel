@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이란 통행료",
-      "summary": "이란이 통행료를 배럴당 1달러로 책정하고 위안화와 코인을 결제 수단으로 사용한다는 소식이 전해짐에 따라 관련 게시물이 많이 올라왔습니다. 이에 대한 반응은 다양하지만, 대부분이 이란의 결정이 세계 경제에 미칠 영향에 관심을 보이고 있습니다.",
-      "post_count": 3,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "트럼프 대국민 연설",
-      "summary": "트럼프의 대국민 연설이 곧 진행될 예정임에 따라, 많은 사람들이 이에 대한 관심을 보이고 있습니다. 연설에서 어떤 내용이 논의될지에 대한 기대와 우려가 공존하고 있습니다.",
-      "post_count": 2,
-      "sentiment": "mixed",
+      "topic": "트럼프의 이란 전쟁 발언",
+      "summary": "트럼프의 이란 전쟁 발언에 대한 반응과 분석",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "홍준표의 발언",
-      "summary": "홍준표의 최근 발언이 논란을 일으키고 있습니다. 그의 발언에 대한 반응은 양분되어 있으며, 일부에서는 그의 발언을 поддерж하는 반면, 다른 사람들은 그의 발언을 비판하고 있습니다.",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "국제 정치 및 경제",
+      "summary": "국제 정치 및 경제 뉴스와 분석",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "테크 및 IT",
+      "summary": "최신 테크 및 IT 뉴스와 분석",
+      "post_count": 25,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "이란의 통행료 결정과 관련된 게시물에서 많이 언급됨"
-    },
-    {
       "keyword": "트럼프",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "트럼프의 대국민 연설과 관련된 게시물에서 많이 언급됨"
+      "count": 20,
+      "sentiment": "negative",
+      "context": "이란 전쟁 발언"
     },
     {
-      "keyword": "홍준표",
-      "count": 3,
+      "keyword": "이란",
+      "count": 15,
       "sentiment": "negative",
-      "context": "홍준표의 최근 발언과 관련된 게시물에서 많이 언급됨"
+      "context": "트럼프의 전쟁 발언"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "신제품 출시 및 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 반응이 가장 많지만, 부정적인 반응도 상당수 존재"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "이란의 통행료 결정이 세계 경제에 미칠 영향",
-      "action": "관련 뉴스와 분석을 계속 모니터링",
+      "insight": "트럼프의 이란 전쟁 발언은 국제 정치 및 경제에 큰 영향을 미칠 수 있다",
+      "action": "관련 뉴스와 분석을 주시하고 대비책을 마련한다",
       "priority": "high"
     },
     {
-      "insight": "트럼프의 대국민 연설이 국내 정치와 경제에 미칠 영향",
-      "action": "관련 뉴스와 분석을 계속 모니터링",
-      "priority": "medium"
-    },
-    {
-      "insight": "홍준표의 발언이 국내 정치와 사회에 미칠 영향",
-      "action": "관련 뉴스와 분석을 계속 모니터링",
+      "insight": "테크 및 IT 분야의 발전은 기업의 경쟁력에 큰 영향을 미친다",
+      "action": "최신 테크 및 IT 뉴스와 분석을 주시하고 투자한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 이란의 통행료 결정과 트럼프의 대국민 연설, 홍준표의 발언이 주요 관심사로 나타났습니다. 이에 대한 반응은 다양하지만, 대부분이 중립적인 반응을 보이고 있습니다. 그러나 일부에서는 부정적인 반응도 존재합니다. 이러한 트렌드와 반응을 고려하여, 관련 뉴스와 분석을 계속 모니터링하고, 이를 통해 사업에 필요한 인사이트를 얻는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-04-02T01:00:35.128Z",
+  "narrative": "트럼프의 이란 전쟁 발언은 국제 정치 및 경제에 큰 영향을 미칠 수 있다. 관련 뉴스와 분석을 주시하고 대비책을 마련하는 것이 중요하다. 또한, 테크 및 IT 분야의 발전은 기업의 경쟁력에 큰 영향을 미친다. 최신 테크 및 IT 뉴스와 분석을 주시하고 투자하는 것이 필요하다. 부정적인 감정의 우세로 인해 소비자들의 심리가 불안정할 수 있으므로, 기업들은 소비자들의 심리를 안정시키기 위한 마케팅 전략을 수립해야 한다.",
+  "analyzed_at": "2026-04-02T02:30:33.851Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
