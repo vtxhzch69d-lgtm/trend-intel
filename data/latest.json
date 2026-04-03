@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "테크 및 과학",
-      "summary": "최신 기술 및 과학 관련 뉴스와 발전이 주목을 받고 있습니다. 아르테미스 2호의 달 향한 우주비행, 구글의 새로운 AI 모델 공개, 스페이스X의 시총 2조달러 목표 등이 포함됩니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치 및 사회",
+      "summary": "대구시장 여론조사 추이, 배현진 서울지역 후보 구하기 어려워, 선거비도 못 건질까 기피 현실",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 경제",
-      "summary": "국내외 정치 및 경제 관련 뉴스가 활발합니다. 북한의 장사정포 대응, 테슬라의 수입차업체 첫 월 판매량 1만대 돌파, 대한항공의 우주 궤도수송선 신사업 협력 등이 포함됩니다.",
-      "post_count": 12,
-      "sentiment": "mixed",
+      "topic": "테크 및 과학",
+      "summary": "아르테미스 2호 지구 궤도 벗어나, 본격 달 향한 우주비행, 스페이스X 시총 2조달러 목표",
+      "post_count": 7,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠 및 엔터테인먼트",
-      "summary": "스포츠와 엔터테인먼트 관련 뉴스도 주목을 받고 있습니다. LCK KT의 첫 주 승리, 아이언맨의 시즌2 시청 이유, 유튜버 여행가제이의 결혼 관련 글 등이 포함됩니다.",
-      "post_count": 8,
+      "topic": "스포츠",
+      "summary": "LCK KT가 첫 주에 T1과 젠지를 모두 압살, 수원 승요됐네요",
+      "post_count": 3,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 7,
+      "keyword": "아르테미스 2호",
+      "count": 3,
       "sentiment": "positive",
-      "context": "최신 기술 발전과 관련된 키워드"
+      "context": "달 향한 우주비행"
     },
     {
-      "keyword": "테슬라",
+      "keyword": "대구시장",
       "count": 2,
-      "sentiment": "positive",
-      "context": "전기차와 관련된 뉴스"
+      "sentiment": "negative",
+      "context": "여론조사 추이"
     },
     {
       "keyword": "스페이스X",
       "count": 2,
       "sentiment": "positive",
-      "context": "우주 기술과 관련된 뉴스"
+      "context": "시총 2조달러 목표"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 15,
     "negative": 10,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 과학 관련 뉴스와 발전이 주목을 받고 있습니다.",
-      "action": "관련 기술 및 제품 개발에 투자",
+      "insight": "테크 및 과학 분야의 뉴스가 증가하고 있습니다.",
+      "action": "관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "국내외 정치 및 경제 관련 뉴스가 활발합니다.",
-      "action": "시장 동향을 주시하고 대응 전략을 수립",
+      "insight": "정치 및 사회 분야의 뉴스가 여전히 중요합니다.",
+      "action": "관련 콘텐츠 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 테크 및 과학, 정치 및 경제, 스포츠 및 엔터테인먼트 관련 뉴스가 주목을 받고 있습니다. 특히 최신 기술 발전과 관련된 키워드가 많이 등장하고 있습니다. 이러한 트렌드를 반영하여 관련 기술 및 제품 개발에 투자하고, 시장 동향을 주시하여 대응 전략을 수립하는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-04-03T12:00:34.142Z",
+  "narrative": "최근의 트렌드는 테크 및 과학 분야의 뉴스가 증가하고 있습니다. 아르테미스 2호의 달 향한 우주비행과 스페이스X의 시총 2조달러 목표가 주목을 받고 있습니다. 또한, 정치 및 사회 분야의 뉴스가 여전히 중요합니다. 대구시장 여론조사 추이와 배현진의 서울지역 후보 구하기 어려워하는 기피 현실이 논의되고 있습니다. 이러한 트렌드를 고려하여 관련 콘텐츠 개발과 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-03T13:30:33.844Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
