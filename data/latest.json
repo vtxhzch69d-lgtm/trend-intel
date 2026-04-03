@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 경제",
-      "summary": "국내 정치 및 경제 관련 뉴스와 논란이 많은 주제입니다. 최근 윤석열 정부와 국정원, 대통령실의 대북송금 사건, 물가 상승률, 한국경제의 산업별 성장 추이 등이 논란의 중심입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "이재명과 공범으로 갈것, 윤석열 정부 국정원 대북송금 사건",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 관련 뉴스와 개발이 많은 주제입니다. 최근 아르테미스 2호, 우주비행, AI 음악 생성 앱, 마이크로소프트의 AI 모델 공개 등이 주목을 받고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "물가 상승률 5년 내 최저, 한국경제 산업별 성장 추이",
+      "post_count": 4,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 관련 뉴스와 논란이 많은 주제입니다. 최근 해리포터 드라마의 인종 갈아끼우기 논란, 곽상언의 인간에 대한 환멸, 지인에게 추천했지만 반응 안 좋았던 락밴드 음악 등이 논란의 중심입니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "AI 음악 생성 앱 출시, 구글 앱 수수료 인하",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "윤석열 정부",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "대북송금 사건과 물가 상승률 관련 논란"
-    },
-    {
-      "keyword": "아르테미스 2호",
+      "keyword": "이재명",
       "count": 3,
-      "sentiment": "positive",
-      "context": "우주비행과 기술 개발 관련 뉴스"
+      "sentiment": "negative",
+      "context": "정치 관련 논란"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 개발과 음악 생성 앱 관련 뉴스"
+      "context": "기술 발전과 혁신"
+    },
+    {
+      "keyword": "경제",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "한국경제 산업별 성장 추이"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정과 논란이 많은 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적이지만 약간 부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "국내 정치 및 경제 관련 뉴스와 논란을 주시하여 브랜드 이미지를 관리해야 합니다.",
-      "action": "정치 및 경제 관련 뉴스와 논란을 주시하고 브랜드 이미지를 관리하는 전략을 수립해야 합니다.",
+      "insight": "정치 관련 논란이 계속 증가하고 있다",
+      "action": "정치 관련이슈에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 개발과 AI 관련 뉴스를 주시하여 새로운 비즈니스 기회를 발굴해야 합니다.",
-      "action": "최신 기술 개발과 AI 관련 뉴스를 주시하고 새로운 비즈니스 기회를 발굴하는 전략을 수립해야 합니다.",
+      "insight": "AI 기술이 다양한 분야에서 적용되고 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 국내 정치 및 경제 관련 뉴스와 논란이 많은 주제입니다. 윤석열 정부와 국정원, 대통령실의 대북송금 사건, 물가 상승률, 한국경제의 산업별 성장 추이 등이 논란의 중심입니다. 또한 최신 기술 및 과학 관련 뉴스와 개발이 많은 주제입니다. 아르테미스 2호, 우주비행, AI 음악 생성 앱, 마이크로소프트의 AI 모델 공개 등이 주목을 받고 있습니다. 이러한 트렌드를 주시하여 브랜드 이미지를 관리하고 새로운 비즈니스 기회를 발굴해야 합니다.",
-  "analyzed_at": "2026-04-03T18:00:34.238Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치 관련 논란이 계속 증가하고 있으며, 경제와 기술 분야에서도 다양한 이슈들이 обсужд되고 있다. 특히 AI 기술은 다양한 분야에서 적용되고 있으며, 이를 활용한 새로운 비즈니스 모델 개발이 필요하다. 또한, 정치 관련 이슈에 대한 대응 전략 수립이 필요하다. 이러한 트렌드와 인사이트를 고려하여, 기업은 새로운 비즈니스 기회를 발굴하고, 정치 관련 이슈에 대한 대응 전략을 수립하여야 한다.",
+  "analyzed_at": "2026-04-03T19:30:33.933Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
