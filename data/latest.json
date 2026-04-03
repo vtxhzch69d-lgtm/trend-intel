@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이 대통령 지지율 67%로 다시 최고치, 국힘 18% 최저치 경신",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "D램값 두 배 올랐다, 삼성·하이닉스 이익도 두 배 뛴 듯",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "우주항공청 아르테미스 2호에 탑재된 국내개발 큐브위성(K-RadCube) 사출 성공 및 교신",
+      "topic": "자동차",
+      "summary": "BMW 520 예전 모델이 더 이쁜것 같나요?",
       "post_count": 2,
       "sentiment": "positive",
       "urgency": "low"
+    },
+    {
+      "topic": "경제",
+      "summary": "외환보유액 소진속도가 심상치않네요",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "테슬라, 수입차업체 처음으로 월 판매량 1만대 돌파",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이 대통령",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "정치 뉴스"
-    },
-    {
-      "keyword": "삼성",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "경제 뉴스"
-    },
-    {
-      "keyword": "우주",
+      "keyword": "BMW",
       "count": 2,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "자동차"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "기술"
+    },
+    {
+      "keyword": "외환보유액",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "경제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 15,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 뉴스에 대한 관심이 높아지고 있다",
-      "action": "정치 뉴스에 대한 콘텐츠를 생성한다",
+      "insight": "자동차 시장의 트렌드",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스에 대한 관심이 높아지고 있다",
-      "action": "경제 뉴스에 대한 콘텐츠를 생성한다",
+      "insight": "경제 상황의 악화",
+      "action": "위험 관리 대책 마련",
       "priority": "medium"
     },
     {
-      "insight": "기술 뉴스에 대한 관심이 높아지고 있다",
-      "action": "기술 뉴스에 대한 콘텐츠를 생성한다",
+      "insight": "기술의 발전",
+      "action": "신기술 도입 검토",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 경제, 기술 뉴스에 대한 관심이 높아지고 있다. 특히, 이 대통령에 대한 지지율과 경제 뉴스에 대한 관심이 높아지고 있다. 기술 뉴스에 대한 관심도 높아지고 있지만, 우선순위는 낮다. 이러한 트렌드를 고려하여 콘텐츠를 생성하고, 마케팅 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-04-03T03:30:33.491Z",
+  "narrative": "현재의 트렌드는 자동차와 경제, 기술에 관한 주제가 중심이 되고 있습니다. 자동차 시장에서는 BMW 520 예전 모델이 더 이쁜것 같나요?라는 주제가 обсужд되고 있으며, 경제 상황에서는 외환보유액 소진속도가 심상치않네요라는 주제가 обсужд되고 있습니다. 기술에서는 테슬라, 수입차업체 처음으로 월 판매량 1만대 돌파라는 주제가 обсужд되고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하고, 위험 관리 대책을 마련하며, 신기술 도입을 검토하여 사업을 발전시킬 수 있습니다.",
+  "analyzed_at": "2026-04-03T05:00:35.020Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
