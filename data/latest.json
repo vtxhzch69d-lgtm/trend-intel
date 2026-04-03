@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "윤석열 정부 국정원·대통령실 쌍방울 대북송금 사건 관여, 트럼프 행정부의 FBI국장·노동장관·육군장관 교체 논의 등 정치 관련 글들이 많은 관심을 받고 있습니다.",
-      "post_count": 10,
+      "summary": "이재명과 공범으로 갈것, 검찰수사 로드맵 담긴 녹취 추가 공개",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "물가 상승률 5년 내 최저, 한국경제의 산업별 성장 추이 등 경제 관련 글들이 많은 관심을 받고 있습니다.",
+      "summary": "물가 상승률 5년 내 최저, 한국경제의 산업별 성장 추이",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "아르테미스 2호의 달 향한 우주비행, 구글의 AI 음악 생성 앱 출시 등 기술 관련 글들이 많은 관심을 받고 있습니다.",
-      "post_count": 12,
+      "summary": "아르테미스 2호 지구 궤도 벗어나, 본격 달 향한 우주비행",
+      "post_count": 6,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "트럼프 행정부의 FBI국장·노동장관·육군장관 교체 논의"
-    },
-    {
-      "keyword": "윤석열",
+      "keyword": "이재명",
       "count": 3,
       "sentiment": "negative",
-      "context": "윤석열 정부 국정원·대통령실 쌍방울 대북송금 사건 관여"
+      "context": "정치 관련 논란"
     },
     {
       "keyword": "아르테미스 2호",
-      "count": 4,
+      "count": 2,
       "sentiment": "positive",
-      "context": "아르테미스 2호의 달 향한 우주비행"
+      "context": "우주 탐사"
+    },
+    {
+      "keyword": "물가 상승률",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제 관련 글들이 많은 관심을 받고 있습니다.",
-      "action": "정치와 경제 관련 콘텐츠를 생성하여 사용자의 관심을 끌어야 합니다.",
+      "insight": "정치 관련 논란이 증가하고 있다",
+      "action": "정치 관련 뉴스에 대한 모니터링 강화",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 글들이 많은 관심을 받고 있습니다.",
-      "action": "기술 관련 콘텐츠를 생성하여 사용자의 관심을 끌어야 합니다.",
+      "insight": "경제 관련 뉴스가 증가하고 있다",
+      "action": "경제 관련 뉴스에 대한 분석 강화",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 관련 뉴스가 증가하고 있다",
+      "action": "기술 관련 뉴스에 대한 모니터링 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 경제 관련 글들이 많은 관심을 받고 있습니다. 특히, 윤석열 정부 국정원·대통령실 쌍방울 대북송금 사건 관여와 트럼프 행정부의 FBI국장·노동장관·육군장관 교체 논의 등 정치 관련 글들이 많은 관심을 받고 있습니다. 또한, 물가 상승률 5년 내 최저와 한국경제의 산업별 성장 추이 등 경제 관련 글들이 많은 관심을 받고 있습니다. 기술 관련 글들도 많은 관심을 받고 있습니다. 아르테미스 2호의 달 향한 우주비행과 구글의 AI 음악 생성 앱 출시 등 기술 관련 글들이 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여, 정치와 경제 관련 콘텐츠를 생성하여 사용자의 관심을 끌어야 합니다. 또한, 기술 관련 콘텐츠를 생성하여 사용자의 관심을 끌어야 합니다.",
-  "analyzed_at": "2026-04-03T15:00:34.060Z",
+  "narrative": "최근의 트렌드는 정치, 경제, 기술 관련 뉴스에 대한 관심이 증가하고 있다. 정치 관련 논란이 증가하고 있으며, 경제 관련 뉴스도 증가하고 있다. 기술 관련 뉴스도 증가하고 있으며, 아르테미스 2호의 우주 탐사 관련 뉴스가 주목을 받고 있다. 이러한 트렌드는 기업의 마케팅 전략에 대한 영향을 미칠 수 있으며, 관련 뉴스에 대한 모니터링과 분석이 필요하다.",
+  "analyzed_at": "2026-04-03T16:30:34.299Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
