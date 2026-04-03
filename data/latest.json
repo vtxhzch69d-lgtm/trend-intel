@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "대구시장 여론조사 추이, 배현진 서울지역 후보 구하기 어려워, 선거비도 못 건질까 기피 현실",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "윤석열 정부 국정원·대통령실 쌍방울 대북송금 사건 관여, 트럼프 행정부의 FBI국장·노동장관·육군장관 교체 논의 등 정치 관련 글들이 많은 관심을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크 및 과학",
-      "summary": "아르테미스 2호 지구 궤도 벗어나, 본격 달 향한 우주비행, 스페이스X 시총 2조달러 목표",
-      "post_count": 7,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "물가 상승률 5년 내 최저, 한국경제의 산업별 성장 추이 등 경제 관련 글들이 많은 관심을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "LCK KT가 첫 주에 T1과 젠지를 모두 압살, 수원 승요됐네요",
-      "post_count": 3,
+      "topic": "기술",
+      "summary": "아르테미스 2호의 달 향한 우주비행, 구글의 AI 음악 생성 앱 출시 등 기술 관련 글들이 많은 관심을 받고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "아르테미스 2호",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "달 향한 우주비행"
-    },
-    {
-      "keyword": "대구시장",
-      "count": 2,
+      "keyword": "트럼프",
+      "count": 5,
       "sentiment": "negative",
-      "context": "여론조사 추이"
+      "context": "트럼프 행정부의 FBI국장·노동장관·육군장관 교체 논의"
     },
     {
-      "keyword": "스페이스X",
-      "count": 2,
+      "keyword": "윤석열",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "윤석열 정부 국정원·대통령실 쌍방울 대북송금 사건 관여"
+    },
+    {
+      "keyword": "아르테미스 2호",
+      "count": 4,
       "sentiment": "positive",
-      "context": "시총 2조달러 목표"
+      "context": "아르테미스 2호의 달 향한 우주비행"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 및 과학 분야의 뉴스가 증가하고 있습니다.",
-      "action": "관련 콘텐츠 개발",
+      "insight": "정치와 경제 관련 글들이 많은 관심을 받고 있습니다.",
+      "action": "정치와 경제 관련 콘텐츠를 생성하여 사용자의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 분야의 뉴스가 여전히 중요합니다.",
-      "action": "관련 콘텐츠 개발",
+      "insight": "기술 관련 글들이 많은 관심을 받고 있습니다.",
+      "action": "기술 관련 콘텐츠를 생성하여 사용자의 관심을 끌어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 테크 및 과학 분야의 뉴스가 증가하고 있습니다. 아르테미스 2호의 달 향한 우주비행과 스페이스X의 시총 2조달러 목표가 주목을 받고 있습니다. 또한, 정치 및 사회 분야의 뉴스가 여전히 중요합니다. 대구시장 여론조사 추이와 배현진의 서울지역 후보 구하기 어려워하는 기피 현실이 논의되고 있습니다. 이러한 트렌드를 고려하여 관련 콘텐츠 개발과 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-03T13:30:33.844Z",
+  "narrative": "최근의 트렌드는 정치와 경제 관련 글들이 많은 관심을 받고 있습니다. 특히, 윤석열 정부 국정원·대통령실 쌍방울 대북송금 사건 관여와 트럼프 행정부의 FBI국장·노동장관·육군장관 교체 논의 등 정치 관련 글들이 많은 관심을 받고 있습니다. 또한, 물가 상승률 5년 내 최저와 한국경제의 산업별 성장 추이 등 경제 관련 글들이 많은 관심을 받고 있습니다. 기술 관련 글들도 많은 관심을 받고 있습니다. 아르테미스 2호의 달 향한 우주비행과 구글의 AI 음악 생성 앱 출시 등 기술 관련 글들이 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여, 정치와 경제 관련 콘텐츠를 생성하여 사용자의 관심을 끌어야 합니다. 또한, 기술 관련 콘텐츠를 생성하여 사용자의 관심을 끌어야 합니다.",
+  "analyzed_at": "2026-04-03T15:00:34.060Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
