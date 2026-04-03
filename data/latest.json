@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 박상용 수사, 군산김제부안갑 재선거 등 정치 관련 주제가热",
-      "post_count": 10,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 영향에 대한 다양한 의견과 소식이 논의되고 있습니다. AI의 발전이 다양한 산업에 미치는 영향과 앞으로의 전망에 대한 관심이 높습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "삼성전자와 하이닉스의 실적 전망, 주식 시장 동향 등 경제 관련 주제가熱",
-      "post_count": 8,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 우주 기술 관련 주제가熱",
-      "post_count": 6,
+      "topic": "주식 시장",
+      "summary": "주식 시장의 동향과 전망에 대한 게시글이 많습니다. 특히, 삼전과 하이닉스의 이익 증가와 관련된 소식이 주목을 받고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련된 다양한 주제가 논의되고 있습니다. 대통령 지지율과 정치인에 대한 의견, 사회 문제에 대한 관심이 높습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 주제"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "경제 관련 주제"
-    },
-    {
       "keyword": "AI",
-      "count": 3,
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 그 영향"
+    },
+    {
+      "keyword": "주식",
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 주제"
+      "context": "주식 시장의 동향과 전망"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치와 사회 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적이고 다양한 의견이 존재하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제 관련 주제가熱",
-      "action": "관련 주제에 대한 콘텐츠 생성",
+      "insight": "AI 기술의 발전이 다양한 산업에 미치는 영향",
+      "action": "AI 기술의 발전을 주시하고 그에 따른 기회와 위협을 분석",
       "priority": "high"
     },
     {
-      "insight": "AI와 우주 기술 관련 주제가熱",
-      "action": "관련 주제에 대한 콘텐츠 생성",
+      "insight": "주식 시장의 동향과 전망",
+      "action": "주식 시장의 동향을 주시하고 투자 전략을 조정",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치와 경제 관련 주제가熱하고 있습니다. 이재명 대통령과 박상용 수사, 군산김제부안갑 재선거 등 정치 관련 주제가 많은 관심을 받고 있습니다. 또한, 삼성전자와 하이닉스의 실적 전망, 주식 시장 동향 등 경제 관련 주제도 많은 관심을 받고 있습니다. 기술 관련 주제 중에서 AI와 우주 기술 관련 주제가熱하고 있습니다. 이러한 트렌드를 반영하여 관련 주제에 대한 콘텐츠 생성이 필요합니다.",
-  "analyzed_at": "2026-04-03T00:30:33.995Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 그 영향, 주식 시장의 동향과 전망, 정치 및 사회 관련된 주제가 중심입니다. 이러한 트렌드는 다양한 산업과 사회에 미치는 영향이 크며, 이를 주시하고 분석하는 것이 중요합니다. 특히, AI 기술의 발전은 다양한 산업에 미치는 영향이 크며, 주식 시장의 동향은 투자 전략에 영향을 미칩니다. 따라서, 이러한 트렌드를 주시하고 분석하여 기회와 위협을 식별하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-03T02:00:34.381Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
