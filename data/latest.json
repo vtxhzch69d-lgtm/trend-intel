@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명과 공범으로 갈것, 윤석열 정부 국정원 대북송금 사건",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "정치 및 경제",
+      "summary": "최근의 정치 및 경제 뉴스와 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "물가 상승률 5년 내 최저, 한국경제 산업별 성장 추이",
-      "post_count": 4,
-      "sentiment": "neutral",
+      "topic": "기술 및 게임",
+      "summary": "신규 게임 및 기술 제품에 대한 리뷰와 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI 음악 생성 앱 출시, 구글 앱 수수료 인하",
-      "post_count": 6,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화 관련 뉴스와 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "정치 관련 논란"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "트럼프",
       "count": 5,
-      "sentiment": "positive",
-      "context": "기술 발전과 혁신"
+      "sentiment": "negative",
+      "context": "트럼프의 최근 발언과 행동에 대한 비판"
     },
     {
-      "keyword": "경제",
-      "count": 4,
+      "keyword": "아르테미스 2호",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "아르테미스 2호의 달 향한 우주 비행에 대한 관심"
+    },
+    {
+      "keyword": "삼성",
+      "count": 2,
       "sentiment": "neutral",
-      "context": "한국경제 산업별 성장 추이"
+      "context": "삼성의 신규 제품과 기술에 대한 소식"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 25,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 논란이 계속 증가하고 있다",
-      "action": "정치 관련이슈에 대한 대응 전략 수립",
+      "insight": "기술 및 게임 관련 제품에 대한 수요가 증가하고 있습니다.",
+      "action": "신규 제품 개발 및 마케팅",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 다양한 분야에서 적용되고 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "정치 및 경제 관련 뉴스에 대한 관심이 높아지고 있습니다.",
+      "action": "관련 콘텐츠 개발 및 공유",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 문화 관련 뉴스에 대한 관심이 낮아지고 있습니다.",
+      "action": "관련 콘텐츠 개발 및 공유",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치 관련 논란이 계속 증가하고 있으며, 경제와 기술 분야에서도 다양한 이슈들이 обсужд되고 있다. 특히 AI 기술은 다양한 분야에서 적용되고 있으며, 이를 활용한 새로운 비즈니스 모델 개발이 필요하다. 또한, 정치 관련 이슈에 대한 대응 전략 수립이 필요하다. 이러한 트렌드와 인사이트를 고려하여, 기업은 새로운 비즈니스 기회를 발굴하고, 정치 관련 이슈에 대한 대응 전략을 수립하여야 한다.",
-  "analyzed_at": "2026-04-03T19:30:33.933Z",
+  "narrative": "최근의 커뮤니티 트렌드는 정치 및 경제, 기술 및 게임, 사회 및 문화 관련 뉴스와 논란을 중심으로 형성되고 있습니다. 기술 및 게임 관련 제품에 대한 수요가 증가하고 있으며, 관련 콘텐츠 개발 및 마케팅이 필요합니다. 또한, 정치 및 경제 관련 뉴스에 대한 관심이 높아지고 있으며, 관련 콘텐츠 개발 및 공유가 필요합니다. 그러나, 사회 및 문화 관련 뉴스에 대한 관심이 낮아지고 있으며, 관련 콘텐츠 개발 및 공유가 필요합니다.",
+  "analyzed_at": "2026-04-03T21:00:35.081Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
