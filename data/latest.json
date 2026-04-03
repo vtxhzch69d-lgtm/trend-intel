@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "이란-미국 관계",
-      "summary": "이란과 미국의 관계가緊張하고 있으며, 이란의 미군 격추와 관련된 뉴스가 주목을 받고 있습니다.",
+      "topic": "아르테미스 2호",
+      "summary": "아르테미스 2호가 달 향한 우주비행을 시작했다. 아르테미스 2호는 지구 궤도에서 벗어나 본격적인 달 향한 우주비행을 시작했다.",
       "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "이란과 미국의 관계",
+      "summary": "이란과 미국의 관계가緊張하고 있다. 이란 상공에서 미국의 항공기가 격추되었다는 보도가 나오고 있다.",
+      "post_count": 7,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "유가 상승과 관련된 뉴스, 그리고 금융 관련된 뉴스가 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 관련된 뉴스가 주목을 받고 있습니다.",
+      "topic": "테크 뉴스",
+      "summary": "테크 뉴스가 다양하게 보도되고 있다. 구글, 마이크로소프트, 테슬라 등이 새로운 기술을 개발하고 있다.",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "아르테미스 2호",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "달 향한 우주비행"
+    },
+    {
       "keyword": "이란",
       "count": 7,
       "sentiment": "negative",
-      "context": "이란과 미국의 관계가緊張하고 있음"
+      "context": "미국과의 관계"
     },
     {
-      "keyword": "미국",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "미국과 관련된 뉴스가 주목을 받고 있음"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 관련된 뉴스가 주목을 받고 있음"
+      "keyword": "테크",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "신기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이란-미국 관계의緊張은 경제에 영향을 미칠 수 있음",
-      "action": "경제 관련된 뉴스를 주목하고, 이란-미국 관계의影響을 분석해야 함",
+      "insight": "아르테미스 2호의 달 향한 우주비행이 성공할 경우 우주 산업에 긍정적인 영향을 미칠 수 있다.",
+      "action": "우주 산업에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 및 과학 관련된 뉴스는 주목을 받고 있음",
-      "action": "최신 기술 및 과학 관련된 뉴스를 분석하고, 이를 활용하여 비즈니스 기회를 찾음",
+      "insight": "이란과 미국의 관계가緊張하고 있어 국제 정치에 영향을 미칠 수 있다.",
+      "action": "국제 정치에 주목하기",
+      "priority": "medium"
+    },
+    {
+      "insight": "테크 뉴스가 다양하게 보도되고 있어 신기술 개발에 관심을 가질 필요가 있다.",
+      "action": "신기술 개발에 투자하기",
       "priority": "medium"
     }
   ],
-  "narrative": "이번 주의 트렌드는 이란-미국 관계의緊張과 경제 및 금융 관련된 뉴스가 주목을 받고 있습니다. 또한, 최신 기술 및 과학 관련된 뉴스도 주목을 받고 있습니다. 이러한 트렌드를 분석하여, 비즈니스 기회를 찾고, 경제 및 정치적인 영향을 분석해야 합니다. 또한, 최신 기술 및 과학 관련된 뉴스를 분석하여, 이를 활용하여 비즈니스 기회를 찾음으로써, 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-04-03T06:30:34.216Z",
+  "narrative": "최근의 트렌드는 아르테미스 2호의 달 향한 우주비행과 이란과 미국의 관계, 테크 뉴스 등이 다양하게 보도되고 있다. 아르테미스 2호의 성공은 우주 산업에 긍정적인 영향을 미칠 수 있다. 이란과 미국의 관계는 국제 정치에 영향을 미칠 수 있다. 테크 뉴스는 신기술 개발에 관심을 가질 필요가 있다. 이러한 트렌드를 분석하여 사업 전략을 수립할 필요가 있다.",
+  "analyzed_at": "2026-04-03T08:00:34.473Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
