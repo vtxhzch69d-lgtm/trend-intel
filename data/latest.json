@@ -1,56 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나눔 및 이슈 관련글입니다.",
-      "post_count": 100,
+      "topic": "테크 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 발전이 주목을 받고 있습니다. 아르테미스 2호의 달 향한 우주비행, 구글의 새로운 AI 모델 공개, 스페이스X의 시총 2조달러 목표 등이 포함됩니다.",
+      "post_count": 15,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 경제",
+      "summary": "국내외 정치 및 경제 관련 뉴스가 활발합니다. 북한의 장사정포 대응, 테슬라의 수입차업체 첫 월 판매량 1만대 돌파, 대한항공의 우주 궤도수송선 신사업 협력 등이 포함됩니다.",
+      "post_count": 12,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 정치 및 사회 관련글입니다.",
-      "post_count": 50,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "스포츠 및 엔터테인먼트",
+      "summary": "스포츠와 엔터테인먼트 관련 뉴스도 주목을 받고 있습니다. LCK KT의 첫 주 승리, 아이언맨의 시즌2 시청 이유, 유튜버 여행가제이의 결혼 관련 글 등이 포함됩니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "무료나눔",
-      "count": 50,
+      "keyword": "AI",
+      "count": 7,
       "sentiment": "positive",
-      "context": "뽐뿌 커뮤니티에서 인기 있는 키워드"
+      "context": "최신 기술 발전과 관련된 키워드"
     },
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "클리앙 커뮤니티에서 인기 있는 키워드"
+      "keyword": "테슬라",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "전기차와 관련된 뉴스"
+    },
+    {
+      "keyword": "스페이스X",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "우주 기술과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 60,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "마케터들은 뽐뿌 커뮤니티의 긍정적인 분위기를 활용할 수 있습니다."
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "뽐뿌 커뮤니티에서 무료나눔 관련글을 통해 브랜드 인지도를 높일 수 있습니다.",
-      "action": "무료나눔 관련글을 게시하여 브랜드 인지도를 높입니다.",
+      "insight": "최신 기술 및 과학 관련 뉴스와 발전이 주목을 받고 있습니다.",
+      "action": "관련 기술 및 제품 개발에 투자",
       "priority": "high"
     },
     {
-      "insight": "클리앙 커뮤니티에서 정치 관련글을 통해 브랜드의 사회적 책임을 강조할 수 있습니다.",
-      "action": "정치 관련글을 게시하여 브랜드의 사회적 책임을 강조합니다.",
+      "insight": "국내외 정치 및 경제 관련 뉴스가 활발합니다.",
+      "action": "시장 동향을 주시하고 대응 전략을 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 및 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 뽐뿌 커뮤니티에서는 무료나눔 관련글이 인기 있고, 클리앙 커뮤니티에서는 정치 관련글이 인기 있음을 알 수 있습니다. 마케터들은 이러한 분석 결과를 통해 브랜드 인지도를 높이고, 사회적 책임을 강조할 수 있습니다. 또한, 뽐뿌 커뮤니티의 긍정적인 분위기를 활용하여 브랜드의 이미지를 개선할 수 있습니다. 클리앙 커뮤니티의 정치 관련글을 통해 브랜드의 사회적 책임을 강조할 수 있습니다. 이러한 분석 결과를 통해 마케터들은 효과적인 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-03T10:30:34.049Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드 분석 결과, 테크 및 과학, 정치 및 경제, 스포츠 및 엔터테인먼트 관련 뉴스가 주목을 받고 있습니다. 특히 최신 기술 발전과 관련된 키워드가 많이 등장하고 있습니다. 이러한 트렌드를 반영하여 관련 기술 및 제품 개발에 투자하고, 시장 동향을 주시하여 대응 전략을 수립하는 것이 중요할 것으로 보입니다.",
+  "analyzed_at": "2026-04-03T12:00:34.142Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
