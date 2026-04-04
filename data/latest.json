@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산",
-      "summary": "강남 부동산의 매력과 집값에 대한 논의",
+      "topic": "영포티 갈라치기",
+      "summary": "클리앙 커뮤니티에서 영포티 갈라치기 관련 게시글이 많이 올라왔습니다. 이는 중년의 탈권위를 조롱하는 일베용어로 사용되고 있습니다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 제품에 대한 논의",
-      "post_count": 15,
+      "topic": "아르테미스 2호",
+      "summary": "아르테미스 2호가 지구 궤도 벗어나 달 향한 우주비행을 시작했습니다. 이 미션은 달에 인간을 다시 보내는 것을 목표로 합니다.",
+      "post_count": 3,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "교육",
-      "summary": "교육에 대한 논의와 종착지가 강남이라는 의견",
+      "topic": "갤럭시 폴드8·플립8",
+      "summary": "삼성의 갤럭시 폴드8과 플립8에 대한 소문이 있습니다. M13 OLED가 공급될 것으로 예상됩니다.",
       "post_count": 2,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,44 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "강남",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "부동산과 교육에 대한 논의"
+      "keyword": "영포티",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "중년의 탈권위를 조롱하는 일베용어"
     },
     {
-      "keyword": "AI",
-      "count": 8,
+      "keyword": "아르테미스 2호",
+      "count": 4,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품에 대한 논의"
+      "context": "달에 인간을 다시 보내는 것을 목표로 하는 우주 미션"
     },
     {
-      "keyword": "교육",
+      "keyword": "갤럭시 폴드8·플립8",
       "count": 2,
       "sentiment": "neutral",
-      "context": "교육에 대한 논의"
+      "context": "삼성의 새로운 폴더블 스마트폰"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 반응이 많지만 부정적인 감정도 상당수 존재"
   },
   "business_insights": [
     {
-      "insight": "부동산과 교육에 대한 논의가 활발",
-      "action": "관련 제품이나 서비스 개발",
-      "priority": "medium"
+      "insight": "영포티 갈라치기 관련 게시글이 많이 올라오고 있습니다. 이는 중년의 탈권위를 조롱하는 일베용어로 사용되고 있습니다.",
+      "action": "중년층을 대상으로 하는 마케팅 전략을 재검토할 필요가 있습니다.",
+      "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품에 대한 논의가 많",
-      "action": "관련 기술 개발과 마케팅",
-      "priority": "high"
+      "insight": "아르테미스 2호 미션은 달에 인간을 다시 보내는 것을 목표로 합니다. 이는 우주 기술과 관련된 산업에 대한 관심이 높아질 수 있습니다.",
+      "action": "우주 기술과 관련된 산업에 대한 투자와 마케팅을 강화할 필요가 있습니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 부동산과 교육에 대한 논의가 활발하게 진행되고 있습니다. 또한 최신 기술 뉴스와 제품에 대한 논의도 많아 관련 기술 개발과 마케팅이 필요해 보입니다. 전체적으로 중립적인 분위기이지만, 부동산과 교육에 대한 논의는 중간 정도의 우선순위를 가지고 최신 기술 뉴스와 제품에 대한 논의는 높은 우선순위를 가집니다.",
-  "analyzed_at": "2026-04-04T06:00:33.899Z",
+  "narrative": "클리앙 커뮤니티에서 영포티 갈라치기 관련 게시글이 많이 올라왔습니다. 이는 중년의 탈권위를 조롱하는 일베용어로 사용되고 있습니다. 또한 아르테미스 2호 미션은 달에 인간을 다시 보내는 것을 목표로 합니다. 이는 우주 기술과 관련된 산업에 대한 관심이 높아질 수 있습니다. 중년층을 대상으로 하는 마케팅 전략을 재검토할 필요가 있습니다. 우주 기술과 관련된 산업에 대한 투자와 마케팅을 강화할 필요가 있습니다. 또한 갤럭시 폴드8과 플립8에 대한 소문이 있습니다. M13 OLED가 공급될 것으로 예상됩니다. 이는 삼성의 새로운 폴더블 스마트폰에 대한 관심이 높아질 수 있습니다.",
+  "analyzed_at": "2026-04-04T07:30:33.896Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
