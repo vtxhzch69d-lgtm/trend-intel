@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "교육과 강남 부동산",
-      "summary": "교육과 강남 부동산의 관련성에 대한 논의가 진행 중입니다. 일부 사용자는 강남 부동산의 높은 가격이 교육의 결과라고 주장합니다.",
+      "topic": "부동산",
+      "summary": "강남 부동산의 매력과 집값에 대한 논의",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "테슬라와 전기차",
-      "summary": "테슬라의 전기차 판매량이 증가하고 있습니다. 일부 사용자는 테슬라의 성공이 전기차 산업의 미래를 결정할 것이라고 주장합니다.",
-      "post_count": 3,
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 제품에 대한 논의",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "인공지능과 기술",
-      "summary": "인공지능과 기술의 발전이 빠르게 진행 중입니다. 일부 사용자는 인공지능이 미래의 산업을 결정할 것이라고 주장합니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "교육",
+      "summary": "교육에 대한 논의와 종착지가 강남이라는 의견",
+      "post_count": 2,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "강남",
       "count": 5,
       "sentiment": "neutral",
-      "context": "부동산과 교육에 대한 논의에서 언급됨"
+      "context": "부동산과 교육에 대한 논의"
     },
     {
-      "keyword": "테슬라",
-      "count": 3,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "전기차 산업의 미래에 대한 논의에서 언급됨"
+      "context": "최신 기술 뉴스와 제품에 대한 논의"
     },
     {
-      "keyword": "인공지능",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "미래의 산업과 기술에 대한 논의에서 언급됨"
+      "keyword": "교육",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "교육에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 5,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "교육과 강남 부동산의 관련성에 대한 논의가 진행 중입니다.",
-      "action": "교육과 부동산 산업에 대한 투자를 고려해야 합니다.",
+      "insight": "부동산과 교육에 대한 논의가 활발",
+      "action": "관련 제품이나 서비스 개발",
       "priority": "medium"
     },
     {
-      "insight": "테슬라의 전기차 판매량이 증가하고 있습니다.",
-      "action": "전기차 산업에 대한 투자를 고려해야 합니다.",
-      "priority": "high"
-    },
-    {
-      "insight": "인공지능과 기술의 발전이 빠르게 진행 중입니다.",
-      "action": "인공지능과 기술에 대한 투자를 고려해야 합니다.",
+      "insight": "최신 기술 뉴스와 제품에 대한 논의가 많",
+      "action": "관련 기술 개발과 마케팅",
       "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 교육과 강남 부동산, 테슬라와 전기차, 인공지능과 기술에 대한 논의를 중심으로 진행되고 있습니다. 이러한 트렌드는 미래의 산업과 기술에 대한 투자를 고려해야 함을 시사합니다. 또한, 긍정적인 분위기와 높은 우선순위의 인사이트는 이러한 트렌드에 대한 투자가 필요함을 강조합니다.",
-  "analyzed_at": "2026-04-04T04:30:34.577Z",
+  "narrative": "최근 클리앙 커뮤니티에서 부동산과 교육에 대한 논의가 활발하게 진행되고 있습니다. 또한 최신 기술 뉴스와 제품에 대한 논의도 많아 관련 기술 개발과 마케팅이 필요해 보입니다. 전체적으로 중립적인 분위기이지만, 부동산과 교육에 대한 논의는 중간 정도의 우선순위를 가지고 최신 기술 뉴스와 제품에 대한 논의는 높은 우선순위를 가집니다.",
+  "analyzed_at": "2026-04-04T06:00:33.899Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
