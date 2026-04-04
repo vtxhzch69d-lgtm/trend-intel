@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 외교",
-      "summary": "트럼프의 발언과 미국의 군사 예산 증가, 이란과 미국의 관계 등이 논의되고 있습니다.",
-      "post_count": 10,
+      "topic": "이란의 내부 반정부 민심",
+      "summary": "이란의 내부 반정부 민심이 생각 보다 두텁다. 미국의 이란전 여파속 국방예산 40%↑ 추진",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "아르테미스 2호의 달 향한 우주 비행, 구글의 새로운 AI 모델, 테슬라의 판매량 증가 등이 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "박주민 후보",
+      "summary": "박주민 후보의 연기 실력과 선거 관련 논의",
+      "post_count": 3,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "D램값의 증가, 삼성과 하이닉스의 이익 증가, 테슬라의 판매량 증가 등이 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "미국-이란 관계",
+      "summary": "미국-이란 관계와 관련된 뉴스 및 논의",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
+      "keyword": "이란",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "이란의 내부 반정부 민심과 미국-이란 관계"
+    },
+    {
+      "keyword": "박주민",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "박주민 후보의 연기 실력과 선거 관련 논의"
+    },
+    {
+      "keyword": "미국",
       "count": 5,
       "sentiment": "negative",
-      "context": "미국 대통령의 발언과 군사 예산 증가"
-    },
-    {
-      "keyword": "아르테미스 2호",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "달 향한 우주 비행"
-    },
-    {
-      "keyword": "테슬라",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "판매량 증가"
+      "context": "미국-이란 관계와 미국의 국방예산"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "기술 및 과학 분야의 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "관련된 콘텐츠를 생성하여 관심을 유도합니다.",
+      "insight": "이란의 내부 반정부 민심과 미국-이란 관계는 정치와 경제에 큰 영향을 미칠 수 있다.",
+      "action": "정치와 경제 관련 뉴스 및 논의를 주시하여 대응 策略을 수립한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 분야의 뉴스가 중립적인 반응을 보이고 있습니다.",
-      "action": "관련된 콘텐츠를 생성하여 중립적인 반응을 유도합니다.",
+      "insight": "박주민 후보의 연기 실력과 선거 관련 논의는 정치에 큰 영향을 미칠 수 있다.",
+      "action": "박주민 후보의 선거 운동과 관련 뉴스 및 논의를 주시하여 대응 策略을 수립한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 및 외교, 기술 및 과학, 경제 및 금융 분야의 뉴스가 많은 관심을 받고 있습니다. 트럼프의 발언과 미국의 군사 예산 증가, 아르테미스 2호의 달 향한 우주 비행, 테슬라의 판매량 증가 등이 논의되고 있습니다. 기술 및 과학 분야의 뉴스가 많은 관심을 받고 있으므로 관련된 콘텐츠를 생성하여 관심을 유도하는 것이 좋습니다. 또한, 경제 및 금융 분야의 뉴스가 중립적인 반응을 보이고 있으므로 관련된 콘텐츠를 생성하여 중립적인 반응을 유도하는 것이 좋습니다.",
-  "analyzed_at": "2026-04-04T13:00:33.979Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 이란의 내부 반정부 민심과 미국-이란 관계가 정치와 경제에 큰 영향을 미칠 수 있는 것으로 나타났다. 또한, 박주민 후보의 연기 실력과 선거 관련 논의는 정치에 큰 영향을 미칠 수 있는 것으로 나타났다. 이러한 트렌드와 키워드를 주시하여 대응 策略을 수립하는 것이 중요하다. 또한, 정치와 경제 관련 뉴스 및 논의를 주시하여 대응 策略을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-04-04T14:30:34.179Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
