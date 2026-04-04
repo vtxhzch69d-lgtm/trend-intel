@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "박형준 부산시장의 발언과 박상용 검사에 대한 항의, 서울시장 선거 등의 정치 관련 주제가 인기 있습니다.",
+      "summary": "미얀마 쿠데타, 박형준 부산시장 발언, 굥 파면 1주년 등 정치 관련 주제가热",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI, 로봇, 우주 탐사 등 기술 관련 주제가 인기 있습니다.",
+      "summary": "AI, 로봇, 우주탐사 등 기술 관련 주제가 인기",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "물가 상승률, 한국경제의 산업별 성장 추이 등 경제 관련 주제가 인기 있습니다.",
+      "summary": "국방예산, 기업 수익성, 수출입 등 경제 관련 주제가 논의",
       "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 5,
       "sentiment": "positive",
       "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 주제와 사건"
+      "keyword": "박형준",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "박형준 부산시장의 발언과 관련된 논란"
     },
     {
-      "keyword": "우주",
-      "count": 5,
+      "keyword": "우주탐사",
+      "count": 4,
       "sentiment": "positive",
-      "context": "우주 탐사와 관련 기술"
+      "context": "아르테미스 2호와 같은 우주탐사 미션"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적이고 정보적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 적용되고 있습니다.",
-      "action": "AI 기술의 적용을 위한 투자와 연구를 진행해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "정치 관련 주제에 대한 분석과 보고서를 작성해야 합니다.",
+      "insight": "정치와 경제는 밀접한 관련이 있음",
+      "action": "정치와 경제의 동향을 주시하고 대응策 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "우주 탐사와 관련 기술이 발전하고 있습니다.",
-      "action": "우주 탐사와 관련 기술에 대한 투자와 연구를 진행해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치, 기술, 경제 등 다양한 주제가 인기 있습니다. AI 기술의 발전과 적용, 정치 관련 주제, 우주 탐사와 관련 기술 등이 주목받고 있습니다. 중립적인 분위기이지만, 일부 주제에 대한 관심이 높습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 투자와 연구를 진행해야 합니다.",
-  "analyzed_at": "2026-04-03T22:30:34.063Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치, 기술, 경제 등 다양한 주제를 포함하고 있다. AI 기술의 발전과 우주탐사 등은 긍정적인 반응을 보이고 있지만, 정치 관련 주제는 부정적인 반응을 보이고 있다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 발굴하고, 정치와 경제의 동향을 주시하여 대응策을 개발하는 것이 중요하다. 또한, AI 기술을 활용한 새로운 비즈니스 모델 개발과 우주탐사 등 기술 분야의 투자 등이 필요한 것으로 보인다.",
+  "analyzed_at": "2026-04-04T00:00:34.518Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
