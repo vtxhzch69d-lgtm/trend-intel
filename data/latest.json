@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "최근 정치 및 사회 관련 게시물이 많은 것으로 나타났습니다. 주요 내용은 정부 정책, 정치인들의 발언, 사회 문제 등입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 게시물이 많습니다. 주요 내용은 새로운 기술 개발, 과학 연구, 우주 탐사 등입니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "아르테미스 2호",
+      "summary": "아르테미스 2호가 달 향하던 중 아웃룩 오류에 지구로 SOS를 보냄. 이 사건은 우주 탐사 분야에서 큰 관심을 끌고 있음.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 게시물이 있습니다. 주요 내용은 경제 동향, 금융 뉴스, 기업 동향 등입니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "트럼프",
+      "summary": "트럼프의 발언이 다시 한번 논란이 되고 있음. 그의 발언은 정치 분야에서 큰 영향을 미치고 있음.",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "갤럭시 폴드8·플립8",
+      "summary": "삼성의 새로운 폴더블폰이 곧 출시될 예정임. 이 제품은 기술 분야에서 큰 관심을 끌고 있음.",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "아르테미스 2호",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "우주 탐사 관련 뉴스"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "우주 탐사"
     },
     {
       "keyword": "트럼프",
-      "count": 2,
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스"
+      "context": "정치"
     },
     {
-      "keyword": "삼성",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "기술 및 경제 관련 뉴스"
+      "keyword": "갤럭시 폴드8·플립8",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 및 과학 분야의 뉴스가 많은 것으로 나타났습니다.",
-      "action": "기술 및 과학 관련 콘텐츠 개발",
+      "insight": "우주 탐사 분야의 관심이 증가하고 있음",
+      "action": "우주 탐사 관련 제품이나 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 게시물이 많습니다.",
-      "action": "정치 및 사회 관련 콘텐츠 개발",
+      "insight": "트럼프의 발언이 정치 분야에서 큰 영향을 미치고 있음",
+      "action": "정치 분야의 동향을 주시하고 대응策을 마련",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융 관련 게시물이 상대적으로 적습니다.",
-      "action": "경제 및 금융 관련 콘텐츠 개발",
+      "insight": "폴더블폰이 기술 분야에서 큰 관심을 끌고 있음",
+      "action": "폴더블폰 관련 제품이나 서비스 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치 및 사회, 기술 및 과학, 경제 및 금융 관련 게시물이 많습니다. 기술 및 과학 분야의 뉴스가 많은 것으로 나타났으며, 이는 기술 및 과학 관련 콘텐츠 개발의 필요성을 시사합니다. 또한, 정치 및 사회 관련 게시물이 많습니다. 이는 정치 및 사회 관련 콘텐츠 개발의 필요성을 시사합니다. 경제 및 금융 관련 게시물은 상대적으로 적지만, 경제 및 금융 관련 콘텐츠 개발의 필요성도 있습니다. 전체적으로 중립적인 분위기입니다.",
-  "analyzed_at": "2026-04-04T17:30:34.073Z",
+  "narrative": "최근의 트렌드는 우주 탐사, 정치, 기술 분야에서 큰 관심을 끌고 있음. 아르테미스 2호의 아웃룩 오류와 트럼프의 발언은 각각 우주 탐사와 정치 분야에서 큰 영향을 미치고 있음. 또한, 갤럭시 폴드8·플립8의 출시가 임박함에 따라 폴더블폰 관련 제품이나 서비스 개발에 대한 관심이 증가하고 있음. 이러한 트렌드를 분석하여 사업 전략을 수립하고 기회를 잡을 수 있을 것으로 기대됨.",
+  "analyzed_at": "2026-04-04T19:00:34.150Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
