@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "이란의 내부 반정부 민심",
-      "summary": "이란의 내부 반정부 민심이 생각 보다 두텁다. 미국의 이란전 여파속 국방예산 40%↑ 추진",
+      "topic": "아르테미스 2호",
+      "summary": "아르테미스 2호가 지구 궤도 벗어나 달 향한 우주비행을 시작했다. 이 임무는 달 탐사와 인간의 달 귀환을 위한 중요한一步이다.",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "박주민 후보",
-      "summary": "박주민 후보의 연기 실력과 선거 관련 논의",
+      "topic": "이란 상황",
+      "summary": "이란의 내부 반정부 민심이 생각보다 두텁다. 트럼프의 발언이 이란 상황을 더 복잡하게 만들고 있다.",
       "post_count": 3,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "미국-이란 관계",
-      "summary": "미국-이란 관계와 관련된 뉴스 및 논의",
-      "post_count": 4,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "테슬라 판매량",
+      "summary": "테슬라가 수입차업체 처음으로 월 판매량 1만대 돌파했다. 이에 따라 테슬라의 시장 점유율이 증가할 것으로 예상된다.",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "아르테미스 2호",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "달 탐사와 인간의 달 귀환을 위한 중요한 임무"
+    },
+    {
       "keyword": "이란",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "이란의 내부 반정부 민심과 미국-이란 관계"
-    },
-    {
-      "keyword": "박주민",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "박주민 후보의 연기 실력과 선거 관련 논의"
-    },
-    {
-      "keyword": "미국",
       "count": 5,
       "sentiment": "negative",
-      "context": "미국-이란 관계와 미국의 국방예산"
+      "context": "내부 반정부 민심과 트럼프의 발언으로 인한 상황 복잡화"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "수입차업체 처음으로 월 판매량 1만대 돌파"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "이란의 내부 반정부 민심과 미국-이란 관계는 정치와 경제에 큰 영향을 미칠 수 있다.",
-      "action": "정치와 경제 관련 뉴스 및 논의를 주시하여 대응 策略을 수립한다.",
+      "insight": "아르테미스 2호의 달 탐사 임무는 우주 산업의 발전에 기여할 것이다.",
+      "action": "우주 산업 관련 투자와 연구 개발에 집중할 것",
       "priority": "high"
     },
     {
-      "insight": "박주민 후보의 연기 실력과 선거 관련 논의는 정치에 큰 영향을 미칠 수 있다.",
-      "action": "박주민 후보의 선거 운동과 관련 뉴스 및 논의를 주시하여 대응 策略을 수립한다.",
+      "insight": "이란 상황의 복잡화는 국제 관계에 영향을 미칠 수 있다.",
+      "action": "국제 관계와 정치 상황을 주시할 것",
+      "priority": "medium"
+    },
+    {
+      "insight": "테슬라의 판매량 증가는 전기차 시장의 성장에 기여할 것이다.",
+      "action": "전기차 시장 관련 투자와 연구 개발에 집중할 것",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 이란의 내부 반정부 민심과 미국-이란 관계가 정치와 경제에 큰 영향을 미칠 수 있는 것으로 나타났다. 또한, 박주민 후보의 연기 실력과 선거 관련 논의는 정치에 큰 영향을 미칠 수 있는 것으로 나타났다. 이러한 트렌드와 키워드를 주시하여 대응 策略을 수립하는 것이 중요하다. 또한, 정치와 경제 관련 뉴스 및 논의를 주시하여 대응 策略을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-04-04T14:30:34.179Z",
+  "narrative": "최근의 트렌드에 따르면, 아르테미스 2호의 달 탐사 임무와 이란 상황의 복잡화가 주목을 끌고 있다. 또한, 테슬라의 판매량 증가와 전기차 시장의 성장은 우주 산업과 자동차 산업의 발전에 기여할 것으로 예상된다. 이러한 트렌드는 국제 관계, 정치 상황, 우주 산업, 자동차 산업 등 다양한 분야에 영향을 미칠 수 있다. 따라서, 이러한 트렌드를 주시하고 관련 산업과 시장의 동향을 분석하는 것이 중요하다.",
+  "analyzed_at": "2026-04-04T16:00:34.856Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
