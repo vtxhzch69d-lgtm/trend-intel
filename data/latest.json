@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "아르테미스 2호",
-      "summary": "아르테미스 2호가 달 향하던 중 아웃룩 오류에 지구로 SOS를 보냄. 이 사건은 우주 탐사 분야에서 큰 관심을 끌고 있음.",
-      "post_count": 5,
+      "summary": "아르테미스 2호가 달 향하던 중 아웃룩 오류에 지구로 SOS를 보냈다. 이 사건은 우주 탐사 분야에서 큰 관심을 끌고 있다.",
+      "post_count": 3,
       "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "트럼프",
-      "summary": "트럼프의 발언이 다시 한번 논란이 되고 있음. 그의 발언은 정치 분야에서 큰 영향을 미치고 있음.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "테슬라",
+      "summary": "테슬라가 수입차업체 처음으로 월 판매량 1만대 돌파했다. 이 기록은 테슬라의 성장과 한국 시장에서의 경쟁력을 보여준다.",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "갤럭시 폴드8·플립8",
-      "summary": "삼성의 새로운 폴더블폰이 곧 출시될 예정임. 이 제품은 기술 분야에서 큰 관심을 끌고 있음.",
-      "post_count": 2,
+      "summary": "삼성D가 갤럭시 폴드8·플립8에 M13 OLED를 공급할 예정이다. 이 소식은 삼성의 신제품에 대한 기대와 관심을 높인다.",
+      "post_count": 1,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "아르테미스 2호",
-      "count": 10,
+      "count": 5,
       "sentiment": "neutral",
       "context": "우주 탐사"
     },
     {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치"
-    },
-    {
-      "keyword": "갤럭시 폴드8·플립8",
+      "keyword": "테슬라",
       "count": 3,
       "sentiment": "positive",
-      "context": "기술"
+      "context": "전기차"
+    },
+    {
+      "keyword": "갤럭시",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "스마트폰"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 10,
+    "negative": 2,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "우주 탐사 분야의 관심이 증가하고 있음",
-      "action": "우주 탐사 관련 제품이나 서비스 개발",
+      "insight": "우주 탐사 기술의 발전",
+      "action": "우주 산업에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "트럼프의 발언이 정치 분야에서 큰 영향을 미치고 있음",
-      "action": "정치 분야의 동향을 주시하고 대응策을 마련",
+      "insight": "전기차 시장의 성장",
+      "action": "전기차 관련 기술 개발",
       "priority": "medium"
     },
     {
-      "insight": "폴더블폰이 기술 분야에서 큰 관심을 끌고 있음",
-      "action": "폴더블폰 관련 제품이나 서비스 개발",
+      "insight": "스마트폰 시장의 경쟁",
+      "action": "신제품 개발과 마케팅",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 우주 탐사, 정치, 기술 분야에서 큰 관심을 끌고 있음. 아르테미스 2호의 아웃룩 오류와 트럼프의 발언은 각각 우주 탐사와 정치 분야에서 큰 영향을 미치고 있음. 또한, 갤럭시 폴드8·플립8의 출시가 임박함에 따라 폴더블폰 관련 제품이나 서비스 개발에 대한 관심이 증가하고 있음. 이러한 트렌드를 분석하여 사업 전략을 수립하고 기회를 잡을 수 있을 것으로 기대됨.",
-  "analyzed_at": "2026-04-04T19:00:34.150Z",
+  "narrative": "최근의 트렌드 분석 결과, 우주 탐사 기술의 발전과 전기차 시장의 성장이 주목할 만하다. 아르테미스 2호의 달 향한 여정과 테슬라의 월 판매량 1만대 돌파는 각각의 분야에서 큰 관심을 끌고 있다. 또한, 갤럭시 폴드8·플립8의 출시 소식은 스마트폰 시장의 경쟁을 높인다. 이러한 트렌드는 우주 산업과 전기차 시장에 대한 투자 증가와 신제품 개발을 위한 마케팅 전략의 필요성을 시사한다.",
+  "analyzed_at": "2026-04-04T20:30:34.153Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
