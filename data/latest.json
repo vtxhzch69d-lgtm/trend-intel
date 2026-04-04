@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "미얀마 쿠데타, 박형준 부산시장 발언, 굥 파면 1주년 등 정치 관련 주제가热",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI, 로봇, 우주탐사 등 기술 관련 주제가 인기",
+      "topic": "테크 및 과학",
+      "summary": "최근 테크 및 과학 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 우주 탐사 관련 뉴스가 주목을 받았습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "국방예산, 기업 수익성, 수출입 등 경제 관련 주제가 논의",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제도 많은 관심을 받고 있습니다. 특히, 테슬라와 삼성의 최근 동향이 주목을 받았습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 주제도 관심을 받고 있습니다. 특히, 최근의 정치적 사건과 사회 문제가 주목을 받았습니다.",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 관련 뉴스와 기술 개발이 주목을 받았습니다."
+    },
+    {
+      "keyword": "테슬라",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "테슬라의 최근 동향과 성과가 주목을 받았습니다."
+    },
+    {
+      "keyword": "삼성",
       "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
-    },
-    {
-      "keyword": "박형준",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "박형준 부산시장의 발언과 관련된 논란"
-    },
-    {
-      "keyword": "우주탐사",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "아르테미스 2호와 같은 우주탐사 미션"
+      "context": "삼성의 최근 동향과 성과가 주목을 받았습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적이고 정보적인 분위기"
+    "neutral": 10,
+    "overall_mood": "복합적인 감정으로 긍정적과 부정적이 혼재되어 있습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "테크 및 과학 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "테크 및 과학 관련 콘텐츠를 개발하여 관심을 받을 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제는 밀접한 관련이 있음",
-      "action": "정치와 경제의 동향을 주시하고 대응策 개발",
+      "insight": "경제 및 금융 관련 주제도 많은 관심을 받고 있습니다.",
+      "action": "경제 및 금융 관련 콘텐츠를 개발하여 관심을 받을 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치, 기술, 경제 등 다양한 주제를 포함하고 있다. AI 기술의 발전과 우주탐사 등은 긍정적인 반응을 보이고 있지만, 정치 관련 주제는 부정적인 반응을 보이고 있다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 발굴하고, 정치와 경제의 동향을 주시하여 대응策을 개발하는 것이 중요하다. 또한, AI 기술을 활용한 새로운 비즈니스 모델 개발과 우주탐사 등 기술 분야의 투자 등이 필요한 것으로 보인다.",
-  "analyzed_at": "2026-04-04T00:00:34.518Z",
+  "narrative": "최근의 트렌드는 테크 및 과학, 경제 및 금융, 사회 및 정치 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 우주 탐사 관련 뉴스가 주목을 받았습니다. 테슬라와 삼성의 최근 동향도 주목을 받았습니다. 이러한 트렌드를 분석하여 콘텐츠를 개발하고, 마케팅 전략을 수립할 수 있습니다. 또한, 테크 및 과학 관련 주제가 많은 관심을 받고 있으므로, 관련 콘텐츠를 개발하여 관심을 받을 수 있습니다.",
+  "analyzed_at": "2026-04-04T03:00:35.539Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
