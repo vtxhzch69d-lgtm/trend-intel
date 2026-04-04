@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "테크 및 과학",
-      "summary": "최근 테크 및 과학 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 우주 탐사 관련 뉴스가 주목을 받았습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "교육과 강남 부동산",
+      "summary": "교육과 강남 부동산의 관련성에 대한 논의가 진행 중입니다. 일부 사용자는 강남 부동산의 높은 가격이 교육의 결과라고 주장합니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제도 많은 관심을 받고 있습니다. 특히, 테슬라와 삼성의 최근 동향이 주목을 받았습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "테슬라와 전기차",
+      "summary": "테슬라의 전기차 판매량이 증가하고 있습니다. 일부 사용자는 테슬라의 성공이 전기차 산업의 미래를 결정할 것이라고 주장합니다.",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제도 관심을 받고 있습니다. 특히, 최근의 정치적 사건과 사회 문제가 주목을 받았습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "인공지능과 기술",
+      "summary": "인공지능과 기술의 발전이 빠르게 진행 중입니다. 일부 사용자는 인공지능이 미래의 산업을 결정할 것이라고 주장합니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 관련 뉴스와 기술 개발이 주목을 받았습니다."
+      "keyword": "강남",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "부동산과 교육에 대한 논의에서 언급됨"
     },
     {
       "keyword": "테슬라",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "테슬라의 최근 동향과 성과가 주목을 받았습니다."
+      "count": 3,
+      "sentiment": "positive",
+      "context": "전기차 산업의 미래에 대한 논의에서 언급됨"
     },
     {
-      "keyword": "삼성",
-      "count": 5,
+      "keyword": "인공지능",
+      "count": 10,
       "sentiment": "positive",
-      "context": "삼성의 최근 동향과 성과가 주목을 받았습니다."
+      "context": "미래의 산업과 기술에 대한 논의에서 언급됨"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정으로 긍정적과 부정적이 혼재되어 있습니다."
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "테크 및 과학 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "테크 및 과학 관련 콘텐츠를 개발하여 관심을 받을 수 있습니다.",
+      "insight": "교육과 강남 부동산의 관련성에 대한 논의가 진행 중입니다.",
+      "action": "교육과 부동산 산업에 대한 투자를 고려해야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "테슬라의 전기차 판매량이 증가하고 있습니다.",
+      "action": "전기차 산업에 대한 투자를 고려해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제도 많은 관심을 받고 있습니다.",
-      "action": "경제 및 금융 관련 콘텐츠를 개발하여 관심을 받을 수 있습니다.",
-      "priority": "medium"
+      "insight": "인공지능과 기술의 발전이 빠르게 진행 중입니다.",
+      "action": "인공지능과 기술에 대한 투자를 고려해야 합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 테크 및 과학, 경제 및 금융, 사회 및 정치 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 우주 탐사 관련 뉴스가 주목을 받았습니다. 테슬라와 삼성의 최근 동향도 주목을 받았습니다. 이러한 트렌드를 분석하여 콘텐츠를 개발하고, 마케팅 전략을 수립할 수 있습니다. 또한, 테크 및 과학 관련 주제가 많은 관심을 받고 있으므로, 관련 콘텐츠를 개발하여 관심을 받을 수 있습니다.",
-  "analyzed_at": "2026-04-04T03:00:35.539Z",
+  "narrative": "현재의 트렌드는 교육과 강남 부동산, 테슬라와 전기차, 인공지능과 기술에 대한 논의를 중심으로 진행되고 있습니다. 이러한 트렌드는 미래의 산업과 기술에 대한 투자를 고려해야 함을 시사합니다. 또한, 긍정적인 분위기와 높은 우선순위의 인사이트는 이러한 트렌드에 대한 투자가 필요함을 강조합니다.",
+  "analyzed_at": "2026-04-04T04:30:34.577Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
