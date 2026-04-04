@@ -1,56 +1,76 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 의견을 공유하고 토론합니다.",
-      "post_count": 1000,
+      "topic": "정치",
+      "summary": "박주민과 정원오의 1:1 결선에 대한 의견",
+      "post_count": 3,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 다양한 기술에 대해 의견을 공유하고 토론합니다.",
-      "post_count": 500,
+      "topic": "기술",
+      "summary": "구글 AI와 테슬라의 기술 개발에 대한 소식",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "이승우의 슈퍼 원더골과 LCK 한화생명 경기",
+      "post_count": 2,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일상생활",
-      "count": 500,
+      "keyword": "박주민",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "사용자들이 일상생활과 관련된 주제에 대해 의견을 공유합니다."
+      "context": "정치"
     },
     {
-      "keyword": "기술",
-      "count": 300,
+      "keyword": "구글 AI",
+      "count": 5,
       "sentiment": "positive",
-      "context": "사용자들이 기술에 대해 의견을 공유하고 토론합니다."
+      "context": "기술"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "기술"
+    },
+    {
+      "keyword": "이승우",
+      "count": 1,
+      "sentiment": "positive",
+      "context": "스포츠"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 기술과 스포츠에 대한 긍정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 일상생활과 기술에 대해 관심이 많습니다.",
-      "action": "관련된 주제에 대한 콘텐츠를 제공합니다.",
+      "insight": "구글 AI와 테슬라의 기술 개발에 대한 관심이 높아지고 있다",
+      "action": "기술 개발에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 다양한 주제에 대해 의견을 공유하고 토론합니다.",
-      "action": "의견 공유와 토론을 위한 플랫폼을 제공합니다.",
+      "insight": "정치와 스포츠에 대한 관심은 지속적으로 유지되고 있다",
+      "action": "관련 콘텐츠 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌와 클리앙 커뮤니티는 사용자들이 다양한 주제에 대해 의견을 공유하고 토론하는 공간입니다. 사용자들은 일상생활과 기술에 대해 관심이 많으며, 관련된 주제에 대한 콘텐츠를 제공하는 것이 중요합니다. 또한, 의견 공유와 토론을 위한 플랫폼을 제공하는 것도 중요합니다. 이러한 인사이트를 바탕으로, 마케터는 사용자들의 관심과 필요를 충족하는 콘텐츠와 서비스를 제공할 수 있습니다.",
-  "analyzed_at": "2026-04-04T10:00:34.011Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드는 정치, 기술, 스포츠에 대한 관심이 높아지고 있다. 특히 구글 AI와 테슬라의 기술 개발에 대한 소식이 많은 관심을 받고 있다. 이러한 트렌드는 기술 개발에 대한 투자 증가와 관련 콘텐츠 개발의 필요성을 시사한다. 또한 정치와 스포츠에 대한 관심은 지속적으로 유지되고 있어 관련 콘텐츠 개발에도 관심을 기울일 필요가 있다.",
+  "analyzed_at": "2026-04-04T11:30:33.667Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
