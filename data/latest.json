@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 관련 게시물이 많습니다. 대통령과 정치 지형에 대한 관심이 높아지고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "새로운 기술과 제품에 대한 게시물이 많습니다. AI와 우주 탐사에 대한 관심이 높아지고 있습니다.",
-      "post_count": 20,
+      "topic": "F-15 전투기",
+      "summary": "미군의 F-15 전투기 조종사 구출 작전과 관련된 뉴스 및 논평",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회",
-      "summary": "사회 관련 게시물이 많습니다. 가족과 교육에 대한 관심이 높아지고 있습니다.",
-      "post_count": 10,
+      "topic": "아르테미스 2호",
+      "summary": "아르테미스 2호의 달 향한 우주비행과 관련된 뉴스",
+      "post_count": 3,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "한국의 정치 지형과 관련된 뉴스 및 논평",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "F-15",
+      "count": 7,
       "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 관심"
+      "context": "미군의 전투기"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "最近의 정치 관련 게시물"
+      "keyword": "아르테미스 2호",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "달 향한 우주비행"
     },
     {
-      "keyword": "우주 탐사",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 관심"
+      "keyword": "윤석열",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "한국의 대통령"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 15,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "중립적인 분위기지만, 긍정적인 게시물이 더 많습니다."
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "새로운 기술과 제품에 대한 관심이 높아지고 있습니다.",
-      "action": "새로운 기술과 제품에 대한 마케팅 전략을 개발해야 합니다.",
+      "insight": "국방 산업의 중요성",
+      "action": "국방 산업에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 게시물이 많습니다.",
-      "action": "정치 관련 마케팅 전략을 개발해야 합니다.",
+      "insight": "우주 산업의 성장",
+      "action": "우주 산업에 대한 투자 증가",
       "priority": "medium"
+    },
+    {
+      "insight": "정치적 불안정성",
+      "action": "정치적 불안정성에 대한 대비",
+      "priority": "high"
     }
   ],
-  "narrative": "最近의 정치 관련 게시물이 많습니다. 대통령과 정치 지형에 대한 관심이 높아지고 있습니다. 새로운 기술과 제품에 대한 게시물도 많습니다. AI와 우주 탐사에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 개발해야 합니다. 새로운 기술과 제품에 대한 마케팅 전략을 개발하고, 정치 관련 마케팅 전략을 개발해야 합니다. 또한, 사회 관련 게시물이 많습니다. 가족과 교육에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 개발해야 합니다.",
-  "analyzed_at": "2026-04-05T05:30:33.462Z",
+  "narrative": "최근의 트렌드 분석 결과, F-15 전투기와 아르테미스 2호가 주목을 받고 있습니다. 또한, 한국의 정치 지형과 관련된 뉴스 및 논평이 많습니다. 이러한 트렌드들은 국방 산업과 우주 산업의 중요성을 강조하며, 정치적 불안정성에 대한 대비가 필요합니다. 마케터들은 이러한 트렌드들을 고려하여 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-04-05T07:00:33.670Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
