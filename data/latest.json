@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 뉴스와 사건사고에 대한 논의가 활발합니다.",
+      "summary": "最近의 정치 관련 게시물이 많습니다. 대통령과 정치 지형에 대한 관심이 높아지고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 발전에 대한 관심이 높습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "손흥민의 활약과 축구 경기에 대한 논의가 있습니다.",
-      "post_count": 5,
+      "topic": "기술",
+      "summary": "새로운 기술과 제품에 대한 게시물이 많습니다. AI와 우주 탐사에 대한 관심이 높아지고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "사회",
+      "summary": "사회 관련 게시물이 많습니다. 가족과 교육에 대한 관심이 높아지고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "손흥민",
-      "count": 5,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "손흥민의 축구 경기에 대한 논의"
+      "context": "새로운 기술과 제품에 대한 관심"
     },
     {
       "keyword": "정치",
       "count": 15,
       "sentiment": "mixed",
-      "context": "最近의 정치 뉴스와 사건사고에 대한 논의"
+      "context": "最近의 정치 관련 게시물"
     },
     {
-      "keyword": "기술",
-      "count": 20,
+      "keyword": "우주 탐사",
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 발전에 대한 관심"
+      "context": "새로운 기술과 제품에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 30,
     "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기지만, 긍정적인 게시물이 더 많습니다."
   },
   "business_insights": [
     {
-      "insight": "기술 뉴스와 발전에 대한 관심이 높습니다.",
-      "action": "기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
+      "insight": "새로운 기술과 제품에 대한 관심이 높아지고 있습니다.",
+      "action": "새로운 기술과 제품에 대한 마케팅 전략을 개발해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스와 사건사고에 대한 논의가 활발합니다.",
-      "action": "정치 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
+      "insight": "정치 관련 게시물이 많습니다.",
+      "action": "정치 관련 마케팅 전략을 개발해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 사건사고에 대한 논의가 활발합니다. 최신 기술 뉴스와 발전에 대한 관심도 높습니다. 손흥민의 활약과 축구 경기에 대한 논의도 있습니다. 이러한 트렌드를 고려하여 기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다. 또한 정치 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
-  "analyzed_at": "2026-04-05T04:00:33.578Z",
+  "narrative": "最近의 정치 관련 게시물이 많습니다. 대통령과 정치 지형에 대한 관심이 높아지고 있습니다. 새로운 기술과 제품에 대한 게시물도 많습니다. AI와 우주 탐사에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 개발해야 합니다. 새로운 기술과 제품에 대한 마케팅 전략을 개발하고, 정치 관련 마케팅 전략을 개발해야 합니다. 또한, 사회 관련 게시물이 많습니다. 가족과 교육에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 개발해야 합니다.",
+  "analyzed_at": "2026-04-05T05:30:33.462Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
