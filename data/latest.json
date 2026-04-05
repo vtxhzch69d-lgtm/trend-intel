@@ -1,67 +1,84 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 정부와 관련된 다양한 뉴스 및 논평",
+      "topic": "이란과 미국의 군사적 긴장",
+      "summary": "이란과 미국의 군사적 긴장으로 인해 중동 전쟁의 가능성이 높아지고 있다. 트럼프 대통령의 발언과 이란의 반응이 주목을 받고 있다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 제품 리뷰",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치와 선거",
+      "summary": "한국의 정치와 선거 관련된 게시글이 많다. 이재명 대통령과 김영옥 배우님의 활동이 주목을 받고 있다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스 및 분석",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술과 과학",
+      "summary": "최신 기술과 과학 관련된 게시글이 많다. 아르테미스 2호의 달 향한 우주비행과 구글의 새로운 AI 모델이 주목을 받고 있다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "이란",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "이란과 미국의 군사적 긴장"
+    },
+    {
+      "keyword": "트럼프",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "트럼프 대통령의 발언"
+    },
+    {
       "keyword": "이재명",
       "count": 5,
-      "sentiment": "negative",
-      "context": "정치 뉴스"
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 활동"
     },
     {
-      "keyword": "AI",
+      "keyword": "아르테미스 2호",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "아르테미스 2호의 달 향한 우주비행"
+    },
+    {
+      "keyword": "구글",
       "count": 3,
       "sentiment": "positive",
-      "context": "기술 뉴스"
-    },
-    {
-      "keyword": "경제",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "경제 뉴스"
+      "context": "구글의 새로운 AI 모델"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났다."
   },
   "business_insights": [
     {
-      "insight": "정치 뉴스에 대한 관심이 높아지고 있다",
-      "action": "정치 뉴스에 대한 분석을 강화한다",
+      "insight": "이란과 미국의 군사적 긴장으로 인해 중동 전쟁의 가능성이 높아지고 있다.",
+      "action": "중동 지역의 상황을 주시하고 대비책을 마련해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "기술 뉴스에 대한 관심이 증가하고 있다",
-      "action": "기술 뉴스에 대한 분석을 강화한다",
+      "insight": "최신 기술과 과학 관련된 게시글이 많다.",
+      "action": "최신 기술과 과학 관련된 뉴스와 정보를 제공하여 고객의 관심을 끌 수 있다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치와 선거 관련된 게시글이 많다.",
+      "action": "정치와 선거 관련된 뉴스와 정보를 제공하여 고객의 관심을 끌 수 있다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치 뉴스에 대한 관심이 높아지고 있으며, 기술 뉴스에 대한 관심도 증가하고 있다. 그러나 경제 뉴스에 대한 관심은 낮아지고 있으며, 전체적인 기분은 중립적이다. 이러한 결과를 바탕으로, 정치 뉴스와 기술 뉴스에 대한 분석을 강화하고, 경제 뉴스에 대한 분석을 강화하여 더 정확한 정보를 제공할 수 있을 것이다.",
-  "analyzed_at": "2026-04-05T11:30:33.530Z",
+  "narrative": "이번 주에는 이란과 미국의 군사적 긴장으로 인해 중동 전쟁의 가능성이 높아지고 있다. 트럼프 대통령의 발언과 이란의 반응이 주목을 받고 있다. 또한, 최신 기술과 과학 관련된 게시글이 많다. 아르테미스 2호의 달 향한 우주비행과 구글의 새로운 AI 모델이 주목을 받고 있다. 정치와 선거 관련된 게시글도 많다. 이재명 대통령과 김영옥 배우님의 활동이 주목을 받고 있다. 이러한 트렌드를 분석하여 고객의 관심을 끌 수 있는 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-04-05T13:00:34.969Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
