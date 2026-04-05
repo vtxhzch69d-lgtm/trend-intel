@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
+      "topic": "손흥민",
+      "summary": "손흥민이 LAFC에서 5골을 기록하며 팀의 승리에 기여했다. 손흥민의 활약은 팬들과 언론의 주목을 받았다.",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
       "topic": "정치",
-      "summary": "트럼프 지지율, 김동연의 알박기 인사, 대통령 선거 전 예상보다 잘해서 놀랍습니다.",
-      "post_count": 10,
+      "summary": "오세훈과 윤희숙의 대립, 김동연의 알박기 인사 등 정치 관련 뉴스가热을 끌고 있다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "LG세탁기 분해, 유튜버 목소리를 AI로 가져간, 구글 앱 수수료 인하",
-      "post_count": 8,
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 트렌드가 논의되고 있다. AI, 우주탐사, 로봇 등 다양한 주제가 포함된다.",
+      "post_count": 15,
       "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "국제 관계",
-      "summary": "이스라엘과 미국의 전쟁, 이란의 호르무즈 봉쇄, 북한의 장사정포 대응",
-      "post_count": 6,
-      "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
+      "keyword": "손흥민",
       "count": 5,
+      "sentiment": "positive",
+      "context": "손흥민의 축구 경기 활약"
+    },
+    {
+      "keyword": "오세훈",
+      "count": 2,
       "sentiment": "negative",
-      "context": "트럼프 지지율, 트럼프 총 맞고 병원에 헬기로 갔는데"
+      "context": "오세훈의 정치적 대립"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 5,
       "sentiment": "neutral",
-      "context": "유튜버 목소리를 AI로 가져간, 구글 앱 수수료 인하"
-    },
-    {
-      "keyword": "이란",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "이란의 호르무즈 봉쇄, 이란에 대한 미국의 경고"
+      "context": "최신 기술 트렌드"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 기운이 강하지만 중립적인 의견도 많다"
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 기술의 결합이 중요하다",
-      "action": "정치와 기술에 대한 투자를 늘려야 한다",
+      "insight": "손흥민의 인기",
+      "action": "손흥민과 협업",
       "priority": "high"
     },
     {
-      "insight": "국제 관계의 불안정성이 높다",
-      "action": "국제 관계의 불안정성에 대한 대비책을 마련해야 한다",
-      "priority": "high"
+      "insight": "테크 트렌드",
+      "action": "최신 기술에 투자",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치적 대립",
+      "action": "정치적 중립성 유지",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 정치와 기술의 결합은 매우 중요하다. 트럼프 지지율, 김동연의 알박기 인사, 대통령 선거 전 예상보다 잘해서 놀랍습니다. 또한 LG세탁기 분해, 유튜버 목소리를 AI로 가져간, 구글 앱 수수료 인하는 중립적인 의견을 나타낸다. 그러나 이란의 호르무즈 봉쇄, 북한의 장사정포 대응 등 국제 관계의 불안정성은 높다. 따라서 정치와 기술에 대한 투자를 늘려야 하며, 국제 관계의 불안정성에 대한 대비책을 마련해야 한다.",
-  "analyzed_at": "2026-04-05T01:00:34.683Z",
+  "narrative": "최근 손흥민의 활약과 정치적 대립, 최신 기술 트렌드가 주목을 받고 있다. 손흥민의 인기와 테크 트렌드는 비즈니스 기회를 제공할 수 있지만, 정치적 대립은 중립성을 유지하는 것이 중요하다. 최신 기술 트렌드는 투자와 협업의 기회를 제공한다. 중립적이고 객관적인 접근이 중요하다.",
+  "analyzed_at": "2026-04-05T02:30:33.851Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
