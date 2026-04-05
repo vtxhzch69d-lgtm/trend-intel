@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "손흥민",
-      "summary": "손흥민이 LAFC에서 5골을 기록하며 팀의 승리에 기여했다. 손흥민의 활약은 팬들과 언론의 주목을 받았다.",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치",
-      "summary": "오세훈과 윤희숙의 대립, 김동연의 알박기 인사 등 정치 관련 뉴스가热을 끌고 있다.",
-      "post_count": 5,
+      "summary": "最近의 정치 뉴스와 사건사고에 대한 논의가 활발합니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 트렌드가 논의되고 있다. AI, 우주탐사, 로봇 등 다양한 주제가 포함된다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 발전에 대한 관심이 높습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "손흥민의 활약과 축구 경기에 대한 논의가 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -27,46 +27,41 @@
       "keyword": "손흥민",
       "count": 5,
       "sentiment": "positive",
-      "context": "손흥민의 축구 경기 활약"
+      "context": "손흥민의 축구 경기에 대한 논의"
     },
     {
-      "keyword": "오세훈",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "오세훈의 정치적 대립"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "最近의 정치 뉴스와 사건사고에 대한 논의"
     },
     {
-      "keyword": "AI",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "최신 기술 트렌드"
+      "keyword": "기술",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 발전에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 20,
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "손흥민의 인기",
-      "action": "손흥민과 협업",
+      "insight": "기술 뉴스와 발전에 대한 관심이 높습니다.",
+      "action": "기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "테크 트렌드",
-      "action": "최신 기술에 투자",
+      "insight": "정치 뉴스와 사건사고에 대한 논의가 활발합니다.",
+      "action": "정치 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적 대립",
-      "action": "정치적 중립성 유지",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 손흥민의 활약과 정치적 대립, 최신 기술 트렌드가 주목을 받고 있다. 손흥민의 인기와 테크 트렌드는 비즈니스 기회를 제공할 수 있지만, 정치적 대립은 중립성을 유지하는 것이 중요하다. 최신 기술 트렌드는 투자와 협업의 기회를 제공한다. 중립적이고 객관적인 접근이 중요하다.",
-  "analyzed_at": "2026-04-05T02:30:33.851Z",
+  "narrative": "最近의 정치 뉴스와 사건사고에 대한 논의가 활발합니다. 최신 기술 뉴스와 발전에 대한 관심도 높습니다. 손흥민의 활약과 축구 경기에 대한 논의도 있습니다. 이러한 트렌드를 고려하여 기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다. 또한 정치 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
+  "analyzed_at": "2026-04-05T04:00:33.578Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
