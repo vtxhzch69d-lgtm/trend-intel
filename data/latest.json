@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이란 전쟁",
-      "summary": "이란 전쟁 관련 뉴스와 논란이 커뮤니티에서热한 관심을 받고 있습니다. 트럼프의 이란 협상 타결 전망과 이란 전쟁의 가능성에 대한 논의가 활발합니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "아르테미스 2호",
+      "summary": "아르테미스 2호가 지구 궤도 벗어나 본격 달 향한 우주비행을 시작했다. 아르테미스 2호는 달 향하던 중 아웃룩 오류에 지구로 SOS를 보냈다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스와 논의가 커뮤니티에서 관심을 받고 있습니다. AI 프롬프트코딩과 챗GPT의 활용법에 대한 글이 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "트럼프",
+      "summary": "트럼프가 호르무즈 장악하려는 목적이 무엇인지에 대한 의견이 분분하다. 트럼프가 드디어 본심을 드러내었다는 의견도 있다.",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논의가 커뮤니티에서 관심을 받고 있습니다. 대통령 계정과 개헌에 대한 논의가 있습니다.",
-      "post_count": 6,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "로봇",
+      "summary": "로봇이 사람 대체하기 시작한 중국에서 청년 일자리부터 타격을 받고 있다. 로봇업계의 매출은 호조 속 수익성 고민을 하고 있다.",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "이란 전쟁 관련 뉴스와 논란"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스와 논의"
+      "keyword": "아르테미스 2호",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "달 향한 우주비행"
     },
     {
       "keyword": "트럼프",
-      "count": 8,
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "호르무즈 장악"
+    },
+    {
+      "keyword": "로봇",
+      "count": 2,
       "sentiment": "negative",
-      "context": "트럼프의 이란 협상 타결 전망과 이란 전쟁의 가능성"
+      "context": "청년 일자리"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적이고 관심이 집중된 분위기"
+    "positive": 5,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이란 전쟁 관련 뉴스와 논란이 커뮤니티에서 관심을 받고 있습니다.",
-      "action": "관련 뉴스와 정보를 제공하여 커뮤니티의 관심을满足시키는 마케팅 전략을 수립합니다.",
+      "insight": "로봇업계의 매출은 호조 속 수익성 고민을 하고 있다.",
+      "action": "로봇업계의 수익성 향상을 위한 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 관련된 뉴스와 논의가 커뮤니티에서 관심을 받고 있습니다.",
-      "action": "AI 기술의 활용법과 관련된 콘텐츠를 제공하여 커뮤니티의 관심을滿足시키는 마케팅 전략을 수립합니다.",
+      "insight": "아르테미스 2호의 달 향한 우주비행은 새로운 기회를 제공할 수 있다.",
+      "action": "우주 산업의 발전을 위한 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "커뮤니티에서는 이란 전쟁 관련 뉴스와 논란, AI 기술의 발전과 관련된 뉴스와 논의, 정치 관련 뉴스와 논의가 관심을 받고 있습니다. 이러한 관심을滿足시키는 마케팅 전략을 수립하여 커뮤니티의 참여도를 높일 수 있습니다. 또한, 커뮤니티의 관심을 분석하여 관련 뉴스와 정보를 제공하고, AI 기술의 활용법과 관련된 콘텐츠를 제공하여 커뮤니티의 관심을滿足시키는 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-05T17:30:34.036Z",
+  "narrative": "최근의 트렌드는 아르테미스 2호의 달 향한 우주비행과 트럼프의 호르무즈 장악에 대한 의견이 분분하다. 로봇업계의 매출은 호조 속 수익성 고민을 하고 있다. 이러한 트렌드는 로봇업계의 수익성 향상을 위한 전략 수립과 우주 산업의 발전을 위한 투자의 필요성을 시사한다. 또한, 아르테미스 2호의 달 향한 우주비행은 새로운 기회를 제공할 수 있다. 따라서, 이러한 트렌드를 주시하고 적절한 전략을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-04-05T19:00:33.935Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
