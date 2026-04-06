@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "대통령 선거와 관련된 다양한 뉴스와 의견이 나오고 있습니다. 후보자들의 정책과 활동에 대한 논의가 활발합니다.",
+      "topic": "정치 및 사회",
+      "summary": "윤석열 정부의 정책과 행보, 정치인들의 발언 및 활동 등이 주목을 받고 있습니다. 또한, 경제와 관련된 뉴스도 많은 관심을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "주식 시장과 경제 동향에 대한 관심이 높아지고 있습니다. 투자와 금융 관련된 다양한 주제가 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술과 과학 뉴스, 특히 AI와 관련된 뉴스가 많은 관심을 받고 있습니다. 또한, 삼성전자와 관련된 뉴스도 주목을 받고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술과 제품에 대한 관심이 높아지고 있습니다. AI와 관련된 주제가 특히 많이 논의되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "주식 시장과 경제 동향, 특히삼성전자와 관련된 뉴스가 많은 관심을 받고 있습니다. 또한, 경제와 관련된 정책과 뉴스도 주목을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "대통령",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "대통령 선거와 관련된 뉴스와 의견"
+      "keyword": "윤석열",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "윤석열 정부의 정책과 행보에 대한 비판"
     },
     {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "주식 시장과 경제 동향"
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "삼성전자의 최신 기술과 제품에 대한 관심"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술과 제품"
+      "context": "AI와 관련된 최신 기술과 뉴스에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중立적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "대통령 선거와 관련된 마케팅 기회",
-      "action": "대통령 선거와 관련된 제품이나 서비스를 개발",
+      "insight": "최신 기술과 과학 뉴스에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술과 과학 뉴스에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장과 경제 동향에 대한 관심",
-      "action": "주식 시장과 경제 동향에 대한 정보를 제공",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 기술과 제품에 대한 관심",
-      "action": "최신 기술과 제품에 대한 정보를 제공",
+      "insight": "삼성전자와 관련된 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "삼성전자와 관련된 뉴스와 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 대통령 선거와 관련된 다양한 뉴스와 의견, 주식 시장과 경제 동향, 최신 기술과 제품에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 분석하여 마케팅 기회를 찾는 것이 중요합니다. 대통령 선거와 관련된 제품이나 서비스를 개발하거나, 주식 시장과 경제 동향에 대한 정보를 제공하거나, 최신 기술과 제품에 대한 정보를 제공하는 것이 좋습니다.",
-  "analyzed_at": "2026-04-06T09:00:34.827Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 정치 및 사회, 기술 및 과학, 경제 및 금융 등 다양한 주제가 주목을 받고 있습니다. 특히, 최신 기술과 과학 뉴스, 특히 AI와 관련된 뉴스가 많은 관심을 받고 있습니다. 또한, 삼성전자와 관련된 뉴스도 주목을 받고 있습니다. 이러한 트렌드를 반영하여 최신 기술과 과학 뉴스, 특히 AI와 관련된 뉴스에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다. 또한, 삼성전자와 관련된 뉴스와 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-04-06T10:30:34.765Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
