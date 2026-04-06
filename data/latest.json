@@ -2,24 +2,38 @@
   "trending_topics": [
     {
       "topic": "트럼프",
-      "summary": "트럼프의 최근 발언과 행동이 논란이 되고 있다. 트럼프의 라이브 방송과 이란 시위대에 대한 발언이 주목을 받고 있다.",
+      "summary": "트럼프의 발언과 행동에 대한 논의",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "달 탐사",
-      "summary": "달 탐사와 관련된 뉴스가 여러 개 xuất현하고 있다. 한국의 달 착륙 계획과 아르테미스 2호의 달 향한 우주비행이 주목을 받고 있다.",
-      "post_count": 6,
+      "summary": "한국의 달 착륙 계획과 우주 탐사에 대한 논의",
+      "post_count": 4,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI와 관련된 뉴스가 여러 개 출현하고 있다. 미스트랄 AI와 아울로의 서비스 출시, AI의 근본적 문제 등이 주목을 받고 있다.",
-      "post_count": 7,
+      "topic": "AI 기술",
+      "summary": "AI의 발전과 ứng dụng에 대한 논의",
+      "post_count": 6,
       "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "한국의 정치 상황과 선거에 대한 논의",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 제품에 대한 논의",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +41,58 @@
       "keyword": "트럼프",
       "count": 7,
       "sentiment": "negative",
-      "context": "트럼프의 최근 발언과 행동"
+      "context": "트럼프의 발언과 행동에 대한 논의"
     },
     {
       "keyword": "달",
-      "count": 6,
+      "count": 4,
       "sentiment": "positive",
-      "context": "달 탐사와 관련된 뉴스"
+      "context": "한국의 달 착륙 계획과 우주 탐사에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 6,
       "sentiment": "neutral",
-      "context": "AI와 관련된 뉴스"
+      "context": "AI의 발전과 ứng dụng에 대한 논의"
+    },
+    {
+      "keyword": "정치",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "한국의 정치 상황과 선거에 대한 논의"
+    },
+    {
+      "keyword": "기술",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "최신 기술 뉴스와 제품에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 25,
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "트럼프의 발언과 행동이 논란이 되고 있는 상황에서 기업은 사회적 책임을 강조하는 마케팅 전략을 고려할 수 있다.",
-      "action": "사회적 책임 마케팅 전략 수립",
+      "insight": "트럼프의 발언과 행동에 대한 논의가 증가하고 있다",
+      "action": "트럼프의 발언과 행동에 대한 논의를 주시하고 대응한다",
       "priority": "high"
     },
     {
-      "insight": "달 탐사와 관련된 뉴스가 주목을 받고 있는 상황에서 관련 산업의 성장 가능성을 고려할 수 있다.",
-      "action": "관련 산업 투자 고려",
+      "insight": "한국의 달 착륙 계획과 우주 탐사에 대한 논의가 증가하고 있다",
+      "action": "한국의 달 착륙 계획과 우주 탐사에 대한 논의를 주시하고 기회를 찾는다",
       "priority": "medium"
     },
     {
-      "insight": "AI와 관련된 뉴스가 여러 개 출현하고 있는 상황에서 AI 기술의 발전과 ứng용 가능성을 고려할 수 있다.",
-      "action": "AI 기술 연구 및 개발",
+      "insight": "AI의 발전과 ứng용에 대한 논의가 증가하고 있다",
+      "action": "AI의 발전과 ứng용에 대한 논의를 주시하고 기회를 찾는다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 트럼프의 발언과 행동, 달 탐사, AI와 관련된 뉴스가 주목을 받고 있다. 이러한 트렌드는 기업의 마케팅 전략과 비즈니스 의사 결정에 영향을 줄 수 있다. 트럼프의 발언과 행동이 논란이 되고 있는 상황에서 기업은 사회적 책임을 강조하는 마케팅 전략을 고려할 수 있다. 또한, 달 탐사와 관련된 뉴스가 주목을 받고 있는 상황에서 관련 산업의 성장 가능성을 고려할 수 있다. 마지막으로, AI와 관련된 뉴스가 여러 개 출현하고 있는 상황에서 AI 기술의 발전과 응용 가능성을 고려할 수 있다.",
-  "analyzed_at": "2026-04-06T18:00:34.683Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서는 트럼프의 발언과 행동, 한국의 달 착륙 계획과 우주 탐사, AI의 발전과 응용 등 다양한 주제에 대한 논의가 증가하고 있다. 이러한 논의는 정치, 기술, 경제 등 다양한 분야에 걸쳐 있으며, 기업과 기관은 이러한 트렌드를 주시하고 기회를 찾는 것이 중요하다. 또한, 트럼프의 발언과 행동에 대한 논의는 높은 우선순위를 가지고 있으며, 기업과 기관은 이러한 논의를 주시하고 대응하는 것이 필요하다.",
+  "analyzed_at": "2026-04-06T19:30:34.495Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
