@@ -2,72 +2,98 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "국정원 '김주애, 김정은 후계자 시절 오마주…후계 서사 구축' 등 정치 관련 게시글이 많다.",
+      "summary": "국내 정치 관련 뉴스와 논평",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "다주택 양도세 중과유예, 가업상속공제 대상 업종 대폭 축소 등 경제 관련 게시글이 많다.",
+      "summary": "국내 경제 동향과 뉴스",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "SK하이닉스, EUV 투자 3배 확대…1c D램 강화 등 기술 관련 게시글이 많다.",
+      "summary": "최신 기술 동향과 뉴스",
       "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "사회",
+      "summary": "사회 문제와 논평",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "문화",
+      "summary": "문화와 예술 관련 뉴스",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "국정원",
+      "keyword": "윤석열",
       "count": 5,
       "sentiment": "negative",
-      "context": "국정원 관련 게시글이 많다."
+      "context": "정치"
     },
     {
-      "keyword": "다주택 양도세",
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "기술"
+    },
+    {
+      "keyword": "사회 문제",
       "count": 3,
-      "sentiment": "negative",
-      "context": "다주택 양도세 관련 게시글이 많다."
+      "sentiment": "mixed",
+      "context": "사회"
     },
     {
-      "keyword": "SK하이닉스",
+      "keyword": "문화",
       "count": 2,
       "sentiment": "positive",
-      "context": "SK하이닉스 관련 게시글이 많다."
+      "context": "문화"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
-    "negative": 20,
+    "negative": 12,
     "neutral": 10,
-    "overall_mood": "부정적인 감정으로 가득 찬 게시글이 많다."
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 게시글이 많아 정치적 이슈에 관심이 집중되고 있다.",
-      "action": "정치 관련 게시글을 분석하여 정치적 이슈에 대한 인사이트를 얻는다.",
+      "insight": "국내 정치와 경제는 여전히 주요 관심사",
+      "action": "관련 뉴스와 분석 제공",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 게시글이 많아 경제적 이슈에 관심이 집중되고 있다.",
-      "action": "경제 관련 게시글을 분석하여 경제적 이슈에 대한 인사이트를 얻는다.",
+      "insight": "기술 분야는 계속 성장할 것",
+      "action": "최신 기술 동향 제공",
       "priority": "medium"
     },
     {
-      "insight": "기술 관련 게시글이 많아 기술적 이슈에 관심이 집중되고 있다.",
-      "action": "기술 관련 게시글을 분석하여 기술적 이슈에 대한 인사이트를 얻는다.",
+      "insight": "사회 문제와 문화는 중요하지만 관심도가 낮다",
+      "action": "관련 콘텐츠 제공",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 게시글을 분석한 결과, 정치 관련 게시글이 많아 정치적 이슈에 관심이 집중되고 있다. 또한, 경제 관련 게시글도 많아 경제적 이슈에 관심이 집중되고 있다. 기술 관련 게시글도 많아 기술적 이슈에 관심이 집중되고 있다. 이러한 결과는 정치, 경제, 기술 등 다양한 분야에 대한 관심이 집중되고 있음을 보여준다. 이러한 인사이트를 바탕으로, 각 분야에 대한 분석을 진행하여 더详한 인사이트를 얻을 수 있을 것이다.",
-  "analyzed_at": "2026-04-06T04:00:34.040Z",
-  "post_count": 61,
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 국내 정치와 경제가 주요 관심사임을 알 수 있다. 기술 분야는 계속 성장할 것으로 예상되며, 사회 문제와 문화는 중요하지만 관심도가 낮다. 이러한 분석 결과를 바탕으로 관련 뉴스와 분석을 제공하고, 최신 기술 동향을 공유할 수 있다. 또한, 사회 문제와 문화 관련 콘텐츠를 제공하여 사용자의 관심을 끌 수 있을 것이다.",
+  "analyzed_at": "2026-04-06T05:30:34.024Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
