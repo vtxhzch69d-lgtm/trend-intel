@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "最近의 정치 및 사회 관련 뉴스와 논란이 많은 것으로 나타났습니다. 스토킹 가해자 실시간 위치 확인 가능해지고, 법무부의 대북송금 수사 및 특검의 쌍방울 사건 등이 논란이 되고 있습니다.",
+      "topic": "정치",
+      "summary": "대통령 선거와 관련된 다양한 뉴스와 의견이 나오고 있습니다. 후보자들의 정책과 활동에 대한 논의가 활발합니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 뉴스도 많은 것으로 나타났습니다. 삼성 TV의 타이젠 9 업그레이드, SK하이닉스의 EUV 투자 확대, 현대차의 뽀로로 디스플레이 테마 출시 등이 언급되었습니다.",
+      "topic": "경제",
+      "summary": "주식 시장과 경제 동향에 대한 관심이 높아지고 있습니다. 투자와 금융 관련된 다양한 주제가 논의되고 있습니다.",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 뉴스도 많았습니다. 미스트랄 AI, 딥시크 V4 모델, ElevenLabs의 AI 음악 생성 앱 등이 언급되었습니다.",
-      "post_count": 8,
+      "topic": "기술",
+      "summary": "최신 기술과 제품에 대한 관심이 높아지고 있습니다. AI와 관련된 주제가 특히 많이 논의되고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "스토킹",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "스토킹 가해자 실시간 위치 확인 가능해짐"
+      "keyword": "대통령",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "대통령 선거와 관련된 뉴스와 의견"
     },
     {
-      "keyword": "삼성",
-      "count": 4,
+      "keyword": "주식",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "삼성 TV의 타이젠 9 업그레이드"
+      "context": "주식 시장과 경제 동향"
     },
     {
       "keyword": "AI",
-      "count": 6,
+      "count": 10,
       "sentiment": "positive",
-      "context": "미스트랄 AI, 딥시크 V4 모델 등"
+      "context": "최신 기술과 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
+    "positive": 30,
+    "negative": 20,
     "neutral": 40,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스토킹 가해자 실시간 위치 확인 가능해짐에 따라 개인 정보 보호에 대한 관심이 높아질 수 있습니다.",
-      "action": "개인 정보 보호 관련 서비스 개발",
+      "insight": "대통령 선거와 관련된 마케팅 기회",
+      "action": "대통령 선거와 관련된 제품이나 서비스를 개발",
       "priority": "high"
     },
     {
-      "insight": "삼성 TV의 타이젠 9 업그레이드에 따라 스마트 TV 시장의 경쟁이 심화할 수 있습니다.",
-      "action": "스마트 TV 시장의 경쟁 분석",
+      "insight": "주식 시장과 경제 동향에 대한 관심",
+      "action": "주식 시장과 경제 동향에 대한 정보를 제공",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술과 제품에 대한 관심",
+      "action": "최신 기술과 제품에 대한 정보를 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 정치 및 사회 관련 뉴스와 논란이 많은 것으로 나타났습니다. 스토킹 가해자 실시간 위치 확인 가능해지고, 법무부의 대북송금 수사 및 특검의 쌍방울 사건 등이 논란이 되고 있습니다. 또한, 경제 및 산업 관련 뉴스도 많은 것으로 나타났습니다. 삼성 TV의 타이젠 9 업그레이드, SK하이닉스의 EUV 투자 확대, 현대차의 뽀로로 디스플레이 테마 출시 등이 언급되었습니다. 기술 및 과학 관련 뉴스도 많았습니다. 미스트랄 AI, 딥시크 V4 모델, ElevenLabs의 AI 음악 생성 앱 등이 언급되었습니다. 이러한 뉴스와 트렌드에 따라 개인 정보 보호, 스마트 TV 시장, AI 기술 등에 대한 관심이 높아질 수 있습니다.",
-  "analyzed_at": "2026-04-06T07:00:34.544Z",
-  "post_count": 60,
+  "narrative": "현재의 트렌드는 대통령 선거와 관련된 다양한 뉴스와 의견, 주식 시장과 경제 동향, 최신 기술과 제품에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 분석하여 마케팅 기회를 찾는 것이 중요합니다. 대통령 선거와 관련된 제품이나 서비스를 개발하거나, 주식 시장과 경제 동향에 대한 정보를 제공하거나, 최신 기술과 제품에 대한 정보를 제공하는 것이 좋습니다.",
+  "analyzed_at": "2026-04-06T09:00:34.827Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
