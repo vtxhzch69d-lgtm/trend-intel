@@ -2,97 +2,66 @@
   "trending_topics": [
     {
       "topic": "트럼프",
-      "summary": "트럼프의 발언과 행동에 대한 논의",
+      "summary": "트럼프의 최근 발언과 행동에 대한 논의",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "달 탐사",
-      "summary": "한국의 달 착륙 계획과 우주 탐사에 대한 논의",
-      "post_count": 4,
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 ứng dụng에 대한 논의",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI의 발전과 ứng dụng에 대한 논의",
-      "post_count": 6,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "한국의 정치 상황과 선거에 대한 논의",
-      "post_count": 4,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 제품에 대한 논의",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "달 탐사",
+      "summary": "달 탐사와 관련된 뉴스 및 논의",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "트럼프",
-      "count": 7,
+      "count": 10,
       "sentiment": "negative",
-      "context": "트럼프의 발언과 행동에 대한 논의"
-    },
-    {
-      "keyword": "달",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "한국의 달 착륙 계획과 우주 탐사에 대한 논의"
+      "context": "트럼프의 최근 발언과 행동"
     },
     {
       "keyword": "AI",
-      "count": 6,
-      "sentiment": "neutral",
-      "context": "AI의 발전과 ứng dụng에 대한 논의"
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 ứng dụng"
     },
     {
-      "keyword": "정치",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "한국의 정치 상황과 선거에 대한 논의"
-    },
-    {
-      "keyword": "기술",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 제품에 대한 논의"
+      "keyword": "달",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "달 탐사와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
+    "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "트럼프의 발언과 행동에 대한 논의가 증가하고 있다",
-      "action": "트럼프의 발언과 행동에 대한 논의를 주시하고 대응한다",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "한국의 달 착륙 계획과 우주 탐사에 대한 논의가 증가하고 있다",
-      "action": "한국의 달 착륙 계획과 우주 탐사에 대한 논의를 주시하고 기회를 찾는다",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI의 발전과 ứng용에 대한 논의가 증가하고 있다",
-      "action": "AI의 발전과 ứng용에 대한 논의를 주시하고 기회를 찾는다",
-      "priority": "medium"
+      "insight": "달 탐사와 관련된 비즈니스 기회",
+      "action": "달 탐사와 관련된 비즈니스 기회를 탐색",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 트럼프의 발언과 행동, 한국의 달 착륙 계획과 우주 탐사, AI의 발전과 응용 등 다양한 주제에 대한 논의가 증가하고 있다. 이러한 논의는 정치, 기술, 경제 등 다양한 분야에 걸쳐 있으며, 기업과 기관은 이러한 트렌드를 주시하고 기회를 찾는 것이 중요하다. 또한, 트럼프의 발언과 행동에 대한 논의는 높은 우선순위를 가지고 있으며, 기업과 기관은 이러한 논의를 주시하고 대응하는 것이 필요하다.",
-  "analyzed_at": "2026-04-06T19:30:34.495Z",
+  "narrative": "최근의 트렌드 분석 결과, 트럼프와 관련된 논의가 많았으며, AI 기술의 발전과 달 탐사와 관련된 뉴스도 많이 обсужд되고 있습니다. 이러한 트렌드를 통해 비즈니스 기회를 찾을 수 있으며, AI 기술의 발전을 활용한 비즈니스 모델 개발이 우선순위가 높은 것으로 나타났습니다. 또한, 달 탐사와 관련된 비즈니스 기회도 탐색할 수 있습니다.",
+  "analyzed_at": "2026-04-06T21:00:34.028Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
