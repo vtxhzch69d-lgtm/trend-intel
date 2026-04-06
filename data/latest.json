@@ -1,98 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "국내 정치 관련 뉴스와 논평",
-      "post_count": 10,
+      "topic": "정치 및 사회",
+      "summary": "最近의 정치 및 사회 관련 뉴스와 논란이 많은 것으로 나타났습니다. 스토킹 가해자 실시간 위치 확인 가능해지고, 법무부의 대북송금 수사 및 특검의 쌍방울 사건 등이 논란이 되고 있습니다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "국내 경제 동향과 뉴스",
-      "post_count": 8,
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 뉴스도 많은 것으로 나타났습니다. 삼성 TV의 타이젠 9 업그레이드, SK하이닉스의 EUV 투자 확대, 현대차의 뽀로로 디스플레이 테마 출시 등이 언급되었습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 동향과 뉴스",
-      "post_count": 12,
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련 뉴스도 많았습니다. 미스트랄 AI, 딥시크 V4 모델, ElevenLabs의 AI 음악 생성 앱 등이 언급되었습니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "사회",
-      "summary": "사회 문제와 논평",
-      "post_count": 5,
-      "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "문화",
-      "summary": "문화와 예술 관련 뉴스",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "윤석열",
+      "keyword": "스토킹",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치"
+      "context": "스토킹 가해자 실시간 위치 확인 가능해짐"
     },
     {
-      "keyword": "경제",
-      "count": 8,
+      "keyword": "삼성",
+      "count": 4,
       "sentiment": "neutral",
-      "context": "경제"
+      "context": "삼성 TV의 타이젠 9 업그레이드"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 6,
       "sentiment": "positive",
-      "context": "기술"
-    },
-    {
-      "keyword": "사회 문제",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "사회"
-    },
-    {
-      "keyword": "문화",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "문화"
+      "context": "미스트랄 AI, 딥시크 V4 모델 등"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 12,
-    "neutral": 10,
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "국내 정치와 경제는 여전히 주요 관심사",
-      "action": "관련 뉴스와 분석 제공",
+      "insight": "스토킹 가해자 실시간 위치 확인 가능해짐에 따라 개인 정보 보호에 대한 관심이 높아질 수 있습니다.",
+      "action": "개인 정보 보호 관련 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "기술 분야는 계속 성장할 것",
-      "action": "최신 기술 동향 제공",
+      "insight": "삼성 TV의 타이젠 9 업그레이드에 따라 스마트 TV 시장의 경쟁이 심화할 수 있습니다.",
+      "action": "스마트 TV 시장의 경쟁 분석",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 문제와 문화는 중요하지만 관심도가 낮다",
-      "action": "관련 콘텐츠 제공",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 국내 정치와 경제가 주요 관심사임을 알 수 있다. 기술 분야는 계속 성장할 것으로 예상되며, 사회 문제와 문화는 중요하지만 관심도가 낮다. 이러한 분석 결과를 바탕으로 관련 뉴스와 분석을 제공하고, 최신 기술 동향을 공유할 수 있다. 또한, 사회 문제와 문화 관련 콘텐츠를 제공하여 사용자의 관심을 끌 수 있을 것이다.",
-  "analyzed_at": "2026-04-06T05:30:34.024Z",
+  "narrative": "最近의 정치 및 사회 관련 뉴스와 논란이 많은 것으로 나타났습니다. 스토킹 가해자 실시간 위치 확인 가능해지고, 법무부의 대북송금 수사 및 특검의 쌍방울 사건 등이 논란이 되고 있습니다. 또한, 경제 및 산업 관련 뉴스도 많은 것으로 나타났습니다. 삼성 TV의 타이젠 9 업그레이드, SK하이닉스의 EUV 투자 확대, 현대차의 뽀로로 디스플레이 테마 출시 등이 언급되었습니다. 기술 및 과학 관련 뉴스도 많았습니다. 미스트랄 AI, 딥시크 V4 모델, ElevenLabs의 AI 음악 생성 앱 등이 언급되었습니다. 이러한 뉴스와 트렌드에 따라 개인 정보 보호, 스마트 TV 시장, AI 기술 등에 대한 관심이 높아질 수 있습니다.",
+  "analyzed_at": "2026-04-06T07:00:34.544Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
