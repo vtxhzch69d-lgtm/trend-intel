@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. AI 통합툴 '아울로'와 미스트랄 AI의 협력 등이 언급되었습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "트럼프",
+      "summary": "트럼프의 최근 발언과 행동이 논란이 되고 있다. 트럼프의 라이브 방송과 이란 시위대에 대한 발언이 주목을 받고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "국제 정치",
-      "summary": "트럼프의 캐나다 침공 취소와 한국-프랑스 정상회담 등 국제 정치 뉴스가 주목받고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "달 탐사",
+      "summary": "달 탐사와 관련된 뉴스가 여러 개 xuất현하고 있다. 한국의 달 착륙 계획과 아르테미스 2호의 달 향한 우주비행이 주목을 받고 있다.",
+      "post_count": 6,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 산업",
-      "summary": "삼성전자와 LG의 기술 산업 관련 뉴스가 주목받고 있습니다. 갤럭시S27 시리즈와 타이젠 8의 업그레이드 등이 언급되었습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "AI",
+      "summary": "AI와 관련된 뉴스가 여러 개 출현하고 있다. 미스트랄 AI와 아울로의 서비스 출시, AI의 근본적 문제 등이 주목을 받고 있다.",
+      "post_count": 7,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "트럼프",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "트럼프의 최근 발언과 행동"
+    },
+    {
+      "keyword": "달",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "달 탐사와 관련된 뉴스"
+    },
+    {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "갤럭시S27 시리즈와 타이젠 8의 업그레이드"
-    },
-    {
-      "keyword": "국제 정치",
-      "count": 3,
+      "count": 8,
       "sentiment": "neutral",
-      "context": "트럼프의 캐나다 침공 취소와 한국-프랑스 정상회담"
+      "context": "AI와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "긍정적"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서의 기회를 창출할 수 있습니다.",
-      "action": "AI 기술의 발전을 주목하고 다양한 산업에서의 적용을 연구합니다.",
+      "insight": "트럼프의 발언과 행동이 논란이 되고 있는 상황에서 기업은 사회적 책임을 강조하는 마케팅 전략을 고려할 수 있다.",
+      "action": "사회적 책임 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "국제 정치 뉴스는 글로벌 시장의 동향을 이해하는 데 중요합니다.",
-      "action": "국제 정치 뉴스를 주목하고 글로벌 시장의 동향을 분석합니다.",
+      "insight": "달 탐사와 관련된 뉴스가 주목을 받고 있는 상황에서 관련 산업의 성장 가능성을 고려할 수 있다.",
+      "action": "관련 산업 투자 고려",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI와 관련된 뉴스가 여러 개 출현하고 있는 상황에서 AI 기술의 발전과 ứng용 가능성을 고려할 수 있다.",
+      "action": "AI 기술 연구 및 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 다양한 산업에서의 적용을 중심으로 형성되고 있습니다. AI 통합툴 '아울로'와 미스트랄 AI의 협력 등이 언급되었습니다. 또한, 국제 정치 뉴스도 주목받고 있습니다. 트럼프의 캐나다 침공 취소와 한국-프랑스 정상회담 등이 언급되었습니다. 기술 산업 관련 뉴스도 주목받고 있습니다. 삼성전자와 LG의 기술 산업 관련 뉴스가 언급되었습니다. 이러한 트렌드는 기업의 마케팅 전략과 비즈니스 의사결정에 중요한 영향을 미칠 수 있습니다. 따라서, 이러한 트렌드를 주목하고 다양한 산업에서의 적용을 연구하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-06T16:30:34.472Z",
+  "narrative": "최근의 트렌드는 트럼프의 발언과 행동, 달 탐사, AI와 관련된 뉴스가 주목을 받고 있다. 이러한 트렌드는 기업의 마케팅 전략과 비즈니스 의사 결정에 영향을 줄 수 있다. 트럼프의 발언과 행동이 논란이 되고 있는 상황에서 기업은 사회적 책임을 강조하는 마케팅 전략을 고려할 수 있다. 또한, 달 탐사와 관련된 뉴스가 주목을 받고 있는 상황에서 관련 산업의 성장 가능성을 고려할 수 있다. 마지막으로, AI와 관련된 뉴스가 여러 개 출현하고 있는 상황에서 AI 기술의 발전과 응용 가능성을 고려할 수 있다.",
+  "analyzed_at": "2026-04-06T18:00:34.683Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
