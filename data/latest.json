@@ -1,73 +1,85 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 부산 보궐선거와 관련된 뉴스가 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "기술 및 산업",
+      "summary": "최신 기술 및 산업 동향에 관한 게시글이 많은 것으로 나타났습니다. 특히, AI, 반도체, 전기차 등이 주요 주제로 등장했습니다.",
+      "post_count": 20,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 경제",
+      "summary": "정치 및 경제 관련 게시글도 많은 것으로 나타났습니다. 특히, 정부 정책, 경제 동향, 기업 뉴스 등이 주요 주제로 등장했습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "기름값 상승과 관련된 뉴스가 많은 관심을 받고 있습니다. 또한, 기업의 실적과 관련된 뉴스도 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "새로운 기술과 관련된 뉴스가 많은 관심을 받고 있습니다. 특히, 삼성전자와 관련된 뉴스가 주목을 받고 있습니다.",
-      "post_count": 12,
+      "topic": "생활 및 문화",
+      "summary": "생활 및 문화 관련 게시글도 존재했습니다. 특히, 건강, 여행, 음식 등이 주요 주제로 등장했습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부산 보궐선거",
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "최신 기술 및 산업 동향"
+    },
+    {
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "최신 기술 및 산업 동향"
+    },
+    {
+      "keyword": "전기차",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "생활 및 문화"
+    },
+    {
+      "keyword": "정부",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 및 경제"
+    },
+    {
+      "keyword": "기업",
       "count": 5,
       "sentiment": "neutral",
-      "context": "부산 보궐선거와 관련된 뉴스"
-    },
-    {
-      "keyword": "기름값",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "기름값 상승과 관련된 뉴스"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "삼성전자와 관련된 뉴스"
+      "context": "정치 및 경제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "정치 관련 뉴스를 더욱 주목해야 합니다.",
+      "insight": "최신 기술 및 산업 동향에 관한 게시글이 많은 것으로 나타났습니다.",
+      "action": "최신 기술 및 산업 동향에 관한 콘텐츠를 제공하여 고객의 관심을 끌어들이세요.",
       "priority": "high"
     },
     {
-      "insight": "기름값 상승과 관련된 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "기름값과 관련된 뉴스를 주목해야 합니다.",
+      "insight": "정치 및 경제 관련 게시글도 많은 것으로 나타났습니다.",
+      "action": "정치 및 경제 관련 콘텐츠를 제공하여 고객의 관심을 끌어들이세요.",
       "priority": "medium"
     },
     {
-      "insight": "새로운 기술과 관련된 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "새로운 기술과 관련된 뉴스를 주목해야 합니다.",
+      "insight": "생활 및 문화 관련 게시글도 존재했습니다.",
+      "action": "생활 및 문화 관련 콘텐츠를 제공하여 고객의 관심을 끌어들이세요.",
       "priority": "low"
     }
   ],
-  "narrative": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 부산 보궐선거와 관련된 뉴스가 주목을 받고 있습니다. 또한, 기름값 상승과 관련된 뉴스가 많은 관심을 받고 있습니다. 새로운 기술과 관련된 뉴스도 주목을 받고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 특히, 정치 관련 뉴스를 더욱 주목해야 하며, 기름값과 관련된 뉴스를 주목해야 합니다. 또한, 새로운 기술과 관련된 뉴스를 주목해야 합니다.",
-  "analyzed_at": "2026-04-07T04:30:33.944Z",
-  "post_count": 62,
+  "narrative": "최신 기술 및 산업 동향, 정치 및 경제, 생활 및 문화 등 다양한 주제의 게시글이 존재했습니다. 특히, 최신 기술 및 산업 동향에 관한 게시글이 많은 것으로 나타났습니다. 이는 고객이 최신 기술 및 산업 동향에 관심이 많다는 것을 의미합니다. 따라서, 최신 기술 및 산업 동향에 관한 콘텐츠를 제공하여 고객의 관심을 끌어들이는 것이 중요합니다. 또한, 정치 및 경제 관련 콘텐츠도 제공하여 고객의 관심을 끌어들이는 것이 좋습니다. 생활 및 문화 관련 콘텐츠도 제공하여 고객의 관심을 끌어들이는 것이 좋습니다. 그러나, 이러한 콘텐츠를 제공할 때는 고객의 관심과 필요를 고려하여 제공해야 합니다.",
+  "analyzed_at": "2026-04-07T06:00:34.681Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
