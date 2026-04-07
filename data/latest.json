@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "국힘, 기초단체 공천도 곳곳서 '파열음', 민주당 '李 마케팅 자제령' 반전… 靑이 우려 전달",
-      "post_count": 10,
+      "summary": "박원순, 박상용, 이재명 등 정치인 관련글이 많음",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "테크",
-      "summary": "삼성, '갤럭시 북6' 출시 일주일 만에 가격 인상…'칩플레이션'에 백기, 넷플릭스, 키즈 엔터테인먼트 라인업 확대",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "summary": "삼성전자, 애플, 네이버 등 테크 관련글이 많음",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "올시즌 기아 타이거즈 루틴 떴군요, 이종범은 생각보다 더 대단한 사람이네요",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "국제 경제, 기업 실적 등 경제 관련글이 많음",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성",
+      "keyword": "박원순",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "갤럭시 북6 가격 인상"
+      "sentiment": "negative",
+      "context": "정치인 관련글"
     },
     {
-      "keyword": "넷플릭스",
-      "count": 3,
+      "keyword": "삼성전자",
+      "count": 8,
       "sentiment": "positive",
-      "context": "키즈 엔터테인먼트 라인업 확대"
+      "context": "테크 관련글"
     },
     {
-      "keyword": "민주당",
-      "count": 4,
+      "keyword": "이재명",
+      "count": 3,
       "sentiment": "mixed",
-      "context": "李 마케팅 자제령 반전"
+      "context": "정치인 관련글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 업계의 가격 인상과 신제품 출시가 시장의 관심을 끌고 있다",
-      "action": "신제품 출시와 가격 전략을 조정하여 시장의 관심을 끌어야 한다",
+      "insight": "테크 관련글이 많아 테크 기업에 대한 관심이 높음",
+      "action": "테크 관련 마케팅 강화",
       "priority": "high"
     },
     {
-      "insight": "정치와 스포츠 업계의 뉴스가 시장의 관심을 끌고 있다",
-      "action": "정치와 스포츠 뉴스를 분석하여 시장의 관심을 끌어야 한다",
+      "insight": "정치 관련글이 많아 정치인에 대한 관심이 높음",
+      "action": "정치인 관련 마케팅 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 테크 업계의 뉴스가 시장의 관심을 끌고 있다. 특히, 국힘과 민주당의 공천과 마케팅 전략이 시장의 관심을 끌고 있다. 또한, 테크 업계의 신제품 출시와 가격 인상이 시장의 관심을 끌고 있다. 이러한 트렌드를 분석하여 시장의 관심을 끌어야 한다. 또한, 정치와 스포츠 뉴스를 분석하여 시장의 관심을 끌어야 한다.",
-  "analyzed_at": "2026-04-07T13:30:35.575Z",
+  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치와 테크 관련글이 많아 정치인과 테크 기업에 대한 관심이 높음을 보여줌. 테크 관련글은 대부분 긍정적이었으며, 정치 관련글은 混在적이었음. 이러한 트렌드를 바탕으로 테크 관련 마케팅을 강화하고, 정치인 관련 마케팅을 강화할 필요가 있음. 또한, 경제 관련글도 일정 수준 이상의 관심을 보이고 있으므로, 경제 관련 마케팅도 강화할 필요가 있음.",
+  "analyzed_at": "2026-04-07T15:00:34.763Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
