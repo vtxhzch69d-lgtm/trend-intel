@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령 관련 뉴스와 정치 현안",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 발전은 다양한 산업에 영향을 미치고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "국내외 경제 동향과 기업 뉴스",
-      "post_count": 15,
+      "topic": "삼성전자",
+      "summary": "삼성전자의 최근 동향과 관련된 주제가 논의되고 있습니다. 삼성전자의 반도체 사업과 관련된 뉴스가 있습니다.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "신기술과 제품 출시 뉴스",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치와 관련된 다양한 주제가 논의되고 있습니다. 정치인의 발언과 관련된 뉴스가 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "대통령 관련 논란"
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "신제품 출시와 영업이익 상승"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "삼성전자의 최근 동향과 관련된 주제"
     },
     {
-      "keyword": "AI",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "기술 개발과 산업 적용"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치와 관련된 다양한 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 40,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 불안정성이 경제에 미치는 영향",
-      "action": "정책 분석과 대응 전략 수립",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술의 발전을 주시하고 관련된 산업에 투자하는 것을 고려해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "신기술의 산업 적용과 사업 기회",
-      "action": "기술 개발과 투자 전략 수립",
+      "insight": "삼성전자의 반도체 사업은 관련된 뉴스가 있습니다.",
+      "action": "삼성전자의 반도체 사업과 관련된 뉴스를 주시해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "소비자 감성과 시장 동향",
-      "action": "마케팅 전략과 브랜드 관리",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 정치적 상황과 경제 동향이 소비자와 기업에 미치는 영향은 다각도입니다. 정치적 불안정성은 경제에 부정적인 영향을 미칠 수 있지만, 신기술의 산업 적용과 사업 기회는 새로운 성장 동력을 제공할 수 있습니다. 따라서 기업과 투자자는 정치적 상황과 기술 개발을 주시하면서 전략을 수립하고 대응해야 합니다. 또한, 소비자 감성과 시장 동향을 분석하여 마케팅 전략과 브랜드 관리를 효과적으로 수행해야 합니다.",
-  "analyzed_at": "2026-04-07T20:30:34.195Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 주를 이루고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다. 또한, 삼성전자의 최근 동향과 관련된 주제도 논의되고 있습니다. 정치와 관련된 다양한 주제도 논의되고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-07T22:00:33.970Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
