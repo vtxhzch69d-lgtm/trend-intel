@@ -2,44 +2,44 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "서울시장 선거와 관련된 다양한 의견과 논란이 커뮤니티에서 обсужд되고 있습니다.",
-      "post_count": 10,
+      "summary": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히, 대통령과 정치인에 대한 의견이 많았습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 관련된 다양한 주제가 커뮤니티에서 논의되고 있습니다.",
-      "post_count": 20,
+      "summary": "기술 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히, AI와 반도체에 대한 의견이 많았습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "이주노동자와 관련된 사건과 사회 문제가 커뮤니티에서 논의되고 있습니다.",
-      "post_count": 5,
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히, 주택과 금융에 대한 의견이 많았습니다.",
+      "post_count": 8,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "서울시장",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "서울시장 선거와 관련된 주제"
-    },
-    {
-      "keyword": "이주노동자",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "이주노동자와 관련된 사건"
-    },
-    {
-      "keyword": "삼성전자",
+      "keyword": "AI",
       "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "context": "AI 기술의 발전과 그에 따른 기대"
+    },
+    {
+      "keyword": "반도체",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "반도체 산업의 성장과 그에 따른 기대"
+    },
+    {
+      "keyword": "주택",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "주택 가격 상승과 그에 따른 부담"
     }
   ],
   "sentiment_overview": {
@@ -50,18 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "서울시장 선거와 관련된 마케팅 전략",
-      "action": "서울시장 선거와 관련된 주제에 대한 마케팅 캠페인 실행",
+      "insight": "기술 산업의 성장",
+      "action": "기술 산업에 대한 투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 관련된 마케팅 전략",
-      "action": "최신 기술 뉴스와 관련된 주제에 대한 마케팅 캠페인 실행",
+      "insight": "주택 가격 상승",
+      "action": "주택 가격 안정화 정책과 대책",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 성장",
+      "action": "경제 성장과 발전을 위한 정책과 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "커뮤니티에서 논의되고 있는 주제는 정치, 기술, 사회 등 다양한 분야입니다. 서울시장 선거와 관련된 주제는 높은 관심을 받고 있으며, 최신 기술 뉴스와 관련된 주제도 많은 관심을 받고 있습니다. 이주노동자와 관련된 사건은 부정적인 감정을 불러일으키고 있습니다. 마케터는 이러한 주제에 대한 마케팅 전략을 수립하여 타겟 고객에게 효과적으로 전달할 수 있습니다.",
-  "analyzed_at": "2026-04-07T07:30:34.143Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 정치, 기술, 경제 등 다양한 주제가 논의되고 있는 것으로 나타났습니다. 특히, AI와 반도체 기술의 발전과 그에 따른 기대가 높은 것으로 나타났습니다. 또한, 주택 가격 상승과 그에 따른 부담이 많은 것으로 나타났습니다. 이러한 결과를 통해, 기술 산업의 성장과 주택 가격 안정화 정책 등에 대한 대책과 투자가 필요할 것으로 보입니다. 또한, 경제 성장과 발전을 위한 정책과 투자도 필요할 것으로 보입니다.",
+  "analyzed_at": "2026-04-07T09:00:34.173Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
