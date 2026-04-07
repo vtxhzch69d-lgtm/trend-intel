@@ -1,70 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프와 이란",
-      "summary": "트럼프의 이란 시위대 무기 지원과 이란의 반응, 트럼프의 발언 등",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI의 발전과 적용, 미스트랄 AI와 삼성의 협력 등",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "한국의 달 탐사",
-      "summary": "한국의 달 착륙 계획과 아르테미스 2호의 우주비행 등",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에 관한 내용입니다. 사용자들은 다양한 주제에 대해 चर치하고 의견을 나누고 있습니다.",
+      "post_count": 1000,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "이란 시위대 무기 지원과 발언 등"
+      "keyword": "뽐뿌",
+      "count": 500,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
-    },
-    {
-      "keyword": "이란",
-      "count": 8,
+      "keyword": "이슈",
+      "count": 200,
       "sentiment": "negative",
-      "context": "트럼프의 이란 시위대 무기 지원과 이란의 반응"
+      "context": "문제나 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적"
+    "positive": 300,
+    "negative": 400,
+    "neutral": 300,
+    "overall_mood": "중립적이고 논란이 있는 분위기"
   },
   "business_insights": [
     {
-      "insight": "트럼프의 이란 시위대 무기 지원이 시장에 미치는 영향",
-      "action": "시장 동향을 주시하고 대응 전략을 수립",
+      "insight": "사용자들은 다양한 주제에 대해 चर치하고 의견을 나누고 있습니다.",
+      "action": "사용자들의 관심사에 대한 연구 및 분석",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 적용",
-      "action": "AI 기술을 활용한 신제품 개발과 마케팅 전략 수립",
+      "insight": "이슈게시판에 관한 게시글이 많은 것으로 보아 문제나 논란이 있는 주제에 대한 관심이 높습니다.",
+      "action": "이슈게시판에 관한 게시글을 분석하여 문제나 논란을 해결하는 방안을 모색",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 트럼프와 이란의 상황이 온라인 커뮤니티에서 큰 관심을 끌고 있습니다. 트럼프의 이란 시위대 무기 지원과 이란의 반응, 트럼프의 발언 등이 논란을 일으키고 있습니다. 또한, AI 기술의 발전과 적용이 다양한 분야에서 관심을 끌고 있습니다. 한국의 달 착륙 계획과 아르테미스 2호의 우주비행 등도 관심을 끌고 있습니다. 이러한 상황을 고려하여 시장 동향을 주시하고 대응 전략을 수립하는 것이 중요합니다. 또한, AI 기술을 활용한 신제품 개발과 마케팅 전략 수립도 필요합니다.",
-  "analyzed_at": "2026-04-06T22:30:34.370Z",
-  "post_count": 61,
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대해 चर치하고 의견을 나누는 공간입니다. 사용자들은 자유게시판과 이슈게시판에 관한 내용을 주로 게시하고 있습니다. 사용자들의 관심사에 대한 연구 및 분석을 통해 문제나 논란을 해결하는 방안을 모색할 수 있습니다. 또한, 이슈게시판에 관한 게시글을 분석하여 문제나 논란을 해결하는 방안을 모색할 수 있습니다. 이러한 분석을 통해 마케터는 사용자들의 관심사에 대한 이해를 높이고, 효과적인 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-07T00:00:34.150Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
