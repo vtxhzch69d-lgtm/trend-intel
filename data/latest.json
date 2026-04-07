@@ -1,44 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글입니다. 사용자들은 다양한 주제에 대한 의견을 공유하고 토론합니다.",
-      "post_count": 1000,
+      "topic": "정치",
+      "summary": "이재명 대통령 관련 뉴스와 정치 현안",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "국내외 경제 동향과 기업 뉴스",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "신기술과 제품 출시 뉴스",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 500,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "대통령 관련 논란"
     },
     {
-      "keyword": "이슈",
-      "count": 200,
-      "sentiment": "negative",
-      "context": "사회적 문제"
+      "keyword": "삼성전자",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "신제품 출시와 영업이익 상승"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "기술 개발과 산업 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 300,
-    "negative": 400,
-    "neutral": 300,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 40,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 다양한 주제에 대한 의견을 공유하고 토론합니다.",
-      "action": "의견을 수집하여 마케팅 전략을 수립합니다.",
+      "insight": "정치적 불안정성이 경제에 미치는 영향",
+      "action": "정책 분석과 대응 전략 수립",
       "priority": "high"
+    },
+    {
+      "insight": "신기술의 산업 적용과 사업 기회",
+      "action": "기술 개발과 투자 전략 수립",
+      "priority": "medium"
+    },
+    {
+      "insight": "소비자 감성과 시장 동향",
+      "action": "마케팅 전략과 브랜드 관리",
+      "priority": "low"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 의견을 공유하고 토론하는 공간입니다. 사용자들은 자유게시판과 이슈게시판에서 글을 올리고 의견을 교환합니다. 마케터는 이러한 의견을 수집하여 마케팅 전략을 수립할 수 있습니다. 또한, 사용자들의 감정 분석을 통해 브랜드의 이미지를 개선할 수 있습니다. 따라서, 뽐뿌 커뮤니티는 마케팅 전략을 수립하고 브랜드 이미지를 개선하는 데 중요한 역할을 합니다.",
-  "analyzed_at": "2026-04-07T19:00:34.039Z",
-  "post_count": 2,
+  "narrative": "최근의 정치적 상황과 경제 동향이 소비자와 기업에 미치는 영향은 다각도입니다. 정치적 불안정성은 경제에 부정적인 영향을 미칠 수 있지만, 신기술의 산업 적용과 사업 기회는 새로운 성장 동력을 제공할 수 있습니다. 따라서 기업과 투자자는 정치적 상황과 기술 개발을 주시하면서 전략을 수립하고 대응해야 합니다. 또한, 소비자 감성과 시장 동향을 분석하여 마케팅 전략과 브랜드 관리를 효과적으로 수행해야 합니다.",
+  "analyzed_at": "2026-04-07T20:30:34.195Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
