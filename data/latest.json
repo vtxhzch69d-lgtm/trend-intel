@@ -1,85 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 관한 게시글이 많은 것으로 나타났습니다. 특히, AI, 반도체, 전기차 등이 주요 주제로 등장했습니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 경제",
-      "summary": "정치 및 경제 관련 게시글도 많은 것으로 나타났습니다. 특히, 정부 정책, 경제 동향, 기업 뉴스 등이 주요 주제로 등장했습니다.",
-      "post_count": 15,
+      "topic": "정치",
+      "summary": "서울시장 선거와 관련된 다양한 의견과 논란이 커뮤니티에서 обсужд되고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "생활 및 문화",
-      "summary": "생활 및 문화 관련 게시글도 존재했습니다. 특히, 건강, 여행, 음식 등이 주요 주제로 등장했습니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 관련된 다양한 주제가 커뮤니티에서 논의되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "사회",
+      "summary": "이주노동자와 관련된 사건과 사회 문제가 커뮤니티에서 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "서울시장",
       "count": 10,
       "sentiment": "neutral",
-      "context": "최신 기술 및 산업 동향"
+      "context": "서울시장 선거와 관련된 주제"
     },
     {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "최신 기술 및 산업 동향"
+      "keyword": "이주노동자",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "이주노동자와 관련된 사건"
     },
     {
-      "keyword": "전기차",
+      "keyword": "삼성전자",
       "count": 5,
       "sentiment": "positive",
-      "context": "생활 및 문화"
-    },
-    {
-      "keyword": "정부",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 및 경제"
-    },
-    {
-      "keyword": "기업",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "정치 및 경제"
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 산업 동향에 관한 게시글이 많은 것으로 나타났습니다.",
-      "action": "최신 기술 및 산업 동향에 관한 콘텐츠를 제공하여 고객의 관심을 끌어들이세요.",
+      "insight": "서울시장 선거와 관련된 마케팅 전략",
+      "action": "서울시장 선거와 관련된 주제에 대한 마케팅 캠페인 실행",
       "priority": "high"
     },
     {
-      "insight": "정치 및 경제 관련 게시글도 많은 것으로 나타났습니다.",
-      "action": "정치 및 경제 관련 콘텐츠를 제공하여 고객의 관심을 끌어들이세요.",
+      "insight": "최신 기술 뉴스와 관련된 마케팅 전략",
+      "action": "최신 기술 뉴스와 관련된 주제에 대한 마케팅 캠페인 실행",
       "priority": "medium"
-    },
-    {
-      "insight": "생활 및 문화 관련 게시글도 존재했습니다.",
-      "action": "생활 및 문화 관련 콘텐츠를 제공하여 고객의 관심을 끌어들이세요.",
-      "priority": "low"
     }
   ],
-  "narrative": "최신 기술 및 산업 동향, 정치 및 경제, 생활 및 문화 등 다양한 주제의 게시글이 존재했습니다. 특히, 최신 기술 및 산업 동향에 관한 게시글이 많은 것으로 나타났습니다. 이는 고객이 최신 기술 및 산업 동향에 관심이 많다는 것을 의미합니다. 따라서, 최신 기술 및 산업 동향에 관한 콘텐츠를 제공하여 고객의 관심을 끌어들이는 것이 중요합니다. 또한, 정치 및 경제 관련 콘텐츠도 제공하여 고객의 관심을 끌어들이는 것이 좋습니다. 생활 및 문화 관련 콘텐츠도 제공하여 고객의 관심을 끌어들이는 것이 좋습니다. 그러나, 이러한 콘텐츠를 제공할 때는 고객의 관심과 필요를 고려하여 제공해야 합니다.",
-  "analyzed_at": "2026-04-07T06:00:34.681Z",
-  "post_count": 61,
+  "narrative": "커뮤니티에서 논의되고 있는 주제는 정치, 기술, 사회 등 다양한 분야입니다. 서울시장 선거와 관련된 주제는 높은 관심을 받고 있으며, 최신 기술 뉴스와 관련된 주제도 많은 관심을 받고 있습니다. 이주노동자와 관련된 사건은 부정적인 감정을 불러일으키고 있습니다. 마케터는 이러한 주제에 대한 마케팅 전략을 수립하여 타겟 고객에게 효과적으로 전달할 수 있습니다.",
+  "analyzed_at": "2026-04-07T07:30:34.143Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
