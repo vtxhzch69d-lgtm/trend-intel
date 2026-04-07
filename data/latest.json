@@ -1,45 +1,31 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 주요 정치인과 정부 정책에 대한 논의가 활발합니다.",
-      "post_count": 15,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 [freeboard]와 [issue] 게시판에서 올라오는 게시글입니다. 이 게시글들은 다양한 주제를 다루고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크",
-      "summary": "새로운 기술과 제품에 대한 관심이 많습니다. 특히 AI와 반도체 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많은 것으로 나타났습니다. 특히 기업 실적과 시장 동향에 대한 관심이 많습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 관심"
-    },
-    {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 관심"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 5,
+      "keyword": "뽐뿌",
+      "count": 50,
       "sentiment": "neutral",
-      "context": "기업 실적과 시장 동향에 대한 관심"
+      "context": "커뮤니티 이름"
+    },
+    {
+      "keyword": "[freeboard]",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "게시판 이름"
+    },
+    {
+      "keyword": "[issue]",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "게시판 이름"
     }
   ],
   "sentiment_overview": {
@@ -50,26 +36,20 @@
   },
   "business_insights": [
     {
-      "insight": "새로운 기술과 제품에 대한 관심이 많습니다.",
-      "action": "새로운 기술과 제품에 대한 마케팅을 강화합니다.",
+      "insight": "커뮤니티에서 인기 있는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "기업 실적과 시장 동향에 대한 관심이 많습니다.",
-      "action": "기업 실적과 시장 동향에 대한 분석을 제공합니다.",
+      "insight": "커뮤니티에서 사용되는 키워드를 분석하여 제품이나 서비스를 개발할 수 있습니다.",
+      "action": "제품 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 뉴스와 논란이 많은 것으로 나타났습니다.",
-      "action": "정치 관련 뉴스와 논란에 대한 마케팅을 조정합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 온라인 커뮤니티에서 정치, 테크, 경제 관련 주제가 많이 논의되고 있습니다. 특히 새로운 기술과 제품에 대한 관심이 많으며, 기업 실적과 시장 동향에 대한 분석도 필요합니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 수 있습니다. 또한, 정치 관련 뉴스와 논란에 대한 마케팅을 조정하여 브랜드 이미지를 유지할 수 있습니다.",
-  "analyzed_at": "2026-04-07T16:30:33.998Z",
-  "post_count": 61,
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 다양한 주제를 다루고 있습니다. 이 게시글들은 주로 [freeboard]와 [issue] 게시판에서 올라옵니다. 커뮤니티에서 사용되는 키워드를 분석하면 제품이나 서비스를 개발할 수 있습니다. 또한, 커뮤니티에서 인기 있는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다. 따라서, 뽐뿌 커뮤니티를 분석하여 마케팅 전략을 수립하고 제품이나 서비스를 개발하는 것이 중요합니다. 뽐뿌 커뮤니티는 다양한 주제를 다루고 있기 때문에, 마케팅 전략을 수립할 때에는 다양한 주제를 고려해야 합니다. 또한, 커뮤니티에서 사용되는 키워드를 분석하여 제품이나 서비스를 개발할 때에는 키워드의 의미와 맥락을 고려해야 합니다.",
+  "analyzed_at": "2026-04-07T18:00:34.745Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
