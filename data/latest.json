@@ -2,72 +2,72 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히, 대통령과 정치인에 대한 의견이 많았습니다.",
+      "summary": "최근 정치 관련 게시글이 많아 정치적 논쟁이 활발한 것으로 보임",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "기술 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히, AI와 반도체에 대한 의견이 많았습니다.",
-      "post_count": 10,
+      "summary": "새로운 기술 관련 뉴스와 제품 출시가 많아 기술 발전이 빠른 것으로 보임",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히, 주택과 금융에 대한 의견이 많았습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "summary": "경제 관련 뉴스와 분석이 많아 경제 동향에 관심이 많은 것으로 보임",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 기대"
-    },
-    {
-      "keyword": "반도체",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "반도체 산업의 성장과 그에 따른 기대"
-    },
-    {
-      "keyword": "주택",
-      "count": 3,
       "sentiment": "negative",
-      "context": "주택 가격 상승과 그에 따른 부담"
+      "context": "정치적 논쟁에서 많이 언급됨"
+    },
+    {
+      "keyword": "삼성",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "새로운 기술과 제품 출시로 언급됨"
+    },
+    {
+      "keyword": "경제",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "경제 동향과 분석에서 언급됨"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 산업의 성장",
-      "action": "기술 산업에 대한 투자와 연구 개발",
+      "insight": "정치적 논쟁이 활발한 것으로 보임",
+      "action": "정치 관련 콘텐츠를 제공함",
       "priority": "high"
     },
     {
-      "insight": "주택 가격 상승",
-      "action": "주택 가격 안정화 정책과 대책",
+      "insight": "기술 발전이 빠른 것으로 보임",
+      "action": "새로운 기술과 제품을 소개함",
       "priority": "medium"
     },
     {
-      "insight": "경제 성장",
-      "action": "경제 성장과 발전을 위한 정책과 투자",
-      "priority": "medium"
+      "insight": "경제 동향에 관심이 많은 것으로 보임",
+      "action": "경제 관련 뉴스와 분석을 제공함",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 정치, 기술, 경제 등 다양한 주제가 논의되고 있는 것으로 나타났습니다. 특히, AI와 반도체 기술의 발전과 그에 따른 기대가 높은 것으로 나타났습니다. 또한, 주택 가격 상승과 그에 따른 부담이 많은 것으로 나타났습니다. 이러한 결과를 통해, 기술 산업의 성장과 주택 가격 안정화 정책 등에 대한 대책과 투자가 필요할 것으로 보입니다. 또한, 경제 성장과 발전을 위한 정책과 투자도 필요할 것으로 보입니다.",
-  "analyzed_at": "2026-04-07T09:00:34.173Z",
-  "post_count": 62,
+  "narrative": "최근 정치 관련 게시글이 많아 정치적 논쟁이 활발한 것으로 보임. 새로운 기술과 제품 출시가 많아 기술 발전이 빠른 것으로 보임. 경제 관련 뉴스와 분석이 많아 경제 동향에 관심이 많은 것으로 보임. 이러한 동향을 고려하여 콘텐츠를 제공하고 마케팅 전략을 수립할 수 있을 것으로 보임.",
+  "analyzed_at": "2026-04-07T10:30:33.811Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
