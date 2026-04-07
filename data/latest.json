@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "박원순, 박상용, 이재명 등 정치인 관련글이 많음",
+      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 주요 정치인과 정부 정책에 대한 논의가 활발합니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "테크",
-      "summary": "삼성전자, 애플, 네이버 등 테크 관련글이 많음",
+      "summary": "새로운 기술과 제품에 대한 관심이 많습니다. 특히 AI와 반도체 관련 뉴스가 주목을 받고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "국제 경제, 기업 실적 등 경제 관련글이 많음",
+      "summary": "경제 관련 뉴스와 분석이 많은 것으로 나타났습니다. 특히 기업 실적과 시장 동향에 대한 관심이 많습니다.",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,45 +24,50 @@
   ],
   "keywords": [
     {
-      "keyword": "박원순",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치인 관련글"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "새로운 기술과 제품에 대한 관심"
+    },
+    {
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "새로운 기술과 제품에 대한 관심"
     },
     {
       "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "테크 관련글"
-    },
-    {
-      "keyword": "이재명",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "정치인 관련글"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "기업 실적과 시장 동향에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 관련글이 많아 테크 기업에 대한 관심이 높음",
-      "action": "테크 관련 마케팅 강화",
+      "insight": "새로운 기술과 제품에 대한 관심이 많습니다.",
+      "action": "새로운 기술과 제품에 대한 마케팅을 강화합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련글이 많아 정치인에 대한 관심이 높음",
-      "action": "정치인 관련 마케팅 강화",
+      "insight": "기업 실적과 시장 동향에 대한 관심이 많습니다.",
+      "action": "기업 실적과 시장 동향에 대한 분석을 제공합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 뉴스와 논란이 많은 것으로 나타났습니다.",
+      "action": "정치 관련 뉴스와 논란에 대한 마케팅을 조정합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치와 테크 관련글이 많아 정치인과 테크 기업에 대한 관심이 높음을 보여줌. 테크 관련글은 대부분 긍정적이었으며, 정치 관련글은 混在적이었음. 이러한 트렌드를 바탕으로 테크 관련 마케팅을 강화하고, 정치인 관련 마케팅을 강화할 필요가 있음. 또한, 경제 관련글도 일정 수준 이상의 관심을 보이고 있으므로, 경제 관련 마케팅도 강화할 필요가 있음.",
-  "analyzed_at": "2026-04-07T15:00:34.763Z",
-  "post_count": 62,
+  "narrative": "최근 온라인 커뮤니티에서 정치, 테크, 경제 관련 주제가 많이 논의되고 있습니다. 특히 새로운 기술과 제품에 대한 관심이 많으며, 기업 실적과 시장 동향에 대한 분석도 필요합니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 수 있습니다. 또한, 정치 관련 뉴스와 논란에 대한 마케팅을 조정하여 브랜드 이미지를 유지할 수 있습니다.",
+  "analyzed_at": "2026-04-07T16:30:33.998Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
