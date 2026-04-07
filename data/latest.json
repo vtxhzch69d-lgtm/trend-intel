@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 기업",
-      "summary": "전세계 기업 영업이익 top10 및 삼성전자 영업익 57.2조 755%↑",
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 부산 보궐선거와 관련된 뉴스가 주목을 받고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "검찰개혁추진단 및 서울시장 선거",
+      "topic": "경제",
+      "summary": "기름값 상승과 관련된 뉴스가 많은 관심을 받고 있습니다. 또한, 기업의 실적과 관련된 뉴스도 주목을 받고 있습니다.",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "삼성전자 탈(脫) Arm 신호탄 및 아르테미스2호 달 착륙",
+      "topic": "기술",
+      "summary": "새로운 기술과 관련된 뉴스가 많은 관심을 받고 있습니다. 특히, 삼성전자와 관련된 뉴스가 주목을 받고 있습니다.",
       "post_count": 12,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "영업익 증가 및 기술 개발"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "부산 보궐선거",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "전세계 기업 영업이익 및 한국 경제"
+      "context": "부산 보궐선거와 관련된 뉴스"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "서울시장 선거 및 검찰개혁"
+      "keyword": "기름값",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "기름값 상승과 관련된 뉴스"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "삼성전자와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "희망적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 기술 개발",
-      "action": "기술 개발 투자",
+      "insight": "정치 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "정치 관련 뉴스를 더욱 주목해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 성장",
-      "action": "경제 성장 촉진",
+      "insight": "기름값 상승과 관련된 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "기름값과 관련된 뉴스를 주목해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "새로운 기술과 관련된 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "새로운 기술과 관련된 뉴스를 주목해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 경제 및 기업, 정치 및 사회, 기술 및 과학을 중심으로 형성되고 있습니다. 삼성전자의 영업익 증가 및 기술 개발은 긍정적인 반응을 보이고 있습니다. 또한, 서울시장 선거 및 검찰개혁과 관련된 정치 및 사회적인 이슈도 많은 관심을 받고 있습니다. 기술 및 과학 분야에서는 아르테미스2호의 달 착륙 및 삼성전자의 탈(脫) Arm 신호탄이 주목을 받고 있습니다. 이러한 트렌드는 기업 및 정부의 기술 개발 투자 및 경제 성장 촉진을 위한 전략을 수립하는 데 도움이 될 수 있습니다.",
-  "analyzed_at": "2026-04-07T02:30:33.629Z",
+  "narrative": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 부산 보궐선거와 관련된 뉴스가 주목을 받고 있습니다. 또한, 기름값 상승과 관련된 뉴스가 많은 관심을 받고 있습니다. 새로운 기술과 관련된 뉴스도 주목을 받고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 특히, 정치 관련 뉴스를 더욱 주목해야 하며, 기름값과 관련된 뉴스를 주목해야 합니다. 또한, 새로운 기술과 관련된 뉴스를 주목해야 합니다.",
+  "analyzed_at": "2026-04-07T04:30:33.944Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
