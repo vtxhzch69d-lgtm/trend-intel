@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 정치 뉴스 및 논평",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "폴더블 아이폰",
+      "summary": "애플이 폴더블 아이폰을 출시할 예정이다. 아이폰 폴드 또는 아이폰 울트라로 출시될 수 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 제품 출시",
-      "post_count": 15,
+      "topic": "삼성전자",
+      "summary": "삼성전자가 갤럭시 XR 대상 안드로이드 XR OS 업데이트를 출시했다. 또한, 메모리 504억 달러의 역대 최고 수준을 달성했다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스 및 기업 동향",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "로컬 AI가 컴퓨터를 조종하는 기술이 개발되었다. 또한, 피지컬 AI 월드모델이 개발 중이다.",
+      "post_count": 4,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 뉴스"
+      "keyword": "폴더블 아이폰",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "애플의 새로운 제품 출시"
     },
     {
       "keyword": "삼성전자",
-      "count": 3,
+      "count": 12,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "삼성전자의 기술 개발과 성과"
     },
     {
-      "keyword": "경제",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "keyword": "AI 기술",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "로컬 AI와 피지컬 AI의 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "기대와 흥분"
   },
   "business_insights": [
     {
-      "insight": "정치 뉴스에 대한 관심이 높아지고 있다",
-      "action": "정치 뉴스에 대한 콘텐츠를 강화한다",
+      "insight": "애플의 폴더블 아이폰 출시가 시장에 미칠 영향",
+      "action": "競爭사들의 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 제품에 대한 관심이 높아지고 있다",
-      "action": "최신 기술 제품에 대한 콘텐츠를 강화한다",
+      "insight": "삼성전자의 기술 개발과 성과",
+      "action": "삼성전자와의 협력 및 기술 도입",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전과 시장에서의 적용",
+      "action": "AI 기술의 도입과 활용",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치 뉴스에 대한 관심이 높아지고 있으며, 최신 기술 제품에 대한 관심도 높아지고 있다. 이러한 트렌드를 반영하여 콘텐츠를 강화하고, 정치 뉴스와 최신 기술 제품에 대한 콘텐츠를 제공하여 사용자의 관심을 끌 수 있을 것이다. 또한, 경제 뉴스에 대한 관심도 높아지고 있으므로, 경제 뉴스에 대한 콘텐츠도 제공하여 사용자의 관심을 끌 수 있을 것이다.",
-  "analyzed_at": "2026-04-08T11:30:33.883Z",
+  "narrative": "최근의 기술 뉴스와 트렌드를 분석한 결과, 폴더블 아이폰과 삼성전자의 기술 개발이 주목을 받고 있다. 또한, AI 기술의 발전과 시장에서의 적용이 증가하고 있다. 이러한 트렌드와 기술 개발은 기업들의 경쟁력과 시장에서의 지위를 결정할 수 있는 중요한 요소이다. 따라서, 기업들은 이러한 트렌드와 기술 개발을 주시하고, 대응 전략을 수립하여 시장에서 경쟁력을 유지하고 발전시킬 수 있어야 한다.",
+  "analyzed_at": "2026-04-08T13:00:35.030Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
