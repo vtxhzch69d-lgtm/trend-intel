@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "폴더블 아이폰",
-      "summary": "애플이 폴더블 아이폰을 출시할 예정이다. 아이폰 폴드 또는 아이폰 울트라로 출시될 수 있다.",
-      "post_count": 5,
+      "topic": "갤럭시 S25",
+      "summary": "갤럭시 S25의 출시와 폴더블 아이폰의 출시 예정",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자가 갤럭시 XR 대상 안드로이드 XR OS 업데이트를 출시했다. 또한, 메모리 504억 달러의 역대 최고 수준을 달성했다.",
+      "topic": "폴더블 아이폰",
+      "summary": "폴더블 아이폰의 출시 예정과 아이폰 울트라의 루머",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "로컬 AI가 컴퓨터를 조종하는 기술이 개발되었다. 또한, 피지컬 AI 월드모델이 개발 중이다.",
-      "post_count": 4,
-      "sentiment": "positive",
+      "topic": "노트북 가격",
+      "summary": "노트북 가격의 상승과 델 xps의 가격 상승",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "폴더블 아이폰",
-      "count": 10,
+      "keyword": "갤럭시 S25",
+      "count": 15,
       "sentiment": "positive",
-      "context": "애플의 새로운 제품 출시"
+      "context": "갤럭시 S25의 출시와 폴더블 아이폰의 출시 예정"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "폴더블 아이폰",
       "count": 12,
       "sentiment": "positive",
-      "context": "삼성전자의 기술 개발과 성과"
+      "context": "폴더블 아이폰의 출시 예정과 아이폰 울트라의 루머"
     },
     {
-      "keyword": "AI 기술",
+      "keyword": "노트북 가격",
       "count": 8,
-      "sentiment": "positive",
-      "context": "로컬 AI와 피지컬 AI의 개발"
+      "sentiment": "negative",
+      "context": "노트북 가격의 상승과 델 xps의 가격 상승"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "기대와 흥분"
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "갤럭시 S25와 폴더블 아이폰의 출시 예정으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "애플의 폴더블 아이폰 출시가 시장에 미칠 영향",
-      "action": "競爭사들의 대응 전략 수립",
+      "insight": "갤럭시 S25와 폴더블 아이폰의 출시 예정으로 스마트폰 시장의 경쟁이 심화할 것",
+      "action": "마케팅 전략을 조정하여 경쟁에 대비할 것",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 기술 개발과 성과",
-      "action": "삼성전자와의 협력 및 기술 도입",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전과 시장에서의 적용",
-      "action": "AI 기술의 도입과 활용",
+      "insight": "노트북 가격의 상승으로 소비자의 구매력에 영향을 줄 수 있음",
+      "action": "노트북 가격을 조정하여 소비자의 구매력을 고려할 것",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 기술 뉴스와 트렌드를 분석한 결과, 폴더블 아이폰과 삼성전자의 기술 개발이 주목을 받고 있다. 또한, AI 기술의 발전과 시장에서의 적용이 증가하고 있다. 이러한 트렌드와 기술 개발은 기업들의 경쟁력과 시장에서의 지위를 결정할 수 있는 중요한 요소이다. 따라서, 기업들은 이러한 트렌드와 기술 개발을 주시하고, 대응 전략을 수립하여 시장에서 경쟁력을 유지하고 발전시킬 수 있어야 한다.",
-  "analyzed_at": "2026-04-08T13:00:35.030Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, 갤럭시 S25와 폴더블 아이폰의 출시 예정으로 스마트폰 시장의 경쟁이 심화할 것으로 예상됩니다. 또한, 노트북 가격의 상승으로 소비자의 구매력에 영향을 줄 수 있으므로 노트북 가격을 조정하여 소비자의 구매력을 고려할 필요가 있습니다. 따라서, 마케팅 전략을 조정하여 경쟁에 대비하고, 소비자의 구매력을 고려하여 노트북 가격을 조정할 필요가 있습니다.",
+  "analyzed_at": "2026-04-08T14:30:34.128Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
