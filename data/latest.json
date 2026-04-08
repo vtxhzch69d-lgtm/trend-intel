@@ -2,67 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "한준호 의원과 관련된 여러 게시글이 존재합니다. 일부 게시글에서는 한준호 의원을 비판하며 사퇴를 요구하는 반면, 다른 게시글에서는 그의 발언을 지지하는 의견도 있습니다.",
-      "post_count": 5,
+      "summary": "이재명 대통령과 관련된 정치 뉴스 및 논평",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 관련 뉴스와 제품 출시 정보가 있습니다. 예를 들어, 삼성전자와 애플의 새로운 제품 및 기술 개발에 관한 게시글이 있습니다.",
+      "summary": "최신 기술 뉴스 및 제품 출시",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "사회 문제와 사건에 관한 게시글이 있습니다. 예를 들어, 장모 살해 사건과 관련된 뉴스 및 논평이 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 뉴스 및 기업 동향",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "한준호",
+      "keyword": "이재명",
       "count": 5,
       "sentiment": "negative",
-      "context": "한준호 의원과 관련된 정치적인 논쟁"
+      "context": "정치 뉴스"
     },
     {
       "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "새로운 기술과 제품 출시"
-    },
-    {
-      "keyword": "애플",
       "count": 3,
       "sentiment": "positive",
-      "context": "새로운 기술과 제품 출시"
+      "context": "기술 뉴스"
+    },
+    {
+      "keyword": "경제",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적인 감정으로 구성되어 있지만, 일부 정치적인 주제에서는 부정적인 감정이 강합니다."
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 제품에 대한 수요가 높아지고 있습니다.",
-      "action": "새로운 기술 제품을 출시하고 마케팅에 집중해야 합니다.",
+      "insight": "정치 뉴스에 대한 관심이 높아지고 있다",
+      "action": "정치 뉴스에 대한 콘텐츠를 강화한다",
       "priority": "high"
     },
     {
-      "insight": "정치적인 논쟁이 사회적인 관심을 끌고 있습니다.",
-      "action": "정치적인 주제에 대한 의견을 수집하고 분석해야 합니다.",
+      "insight": "최신 기술 제품에 대한 관심이 높아지고 있다",
+      "action": "최신 기술 제품에 대한 콘텐츠를 강화한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 기술이 주요한 주제로 나타났습니다. 특히, 한준호 의원과 관련된 정치적인 논쟁이 많은 관심을 끌고 있습니다. 또한, 최신 기술 제품에 대한 수요가 높아지고 있으며, 이를 반영한 새로운 제품 출시와 마케팅 전략이 필요합니다. 이러한 트렌드와 감정을 분석하여, 기업과 마케터는 자신의 목표를 달성하기 위한 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-08T10:00:33.999Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 정치 뉴스에 대한 관심이 높아지고 있으며, 최신 기술 제품에 대한 관심도 높아지고 있다. 이러한 트렌드를 반영하여 콘텐츠를 강화하고, 정치 뉴스와 최신 기술 제품에 대한 콘텐츠를 제공하여 사용자의 관심을 끌 수 있을 것이다. 또한, 경제 뉴스에 대한 관심도 높아지고 있으므로, 경제 뉴스에 대한 콘텐츠도 제공하여 사용자의 관심을 끌 수 있을 것이다.",
+  "analyzed_at": "2026-04-08T11:30:33.883Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
