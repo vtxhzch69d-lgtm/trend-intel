@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정원오와 김동연의 정치 활동과 선거 관련 뉴스",
+      "summary": "이재명 대통령과 관련된 다양한 정치 뉴스와 의견이 논의되고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 기업 동향",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드, 특히 삼성전자와 관련된 뉴스가 주목을 받고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 개발 동향",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제",
+      "summary": "국민연금과 관련된 뉴스, 그리고 경제적 이슈들이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정원오",
+      "keyword": "이재명",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 활동과 선거 관련 뉴스"
-    },
-    {
-      "keyword": "김동연",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "정치 활동과 선거 관련 뉴스"
+      "context": "정치 관련 논의"
     },
     {
       "keyword": "삼성전자",
-      "count": 4,
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 뉴스와 관련"
+    },
+    {
+      "keyword": "국민연금",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "경제 뉴스와 기업 동향"
+      "context": "경제 뉴스와 관련"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제 뉴스가 많은 관심을 받고 있다",
-      "action": "관련 뉴스와 분석을 제공하여 고객의 관심을 끌어야 한다",
+      "insight": "최신 기술 트렌드를 따라가기",
+      "action": "최신 기술 뉴스와 트렌드에 주목",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 개발 동향이 중요하다",
-      "action": "최신 기술 뉴스와 개발 동향을 제공하여 고객의 관심을 끌어야 한다",
+      "insight": "경제적 이슈에 대한 이해",
+      "action": "경제 뉴스와 관련된 포스팅에 참여",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치와 경제 뉴스가 많은 관심을 받고 있다. 정원오와 김동연의 정치 활동과 선거 관련 뉴스가 많은 관심을 받고 있으며, 경제 뉴스와 기업 동향도 중요하다. 최신 기술 뉴스와 개발 동향도 중요하며, 관련 뉴스와 분석을 제공하여 고객의 관심을 끌어야 한다. 중립적인 태도를 유지하며, 고객의 관심을 끌기 위해 다양한 뉴스와 분석을 제공해야 한다.",
-  "analyzed_at": "2026-04-08T02:30:33.528Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치, 기술, 경제 등 다양한 주제를 다루고 있습니다. 특히, 이재명 대통령과 관련된 정치 뉴스와 최신 기술 트렌드가 주목을 받고 있습니다. 또한, 경제적 이슈들에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드를 따라가기 위해 최신 기술 뉴스와 트렌드에 주목하고, 경제 뉴스와 관련된 포스팅에 참여하는 것이 중요할 것입니다.",
+  "analyzed_at": "2026-04-08T04:00:34.150Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
