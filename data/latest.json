@@ -2,46 +2,53 @@
   "trending_topics": [
     {
       "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 현재 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라온 글입니다. 이 글들은 다양한 주제를 다루고 있습니다.",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나눔 및 이슈 관련 게시글입니다.",
       "post_count": 100,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 이슈 관련 게시글입니다.",
+      "post_count": 50,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "무료나눔",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "뽐뿌 커뮤니티에서 인기 있는 키워드"
     },
     {
       "keyword": "이슈",
-      "count": 20,
+      "count": 30,
       "sentiment": "negative",
-      "context": "이슈게시판 글"
+      "context": "클리앙 커뮤니티에서 인기 있는 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 40,
+    "negative": 30,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "커뮤니티 이용자들은 다양한 주제에 대해 관심을 가지고 있습니다.",
-      "action": "다양한 주제의 콘텐츠 제공",
+      "insight": "커뮤니티에서 인기 있는 키워드와 주제를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "이슈게시판 글은 부정적인 감정을 자극할 수 있습니다.",
-      "action": "이슈게시판 글에 대한 모니터링 강화",
+      "insight": "커뮤니티에서 발생하는 이슈를 분석하여 고객의 불만을 해결하고 브랜드 이미지를 개선할 수 있습니다.",
+      "action": "고객 불만 해결",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라온 글입니다. 이 글들은 다양한 주제를 다루고 있으며, 이용자들은 다양한 주제에 대해 관심을 가지고 있습니다. 그러나 이슈게시판 글은 부정적인 감정을 자극할 수 있으므로 모니터링을 강화해야 합니다. 마케터들은 다양한 주제의 콘텐츠를 제공하고, 이용자들의 감정을 고려하여 콘텐츠를 최적화해야 합니다.",
-  "analyzed_at": "2026-04-08T20:30:34.360Z",
+  "narrative": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글과 키워드를 분석하여 마케팅 전략을 수립하고 고객의 불만을 해결할 수 있습니다. 커뮤니티에서 발생하는 이슈를 분석하여 브랜드 이미지를 개선하고 고객의 신뢰를 얻을 수 있습니다. 또한, 커뮤니티에서 인기 있는 키워드와 주제를 분석하여 마케팅 전략을 수립하고 광고의 효율을 높일 수 있습니다.",
+  "analyzed_at": "2026-04-08T21:30:33.553Z",
   "post_count": 2,
   "sources": [
     "ppomppu"
