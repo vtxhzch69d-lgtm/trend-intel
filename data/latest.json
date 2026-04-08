@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "갤럭시 S25",
-      "summary": "갤럭시 S25의 출시와 폴더블 아이폰의 출시 예정",
+      "topic": "중동 상황",
+      "summary": "이스라엘과 이란의 휴전 위반으로 유조선 호르무즈 통행이 차단되고 있습니다. 이에 따른 국제 사회의 반응과 영향이 주목됩니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "폴더블 아이폰",
-      "summary": "폴더블 아이폰의 출시 예정과 아이폰 울트라의 루머",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "노트북 가격",
-      "summary": "노트북 가격의 상승과 델 xps의 가격 상승",
-      "post_count": 5,
       "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 상황",
+      "summary": "SSD 가격이 50% 올랐으며, 다양한 경제 뉴스가 속보로 발표되고 있습니다. 이에 따른 시장의 반응과 영향을 분석할 필요가 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 뉴스",
+      "summary": "애플, 삼성전자, 인텔 등 다양한 기술 회사들의 뉴스가 발표되고 있습니다. 폴더블 아이폰, AI 기술 등이 주목됩니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시 S25",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "갤럭시 S25의 출시와 폴더블 아이폰의 출시 예정"
-    },
-    {
-      "keyword": "폴더블 아이폰",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "폴더블 아이폰의 출시 예정과 아이폰 울트라의 루머"
-    },
-    {
-      "keyword": "노트북 가격",
-      "count": 8,
+      "keyword": "이스라엘",
+      "count": 5,
       "sentiment": "negative",
-      "context": "노트북 가격의 상승과 델 xps의 가격 상승"
+      "context": "중동 상황과 관련된 키워드"
+    },
+    {
+      "keyword": "아이폰",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "애플의 신제품과 관련된 키워드"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "기술 뉴스와 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "갤럭시 S25와 폴더블 아이폰의 출시 예정으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "갤럭시 S25와 폴더블 아이폰의 출시 예정으로 스마트폰 시장의 경쟁이 심화할 것",
-      "action": "마케팅 전략을 조정하여 경쟁에 대비할 것",
+      "insight": "중동 상황의 불안정성",
+      "action": "국제 사회의 반응과 영향 분석",
       "priority": "high"
     },
     {
-      "insight": "노트북 가격의 상승으로 소비자의 구매력에 영향을 줄 수 있음",
-      "action": "노트북 가격을 조정하여 소비자의 구매력을 고려할 것",
+      "insight": "기술의 발전",
+      "action": "신제품과 기술의 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 갤럭시 S25와 폴더블 아이폰의 출시 예정으로 스마트폰 시장의 경쟁이 심화할 것으로 예상됩니다. 또한, 노트북 가격의 상승으로 소비자의 구매력에 영향을 줄 수 있으므로 노트북 가격을 조정하여 소비자의 구매력을 고려할 필요가 있습니다. 따라서, 마케팅 전략을 조정하여 경쟁에 대비하고, 소비자의 구매력을 고려하여 노트북 가격을 조정할 필요가 있습니다.",
-  "analyzed_at": "2026-04-08T14:30:34.128Z",
-  "post_count": 61,
+  "narrative": "현재의 트렌드는 중동 상황과 기술 뉴스에 집중되어 있습니다. 이에 따른 국제 사회의 반응과 시장의 영향을 분석할 필요가 있습니다. 또한, 기술의 발전과 신제품의 출시 등에 대한 분석도 필요합니다. 중립적인 분위기이지만, 음성적인 기사가 다수 존재하므로 주의가 필요합니다.",
+  "analyzed_at": "2026-04-08T16:00:34.448Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
