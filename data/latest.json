@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 의중을 사칭한 데 고의냐 아니냐가 중요하고, 곽상도 50억 무죄도 강백신 검사가 저지른 일이네요.",
+      "topic": "중동 상황",
+      "summary": "이스라엘과 이란의 휴전 위반으로 유조선 호르무즈 통행이 차단되고, 미국과 이란의 관계가 긴장하고 있다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "애플, '폴더블 아이폰' 예정대로 9월 출시한다고 루머가 나오고 있고, 삼성전자, 갤럭시 XR 대상 안드로이드 XR OS 업데이트 예정",
+      "topic": "기술 뉴스",
+      "summary": "애플의 폴더블 아이폰 출시, 삼성의 갤럭시 XR 대상 안드로이드 XR OS 업데이트, 보조배터리 사용 제한 등 기술 관련 뉴스가热하다.",
       "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "2월보다 ssd 가격이 50% 올랐고, WTI가 다시 96달러로 상승중입니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "정치 뉴스",
+      "summary": "곽상도 무죄, 트럼프의 레바논 헤즈볼라 문제 발언, 차은우의 sns 입장문 등 정치 관련 뉴스가 많다.",
+      "post_count": 12,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
+      "keyword": "중동",
+      "count": 8,
       "sentiment": "negative",
-      "context": "정치 관련된 게시글에서 많이 언급됨"
+      "context": "이스라엘과 이란의 휴전 위반"
     },
     {
       "keyword": "애플",
-      "count": 3,
+      "count": 5,
       "sentiment": "neutral",
-      "context": "테크 관련된 게시글에서 많이 언급됨"
+      "context": "폴더블 아이폰 출시"
     },
     {
-      "keyword": "ssd",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "경제 관련된 게시글에서 많이 언급됨"
+      "keyword": "삼성",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "갤럭시 XR 대상 안드로이드 XR OS 업데이트"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
     "negative": 20,
     "neutral": 30,
-    "overall_mood": "부정적인 감정의 게시글이 많지만, 중립적인 게시글도 많음"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련된 게시글이 많이 올라오고 있으므로, 정치 관련된 마케팅 전략을 수립해야 함",
-      "action": "정치 관련된 마케팅 캠페인 실행",
+      "insight": "중동 상황의 불안정성",
+      "action": "중동 관련 비즈니스에 대한 경계",
       "priority": "high"
     },
     {
-      "insight": "테크 관련된 게시글이 많이 올라오고 있으므로, 테크 관련된 마케팅 전략을 수립해야 함",
-      "action": "테크 관련된 마케팅 캠페인 실행",
+      "insight": "기술의 발전",
+      "action": "신기술에 대한 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 테크 관련된 게시글이 많습니다. 특히, 이재명 대통령의 의중을 사칭한 데 고의냐 아니냐가 중요하고, 곽상도 50억 무죄도 강백신 검사가 저지른 일이네요. 또한, 애플, '폴더블 아이폰' 예정대로 9월 출시한다고 루머가 나오고 있고, 삼성전자, 갤럭시 XR 대상 안드로이드 XR OS 업데이트 예정입니다. 이러한 트렌드를 고려하여, 마케팅 전략을 수립해야 합니다. 정치 관련된 마케팅 캠페인 실행과 테크 관련된 마케팅 캠페인 실행이 필요합니다.",
-  "analyzed_at": "2026-04-08T17:30:33.843Z",
+  "narrative": "현재 중동 상황의 불안정성과 기술의 발전이 주요 트렌드이다. 중동 상황의 불안정성은 관련 비즈니스에 대한 경계를 요구한다. 기술의 발전은 신기술에 대한 투자를 고려해야 한다. 또한, 정치 뉴스와 기술 뉴스도 많은 관심을 받고 있다.",
+  "analyzed_at": "2026-04-08T19:00:34.443Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
