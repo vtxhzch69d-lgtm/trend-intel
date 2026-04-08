@@ -1,70 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "중동 상황",
-      "summary": "이스라엘과 이란의 휴전 위반으로 유조선 호르무즈 통행이 차단되고, 미국과 이란의 관계가 긴장하고 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 뉴스",
-      "summary": "애플의 폴더블 아이폰 출시, 삼성의 갤럭시 XR 대상 안드로이드 XR OS 업데이트, 보조배터리 사용 제한 등 기술 관련 뉴스가热하다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 뉴스",
-      "summary": "곽상도 무죄, 트럼프의 레바논 헤즈볼라 문제 발언, 차은우의 sns 입장문 등 정치 관련 뉴스가 많다.",
-      "post_count": 12,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 현재 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라온 글입니다. 이 글들은 다양한 주제를 다루고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "중동",
-      "count": 8,
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
+    },
+    {
+      "keyword": "이슈",
+      "count": 20,
       "sentiment": "negative",
-      "context": "이스라엘과 이란의 휴전 위반"
-    },
-    {
-      "keyword": "애플",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "폴더블 아이폰 출시"
-    },
-    {
-      "keyword": "삼성",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "갤럭시 XR 대상 안드로이드 XR OS 업데이트"
+      "context": "이슈게시판 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
+    "positive": 30,
+    "negative": 40,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "중동 상황의 불안정성",
-      "action": "중동 관련 비즈니스에 대한 경계",
+      "insight": "커뮤니티 이용자들은 다양한 주제에 대해 관심을 가지고 있습니다.",
+      "action": "다양한 주제의 콘텐츠 제공",
       "priority": "high"
     },
     {
-      "insight": "기술의 발전",
-      "action": "신기술에 대한 투자",
+      "insight": "이슈게시판 글은 부정적인 감정을 자극할 수 있습니다.",
+      "action": "이슈게시판 글에 대한 모니터링 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 중동 상황의 불안정성과 기술의 발전이 주요 트렌드이다. 중동 상황의 불안정성은 관련 비즈니스에 대한 경계를 요구한다. 기술의 발전은 신기술에 대한 투자를 고려해야 한다. 또한, 정치 뉴스와 기술 뉴스도 많은 관심을 받고 있다.",
-  "analyzed_at": "2026-04-08T19:00:34.443Z",
-  "post_count": 62,
+  "narrative": "현재 뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라온 글입니다. 이 글들은 다양한 주제를 다루고 있으며, 이용자들은 다양한 주제에 대해 관심을 가지고 있습니다. 그러나 이슈게시판 글은 부정적인 감정을 자극할 수 있으므로 모니터링을 강화해야 합니다. 마케터들은 다양한 주제의 콘텐츠를 제공하고, 이용자들의 감정을 고려하여 콘텐츠를 최적화해야 합니다.",
+  "analyzed_at": "2026-04-08T20:30:34.360Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
