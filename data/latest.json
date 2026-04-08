@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 다양한 정치 뉴스와 의견이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "미·이란 휴전",
+      "summary": "미국과 이란의 휴전 협상이 진행 중이며, 트럼프 대통령은 호르무즈 통항 복원을 도울 것이라고 밝혔다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드, 특히 삼성전자와 관련된 뉴스가 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치 및 선거",
+      "summary": "조국 대표의 출마 지역과 민주당 서울시장 후보에 대한 논의가 활발하다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "국민연금과 관련된 뉴스, 그리고 경제적 이슈들이 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "기술 및 산업",
+      "summary": "삼성전자와 애플의 신제품 출시 및 기술 개발에 대한 소식이 많다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 논의"
+      "keyword": "미·이란 휴전",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "미국과 이란의 휴전 협상"
+    },
+    {
+      "keyword": "조국 대표",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "조국 대표의 출마 지역과 민주당 서울시장 후보"
     },
     {
       "keyword": "삼성전자",
-      "count": 8,
+      "count": 12,
       "sentiment": "positive",
-      "context": "기술 뉴스와 관련"
-    },
-    {
-      "keyword": "국민연금",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "경제 뉴스와 관련"
+      "context": "삼성전자의 신제품 출시 및 기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 트렌드를 따라가기",
-      "action": "최신 기술 뉴스와 트렌드에 주목",
+      "insight": "미·이란 휴전 협상이 진행 중이며, 이는 글로벌 경제에 긍정적인 영향을 미칠 수 있다.",
+      "action": "글로벌 경제 동향을 주시하고, 관련 산업에 대한 투자 기회를 탐색한다.",
       "priority": "high"
     },
     {
-      "insight": "경제적 이슈에 대한 이해",
-      "action": "경제 뉴스와 관련된 포스팅에 참여",
+      "insight": "조국 대표의 출마 지역과 민주당 서울시장 후보에 대한 논의가 활발하다.",
+      "action": "정치 및 선거 동향을 주시하고, 관련 산업에 대한 투자 기회를 탐색한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "삼성전자와 애플의 신제품 출시 및 기술 개발에 대한 소식이 많다.",
+      "action": "기술 및 산업 동향을 주시하고, 관련 산업에 대한 투자 기회를 탐색한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치, 기술, 경제 등 다양한 주제를 다루고 있습니다. 특히, 이재명 대통령과 관련된 정치 뉴스와 최신 기술 트렌드가 주목을 받고 있습니다. 또한, 경제적 이슈들에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드를 따라가기 위해 최신 기술 뉴스와 트렌드에 주목하고, 경제 뉴스와 관련된 포스팅에 참여하는 것이 중요할 것입니다.",
-  "analyzed_at": "2026-04-08T04:00:34.150Z",
+  "narrative": "최근의 트렌드 분석 결과, 미·이란 휴전 협상과 정치 및 선거 동향, 기술 및 산업 동향이 주목을 끌고 있다. 미·이란 휴전 협상은 글로벌 경제에 긍정적인 영향을 미칠 수 있으며, 정치 및 선거 동향은 관련 산업에 대한 투자 기회를 제공할 수 있다. 또한, 기술 및 산업 동향은 새로운 기술 개발과 신제품 출시를 통해 관련 산업에 대한 투자 기회를 제공할 수 있다. 따라서, 글로벌 경제 동향을 주시하고, 관련 산업에 대한 투자 기회를 탐색하는 것이 중요하다.",
+  "analyzed_at": "2026-04-08T05:30:34.816Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
