@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다. 선거와 관련된 주제가 많이 обсужд되고 있습니다.",
+      "topic": "기술 및 가전",
+      "summary": "최신 기술 및 가전 제품에 대한 관심이 높아지고 있습니다. 특히, 로봇 애완견, 폴더블폰, AI 관련 기술 등이 주목을 받고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 많은 것으로 나타났습니다. 특히 AI와 관련된 주제가 많이 обсужд되고 있습니다.",
-      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많은 것으로 나타났습니다. 특히 기업의 투자와 성장에 대한 주제가 많이 обсужд되고 있습니다.",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 선거, 정치인, 사회 문제 등이 주목을 받고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "생활 및 문화",
+      "summary": "생활 및 문화 관련 주제에 대한 관심이 높아지고 있습니다. 특히, 음식, 여행, 음악 등이 주목을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시"
+      "context": "최신 기술 및 가전 제품에 대한 관심"
     },
     {
       "keyword": "선거",
-      "count": 8,
+      "count": 5,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
+      "context": "정치 및 사회 관련 뉴스"
     },
     {
-      "keyword": "기업",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 분석"
+      "keyword": "음식",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "생활 및 문화 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 트렌드를 따라가야 합니다.",
-      "action": "최신 기술 뉴스와 제품 출시를 주기적으로 분석합니다.",
+      "insight": "최신 기술 및 가전 제품에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 및 가전 제품에 대한 마케팅 캠페인을 강화하세요.",
       "priority": "high"
     },
     {
-      "insight": "고객의 정치적 의견을 이해해야 합니다.",
-      "action": "정치 관련 뉴스와 의견을 주기적으로 분석합니다.",
+      "insight": "정치 및 사회 관련 뉴스에 대한 관심이 높아지고 있습니다.",
+      "action": "정치 및 사회 관련 뉴스에 대한 마케팅 캠페인을 강화하세요.",
       "priority": "medium"
     },
     {
-      "insight": "경제적 분석을 통해 기업의 성장 가능성을 평가해야 합니다.",
-      "action": "경제 관련 뉴스와 분석을 주기적으로 분석합니다.",
+      "insight": "생활 및 문화 관련 주제에 대한 관심이 높아지고 있습니다.",
+      "action": "생활 및 문화 관련 주제에 대한 마케팅 캠페인을 강화하세요.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치, 기술, 경제 관련 주제가 많이 обсужд되고 있습니다. 특히 AI와 관련된 주제가 많이 обсужд되고 있으며, 선거와 관련된 주제도 많은 것으로 나타났습니다. 이러한 트렌드를 따라가기 위해 최신 기술 뉴스와 제품 출시를 주기적으로 분석하고, 정치 관련 뉴스와 의견을 주기적으로 분석할 필요가 있습니다. 또한, 경제 관련 뉴스와 분석을 통해 기업의 성장 가능성을 평가할 필요가 있습니다.",
-  "analyzed_at": "2026-04-09T19:00:34.061Z",
+  "narrative": "최신 기술 및 가전 제품, 정치 및 사회, 생활 및 문화 관련 주제가 현재의 트렌드입니다. 특히, AI 관련 기술 및 선거 관련 뉴스가 주목을 받고 있습니다. 마케터는 이러한 트렌드에 대한 마케팅 캠페인을 강화하여 소비자의 관심을 끌 수 있습니다. 또한, 중립적이지만 약간 긍정적인 분위기를 고려하여 마케팅 캠페인을 설계해야 합니다.",
+  "analyzed_at": "2026-04-09T20:30:33.813Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
