@@ -1,70 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이준석, 김관영, 정청래 등 정치인 관련 뉴스",
-      "post_count": 10,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글입니다. 이 글들은 다양한 주제를 다루고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "테크",
-      "summary": "삼성, LG, 애플 등 테크 뉴스",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "주식, 경제 뉴스",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "테크 뉴스"
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "이준석",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 뉴스"
-    },
-    {
-      "keyword": "애플",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "테크 뉴스"
+      "keyword": "이슈",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "이슈게시판 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "테크 뉴스가 가장 많은 관심을 받고 있다",
-      "action": "테크 뉴스에 대한 마케팅을 강화한다",
+      "insight": "커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
-    },
-    {
-      "insight": "정치 뉴스가 혼재된 반응을 보이고 있다",
-      "action": "정치 뉴스에 대한 마케팅을 조심스럽게 접근한다",
-      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 테크 뉴스가 가장 많은 관심을 받고 있으며, 삼성, LG, 애플 등이 주도하고 있다. 정치 뉴스는 혼재된 반응을 보이고 있으며, 이준석, 김관영, 정청래 등이 관련 뉴스를 만들고 있다. 경제 뉴스는 비교적少하며, 주식 뉴스가 일부 존재한다. 이러한 트렌드를 바탕으로 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-04-09T07:00:33.619Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글입니다. 이 글들은 다양한 주제를 다루고 있습니다. 하지만 전체적인 분위기는 중립적이지만 약간 부정적인 편입니다. 따라서 마케터는 커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립해야 합니다. 또한, 커뮤니티의 분위기를 고려하여 적절한 마케팅 전략을 선택해야 합니다.",
+  "analyzed_at": "2026-04-09T08:00:33.791Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
