@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정원오 서울 시장 후보",
-      "summary": "정원오 후보의 서울 시장 후보 출마와 관련된 다양한 의견과 반응",
-      "post_count": 10,
+      "topic": "정치 및 선거",
+      "summary": "클리앙 커뮤니티에서 정치 및 선거 관련 주제가 많이 논의되고 있습니다. 오세훈, 정원오, 박주민 등 정치인에 대한 지지와 비판이 나타나고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자 언팩",
-      "summary": "삼성전자의 새로운 제품 언팩과 관련된 소식",
-      "post_count": 5,
+      "topic": "기술 및 산업",
+      "summary": "클리앙 커뮤니티에서 기술 및 산업 관련 주제가 많이 논의되고 있습니다. 삼성, LG, 현대차 등 기업의 뉴스와 기술 개발에 대한 관심이 나타나고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 의견",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "사회 및 문화",
+      "summary": "클리앙 커뮤니티에서 사회 및 문화 관련 주제가 많이 논의되고 있습니다. 연기, 음악, 영화 등 예술과 문화에 대한 관심이 나타나고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정원오",
-      "count": 15,
+      "keyword": "오세훈",
+      "count": 5,
       "sentiment": "mixed",
-      "context": "서울 시장 후보"
+      "context": "정치인 오세훈에 대한 지지와 비판"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
+      "keyword": "삼성",
+      "count": 5,
       "sentiment": "positive",
-      "context": "새로운 제품 언팩"
+      "context": "삼성의 기술 개발과 뉴스"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "금융 관련 뉴스"
+      "keyword": "정원오",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "정치인 정원오에 대한 지지"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
+    "positive": 30,
+    "negative": 20,
     "neutral": 50,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정원오 후보의 서울 시장 후보 출마는 다양한 의견과 반응을 불러일으키고 있다",
-      "action": "정원오 후보의 선거 운동을 주시하고 다양한 의견을 분석한다",
+      "insight": "클리앙 커뮤니티에서 정치 및 선거 관련 주제가 많이 논의되고 있습니다.",
+      "action": "정치 및 선거 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어들이세요.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 새로운 제품 언팩은 소비자들의 관심을 끌고 있다",
-      "action": "삼성전자의 제품을 분석하고 시장 동향을 파악한다",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 관련 뉴스는 소비자들의 관심을 끌고 있다",
-      "action": "경제 및 금융 관련 뉴스를 분석하고 시장 동향을 파악한다",
+      "insight": "클리앙 커뮤니티에서 기술 및 산업 관련 주제가 많이 논의되고 있습니다.",
+      "action": "기술 및 산업 관련 뉴스와 정보를 제공하여 사용자들의 관심을 끌어들이세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정원오 후보의 서울 시장 후보 출마와 관련된 다양한 의견과 반응이 나타나고 있다. 또한, 삼성전자의 새로운 제품 언팩과 관련된 소식이 소비자들의 관심을 끌고 있다. 경제 및 금융 관련 뉴스도 소비자들의 관심을 끌고 있다. 이러한 트렌드 분석 결과를 바탕으로, 기업들은 소비자들의 관심과 의견을 파악하고, 이를 반영한 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-04-09T12:30:35.215Z",
+  "narrative": "클리앙 커뮤니티에서 정치 및 선거, 기술 및 산업, 사회 및 문화 관련 주제가 많이 논의되고 있습니다. 사용자들은 정치인과 기업에 대한 지지와 비판을 나타내고 있으며, 기술 개발과 뉴스에 대한 관심이 높습니다. 중립적인 분위기가 나타나고 있지만, 정치 및 선거 관련 주제에 대한 관심이 높아지고 있습니다. 따라서 정치 및 선거 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어들이는 것이 중요합니다.",
+  "analyzed_at": "2026-04-09T14:30:33.881Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
