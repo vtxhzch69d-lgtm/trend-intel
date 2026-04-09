@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정원오 후보의 선거 캠페인과 관련된 게시글이 많습니다. 또한, 한준호와 박주민에 대한 언급도 많습니다.",
-      "post_count": 15,
+      "topic": "정원오 서울 시장 후보",
+      "summary": "정원오 후보의 서울 시장 후보 출마와 관련된 다양한 의견과 반응",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "가계부채 비율과 대출 규제에 대한 게시글이 있습니다. 또한, 삼성과 LG의 사업 계획에 대한 뉴스도 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "삼성전자 언팩",
+      "summary": "삼성전자의 새로운 제품 언팩과 관련된 소식",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "삼성과 LG의 기술 개발과 관련된 뉴스가 많습니다. 또한, AI와 관련된 게시글도 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 의견",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "정원오",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "정치 후보자"
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "서울 시장 후보"
     },
     {
-      "keyword": "삼성",
+      "keyword": "삼성전자",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "기술 회사"
+      "sentiment": "positive",
+      "context": "새로운 제품 언팩"
     },
     {
-      "keyword": "AI",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "인공지능 기술"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "금융 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치 캠페인에 대한 관심이 높습니다.",
-      "action": "정치 관련 콘텐츠를 제공합니다.",
+      "insight": "정원오 후보의 서울 시장 후보 출마는 다양한 의견과 반응을 불러일으키고 있다",
+      "action": "정원오 후보의 선거 운동을 주시하고 다양한 의견을 분석한다",
       "priority": "high"
     },
     {
-      "insight": "기술 개발에 대한 관심이 높습니다.",
-      "action": "기술 관련 뉴스를 제공합니다.",
-      "priority": "high"
+      "insight": "삼성전자의 새로운 제품 언팩은 소비자들의 관심을 끌고 있다",
+      "action": "삼성전자의 제품을 분석하고 시장 동향을 파악한다",
+      "priority": "medium"
     },
     {
-      "insight": "경제 관련 뉴스에 대한 관심이 있습니다.",
-      "action": "경제 관련 뉴스를 제공합니다.",
+      "insight": "경제 및 금융 관련 뉴스는 소비자들의 관심을 끌고 있다",
+      "action": "경제 및 금융 관련 뉴스를 분석하고 시장 동향을 파악한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 캠페인과 기술 개발에 대한 관심이 높습니다. 또한, 경제 관련 뉴스에 대한 관심도 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하면 사용자의 관심을 끌 수 있을 것입니다. 특히, 정치 캠페인과 기술 개발에 대한 콘텐츠를 제공하면 높은 관심을 끌 수 있을 것입니다.",
-  "analyzed_at": "2026-04-09T11:00:33.894Z",
+  "narrative": "최근의 트렌드 분석 결과, 정원오 후보의 서울 시장 후보 출마와 관련된 다양한 의견과 반응이 나타나고 있다. 또한, 삼성전자의 새로운 제품 언팩과 관련된 소식이 소비자들의 관심을 끌고 있다. 경제 및 금융 관련 뉴스도 소비자들의 관심을 끌고 있다. 이러한 트렌드 분석 결과를 바탕으로, 기업들은 소비자들의 관심과 의견을 파악하고, 이를 반영한 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-04-09T12:30:35.215Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
