@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "최근 클리앙 커뮤니티에서 정치 및 사회 관련 주제가 많이 обсужд되고 있습니다. 특히, 여당과 야당의 대립, 대통령의 사진 금지령, 국방부의 미군 투입 등이 논란이 되고 있습니다.",
+      "topic": "정치",
+      "summary": "정치 관련 글들이 많은 것으로 보아 정치적인 관심이 높은 것으로 보임",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "클리앙 커뮤니티에서 기술 및 과학 관련 주제도 많이 обсужд되고 있습니다. 특히, 애플의 새로운 제품 출시, AI 기술의 발전, 폴더블 아이폰 등이 관심을 모으고 있습니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "최신 기술 관련 글들이 많은 것으로 보아 기술적인 관심이 높은 것으로 보임",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "클리앙 커뮤니티에서 경제 및 산업 관련 주제도 обсужд되고 있습니다. 특히, 현대차의 재활용품 수거 시연, 삼성전자 메모리 판매량 증가 등이 관심을 모으고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제",
+      "summary": "경제 관련 글들이 많은 것으로 보아 경제적인 관심이 높은 것으로 보임",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "여당과 야당의 대립"
+      "keyword": "삼성",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼성 관련 기술 글들"
     },
     {
       "keyword": "애플",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "애플의 새로운 제품 출시"
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "애플 관련 기술 글들"
     },
     {
-      "keyword": "AI",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "keyword": "트럼프",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "트럼프 관련 정치 글들"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
+    "negative": 15,
     "neutral": 10,
-    "overall_mood": "부정적인 분위기"
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치 및 사회 관련 주제가 많이 обсужд되고 있습니다.",
-      "action": "정치 및 사회 관련 주제에 대한 콘텐츠를 생성하여 관심을 모으세요.",
+      "insight": "기술적인 관심이 높은 것으로 보임",
+      "action": "기술 관련 제품 개발",
       "priority": "high"
     },
     {
-      "insight": "기술 및 과학 관련 주제가 많이 обсужд되고 있습니다.",
-      "action": "기술 및 과학 관련 주제에 대한 콘텐츠를 생성하여 관심을 모으세요.",
+      "insight": "경제적인 관심이 높은 것으로 보임",
+      "action": "경제 관련 서비스 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 산업 관련 주제가 обсужд되고 있습니다.",
-      "action": "경제 및 산업 관련 주제에 대한 콘텐츠를 생성하여 관심을 모으세요.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치 및 사회 관련 주제가 많이 обсужд되고 있습니다. 특히, 여당과 야당의 대립, 대통령의 사진 금지령, 국방부의 미군 투입 등이 논란이 되고 있습니다. 기술 및 과학 관련 주제도 많이 обсужд되고 있습니다. 특히, 애플의 새로운 제품 출시, AI 기술의 발전, 폴더블 아이폰 등이 관심을 모으고 있습니다. 경제 및 산업 관련 주제도 обсужд되고 있습니다. 특히, 현대차의 재활용품 수거 시연, 삼성전자 메모리 판매량 증가 등이 관심을 모으고 있습니다. 이러한 주제에 대한 콘텐츠를 생성하여 관심을 모으는 것이 중요합니다.",
-  "analyzed_at": "2026-04-09T00:30:33.967Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치, 기술, 경제 관련 글들이 많은 것으로 보아 이들 분야에 대한 관심이 높은 것으로 보임. 특히 기술적인 관심이 높은 것으로 보이므로 기술 관련 제품 개발에 중점을 두는 것이 좋을 것으로 보임. 또한 경제적인 관심이 높은 것으로 보이므로 경제 관련 서비스 개발에도 관심을 두는 것이 좋을 것으로 보임.",
+  "analyzed_at": "2026-04-09T02:00:34.234Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
