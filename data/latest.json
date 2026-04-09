@@ -1,44 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에 관한 내용입니다.",
-      "post_count": 100,
+      "topic": "정치",
+      "summary": "정원오 후보의 선거 캠페인과 관련된 게시글이 많습니다. 또한, 한준호와 박주민에 대한 언급도 많습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "가계부채 비율과 대출 규제에 대한 게시글이 있습니다. 또한, 삼성과 LG의 사업 계획에 대한 뉴스도 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "삼성과 LG의 기술 개발과 관련된 뉴스가 많습니다. 또한, AI와 관련된 게시글도 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "정원오",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "정치 후보자"
     },
     {
-      "keyword": "이슈",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "이슈게시판 관련 키워드"
+      "keyword": "삼성",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "기술 회사"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "인공지능 기술"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "negative": 10,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "커뮤니티 이용자들의 관심사",
-      "action": "커뮤니티 이용자들의 관심사에 대한 콘텐츠 제공",
+      "insight": "정치 캠페인에 대한 관심이 높습니다.",
+      "action": "정치 관련 콘텐츠를 제공합니다.",
       "priority": "high"
+    },
+    {
+      "insight": "기술 개발에 대한 관심이 높습니다.",
+      "action": "기술 관련 뉴스를 제공합니다.",
+      "priority": "high"
+    },
+    {
+      "insight": "경제 관련 뉴스에 대한 관심이 있습니다.",
+      "action": "경제 관련 뉴스를 제공합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에 관한 내용입니다. 커뮤니티 이용자들은 다양한 주제에 대한 의견을 공유하며, 이슈게시판 관련 키워드는 부정적인 감정을 가지고 있습니다. 따라서, 커뮤니티 이용자들의 관심사에 대한 콘텐츠 제공이 중요합니다. 중립적인 분위기의 커뮤니티에서 이용자들의 의견을 수렴하고, 콘텐츠를 제공함으로써 이용자들의 만족도를 높일 수 있습니다.",
-  "analyzed_at": "2026-04-09T09:00:33.630Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드는 정치 캠페인과 기술 개발에 대한 관심이 높습니다. 또한, 경제 관련 뉴스에 대한 관심도 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하면 사용자의 관심을 끌 수 있을 것입니다. 특히, 정치 캠페인과 기술 개발에 대한 콘텐츠를 제공하면 높은 관심을 끌 수 있을 것입니다.",
+  "analyzed_at": "2026-04-09T11:00:33.894Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
