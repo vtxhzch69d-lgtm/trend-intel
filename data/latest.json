@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많습니다. 하정우 수석과 관련된 뉴스가 많이 보이고, 대통령의 노동정책과 이념에 대한 논의가 있습니다.",
-      "post_count": 15,
+      "summary": "이준석, 김관영, 정청래 등 정치인 관련 뉴스",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테크",
+      "summary": "삼성, LG, 애플 등 테크 뉴스",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 많습니다. 삼성과 LG의 새로운 기술과 제품, AI와 관련된 뉴스가 많이 보입니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 의견이 많습니다. 삼성과 현대차의 사업과 재무, 경제 정책에 대한 논의가 있습니다.",
-      "post_count": 10,
+      "summary": "주식, 경제 뉴스",
+      "post_count": 5,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "하정우",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "정치 관련 뉴스"
-    },
-    {
       "keyword": "삼성",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술과 경제 관련 뉴스"
+      "context": "테크 뉴스"
     },
     {
-      "keyword": "AI",
-      "count": 4,
+      "keyword": "이준석",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 뉴스"
+    },
+    {
+      "keyword": "애플",
+      "count": 5,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스"
+      "context": "테크 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 30,
     "negative": 10,
-    "neutral": 30,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술과 제품 출시를 주목해야 합니다.",
-      "action": "最新 기술과 제품 출시를 분석하고, 시장 동향을 파악해야 합니다.",
+      "insight": "테크 뉴스가 가장 많은 관심을 받고 있다",
+      "action": "테크 뉴스에 대한 마케팅을 강화한다",
       "priority": "high"
     },
     {
-      "insight": "경제 정책과 기업의 재무 상태를 분석해야 합니다.",
-      "action": "경제 정책과 기업의 재무 상태를 분석하고, 시장 동향을 파악해야 합니다.",
+      "insight": "정치 뉴스가 혼재된 반응을 보이고 있다",
+      "action": "정치 뉴스에 대한 마케팅을 조심스럽게 접근한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 뉴스와 의견이 많습니다. 하정우 수석과 관련된 뉴스가 많이 보이고, 대통령의 노동정책과 이념에 대한 논의가 있습니다. 최신 기술과 제품 출시가 많으며, 삼성과 LG의 새로운 기술과 제품, AI와 관련된 뉴스가 많이 보입니다. 경제 관련 뉴스와 의견도 많으며, 삼성과 현대차의 사업과 재무, 경제 정책에 대한 논의가 있습니다. 이러한 트렌드를 분석하여, 최신 기술과 제품 출시를 주목하고, 경제 정책과 기업의 재무 상태를 분석해야 합니다.",
-  "analyzed_at": "2026-04-09T05:00:33.948Z",
+  "narrative": "최근의 트렌드는 테크 뉴스가 가장 많은 관심을 받고 있으며, 삼성, LG, 애플 등이 주도하고 있다. 정치 뉴스는 혼재된 반응을 보이고 있으며, 이준석, 김관영, 정청래 등이 관련 뉴스를 만들고 있다. 경제 뉴스는 비교적少하며, 주식 뉴스가 일부 존재한다. 이러한 트렌드를 바탕으로 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-04-09T07:00:33.619Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
