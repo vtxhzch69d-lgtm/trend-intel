@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 관한 게시글이 많습니다. 특히, AI와 관련된 게시글이 많은 것으로 나타났습니다.",
+      "topic": "정치",
+      "summary": "정치 관련 글들이 많은 것으로 보아 정치적인 관심이 높은 것으로 보임",
       "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 경제",
-      "summary": "정치 및 경제 관련 게시글이 많습니다. 특히, 선거와 관련된 게시글이 많은 것으로 나타났습니다.",
-      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "생활 및 문화",
-      "summary": "생활 및 문화 관련 게시글이 많습니다. 특히, 음식과 관련된 게시글이 많은 것으로 나타났습니다.",
-      "post_count": 10,
+      "topic": "테크",
+      "summary": "테크 관련 글들이 많은 것으로 보아 테크에 대한 관심이 높은 것으로 보임",
+      "post_count": 15,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 글들이 많은 것으로 보아 경제적인 관심이 높은 것으로 보임",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 및 산업 동향"
-    },
-    {
-      "keyword": "선거",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 및 경제"
-    },
-    {
-      "keyword": "음식",
+      "keyword": "이재명",
       "count": 5,
+      "sentiment": "negative",
+      "context": "정치적인 관심을 끌고 있는 인물"
+    },
+    {
+      "keyword": "전기차",
+      "count": 3,
       "sentiment": "positive",
-      "context": "생활 및 문화"
+      "context": "테크적인 관심을 끌고 있는 주제"
+    },
+    {
+      "keyword": "경제",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "경제적인 관심을 끌고 있는 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정이 더 많은 것으로 보임"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 산업 동향에 대한 관심이 높습니다.",
-      "action": "최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "정치적인 관심이 높은 것으로 보임",
+      "action": "정치적인 주제에 대한 콘텐츠를 생성",
       "priority": "high"
     },
     {
-      "insight": "정치 및 경제 관련 콘텐츠에 대한 관심이 높습니다.",
-      "action": "정치 및 경제 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "테크적인 관심이 높은 것으로 보임",
+      "action": "테크적인 주제에 대한 콘텐츠를 생성",
       "priority": "medium"
     },
     {
-      "insight": "생활 및 문화 관련 콘텐츠에 대한 관심이 낮습니다.",
-      "action": "생활 및 문화 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "경제적인 관심이 낮은 것으로 보임",
+      "action": "경제적인 주제에 대한 콘텐츠를 생성",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 기술 및 산업, 정치 및 경제, 생활 및 문화 관련 콘텐츠가 많습니다. 특히, AI와 관련된 콘텐츠가 많은 것으로 나타났습니다. 또한, 선거와 관련된 콘텐츠도 많은 것으로 나타났습니다. 이러한 트렌드를 고려하여 콘텐츠를 제공하면 관심을 끌 수 있습니다. 또한, 최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다. 그러나, 생활 및 문화 관련 콘텐츠에 대한 관심이 낮으므로 이러한 콘텐츠를 제공하는 것은 우선순위가 낮을 수 있습니다.",
-  "analyzed_at": "2026-04-09T22:00:34.161Z",
+  "narrative": "최근의 트렌드는 정치적인 관심이 높은 것으로 보임. 테크적인 관심도 높은 것으로 보이고, 경제적인 관심은 낮은 것으로 보임. 이러한 트렌드를 반영하여 콘텐츠를 생성하면 효과적인 마케팅이 가능할 것으로 보임. 또한, 부정적인 감정이 더 많은 것으로 보이므로, 콘텐츠를 생성할 때에는 긍정적인 메시지를 전달하는 것이 중요할 것으로 보임.",
+  "analyzed_at": "2026-04-10T00:00:33.865Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
