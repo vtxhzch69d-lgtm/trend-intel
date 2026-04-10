@@ -2,24 +2,38 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용 사례가 다양한 분야에서 논의되고 있습니다. 클리앙 커뮤니티에서는 AI 구독 기준, AI의 미래, LLM의 역할 등에 대한 토론이 활발합니다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 주제가 많이 обсужд되고 있습니다.",
       "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "신기술과 과학 관련 주제가 관심을 끌고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 선거, 정치인, 사회 문제 등에 대한 토론이 활발합니다.",
-      "post_count": 15,
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 주제가 논의되고 있습니다.",
+      "post_count": 7,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 새로운 기술 개발, 과학 연구 등에 대한 토론이 활발합니다.",
-      "post_count": 8,
+      "topic": "문화 및 엔터테인먼트",
+      "summary": "문화 및 엔터테인먼트 관련 주제가 관심을 끌고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +41,68 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용 사례"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "정치",
+      "keyword": "경제",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 관련 주제"
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 뉴스"
     },
     {
       "keyword": "기술",
-      "count": 10,
+      "count": 12,
       "sentiment": "positive",
-      "context": "기술 및 과학 관련 주제"
+      "context": "신기술과 과학 관련 주제"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "사회 및 정치 관련 주제"
+    },
+    {
+      "keyword": "엔터테인먼트",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "문화 및 엔터테인먼트 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "보통"
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 주제에서는 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 적용되고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
-      "action": "정치 및 사회 관련 주제에 대한 콘텐츠 개발",
+      "insight": "경제 및 금융 관련 뉴스는 비즈니스에 중요한 영향을 미칩니다.",
+      "action": "경제 및 금융 관련 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "기술 및 과학 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
-      "action": "기술 및 과학 관련 주제에 대한 콘텐츠 개발",
+      "insight": "신기술과 과학 관련 주제는 새로운 비즈니스 기회를 제공할 수 있습니다.",
+      "action": "신기술과 과학 관련 주제 연구",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 정치 관련 주제는 비즈니스에 영향을 미칠 수 있습니다.",
+      "action": "사회 및 정치 관련 주제 모니터링",
+      "priority": "low"
+    },
+    {
+      "insight": "문화 및 엔터테인먼트 관련 주제는 마케팅에 활용할 수 있습니다.",
+      "action": "문화 및 엔터테인먼트 관련 주제 활용",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 AI 기술, 정치 및 사회, 기술 및 과학 관련 주제가 많이 논의되고 있습니다. 이러한 주제에 대한 토론은 다양한 산업과 비즈니스 모델에 영향을 미칠 수 있습니다. 따라서 이러한 주제에 대한 콘텐츠 개발과 비즈니스 모델 개발이 필요합니다. 또한, 클리앙 커뮤니티의 사용자들은 다양한 주제에 대해 열린 토론을 하고 있기 때문에, 이러한 토론을 통해 새로운 비즈니스 기회를 찾을 수 있습니다.",
-  "analyzed_at": "2026-04-10T09:00:34.367Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 또한, 경제 및 금융 관련 뉴스와 주제가 많이 обсужд되고 있습니다. 신기술과 과학 관련 주제도 관심을 끌고 있습니다. 이러한 트렌드에 따라, 비즈니스 모델 개발과 마케팅 전략을 조정할 필요가 있습니다. 또한, 경제 및 금융 관련 뉴스와 사회 및 정치 관련 주제를 모니터링하여 비즈니스에 영향을 미치는 요인을 파악할 필요가 있습니다.",
+  "analyzed_at": "2026-04-10T10:30:34.237Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
