@@ -1,38 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 주제가 많이 обсужд되고 있습니다.",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다. 특히, 이대남들 분노할 법안 통과와 관련된 게시물이 많은 관심을 받고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "신기술과 과학 관련 주제가 관심을 끌고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제가 논의되고 있습니다.",
-      "post_count": 7,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "문화 및 엔터테인먼트",
-      "summary": "문화 및 엔터테인먼트 관련 주제가 관심을 끌고 있습니다.",
-      "post_count": 5,
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 관련된 게시물이 많은 관심을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제가 많은 관심을 받고 있습니다. 특히, 기업의 성과급과 관련된 게시물이 많은 관심을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
@@ -41,69 +27,47 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스"
-    },
-    {
-      "keyword": "기술",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "신기술과 과학 관련 주제"
+      "context": "AI와 관련된 기술 및 과학 주제"
     },
     {
       "keyword": "정치",
-      "count": 10,
+      "count": 15,
       "sentiment": "mixed",
-      "context": "사회 및 정치 관련 주제"
+      "context": "정치 및 사회 관련 주제"
     },
     {
-      "keyword": "엔터테인먼트",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "문화 및 엔터테인먼트 관련 주제"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 주제에서는 부정적인 감정도 존재합니다."
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI와 관련된 기술 및 과학 주제가 많은 관심을 받고 있습니다.",
+      "action": "AI와 관련된 제품 및 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스는 비즈니스에 중요한 영향을 미칩니다.",
-      "action": "경제 및 금융 관련 뉴스 모니터링",
+      "insight": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "정치 및 사회 관련 주제에 대한 콘텐츠 개발",
       "priority": "medium"
     },
     {
-      "insight": "신기술과 과학 관련 주제는 새로운 비즈니스 기회를 제공할 수 있습니다.",
-      "action": "신기술과 과학 관련 주제 연구",
-      "priority": "medium"
-    },
-    {
-      "insight": "사회 및 정치 관련 주제는 비즈니스에 영향을 미칠 수 있습니다.",
-      "action": "사회 및 정치 관련 주제 모니터링",
-      "priority": "low"
-    },
-    {
-      "insight": "문화 및 엔터테인먼트 관련 주제는 마케팅에 활용할 수 있습니다.",
-      "action": "문화 및 엔터테인먼트 관련 주제 활용",
+      "insight": "경제 및 금융 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "경제 및 금융 관련 주제에 대한 콘텐츠 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 또한, 경제 및 금융 관련 뉴스와 주제가 많이 обсужд되고 있습니다. 신기술과 과학 관련 주제도 관심을 끌고 있습니다. 이러한 트렌드에 따라, 비즈니스 모델 개발과 마케팅 전략을 조정할 필요가 있습니다. 또한, 경제 및 금융 관련 뉴스와 사회 및 정치 관련 주제를 모니터링하여 비즈니스에 영향을 미치는 요인을 파악할 필요가 있습니다.",
-  "analyzed_at": "2026-04-10T10:30:34.237Z",
-  "post_count": 62,
+  "narrative": "현재의 트렌드는 정치 및 사회, 기술 및 과학, 경제 및 금융 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 관련된 기술 및 과학 주제가 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여, AI와 관련된 제품 및 서비스 개발, 정치 및 사회 관련 주제에 대한 콘텐츠 개발, 경제 및 금융 관련 주제에 대한 콘텐츠 개발 등의 전략을 수립할 수 있습니다. 또한, 중립적인 감정과 높은 우선순위를 고려하여, 콘텐츠 개발과 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-10T12:00:33.980Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
