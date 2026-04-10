@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 발전으로 인한 산업의 변화와 새로운 기술의 등장 등이 포함됩니다.",
+      "summary": "AI 기술의 발전과 적용 사례가 증가하고 있으며, 관련 뉴스와 논의가 활발하게 진행되고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제가 논의되고 있습니다. 정치인들의 발언과 행동, 사회적인 문제 등이 포함됩니다.",
-      "post_count": 12,
+      "summary": "정치 및 사회 관련 뉴스와 논의가 진행되고 있으며, 일부 논쟁이 존재한다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 주제가 논의되고 있습니다. 기업들의 성과와 산업의 동향 등이 포함됩니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "기술 및 산업",
+      "summary": "기술 및 산업 관련 뉴스와 논의가 진행되고 있으며, 일부 기업의 성과와 발전이 언급되고 있다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "context": "AI 기술의 발전과 적용 사례"
     },
     {
       "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 주제"
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 논쟁과 비판"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 관련 주제"
+      "keyword": "기술",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "기술의 발전과 적용 사례"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "적절한 발전과 논의가 진행되고 있으나, 일부 논쟁과 비판이 존재한다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전으로 인한 산업의 변화",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전과 적용 사례를 주시하고, 관련 산업과 기업의 동향을 분석하여 사업 기회를 찾는다.",
+      "action": "AI 기술과 산업 동향을 주시하고, 관련 사업 기회를 찾는다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회적인 문제에 대한 대응",
-      "action": "정책 및 사회적인 문제에 대한 적극적인 참여",
+      "insight": "정치 및 사회 관련 논쟁과 비판을 주시하고, 관련 기업과 산업의 영향을 분석하여 사업 전략을 수립한다.",
+      "action": "정치 및 사회 관련 논쟁과 비판을 주시하고, 관련 사업 전략을 수립한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 산업의 동향에 대한 분석",
-      "action": "경제 및 산업의 동향에 대한 지속적인 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 주를 이루고 있습니다. AI 기술의 발전으로 인한 산업의 변화와 새로운 기술의 등장 등이 포함됩니다. 또한, 정치 및 사회적인 문제에 대한 대응과 경제 및 산업의 동향에 대한 분석도 중요합니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 정책 및 사회적인 문제에 대한 적극적인 참여를 통해 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-04-10T19:30:34.313Z",
+  "narrative": "현재의 트렌드와 논의는 AI 기술의 발전과 적용 사례, 정치 및 사회 관련 논쟁과 비판, 기술 및 산업의 발전과 적용 사례를 중심으로 진행되고 있다. 이러한 트렌드와 논의는 관련 산업과 기업의 동향과 사업 기회를 찾는 데 중요한 역할을 한다. 따라서, 관련 산업과 기업은 이러한 트렌드와 논의를 주시하고, 관련 사업 전략을 수립하여 발전하고 성장하는 데 도움이 될 수 있다.",
+  "analyzed_at": "2026-04-10T21:00:34.287Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
