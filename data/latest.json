@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "주식 시장과 경제 동향에 대한 관심이 높아지고 있습니다. 최근 코스피가 2%대 강세를 보이며 5900선에 재돌파했습니다.",
-      "post_count": 15,
+      "topic": "전기차 충전사업",
+      "summary": "전기차 충전사업자 대부분이 충전기 제조사 관련 계열사이며, 충전사업자의 필요성에 대한 논의가 진행 중이다.",
+      "post_count": 3,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 논의되고 있다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논평이 많아지고 있습니다. 최근 대통령 지지율과 정치권의 동향에 대한 관심이 높아지고 있습니다.",
-      "post_count": 10,
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련된 다양한 주제들이 논의되고 있다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 동향과 제품 출시 소식에 대한 관심이 높아지고 있습니다. 최근 AI와 자율주행 기술에 대한 뉴스가 많아지고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "주식 시장과 경제 동향에 대한 관심이 높아지고 있습니다."
+      "keyword": "전기차",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "전기차 충전사업과 관련된 키워드"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 동향과 제품 출시 소식에 대한 관심이 높아지고 있습니다."
+      "context": "AI 기술과 그에 따른 산업에서의 적용"
     },
     {
       "keyword": "정치",
-      "count": 10,
+      "count": 8,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논평이 많아지고 있습니다."
+      "context": "정치 및 사회 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "보통"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "주식 시장과 경제 동향에 대한 관심이 높아지고 있습니다.",
-      "action": "관련 뉴스와 정보를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "전기차 충전사업의 성장",
+      "action": "전기차 충전사업에 대한 투자와 참여",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술의 연구와 개발",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 동향과 제품 출시 소식에 대한 관심이 높아지고 있습니다.",
-      "action": "관련 기술과 제품에 대한 정보를 제공하여 관심을 끌 수 있습니다.",
-      "priority": "medium"
+      "insight": "정치 및 사회의 변화",
+      "action": "정치 및 사회의 변화에 대한 대응",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 온라인 커뮤니티에서 주식 시장과 경제 동향, 최신 기술 동향과 제품 출시 소식에 대한 관심이 높아지고 있습니다. 이러한 관심을 바탕으로 관련 뉴스와 정보를 제공하여 관심을 끌 수 있습니다. 또한, 정치 관련 뉴스와 논평이 많아지고 있으므로 관련된 정보를 제공하여 관심을 끌 수 있습니다. 이러한 분석 결과를 바탕으로 마케팅 전략을 수립하여 관심을 끌고 고객을 유치할 수 있습니다.",
-  "analyzed_at": "2026-04-10T03:00:34.122Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 전기차 충전사업과 AI 기술이 주요한 주제로 나타났습니다. 또한, 정치 및 사회 관련된 주제들이 논의되고 있습니다. 이러한 트렌드와 키워드를 통해 사업적인 인사이트를 얻을 수 있으며, 전기차 충전사업과 AI 기술의 성장을 위한 투자와 연구가 필요합니다. 또한, 정치 및 사회의 변화에 대한 대응이 필요합니다.",
+  "analyzed_at": "2026-04-10T04:30:33.484Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
