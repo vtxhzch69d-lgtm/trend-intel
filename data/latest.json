@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 글들이 많은 것으로 보아 정치적인 관심이 높은 것으로 보임",
-      "post_count": 20,
+      "summary": "이 대통령 지지율 67% 최고치 유지, 재보선 후보 공천 논란",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "테크 관련 글들이 많은 것으로 보아 테크에 대한 관심이 높은 것으로 보임",
-      "post_count": 15,
+      "topic": "경제",
+      "summary": "한국 성장률 1.7→1.9%로 상향, 삼성전자·SK하이닉스 내년 법인세 전망",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 글들이 많은 것으로 보아 경제적인 관심이 높은 것으로 보임",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "AI-NEXT 본격화, 애플 '아이폰 에어2·18e' 출시 전망",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "이 대통령",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치적인 관심을 끌고 있는 인물"
+      "context": "지지율 최고치 유지"
     },
     {
-      "keyword": "전기차",
-      "count": 3,
+      "keyword": "삼성전자",
+      "count": 4,
       "sentiment": "positive",
-      "context": "테크적인 관심을 끌고 있는 주제"
+      "context": "내년 법인세 전망"
     },
     {
-      "keyword": "경제",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "경제적인 관심을 끌고 있는 주제"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "AI-NEXT 본격화"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 더 많은 것으로 보임"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적인 관심이 높은 것으로 보임",
-      "action": "정치적인 주제에 대한 콘텐츠를 생성",
+      "insight": "한국 경제 성장률 상향",
+      "action": "투자 기회 탐색",
       "priority": "high"
     },
     {
-      "insight": "테크적인 관심이 높은 것으로 보임",
-      "action": "테크적인 주제에 대한 콘텐츠를 생성",
+      "insight": "AI 기술 발전",
+      "action": "AI 기술 도입 검토",
       "priority": "medium"
-    },
-    {
-      "insight": "경제적인 관심이 낮은 것으로 보임",
-      "action": "경제적인 주제에 대한 콘텐츠를 생성",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적인 관심이 높은 것으로 보임. 테크적인 관심도 높은 것으로 보이고, 경제적인 관심은 낮은 것으로 보임. 이러한 트렌드를 반영하여 콘텐츠를 생성하면 효과적인 마케팅이 가능할 것으로 보임. 또한, 부정적인 감정이 더 많은 것으로 보이므로, 콘텐츠를 생성할 때에는 긍정적인 메시지를 전달하는 것이 중요할 것으로 보임.",
-  "analyzed_at": "2026-04-10T00:00:33.865Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서는 정치, 경제, 기술 관련 주제가热을 끌고 있습니다. 이 대통령 지지율 최고치 유지와 재보선 후보 공천 논란이 정치 분야에서 큰 관심을 끌고 있습니다. 경제 분야에서는 한국 성장률 상향과 삼성전자·SK하이닉스 내년 법인세 전망이 주목을 받고 있습니다. 기술 분야에서는 AI-NEXT 본격화와 애플 '아이폰 에어2·18e' 출시 전망이 관심을 끌고 있습니다. 이러한 트렌드를 분석하여 사업 기회를 탐색하고, AI 기술 도입을 검토하는 것이 중요할 것으로 보입니다.",
+  "analyzed_at": "2026-04-10T01:30:33.662Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
