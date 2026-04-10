@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI 뮤직비디오, AI로 만든 가상인물을 활용한 광고, AI 에이전트로 정부 업무 처리 등 다양한 주제가 포함됩니다.",
-      "post_count": 10,
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 발전으로 인한 산업의 변화와 새로운 기술의 등장 등이 포함됩니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 주제가 논의되고 있습니다. 민주당, 국힘, 대통령님의 이스라엘 비판 등 다양한 주제가 포함됩니다.",
-      "post_count": 8,
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 논의되고 있습니다. 정치인들의 발언과 행동, 사회적인 문제 등이 포함됩니다.",
+      "post_count": 12,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 주제가 논의되고 있습니다. 노트북 디스플레이 역성장, OLED의 고속 성장세, BMW의 평면형 수소저장 패키징 개발 등 다양한 주제가 포함됩니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 주제가 논의되고 있습니다. 기업들의 성과와 산업의 동향 등이 포함됩니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
       "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "정치",
-      "count": 8,
+      "count": 15,
       "sentiment": "mixed",
       "context": "정치 관련 주제"
     },
     {
-      "keyword": "기술",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "기술 관련 주제"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "긍정적"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 발전시키는 방안을 모색하세요.",
+      "insight": "AI 기술의 발전으로 인한 산업의 변화",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제는 소비자의 관심을 끌 수 있습니다.",
-      "action": "정치 관련 주제를 활용하여 마케팅 전략을 수립하세요.",
+      "insight": "정치 및 사회적인 문제에 대한 대응",
+      "action": "정책 및 사회적인 문제에 대한 적극적인 참여",
       "priority": "medium"
     },
     {
-      "insight": "기술의 발전은 새로운 비즈니스 기회를 창출할 수 있습니다.",
-      "action": "기술의 발전을 주시하고, 이를 활용하여 새로운 비즈니스 모델을 발전시키는 방안을 모색하세요.",
-      "priority": "medium"
+      "insight": "경제 및 산업의 동향에 대한 분석",
+      "action": "경제 및 산업의 동향에 대한 지속적인 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 주를 이루고 있습니다. AI 뮤직비디오, AI로 만든 가상인물을 활용한 광고, AI 에이전트로 정부 업무 처리 등 다양한 주제가 포함됩니다. 또한, 정치 관련 주제도 논의되고 있습니다. 기술의 발전은 새로운 비즈니스 기회를 창출할 수 있습니다. 따라서, AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 발전시키는 방안을 모색하는 것이 중요합니다. 또한, 정치 관련 주제를 활용하여 마케팅 전략을 수립하는 것도 필요합니다.",
-  "analyzed_at": "2026-04-10T18:00:34.904Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 주를 이루고 있습니다. AI 기술의 발전으로 인한 산업의 변화와 새로운 기술의 등장 등이 포함됩니다. 또한, 정치 및 사회적인 문제에 대한 대응과 경제 및 산업의 동향에 대한 분석도 중요합니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 정책 및 사회적인 문제에 대한 적극적인 참여를 통해 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-04-10T19:30:34.313Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
