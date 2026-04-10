@@ -1,103 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "플레이스테이션6 가격",
-      "summary": "내년말에 나올 플6 가격에 대한 예상",
-      "post_count": 1,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "故 김창민 사건",
-      "summary": "故 김창민 사건에 대한 논의",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "트럼프와 이란 전쟁",
-      "summary": "트럼프가 미국을 이란과의 전쟁으로 이끌었는지에 대한 논의",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "포괄임금제 개정안",
-      "summary": "포괄임금제 개정안에 대한 총정리",
-      "post_count": 1,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 활발하게 논의되고 있다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술에 대한 다양한 뉴스와 논의",
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련 주제가 관심을 끌고 있다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "플레이스테이션6",
-      "count": 1,
-      "sentiment": "neutral",
-      "context": "내년말에 나올 플6 가격에 대한 예상"
-    },
-    {
-      "keyword": "故 김창민",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "故 김창민 사건에 대한 논의"
-    },
-    {
-      "keyword": "트럼프",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "트럼프가 미국을 이란과의 전쟁으로 이끌었는지에 대한 논의"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "AI와 기술에 대한 다양한 뉴스와 논의"
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "포괄임금제",
-      "count": 1,
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치 관련 논란"
+    },
+    {
+      "keyword": "기술",
+      "count": 10,
       "sentiment": "positive",
-      "context": "포괄임금제 개정안에 대한 총정리"
+      "context": "기술의 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 2,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적이며 정보를 제공하는 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "플레이스테이션6 가격에 대한 예상은 중요하다",
-      "action": "가격 예상을 제공하는 콘텐츠를 생성한다",
-      "priority": "medium"
-    },
-    {
-      "insight": "故 김창민 사건은 여전히 논의되고 있다",
-      "action": "관련 뉴스와 정보를 제공한다",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술은 중요한 주제이다",
-      "action": "관련 뉴스와 정보를 제공한다",
+      "insight": "정치 및 사회 관련 주제",
+      "action": "정치 및 사회 관련 주제에 대한 고객의 관심을 파악",
       "priority": "medium"
     },
     {
-      "insight": "포괄임금제 개정안은 중요하다",
-      "action": "관련 뉴스와 정보를 제공한다",
-      "priority": "medium"
+      "insight": "기술 및 과학 관련 주제",
+      "action": "기술 및 과학 관련 주제에 대한 고객의 관심을 파악",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 플레이스테이션6 가격, 故 김창민 사건, 트럼프와 이란 전쟁, 포괄임금제 개정안, AI와 기술 등 다양한 주제로 구성되어 있다. 이러한 주제들은 중립적이며 정보를 제공하는 분위기를 가지고 있다. 플레이스테이션6 가격에 대한 예상은 중요하며, 관련 콘텐츠를 생성하는 것이 필요하다. 故 김창민 사건은 여전히 논의되고 있으며, 관련 뉴스와 정보를 제공하는 것이 중요하다. AI와 기술은 중요한 주제이며, 관련 뉴스와 정보를 제공하는 것이 필요하다. 포괄임금제 개정안은 중요하며, 관련 뉴스와 정보를 제공하는 것이 필요하다.",
-  "analyzed_at": "2026-04-10T13:30:34.909Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 또한, 정치 및 사회 관련 주제가 활발하게 논의되고 있다. 기술 및 과학 관련 주제도 관심을 끌고 있다. 이러한 트렌드에 따라, 비즈니스 모델 개발과 고객의 관심을 파악하는 것이 중요하다.",
+  "analyzed_at": "2026-04-10T15:00:33.723Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
