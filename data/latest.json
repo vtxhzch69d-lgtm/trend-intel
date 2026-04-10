@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "전남광주 민형배 42.2% v 김영록 40.7%",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크",
-      "summary": "AI와 관련된 기술 뉴스",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용 사례가 다양한 분야에서 논의되고 있습니다. 클리앙 커뮤니티에서는 AI 구독 기준, AI의 미래, LLM의 역할 등에 대한 토론이 활발합니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "생활",
-      "summary": "다이어트, 핸드폰, 성심당 등 일상생활과 관련된 주제",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 선거, 정치인, 사회 문제 등에 대한 토론이 활발합니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 새로운 기술 개발, 과학 연구 등에 대한 토론이 활발합니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 관련 기술 뉴스"
+      "context": "AI 기술의 발전과 적용 사례"
     },
     {
       "keyword": "정치",
-      "count": 5,
+      "count": 15,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스"
+      "context": "정치 및 사회 관련 주제"
     },
     {
-      "keyword": "성심당",
-      "count": 2,
+      "keyword": "기술",
+      "count": 10,
       "sentiment": "positive",
-      "context": "성심당 관련 리뷰"
+      "context": "기술 및 과학 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "보통"
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 미래의 핵심 기술",
-      "action": "AI 기술에 대한 투자 증가",
+      "insight": "AI 기술의 발전이 다양한 산업에 적용되고 있습니다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스는 여전히 관심이 높다",
-      "action": "정치 관련 뉴스에 대한 분석 증가",
+      "insight": "정치 및 사회 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "정치 및 사회 관련 주제에 대한 콘텐츠 개발",
       "priority": "medium"
     },
     {
-      "insight": "일상생활과 관련된 주제는 중립적인 반응을 보인다",
-      "action": "일상생활과 관련된 주제에 대한 마케팅 전략 수립",
-      "priority": "low"
+      "insight": "기술 및 과학 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "기술 및 과학 관련 주제에 대한 콘텐츠 개발",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 관련 기술 뉴스가 가장 많은 관심을 받았으며, 정치 관련 뉴스도 여전히 많은 관심을 받고 있습니다. 일상생활과 관련된 주제는 중립적인 반응을 보이고 있습니다. 이러한 결과를 바탕으로, AI 기술에 대한 투자 증가와 정치 관련 뉴스에 대한 분석 증가가 필요합니다. 또한, 일상생활과 관련된 주제에 대한 마케팅 전략 수립도 필요합니다.",
-  "analyzed_at": "2026-04-10T07:30:33.483Z",
+  "narrative": "클리앙 커뮤니티에서는 AI 기술, 정치 및 사회, 기술 및 과학 관련 주제가 많이 논의되고 있습니다. 이러한 주제에 대한 토론은 다양한 산업과 비즈니스 모델에 영향을 미칠 수 있습니다. 따라서 이러한 주제에 대한 콘텐츠 개발과 비즈니스 모델 개발이 필요합니다. 또한, 클리앙 커뮤니티의 사용자들은 다양한 주제에 대해 열린 토론을 하고 있기 때문에, 이러한 토론을 통해 새로운 비즈니스 기회를 찾을 수 있습니다.",
+  "analyzed_at": "2026-04-10T09:00:34.367Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
