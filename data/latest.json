@@ -1,73 +1,104 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다. 특히, 이대남들 분노할 법안 통과와 관련된 게시물이 많은 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "플레이스테이션6 가격",
+      "summary": "내년말에 나올 플6 가격에 대한 예상",
+      "post_count": 1,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "故 김창민 사건",
+      "summary": "故 김창민 사건에 대한 논의",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 관련된 게시물이 많은 관심을 받고 있습니다.",
-      "post_count": 15,
+      "topic": "트럼프와 이란 전쟁",
+      "summary": "트럼프가 미국을 이란과의 전쟁으로 이끌었는지에 대한 논의",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "포괄임금제 개정안",
+      "summary": "포괄임금제 개정안에 대한 총정리",
+      "post_count": 1,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제가 많은 관심을 받고 있습니다. 특히, 기업의 성과급과 관련된 게시물이 많은 관심을 받고 있습니다.",
-      "post_count": 8,
+      "topic": "AI와 기술",
+      "summary": "AI와 기술에 대한 다양한 뉴스와 논의",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "플레이스테이션6",
+      "count": 1,
+      "sentiment": "neutral",
+      "context": "내년말에 나올 플6 가격에 대한 예상"
+    },
+    {
+      "keyword": "故 김창민",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "故 김창민 사건에 대한 논의"
+    },
+    {
+      "keyword": "트럼프",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "트럼프가 미국을 이란과의 전쟁으로 이끌었는지에 대한 논의"
+    },
+    {
       "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI와 관련된 기술 및 과학 주제"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 관련 주제"
-    },
-    {
-      "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련 주제"
+      "context": "AI와 기술에 대한 다양한 뉴스와 논의"
+    },
+    {
+      "keyword": "포괄임금제",
+      "count": 1,
+      "sentiment": "positive",
+      "context": "포괄임금제 개정안에 대한 총정리"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 2,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적이며 정보를 제공하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI와 관련된 기술 및 과학 주제가 많은 관심을 받고 있습니다.",
-      "action": "AI와 관련된 제품 및 서비스 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "정치 및 사회 관련 주제에 대한 콘텐츠 개발",
+      "insight": "플레이스테이션6 가격에 대한 예상은 중요하다",
+      "action": "가격 예상을 제공하는 콘텐츠를 생성한다",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "경제 및 금융 관련 주제에 대한 콘텐츠 개발",
-      "priority": "low"
+      "insight": "故 김창민 사건은 여전히 논의되고 있다",
+      "action": "관련 뉴스와 정보를 제공한다",
+      "priority": "high"
+    },
+    {
+      "insight": "AI와 기술은 중요한 주제이다",
+      "action": "관련 뉴스와 정보를 제공한다",
+      "priority": "medium"
+    },
+    {
+      "insight": "포괄임금제 개정안은 중요하다",
+      "action": "관련 뉴스와 정보를 제공한다",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치 및 사회, 기술 및 과학, 경제 및 금융 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 관련된 기술 및 과학 주제가 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여, AI와 관련된 제품 및 서비스 개발, 정치 및 사회 관련 주제에 대한 콘텐츠 개발, 경제 및 금융 관련 주제에 대한 콘텐츠 개발 등의 전략을 수립할 수 있습니다. 또한, 중립적인 감정과 높은 우선순위를 고려하여, 콘텐츠 개발과 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-10T12:00:33.980Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 플레이스테이션6 가격, 故 김창민 사건, 트럼프와 이란 전쟁, 포괄임금제 개정안, AI와 기술 등 다양한 주제로 구성되어 있다. 이러한 주제들은 중립적이며 정보를 제공하는 분위기를 가지고 있다. 플레이스테이션6 가격에 대한 예상은 중요하며, 관련 콘텐츠를 생성하는 것이 필요하다. 故 김창민 사건은 여전히 논의되고 있으며, 관련 뉴스와 정보를 제공하는 것이 중요하다. AI와 기술은 중요한 주제이며, 관련 뉴스와 정보를 제공하는 것이 필요하다. 포괄임금제 개정안은 중요하며, 관련 뉴스와 정보를 제공하는 것이 필요하다.",
+  "analyzed_at": "2026-04-10T13:30:34.909Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
