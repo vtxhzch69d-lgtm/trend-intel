@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프와 미국 정치",
-      "summary": "트럼프의 최근 발언과 행동에 대한 논란",
+      "topic": "트럼프와 미국-이란 관계",
+      "summary": "트럼프의 미국-이란 관계와 관련된 뉴스 및 논평이 많습니다. 트럼프의 행동과 미국-이란 관계의 미래에 대한 우려가 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "이란과 호르무즈 위기",
-      "summary": "이란과 미국의 긴장 관계와 호르무즈 해협의 위기",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "한국의 정치와 사회",
-      "summary": "한국의 정치와 사회 문제에 대한 논의",
+      "topic": "AI 기술과 산업",
+      "summary": "AI 기술과 산업 관련 뉴스 및 논평이 많습니다. AI 기술의 발전과 산업에서의 적용에 대한 기대와 우려가 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치와 사회",
+      "summary": "정치와 사회 관련 뉴스 및 논평이 많습니다. 정치와 사회의 다양한 문제에 대한 우려와 논의가 있습니다.",
+      "post_count": 20,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "트럼프",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "트럼프의 최근 발언과 행동에 대한 논란"
-    },
-    {
-      "keyword": "이란",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "이란과 미국의 긴장 관계와 호르무즈 해협의 위기"
-    },
-    {
-      "keyword": "한국",
       "count": 10,
+      "sentiment": "negative",
+      "context": "트럼프의 미국-이란 관계와 관련된 뉴스 및 논평"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "한국의 정치와 사회 문제에 대한 논의"
+      "context": "AI 기술과 산업 관련 뉴스 및 논평"
+    },
+    {
+      "keyword": "정치",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "정치와 사회 관련 뉴스 및 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 10,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "트럼프와 미국 정치에 대한 관심이 높아짐",
-      "action": "관련 뉴스와 분석을 제공",
+      "insight": "AI 기술의 발전이 산업에 미치는 영향",
+      "action": "AI 기술의 발전을 주시하고 산업에서의 적용을 준비한다",
       "priority": "high"
     },
     {
-      "insight": "이란과 호르무즈 위기에 대한 관심이 높아짐",
-      "action": "관련 뉴스와 분석을 제공",
+      "insight": "트럼프의 미국-이란 관계가 세계 정치와 경제에 미치는 영향",
+      "action": "트럼프의 행동과 미국-이란 관계의 미래를 주시한다",
       "priority": "high"
     },
     {
-      "insight": "한국의 정치와 사회 문제에 대한 논의가 활발함",
-      "action": "관련 뉴스와 분석을 제공",
+      "insight": "정치와 사회의 다양한 문제가 소비자와 기업에 미치는 영향",
+      "action": "정치와 사회의 다양한 문제를 주시하고 대응한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 트럼프와 미국 정치, 이란과 호르무즈 위기, 한국의 정치와 사회 문제에 대한 관심이 높아지고 있습니다. 트럼프의 최근 발언과 행동에 대한 논란과 이란과 미국의 긴장 관계는 부정적인 감정을 유발하고 있습니다. 한국의 정치와 사회 문제에 대한 논의는 활발하지만, 전체적으로는 부정적인 감정이 우세합니다. 이러한 트렌드를 고려하여 관련 뉴스와 분석을 제공하고, 관심 있는 사용자에게 정보를 제공하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-11T13:30:33.913Z",
+  "narrative": "현재의 트렌드는 트럼프와 미국-이란 관계, AI 기술과 산업, 정치와 사회의 다양한 문제를 중심으로 형성되고 있습니다. 트럼프의 행동과 미국-이란 관계의 미래에 대한 우려가 높으며, AI 기술의 발전과 산업에서의 적용에 대한 기대와 우려도 있습니다. 정치와 사회의 다양한 문제에 대한 우려와 논의도 많습니다. 이러한 트렌드를 주시하고 대응하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-11T15:00:33.771Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
