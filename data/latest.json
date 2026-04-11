@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "트럼프, 이란, 미국-이란 종전 협상 등 정치 관련 주제가 인기",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "트럼프와 이란의 관계",
+      "summary": "트럼프와 이란의 관계가 계속해서 긴장되고 있으며, 최근에 트럼프가 이란에 대한 강경한 태도를 보이고 있다. 이에 대한 반응은 다양하다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 애플, 삼성전자, 테슬라 등 기술 관련 주제가 인기",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "애플과 삼성의 기술 경쟁",
+      "summary": "애플과 삼성의 기술 경쟁이 계속해서 치열해지고 있으며, 최근에 애플이 새로운 아이폰을 출시하고 삼성도 새로운 기술을 개발하고 있다.",
+      "post_count": 4,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 주제가 일부 인기",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "한국의 정치와 경제",
+      "summary": "한국의 정치와 경제에 대한 관심이 높아지고 있으며, 최근에 대통령과 정치인들의 활동이 많이 논의되고 있다.",
+      "post_count": 6,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "트럼프",
-      "count": 5,
+      "count": 7,
       "sentiment": "negative",
-      "context": "트럼프 관련 뉴스"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "AI 기술 개발"
+      "context": "트럼프의 강경한 태도에 대한 반응"
     },
     {
       "keyword": "애플",
-      "count": 3,
+      "count": 4,
       "sentiment": "neutral",
-      "context": "애플 관련 뉴스"
+      "context": "애플의 새로운 기술과 제품"
+    },
+    {
+      "keyword": "한국",
+      "count": 6,
+      "sentiment": "mixed",
+      "context": "한국의 정치와 경제에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발",
-      "action": "투자",
+      "insight": "트럼프의 강경한 태도는 글로벌 경제에 영향을 미칠 수 있다.",
+      "action": "글로벌 경제 동향을 주시하고 대응策을 마련해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제",
-      "action": "분석",
+      "insight": "애플과 삼성의 기술 경쟁은 소비자에게 새로운 기회를 제공할 수 있다.",
+      "action": "새로운 기술과 제품을 개발하고 마케팅해야 한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "한국의 정치와 경제는 글로벌 경제에 영향을 미칠 수 있다.",
+      "action": "한국의 정치와 경제 동향을 주시하고 대응策을 마련해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치, 기술, 경제 관련 주제가 인기입니다. 트럼프, 이란, 미국-이란 종전 협상 등 정치 관련 주제가 많은 관심을 받고 있습니다. 또한 AI, 애플, 삼성전자, 테슬라 등 기술 관련 주제도 인기입니다. 경제 관련 주제는 일부 인기입니다. 키워드 분석 결과, 트럼프, AI, 애플 등이 많이 언급되고 있습니다. 전반적인 기분은 중립적입니다. 비즈니스 인사이트로는 AI 기술 개발에 투자하는 것이 중요합니다. 또한 정치 관련 주제를 분석하는 것이 필요합니다.",
-  "analyzed_at": "2026-04-11T19:00:33.789Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 트럼프와 이란의 관계, 애플과 삼성의 기술 경쟁, 한국의 정치와 경제가 주요 관심사로 나타났다. 이러한 트렌드와 키워드는 글로벌 경제와 정치에 영향을 미칠 수 있으며, 기업과 정부는 이러한 동향을 주시하고 대응策을 마련해야 한다. 또한, 새로운 기술과 제품을 개발하고 마케팅하는 것이 중요하다. 중립적이지만 약간 부정적인 분위기이므로, 기업과 정부는 이러한 분위기를 고려하여 전략을 수립해야 한다.",
+  "analyzed_at": "2026-04-11T20:30:33.989Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
