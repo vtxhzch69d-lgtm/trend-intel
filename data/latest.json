@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프와 미국 정치",
-      "summary": "트럼프의 최근 활동과 미국 정치 상황에 대한 논의",
+      "topic": "정치",
+      "summary": "트럼프, 이란, 미국-이란 종전 협상 등 정치 관련 주제가 인기",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제와 산업",
-      "summary": "경제와 산업 관련 뉴스 및 논의",
+      "topic": "기술",
+      "summary": "AI, 애플, 삼성전자, 테슬라 등 기술 관련 주제가 인기",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술과 과학",
-      "summary": "최신 기술과 과학 관련 뉴스 및 논의",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 관련 주제가 일부 인기",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "트럼프",
-      "count": 15,
+      "count": 5,
       "sentiment": "negative",
-      "context": "트럼프의 최근 활동과 미국 정치 상황에 대한 논의"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제와 산업 관련 뉴스 및 논의"
+      "context": "트럼프 관련 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술과 과학 관련 뉴스 및 논의"
+      "context": "AI 기술 개발"
+    },
+    {
+      "keyword": "애플",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "애플 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "트럼프의 활동이 미국 정치와 경제에 미치는 영향",
-      "action": "미국 정치와 경제 상황을 주시",
+      "insight": "AI 기술 개발",
+      "action": "투자",
       "priority": "high"
     },
     {
-      "insight": "최신 기술과 과학의 발전이 산업에 미치는 영향",
-      "action": "최신 기술과 과학을 연구하고 적용",
+      "insight": "정치 관련 주제",
+      "action": "분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 트럼프와 미국 정치, 경제와 산업, 기술과 과학을 중심으로 형성되고 있습니다. 트럼프의 활동이 미국 정치와 경제에 미치는 영향은 높은 우선순위를 가지고 있으며, 최신 기술과 과학의 발전이 산업에 미치는 영향은 중간 우선순위를 가지고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-11T17:00:33.798Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치, 기술, 경제 관련 주제가 인기입니다. 트럼프, 이란, 미국-이란 종전 협상 등 정치 관련 주제가 많은 관심을 받고 있습니다. 또한 AI, 애플, 삼성전자, 테슬라 등 기술 관련 주제도 인기입니다. 경제 관련 주제는 일부 인기입니다. 키워드 분석 결과, 트럼프, AI, 애플 등이 많이 언급되고 있습니다. 전반적인 기분은 중립적입니다. 비즈니스 인사이트로는 AI 기술 개발에 투자하는 것이 중요합니다. 또한 정치 관련 주제를 분석하는 것이 필요합니다.",
+  "analyzed_at": "2026-04-11T19:00:33.789Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
