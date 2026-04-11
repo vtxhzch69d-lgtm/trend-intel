@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프",
-      "summary": "트럼프의 최근 활동과 계획에 대한 논의",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "이스라엘-팔레스타인 충돌",
-      "summary": "이스라엘과 팔레스타인의 최근 충돌과 관련된 논의",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련된 뉴스 및 논의",
+      "topic": "이스라엘-팔레스타인 갈등",
+      "summary": "이스라엘과 팔레스타인의 갈등이 계속되고 있으며, 이스라엘의 팔레스타인 어린이 사형 가능성과 관련된 게시글이 많습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 사회 문제",
+      "summary": "정치와 사회 문제 관련된 게시글이 많으며, 대통령의 이스라엘 관련 발언과 국익을 따지는 사람들에 대한 게시글이 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "기술과 과학 관련된 게시글이 많으며, AI와 관련된 게시글이 많습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 7,
+      "keyword": "이스라엘",
+      "count": 15,
       "sentiment": "negative",
-      "context": "트럼프의 최근 활동과 계획에 대한 논의"
+      "context": "이스라엘과 팔레스타인의 갈등"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 AI 기술과 관련된 뉴스 및 논의"
+      "context": "기술과 과학"
     },
     {
-      "keyword": "이스라엘",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "이스라엘과 팔레스타인의 최근 충돌과 관련된 논의"
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치와 사회 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
+    "positive": 20,
+    "negative": 30,
     "neutral": 10,
-    "overall_mood": "부정적인 감정의 우세"
+    "overall_mood": "부정적인 감정의 게시글이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "트럼프의 활동과 계획에 대한 논의가 증가하고 있다",
-      "action": "트럼프와 관련된 뉴스 및 논의를 주시한다",
+      "insight": "이스라엘-팔레스타인 갈등은 계속될 것으로 예상됩니다.",
+      "action": "관련된 게시글을 주시하고, 필요에 따라 대응합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 최근에 많은 주목을 받고 있다",
-      "action": "최신 AI 기술과 관련된 뉴스 및 논의를 주시한다",
+      "insight": "AI와 관련된 기술은 계속 발전할 것으로 예상됩니다.",
+      "action": "AI와 관련된 기술을 연구하고, 사업에 적용합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 트럼프와 관련된 논의와 최신 AI 기술에 대한 관심이 증가하고 있다. 또한 이스라엘과 팔레스타인의 충돌과 관련된 논의도 증가하고 있다. 이러한 트렌드는 정치, 기술, 국제 관계 등 다양한 분야에서 중요한 이슈가 되고 있다. 따라서 이러한 트렌드를 주시하고, 관련된 뉴스 및 논의를 분석하여 사업에 활용할 수 있는 기회를 찾는 것이 중요하다.",
-  "analyzed_at": "2026-04-11T00:00:34.028Z",
+  "narrative": "최근의 트렌드는 이스라엘-팔레스타인 갈등과 정치 및 사회 문제가 주를 이루고 있습니다. 또한, 기술과 과학 관련된 게시글도 많으며, AI와 관련된 게시글이 특히 많습니다. 이러한 트렌드는 기업과 정부의 정책과 결정에 영향을 줄 수 있습니다. 따라서, 이러한 트렌드를 주시하고, 필요에 따라 대응하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-11T01:30:34.350Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
