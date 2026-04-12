@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히 애플, 삼성, 구글 등의 기술 회사와 관련된 뉴스가 많이 등장하고 있습니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 주제도 많이 обсужд되고 있습니다. 특히 이란과 미국의 협상, 한국의 부동산 시장, 삼전과 하닉의 주가 등이 많이 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "부동산",
+      "summary": "부동산 하락요인이 없는 건 아니지만 강력합니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "생활 및 문화",
-      "summary": "생활 및 문화 관련 주제도 일부 обсужд되고 있습니다. 특히 윤도현, 이휘재, 우크라이나와 러시아의 전쟁 등이 일부 논의되고 있습니다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 의견이 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 의견이 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 뉴스"
-    },
-    {
-      "keyword": "삼전",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "삼성전자 주가 상승과 관련된 뉴스"
-    },
-    {
-      "keyword": "이란",
-      "count": 5,
+      "keyword": "부동산",
+      "count": 7,
       "sentiment": "negative",
-      "context": "이란과 미국의 협상과 관련된 뉴스"
+      "context": "부동산 하락요인"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "경제",
+      "count": 9,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 가속화되고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "부동산 시장의 하락요인을 분석하여 대응책을 마련해야 합니다.",
+      "action": "부동산 시장 분석",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스가 많이 논의되고 있습니다.",
-      "action": "경제 및 정치 관련 리스크 관리",
+      "insight": "AI 기술의 발전을 활용하여 비즈니스 모델을 개선해야 합니다.",
+      "action": "AI 기술 도입",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스와 의견을 분석하여 비즈니스 전략을 수립해야 합니다.",
+      "action": "경제 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술, 경제 및 정치, 생활 및 문화 관련 주제가 많이 обсужд되고 있습니다. AI 기술의 발전이 가속화되고 있으며, 경제 및 정치 관련 뉴스가 많이 논의되고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델 개발과 리스크 관리를 통해 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-04-12T04:00:33.962Z",
-  "post_count": 62,
+  "narrative": "최근 부동산 시장의 하락요인이 논란이 되고 있습니다. 부동산 시장의 하락요인은 다양한 요인으로 인해 발생할 수 있습니다. 따라서 부동산 시장의 하락요인을 분석하여 대응책을 마련해야 합니다. 또한, AI 기술의 발전을 활용하여 비즈니스 모델을 개선해야 합니다. AI 기술은 다양한 산업 분야에서 활용될 수 있습니다. 마지막으로, 경제 관련 뉴스와 의견을 분석하여 비즈니스 전략을 수립해야 합니다. 경제는 다양한 요인으로 인해 변동할 수 있으므로, 경제 분석을 통해 비즈니스 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-04-12T05:30:33.763Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
