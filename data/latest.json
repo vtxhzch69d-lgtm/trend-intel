@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "호르무즈 해협",
-      "summary": "호르무즈 해협이 영구히 이전처럼 개방되지 않을 가능성도 고려해야 될것 같네요. 트럼프의 전쟁이 미국을 약화시키는 네 가지 방식",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "반도체",
-      "summary": "반도체 성과급 -&gt; 집값상승 -&gt; 정권교체. 日소뱅·소니·혼다·NEC 뭉쳐 AI개발사 설립…'美中 추격'",
-      "post_count": 3,
-      "sentiment": "neutral",
+      "topic": "정치 및 경제",
+      "summary": "최근의 정치 및 경제 뉴스와 관련된 게시글이 많습니다. 주요 뉴스에는 트럼프의 이란 회담, 재생에너지 투자, 반도체 산업의 성과급 등이 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "트럼프",
-      "summary": "트럼프 '불법통행료 지불하면 공해상에서 안전 항해 못할 것'. 트럼프의 전쟁이 미국을 약화시키는 네 가지 방식",
-      "post_count": 4,
-      "sentiment": "negative",
+      "topic": "테크 및 과학",
+      "summary": "테크 및 과학 관련 뉴스와 관련된 게시글이 많습니다. 주요 뉴스에는 AI 개발, 전기차 등록, 스페이스X 공모 등이 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "스포츠 관련 뉴스와 관련된 게시글이 많습니다. 주요 뉴스에는 토트넘의 강등, BTS의 콘서트 등이 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "호르무즈 해협",
+      "keyword": "트럼프",
       "count": 5,
       "sentiment": "negative",
-      "context": "호르무즈 해협이 영구히 이전처럼 개방되지 않을 가능성도 고려해야 될것 같네요"
+      "context": "이란 회담과 관련된 뉴스"
     },
     {
-      "keyword": "반도체",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "반도체 성과급 -&gt; 집값상승 -&gt; 정권교체"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "테크 및 과학 관련 뉴스"
     },
     {
-      "keyword": "트럼프",
+      "keyword": "전기차",
       "count": 4,
-      "sentiment": "negative",
-      "context": "트럼프 '불법통행료 지불하면 공해상에서 안전 항해 못할 것'"
+      "sentiment": "positive",
+      "context": "테크 및 과학 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "호르무즈 해협의 안정성은 글로벌 경제에 큰 영향을 미칠 수 있습니다",
-      "action": "해당 지역의 정치 및 경제 상황을 주시하여 사업 전략을 수립해야 합니다",
+      "insight": "테크 및 과학 관련 뉴스가 증가하고 있습니다.",
+      "action": "테크 및 과학 관련 뉴스에 대한 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업은 기술 발전과 경제 성장에 중요한 역할을 합니다",
-      "action": "반도체 산업의 동향을 분석하여 사업 기회를 발굴해야 합니다",
+      "insight": "정치 및 경제 뉴스가 혼재되고 있습니다.",
+      "action": "정치 및 경제 뉴스에 대한 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 호르무즈 해협과 트럼프의 전쟁이 미국을 약화시키는 네 가지 방식이 주요 관심사로 나타났습니다. 또한, 반도체 산업의 동향과 기술 발전이 경제 성장에 중요한 역할을 하는 것으로 분석되었습니다. 이러한 정보를 바탕으로 사업 전략을 수립하고, 시장의 동향을 주시하여 기회를 발굴해야 합니다.",
-  "analyzed_at": "2026-04-12T14:30:33.955Z",
+  "narrative": "최근의 트렌드는 테크 및 과학 관련 뉴스가 증가하고 있습니다. AI 개발, 전기차 등록, 스페이스X 공모 등이 주요 뉴스입니다. 정치 및 경제 뉴스도 혼재되고 있지만, 테크 및 과학 관련 뉴스가 더 많은 관심을 받고 있습니다. 마케터는 테크 및 과학 관련 뉴스에 대한 마케팅 전략을 수립해야 합니다. 또한, 정치 및 경제 뉴스에 대한 마케팅 전략도 수립해야 합니다. 전체적으로 중립적인 분위기이지만, 테크 및 과학 관련 뉴스가 더 많은 관심을 받고 있습니다.",
+  "analyzed_at": "2026-04-12T16:00:33.860Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
