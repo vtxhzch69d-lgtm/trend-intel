@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 경제",
-      "summary": "최근의 정치 및 경제 뉴스와 관련된 게시글이 많습니다. 주요 뉴스에는 트럼프의 이란 회담, 재생에너지 투자, 반도체 산업의 성과급 등이 있습니다.",
-      "post_count": 15,
+      "topic": "국제 정치",
+      "summary": "이란과 미국의 회담에서 핵 제외한 대부분의 요구를 얻어냈다는 소식과 트럼프의 호르무즈 해협 봉쇄 계획이 논란이 되고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "반도체 성과급과 집값 상승이 정권 교체와 관련이 있을 수 있다는 의견과 재생 에너지에 대한 투자가 필요하다는 의견이 있다.",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크 및 과학",
-      "summary": "테크 및 과학 관련 뉴스와 관련된 게시글이 많습니다. 주요 뉴스에는 AI 개발, 전기차 등록, 스페이스X 공모 등이 있습니다.",
-      "post_count": 12,
+      "topic": "테크",
+      "summary": "애플의 아이폰18 프로에 대한 루머와 테슬라의 FSD 수퍼바이즈드가 네덜란드에서 승인되었다는 소식이 있다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "스포츠",
-      "summary": "스포츠 관련 뉴스와 관련된 게시글이 많습니다. 주요 뉴스에는 토트넘의 강등, BTS의 콘서트 등이 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
+      "keyword": "이란",
       "count": 5,
       "sentiment": "negative",
-      "context": "이란 회담과 관련된 뉴스"
+      "context": "이란과 미국의 회담과 호르무즈 해협 봉쇄 계획"
     },
     {
-      "keyword": "AI",
-      "count": 8,
+      "keyword": "반도체",
+      "count": 3,
       "sentiment": "positive",
-      "context": "테크 및 과학 관련 뉴스"
+      "context": "반도체 성과급과 집값 상승"
     },
     {
-      "keyword": "전기차",
-      "count": 4,
+      "keyword": "테슬라",
+      "count": 2,
       "sentiment": "positive",
-      "context": "테크 및 과학 관련 뉴스"
+      "context": "테슬라의 FSD 수퍼바이즈드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 15,
+    "negative": 20,
     "neutral": 25,
-    "overall_mood": "중립적"
+    "overall_mood": "부정적인 감정이 조금 더 강한 중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "테크 및 과학 관련 뉴스가 증가하고 있습니다.",
-      "action": "테크 및 과학 관련 뉴스에 대한 마케팅 전략을 수립해야 합니다.",
+      "insight": "국제 정치와 경제에 대한 관심이 높아지고 있다.",
+      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 경제 뉴스가 혼재되고 있습니다.",
-      "action": "정치 및 경제 뉴스에 대한 마케팅 전략을 수립해야 합니다.",
+      "insight": "테크 관련된 뉴스가 많이 등장하고 있다.",
+      "action": "테크 관련된 뉴스를 제공하여 사용자의 관심을 끌어야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 테크 및 과학 관련 뉴스가 증가하고 있습니다. AI 개발, 전기차 등록, 스페이스X 공모 등이 주요 뉴스입니다. 정치 및 경제 뉴스도 혼재되고 있지만, 테크 및 과학 관련 뉴스가 더 많은 관심을 받고 있습니다. 마케터는 테크 및 과학 관련 뉴스에 대한 마케팅 전략을 수립해야 합니다. 또한, 정치 및 경제 뉴스에 대한 마케팅 전략도 수립해야 합니다. 전체적으로 중립적인 분위기이지만, 테크 및 과학 관련 뉴스가 더 많은 관심을 받고 있습니다.",
-  "analyzed_at": "2026-04-12T16:00:33.860Z",
+  "narrative": "현재의 트렌드는 국제 정치와 경제에 대한 관심이 높아지고 있다. 특히 이란과 미국의 회담과 호르무즈 해협 봉쇄 계획이 논란이 되고 있다. 또한 테크 관련된 뉴스가 많이 등장하고 있다. 이러한 트렌드를 반영하여 관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 한다. 또한 사용자의 감정과 관심을 분석하여 맞춤형 서비스를 제공해야 한다.",
+  "analyzed_at": "2026-04-12T17:30:34.054Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
