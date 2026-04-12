@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산",
-      "summary": "부동산 하락요인이 없는 건 아니지만 강력합니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용 사례",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 의견이 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치 및 경제",
+      "summary": "정치 및 경제 관련 뉴스와 논평",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 의견이 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "기술 및 과학",
+      "summary": "신기술과 과학적 발견",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "부동산 하락요인"
-    },
-    {
       "keyword": "AI",
-      "count": 12,
+      "count": 25,
       "sentiment": "positive",
       "context": "AI 기술의 발전"
     },
     {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치 관련 논평"
+    },
+    {
       "keyword": "경제",
-      "count": 9,
+      "count": 10,
       "sentiment": "neutral",
       "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 시장의 하락요인을 분석하여 대응책을 마련해야 합니다.",
-      "action": "부동산 시장 분석",
+      "insight": "AI 기술의 발전",
+      "action": "투자 및 연구",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전을 활용하여 비즈니스 모델을 개선해야 합니다.",
-      "action": "AI 기술 도입",
+      "insight": "정치 및 경제의 불확실성",
+      "action": "위험 관리",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 뉴스와 의견을 분석하여 비즈니스 전략을 수립해야 합니다.",
-      "action": "경제 분석",
-      "priority": "medium"
+      "insight": "신기술의 등장",
+      "action": "기회 탐색",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 부동산 시장의 하락요인이 논란이 되고 있습니다. 부동산 시장의 하락요인은 다양한 요인으로 인해 발생할 수 있습니다. 따라서 부동산 시장의 하락요인을 분석하여 대응책을 마련해야 합니다. 또한, AI 기술의 발전을 활용하여 비즈니스 모델을 개선해야 합니다. AI 기술은 다양한 산업 분야에서 활용될 수 있습니다. 마지막으로, 경제 관련 뉴스와 의견을 분석하여 비즈니스 전략을 수립해야 합니다. 경제는 다양한 요인으로 인해 변동할 수 있으므로, 경제 분석을 통해 비즈니스 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-04-12T05:30:33.763Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 적용 사례를 중심으로 형성되고 있습니다. 정치 및 경제 관련 뉴스와 논평도 많은 관심을 받고 있습니다. 기술 및 과학 분야에서도 신기술과 과학적 발견이 주목을 받고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고 기회를 탐색할 수 있습니다.",
+  "analyzed_at": "2026-04-12T07:00:33.497Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
