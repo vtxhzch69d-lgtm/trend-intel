@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "이란-미국 협상",
-      "summary": "이란과 미국의 협상이 시작되었으며, 양측은 앞으로 파키스탄과 이란, 미국 3자 회담으로 진행될 예정이다. 협상은 종전 협상을 위한 첫 단계로 보인다.",
+      "summary": "이란과 미국의 협상이 진행 중이며, 양측은 긍정적인 분위기를 보이고 있다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테슬라와 전기차",
-      "summary": "테슬라의 FSD 수퍼바이즈드가 네덜란드에서 승인되었다. 이는 유럽 시장에서 테슬라의 확장에 중요한 단계로 보인다.",
-      "post_count": 2,
-      "sentiment": "positive",
+      "topic": "애플-삼성전자 소송",
+      "summary": "애플과 삼성전자가 특허 소송을 진행 중이며, 애플이 삼성전자에 대한 정보 요구를 하고 있다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 관련된 기술들이 빠르게 발전하고 있다. 애플, 구글, 삼성전자 등 주요 기업들이 AI 관련 기술을 개발하고 있다.",
-      "post_count": 10,
+      "topic": "테슬라-유럽 시장 확장",
+      "summary": "테슬라가 유럽 시장에 진출하며, 네덜란드에서 승인을 받았다.",
+      "post_count": 2,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이란",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "이란과 미국의 협상"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "이란-미국 협상"
+    },
+    {
+      "keyword": "애플",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "애플-삼성전자 소송"
     },
     {
       "keyword": "테슬라",
-      "count": 2,
+      "count": 5,
       "sentiment": "positive",
-      "context": "테슬라의 FSD 수퍼바이즈드"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI와 관련된 기술"
+      "context": "테슬라-유럽 시장 확장"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
+    "positive": 20,
+    "negative": 15,
     "neutral": 10,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "overall_mood": "긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "이란-미국 협상이 성공할 경우 중동 지역의 안정성이 향상될 수 있다.",
-      "action": "중동 지역의 시장 동향을 주시하고, 기회를 찾기 위해 준비한다.",
+      "insight": "이란-미국 협상이 성공적으로 진행되면, 중동 시장에 긍정적인 영향을 미칠 수 있다.",
+      "action": "중동 시장에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "테슬라의 FSD 수퍼바이즈드가 유럽 시장에서 성공할 경우, 전기차 시장의 경쟁이 심화될 수 있다.",
-      "action": "전기차 시장의 동향을 주시하고, 경쟁력을 강화하기 위해 노력한다.",
+      "insight": "애플-삼성전자 소송이 장기화되면, 두 회사의 경쟁력에 부정적인 영향을 미칠 수 있다.",
+      "action": "소송에 대한 대비책 마련",
       "priority": "medium"
     },
     {
-      "insight": "AI와 관련된 기술들이 빠르게 발전하고 있다.",
-      "action": "AI와 관련된 기술을 개발하고, 이를 사업에 적용하기 위해 노력한다.",
-      "priority": "high"
+      "insight": "테슬라의 유럽 시장 진출이 성공적으로 진행되면, 전기자동차 시장에 긍정적인 영향을 미칠 수 있다.",
+      "action": "전기자동차 시장에 대한 투자 증가",
+      "priority": "low"
     }
   ],
-  "narrative": "이번 주의 트렌드는 이란-미국 협상, 테슬라의 FSD 수퍼바이즈드, 그리고 AI와 관련된 기술들이 주도했다. 이란-미국 협상은 중동 지역의 안정성을 향상시키는 데 중요한 역할을 할 수 있다. 테슬라의 FSD 수퍼바이즈드는 유럽 시장에서 테슬라의 확장에 중요한 단계로 보인다. AI와 관련된 기술들은 빠르게 발전하고 있으며, 이를 사업에 적용하기 위해 노력해야 한다. 중동 지역의 시장 동향을 주시하고, 전기차 시장의 경쟁력을 강화하기 위해 노력해야 한다. 또한, AI와 관련된 기술을 개발하고, 이를 사업에 적용하기 위해 노력해야 한다.",
-  "analyzed_at": "2026-04-11T23:30:34.587Z",
+  "narrative": "이란과 미국의 협상이 진행 중이며, 양측은 긍정적인 분위기를 보이고 있다. 애플과 삼성전자는 특허 소송을 진행 중이며, 애플이 삼성전자에 대한 정보 요구를 하고 있다. 테슬라가 유럽 시장에 진출하며, 네덜란드에서 승인을 받았다. 이러한 뉴스들은 중동 시장, 전기자동차 시장, 그리고 기술 산업에 긍정적인 영향을 미칠 수 있다. 그러나 소송이 장기화되면, 두 회사의 경쟁력에 부정적인 영향을 미칠 수 있다. 따라서, 중동 시장과 전기자동차 시장에 대한 투자 증가, 그리고 소송에 대한 대비책 마련이 필요하다.",
+  "analyzed_at": "2026-04-12T01:00:34.320Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
