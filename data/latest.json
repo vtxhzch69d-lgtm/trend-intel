@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "하정우 수석",
-      "summary": "하정우 수석의 정치권 관련 언급과 출마 요청에 대한 논의",
+      "topic": "정치",
+      "summary": "이재명 대통령과 관련된 다양한 정치적 이슈가 논의되고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련 산업의 동향",
-      "post_count": 15,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 논의와 이슈",
-      "post_count": 20,
-      "sentiment": "negative",
+      "topic": "테슬라",
+      "summary": "테슬라의 자율주행 기술과 관련된 뉴스가 있습니다.",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 다양한 뉴스가 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "하정우",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "하정우 수석의 정치권 관련 언급"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "대통령과 관련된 정치적 이슈"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "자율주행 기술과 관련된 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련 산업의 동향"
-    },
-    {
-      "keyword": "정치",
-      "count": 25,
-      "sentiment": "negative",
-      "context": "정치 및 사회 관련 논의와 이슈"
+      "context": "AI 기술과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 관련 산업의 성장에 기여할 수 있다",
-      "action": "AI 기술의 발전을 주시하고 관련 산업의 동향을 분석한다",
+      "insight": "AI 기술은 다양한 산업에서 적용될 수 있습니다.",
+      "action": "AI 기술을 연구하고 개발하세요.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 논의는 소비자의 감정에 영향을 줄 수 있다",
-      "action": "정치 및 사회 관련 논의를 주시하고 소비자의 감정을 분석한다",
+      "insight": "테슬라의 자율주행 기술은 자동차 산업을 혁신할 수 있습니다.",
+      "action": "테슬라의 자율주행 기술을 연구하고 개발하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 하정우 수석의 정치권 관련 언급과 AI 기술의 발전이 주를 이루고 있다. 정치 및 사회 관련 논의도 활발하게 진행되고 있다. 이러한 트렌드는 관련 산업의 성장과 소비자의 감정에 영향을 줄 수 있다. 따라서 이러한 트렌드를 주시하고 분석하는 것이 중요하다. 또한, AI 기술의 발전을 주시하고 관련 산업의 동향을 분석하는 것이 필요하다. 정치 및 사회 관련 논의를 주시하고 소비자의 감정을 분석하는 것도 중요하다.",
-  "analyzed_at": "2026-04-12T08:30:33.768Z",
+  "narrative": "최근의 트렌드는 정치적 이슈와 AI 기술이 주를 이루고 있습니다. 이재명 대통령과 관련된 다양한 정치적 이슈가 논의되고 있으며, AI 기술과 관련된 뉴스가 많습니다. 테슬라의 자율주행 기술도 주목할 만한 뉴스입니다. 이러한 트렌드를 분석하여 사업적 인사이트를 얻을 수 있습니다. AI 기술은 다양한 산업에서 적용될 수 있으며, 테슬라의 자율주행 기술은 자동차 산업을 혁신할 수 있습니다. 이러한 인사이트를 바탕으로 사업을 개발하고 확장할 수 있습니다.",
+  "analyzed_at": "2026-04-12T10:00:33.596Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
