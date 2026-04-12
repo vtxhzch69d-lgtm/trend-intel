@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "헝가리 총리 오르반의 패배와 야권의 승리 예상, 한국의 정치 상황",
+      "topic": "이란-이란 관계",
+      "summary": "이란과 이란의 관계가緊張하고 있으며, 트럼프가 호르무즈 해협을 봉쇄하겠다는 발표가 나왔습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "애플, 테슬라, 네이버 등의 기술 뉴스와 트렌드",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "헝가리 정권 교체",
+      "summary": "헝가리에서 16년 만에 정권 교체가 발생했습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "국제 경제 상황과 한국의 경제 뉴스",
-      "post_count": 12,
-      "sentiment": "neutral",
+      "topic": "테슬라와 전기차",
+      "summary": "테슬라가 네덜란드에서 첫 고객에게 FSD 배포를 시작했습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "오르반",
-      "count": 5,
+      "keyword": "이란",
+      "count": 15,
       "sentiment": "negative",
-      "context": "헝가리 총리"
+      "context": "이란-이란 관계"
     },
     {
       "keyword": "테슬라",
-      "count": 3,
+      "count": 10,
       "sentiment": "positive",
-      "context": "전기차와 자율주행 기술"
+      "context": "전기차와 자율주행"
     },
     {
-      "keyword": "애플",
-      "count": 2,
+      "keyword": "헝가리",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "아이폰과 아이패드"
+      "context": "정권 교체"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한국의 정치 상황은 불안정하다",
-      "action": "정치 뉴스와 트렌드를 주시한다",
+      "insight": "이란-이란 관계의緊張은 유가 상승으로 이어질 수 있습니다.",
+      "action": "유가 변동에 대비하여 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "테크 산업은 빠르게 성장하고 있다",
-      "action": "테크 뉴스와 트렌드를 주시한다",
+      "insight": "헝가리 정권 교체는 동유럽의 정치적 불안정성을 의미합니다.",
+      "action": "헝가리와의 교역을 주의깊게 모니터링해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 상황은 안정적이다",
-      "action": "경제 뉴스와 트렌드를 주시한다",
-      "priority": "low"
+      "insight": "테슬라의 전기차와 자율주행 기술은 미래의 교통 수단으로 주목받고 있습니다.",
+      "action": "테슬라와의 협력을 통해 새로운 비즈니스 기회를 탐색해야 합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치 상황은 헝가리 총리 오르반의 패배와 야권의 승리 예상으로 인해 불안정하다. 테크 산업은 애플, 테슬라 등의 기술 뉴스와 트렌드가 주목을 받고 있다. 경제 상황은 안정적이지만 국제 경제 상황을 주시해야 한다. 이러한 상황을 고려하여 마케팅 전략을 수립해야 한다.",
-  "analyzed_at": "2026-04-12T20:30:33.729Z",
+  "narrative": "이번 주의 트렌드는 이란-이란 관계의緊張과 헝가리 정권 교체, 테슬라의 전기차와 자율주행 기술이 주목받고 있습니다. 이러한 트렌드는 비즈니스에 영향을 미칠 수 있으며, 유가 변동, 정치적 불안정성, 새로운 기술의 등장 등 다양한 요인을 고려하여 전략을 수립해야 합니다. 또한, 테슬라와의 협력을 통해 새로운 비즈니스 기회를 탐색할 수 있습니다.",
+  "analyzed_at": "2026-04-12T22:30:34.276Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
