@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "폴란드와 한국의 관계",
-      "summary": "폴란드 총리와 한국의 만남, 한-폴란드 정상회담 결과",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "영포티 밈",
+      "summary": "영포티 밈이 클리앙 커뮤니티에서 인기 있는 주제입니다. 사용자들은 이 밈의 의미와 유래에 대해 논의하고 있습니다.",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "AI와 기술",
-      "summary": "AI의 발전과 기술의 진보, 머스크의 새 채팅 앱",
-      "post_count": 8,
+      "summary": "AI와 기술 관련 주제가 클리앙 커뮤니티에서 인기 있습니다. 사용자들은 AI의 발전과 그 영향에 대해 논의하고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치와 경제",
-      "summary": "쌍방울 부정거래, 민주당 공천 현황, 곽튜브 권익위 검토",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "사회와 정치",
+      "summary": "사회와 정치 관련 주제가 클리앙 커뮤니티에서 인기 있습니다. 사용자들은 다양한 사회와 정치 관련 문제에 대해 논의하고 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "폴란드",
+      "keyword": "영포티",
       "count": 5,
       "sentiment": "neutral",
-      "context": "한-폴란드 정상회담"
+      "context": "영포티 밈과 관련된 키워드입니다."
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI의 발전과 기술의 진보"
+      "context": "AI와 기술 관련 주제의 키워드입니다."
     },
     {
       "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치와 경제 관련 뉴스"
+      "count": 8,
+      "sentiment": "negative",
+      "context": "사회와 정치 관련 주제의 키워드입니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기ですが, 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "폴란드와 한국의 관계는 정치와 경제적으로 중요하다",
-      "action": "폴란드와의 관계를 강화하기 위한 전략 수립",
+      "insight": "영포티 밈의 인기",
+      "action": "마케팅 캠페인에 영포티 밈을 활용할 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI와 기술의 발전은 산업을変革할 수 있다",
-      "action": "AI와 기술의 발전을 위한 투자와 연구",
+      "insight": "AI와 기술의 발전",
+      "action": "AI와 기술 관련 제품이나 서비스를 개발할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제는 복잡하게 얽혀 있다",
-      "action": "정치와 경제의 동향을 주시하고 대응하기 위한 전략 수립",
-      "priority": "medium"
+      "insight": "사회와 정치 관련 문제",
+      "action": "사회와 정치 관련 문제에 대한 대응 전략을 개발할 수 있습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 폴란드와 한국의 관계, AI와 기술, 정치와 경제가 주요 주제로 나타났습니다. 폴란드와 한국의 관계는 정치와 경제적으로 중요하며, AI와 기술의 발전은 산업을変革할 수 있습니다. 정치와 경제는 복잡하게 얽혀 있으므로 주시하고 대응하기 위한 전략 수립이 필요합니다. 이러한 트렌드와 인사이트를 바탕으로 사업 전략을 수립하고 대응하기 위한 액션 플랜을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-13T11:00:34.726Z",
+  "narrative": "클리앙 커뮤니티의 트렌드는 다양한 주제를 다루고 있습니다. 영포티 밈, AI와 기술, 사회와 정치 관련 문제 등이 인기 있는 주제입니다. 사용자들은 이러한 주제에 대해 논의하고 있습니다. 마케터들은 이러한 트렌드를 활용하여 마케팅 캠페인을 개발할 수 있습니다. 또한, AI와 기술 관련 제품이나 서비스를 개발하여 시장의需求을 충족시킬 수 있습니다. 그러나, 사회와 정치 관련 문제에 대한 대응 전략을 개발하여 부정적인 영향을 최소화할 수 있습니다.",
+  "analyzed_at": "2026-04-13T13:30:33.972Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
