@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 증가하고 있다. 이는 기술의 발전과 함께 새로운 기회와 도전을 가져올 것으로 예상된다.",
+      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
       "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "국제 정치",
-      "summary": "국제 정치 상황이 복잡해지며 각국이 서로의 이익을 위해 다양한 전략을 취하고 있다. 이는 글로벌 경제와 정치에 큰 영향을 미칠 수 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 발전이 빠르게 진행되고 있다. 이는 기술 산업의 발전과 함께 새로운 기회와 도전을 가져올 것으로 예상된다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 경제",
+      "summary": "정치와 경제에 관한 다양한 의견과 분석",
+      "post_count": 20,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "테크 및 가전",
+      "summary": "최신 테크 및 가전 제품에 관한 리뷰와 소식",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
       "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 그에 따른 사회적 영향"
     },
     {
-      "keyword": "국제 정치",
-      "count": 15,
+      "keyword": "정치",
+      "count": 20,
       "sentiment": "negative",
-      "context": "국제 정치 상황이 복잡해지며 각국이 서로의 이익을 위해 다양한 전략을 취하고 있다"
+      "context": "정치와 경제에 관한 다양한 의견과 분석"
     },
     {
-      "keyword": "기술 뉴스",
-      "count": 30,
+      "keyword": "테크",
+      "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 발전이 빠르게 진행되고 있다"
+      "context": "최신 테크 및 가전 제품에 관한 리뷰와 소식"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "긍정적"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전을 이용한 새로운 비즈니스 기회",
-      "action": "AI 기술을 이용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "국제 정치 상황의 복잡화",
-      "action": "글로벌 경제와 정치에 대한 철저한 분석과 대비",
-      "priority": "high"
-    },
-    {
-      "insight": "기술 산업의 발전",
-      "action": "최신 기술 뉴스와 발전을 주시하고 새로운 기회를 발굴",
+      "insight": "정치와 경제에 관한 의견과 분석은 사회적 영향이 크다.",
+      "action": "정치와 경제에 관한 의견과 분석을 모니터링하고 대응하기",
       "priority": "medium"
+    },
+    {
+      "insight": "테크 및 가전 제품에 관한 리뷰와 소식은 소비자들의 구매 결정에 영향을 미친다.",
+      "action": "최신 테크 및 가전 제품에 관한 리뷰와 소식을 제공하기",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 뉴스에 따르면, AI 기술의 발전과 국제 정치 상황의 복잡화가 주목을 끌고 있다. 이는 기술 산업의 발전과 함께 새로운 기회와 도전을 가져올 것으로 예상된다. 또한, 글로벌 경제와 정치에 대한 철저한 분석과 대비가 필요하다. 기술 산업의 발전을 주시하고 새로운 기회를 발굴하는 것은 중요한 비즈니스 전략이 될 수 있다.",
-  "analyzed_at": "2026-04-13T16:30:34.371Z",
+  "narrative": "최근의 트렌드에 따르면, AI 기술의 발전과 그에 따른 사회적 영향, 정치와 경제에 관한 다양한 의견과 분석, 최신 테크 및 가전 제품에 관한 리뷰와 소식이 주목을 받고 있다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으며, 비즈니스와 마케팅 전략에 중요한 고려 요소가 될 수 있다. 따라서, AI 기술을 활용한 새로운 비즈니스 모델 개발, 정치와 경제에 관한 의견과 분석을 모니터링하고 대응하기, 최신 테크 및 가전 제품에 관한 리뷰와 소식을 제공하기 등이 중요한 액션이 될 수 있다.",
+  "analyzed_at": "2026-04-13T18:00:34.519Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
