@@ -2,98 +2,72 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 뉴스와 이슈",
+      "summary": "정치 관련 뉴스와 논평",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "最近의 경제 뉴스와 이슈",
-      "post_count": 12,
-      "sentiment": "neutral",
-      "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "最近의 기술 뉴스와 이슈",
-      "post_count": 10,
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "사회",
-      "summary": "最近의 사회 뉴스와 이슈",
-      "post_count": 8,
-      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "국제",
-      "summary": "最近의 국제 뉴스와 이슈",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 7,
-      "sentiment": "positive",
-      "context": "AI의 발전과 적용"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "最近의 경제 뉴스와 이슈"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
+      "keyword": "트럼프",
+      "count": 5,
       "sentiment": "negative",
-      "context": "最近의 정치 뉴스와 이슈"
+      "context": "정치 관련 논평"
     },
     {
-      "keyword": "기술",
+      "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "最近의 기술 뉴스와 이슈"
+      "context": "기술 관련 뉴스"
     },
     {
-      "keyword": "사회",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "最近의 사회 뉴스와 이슈"
+      "keyword": "삼성전자",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 40,
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI의 발전과 적용",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "기술 관련 뉴스가 증가하고 있다",
+      "action": "기술 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "경제의 불안정성",
-      "action": "경제의 불안정성에 대비한 비즈니스 전략 개발",
+      "insight": "정치 관련 논평이 증가하고 있다",
+      "action": "정치 관련 콘텐츠 개발",
       "priority": "medium"
     },
     {
-      "insight": "기술의 발전과 적용",
-      "action": "최신 기술을 활용한 비즈니스 모델 개발",
+      "insight": "경제 관련 뉴스가 감소하고 있다",
+      "action": "경제 관련 콘텐츠 개발",
       "priority": "low"
     }
   ],
-  "narrative": "最近의 뉴스와 이슈는 정치, 경제, 기술, 사회 등 다양한 주제를 다루고 있습니다. AI의 발전과 적용, 경제의 불안정성, 기술의 발전과 적용 등이 주요한 주제입니다. 이러한 주제들은 비즈니스 모델 개발과 전략 수립에 중요한 영향을 미칠 수 있습니다. 따라서, 이러한 주제들을 고려한 비즈니스 전략 개발이 필요합니다.",
-  "analyzed_at": "2026-04-13T08:00:34.620Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, 기술 관련 뉴스와 정치 관련 논평이 증가하고 있는 것으로 나타났다. 또한, 경제 관련 뉴스는 감소하고 있는 것으로 나타났다. 이러한 트렌드에 따라 기술 관련 콘텐츠 개발과 정치 관련 콘텐츠 개발이 필요할 것으로 보인다. 또한, 경제 관련 뉴스의 감소에 대응하여 경제 관련 콘텐츠 개발이 필요할 것으로 보인다.",
+  "analyzed_at": "2026-04-13T09:30:33.897Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
