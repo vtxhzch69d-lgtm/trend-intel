@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "영포티 밈",
-      "summary": "영포티 밈이 클리앙 커뮤니티에서 인기 있는 주제입니다. 사용자들은 이 밈의 의미와 유래에 대해 논의하고 있습니다.",
-      "post_count": 4,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 영향",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 주제가 클리앙 커뮤니티에서 인기 있습니다. 사용자들은 AI의 발전과 그 영향에 대해 논의하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회와 정치",
-      "summary": "사회와 정치 관련 주제가 클리앙 커뮤니티에서 인기 있습니다. 사용자들은 다양한 사회와 정치 관련 문제에 대해 논의하고 있습니다.",
-      "post_count": 15,
+      "topic": "국내 정치",
+      "summary": "정치 관련 뉴스와 의견",
+      "post_count": 10,
       "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테크 뉴스",
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "영포티",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "영포티 밈과 관련된 키워드입니다."
-    },
-    {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI와 기술 관련 주제의 키워드입니다."
+      "count": 25,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 그 영향"
     },
     {
       "keyword": "정치",
-      "count": 8,
+      "count": 15,
       "sentiment": "negative",
-      "context": "사회와 정치 관련 주제의 키워드입니다."
+      "context": "국내 정치 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "테크",
+      "count": 30,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
+    "positive": 30,
+    "negative": 20,
     "neutral": 50,
-    "overall_mood": "중립적인 분위기ですが, 부정적인 감정도 존재합니다."
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "영포티 밈의 인기",
-      "action": "마케팅 캠페인에 영포티 밈을 활용할 수 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "투자와 연구",
+      "priority": "high"
+    },
+    {
+      "insight": "국내 정치의 영향",
+      "action": "의견 수렴과 분석",
       "priority": "medium"
     },
     {
-      "insight": "AI와 기술의 발전",
-      "action": "AI와 기술 관련 제품이나 서비스를 개발할 수 있습니다.",
-      "priority": "high"
-    },
-    {
-      "insight": "사회와 정치 관련 문제",
-      "action": "사회와 정치 관련 문제에 대한 대응 전략을 개발할 수 있습니다.",
+      "insight": "테크 뉴스의 중요성",
+      "action": "최신 정보 수집과 분석",
       "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티의 트렌드는 다양한 주제를 다루고 있습니다. 영포티 밈, AI와 기술, 사회와 정치 관련 문제 등이 인기 있는 주제입니다. 사용자들은 이러한 주제에 대해 논의하고 있습니다. 마케터들은 이러한 트렌드를 활용하여 마케팅 캠페인을 개발할 수 있습니다. 또한, AI와 기술 관련 제품이나 서비스를 개발하여 시장의需求을 충족시킬 수 있습니다. 그러나, 사회와 정치 관련 문제에 대한 대응 전략을 개발하여 부정적인 영향을 최소화할 수 있습니다.",
-  "analyzed_at": "2026-04-13T13:30:33.972Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술과 국내 정치, 테크 뉴스가 주목을 받고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있으며, 국내 정치는 국민들의 관심을 끌고 있습니다. 테크 뉴스는 최신 기술과 트렌드에 대한 정보를 제공하고 있습니다. 이러한 트렌드에 대한 분석과 이해는 비즈니스와 마케팅 전략을 수립하는 데 중요한 역할을 할 것입니다.",
+  "analyzed_at": "2026-04-13T15:00:33.941Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
