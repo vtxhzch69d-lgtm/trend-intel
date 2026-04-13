@@ -1,75 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 경제",
-      "summary": "정치와 경제에 관한 다양한 의견과 분석",
-      "post_count": 20,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판의 글들입니다. 사용자들은 다양한 주제에 대한 의견을 공유하고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크 및 가전",
-      "summary": "최신 테크 및 가전 제품에 관한 리뷰와 소식",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 25,
+      "keyword": "뽐뿌",
+      "count": 50,
       "sentiment": "neutral",
-      "context": "AI 기술의 발전과 그에 따른 사회적 영향"
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "정치",
+      "keyword": "이슈",
       "count": 20,
       "sentiment": "negative",
-      "context": "정치와 경제에 관한 다양한 의견과 분석"
-    },
-    {
-      "keyword": "테크",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "최신 테크 및 가전 제품에 관한 리뷰와 소식"
+      "context": "문제나 논란 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적인 분위기"
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "정치와 경제에 관한 의견과 분석은 사회적 영향이 크다.",
-      "action": "정치와 경제에 관한 의견과 분석을 모니터링하고 대응하기",
+      "insight": "사용자들은 다양한 주제에 대한 의견을 공유하고 있습니다.",
+      "action": "의견을 수집하여 마케팅 전략에 반영",
       "priority": "medium"
     },
     {
-      "insight": "테크 및 가전 제품에 관한 리뷰와 소식은 소비자들의 구매 결정에 영향을 미친다.",
-      "action": "최신 테크 및 가전 제품에 관한 리뷰와 소식을 제공하기",
-      "priority": "low"
+      "insight": "이슈 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "이슈 관련 주제에 대한 대응 전략 수립",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, AI 기술의 발전과 그에 따른 사회적 영향, 정치와 경제에 관한 다양한 의견과 분석, 최신 테크 및 가전 제품에 관한 리뷰와 소식이 주목을 받고 있다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으며, 비즈니스와 마케팅 전략에 중요한 고려 요소가 될 수 있다. 따라서, AI 기술을 활용한 새로운 비즈니스 모델 개발, 정치와 경제에 관한 의견과 분석을 모니터링하고 대응하기, 최신 테크 및 가전 제품에 관한 리뷰와 소식을 제공하기 등이 중요한 액션이 될 수 있다.",
-  "analyzed_at": "2026-04-13T18:00:34.519Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 의견을 공유하는 공간입니다. 사용자들은 자유게시판과 이슈게시판에서 다양한 주제에 대한 의견을 공유하고 있습니다. 그러나 이슈 관련 주제가 많이 обсужд되고 있으며, 부정적인 의견이 많습니다. 따라서 마케터는 사용자들의 의견을 수집하여 마케팅 전략에 반영하고, 이슈 관련 주제에 대한 대응 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-04-13T19:30:34.375Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
