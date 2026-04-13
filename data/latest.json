@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이란-이스라엘 갈등",
-      "summary": "이란과 이스라엘의 갈등이 고조되고 있으며, 이에 따른 국제적 영향이 우려되고 있다. 이란은 미국의 호루무즈 봉쇄에 대응하여 유가가 상승하고 있다.",
+      "topic": "국제 정치",
+      "summary": "헝가리와 이스라엘의 정치 상황, 한국의 국제 관계 등이 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 변동이 크게 나타나고 있으며, 투자자들이 주의를 기울이고 있다. 일부 투자자들은 시장의 불안정성에 대한 우려를 나타내고 있다.",
-      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테슬라와 전기차",
-      "summary": "테슬라와 전기차에 대한 관심이 높아지고 있으며, 관련 뉴스와 정보가 많이 공유되고 있다. 테슬라의 FSD 기술과 전기차의 보급이 주목을 받고 있다.",
-      "post_count": 5,
+      "topic": "경제 및 산업",
+      "summary": "전기차와 반도체 산업의 발전, 기업의 조직 개편 등이 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "AI와 전기차의 발전, 우주 기술 등이 논의되고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "이란-이스라엘 갈등과 관련된 뉴스"
-    },
-    {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "주식 시장의 변동과 관련된 뉴스"
-    },
-    {
-      "keyword": "테슬라",
+      "keyword": "헝가리",
       "count": 5,
+      "sentiment": "neutral",
+      "context": "헝가리와 이스라엘의 정치 상황"
+    },
+    {
+      "keyword": "전기차",
+      "count": 8,
       "sentiment": "positive",
-      "context": "테슬라의 전기차와 FSD 기술에 대한 뉴스"
+      "context": "전기차의 발전과 산업의 성장"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI의 발전과 산업의 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됨"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "이란-이스라엘 갈등이 국제적 영향을 미칠 수 있음",
-      "action": "관련 뉴스와 정보를 주의 깊게 모니터링할 것",
+      "insight": "전기차와 반도체 산업의 성장은 계속될 것",
+      "action": "전기차와 반도체 산업에 투자",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동이 투자자들에게 영향을 미칠 수 있음",
-      "action": "투자자들에게 시장의 불안정성에 대한 정보를 제공할 것",
+      "insight": "AI의 발전은 산업의 변화를 가져올 것",
+      "action": "AI의 적용을 준비",
       "priority": "medium"
-    },
-    {
-      "insight": "테슬라와 전기차에 대한 관심이 높아지고 있음",
-      "action": "관련 제품과 서비스를 개발하고 마케팅할 것",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 이란-이스라엘 갈등과 주식 시장의 변동이 주도하고 있으며, 테슬라와 전기차에 대한 관심도 높아지고 있다. 이러한 트렌드는 국제적 영향을 미칠 수 있으며, 투자자들과 기업들에게 중요한 정보를 제공할 수 있다. 따라서 관련 뉴스와 정보를 주의 깊게 모니터링하고, 투자자들에게 시장의 불안정성에 대한 정보를 제공하며, 관련 제품과 서비스를 개발하고 마케팅할 필요가 있다.",
-  "analyzed_at": "2026-04-13T00:00:34.083Z",
+  "narrative": "현재의 트렌드는 국제 정치, 경제 및 산업, 기술 및 과학을 중심으로 돌아가고 있습니다. 헝가리와 이스라엘의 정치 상황, 전기차와 반도체 산업의 발전, AI의 발전 등이 논의되고 있습니다. 이러한 트렌드는 산업의 성장과 발전에 긍정적인 영향을 미칠 것으로 예상됩니다. 따라서 전기차와 반도체 산업에 투자하고, AI의 적용을 준비하는 것이 중요할 것으로 보입니다.",
+  "analyzed_at": "2026-04-13T01:30:33.499Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
