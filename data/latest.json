@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논평",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "폴란드와 한국의 관계",
+      "summary": "폴란드 총리와 한국의 만남, 한-폴란드 정상회담 결과",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석",
+      "topic": "AI와 기술",
+      "summary": "AI의 발전과 기술의 진보, 머스크의 새 채팅 앱",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치와 경제",
+      "summary": "쌍방울 부정거래, 민주당 공천 현황, 곽튜브 권익위 검토",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
+      "keyword": "폴란드",
       "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 논평"
+      "sentiment": "neutral",
+      "context": "한-폴란드 정상회담"
     },
     {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스"
+      "context": "AI의 발전과 기술의 진보"
     },
     {
-      "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치와 경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 관련 뉴스가 증가하고 있다",
-      "action": "기술 관련 콘텐츠 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "정치 관련 논평이 증가하고 있다",
-      "action": "정치 관련 콘텐츠 개발",
+      "insight": "폴란드와 한국의 관계는 정치와 경제적으로 중요하다",
+      "action": "폴란드와의 관계를 강화하기 위한 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 뉴스가 감소하고 있다",
-      "action": "경제 관련 콘텐츠 개발",
-      "priority": "low"
+      "insight": "AI와 기술의 발전은 산업을変革할 수 있다",
+      "action": "AI와 기술의 발전을 위한 투자와 연구",
+      "priority": "high"
+    },
+    {
+      "insight": "정치와 경제는 복잡하게 얽혀 있다",
+      "action": "정치와 경제의 동향을 주시하고 대응하기 위한 전략 수립",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 기술 관련 뉴스와 정치 관련 논평이 증가하고 있는 것으로 나타났다. 또한, 경제 관련 뉴스는 감소하고 있는 것으로 나타났다. 이러한 트렌드에 따라 기술 관련 콘텐츠 개발과 정치 관련 콘텐츠 개발이 필요할 것으로 보인다. 또한, 경제 관련 뉴스의 감소에 대응하여 경제 관련 콘텐츠 개발이 필요할 것으로 보인다.",
-  "analyzed_at": "2026-04-13T09:30:33.897Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 폴란드와 한국의 관계, AI와 기술, 정치와 경제가 주요 주제로 나타났습니다. 폴란드와 한국의 관계는 정치와 경제적으로 중요하며, AI와 기술의 발전은 산업을変革할 수 있습니다. 정치와 경제는 복잡하게 얽혀 있으므로 주시하고 대응하기 위한 전략 수립이 필요합니다. 이러한 트렌드와 인사이트를 바탕으로 사업 전략을 수립하고 대응하기 위한 액션 플랜을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-13T11:00:34.726Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
