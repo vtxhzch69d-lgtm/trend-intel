@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "코스피 6000 아득히 넘어갈것 같네요, 현대판 히틀러라는 말에 긁힌 네타냐후",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "最近의 정치 관련 뉴스와 의견",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "SK하이닉스 성과급만 13억? '반도체학과' 인기 폭발, 네이버 쇼핑 에이전트 내세운 네이버",
-      "post_count": 8,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이재명정부, 복지를 국정의 중심에 세워야 한다, 박정희가 과거에 이스라엘을 비판했던 성명의 내용",
-      "post_count": 4,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "최신 기술 트렌드와 관련 뉴스",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "最近의 경제 관련 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "코스피 6000 아득히 넘어갈것 같네요"
+      "keyword": "트럼프",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "트럼프 관련 뉴스"
     },
     {
-      "keyword": "반도체",
-      "count": 4,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "SK하이닉스 성과급만 13억? '반도체학과' 인기 폭발"
+      "context": "AI 기술 관련 뉴스"
     },
     {
-      "keyword": "이재명",
-      "count": 2,
+      "keyword": "주식",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "이재명정부, 복지를 국정의 중심에 세워야 한다"
+      "context": "주식 시장 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "코스피의 상승세는 지속될 가능성이 높다",
-      "action": "투자 확대",
+      "insight": "기술 트렌드에 대한 관심이 높아지고 있다",
+      "action": "기술 관련 제품 개발",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업은 성장 가능성이 높다",
-      "action": "반도체 관련 주식 투자",
+      "insight": "경제 관련 뉴스에 대한 관심이 높아지고 있다",
+      "action": "경제 관련 분석 제공",
       "priority": "medium"
     },
     {
-      "insight": "이재명정부의 복지 정책은 중립적인 반응을 보이고 있다",
-      "action": "정책 분석",
-      "priority": "low"
+      "insight": "정치 관련 뉴스에 대한 관심이 높아지고 있다",
+      "action": "정치 관련 분석 제공",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 트렌드는 경제와 기술 분야에서 주도되고 있다. 코스피의 상승세와 반도체 산업의 성장 가능성은 투자자들의 관심을 끌고 있다. 또한, 이재명정부의 복지 정책은 중립적인 반응을 보이고 있다. 이러한 트렌드는 기업과 투자자들에게 중요한 인사이트를 제공할 수 있다. 따라서, 관련 분야의 투자와 정책 분석이 필요하다.",
-  "analyzed_at": "2026-04-13T22:00:34.076Z",
+  "narrative": "最近의 정치, 기술, 경제 관련 뉴스와 트렌드에 대한 분석입니다. 기술 트렌드에 대한 관심이 높아지고 있으며, 경제 관련 뉴스에 대한 관심도 높아지고 있습니다. 정치 관련 뉴스에 대한 관심도 높아지고 있으며, 관련 분석을 제공하는 것이 중요합니다. 기술 관련 제품 개발과 경제 관련 분석 제공이 필요합니다.",
+  "analyzed_at": "2026-04-13T23:30:33.495Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
