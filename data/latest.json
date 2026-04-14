@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있다. AI의 발전은 다양한 산업에 영향을 미치고 있다.",
+      "summary": "AI 기술의 발전과 이를 둘러싼 다양한 의견이 논의되고 있다. AI의 잠재력과 위험성에 대한 논의가 활발하다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "전기차와 에너지",
-      "summary": "전기차와 에너지 관련 주제들이 논의되고 있다. 전기차의 普及과 에너지 정책이 관련되어 있다.",
-      "post_count": 8,
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 뉴스가 다수 게재되었다. 전기차 충전기 시민 직접 지원, 삼성전자 베트남 투자 등 다양한 뉴스가 게재되었다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제와 금융",
-      "summary": "경제와 금융 관련 주제들이 논의되고 있다. 경제 성장과 금융 정책이 관련되어 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스가 다수 게재되었다. 성희롱, 가짜 뉴스, 전쟁 등 다양한 뉴스가 게재되었다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
@@ -26,48 +26,48 @@
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 이를 둘러싼 다양한 의견"
     },
     {
       "keyword": "전기차",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "전기차와 에너지 관련 주제"
+      "count": 5,
+      "sentiment": "positive",
+      "context": "전기차 충전기 시민 직접 지원"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "경제와 금융 관련 주제"
+      "keyword": "삼성전자",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "삼성전자 베트남 투자"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 주제에서는 부정적인 감정도 존재한다."
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 관련 산업에 대한 투자를 고려한다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "전기차와 에너지 관련 주제는 계속해서 논의될 것이다.",
-      "action": "전기차와 에너지 관련 정책과 기술의 발전을 주시한다.",
+      "insight": "전기차 충전기 시민 직접 지원",
+      "action": "전기차 충전기 설치 및 운영",
       "priority": "medium"
     },
     {
-      "insight": "경제와 금융 관련 주제는 계속해서 논의될 것이다.",
-      "action": "경제와 금융 관련 정책과 기술의 발전을 주시한다.",
-      "priority": "high"
+      "insight": "삼성전자 베트남 투자",
+      "action": "베트남 시장 진출",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있다. AI의 발전은 다양한 산업에 영향을 미치고 있다. 전기차와 에너지 관련 주제도 논의되고 있다. 전기차의 普及과 에너지 정책이 관련되어 있다. 경제와 금융 관련 주제도 논의되고 있다. 경제 성장과 금융 정책이 관련되어 있다. 이러한 트렌드들은 기업과 마케터들에게 중요한 인사이트를 제공한다. AI 기술의 발전을 주시하고, 관련 산업에 대한 투자를 고려한다. 전기차와 에너지 관련 정책과 기술의 발전을 주시한다. 경제와 금융 관련 정책과 기술의 발전을 주시한다. 이러한 주제들은 계속해서 논의될 것이므로, 관련 산업과 정책의 발전을 주시하는 것이 중요하다.",
-  "analyzed_at": "2026-04-14T15:00:34.542Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 둘러싼 다양한 의견이 논의되고 있다. 또한, 경제 및 산업 관련 뉴스가 다수 게재되었으며, 사회 및 정치 관련 뉴스도 다수 게재되었다. 키워드 분석 결과, AI, 전기차, 삼성전자 등이 주요 키워드로 나타났다. 전반적인 감정은 중립적이며, 긍정적인 감정은 10%, 부정적인 감정은 15%, 중립적인 감정은 25%를 차지했다. 비즈니스 인사이트로는 AI 기술의 발전, 전기차 충전기 시민 직접 지원, 삼성전자 베트남 투자 등이 나타났다.",
+  "analyzed_at": "2026-04-14T16:30:33.897Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
