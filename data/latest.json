@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령의 세종시 이전 공약과 조국의 평택을 출마에 대한 반발 등 정치 관련 뉴스가 많습니다.",
-      "post_count": 10,
+      "summary": "이재명 대통령과 윤석열 대통령의 활동 및 정책이 논의되고 있습니다. 또한, 정치인들의 발언과 행동에 대한 반응도 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 뉴스가 많습니다. 앤트로픽의 Claude와 구글의 터보퀀트 알고리즘 등이 언급됩니다.",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "한국의 경제 상황과 기업들의 활동이 논의되고 있습니다. 특히, 전기차와 로봇청소기 관련 뉴스가 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "전기요금과 기름값의 인상, 삼성SDS의 AI 국회 오픈 등 경제 관련 뉴스가 많습니다.",
-      "post_count": 7,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 개발이 논의되고 있습니다. 특히, AI와 로봇 관련 뉴스가 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스"
-    },
-    {
       "keyword": "이재명",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "이재명 대통령의 세종시 이전 공약과 관련된 뉴스"
+      "sentiment": "negative",
+      "context": "정치적인 발언과 행동에 대한 반응"
     },
     {
-      "keyword": "삼성",
+      "keyword": "윤석열",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "정치적인 활동과 정책에 대한 논의"
+    },
+    {
+      "keyword": "AI",
       "count": 4,
       "sentiment": "positive",
-      "context": "삼성의 기술 발전과 관련된 뉴스"
+      "context": "최신 기술 뉴스와 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 기업의 경쟁력 향상에 기여할 수 있습니다.",
-      "action": "AI 기술을 도입하고 연구개발에 투자합니다.",
+      "insight": "한국의 경제 상황은 안정적입니다.",
+      "action": "투자와 비즈니스 확장을 고려합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치적 불안정성은 경제에 부정적인 영향을 미칠 수 있습니다.",
-      "action": "정치적 상황을 주시하고 경제적 위험을 관리합니다.",
+      "insight": "최신 기술은 빠르게 발전하고 있습니다.",
+      "action": "최신 기술을 연구하고 개발합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 분야에서 나타나고 있습니다. AI 기술의 발전은 기업의 경쟁력 향상에 기여할 수 있으며, 정치적 불안정성은 경제에 부정적인 영향을 미칠 수 있습니다. 따라서 기업은 AI 기술을 도입하고 연구개발에 투자하며, 정치적 상황을 주시하고 경제적 위험을 관리해야 합니다. 또한, 삼성이 기술 발전과 관련된 뉴스에서 많이 언급되므로, 삼성을 주시하고 협력할 기회를 찾는 것이 좋을 것입니다.",
-  "analyzed_at": "2026-04-14T06:00:34.619Z",
+  "narrative": "한국의 온라인 커뮤니티에서는 정치, 경제, 기술 등 다양한 주제가 논의되고 있습니다. 특히, 이재명 대통령과 윤석열 대통령의 활동 및 정책이 많이 논의되고 있습니다. 또한, 최신 기술 뉴스와 개발도 많은 관심을 받고 있습니다. 이러한 트렌드는 비즈니스와 투자에 대한 기회를 제공할 수 있습니다.",
+  "analyzed_at": "2026-04-14T07:30:33.943Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
