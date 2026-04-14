@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 둘러싼 다양한 의견이 논의되고 있다. AI의 잠재력과 위험성에 대한 논의가 활발하다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 뉴스가 다수 게재되었다. 전기차 충전기 시민 직접 지원, 삼성전자 베트남 투자 등 다양한 뉴스가 게재되었다.",
-      "post_count": 10,
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석",
+      "post_count": 12,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스가 다수 게재되었다. 성희롱, 가짜 뉴스, 전쟁 등 다양한 뉴스가 게재되었다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 논평",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
@@ -26,47 +26,42 @@
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 이를 둘러싼 다양한 의견"
-    },
-    {
-      "keyword": "전기차",
-      "count": 5,
       "sentiment": "positive",
-      "context": "전기차 충전기 시민 직접 지원"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "삼성전자",
-      "count": 3,
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "삼성전자 베트남 투자"
+      "context": "경제 및 금융 관련 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 및 사회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 40,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
       "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "전기차 충전기 시민 직접 지원",
-      "action": "전기차 충전기 설치 및 운영",
+      "insight": "경제 및 금융 관련 뉴스와 분석은 비즈니스 의사 결정에 중요한 역할을 한다",
+      "action": "경제 및 금융 관련 뉴스와 분석을 지속적으로 모니터링",
       "priority": "medium"
-    },
-    {
-      "insight": "삼성전자 베트남 투자",
-      "action": "베트남 시장 진출",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 둘러싼 다양한 의견이 논의되고 있다. 또한, 경제 및 산업 관련 뉴스가 다수 게재되었으며, 사회 및 정치 관련 뉴스도 다수 게재되었다. 키워드 분석 결과, AI, 전기차, 삼성전자 등이 주요 키워드로 나타났다. 전반적인 감정은 중립적이며, 긍정적인 감정은 10%, 부정적인 감정은 15%, 중립적인 감정은 25%를 차지했다. 비즈니스 인사이트로는 AI 기술의 발전, 전기차 충전기 시민 직접 지원, 삼성전자 베트남 투자 등이 나타났다.",
-  "analyzed_at": "2026-04-14T16:30:33.897Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 경제 및 금융 관련 뉴스와 분석, 정치 및 사회 관련 뉴스와 논평이 주요 관심사로 나타났습니다. 이러한 트렌드들은 비즈니스 의사 결정과 마케팅 전략에 중요한 영향을 미칠 수 있습니다. 따라서, AI 기술을 활용한 비즈니스 모델 개발과 경제 및 금융 관련 뉴스와 분석을 지속적으로 모니터링하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-14T18:00:33.917Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
