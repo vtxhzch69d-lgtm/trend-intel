@@ -1,67 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성 노조",
-      "summary": "삼성 노조의 조직적 명단관리 정황이 논란이 되고 있습니다. 비노조원은 해고 우선 대상이라는 보도가 나왔습니다.",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "이재명 대통령과 하정우, 조국 등 정치인에 대한 논의가 활발합니다. 대통령의 지지율과 정치인들의 출마설에 대한 관심이 집중되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "카톡 자녀 보호",
-      "summary": "카톡에 자녀 보호 기능이 도입되었습니다. 숏폼과 오픈채팅을 통제할 수 있습니다.",
-      "post_count": 2,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "코스피, 장중 6,000선 재돌파와 하이닉스 주식에 대한 관심이 있습니다. 또한, 부동산 정책과 다주택자에 대한 논의가 진행되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "하정우",
-      "summary": "하정우의 부산 북갑 출마설이 논란이 되고 있습니다. 결정권이 있다면 청와대 남겠다는 발언이 논란이 되고 있습니다.",
-      "post_count": 3,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "기술",
+      "summary": "새로운 기술과 제품에 대한 관심이 있습니다. 애플, 삼성, 화웨이 등의 기술 뉴스와 새로운 제품 출시에 대한 논의가 진행되고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "negative",
-      "context": "삼성 노조의 조직적 명단관리 정황"
-    },
-    {
-      "keyword": "카톡",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "카톡에 자녀 보호 기능 도입"
+      "sentiment": "neutral",
+      "context": "대통령의 지지율과 정치인들의 출마설에 대한 관심"
     },
     {
       "keyword": "하정우",
       "count": 3,
-      "sentiment": "mixed",
-      "context": "하정우의 부산 북갑 출마설"
+      "sentiment": "positive",
+      "context": "정치인들의 출마설에 대한 관심"
+    },
+    {
+      "keyword": "코스피",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "경제 뉴스와 주식에 대한 관심"
+    },
+    {
+      "keyword": "삼성",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "새로운 기술과 제품에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성 노조의 조직적 명단관리 정황은 기업의 사회적 책임에 대한 관심을 높일 수 있습니다.",
-      "action": "기업의 사회적 책임에 대한 대응책을 마련해야 합니다.",
+      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
+      "action": "관련 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "카톡의 자녀 보호 기능은 가족 친화적 기업 이미지를 높일 수 있습니다.",
-      "action": "가족 친화적 기업 이미지를 강화하는 마케팅 전략을 수립해야 합니다.",
+      "insight": "새로운 기술과 제품에 대한 관심이 있습니다.",
+      "action": "관련 제품과 기술에 대한 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성 노조의 조직적 명단관리 정황과 카톡의 자녀 보호 기능, 하정우의 부산 북갑 출마설이 주를 이루고 있습니다. 이러한 트렌드는 기업의 사회적 책임과 가족 친화적 기업 이미지를 강화하는 마케팅 전략의 필요성을 강조합니다. 또한, 이러한 트렌드는 중립적이고 다양한 감정의 혼재를 보이고 있습니다. 따라서, 기업은 이러한 트렌드에 대한 대응책을 마련하고, 가족 친화적 기업 이미지를 강화하는 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-04-14T01:00:34.482Z",
+  "narrative": "현재 정치와 경제에 대한 관심이 높아지고 있습니다. 이재명 대통령과 하정우, 조국 등 정치인에 대한 논의가 활발합니다. 또한, 코스피와 하이닉스 주식에 대한 관심이 있습니다. 새로운 기술과 제품에 대한 관심도 있습니다. 애플, 삼성, 화웨이 등의 기술 뉴스와 새로운 제품 출시에 대한 논의가 진행되고 있습니다. 이러한 관심을 고려하여 관련 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 합니다. 또한, 관련 제품과 기술에 대한 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
+  "analyzed_at": "2026-04-14T02:30:34.212Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
