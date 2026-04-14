@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 윤석열 대통령의 활동 및 정책이 논의되고 있습니다. 또한, 정치인들의 발언과 행동에 대한 반응도 있습니다.",
-      "post_count": 15,
+      "summary": "조국과 한동훈의 당선 가능성 및 대통령의 발언 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "한국의 경제 상황과 기업들의 활동이 논의되고 있습니다. 특히, 전기차와 로봇청소기 관련 뉴스가 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "summary": "주식, 전기요금, 에너지 자립도 등 경제 관련 주제가 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 개발이 논의되고 있습니다. 특히, AI와 로봇 관련 뉴스가 있습니다.",
-      "post_count": 8,
+      "summary": "AI, 전기차, 로봇청소기 등 기술 관련 주제가 관심을 받고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "조국",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치적인 발언과 행동에 대한 반응"
+      "context": "당선 가능성에 대한 논의"
     },
     {
-      "keyword": "윤석열",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "정치적인 활동과 정책에 대한 논의"
+      "keyword": "한동훈",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "당선 가능성에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 개발"
+      "context": "기술 개발과 응용에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국의 경제 상황은 안정적입니다.",
-      "action": "투자와 비즈니스 확장을 고려합니다.",
+      "insight": "정치와 경제의 불안정성이 소비자 행동에 영향을 미칠 수 있습니다.",
+      "action": "시장 동향을 주시하고 대응 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술은 빠르게 발전하고 있습니다.",
-      "action": "최신 기술을 연구하고 개발합니다.",
+      "insight": "기술 개발과 투자는 미래 성장의 핵심입니다.",
+      "action": "기술 투자와 개발에 집중하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "한국의 온라인 커뮤니티에서는 정치, 경제, 기술 등 다양한 주제가 논의되고 있습니다. 특히, 이재명 대통령과 윤석열 대통령의 활동 및 정책이 많이 논의되고 있습니다. 또한, 최신 기술 뉴스와 개발도 많은 관심을 받고 있습니다. 이러한 트렌드는 비즈니스와 투자에 대한 기회를 제공할 수 있습니다.",
-  "analyzed_at": "2026-04-14T07:30:33.943Z",
+  "narrative": "현재의 정치와 경제 상황은 소비자 행동에 영향을 미칠 수 있습니다. 기술 개발과 투자는 미래 성장의 핵심입니다. 시장 동향을 주시하고 대응 전략을 수립하여 미래 성장에 대비하세요. 또한, 기술 개발과 투자에 집중하여 경쟁력을 높이세요.",
+  "analyzed_at": "2026-04-14T09:00:34.858Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
