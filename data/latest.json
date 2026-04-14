@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치 및 사회",
+      "summary": "검사들의 태도와 정치적 상황에 대한 논의가 활발합니다. 또한, 이란 전쟁과 관련된 글도 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 분석",
-      "post_count": 12,
+      "topic": "기술 및 과학",
+      "summary": "최신 기술과 과학적 발견에 대한 글들이 많습니다. AI와 관련된 글도 많이 있습니다.",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 논평",
-      "post_count": 10,
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융에 관련된 글들이 있습니다. 전기요금과 관련된 글도 있습니다.",
+      "post_count": 8,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스"
+      "context": "최신 기술과 과학적 발견"
     },
     {
       "keyword": "정치",
-      "count": 10,
+      "count": 8,
+      "sentiment": "negative",
+      "context": "검사들의 태도와 정치적 상황"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
       "sentiment": "mixed",
-      "context": "정치 및 사회 관련 뉴스"
+      "context": "경제와 금융에 관련된 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 10,
     "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감돕니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "최신 기술과 과학적 발견에 대한 관심이 높습니다.",
+      "action": "최신 기술과 과학적 발견에 대한 콘텐츠를 제공합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스와 분석은 비즈니스 의사 결정에 중요한 역할을 한다",
-      "action": "경제 및 금융 관련 뉴스와 분석을 지속적으로 모니터링",
+      "insight": "경제와 금융에 관련된 글들이 많습니다.",
+      "action": "경제와 금융에 관련된 콘텐츠를 제공합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 경제 및 금융 관련 뉴스와 분석, 정치 및 사회 관련 뉴스와 논평이 주요 관심사로 나타났습니다. 이러한 트렌드들은 비즈니스 의사 결정과 마케팅 전략에 중요한 영향을 미칠 수 있습니다. 따라서, AI 기술을 활용한 비즈니스 모델 개발과 경제 및 금융 관련 뉴스와 분석을 지속적으로 모니터링하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-14T18:00:33.917Z",
+  "narrative": "최근의 트렌드는 정치 및 사회, 기술 및 과학, 경제 및 금융에 대한 관심이 높습니다. 특히, 최신 기술과 과학적 발견에 대한 글들이 많습니다. 또한, 경제와 금융에 관련된 글들이 많습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하면 사용자들의 관심을 끌 수 있을 것입니다. 그러나, 정치적인 상황과 관련된 글들은 부정적인 기운을 가지고 있으므로 주의가 필요합니다.",
+  "analyzed_at": "2026-04-14T19:30:34.366Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
