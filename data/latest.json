@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "最近의 정치 및 사회 관련 뉴스와 논쟁이 많은 관심을 받고 있습니다. 주호영의 무공천 발언, 새 주한미대사 임명, 교육감 직선제 등 다양한 주제가 논의되고 있습니다.",
+      "topic": "정치 및 경제",
+      "summary": "정부의 인도적 지원 결정과 경제 상황에 대한 논의",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 뉴스가 많은 관심을 받고 있습니다. 전기차 충전기 화재, AMD 9950X3D2 성능 공개, AI 모델 경쟁력 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 10,
+      "summary": "신규 기술 개발과 AI 모델 경쟁력에 대한 논의",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "스포츠",
-      "summary": "最近의 스포츠 뉴스가 많은 관심을 받고 있습니다. KBO 디스플레이 테마 시즌2 출시, 김도영 시즌 4호 만루홈런 등 다양한 주제가 논의되고 있습니다.",
+      "summary": "야구와 축구 등 스포츠 경기에 대한 논의",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "low"
@@ -24,44 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스와 논쟁"
-    },
-    {
-      "keyword": "기술",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "최신 기술 및 과학 뉴스"
-    },
-    {
-      "keyword": "스포츠",
+      "keyword": "정부",
       "count": 10,
+      "sentiment": "neutral",
+      "context": "정부의 인도적 지원 결정과 경제 상황에 대한 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "最近의 스포츠 뉴스"
+      "context": "신규 기술 개발과 AI 모델 경쟁력에 대한 논의"
+    },
+    {
+      "keyword": "경제",
+      "count": 6,
+      "sentiment": "negative",
+      "context": "경제 상황에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 및 과학 분야의 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "기술 및 과학 관련 콘텐츠를 개발하여 관심을 끌 수 있습니다.",
+      "insight": "신규 기술 개발에 대한 투자 증가",
+      "action": "신규 기술 개발에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 뉴스가 많은 논쟁을 일으키고 있습니다.",
-      "action": "정치 및 사회 관련 뉴스를 주의하여 다루어야 합니다.",
+      "insight": "정부의 인도적 지원 결정에 대한 논의",
+      "action": "정부의 인도적 지원 결정에 대한 논의",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 정치 및 사회 관련 뉴스와 논쟁이 많은 관심을 받고 있습니다. 기술 및 과학 분야의 뉴스도 많은 관심을 받고 있으며, 스포츠 뉴스도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 관심을 끌 수 있는 콘텐츠를 개발할 수 있습니다. 또한, 정치 및 사회 관련 뉴스를 주의하여 다루어야 합니다.",
-  "analyzed_at": "2026-04-14T12:00:34.568Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치 및 경제, 기술 및 과학, 스포츠 등 다양한 주제에 대한 논의가 활발히 진행되고 있습니다. 정부의 인도적 지원 결정과 경제 상황에 대한 논의는 중립적인 감정으로 진행되고 있으며, 신규 기술 개발과 AI 모델 경쟁력에 대한 논의는 긍정적인 감정으로 진행되고 있습니다. 이러한 트렌드 분석 결과를 통해, 신규 기술 개발에 대한 투자 증가와 정부의 인도적 지원 결정에 대한 논의 등 다양한 비즈니스 인사이트를 도출할 수 있습니다.",
+  "analyzed_at": "2026-04-14T13:30:34.078Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
