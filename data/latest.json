@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프 문제",
-      "summary": "트럼프의 문제가 간단치 않은 것 같다는 의견이 있습니다. 트럼프의 병적 자기애에 대한 논의도 있습니다.",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "이재명 대통령의 세종시 이전 공약과 조국의 평택을 출마에 대한 반발 등 정치 관련 뉴스가 많습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "전기차 충전기",
-      "summary": "서울시, 보조금 수혜 대상을 ‘사업자’에서 ‘시민’으로 변경합니다. 전기차 충전기 시민 직접 지원이 시작됩니다.",
-      "post_count": 2,
+      "topic": "기술",
+      "summary": "AI와 관련된 기술 뉴스가 많습니다. 앤트로픽의 Claude와 구글의 터보퀀트 알고리즘 등이 언급됩니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "한국 AI 모델 경쟁력 3위, 특허는 세계 1위입니다. AI 기술에 대한 논의가 활발합니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "전기요금과 기름값의 인상, 삼성SDS의 AI 국회 오픈 등 경제 관련 뉴스가 많습니다.",
+      "post_count": 7,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "트럼프의 문제에 대한 논의"
-    },
-    {
-      "keyword": "전기차",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "전기차 충전기 시민 직접 지원"
-    },
-    {
       "keyword": "AI",
-      "count": 5,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술에 대한 논의"
+      "context": "AI 기술의 발전과 관련된 뉴스"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 세종시 이전 공약과 관련된 뉴스"
+    },
+    {
+      "keyword": "삼성",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "삼성의 기술 발전과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 15,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "전기차 충전기 시민 직접 지원이 시작됩니다.",
-      "action": "전기차 충전기 관련 사업에 투자하는 것을 고려해 볼 수 있습니다.",
-      "priority": "medium"
+      "insight": "AI 기술의 발전은 기업의 경쟁력 향상에 기여할 수 있습니다.",
+      "action": "AI 기술을 도입하고 연구개발에 투자합니다.",
+      "priority": "high"
     },
     {
-      "insight": "한국 AI 모델 경쟁력 3위, 특허는 세계 1위입니다.",
-      "action": "AI 기술에 대한 투자와 연구를 강화하는 것을 고려해 볼 수 있습니다.",
-      "priority": "high"
+      "insight": "정치적 불안정성은 경제에 부정적인 영향을 미칠 수 있습니다.",
+      "action": "정치적 상황을 주시하고 경제적 위험을 관리합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재 트럼프의 문제에 대한 논의가 활발합니다. 또한, 전기차 충전기 시민 직접 지원이 시작되어 전기차 관련 사업에 투자하는 것을 고려해 볼 수 있습니다. 한국 AI 모델 경쟁력 3위, 특허는 세계 1위로 AI 기술에 대한 투자와 연구를 강화하는 것을 고려해 볼 수 있습니다. 전반적으로 중립적인 분위기이지만, 전기차와 AI 기술에 대한 논의가 활발합니다.",
-  "analyzed_at": "2026-04-14T04:30:33.659Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 분야에서 나타나고 있습니다. AI 기술의 발전은 기업의 경쟁력 향상에 기여할 수 있으며, 정치적 불안정성은 경제에 부정적인 영향을 미칠 수 있습니다. 따라서 기업은 AI 기술을 도입하고 연구개발에 투자하며, 정치적 상황을 주시하고 경제적 위험을 관리해야 합니다. 또한, 삼성이 기술 발전과 관련된 뉴스에서 많이 언급되므로, 삼성을 주시하고 협력할 기회를 찾는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-04-14T06:00:34.619Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
