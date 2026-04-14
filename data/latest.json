@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "조국과 한동훈의 당선 가능성 및 대통령의 발언 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "summary": "최근 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, 조국 대표와 윤석열·김건희 재판이 주목을 받고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "주식, 전기요금, 에너지 자립도 등 경제 관련 주제가 논의되고 있습니다.",
+      "summary": "경제 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, 전기요금 개편과 에너지 자립도에 대한 논의가 활발합니다.",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "AI, 전기차, 로봇청소기 등 기술 관련 주제가 관심을 받고 있습니다.",
+      "summary": "최신 기술 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, AI와 로봇 기술에 대한 논의가 활발합니다.",
       "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
@@ -26,42 +26,47 @@
     {
       "keyword": "조국",
       "count": 5,
-      "sentiment": "negative",
-      "context": "당선 가능성에 대한 논의"
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 의견"
     },
     {
-      "keyword": "한동훈",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "당선 가능성에 대한 논의"
+      "keyword": "전기요금",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "경제 관련 뉴스와 의견"
     },
     {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "기술 개발과 응용에 대한 논의"
+      "context": "기술 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제의 불안정성이 소비자 행동에 영향을 미칠 수 있습니다.",
-      "action": "시장 동향을 주시하고 대응 전략을 수립하세요.",
+      "insight": "정치 관련 뉴스와 의견에 대한 관심이 높아지고 있습니다.",
+      "action": "정치 관련 콘텐츠를 제공하여 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 개발과 투자는 미래 성장의 핵심입니다.",
-      "action": "기술 투자와 개발에 집중하세요.",
+      "insight": "경제 관련 뉴스와 의견에 대한 관심이 높아지고 있습니다.",
+      "action": "경제 관련 콘텐츠를 제공하여 관심을 끌어야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 관련 뉴스와 의견에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 관련 콘텐츠를 제공하여 관심을 끌어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 정치와 경제 상황은 소비자 행동에 영향을 미칠 수 있습니다. 기술 개발과 투자는 미래 성장의 핵심입니다. 시장 동향을 주시하고 대응 전략을 수립하여 미래 성장에 대비하세요. 또한, 기술 개발과 투자에 집중하여 경쟁력을 높이세요.",
-  "analyzed_at": "2026-04-14T09:00:34.858Z",
+  "narrative": "최근 정치, 경제, 기술 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, 조국 대표와 윤석열·김건희 재판, 전기요금 개편, AI와 로봇 기술에 대한 논의가 활발합니다. 이러한 관심을 끌기 위해 관련 콘텐츠를 제공하여 관심을 끌어야 합니다. 또한, 이러한 관심을 통해 새로운 비즈니스 기회를 찾을 수 있습니다.",
+  "analyzed_at": "2026-04-14T10:30:33.803Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
