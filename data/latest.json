@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "총리와 여조, 검사들의 태도, 윤석열과 트럼프의 당선 이유 등 정치 관련 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "기술 및 산업",
+      "summary": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, AI 및 로봇 기술에 대한 관심이 집중되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 전기차, 로봇청소기 등 기술 관련 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 전기요금 및 에너지 자립도에 대한 관심이 집중되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "야구, 축구 등 스포츠 관련 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 정부 정책 및 정치인에 대한 관심이 집중되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 관련 기술 개발과 적용에 대한 관심이 높습니다."
+      "context": "최신 기술 및 산업 동향"
     },
     {
-      "keyword": "전기차",
+      "keyword": "로봇",
       "count": 5,
       "sentiment": "positive",
-      "context": "전기차 관련 뉴스와 기술 개발에 대한 관심이 높습니다."
+      "context": "최신 기술 및 산업 동향"
     },
     {
-      "keyword": "윤석열",
+      "keyword": "전기요금",
       "count": 3,
-      "sentiment": "mixed",
-      "context": "윤석열 관련 정치 뉴스와 의견이 분분합니다."
+      "sentiment": "neutral",
+      "context": "경제 및 금융"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 주제에서는 부정적인 감정도 존재합니다."
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 적용에 대한 관심이 높습니다.",
-      "action": "AI 관련 기술 개발과 서비스 제공에 대한 투자를 고려합니다.",
+      "insight": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌어들이세요.",
       "priority": "high"
     },
     {
-      "insight": "전기차 관련 기술 개발과 시장 성장이 예상됩니다.",
-      "action": "전기차 관련 기술 개발과 서비스 제공에 대한 투자를 고려합니다.",
+      "insight": "경제 및 금융 관련 뉴스에 대한 관심이 높아지고 있습니다.",
+      "action": "경제 및 금융 관련 뉴스에 대한 콘텐츠를 제공하여 관심을 끌어들이세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치, 기술, 스포츠 등 다양한 주제가 많은 관심을 받고 있습니다. 특히, AI와 전기차 관련 기술 개발과 적용에 대한 관심이 높습니다. 이러한 트렌드를 고려하여, AI와 전기차 관련 기술 개발과 서비스 제공에 대한 투자를 고려하는 것이 좋습니다. 또한, 일부 정치 관련 주제에서는 부정적인 감정도 존재하므로, 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-14T21:00:34.423Z",
+  "narrative": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, AI 및 로봇 기술에 대한 관심이 집중되고 있습니다. 또한, 경제 및 금융 관련 뉴스에 대한 관심이 높아지고 있습니다. 이러한 관심을 끌어들이기 위해 최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌어들이세요. 또한, 경제 및 금융 관련 뉴스에 대한 콘텐츠를 제공하여 관심을 끌어들이세요. 이러한 콘텐츠를 제공함으로써 관심을 끌어들이고 고객을 유치할 수 있습니다.",
+  "analyzed_at": "2026-04-14T22:30:34.304Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
