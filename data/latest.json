@@ -1,73 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 하정우, 조국 등 정치인에 대한 논의가 활발합니다. 대통령의 지지율과 정치인들의 출마설에 대한 관심이 집중되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "트럼프 문제",
+      "summary": "트럼프의 문제가 간단치 않은 것 같다는 의견이 있습니다. 트럼프의 병적 자기애에 대한 논의도 있습니다.",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "코스피, 장중 6,000선 재돌파와 하이닉스 주식에 대한 관심이 있습니다. 또한, 부동산 정책과 다주택자에 대한 논의가 진행되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "전기차 충전기",
+      "summary": "서울시, 보조금 수혜 대상을 ‘사업자’에서 ‘시민’으로 변경합니다. 전기차 충전기 시민 직접 지원이 시작됩니다.",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "새로운 기술과 제품에 대한 관심이 있습니다. 애플, 삼성, 화웨이 등의 기술 뉴스와 새로운 제품 출시에 대한 논의가 진행되고 있습니다.",
-      "post_count": 12,
+      "topic": "AI 기술",
+      "summary": "한국 AI 모델 경쟁력 3위, 특허는 세계 1위입니다. AI 기술에 대한 논의가 활발합니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "대통령의 지지율과 정치인들의 출마설에 대한 관심"
-    },
-    {
-      "keyword": "하정우",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "정치인들의 출마설에 대한 관심"
-    },
-    {
-      "keyword": "코스피",
+      "keyword": "트럼프",
       "count": 2,
-      "sentiment": "neutral",
-      "context": "경제 뉴스와 주식에 대한 관심"
+      "sentiment": "negative",
+      "context": "트럼프의 문제에 대한 논의"
     },
     {
-      "keyword": "삼성",
-      "count": 4,
+      "keyword": "전기차",
+      "count": 2,
       "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 관심"
+      "context": "전기차 충전기 시민 직접 지원"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "AI 기술에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 10,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
-      "action": "관련 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
-      "priority": "high"
+      "insight": "전기차 충전기 시민 직접 지원이 시작됩니다.",
+      "action": "전기차 충전기 관련 사업에 투자하는 것을 고려해 볼 수 있습니다.",
+      "priority": "medium"
     },
     {
-      "insight": "새로운 기술과 제품에 대한 관심이 있습니다.",
-      "action": "관련 제품과 기술에 대한 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
-      "priority": "medium"
+      "insight": "한국 AI 모델 경쟁력 3위, 특허는 세계 1위입니다.",
+      "action": "AI 기술에 대한 투자와 연구를 강화하는 것을 고려해 볼 수 있습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 정치와 경제에 대한 관심이 높아지고 있습니다. 이재명 대통령과 하정우, 조국 등 정치인에 대한 논의가 활발합니다. 또한, 코스피와 하이닉스 주식에 대한 관심이 있습니다. 새로운 기술과 제품에 대한 관심도 있습니다. 애플, 삼성, 화웨이 등의 기술 뉴스와 새로운 제품 출시에 대한 논의가 진행되고 있습니다. 이러한 관심을 고려하여 관련 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 합니다. 또한, 관련 제품과 기술에 대한 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
-  "analyzed_at": "2026-04-14T02:30:34.212Z",
+  "narrative": "현재 트럼프의 문제에 대한 논의가 활발합니다. 또한, 전기차 충전기 시민 직접 지원이 시작되어 전기차 관련 사업에 투자하는 것을 고려해 볼 수 있습니다. 한국 AI 모델 경쟁력 3위, 특허는 세계 1위로 AI 기술에 대한 투자와 연구를 강화하는 것을 고려해 볼 수 있습니다. 전반적으로 중립적인 분위기이지만, 전기차와 AI 기술에 대한 논의가 활발합니다.",
+  "analyzed_at": "2026-04-14T04:30:33.659Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
