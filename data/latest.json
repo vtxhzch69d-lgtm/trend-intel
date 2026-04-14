@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "검사들의 태도와 정치적 상황에 대한 논의가 활발합니다. 또한, 이란 전쟁과 관련된 글도 있습니다.",
+      "topic": "정치",
+      "summary": "총리와 여조, 검사들의 태도, 윤석열과 트럼프의 당선 이유 등 정치 관련 주제가 많은 관심을 받고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술과 과학적 발견에 대한 글들이 많습니다. AI와 관련된 글도 많이 있습니다.",
+      "topic": "기술",
+      "summary": "AI, 전기차, 로봇청소기 등 기술 관련 주제가 많은 관심을 받고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융에 관련된 글들이 있습니다. 전기요금과 관련된 글도 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "스포츠",
+      "summary": "야구, 축구 등 스포츠 관련 주제가 많은 관심을 받고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "최신 기술과 과학적 발견"
+      "sentiment": "positive",
+      "context": "AI 관련 기술 개발과 적용에 대한 관심이 높습니다."
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "검사들의 태도와 정치적 상황"
-    },
-    {
-      "keyword": "경제",
+      "keyword": "전기차",
       "count": 5,
+      "sentiment": "positive",
+      "context": "전기차 관련 뉴스와 기술 개발에 대한 관심이 높습니다."
+    },
+    {
+      "keyword": "윤석열",
+      "count": 3,
       "sentiment": "mixed",
-      "context": "경제와 금융에 관련된 글"
+      "context": "윤석열 관련 정치 뉴스와 의견이 분분합니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감돕니다."
+    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 주제에서는 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술과 과학적 발견에 대한 관심이 높습니다.",
-      "action": "최신 기술과 과학적 발견에 대한 콘텐츠를 제공합니다.",
+      "insight": "AI 기술 개발과 적용에 대한 관심이 높습니다.",
+      "action": "AI 관련 기술 개발과 서비스 제공에 대한 투자를 고려합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제와 금융에 관련된 글들이 많습니다.",
-      "action": "경제와 금융에 관련된 콘텐츠를 제공합니다.",
+      "insight": "전기차 관련 기술 개발과 시장 성장이 예상됩니다.",
+      "action": "전기차 관련 기술 개발과 서비스 제공에 대한 투자를 고려합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 및 사회, 기술 및 과학, 경제 및 금융에 대한 관심이 높습니다. 특히, 최신 기술과 과학적 발견에 대한 글들이 많습니다. 또한, 경제와 금융에 관련된 글들이 많습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하면 사용자들의 관심을 끌 수 있을 것입니다. 그러나, 정치적인 상황과 관련된 글들은 부정적인 기운을 가지고 있으므로 주의가 필요합니다.",
-  "analyzed_at": "2026-04-14T19:30:34.366Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치, 기술, 스포츠 등 다양한 주제가 많은 관심을 받고 있습니다. 특히, AI와 전기차 관련 기술 개발과 적용에 대한 관심이 높습니다. 이러한 트렌드를 고려하여, AI와 전기차 관련 기술 개발과 서비스 제공에 대한 투자를 고려하는 것이 좋습니다. 또한, 일부 정치 관련 주제에서는 부정적인 감정도 존재하므로, 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-14T21:00:34.423Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
