@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, 조국 대표와 윤석열·김건희 재판이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "정치 및 사회",
+      "summary": "最近의 정치 및 사회 관련 뉴스와 논쟁이 많은 관심을 받고 있습니다. 주호영의 무공천 발언, 새 주한미대사 임명, 교육감 직선제 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 뉴스가 많은 관심을 받고 있습니다. 전기차 충전기 화재, AMD 9950X3D2 성능 공개, AI 모델 경쟁력 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, 전기요금 개편과 에너지 자립도에 대한 논의가 활발합니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, AI와 로봇 기술에 대한 논의가 활발합니다.",
-      "post_count": 12,
+      "topic": "스포츠",
+      "summary": "最近의 스포츠 뉴스가 많은 관심을 받고 있습니다. KBO 디스플레이 테마 시즌2 출시, 김도영 시즌 4호 만루홈런 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
-    },
-    {
-      "keyword": "전기요금",
-      "count": 3,
+      "keyword": "정치",
+      "count": 20,
       "sentiment": "negative",
-      "context": "경제 관련 뉴스와 의견"
+      "context": "정치 관련 뉴스와 논쟁"
     },
     {
-      "keyword": "AI",
-      "count": 8,
+      "keyword": "기술",
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스와 의견"
+      "context": "최신 기술 및 과학 뉴스"
+    },
+    {
+      "keyword": "스포츠",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "最近의 스포츠 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스와 의견에 대한 관심이 높아지고 있습니다.",
-      "action": "정치 관련 콘텐츠를 제공하여 관심을 끌어야 합니다.",
+      "insight": "기술 및 과학 분야의 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "기술 및 과학 관련 콘텐츠를 개발하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스와 의견에 대한 관심이 높아지고 있습니다.",
-      "action": "경제 관련 콘텐츠를 제공하여 관심을 끌어야 합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 관련 뉴스와 의견에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 관련 콘텐츠를 제공하여 관심을 끌어야 합니다.",
+      "insight": "정치 및 사회 관련 뉴스가 많은 논쟁을 일으키고 있습니다.",
+      "action": "정치 및 사회 관련 뉴스를 주의하여 다루어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치, 경제, 기술 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, 조국 대표와 윤석열·김건희 재판, 전기요금 개편, AI와 로봇 기술에 대한 논의가 활발합니다. 이러한 관심을 끌기 위해 관련 콘텐츠를 제공하여 관심을 끌어야 합니다. 또한, 이러한 관심을 통해 새로운 비즈니스 기회를 찾을 수 있습니다.",
-  "analyzed_at": "2026-04-14T10:30:33.803Z",
+  "narrative": "最近의 정치 및 사회 관련 뉴스와 논쟁이 많은 관심을 받고 있습니다. 기술 및 과학 분야의 뉴스도 많은 관심을 받고 있으며, 스포츠 뉴스도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 관심을 끌 수 있는 콘텐츠를 개발할 수 있습니다. 또한, 정치 및 사회 관련 뉴스를 주의하여 다루어야 합니다.",
+  "analyzed_at": "2026-04-14T12:00:34.568Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
