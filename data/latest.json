@@ -2,72 +2,72 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용 사례가 증가하고 있으며, 다양한 산업에서 활용되고 있다.",
+      "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "국내 정치",
-      "summary": "국내 정치 관련 뉴스와 논란이 증가하고 있으며, 다양한 의견과 반응이 나타나고 있다.",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "새로운 기술과 제품이 출시되고 있으며, 다양한 산업에서 혁신이 일어나고 있다.",
-      "post_count": 20,
+      "topic": "기술 및 가전",
+      "summary": "최신 기술 및 가전 제품 관련 뉴스",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용 사례"
-    },
-    {
-      "keyword": "국내 정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "국내 정치 관련 뉴스와 논란"
-    },
-    {
-      "keyword": "테크",
       "count": 20,
       "sentiment": "positive",
-      "context": "새로운 기술과 제품"
+      "context": "AI 기술의 발전과 이를 활용한 산업"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 뉴스"
+    },
+    {
+      "keyword": "기술",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 및 가전 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
+    "positive": 25,
+    "negative": 5,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진",
+      "action": "AI 기술을 활용한 산업 투자",
       "priority": "high"
     },
     {
-      "insight": "국내 정치의 불안정성",
-      "action": "국내 정치의 불안정성에 대한 대응 전략 개발",
+      "insight": "경제 및 금융 관련 뉴스는 중립적",
+      "action": "경제 및 금융 관련 뉴스 분석",
       "priority": "medium"
     },
     {
-      "insight": "테크 산업의 성장",
-      "action": "테크 산업에 대한 투자와 협력",
-      "priority": "medium"
+      "insight": "최신 기술 및 가전 제품은 긍정적",
+      "action": "최신 기술 및 가전 제품 투자",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 적용 사례의 증가, 국내 정치의 불안정성, 테크 산업의 성장 등이다. 이러한 트렌드는 비즈니스에 대한 새로운 기회와 도전을 제공하며, 기업들은 이러한 트렌드에 대한 대응 전략을 개발해야 한다. AI 기술의 발전은 다양한 산업에서 활용될 수 있으며, 테크 산업의 성장은 새로운 비즈니스 모델의 개발을 가능하게 한다. 그러나 국내 정치의 불안정성은 비즈니스에 대한 불확실성을 증가시킬 수 있다. 따라서 기업들은 이러한 트렌드에 대한 깊은 이해와 대응 전략을 개발해야 한다.",
-  "analyzed_at": "2026-04-15T07:30:34.474Z",
-  "post_count": 62,
+  "narrative": "최근 AI 기술의 발전은 다양한 산업의 성장을 촉진하고 있습니다. 경제 및 금융 관련 뉴스는 중립적이며, 최신 기술 및 가전 제품은 긍정적입니다. 이러한 트렌드에 따라 AI 기술을 활용한 산업 투자와 최신 기술 및 가전 제품 투자가 필요합니다. 또한, 경제 및 금융 관련 뉴스 분석을 통해 시장의 동향을 파악하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-15T09:00:33.625Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
