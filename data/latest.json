@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있다. AI 해킹, AI 전시, AI 스마트글래스 등 다양한 주제들이 포함되어 있다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련된 주제들이 논의되고 있다. 대통령, 지선, 정치권 등 다양한 주제들이 포함되어 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련된 주제들이 논의되고 있다. 로봇, 전기차, LED 디스플레이 등 다양한 주제들이 포함되어 있다.",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 논평",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 제품과 서비스의 출시",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
@@ -26,47 +26,47 @@
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "정치",
       "count": 15,
       "sentiment": "mixed",
-      "context": "정치 관련된 주제"
+      "context": "정치 관련 뉴스와 논평"
     },
     {
       "keyword": "기술",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련된 주제"
+      "context": "최신 기술 제품과 서비스의 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 관련된 산업에 투자할 수 있다.",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 주제는 항상 논의되는 주제이다.",
-      "action": "정치 관련된 주제를 주시하고, 관련된 산업에 투자할 수 있다.",
+      "insight": "정치 관련 뉴스와 논평은 여론을 형성하는 데 중요한 역할을 한다",
+      "action": "정치 관련 뉴스와 논평을 주시하고 대응하기",
       "priority": "medium"
     },
     {
-      "insight": "기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "기술의 발전을 주시하고, 관련된 산업에 투자할 수 있다.",
+      "insight": "최신 기술 제품과 서비스의 출시는 소비자들의 관심을 끌 수 있다",
+      "action": "최신 기술 제품과 서비스의 출시를 주시하고 마케팅 전략 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술, 정치, 기술 관련된 주제들이 주로 논의되고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 정치 관련된 주제는 항상 논의되는 주제이다. 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 관련된 산업에 투자할 수 있다. 따라서, 이러한 트렌드에 주시하고, 관련된 산업에 투자할 수 있다.",
-  "analyzed_at": "2026-04-15T01:30:34.018Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 정치 관련 뉴스와 논평, 최신 기술 제품과 서비스의 출시 등이다. 이러한 트렌드는 소비자들의 관심과 여론을 형성하는 데 중요한 역할을 한다. 따라서, 이러한 트렌드를 주시하고 대응하는 것은 비즈니스에 중요한 전략이다. AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있으며, 정치 관련 뉴스와 논평은 여론을 형성하는 데 중요한 역할을 한다. 또한, 최신 기술 제품과 서비스의 출시는 소비자들의 관심을 끌 수 있다. 이러한 트렌드를 활용하여 새로운 비즈니스 모델을 개발하고, 마케팅 전략을 개발하는 것이 중요하다.",
+  "analyzed_at": "2026-04-15T03:00:34.023Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
