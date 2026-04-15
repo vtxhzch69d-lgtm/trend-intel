@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "여러 정치 관련 주제가 논의되고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있다. AI 해킹, AI 전시, AI 스마트글래스 등 다양한 주제들이 포함되어 있다.",
       "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련된 주제들이 논의되고 있다. 대통령, 지선, 정치권 등 다양한 주제들이 포함되어 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 관련 뉴스와 제품 출시가 논의되고 있습니다.",
-      "post_count": 20,
+      "summary": "기술 관련된 주제들이 논의되고 있다. 로봇, 전기차, LED 디스플레이 등 다양한 주제들이 포함되어 있다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 기업 동향이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 논의"
-    },
-    {
-      "keyword": "쿠팡",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
-    },
-    {
       "keyword": "AI",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 관련된 주제"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련된 주제"
+    },
+    {
+      "keyword": "기술",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스"
+      "context": "기술 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 동향을 주시하여 사업 기회를 찾을 수 있습니다.",
-      "action": "기술 관련 뉴스 모니터링",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고, 관련된 산업에 투자할 수 있다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스를 분석하여 시장 동향을 예측할 수 있습니다.",
-      "action": "경제 관련 뉴스 분석",
+      "insight": "정치 관련된 주제는 항상 논의되는 주제이다.",
+      "action": "정치 관련된 주제를 주시하고, 관련된 산업에 투자할 수 있다.",
       "priority": "medium"
+    },
+    {
+      "insight": "기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "기술의 발전을 주시하고, 관련된 산업에 투자할 수 있다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치, 기술, 경제 관련 주제가 많이 논의되고 있습니다. 기술 관련 뉴스와 제품 출시가 주목을 받고 있으며, 경제 관련 뉴스와 기업 동향도 중요한 이슈입니다. 이러한 트렌드를 분석하여 사업 기회를 찾고, 시장 동향을 예측할 수 있습니다. 또한, 최신 기술 동향을 주시하고, 경제 관련 뉴스를 분석하여 중립적인 시각에서 시장의 변화를 예측할 수 있습니다.",
-  "analyzed_at": "2026-04-15T00:00:33.725Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술, 정치, 기술 관련된 주제들이 주로 논의되고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 정치 관련된 주제는 항상 논의되는 주제이다. 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 관련된 산업에 투자할 수 있다. 따라서, 이러한 트렌드에 주시하고, 관련된 산업에 투자할 수 있다.",
+  "analyzed_at": "2026-04-15T01:30:34.018Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
