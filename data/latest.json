@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용이 다양한 산업에 미치는 영향",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "국제 정치",
-      "summary": "이란과 이스라엘의 갈등, 러우전쟁 이후의 국제질서",
+      "summary": "이스라엘과 팔레스타인 간의 충돌, 러우전쟁 이후의 국제질서",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "부동산 장기보유특별공제 폐지, 주식 시장의 동향",
+      "summary": "부동산 장기보유특별공제 폐지, 비트캐쉬EX 금지",
       "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
@@ -27,13 +27,13 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "이란",
+      "keyword": "이스라엘",
       "count": 5,
       "sentiment": "negative",
-      "context": "이란과 이스라엘의 갈등"
+      "context": "이스라엘과 팔레스타인 간의 충돌"
     },
     {
       "keyword": "부동산",
@@ -43,25 +43,25 @@
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적이지만 일부 부정적인 감정"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있습니다.",
       "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "국제 정치의 불안정성",
-      "action": "국제 정치의 동향을 주시하고 비즈니스 전략을 조정",
+      "insight": "국제 정치의 불안정성은 경제에 영향을 미칠 수 있습니다.",
+      "action": "경제 및 금융 시장의 변동에 대한 준비",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 국제 정치의 불안정성에 관한 것으로, 이는 다양한 산업과 비즈니스에 미치는 영향을 이해하는 것이 중요합니다. AI 기술의 발전은 새로운 비즈니스 모델과 기회를 창출할 수 있지만, 국제 정치의 불안정성은 비즈니스 전략을 조정하고 위험을 관리하는 것이 필요합니다. 따라서, 이러한 트렌드를 주시하고 비즈니스 전략을 개발하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-15T12:00:34.024Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 국제 정치의 불안정성에 대한 관심이 높습니다. AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있지만, 국제 정치의 불안정성은 경제에 영향을 미칠 수 있습니다. 따라서, 이러한 트렌드에 대한 준비와 대응이 필요합니다. 또한, 부동산 장기보유특별공제 폐지와 비트캐쉬EX 금지 등 경제 및 금융 시장의 변동에 대한 준비가 필요합니다.",
+  "analyzed_at": "2026-04-15T13:30:34.551Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
