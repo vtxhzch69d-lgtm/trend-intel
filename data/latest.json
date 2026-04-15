@@ -2,72 +2,67 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "summary": "AI 기술의 발전과 적용이 다양한 산업에 미치는 영향",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "국제 정치",
+      "summary": "이란과 이스라엘의 갈등, 러우전쟁 이후의 국제질서",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "경제 및 금융",
+      "summary": "부동산 장기보유특별공제 폐지, 주식 시장의 동향",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
-    },
-    {
-      "keyword": "테크",
       "count": 20,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드"
+      "context": "AI 기술의 발전과 적용"
+    },
+    {
+      "keyword": "이란",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "이란과 이스라엘의 갈등"
+    },
+    {
+      "keyword": "부동산",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "부동산 장기보유특별공제 폐지"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "기대와 흥미"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적이지만 일부 부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견은 소셜 미디어에서 큰 관심을 끌 수 있다",
-      "action": "정치 관련 콘텐츠 개발",
+      "insight": "국제 정치의 불안정성",
+      "action": "국제 정치의 동향을 주시하고 비즈니스 전략을 조정",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 뉴스와 트렌드는 소비자의 관심을 끌 수 있다",
-      "action": "최신 기술 뉴스와 트렌드에 대한 콘텐츠 개발",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 정치 관련 뉴스와 의견, 최신 기술 뉴스와 트렌드가 큰 관심을 끌고 있다. 이러한 트렌드에 대한 분석과 이해는 비즈니스 모델 개발과 마케팅 전략 수립에 중요한 역할을 할 수 있다. 특히, AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있으며, 정치 관련 뉴스와 의견은 소셜 미디어에서 큰 관심을 끌 수 있다. 또한, 최신 기술 뉴스와 트렌드는 소비자의 관심을 끌 수 있으며, 이를 활용한 비즈니스 모델 개발과 마케팅 전략 수립이 필요하다.",
-  "analyzed_at": "2026-04-15T10:30:34.081Z",
-  "post_count": 61,
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 국제 정치의 불안정성에 관한 것으로, 이는 다양한 산업과 비즈니스에 미치는 영향을 이해하는 것이 중요합니다. AI 기술의 발전은 새로운 비즈니스 모델과 기회를 창출할 수 있지만, 국제 정치의 불안정성은 비즈니스 전략을 조정하고 위험을 관리하는 것이 필요합니다. 따라서, 이러한 트렌드를 주시하고 비즈니스 전략을 개발하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-15T12:00:34.024Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
