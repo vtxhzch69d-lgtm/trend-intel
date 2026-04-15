@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "summary": "AI 기술의 발전과 적용 사례",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논평",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 논평",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 제품과 서비스의 출시",
+      "topic": "기술 및 가전",
+      "summary": "신제품 출시와 기술 발전",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
@@ -30,43 +30,43 @@
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논평"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     },
     {
-      "keyword": "기술",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 제품과 서비스의 출시"
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 관련 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능",
+      "action": "AI 기술을 활용한 신규 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 논평은 여론을 형성하는 데 중요한 역할을 한다",
-      "action": "정치 관련 뉴스와 논평을 주시하고 대응하기",
+      "insight": "경제 및 정치 관련 뉴스는 계속해서 주목할 필요가 있음",
+      "action": "경제 및 정치 관련 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술 제품과 서비스의 출시는 소비자들의 관심을 끌 수 있다",
-      "action": "최신 기술 제품과 서비스의 출시를 주시하고 마케팅 전략 개발",
+      "insight": "신제품 출시와 기술 발전은 소비자들의 관심을 끌 수 있음",
+      "action": "신제품 출시와 기술 발전에 대한 마케팅 캠페인",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 정치 관련 뉴스와 논평, 최신 기술 제품과 서비스의 출시 등이다. 이러한 트렌드는 소비자들의 관심과 여론을 형성하는 데 중요한 역할을 한다. 따라서, 이러한 트렌드를 주시하고 대응하는 것은 비즈니스에 중요한 전략이다. AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있으며, 정치 관련 뉴스와 논평은 여론을 형성하는 데 중요한 역할을 한다. 또한, 최신 기술 제품과 서비스의 출시는 소비자들의 관심을 끌 수 있다. 이러한 트렌드를 활용하여 새로운 비즈니스 모델을 개발하고, 마케팅 전략을 개발하는 것이 중요하다.",
-  "analyzed_at": "2026-04-15T03:00:34.023Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 적용 사례가 많은 관심을 받고 있습니다. 또한, 경제 및 정치 관련 뉴스와 논평도 주목할 필요가 있습니다. 기술 및 가전 제품의 신제품 출시와 기술 발전도 소비자들의 관심을 끌 수 있습니다. 이러한 트렌드를 고려하여, AI 기술을 활용한 신규 서비스 개발과 경제 및 정치 관련 뉴스 모니터링, 신제품 출시와 기술 발전에 대한 마케팅 캠페인을 진행할 수 있습니다.",
+  "analyzed_at": "2026-04-15T04:30:33.828Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
