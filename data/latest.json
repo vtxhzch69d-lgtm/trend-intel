@@ -1,85 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프",
-      "summary": "트럼프의 예수님 이미지 게시와 관련된 글",
-      "post_count": 3,
-      "sentiment": "mixed",
+      "topic": "세월호 참사",
+      "summary": "세월호 참사 12주기를 맞아 다양한 반응이 나타나고 있습니다. 세월호 유족에 대한 지원과 기억이 계속되고 있습니다.",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "세월호",
-      "summary": "세월호 참사 12주기와 관련된 글",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 이를 통해 새로운 서비스와 제품이 개발되고 있습니다. AI 기술의 발전이 계속되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 글",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제와 관련된 글",
+      "topic": "국제 정치",
+      "summary": "국제 정치에서 다양한 사건이 발생하고 있으며, 이를 통해 세계 정세가 변화하고 있습니다. 국제 정치의 동향이 계속해서 주목되고 있습니다.",
       "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "트럼프의 예수님 이미지 게시"
-    },
-    {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 글"
+      "context": "AI 기술의 발전과 적용"
     },
     {
       "keyword": "세월호",
       "count": 2,
       "sentiment": "negative",
-      "context": "세월호 참사 12주기"
+      "context": "세월호 참사와 관련된 반응"
     },
     {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "경제와 관련된 글"
+      "keyword": "트럼프",
+      "count": 2,
+      "sentiment": "mixed",
+      "context": "트럼프와 관련된 사건과 반응"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 기분이 대부분이지만, 일부 긍정적이고 부정적인 기분도 존재"
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 미래의 핵심 기술",
-      "action": "AI 기술에 대한 투자와 연구를 강화",
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주목하고, 이를 통해 새로운 기회를 찾습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제와 관련된 글은 중립적인 기분을 보인다",
-      "action": "경제와 관련된 글을 더 많이 게시",
+      "insight": "세월호 참사와 관련된 반응이 여전히 존재합니다.",
+      "action": "세월호 참사와 관련된 지원과 기억을 계속합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "트럼프와 관련된 글은 부정적인 기분을 보인다",
-      "action": "트럼프와 관련된 글을 게시할 때 주의",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술과 관련된 글이 많았으며, 트럼프와 관련된 글은 부정적인 기분을 보였다. 세월호 참사 12주기와 관련된 글도 게시되었다. 경제와 관련된 글은 중립적인 기분을 보였다. 이러한 트렌드를 통해 미래의 핵심 기술인 AI 기술에 대한 투자와 연구를 강화할 필요가 있다. 또한, 트럼프와 관련된 글을 게시할 때 주의할 필요가 있다.",
-  "analyzed_at": "2026-04-15T16:30:33.870Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 국제 정치의 동향을 중심으로 형성되고 있습니다. 세월호 참사와 관련된 반응도 여전히 존재합니다. 이러한 트렌드를 통해 새로운 기회와 도전을 찾을 수 있습니다. 또한, 세월호 참사와 관련된 지원과 기억을 계속하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-15T18:00:34.168Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
