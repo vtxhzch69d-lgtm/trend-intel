@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, AI 및 로봇 기술에 대한 관심이 집중되고 있습니다.",
+      "topic": "정치",
+      "summary": "여러 정치 관련 주제가 논의되고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 전기요금 및 에너지 자립도에 대한 관심이 집중되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "최신 기술 관련 뉴스와 제품 출시가 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 정부 정책 및 정치인에 대한 관심이 집중되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 기업 동향이 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "트럼프",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 논의"
+    },
+    {
+      "keyword": "쿠팡",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
+    },
+    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 및 산업 동향"
-    },
-    {
-      "keyword": "로봇",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 및 산업 동향"
-    },
-    {
-      "keyword": "전기요금",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "경제 및 금융"
+      "context": "기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 30,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌어들이세요.",
+      "insight": "최신 기술 동향을 주시하여 사업 기회를 찾을 수 있습니다.",
+      "action": "기술 관련 뉴스 모니터링",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스에 대한 관심이 높아지고 있습니다.",
-      "action": "경제 및 금융 관련 뉴스에 대한 콘텐츠를 제공하여 관심을 끌어들이세요.",
+      "insight": "경제 관련 뉴스를 분석하여 시장 동향을 예측할 수 있습니다.",
+      "action": "경제 관련 뉴스 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, AI 및 로봇 기술에 대한 관심이 집중되고 있습니다. 또한, 경제 및 금융 관련 뉴스에 대한 관심이 높아지고 있습니다. 이러한 관심을 끌어들이기 위해 최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌어들이세요. 또한, 경제 및 금융 관련 뉴스에 대한 콘텐츠를 제공하여 관심을 끌어들이세요. 이러한 콘텐츠를 제공함으로써 관심을 끌어들이고 고객을 유치할 수 있습니다.",
-  "analyzed_at": "2026-04-14T22:30:34.304Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 정치, 기술, 경제 관련 주제가 많이 논의되고 있습니다. 기술 관련 뉴스와 제품 출시가 주목을 받고 있으며, 경제 관련 뉴스와 기업 동향도 중요한 이슈입니다. 이러한 트렌드를 분석하여 사업 기회를 찾고, 시장 동향을 예측할 수 있습니다. 또한, 최신 기술 동향을 주시하고, 경제 관련 뉴스를 분석하여 중립적인 시각에서 시장의 변화를 예측할 수 있습니다.",
+  "analyzed_at": "2026-04-15T00:00:33.725Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
