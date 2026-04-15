@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "세월호 참사",
-      "summary": "세월호 참사 12주기를 맞아 다양한 반응이 나타나고 있습니다. 세월호 유족에 대한 지원과 기억이 계속되고 있습니다.",
-      "post_count": 2,
+      "summary": "세월호 참사 12주기 및 유족에 대한 변호사비 청구",
+      "post_count": 3,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 이를 통해 새로운 서비스와 제품이 개발되고 있습니다. AI 기술의 발전이 계속되고 있습니다.",
-      "post_count": 10,
+      "summary": "AI 기술의 발전 및 적용 사례",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "topic": "국제 정치",
-      "summary": "국제 정치에서 다양한 사건이 발생하고 있으며, 이를 통해 세계 정세가 변화하고 있습니다. 국제 정치의 동향이 계속해서 주목되고 있습니다.",
-      "post_count": 5,
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "세월호",
-      "count": 2,
+      "count": 3,
       "sentiment": "negative",
-      "context": "세월호 참사와 관련된 반응"
+      "context": "세월호 참사"
     },
     {
-      "keyword": "트럼프",
-      "count": 2,
-      "sentiment": "mixed",
-      "context": "트럼프와 관련된 사건과 반응"
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주목하고, 이를 통해 새로운 기회를 찾습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "세월호 참사와 관련된 반응이 여전히 존재합니다.",
-      "action": "세월호 참사와 관련된 지원과 기억을 계속합니다.",
+      "insight": "경제 및 정치의 불안정성",
+      "action": "경제 및 정치 관련 리스크 관리",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 국제 정치의 동향을 중심으로 형성되고 있습니다. 세월호 참사와 관련된 반응도 여전히 존재합니다. 이러한 트렌드를 통해 새로운 기회와 도전을 찾을 수 있습니다. 또한, 세월호 참사와 관련된 지원과 기억을 계속하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-15T18:00:34.168Z",
+  "narrative": "최근의 트렌드 분석 결과, 세월호 참사와 관련된 게시글이 많이 올라왔으며, AI 기술의 발전과 적용 사례도 많은 관심을 받았습니다. 또한, 경제 및 정치 관련 뉴스도 많이 올라왔으며, 중립적인 감정이 대부분을 차지했습니다. 이러한 결과를 바탕으로, 비즈니스 인사이트를 도출해 볼 수 있습니다. 첫째, AI 기술의 발전을 활용한 비즈니스 모델 개발이 필요합니다. 둘째, 경제 및 정치의 불안정성에 대비한 리스크 관리가 필요합니다.",
+  "analyzed_at": "2026-04-15T19:30:34.184Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
