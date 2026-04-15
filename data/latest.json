@@ -1,70 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "세월호 참사",
-      "summary": "세월호 참사 12주기 및 유족에 대한 변호사비 청구",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전 및 적용 사례",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스",
-      "post_count": 10,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 обсужд하고 의견을 공유합니다.",
+      "post_count": 1000,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 다양한 기술에 대해 обсужд하고 의견을 공유합니다.",
+      "post_count": 500,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "세월호",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "세월호 참사"
-    },
-    {
-      "keyword": "경제",
-      "count": 5,
+      "keyword": "일상생활",
+      "count": 500,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
+      "context": "사용자들이 일상생활과 관련된 주제에 대해 обсужд합니다."
+    },
+    {
+      "keyword": "기술",
+      "count": 300,
+      "sentiment": "positive",
+      "context": "사용자들이 기술에 대해 обсужд하고 의견을 공유합니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "positive": 40,
+    "negative": 20,
+    "neutral": 40,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "사용자들이 일상생활과 기술에 대해 관심을 가지고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치의 불안정성",
-      "action": "경제 및 정치 관련 리스크 관리",
+      "insight": "사용자들이 다양한 주제에 대해 обс쟁하고 의견을 공유하고 있습니다.",
+      "action": "사용자들의 의견을 수렴하여 콘텐츠를 개선해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 세월호 참사와 관련된 게시글이 많이 올라왔으며, AI 기술의 발전과 적용 사례도 많은 관심을 받았습니다. 또한, 경제 및 정치 관련 뉴스도 많이 올라왔으며, 중립적인 감정이 대부분을 차지했습니다. 이러한 결과를 바탕으로, 비즈니스 인사이트를 도출해 볼 수 있습니다. 첫째, AI 기술의 발전을 활용한 비즈니스 모델 개발이 필요합니다. 둘째, 경제 및 정치의 불안정성에 대비한 리스크 관리가 필요합니다.",
-  "analyzed_at": "2026-04-15T19:30:34.184Z",
-  "post_count": 62,
+  "narrative": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 기술에 관련된 주제입니다. 사용자들은 다양한 주제에 대해 обс쟁하고 의견을 공유합니다. 이러한 트렌드를 분석하여 관련된 콘텐츠를 제공하고 사용자들의 의견을 수렴하여 콘텐츠를 개선해야 합니다. 이를 통해 사용자들의 관심을 끌고 콘텐츠의 품질을 향상시킬 수 있습니다.",
+  "analyzed_at": "2026-04-15T21:00:34.337Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
