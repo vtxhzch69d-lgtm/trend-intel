@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 의견이 있습니다. AI 해킹의 위험성과 보안의 중요성을 강조하는 내용이 많습니다.",
+      "summary": "AI 기술의 발전과 적용 사례가 증가하고 있으며, 다양한 산업에서 활용되고 있다.",
       "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 있습니다. 대통령과 정치인들의 활동과 발언에 대한 반응이 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "새로운 기술과 제품에 대한 뉴스와 의견이 있습니다. 스마트폰과 컴퓨터 관련 뉴스가 많습니다.",
-      "post_count": 12,
+      "topic": "국내 정치",
+      "summary": "국내 정치 관련 뉴스와 논란이 증가하고 있으며, 다양한 의견과 반응이 나타나고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테크 뉴스",
+      "summary": "새로운 기술과 제품이 출시되고 있으며, 다양한 산업에서 혁신이 일어나고 있다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -25,43 +25,48 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 뉴스와 의견"
+      "count": 25,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 적용 사례"
     },
     {
-      "keyword": "정치",
+      "keyword": "국내 정치",
       "count": 10,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
+      "context": "국내 정치 관련 뉴스와 논란"
     },
     {
-      "keyword": "스마트폰",
-      "count": 5,
+      "keyword": "테크",
+      "count": 20,
       "sentiment": "positive",
-      "context": "새로운 스마트폰 제품과 기술에 대한 뉴스와 의견"
+      "context": "새로운 기술과 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 방안을 모색합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견은 소비자의 관심을 끌 수 있습니다.",
-      "action": "정치 관련 뉴스와 의견을 주시하고, 이를 활용하여 마케팅 전략을 개선하는 방안을 모색합니다.",
+      "insight": "국내 정치의 불안정성",
+      "action": "국내 정치의 불안정성에 대한 대응 전략 개발",
+      "priority": "medium"
+    },
+    {
+      "insight": "테크 산업의 성장",
+      "action": "테크 산업에 대한 투자와 협력",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 뉴스와 의견이 많습니다. AI 해킹의 위험성과 보안의 중요성을 강조하는 내용이 많습니다. 또한, 정치 관련 뉴스와 의견이 있습니다. 이러한 트렌드를 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 방안을 모색하는 것이 중요합니다. 마케터는 이러한 트렌드를 분석하여, 소비자의 관심을 끌 수 있는 마케팅 전략을 개발해야 합니다.",
-  "analyzed_at": "2026-04-15T06:00:34.067Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 적용 사례의 증가, 국내 정치의 불안정성, 테크 산업의 성장 등이다. 이러한 트렌드는 비즈니스에 대한 새로운 기회와 도전을 제공하며, 기업들은 이러한 트렌드에 대한 대응 전략을 개발해야 한다. AI 기술의 발전은 다양한 산업에서 활용될 수 있으며, 테크 산업의 성장은 새로운 비즈니스 모델의 개발을 가능하게 한다. 그러나 국내 정치의 불안정성은 비즈니스에 대한 불확실성을 증가시킬 수 있다. 따라서 기업들은 이러한 트렌드에 대한 깊은 이해와 대응 전략을 개발해야 한다.",
+  "analyzed_at": "2026-04-15T07:30:34.474Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
