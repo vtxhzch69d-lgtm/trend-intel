@@ -1,72 +1,85 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "트럼프",
+      "summary": "트럼프의 예수님 이미지 게시와 관련된 글",
+      "post_count": 3,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "세월호",
+      "summary": "세월호 참사 12주기와 관련된 글",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "전기차 충전 사업",
-      "summary": "전기차 충전 사업의 문제점과 해결 방안",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 글",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 새로운 제품 출시와 기술 개발",
+      "topic": "경제",
+      "summary": "경제와 관련된 글",
       "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "전기차",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "전기차 충전 사업의 문제점"
-    },
-    {
-      "keyword": "삼성전자",
+      "keyword": "트럼프",
       "count": 5,
+      "sentiment": "negative",
+      "context": "트럼프의 예수님 이미지 게시"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "삼성전자의 새로운 제품 출시"
+      "context": "AI 기술과 관련된 글"
+    },
+    {
+      "keyword": "세월호",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "세월호 참사 12주기"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제와 관련된 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 기분이 대부분이지만, 일부 긍정적이고 부정적인 기분도 존재"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 제품 개발",
+      "insight": "AI 기술은 미래의 핵심 기술",
+      "action": "AI 기술에 대한 투자와 연구를 강화",
       "priority": "high"
     },
     {
-      "insight": "전기차 충전 사업의 문제점",
-      "action": "전기차 충전 사업의 해결 방안 개발",
+      "insight": "경제와 관련된 글은 중립적인 기분을 보인다",
+      "action": "경제와 관련된 글을 더 많이 게시",
       "priority": "medium"
     },
     {
-      "insight": "삼성전자의 기술 개발",
-      "action": "삼성전자의 기술 개발에 대한 투자",
-      "priority": "medium"
+      "insight": "트럼프와 관련된 글은 부정적인 기분을 보인다",
+      "action": "트럼프와 관련된 글을 게시할 때 주의",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 전기차 충전 사업의 문제점도 해결 방안을 개발하여야 하며, 삼성전자의 기술 개발에 대한 투자가 필요합니다. 이러한 트렌드와 인사이트를 바탕으로 사업을 개발하고 투자하여 성과를 낼 수 있을 것입니다.",
-  "analyzed_at": "2026-04-15T15:00:34.147Z",
+  "narrative": "최근의 트렌드는 AI 기술과 관련된 글이 많았으며, 트럼프와 관련된 글은 부정적인 기분을 보였다. 세월호 참사 12주기와 관련된 글도 게시되었다. 경제와 관련된 글은 중립적인 기분을 보였다. 이러한 트렌드를 통해 미래의 핵심 기술인 AI 기술에 대한 투자와 연구를 강화할 필요가 있다. 또한, 트럼프와 관련된 글을 게시할 때 주의할 필요가 있다.",
+  "analyzed_at": "2026-04-15T16:30:33.870Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
