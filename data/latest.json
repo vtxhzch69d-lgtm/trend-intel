@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "세월호 참사",
-      "summary": "세월호 참사 12주기를 맞아 많은 사람들이 기억하고 추모하는 게시글이 나타났습니다. 세월호 참사에 대한 진실이 밝혀지길 기원하는 게시글도 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "세월호 참사 관련 게시물이 많습니다. 사용자들은 세월호 참사 희생자를 기억하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 관련 뉴스와 개발이 많은 게시글에서 다루어졌습니다. AI, OLED, 양자 AI 모델 등 다양한 주제가 포함되어 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 게시물이 많습니다. 사용자들은 정치 관련 뉴스와 의견을 공유하고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "스포츠",
-      "summary": "월드컵과 관련된 게시글이 나타났습니다. 홍명보 호 월드컵 명단발표와 전지훈련에 대한 게시글이 있습니다.",
-      "post_count": 2,
+      "topic": "기술",
+      "summary": "기술 관련 게시물이 많습니다. 사용자들은 새로운 기술과 제품에 대해 관심을 보이고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,43 +25,43 @@
   "keywords": [
     {
       "keyword": "세월호",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "세월호 참사 관련 게시물"
+    },
+    {
+      "keyword": "정치",
       "count": 15,
       "sentiment": "mixed",
-      "context": "세월호 참사에 대한 기억과 추모"
+      "context": "정치 관련 게시물"
     },
     {
-      "keyword": "AI",
-      "count": 5,
+      "keyword": "기술",
+      "count": 20,
       "sentiment": "positive",
-      "context": "최신 기술 및 과학 개발"
-    },
-    {
-      "keyword": "OLED",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "최신 기술 및 과학 개발"
+      "context": "기술 관련 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 5,
-    "neutral": 20,
-    "overall_mood": "중립적이며 정보를 제공하는 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 과학 개발에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 및 과학 개발에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려할 수 있습니다.",
+      "insight": "사용자들은 세월호 참사와 정치 관련 게시물에 많은 관심을 보이고 있습니다.",
+      "action": "사용자들의 관심을 반영한 콘텐츠를 제공할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "세월호 참사에 대한 기억과 추모가 중요합니다.",
-      "action": "세월호 참사에 대한 기억과 추모를 존중하고, 관련 캠페인이나 이벤트를 고려할 수 있습니다.",
+      "insight": "기술 관련 게시물이 많습니다.",
+      "action": "새로운 기술과 제품에 대한 정보를 제공할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 분석 결과를 바탕으로, 최신 기술 및 과학 개발에 대한 관심이 높아지고 있습니다. 세월호 참사에 대한 기억과 추모도 중요합니다. 이러한 트렌드와 분석 결과를 고려하여, 최신 기술 및 과학 개발에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려할 수 있습니다. 또한, 세월호 참사에 대한 기억과 추모를 존중하고, 관련 캠페인이나 이벤트를 고려할 수 있습니다.",
-  "analyzed_at": "2026-04-16T03:30:34.796Z",
+  "narrative": "사용자들은 세월호 참사와 정치 관련 게시물에 많은 관심을 보이고 있습니다. 기술 관련 게시물도 많습니다. 사용자들의 관심을 반영한 콘텐츠를 제공할 수 있습니다. 새로운 기술과 제품에 대한 정보를 제공할 수 있습니다. 중립적인 분위기를 유지하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-16T05:00:33.242Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
