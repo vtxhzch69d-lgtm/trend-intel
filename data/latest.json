@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "KF-21 양산 1호기 첫 비행 성공",
-      "summary": "KF-21 양산 1호기가 첫 비행에 성공했다. 이는 한국의 방산 산업 발전에 큰 의미가 있다.",
-      "post_count": 2,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용에 대한 관심이 높아지고 있습니다. 클리앙 커뮤니티에서는 AI 관련 게시글이 많이 올라오고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 발전",
-      "summary": "AI 기술이 빠르게 발전하고 있다. 이는 다양한 산업에 큰 영향을 미칠 것이다.",
+      "topic": "정치",
+      "summary": "정치 관련 게시글이 많이 올라오고 있습니다. 특히 하정우 수석과 관련된 게시글이 많습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제가 계속해서 논란이 되고 있다. 이는 한국 사회에 큰 영향을 미칠 것이다.",
-      "post_count": 15,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "과학 기술",
+      "summary": "과학 기술 관련 게시글이 많이 올라오고 있습니다. 특히 우주와 관련된 게시글이 많습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "KF-21",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "첫 비행 성공"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "사회 문제"
+      "keyword": "하정우",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련 게시글"
+    },
+    {
+      "keyword": "우주",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "과학 기술 관련 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 12,
-    "negative": 18,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정으로 가득 차 있다."
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "KF-21 양산 1호기 첫 비행 성공은 한국의 방산 산업 발전에 큰 기회가 될 수 있다.",
-      "action": "방산 산업에 투자하기",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 적용하여 비즈니스 모델을 개선",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 발전은 다양한 산업에 큰 영향을 미칠 것이다.",
-      "action": "AI 기술에 투자하기",
+      "insight": "정치 관련 게시글의 증가",
+      "action": "정치 관련 게시글을 모니터링하여 비즈니스에 영향을 미치는 요소를 파악",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 문제는 한국 사회에 큰 영향을 미칠 것이다.",
-      "action": "정치 및 사회 문제에 관심 가져야 한다.",
-      "priority": "high"
+      "insight": "과학 기술의 발전",
+      "action": "과학 기술을 적용하여 비즈니스 모델을 개선",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 KF-21 양산 1호기 첫 비행 성공, AI 기술 발전, 정치 및 사회 문제 등이다. 이러한 트렌드는 한국 사회에 큰 영향을 미칠 것이다. 따라서 이러한 트렌드에 관심을 가져야 하며, 필요한 경우에는 투자나 행동을 취해야 한다. 특히, KF-21 양산 1호기 첫 비행 성공과 AI 기술 발전은 한국의 산업 발전에 큰 기회가 될 수 있다. 그러나 정치 및 사회 문제는 한국 사회에 부정적인 영향을 미칠 수 있으므로, 관심을 가져야 한다.",
-  "analyzed_at": "2026-04-16T11:00:34.401Z",
+  "narrative": "클리앙 커뮤니티에서 AI 기술과 정치 관련 게시글이 많이 올라오고 있습니다. AI 기술의 발전과 적용에 대한 관심이 높아지고 있으며, 정치 관련 게시글은 하정우 수석과 관련된 게시글이 많습니다. 또한 과학 기술 관련 게시글이 많이 올라오고 있습니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개선하고 정치 관련 게시글을 모니터링하여 비즈니스에 영향을 미치는 요소를 파악할 수 있습니다.",
+  "analyzed_at": "2026-04-16T12:30:33.512Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
