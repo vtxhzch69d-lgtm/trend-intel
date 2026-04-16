@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "하정우 수석",
-      "summary": "하정우 수석 관련 논란과 의견이 분분하다. 일부에서는 그의 역할과 책임에 대해 질문을 던지고 있다.",
+      "topic": "정치",
+      "summary": "이재명 대통령과 관련된 여러 뉴스가 뜨고 있습니다. 또한 조국혁신당의 세월호 추모와 박상용의 상사였던 김영남에 대한 뉴스도 있습니다.",
       "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용에 대한 관심이 높다. 다양한 분야에서 AI의 활용이 논의되고 있다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스들입니다. AI, 양자컴퓨터, 우주 산업 등 다양한 주제가 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치와 사회 문제에 대한 논의가 활발하다. 다양한 주제와 의견이 제기되고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "경제 뉴스들입니다. 삼성전자, 현대차그룹, LGD 등 다양한 기업들의 뉴스가 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "하정우",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "하정우 수석 관련 논란"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "기술 뉴스"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 문제"
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 일부에서는 부정적인 감정도 존재한다"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있다",
-      "action": "AI 기술의 적용과 발전을 주시하고 준비한다",
+      "insight": "기술 산업은 빠르게 성장하고 있습니다.",
+      "action": "기술 산업에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회 문제에 대한 논의가 기업의 이미지를影响할 수 있다",
-      "action": "정치와 사회 문제에 대한 기업의 입장을 명확히 한다",
+      "insight": "정치 뉴스는 여전히 많은 관심을 받고 있습니다.",
+      "action": "정치 뉴스에 대한 분석을 더 많이 하기",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 정치 및 사회 문제에 대한 논의가 주목할 만하다. 하정우 수석 관련 논란도 일부에서 논의되고 있다. 이러한 트렌드와 키워드를 고려하여 기업은 AI 기술의 적용과 발전을 주시하고 준비하며, 정치와 사회 문제에 대한 기업의 입장을 명확히 해야 한다. 또한, 기업은 이러한 트렌드와 키워드를 활용하여 마케팅 전략을 수립하고 고객의 관심을 끌 수 있어야 한다.",
-  "analyzed_at": "2026-04-16T14:00:34.859Z",
+  "narrative": "최근의 트렌드는 기술 산업의 성장과 정치 뉴스의 많은 관심을 받고 있습니다. 기술 산업은 빠르게 성장하고 있으며, 많은 기업들이 기술 산업에 투자하고 있습니다. 정치 뉴스는 여전히 많은 관심을 받고 있으며, 다양한 정치 뉴스가 뜨고 있습니다. 이러한 트렌드를 분석하여 기업들은 자신의 비즈니스 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-16T15:30:35.397Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
