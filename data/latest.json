@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 정부",
-      "summary": "이재명 정부의 정책과 행보에 대한 논의가 활발하다. 충전 사업자 관련 정책과 세월호 추도식 등 다양한 주제가 논의되고 있다.",
-      "post_count": 10,
+      "topic": "Opus 4.7",
+      "summary": "Opus 4.7의 출시와 관련된 논의가 많습니다. 일부 사용자들은 기대 이하의 평을 남기고 있습니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "오푸스 4.7",
-      "summary": "오푸스 4.7의 출시와 관련된 뉴스와 리뷰가 많다. 사용자들의 반응은 다양하다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "늑구 생포",
+      "summary": "대전 탈출 늑대 '늑구'가 생포되었습니다. 관련된 게시글이 여러 개 있습니다.",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "low"
     },
     {
-      "topic": "늑구 생포",
-      "summary": "대전 탈출 늑대 '늑구'의 생포 소식이 화제다. 많은 사용자들이 관련 뉴스를 공유하고 있다.",
-      "post_count": 4,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 여러 개 있습니다. 일부 사용자들은 정치인에 대한 비판을 남기고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "이재명 정부의 정책과 행보에 대한 논의"
-    },
-    {
-      "keyword": "오푸스 4.7",
-      "count": 8,
+      "keyword": "Opus 4.7",
+      "count": 7,
       "sentiment": "neutral",
-      "context": "오푸스 4.7의 출시와 관련된 뉴스와 리뷰"
+      "context": "Opus 4.7의 출시와 관련된 논의"
     },
     {
       "keyword": "늑구",
-      "count": 6,
+      "count": 3,
       "sentiment": "positive",
-      "context": "대전 탈출 늑대 '늑구'의 생포 소식"
+      "context": "대전 탈출 늑대 '늑구'의 생포"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련된 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기이지만 일부 사용자들은 부정적인 감정을 표현하고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "이재명 정부의 정책과 행보에 대한 논의가 활발하다.",
-      "action": "정책과 관련된 뉴스와 분석을 제공한다.",
-      "priority": "high"
+      "insight": "Opus 4.7의 출시와 관련된 논의가 많습니다.",
+      "action": "Opus 4.7의 마케팅 전략을 재평가해야 합니다.",
+      "priority": "medium"
     },
     {
-      "insight": "오푸스 4.7의 출시와 관련된 뉴스와 리뷰가 많다.",
-      "action": "오푸스 4.7의 출시와 관련된 마케팅 캠페인을 진행한다.",
-      "priority": "medium"
+      "insight": "정치 관련된 게시글이 많습니다.",
+      "action": "정치 관련된 마케팅 전략을 재평가해야 합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "이번 주에는 이재명 정부의 정책과 행보에 대한 논의가 활발했다. 충전 사업자 관련 정책과 세월호 추도식 등 다양한 주제가 논의되고 있다. 또한 오푸스 4.7의 출시와 관련된 뉴스와 리뷰가 많았다. 사용자들의 반응은 다양했다. 대전 탈출 늑대 '늑구'의 생포 소식도 화제였다. 많은 사용자들이 관련 뉴스를 공유하고 있다. 중립적인 분위기가 지속되고 있다. 마케터들은 이재명 정부의 정책과 관련된 뉴스와 분석을 제공하고, 오푸스 4.7의 출시와 관련된 마케팅 캠페인을 진행할 수 있다.",
-  "analyzed_at": "2026-04-16T21:30:34.692Z",
+  "narrative": "최근의 트렌드는 Opus 4.7의 출시와 관련된 논의, 대전 탈출 늑대 '늑구'의 생포, 정치 관련된 논의 등입니다. 일부 사용자들은 Opus 4.7의 기대 이하의 평을 남기고 있습니다. 또한, 정치 관련된 게시글이 많으며 일부 사용자들은 정치인에 대한 비판을 남기고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 재평가해야 합니다.",
+  "analyzed_at": "2026-04-16T23:00:34.053Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
