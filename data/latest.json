@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 잠재력과 한계, 그리고 이를 활용한 다양한 산업의 발전이 주목받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "대장동 수사",
+      "summary": "대장동 수사 관련 게시물이 많이 올라왔습니다. 검찰의 수사 진행 상황과 관련된 뉴스가 주를 이루고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "한국의 정치 상황과 관련된 다양한 주제가 논의되고 있습니다. 대선과 관련된 주제, 정치인들의 활동, 그리고 정치적 이슈가 주목받고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 게시물이 많이 올라왔습니다. 새로운 기술 개발과 관련된 뉴스가 주를 이루고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "한국의 경제 상황과 관련된 다양한 주제가 논의되고 있습니다. 경제 성장, 산업 발전, 그리고 금융 시장의 동향이 주목받고 있습니다.",
+      "topic": "경제 뉴스",
+      "summary": "경제 관련 게시물이 많이 올라왔습니다. 주식 시장이 상승하고 있는 상황에서 관련된 뉴스가 주를 이루고 있습니다.",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "대장동",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "대장동 수사 관련"
+    },
+    {
       "keyword": "AI",
-      "count": 20,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "context": "AI 기술 개발"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "한국의 정치 상황과 관련된 주제"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "한국의 경제 상황과 관련된 주제"
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "주식 시장 상승"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 10,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 발전을 촉진할 수 있습니다.",
-      "action": "AI 기술의 개발과 투자를 강화합니다.",
+      "insight": "대장동 수사 관련 뉴스를 주목해야 합니다.",
+      "action": "관련된 게시물에 주목",
       "priority": "high"
     },
     {
-      "insight": "한국의 정치 상황은 경제와 산업에 영향을 미칠 수 있습니다.",
-      "action": "정치 상황을 주시하고 대응책을 마련합니다.",
+      "insight": "AI 기술 개발에 투자해야 합니다.",
+      "action": "관련된 기술 개발에 투자",
       "priority": "medium"
     },
     {
-      "insight": "한국의 경제 상황은 산업의 발전과 관련이 있습니다.",
-      "action": "경제 상황을 주시하고 산업의 발전을 지원합니다.",
-      "priority": "low"
+      "insight": "주식 시장의 상승을 주목해야 합니다.",
+      "action": "관련된 뉴스를 주목",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재 한국의 온라인 커뮤니티에서는 AI 기술, 정치, 경제와 관련된 주제가 주목받고 있습니다. AI 기술의 발전은 다양한 산업의 발전을 촉진할 수 있으며, 정치 상황은 경제와 산업에 영향을 미칠 수 있습니다. 따라서 이러한 주제에 대한 관심과 투자가 필요합니다. 또한, 경제 상황은 산업의 발전과 관련이 있으므로 경제 상황을 주시하고 산업의 발전을 지원하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-16T08:00:34.296Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 대장동 수사, AI 기술, 경제 뉴스 등이 주를 이루고 있습니다. 대장동 수사 관련 게시물은 많은 사람들이 관심을 가지고 있는 것으로 보입니다. AI 기술 개발도 많은 사람들이 주목하고 있는 분야입니다. 경제 뉴스도 주식 시장의 상승과 관련된 게시물이 많이 올라오는 것으로 보입니다. 이러한 트렌드를 주목하여 관련된 게시물에 주목하고, 관련된 기술 개발에 투자하는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-04-16T09:30:34.371Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
