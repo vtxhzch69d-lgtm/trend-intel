@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 여러 뉴스가 뜨고 있습니다. 또한 조국혁신당의 세월호 추모와 박상용의 상사였던 김영남에 대한 뉴스도 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스들입니다. AI, 양자컴퓨터, 우주 산업 등 다양한 주제가 있습니다.",
+      "topic": "기술 및 과학",
+      "summary": "최근 기술 및 과학 관련 뉴스와 개발이 주목을 받고 있습니다. 우주 발사, AI 기술, 양자 컴퓨팅 등 다양한 분야에서 새로운 발전이 이루어지고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스들입니다. 삼성전자, 현대차그룹, LGD 등 다양한 기업들의 뉴스가 있습니다.",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스도 많은 관심을 받고 있습니다. 기업의 성과, 경제 정책, 정치적인 상황 등 다양한 주제가 обсужд되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화 관련 주제도 주목을 받고 있습니다. 교육, 예술, 엔터테인먼트 등 다양한 분야에서 새로운 트렌드와 이슈가 나타나고 있습니다.",
       "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 뉴스"
-    },
-    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "AI 기술의 발전과 ứng용"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "우주",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "sentiment": "positive",
+      "context": "우주 발사와 우주 탐사"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "기업의 성과와 경제 정책"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "적극적이고 호의적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 산업은 빠르게 성장하고 있습니다.",
-      "action": "기술 산업에 투자하기",
+      "insight": "기술 및 과학 분야의 발전을 주목하고 투자할 필요가 있습니다.",
+      "action": "관련 기술과 서비스에 대한 투자와 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스는 여전히 많은 관심을 받고 있습니다.",
-      "action": "정치 뉴스에 대한 분석을 더 많이 하기",
+      "insight": "경제 및 정치 분야의 동향을 주시하고 대응할 필요가 있습니다.",
+      "action": "관련 뉴스와 분석을 주시하고 대응 전략을 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 기술 산업의 성장과 정치 뉴스의 많은 관심을 받고 있습니다. 기술 산업은 빠르게 성장하고 있으며, 많은 기업들이 기술 산업에 투자하고 있습니다. 정치 뉴스는 여전히 많은 관심을 받고 있으며, 다양한 정치 뉴스가 뜨고 있습니다. 이러한 트렌드를 분석하여 기업들은 자신의 비즈니스 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-16T15:30:35.397Z",
+  "narrative": "최근 기술 및 과학 분야의 발전이 주목을 받고 있습니다. 우주 발사, AI 기술, 양자 컴퓨팅 등 다양한 분야에서 새로운 발전이 이루어지고 있습니다. 이러한 트렌드는 기업과 개인에게 새로운 기회와 도전을 제공할 것입니다. 또한, 경제 및 정치 분야의 동향도 주시하고 대응할 필요가 있습니다. 관련 뉴스와 분석을 주시하고 대응 전략을 수립하여 미래를 준비할 필요가 있습니다.",
+  "analyzed_at": "2026-04-16T17:00:33.973Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
