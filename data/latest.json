@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "기술 및 과학",
-      "summary": "최근 기술 및 과학 분야에서 다양한 발전이 이루어지고 있으며, AI, 양자컴퓨팅, 우주 개발 등이 주목을 받고 있다.",
+      "summary": "최근 기술 및 과학 분야의 뉴스와 개발이 주목받고 있습니다. 특히 AI와 양자 기술의 발전이 눈에 띕니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 분야에서 다양한 이슈가 논의되고 있으며, 경제 성장, 정치적 불안정성 등이 주요 관심사이다.",
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 분야의 뉴스와 동향이 주목받고 있습니다. 특히 기업의 성과와 산업의 발전이 관심을 끌고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 분야에서 다양한 이슈가 논의되고 있으며, 교육, 예술, 엔터테인먼트 등이 주요 관심사이다.",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 분야의 뉴스와 이슈가 주목받고 있습니다. 특히 정치인의 활동과 사회적인 문제가 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng"
+      "context": "AI의 발전과 적용"
     },
     {
-      "keyword": "양자컴퓨팅",
+      "keyword": "양자 기술",
       "count": 5,
       "sentiment": "positive",
-      "context": "양자컴퓨팅의 발전과 잠재적 영향"
+      "context": "양자 기술의 발전과 가능성"
     },
     {
-      "keyword": "우주 개발",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "우주 개발의 발전과 잠재적 영향"
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제의 동향과 성과"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "적극적이고 낙관적인 분위기"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 및 과학 분야의 발전은 경제 성장과 사회 발전에 기여할 수 있다.",
-      "action": "기술 및 과학 분야에 투자하고 연구를 지원하는 것",
+      "insight": "기술 및 과학 분야의 발전을 주목해야 합니다.",
+      "action": "기술 및 과학 분야의 뉴스와 개발을 모니터링하세요.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 분야의 불안정성은 기업과 개인에게 영향을 미칠 수 있다.",
-      "action": "경제 및 정치 분야의 동향을 주시하고 대응 策略을 수립하는 것",
+      "insight": "경제 및 산업 분야의 동향을 분석해야 합니다.",
+      "action": "경제 및 산업 분야의 뉴스와 데이터를 분석하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 기술 및 과학 분야에서 다양한 발전이 이루어지고 있으며, AI, 양자컴퓨팅, 우주 개발 등이 주목을 받고 있다. 이러한 기술의 발전은 경제 성장과 사회 발전에 기여할 수 있다. 그러나 경제 및 정치 분야의 불안정성은 기업과 개인에게 영향을 미칠 수 있다. 따라서 기술 및 과학 분야에 투자하고 연구를 지원하는 것이 중요하며, 경제 및 정치 분야의 동향을 주시하고 대응 策略을 수립하는 것도 필요하다. 또한 사회 및 문화 분야에서 다양한 이슈가 논의되고 있으며, 교육, 예술, 엔터테인먼트 등이 주요 관심사이다. 이러한 이슈들은 기업과 개인에게 기회와 도전을 제공할 수 있다.",
-  "analyzed_at": "2026-04-16T18:30:34.268Z",
+  "narrative": "최근 기술 및 과학 분야의 뉴스와 개발이 주목받고 있습니다. 특히 AI와 양자 기술의 발전이 눈에 띕니다. 경제 및 산업 분야의 뉴스와 동향도 주목받고 있습니다. 정치 및 사회 분야의 뉴스와 이슈도 논의되고 있습니다. 이러한 동향을 분석하여 사업 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-16T20:00:34.135Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
