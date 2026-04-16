@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "대장동 수사",
-      "summary": "대장동 수사 관련 게시물이 많이 올라왔습니다. 검찰의 수사 진행 상황과 관련된 뉴스가 주를 이루고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "KF-21 양산 1호기 첫 비행 성공",
+      "summary": "KF-21 양산 1호기가 첫 비행에 성공했다. 이는 한국의 방산 산업 발전에 큰 의미가 있다.",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 게시물이 많이 올라왔습니다. 새로운 기술 개발과 관련된 뉴스가 주를 이루고 있습니다.",
+      "topic": "AI 기술 발전",
+      "summary": "AI 기술이 빠르게 발전하고 있다. 이는 다양한 산업에 큰 영향을 미칠 것이다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 뉴스",
-      "summary": "경제 관련 게시물이 많이 올라왔습니다. 주식 시장이 상승하고 있는 상황에서 관련된 뉴스가 주를 이루고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "정치 및 사회 문제",
+      "summary": "정치 및 사회 문제가 계속해서 논란이 되고 있다. 이는 한국 사회에 큰 영향을 미칠 것이다.",
+      "post_count": 15,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "대장동",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "대장동 수사 관련"
+      "keyword": "KF-21",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "첫 비행 성공"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술 개발"
+      "context": "기술 발전"
     },
     {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "주식 시장 상승"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "사회 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
+    "positive": 12,
+    "negative": 18,
     "neutral": 10,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "부정적인 감정으로 가득 차 있다."
   },
   "business_insights": [
     {
-      "insight": "대장동 수사 관련 뉴스를 주목해야 합니다.",
-      "action": "관련된 게시물에 주목",
+      "insight": "KF-21 양산 1호기 첫 비행 성공은 한국의 방산 산업 발전에 큰 기회가 될 수 있다.",
+      "action": "방산 산업에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 개발에 투자해야 합니다.",
-      "action": "관련된 기술 개발에 투자",
+      "insight": "AI 기술 발전은 다양한 산업에 큰 영향을 미칠 것이다.",
+      "action": "AI 기술에 투자하기",
       "priority": "medium"
     },
     {
-      "insight": "주식 시장의 상승을 주목해야 합니다.",
-      "action": "관련된 뉴스를 주목",
-      "priority": "medium"
+      "insight": "정치 및 사회 문제는 한국 사회에 큰 영향을 미칠 것이다.",
+      "action": "정치 및 사회 문제에 관심 가져야 한다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 대장동 수사, AI 기술, 경제 뉴스 등이 주를 이루고 있습니다. 대장동 수사 관련 게시물은 많은 사람들이 관심을 가지고 있는 것으로 보입니다. AI 기술 개발도 많은 사람들이 주목하고 있는 분야입니다. 경제 뉴스도 주식 시장의 상승과 관련된 게시물이 많이 올라오는 것으로 보입니다. 이러한 트렌드를 주목하여 관련된 게시물에 주목하고, 관련된 기술 개발에 투자하는 것이 좋을 것입니다.",
-  "analyzed_at": "2026-04-16T09:30:34.371Z",
+  "narrative": "최근의 트렌드는 KF-21 양산 1호기 첫 비행 성공, AI 기술 발전, 정치 및 사회 문제 등이다. 이러한 트렌드는 한국 사회에 큰 영향을 미칠 것이다. 따라서 이러한 트렌드에 관심을 가져야 하며, 필요한 경우에는 투자나 행동을 취해야 한다. 특히, KF-21 양산 1호기 첫 비행 성공과 AI 기술 발전은 한국의 산업 발전에 큰 기회가 될 수 있다. 그러나 정치 및 사회 문제는 한국 사회에 부정적인 영향을 미칠 수 있으므로, 관심을 가져야 한다.",
+  "analyzed_at": "2026-04-16T11:00:34.401Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
