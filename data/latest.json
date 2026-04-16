@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "세월호",
-      "summary": "세월호를 기억하고 추모하는 게시글이 많습니다. 세월호 관련 뉴스와 사고의 중요성을 강조하는 게시글이 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "세월호 참사",
+      "summary": "세월호 참사 12주기를 맞아 많은 사람들이 기억하고 추모하는 게시글이 나타났습니다. 세월호 참사에 대한 진실이 밝혀지길 기원하는 게시글도 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "한강버스",
-      "summary": "한강버스 관련 뉴스와 사설이 있습니다. 한강버스의 흑자와 세금 투입에 대한 논의가 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 개발이 많은 게시글에서 다루어졌습니다. AI, OLED, 양자 AI 모델 등 다양한 주제가 포함되어 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 개발에 대한 게시글이 있습니다. AI, OLED, 양자컴퓨터 등 다양한 기술에 대한 논의가 있습니다.",
-      "post_count": 20,
+      "topic": "스포츠",
+      "summary": "월드컵과 관련된 게시글이 나타났습니다. 홍명보 호 월드컵 명단발표와 전지훈련에 대한 게시글이 있습니다.",
+      "post_count": 2,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -26,47 +26,42 @@
     {
       "keyword": "세월호",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "세월호를 기억하고 추모하는 게시글"
-    },
-    {
-      "keyword": "한강버스",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "한강버스 관련 뉴스와 사설"
+      "sentiment": "mixed",
+      "context": "세월호 참사에 대한 기억과 추모"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 개발"
+      "context": "최신 기술 및 과학 개발"
+    },
+    {
+      "keyword": "OLED",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "최신 기술 및 과학 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "중립적이며 정보를 제공하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "세월호 관련 게시글이 많아 사회적인 문제에 대한 관심이 높습니다.",
-      "action": "사회적인 문제에 대한 캠페인을 진행할 수 있습니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "한강버스 관련 뉴스와 사설이 많아 교통 문제에 대한 관심이 높습니다.",
-      "action": "교통 문제에 대한 해결책을 제시할 수 있습니다.",
+      "insight": "최신 기술 및 과학 개발에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 및 과학 개발에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 개발에 대한 게시글이 많아 기술에 대한 관심이 높습니다.",
-      "action": "최신 기술에 대한 교육과 홍보를 진행할 수 있습니다.",
-      "priority": "low"
+      "insight": "세월호 참사에 대한 기억과 추모가 중요합니다.",
+      "action": "세월호 참사에 대한 기억과 추모를 존중하고, 관련 캠페인이나 이벤트를 고려할 수 있습니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 세월호, 한강버스, 기술 등 다양한 주제로 구성되어 있습니다. 세월호 관련 게시글이 많아 사회적인 문제에 대한 관심이 높습니다. 한강버스 관련 뉴스와 사설이 많아 교통 문제에 대한 관심이 높습니다. 최신 기술 뉴스와 개발에 대한 게시글이 많아 기술에 대한 관심이 높습니다. 이러한 트렌드를 분석하여 사회적인 문제에 대한 캠페인, 교통 문제에 대한 해결책, 최신 기술에 대한 교육과 홍보 등을 진행할 수 있습니다.",
-  "analyzed_at": "2026-04-16T02:00:33.894Z",
+  "narrative": "최근의 트렌드와 분석 결과를 바탕으로, 최신 기술 및 과학 개발에 대한 관심이 높아지고 있습니다. 세월호 참사에 대한 기억과 추모도 중요합니다. 이러한 트렌드와 분석 결과를 고려하여, 최신 기술 및 과학 개발에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려할 수 있습니다. 또한, 세월호 참사에 대한 기억과 추모를 존중하고, 관련 캠페인이나 이벤트를 고려할 수 있습니다.",
+  "analyzed_at": "2026-04-16T03:30:34.796Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
