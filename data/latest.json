@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 혁신",
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 챗GPT, GPT-image-2.0 등 다양한 AI 모델이 등장하고 있으며, 이를 활용한 다양한 서비스와 제품이 개발되고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 변동과 투자 전략",
-      "post_count": 8,
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련된 다양한 주제가 논의되고 있다. 선거, 정치인, 사회 문제 등 다양한 주제가 등장하고 있으며, 사용자들은 이러한 주제에 대해 의견을 나누고 있다.",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 문제에 대한 논의",
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련된 주제가 논의되고 있다. 주식 투자, 경제 동향, 기업 뉴스 등 다양한 주제가 등장하고 있으며, 사용자들은 이러한 주제에 대해 의견을 나누고 있다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 그 응용"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련된 다양한 주제"
     },
     {
       "keyword": "주식",
       "count": 10,
       "sentiment": "neutral",
-      "context": "주식 시장의 변동"
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "정치 및 사회 문제"
+      "context": "주식 투자와 경제 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 30,
     "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 분위기"
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 혁신을 가져올 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있다.",
+      "action": "AI 기술을 활용한 새로운 서비스와 제품 개발",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동은 투자 전략의 변경을 요구한다",
-      "action": "주식 시장의 변동을 주시하고 투자 전략을 조정",
+      "insight": "정치 및 사회 관련된 주제는 사용자들의 관심을 끌 수 있다.",
+      "action": "정치 및 사회 관련된 주제에 대한 콘텐츠 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 주식 관련된 주제는 사용자들의 관심을 끌 수 있다.",
+      "action": "경제 및 주식 관련된 주제에 대한 콘텐츠 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 혁신이 주목을 받고 있다. 또한, 주식 시장의 변동과 투자 전략에 대한 논의도 활발하다. 그러나 정치 및 사회 문제에 대한 논의는 부정적인 분위기를 보이고 있다. 이러한 트렌드에 따라, AI 기술을 활용한 새로운 비즈니스 모델 개발과 주식 시장의 변동을 주시하고 투자 전략을 조정하는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-04-17T07:00:33.897Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 챗GPT, GPT-image-2.0 등 다양한 AI 모델이 등장하고 있으며, 이를 활용한 다양한 서비스와 제품이 개발되고 있다. 또한, 정치 및 사회 관련된 다양한 주제가 논의되고 있으며, 사용자들은 이러한 주제에 대해 의견을 나누고 있다. 경제 및 주식 관련된 주제도 사용자들의 관심을 끌 수 있다. 이러한 트렌드를 바탕으로, AI 기술을 활용한 새로운 서비스와 제품 개발, 정치 및 사회 관련된 주제에 대한 콘텐츠 개발, 경제 및 주식 관련된 주제에 대한 콘텐츠 개발 등 다양한 비즈니스 기회가 있을 수 있다.",
+  "analyzed_at": "2026-04-17T08:30:34.559Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
