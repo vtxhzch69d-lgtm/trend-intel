@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "트럼프의 미국 대선 출마와 관련된 다양한 의견과 분석이 나타나고 있습니다. 또한, 한국의 정치 상황과 관련된 글들도 많이 올라오고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 모델의 발전과 이를 활용한 다양한 산업의 발전에 대한 관심이 높아지고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "주식 시장과 관련된 글들이 많이 올라오고 있습니다. 특히, 테마주와 관련된 글들이 인기 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 게시글도 많이 올라왔습니다. 최근의 정치 상황과 이를 둘러싼 논란에 대한 관심이 높아지고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 뉴스와 혁신이 많이 올라오고 있습니다. 또한, 우주 산업과 관련된 글들도 인기 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제",
+      "summary": "경제 관련 게시글도 올라왔습니다. 최근의 경제 상황과 이를 둘러싼 논란에 대한 관심이 높아지고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "트럼프의 미국 대선 출마와 관련된 글"
-    },
-    {
-      "keyword": "주식",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "주식 시장과 관련된 글"
-    },
-    {
       "keyword": "AI",
-      "count": 6,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI와 관련된 기술 뉴스와 혁신"
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치 상황과 논란"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 상황"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "관심과 논란이 동시에 존재하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "트럼프의 미국 대선 출마는 글로벌 경제에 영향을 미칠 수 있습니다.",
-      "action": "글로벌 경제 동향을 주시하고, 투자 전략을 조정할 필요가 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 산업의 발전을 주도",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술은 다양한 산업에서 혁신을 가져올 수 있습니다.",
-      "action": "AI와 관련된 기술을 연구하고, 투자할 필요가 있습니다.",
+      "insight": "정치 상황의 불안정성",
+      "action": "정치 상황의 변화를 주시",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 상황의 불확실성",
+      "action": "경제 상황의 변화를 주시",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 경제, 기술 등 다양한 분야에서 나타나고 있습니다. 트럼프의 미국 대선 출마는 글로벌 경제에 영향을 미칠 수 있습니다. 또한, AI와 관련된 기술은 다양한 산업에서 혁신을 가져올 수 있습니다. 이러한 트렌드에 따라, 기업과 투자자는 글로벌 경제 동향을 주시하고, 투자 전략을 조정할 필요가 있습니다. 또한, AI와 관련된 기술을 연구하고, 투자할 필요가 있습니다.",
-  "analyzed_at": "2026-04-17T02:30:34.440Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. 이는 AI 기술의 발전과 이를 활용한 다양한 산업의 발전에 대한 관심이 높아지고 있음을 나타냅니다. 또한, 정치 관련 게시글도 많이 올라왔습니다. 이는 최근의 정치 상황과 이를 둘러싼 논란에 대한 관심이 높아지고 있음을 나타냅니다. 이러한 관심과 논란은 기업의 마케팅 전략에 영향을 미칠 수 있습니다. 따라서, 기업은 이러한 관심과 논란을 주시하고, 이를 활용한 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-04-17T04:00:34.285Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
