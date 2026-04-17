@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히, 네이버의 AI 학습용 데이터 직접 제작과 애플의 아이폰18 프로 가변조리개 카메라 공급망 생산 개시 등이 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 주식",
+      "summary": "코스피/코스닥 및 주식 관련 게시글이 많은 것으로 나타났습니다. 또한, 환율 및 경제 뉴스도 인기 있는 주제입니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제도 많이 обсужд되고 있습니다. 특히, 환율 및 주식 시장의 변동과 관련된 게시글이 많습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "기술 및 AI",
+      "summary": "AI 및 기술 관련 뉴스와 개발 관련 게시글이 많습니다. 특히, 네이버의 AI 모델과 구글의 스마트안경 등이 인기 있는 주제입니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제도 обсужд되고 있습니다. 특히, 대통령의 발언과 관련된 게시글이 많습니다.",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 게시글이 있습니다. 특히, 대통령의 발언과 대북송금 관련 뉴스가 인기 있는 주제입니다.",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 게시글"
+      "context": "기술 및 개발 관련 키워드"
     },
     {
       "keyword": "주식",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "주식 시장의 변동과 관련된 게시글"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 키워드"
     },
     {
-      "keyword": "경제",
-      "count": 8,
+      "keyword": "환율",
+      "count": 10,
       "sentiment": "negative",
-      "context": "경제 상황과 관련된 게시글"
+      "context": "경제 및 금융 관련 키워드"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 20,
-    "neutral": 50,
+    "neutral": 40,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 주목을 받고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 서비스나 제품 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제가 많이 обсужд되고 있습니다.",
-      "action": "경제 및 금융 관련 서비스나 제품 개발",
+      "insight": "경제 및 주식 시장의 변동",
+      "action": "경제 및 주식 시장의 변동에 대응하는 비즈니스 전략 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히, 네이버의 AI 학습용 데이터 직접 제작과 애플의 아이폰18 프로 가변조리개 카메라 공급망 생산 개시 등이 주목을 받고 있습니다. 또한, 경제 및 금융 관련 주제도 많이 обсужд되고 있습니다. 특히, 환율 및 주식 시장의 변동과 관련된 게시글이 많습니다. 이러한 트렌드를 반영하여, AI 기술을 활용한 새로운 서비스나 제품 개발과 경제 및 금융 관련 서비스나 제품 개발을 고려할 수 있습니다.",
-  "analyzed_at": "2026-04-17T20:30:34.167Z",
+  "narrative": "현재의 트렌드는 기술 및 AI, 경제 및 주식, 정치 및 사회 등 다양한 주제로 구성되어 있습니다. 특히, AI 기술의 발전과 경제 및 주식 시장의 변동이 주요한 트렌드입니다. 이러한 트렌드를 분석하여 비즈니스 전략을 개발하고, 시장의 변동에 대응하는 것이 중요합니다. 또한, 중립적인 분위기와 다양한 키워드의 등장으로 마케팅 전략을 개발하는 데 도움이 될 수 있습니다.",
+  "analyzed_at": "2026-04-17T22:00:34.446Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
