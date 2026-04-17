@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 다양한 정치 관련 주제가 논의되고 있습니다.",
+      "summary": "트럼프의 미국 대선 출마와 관련된 다양한 의견과 분석이 나타나고 있습니다. 또한, 한국의 정치 상황과 관련된 글들도 많이 올라오고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련 뉴스와 개발이 많은 것으로 나타났습니다. AI, 우주, 반도체 등 다양한 기술 주제가 논의되고 있습니다.",
-      "post_count": 20,
+      "topic": "경제",
+      "summary": "주식 시장과 관련된 글들이 많이 올라오고 있습니다. 특히, 테마주와 관련된 글들이 인기 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "사회 관련 문제와 논란이 많은 것으로 나타났습니다. 다양한 사회 관련 주제가 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술",
+      "summary": "AI와 관련된 기술 뉴스와 혁신이 많이 올라오고 있습니다. 또한, 우주 산업과 관련된 글들도 인기 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 개발"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논란"
-    },
-    {
-      "keyword": "우주",
+      "keyword": "트럼프",
       "count": 5,
+      "sentiment": "negative",
+      "context": "트럼프의 미국 대선 출마와 관련된 글"
+    },
+    {
+      "keyword": "주식",
+      "count": 4,
       "sentiment": "positive",
-      "context": "우주 개발과 탐사"
+      "context": "주식 시장과 관련된 글"
+    },
+    {
+      "keyword": "AI",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "AI와 관련된 기술 뉴스와 혁신"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 개발에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 개발에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려해 보세요.",
+      "insight": "트럼프의 미국 대선 출마는 글로벌 경제에 영향을 미칠 수 있습니다.",
+      "action": "글로벌 경제 동향을 주시하고, 투자 전략을 조정할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 논란이 많아지고 있습니다.",
-      "action": "정치 관련 뉴스와 논란에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려해 보세요.",
+      "insight": "AI와 관련된 기술은 다양한 산업에서 혁신을 가져올 수 있습니다.",
+      "action": "AI와 관련된 기술을 연구하고, 투자할 필요가 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 관련 뉴스와 논란이 많아지고 있습니다. 다양한 정치 관련 주제가 논의되고 있습니다. 또한, 최신 기술 개발에 대한 관심이 높아지고 있습니다. AI, 우주, 반도체 등 다양한 기술 주제가 논의되고 있습니다. 이러한 트렌드를 고려하여, 최신 기술 개발에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려해 보세요. 또한, 정치 관련 뉴스와 논란에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려해 보세요.",
-  "analyzed_at": "2026-04-17T00:30:34.097Z",
+  "narrative": "최근의 트렌드는 정치, 경제, 기술 등 다양한 분야에서 나타나고 있습니다. 트럼프의 미국 대선 출마는 글로벌 경제에 영향을 미칠 수 있습니다. 또한, AI와 관련된 기술은 다양한 산업에서 혁신을 가져올 수 있습니다. 이러한 트렌드에 따라, 기업과 투자자는 글로벌 경제 동향을 주시하고, 투자 전략을 조정할 필요가 있습니다. 또한, AI와 관련된 기술을 연구하고, 투자할 필요가 있습니다.",
+  "analyzed_at": "2026-04-17T02:30:34.440Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
