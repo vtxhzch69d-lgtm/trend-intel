@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "호르무즈 항행",
-      "summary": "이재명 대통령이 호르무즈 항행에 책임있는 역할을 수행할 것이라고 발표했다. 이에 따라 한국의 해상 안보 역할이 강화될 것으로 예상된다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있습니다. AI의 발전은 다양한 산업에 영향을 미치고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최근 AI 기술이 빠르게 발전하고 있으며, 이를 활용한 다양한 산업들이 등장하고 있다. 특히, 네이버와 삼성전자가 AI 기술을 활용한 새로운 서비스를 출시했다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 상황",
-      "summary": "현재 경제 상황이 안정적이지 않아 많은 사람들이 우려를 하고 있다. 특히, 환율과 주식 시장의 변동이 크다.",
+      "topic": "국제 정치",
+      "summary": "국제 정치와 관련된 다양한 주제들이 논의되고 있습니다. 특히 이란과 관련된 주제들이 많이 논의되고 있습니다.",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제와 관련된 다양한 주제들이 논의되고 있습니다. 특히 환율과 관련된 주제들이 많이 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "호르무즈",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "한국의 해상 안보 역할 강화"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "새로운 기술과 산업의 등장"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "경제",
+      "keyword": "이란",
       "count": 8,
       "sentiment": "negative",
-      "context": "안정적이지 않은 경제 상황"
+      "context": "이란과 관련된 국제 정치"
+    },
+    {
+      "keyword": "환율",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제와 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 5,
-    "overall_mood": "불안정한 경제 상황과 새로운 기술의 등장"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국의 해상 안보 역할 강화",
-      "action": "해상 안보 관련 산업에 투자",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 빠른 발전",
-      "action": "AI 기술을 활용한 새로운 서비스 개발",
+      "insight": "국제 정치의 불안정성",
+      "action": "국제 정치의 변화를 주시하고 대응하는 비즈니스 전략 개발",
       "priority": "medium"
     },
     {
-      "insight": "안정적이지 않은 경제 상황",
-      "action": "경제 상황을 주시하고 대비",
-      "priority": "high"
+      "insight": "경제의 불안정성",
+      "action": "경제의 변화를 주시하고 대응하는 비즈니스 전략 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 한국의 해상 안보 역할이 강화되고 있으며, AI 기술이 빠르게 발전하고 있다. 그러나 경제 상황은 안정적이지 않아 많은 사람들이 우려를 하고 있다. 이러한 상황에서 기업들은 해상 안보 관련 산업에 투자하고, AI 기술을 활용한 새로운 서비스를 개발해야 한다. 또한, 경제 상황을 주시하고 대비해야 한다.",
-  "analyzed_at": "2026-04-17T16:00:34.513Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제들이 많이 논의되고 있습니다. 또한 국제 정치와 관련된 주제들이 많이 논의되고 있으며, 특히 이란과 관련된 주제들이 많이 논의되고 있습니다. 경제와 관련된 주제들도 많이 논의되고 있으며, 환율과 관련된 주제들이 많이 논의되고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 비즈니스 모델 개발과 국제 정치 및 경제의 변화를 주시하고 대응하는 비즈니스 전략 개발이 필요합니다.",
+  "analyzed_at": "2026-04-17T17:30:34.296Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
