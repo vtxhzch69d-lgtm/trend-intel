@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "호르무즈 휴전",
-      "summary": "이란과 관련국 간의 휴전 협상이 진행 중이며, 호르무즈 해협의 항행 자유가 주요 쟁점입니다. 이란 외무장관의 발언과 관련국들의 대응이 주목됩니다.",
+      "topic": "호르무즈 항행",
+      "summary": "이재명 대통령이 호르무즈 항행에 책임있는 역할을 수행할 것이라고 발표했다. 이에 따라 한국의 해상 안보 역할이 강화될 것으로 예상된다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자 파운드리",
-      "summary": "삼성전자가 파운드리 사업을 강화하고 있으며, 일부 인력을 시스템 LSI 사업부로 재배치할 계획입니다. 이는 삼성전자의 반도체 사업 확장에 대한 전략입니다.",
-      "post_count": 2,
+      "topic": "AI 기술",
+      "summary": "최근 AI 기술이 빠르게 발전하고 있으며, 이를 활용한 다양한 산업들이 등장하고 있다. 특히, 네이버와 삼성전자가 AI 기술을 활용한 새로운 서비스를 출시했다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 네이버와 삼성전자 등이 AI 모델 개발에 적극적으로 참여하고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것으로 예상됩니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제 상황",
+      "summary": "현재 경제 상황이 안정적이지 않아 많은 사람들이 우려를 하고 있다. 특히, 환율과 주식 시장의 변동이 크다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "호르무즈",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "이란과 관련국 간의 휴전 협상"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 3,
       "sentiment": "positive",
-      "context": "파운드리 사업 강화"
+      "context": "한국의 해상 안보 역할 강화"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "다양한 산업에서의 적용"
+      "context": "새로운 기술과 산업의 등장"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "안정적이지 않은 경제 상황"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 긍정적"
+    "negative": 10,
+    "neutral": 5,
+    "overall_mood": "불안정한 경제 상황과 새로운 기술의 등장"
   },
   "business_insights": [
     {
-      "insight": "호르무즈 휴전 협상은 글로벌 경제에 영향을 미칠 수 있습니다.",
-      "action": "관련 뉴스와 시장 동향을 주시하여 대응 전략을 수립해야 합니다.",
+      "insight": "한국의 해상 안보 역할 강화",
+      "action": "해상 안보 관련 산업에 투자",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 파운드리 사업 강화는 반도체 산업의 경쟁을 심화시킬 수 있습니다.",
-      "action": "경쟁사들의 동향을 분석하여 시장 점유율을 유지하기 위한 전략을 수립해야 합니다.",
+      "insight": "AI 기술의 빠른 발전",
+      "action": "AI 기술을 활용한 새로운 서비스 개발",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술을 적용하여 비즈니스 모델을 혁신하고 경쟁력을 강화해야 합니다.",
-      "priority": "medium"
+      "insight": "안정적이지 않은 경제 상황",
+      "action": "경제 상황을 주시하고 대비",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 호르무즈 휴전 협상과 삼성전자의 파운드리 사업 강화, AI 기술의 발전이 주목됩니다. 이러한 트렌드는 글로벌 경제와 산업에 영향을 미칠 수 있습니다. 따라서 관련 뉴스와 시장 동향을 주시하여 대응 전략을 수립하고, 경쟁사들의 동향을 분석하여 시장 점유율을 유지하기 위한 전략을 수립해야 합니다. 또한, AI 기술을 적용하여 비즈니스 모델을 혁신하고 경쟁력을 강화해야 합니다.",
-  "analyzed_at": "2026-04-17T14:30:34.665Z",
+  "narrative": "현재 한국의 해상 안보 역할이 강화되고 있으며, AI 기술이 빠르게 발전하고 있다. 그러나 경제 상황은 안정적이지 않아 많은 사람들이 우려를 하고 있다. 이러한 상황에서 기업들은 해상 안보 관련 산업에 투자하고, AI 기술을 활용한 새로운 서비스를 개발해야 한다. 또한, 경제 상황을 주시하고 대비해야 한다.",
+  "analyzed_at": "2026-04-17T16:00:34.513Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
