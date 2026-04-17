@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 및 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
+      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히, 구글, 애플, 네이버 등의 기업이 AI 기술 개발에 적극적으로 참여하고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 경제",
-      "summary": "정치와 경제에 대한 다양한 의견과 분석",
-      "post_count": 20,
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 주제도 많이 обсужд되고 있습니다. 특히, 한국 경제의 성장 가능성과 정치적인 이슈가 많이 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "문화 및 엔터테인먼트",
-      "summary": "문화와 엔터테인먼트에 대한 다양한 의견과 분석",
-      "post_count": 10,
+      "topic": "생활 및 문화",
+      "summary": "생활 및 문화 관련 주제도 일부 обсужд되고 있습니다. 특히, 영화, 드라마, 게임 등의 엔터테인먼트 관련 주제가 많이 논의되고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술 개발 및 적용"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치에 대한 다양한 의견"
+      "keyword": "구글",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "구글의 AI 기술 개발 및 적용"
     },
     {
       "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "경제에 대한 우려"
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "한국 경제의 성장 가능성 및 정치적인 이슈"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술 개발 및 적용",
+      "action": "AI 기술 개발에 투자하고, 적용 사례를 연구한다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제에 대한 다양한 의견과 분석은 비즈니스에 영향을 미칠 수 있다",
-      "action": "정치와 경제에 대한 분석을 통한 비즈니스 전략 개발",
+      "insight": "경제 및 정치적인 이슈",
+      "action": "경제 및 정치적인 이슈를 주시하고, 대응 전략을 수립한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 그에 따른 다양한 산업의 변화, 정치와 경제에 대한 다양한 의견과 분석, 문화와 엔터테인먼트에 대한 다양한 의견과 분석 등으로 구성되어 있다. 이러한 트렌드는 비즈니스에 영향을 미칠 수 있으며, AI 기술을 활용한 비즈니스 모델 개발, 정치와 경제에 대한 분석을 통한 비즈니스 전략 개발 등이 필요하다. 또한, 문화와 엔터테인먼트에 대한 다양한 의견과 분석은 비즈니스에 대한 새로운 기회를 제공할 수 있다.",
-  "analyzed_at": "2026-04-17T11:30:34.046Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히, 구글, 애플, 네이버 등의 기업이 AI 기술 개발에 적극적으로 참여하고 있습니다. 또한, 경제 및 정치적인 이슈도 많이 논의되고 있습니다. 이러한 트렌드를 분석하여, AI 기술 개발 및 적용, 경제 및 정치적인 이슈에 대한 대응 전략을 수립할 필요가 있습니다. 또한, 기업들은 이러한 트렌드를 주시하고, 대응하기 위한 투자와 연구를 진행할 필요가 있습니다.",
+  "analyzed_at": "2026-04-17T13:00:34.633Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
