@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 모델의 발전과 이를 활용한 다양한 산업의 발전에 대한 관심이 높아지고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "대장동 검사들 '실장님→재창이형' 녹취록과 차이 인정, 이재명 대통령: 홍해를 통해 원유 운송 기쁜 소식",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 게시글도 많이 올라왔습니다. 최근의 정치 상황과 이를 둘러싼 논란에 대한 관심이 높아지고 있습니다.",
+      "topic": "테크",
+      "summary": "구글, 美국방부와 기밀업무 AI 활용 협의, 오픈AI, 맥OS·자동화 등 코딩 에이전트 '코덱스' 업데이트",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 게시글도 올라왔습니다. 최근의 경제 상황과 이를 둘러싼 논란에 대한 관심이 높아지고 있습니다.",
-      "post_count": 5,
+      "summary": "삼성전자, 4나노 파운드리에 국산 EUV 마스크 첫 테스트, 현대차그룹, 방산 '현대로템' 중심 재편",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "정치",
       "count": 15,
-      "sentiment": "negative",
-      "context": "정치 상황과 논란"
+      "sentiment": "positive",
+      "context": "구글, 美국방부와 기밀업무 AI 활용 협의"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "대장동 검사들 '실장님→재창이형' 녹취록과 차이 인정"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "경제 상황"
+      "context": "삼성전자, 4나노 파운드리에 국산 EUV 마스크 첫 테스트"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "관심과 논란이 동시에 존재하는 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
       "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 산업의 발전을 주도",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 상황의 불안정성",
-      "action": "정치 상황의 변화를 주시",
+      "insight": "정치적 불안정성",
+      "action": "정치적 위험을 최소화하기 위한 비즈니스 전략 개발",
       "priority": "medium"
     },
     {
-      "insight": "경제 상황의 불확실성",
-      "action": "경제 상황의 변화를 주시",
+      "insight": "경제적 불확실성",
+      "action": "경제적 불확실성을 최소화하기 위한 비즈니스 전략 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. 이는 AI 기술의 발전과 이를 활용한 다양한 산업의 발전에 대한 관심이 높아지고 있음을 나타냅니다. 또한, 정치 관련 게시글도 많이 올라왔습니다. 이는 최근의 정치 상황과 이를 둘러싼 논란에 대한 관심이 높아지고 있음을 나타냅니다. 이러한 관심과 논란은 기업의 마케팅 전략에 영향을 미칠 수 있습니다. 따라서, 기업은 이러한 관심과 논란을 주시하고, 이를 활용한 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-04-17T04:00:34.285Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치, 테크, 경제 등 다양한 주제가 논의되고 있습니다. AI 기술의 발전은 비즈니스 모델 개발의 기회를 제공하지만, 정치적 불안정성과 경제적 불확실성은 비즈니스 전략 개발의 필요성을 강조합니다. 따라서, 비즈니스 리더들은 이러한 트렌드와 인사이트를 고려하여 전략을 개발해야 합니다.",
+  "analyzed_at": "2026-04-17T05:30:33.831Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
