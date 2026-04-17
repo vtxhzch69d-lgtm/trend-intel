@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "Opus 4.7",
-      "summary": "Opus 4.7의 출시와 관련된 논의가 많습니다. 일부 사용자들은 기대 이하의 평을 남기고 있습니다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 다양한 정치 관련 주제가 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 관련 뉴스와 개발이 많은 것으로 나타났습니다. AI, 우주, 반도체 등 다양한 기술 주제가 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "늑구 생포",
-      "summary": "대전 탈출 늑대 '늑구'가 생포되었습니다. 관련된 게시글이 여러 개 있습니다.",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 여러 개 있습니다. 일부 사용자들은 정치인에 대한 비판을 남기고 있습니다.",
+      "topic": "사회",
+      "summary": "사회 관련 문제와 논란이 많은 것으로 나타났습니다. 다양한 사회 관련 주제가 논의되고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
@@ -24,44 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "Opus 4.7",
-      "count": 7,
-      "sentiment": "neutral",
-      "context": "Opus 4.7의 출시와 관련된 논의"
-    },
-    {
-      "keyword": "늑구",
-      "count": 3,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "대전 탈출 늑대 '늑구'의 생포"
+      "context": "최신 기술 개발"
     },
     {
       "keyword": "정치",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 관련된 논의"
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 논란"
+    },
+    {
+      "keyword": "우주",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "우주 개발과 탐사"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 25,
     "negative": 20,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기이지만 일부 사용자들은 부정적인 감정을 표현하고 있습니다."
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "Opus 4.7의 출시와 관련된 논의가 많습니다.",
-      "action": "Opus 4.7의 마케팅 전략을 재평가해야 합니다.",
-      "priority": "medium"
+      "insight": "최신 기술 개발에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 개발에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려해 보세요.",
+      "priority": "high"
     },
     {
-      "insight": "정치 관련된 게시글이 많습니다.",
-      "action": "정치 관련된 마케팅 전략을 재평가해야 합니다.",
-      "priority": "high"
+      "insight": "정치 관련 뉴스와 논란이 많아지고 있습니다.",
+      "action": "정치 관련 뉴스와 논란에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려해 보세요.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 Opus 4.7의 출시와 관련된 논의, 대전 탈출 늑대 '늑구'의 생포, 정치 관련된 논의 등입니다. 일부 사용자들은 Opus 4.7의 기대 이하의 평을 남기고 있습니다. 또한, 정치 관련된 게시글이 많으며 일부 사용자들은 정치인에 대한 비판을 남기고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 재평가해야 합니다.",
-  "analyzed_at": "2026-04-16T23:00:34.053Z",
+  "narrative": "최근 정치 관련 뉴스와 논란이 많아지고 있습니다. 다양한 정치 관련 주제가 논의되고 있습니다. 또한, 최신 기술 개발에 대한 관심이 높아지고 있습니다. AI, 우주, 반도체 등 다양한 기술 주제가 논의되고 있습니다. 이러한 트렌드를 고려하여, 최신 기술 개발에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려해 보세요. 또한, 정치 관련 뉴스와 논란에 대한 정보를 제공하고, 관련 제품이나 서비스를 개발하는 것을 고려해 보세요.",
+  "analyzed_at": "2026-04-17T00:30:34.097Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
