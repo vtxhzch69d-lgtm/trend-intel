@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. 특히, 챗GPT와 같은 대화형 AI 모델의 등장으로 인해 공공기관 업무의 효율화와 개인의 일상 생활에도 큰 영향을 미치고 있습니다.",
-      "post_count": 10,
+      "topic": "AI 및 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히, 네이버의 AI 학습용 데이터 직접 제작과 애플의 아이폰18 프로 가변조리개 카메라 공급망 생산 개시 등이 주목을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "최근의 경제 및 금융 뉴스와 관련된 게시글이 많습니다. 특히, 환율의 변동과 주식 시장의 동향이 주목받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "국제 관계",
-      "summary": "국제 관계와 관련된 뉴스와 게시글이 있습니다. 특히, 한국과 일본, 미국 사이의 관계와 관련된 글들이 주목받고 있습니다.",
-      "post_count": 5,
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제도 많이 обсужд되고 있습니다. 특히, 환율 및 주식 시장의 변동과 관련된 게시글이 많습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 주제도 обсужд되고 있습니다. 특히, 대통령의 발언과 관련된 게시글이 많습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+      "context": "AI 기술의 발전과 관련된 게시글"
+    },
+    {
+      "keyword": "주식",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "주식 시장의 변동과 관련된 게시글"
     },
     {
       "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "최근의 경제 및 금융 뉴스"
-    },
-    {
-      "keyword": "국제 관계",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "한국과 일본, 미국 사이의 관계"
+      "count": 8,
+      "sentiment": "negative",
+      "context": "경제 상황과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전이 주목을 받고 있습니다.",
+      "action": "AI 기술을 활용한 새로운 서비스나 제품 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 시장의 변동",
-      "action": "경제 및 금융 시장의 동향을 주시하고 대응策을 마련",
+      "insight": "경제 및 금융 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "경제 및 금융 관련 서비스나 제품 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "국제 관계의 변화",
-      "action": "국제 관계의 변화를 주시하고 대응策을 마련",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드와 분석 결과를 바탕으로, AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. 또한, 경제 및 금융 시장의 동향과 국제 관계의 변화도 주목받고 있습니다. 이러한 트렌드와 분석 결과를 바탕으로, 새로운 비즈니스 모델의 개발과 시장의 동향을 주시하는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-04-17T19:00:35.372Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히, 네이버의 AI 학습용 데이터 직접 제작과 애플의 아이폰18 프로 가변조리개 카메라 공급망 생산 개시 등이 주목을 받고 있습니다. 또한, 경제 및 금융 관련 주제도 많이 обсужд되고 있습니다. 특히, 환율 및 주식 시장의 변동과 관련된 게시글이 많습니다. 이러한 트렌드를 반영하여, AI 기술을 활용한 새로운 서비스나 제품 개발과 경제 및 금융 관련 서비스나 제품 개발을 고려할 수 있습니다.",
+  "analyzed_at": "2026-04-17T20:30:34.167Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
