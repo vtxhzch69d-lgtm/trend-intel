@@ -1,98 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "나스닥의 광기, 이재명 대통령의 정책, 전월세 상승",
-      "post_count": 10,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 발언과 정책에 대한 논의",
+      "post_count": 5,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI 기술의 발전, 제미나이 앱의 출시, 구글의 스마트안경",
-      "post_count": 15,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 정책, 검찰개혁, 공무원 전환",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 활용에 대한 논의",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "문화",
-      "summary": "마이클 잭슨의 삶, 포켓몬 띠부씰, BTS의 스포티파이 1위",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 논의",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     },
     {
-      "topic": "국제",
-      "summary": "미국과 중국의 관계, 호르무즈 해협, 미국의 전쟁",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "교육 및 사회",
+      "summary": "교육 및 사회 관련 뉴스와 논의",
+      "post_count": 6,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테크 및 IT",
+      "summary": "테크 및 IT 관련 뉴스와 논의",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
+      "count": 7,
       "sentiment": "negative",
-      "context": "정치"
+      "context": "이재명 대통령의 발언과 정책에 대한 비판"
     },
     {
       "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 활용에 대한 논의"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
-      "sentiment": "positive",
-      "context": "기술"
-    },
-    {
-      "keyword": "나스닥",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "경제"
-    },
-    {
-      "keyword": "제미나이",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "기술"
-    },
-    {
-      "keyword": "전월세",
-      "count": 2,
       "sentiment": "negative",
-      "context": "경제"
+      "context": "경제 및 금융 관련 뉴스와 논의"
+    },
+    {
+      "keyword": "교육",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "교육 관련 뉴스와 논의"
+    },
+    {
+      "keyword": "삼성",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "삼성전자 관련 뉴스와 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높지만, AI 기술과 테크 및 IT 관련 논의에서는 긍정적인 감정의 비중이 높다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "투자",
+      "insight": "AI 기술의 발전은 다양한 산업에 긍정적인 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용한 비즈니스 모델을 개발하는 것을 고려한다.",
       "priority": "high"
     },
     {
-      "insight": "이재명 대통령의 정책",
-      "action": "분석",
+      "insight": "경제 및 금융 관련 뉴스와 논의는 부정적인 감정의 비중이 높다.",
+      "action": "경제 및 금융 관련 뉴스와 논의를 주시하고, 이를 고려한 비즈니스 전략을 개발하는 것을 고려한다.",
       "priority": "medium"
     },
     {
-      "insight": "전월세 상승",
-      "action": "대응",
-      "priority": "medium"
+      "insight": "교육 및 사회 관련 뉴스와 논의는 중립적인 감정의 비중이 높다.",
+      "action": "교육 및 사회 관련 뉴스와 논의를 주시하고, 이를 고려한 비즈니스 전략을 개발하는 것을 고려한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 경제, 기술, 정치, 문화, 국제 등 다양한 주제로 구성되어 있습니다. AI 기술의 발전과 제미나이 앱의 출시가 기술 분야에서 주목받고 있습니다. 이재명 대통령의 정책과 검찰개혁이 정치 분야에서 논란이 되고 있습니다. 전월세 상승과 나스닥의 광기가 경제 분야에서 우려를 모으고 있습니다. 이러한 트렌드를 분석하여 사업적으로 활용할 수 있는 기회를 찾는 것이 중요합니다.",
-  "analyzed_at": "2026-04-18T04:00:34.090Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 테크 및 IT 관련 논의에서는 긍정적인 감정의 비중이 높다. 그러나 경제 및 금융 관련 뉴스와 논의에서는 부정적인 감정의 비중이 높다. 이러한 결과를 고려하여, 비즈니스 전략을 개발하고, 시장의 트렌드를 주시하는 것이 중요하다. 또한, 교육 및 사회 관련 뉴스와 논의를 주시하고, 이를 고려한 비즈니스 전략을 개발하는 것을 고려한다. 이러한 분석 결과를 통해, 비즈니스에 대한洞察력을 높이고, 시장의 트렌드를 주시하는 것이 가능하다.",
+  "analyzed_at": "2026-04-18T05:30:35.428Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
