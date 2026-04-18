@@ -2,36 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 뉴스와 관련된 포스트",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 의견",
-      "post_count": 8,
+      "summary": "정치 및 사회 관련 주제가 논의되고 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크 및 가전",
-      "summary": "신규 테크 및 가전 제품과 기술",
-      "post_count": 5,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "스포츠 뉴스와 관련된 포스트",
-      "post_count": 3,
+      "topic": "테크 및 과학",
+      "summary": "테크 및 과학 관련 주제가 논의되고 있다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -44,65 +30,43 @@
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
-    },
-    {
       "keyword": "정치",
-      "count": 8,
+      "count": 10,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스"
+      "context": "정치 및 사회 관련 주제"
     },
     {
       "keyword": "테크",
-      "count": 5,
+      "count": 8,
       "sentiment": "positive",
-      "context": "신규 테크 제품"
-    },
-    {
-      "keyword": "스포츠",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "스포츠 뉴스"
+      "context": "테크 및 과학 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 10,
-    "neutral": 20,
-    "overall_mood": "대체적으로 긍정적인 분위기"
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
       "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신규 서비스 개발",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 뉴스",
-      "action": "경제 및 금융 뉴스를 분석하여 시장 동향을 파악",
+      "insight": "정치 및 사회의 영향",
+      "action": "정치 및 사회의 영향에 대한 비즈니스 전략 개발",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 관련 뉴스",
-      "action": "정치 및 사회 관련 뉴스를 분석하여 사회 동향을 파악",
-      "priority": "high"
-    },
-    {
-      "insight": "신규 테크 및 가전 제품",
-      "action": "신규 테크 및 가전 제품을 분석하여 시장 동향을 파악",
-      "priority": "medium"
-    },
-    {
-      "insight": "스포츠 뉴스",
-      "action": "스포츠 뉴스를 분석하여 스포츠 관련 서비스 개발",
+      "insight": "테크 및 과학의 발전",
+      "action": "테크 및 과학의 발전을 활용한 비즈니스 기회 발굴",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장입니다. 또한, 경제 및 금융 뉴스와 관련된 포스트가 많이 나타나고 있습니다. 정치 및 사회 관련 뉴스도 많은 관심을 받고 있습니다. 테크 및 가전 제품과 스포츠 뉴스도 중요한 트렌드 중 하나입니다. 이러한 트렌드를 분석하여 신규 서비스 개발과 시장 동향을 파악하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-18T21:30:34.518Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있다. 이는 AI 기술의 발전이 다양한 산업과 비즈니스에 큰 영향을 미치고 있기 때문이다. 또한, 정치 및 사회 관련 주제도 논의되고 있다. 테크 및 과학 관련 주제도 중요한 비즈니스 기회를 제공하고 있다. 따라서, 비즈니스 모델 개발과 전략 수립에 이러한 트렌드를 고려하는 것이 중요하다.",
+  "analyzed_at": "2026-04-18T23:00:34.139Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
