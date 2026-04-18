@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프",
-      "summary": "트럼프의 최근 발언과 행동에 대한 논란",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "AI 및 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가热하게 논의되고 있습니다. 네이버의 AI 학습용 데이터 직접 제작, 삼성전기의 CPO기판 개발, 애플의 아이폰18 프로 가변조리개 카메라 공급망 생산 등이 주요话题입니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "유가 폭락과 경제 상황에 대한 논의",
-      "post_count": 4,
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련 주제도热하게 논의되고 있습니다. 코스피/코스닥 전망, 분산투자가 더 위험하다, 삼성전자 파운드리 반등 등이 주요话题입니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 기술 관련 뉴스 및 개발에 대한 논의",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 주제도 논의되고 있습니다. 이재명 대통령의 인도, 베트남 순방, 트럼프의 이란과 협상 등이 주요话题입니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "트럼프의 최근 발언과 행동에 대한 논란"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI와 기술 관련 뉴스 및 개발에 대한 논의"
+      "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "경제",
-      "count": 5,
+      "keyword": "주식",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "유가 폭락과 경제 상황에 대한 논의"
+      "context": "주식 시장의 전망과 분석"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 활동과 평가"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 30,
+    "negative": 15,
+    "neutral": 40,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "트럼프의 최근 발언과 행동에 대한 논란이 높아지고 있다",
-      "action": "트럼프 관련 뉴스와 논란을 주시하고 대응 策略을 마련해야 한다",
+      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능",
+      "action": "AI 기술을 적용하여 비즈니스 모델을 개선",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련 뉴스 및 개발이 증가하고 있다",
-      "action": "AI와 기술 관련 뉴스 및 개발을 주시하고 기회를 발굴해야 한다",
-      "priority": "medium"
-    },
-    {
-      "insight": "유가 폭락과 경제 상황에 대한 논의가 증가하고 있다",
-      "action": "유가 폭락과 경제 상황에 대한 논의를 주시하고 대응 策略을 마련해야 한다",
+      "insight": "주식 시장의 전망은 경제 및 정치 상황에 따라 변동",
+      "action": "주식 시장의 전망을 주시하고 투자 전략을 조정",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 트럼프의 발언과 행동에 대한 논란이 높아지고 있으며, AI와 기술 관련 뉴스 및 개발이 증가하고 있다. 또한 유가 폭락과 경제 상황에 대한 논의가 증가하고 있다. 이러한 트렌드를 주시하고 대응 策略을 마련하는 것이 중요하다. 특히 트럼프 관련 뉴스와 논란을 주시하고 대응 策略을 마련해야 하며, AI와 기술 관련 뉴스 및 개발을 주시하고 기회를 발굴해야 한다.",
-  "analyzed_at": "2026-04-17T23:30:33.478Z",
-  "post_count": 62,
+  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술, 경제 및 주식, 사회 및 정치 관련 주제가热하게 논의되고 있습니다. AI 기술의 발전은 다양한 산업에 적용 가능하며, 주식 시장의 전망은 경제 및 정치 상황에 따라 변동합니다. 이러한 트렌드를 주시하고 비즈니스 전략을 조정하여 시장의 기회를 잡을 수 있습니다.",
+  "analyzed_at": "2026-04-18T01:00:34.007Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
