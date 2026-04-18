@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "이란 사태",
-      "summary": "이란 혁명수비대가 호르무즈 해협에서 유조선에 발포하여 사태가 심각해지고 있다. 한국 선박들이 움직이지 못하고 있다.",
+      "topic": "이란 혁명수비대와 호르무즈 해협 사태",
+      "summary": "이란 혁명수비대가 호르무즈 해협에서 유조선에 발포하여 사태가 발생했습니다. 한국 선박들이 움직이지 못하고 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최근 AI 기술의 발전이 가속화되고 있으며, 다양한 기업들이 AI를 활용한 새로운 기술과 서비스를 개발하고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "AI 기술과 관련된 뉴스",
+      "summary": "Anthropic Labs의 Claude Design, 로보택시 시장, 메타의 직원 감축 등 다양한 AI 관련 뉴스가 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "임금이 올랐음에도 젊은이들이 부유해진 느낌이 없는 이유와 관련된 글들이 많이 올라왔다. 또한, 다양한 경제 및 금융 관련 뉴스들이 올라왔다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "쿠팡 와우 혜택 쿠폰과 쿠팡의 꼼수",
+      "summary": "쿠팡 와우 혜택 쿠폰의 꼼수가 논란이 되고 있습니다.",
+      "post_count": 1,
+      "sentiment": "mixed",
       "urgency": "low"
     }
   ],
@@ -27,46 +27,41 @@
       "keyword": "이란",
       "count": 7,
       "sentiment": "negative",
-      "context": "이란 사태와 관련된 글들"
+      "context": "호르무즈 해협 사태와 관련된 키워드"
     },
     {
       "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 글들"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "AI 기술과 관련된 키워드"
     },
     {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 글들"
+      "keyword": "쿠팡",
+      "count": 2,
+      "sentiment": "mixed",
+      "context": "쿠팡 와우 혜택 쿠폰과 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 5,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "중립적이고 부정적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "이란 사태가 장기화할 경우 국제 유가가 상승할 가능성이 있다.",
-      "action": "유가 변동에 대비하여 비용 관리를 강화해야 한다.",
+      "insight": "이란 혁명수비대와 호르무즈 해협 사태는 한국 기업들에게 영향을 미칠 수 있습니다.",
+      "action": "한국 기업들은 이란과 관련된 비즈니스에 대한 리스크를 평가해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 가속화되고 있다.",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 한다.",
+      "insight": "AI 기술은 다양한 산업에서 적용될 수 있습니다.",
+      "action": "기업들은 AI 기술을 활용하여 비즈니스 프로세스를 개선하고 새로운 기회를 찾을 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 관련 뉴스들이 많이 올라왔다.",
-      "action": "경제 및 금융 관련 뉴스를 지속적으로 모니터링해야 한다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 이란 사태가 심각해지고 있으며, 국제 유가가 상승할 가능성이 있다. 또한, AI 기술의 발전이 가속화되고 있으며, 다양한 기업들이 AI를 활용한 새로운 기술과 서비스를 개발하고 있다. 경제 및 금융 관련 뉴스들도 많이 올라왔으며, 임금이 올랐음에도 젊은이들이 부유해진 느낌이 없는 이유와 관련된 글들이 많이 올라왔다. 이러한 트렌드들을 고려하여 비즈니스 전략을 수립해야 한다.",
-  "analyzed_at": "2026-04-18T12:30:34.042Z",
+  "narrative": "이번 분석 결과, 이란 혁명수비대와 호르무즈 해협 사태가 주요 관심사로 떠올랐습니다. 또한, AI 기술과 관련된 뉴스가 많았으며, 쿠팡 와우 혜택 쿠폰과 관련된 논란이 있었습니다. 이러한 결과는 기업들에게 다양한 산업에서 적용될 수 있는 AI 기술을 활용하고, 이란과 관련된 비즈니스에 대한 리스크를 평가해야 함을 시사합니다. 또한, 쿠팡 와우 혜택 쿠폰과 관련된 논란은 기업들이 마케팅 전략을 재평가해야 함을 보여줍니다.",
+  "analyzed_at": "2026-04-18T14:00:34.778Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
