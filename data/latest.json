@@ -1,25 +1,39 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 인도, 베트남 순방과 트럼프의 이란 협상 타결 전망 등 정치 관련 주제가热",
+      "topic": "경제",
+      "summary": "나스닥의 광기, 이재명 대통령의 정책, 전월세 상승",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 뉴스, 제미나이 앱의 맥용 버전 출시 등 기술 관련 주제가 인기",
-      "post_count": 15,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "유가 폭락, 전월세 상승, 삼성전자와 LG이노텍의 CPO기판 개발 등 경제 관련 주제가 관심",
+      "topic": "기술",
+      "summary": "AI 기술의 발전, 제미나이 앱의 출시, 구글의 스마트안경",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "이재명 대통령의 정책, 검찰개혁, 공무원 전환",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "문화",
+      "summary": "마이클 잭슨의 삶, 포켓몬 띠부씰, BTS의 스포티파이 1위",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
+    },
+    {
+      "topic": "국제",
+      "summary": "미국과 중국의 관계, 호르무즈 해협, 미국의 전쟁",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,41 +41,58 @@
       "keyword": "이재명",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 관련 주제"
+      "context": "정치"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 주제"
+      "context": "기술"
+    },
+    {
+      "keyword": "나스닥",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "경제"
     },
     {
       "keyword": "제미나이",
       "count": 5,
       "sentiment": "positive",
-      "context": "기술 관련 주제"
+      "context": "기술"
+    },
+    {
+      "keyword": "전월세",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "경제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 가속화되고 있다",
-      "action": "AI 기술에 대한 투자와 연구를 강화해야 한다",
+      "insight": "AI 기술의 발전",
+      "action": "투자",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제가 계속해서 관심을 끌고 있다",
-      "action": "정치 관련 주제에 대한 분석과 보고를 지속적으로 제공해야 한다",
+      "insight": "이재명 대통령의 정책",
+      "action": "분석",
+      "priority": "medium"
+    },
+    {
+      "insight": "전월세 상승",
+      "action": "대응",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 기술 관련 주제가 가장 많은 관심을 끌고 있다. 특히, 이재명 대통령의 인도, 베트남 순방과 트럼프의 이란 협상 타결 전망 등 정치 관련 주제가熱이다. 또한, AI와 관련된 기술 뉴스, 제미나이 앱의 맥용 버전 출시 등 기술 관련 주제가 인기이다. 이러한 트렌드 분석 결과를 바탕으로, 기업과 마케터들은 AI 기술에 대한 투자와 연구를 강화하고, 정치 관련 주제에 대한 분석과 보고를 지속적으로 제공해야 한다. 또한, 중립적인 태도를 유지하고, 다양한 주제에 대한 관심을 끌 수 있는 콘텐츠를 제공해야 한다.",
-  "analyzed_at": "2026-04-18T02:30:33.834Z",
+  "narrative": "현재의 트렌드는 경제, 기술, 정치, 문화, 국제 등 다양한 주제로 구성되어 있습니다. AI 기술의 발전과 제미나이 앱의 출시가 기술 분야에서 주목받고 있습니다. 이재명 대통령의 정책과 검찰개혁이 정치 분야에서 논란이 되고 있습니다. 전월세 상승과 나스닥의 광기가 경제 분야에서 우려를 모으고 있습니다. 이러한 트렌드를 분석하여 사업적으로 활용할 수 있는 기회를 찾는 것이 중요합니다.",
+  "analyzed_at": "2026-04-18T04:00:34.090Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
