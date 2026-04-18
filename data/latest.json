@@ -1,98 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제에 대한 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "이란 사태",
+      "summary": "이란 혁명수비대가 호르무즈 해협에서 유조선에 발포하여 사태가 심각해지고 있다. 한국 선박들이 움직이지 못하고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업 동향",
-      "summary": "경제 및 산업 동향에 대한 분석",
+      "topic": "AI 기술",
+      "summary": "최근 AI 기술의 발전이 가속화되고 있으며, 다양한 기업들이 AI를 활용한 새로운 기술과 서비스를 개발하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "임금이 올랐음에도 젊은이들이 부유해진 느낌이 없는 이유와 관련된 글들이 많이 올라왔다. 또한, 다양한 경제 및 금융 관련 뉴스들이 올라왔다.",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "스포츠 및 엔터테인먼트",
-      "summary": "스포츠 및 엔터테인먼트 소식",
-      "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
-    },
-    {
-      "topic": "과학 및 기술 발전",
-      "summary": "과학 및 기술 발전에 대한 소식",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전"
+      "keyword": "이란",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "이란 사태와 관련된 글들"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 문제"
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 글들"
     },
     {
       "keyword": "경제",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "경제 및 산업 동향"
-    },
-    {
-      "keyword": "스포츠",
       "count": 5,
-      "sentiment": "positive",
-      "context": "스포츠 소식"
-    },
-    {
-      "keyword": "과학",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "과학 및 기술 발전"
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 글들"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 20,
     "negative": 15,
-    "neutral": 30,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾는다.",
+      "insight": "이란 사태가 장기화할 경우 국제 유가가 상승할 가능성이 있다.",
+      "action": "유가 변동에 대비하여 비용 관리를 강화해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 문제는 소비자들의 관심을 끌 수 있다.",
-      "action": "정치 및 사회 문제에 대한 논의를 주시하고 그에 따른 기회를 찾는다.",
+      "insight": "AI 기술의 발전이 가속화되고 있다.",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 한다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 산업 동향은 기업의 전략을 결정하는데 중요한 역할을 한다.",
-      "action": "경제 및 산업 동향을 주시하고 그에 따른 전략을 수립한다.",
-      "priority": "medium"
+      "insight": "경제 및 금융 관련 뉴스들이 많이 올라왔다.",
+      "action": "경제 및 금융 관련 뉴스를 지속적으로 모니터링해야 한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 사회적 영향, 정치 및 사회 문제, 경제 및 산업 동향, 스포츠 및 엔터테인먼트 소식 등 다양한 주제가 논의되고 있다. 이러한 트렌드 분석을 통해 기업은 소비자들의 관심과需求을 이해하고 그에 따른 전략을 수립할 수 있다. 또한, AI 기술의 발전과 경제 및 산업 동향을 주시하고 그에 따른 기회를 찾는 것이 중요하다.",
-  "analyzed_at": "2026-04-18T11:00:34.054Z",
+  "narrative": "최근 이란 사태가 심각해지고 있으며, 국제 유가가 상승할 가능성이 있다. 또한, AI 기술의 발전이 가속화되고 있으며, 다양한 기업들이 AI를 활용한 새로운 기술과 서비스를 개발하고 있다. 경제 및 금융 관련 뉴스들도 많이 올라왔으며, 임금이 올랐음에도 젊은이들이 부유해진 느낌이 없는 이유와 관련된 글들이 많이 올라왔다. 이러한 트렌드들을 고려하여 비즈니스 전략을 수립해야 한다.",
+  "analyzed_at": "2026-04-18T12:30:34.042Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
