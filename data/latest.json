@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "이란 사태",
-      "summary": "이란 혁명수비대가 한국 선박에 발포하여 호르무즈 해협이 다시 봉쇄되었습니다. 이에 대한 논의와 우려가 커뮤니티에서 활발히 진행되고 있습니다.",
-      "post_count": 10,
+      "summary": "이란의 호르무즈 해협 봉쇄와 관련된 뉴스가 속보로 계속해서 업데이트되고 있습니다. 이란 혁명수비대가 한국 선박에 총격을 가한 사건도 발생했습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "홍준표 총리설",
-      "summary": "홍준표 총리설에 대한 논의와 우려가 커뮤니티에서 진행되고 있습니다. 일부 사용자는 홍준표 총리설을 긍정적으로 평가하지만, 대부분의 사용자는 부정적으로 평가하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스가 많이 올라왔습니다. Anthropic Labs의 Claude Design, 오픈AI의 코덱스 업데이트 등이 소개되었습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술에 대한 논의와 소식이 커뮤니티에서 활발히 진행되고 있습니다. Anthropic Labs의 Claude Design과 OpenAI의 GPT-Rosalind 등 다양한 AI 기술에 대한 소식이 공유되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "홍준표 총리설",
+      "summary": "홍준표 총리설에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 일부 유저들은 홍준표 총리설을 부정적으로 평가하고 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이란",
-      "count": 15,
+      "count": 7,
       "sentiment": "negative",
-      "context": "이란 혁명수비대가 한국 선박에 발포하여 호르무즈 해협이 다시 봉쇄되었습니다."
-    },
-    {
-      "keyword": "홍준표",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "홍준표 총리설에 대한 논의와 우려가 커뮤니티에서 진행되고 있습니다."
+      "context": "이란의 호르무즈 해협 봉쇄와 관련된 뉴스"
     },
     {
       "keyword": "AI",
       "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술에 대한 논의와 소식이 커뮤니티에서 활발히 진행되고 있습니다."
+      "context": "AI 기술의 발전과 관련된 뉴스"
+    },
+    {
+      "keyword": "홍준표",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "홍준표 총리설에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
+    "positive": 15,
+    "negative": 20,
     "neutral": 10,
-    "overall_mood": "부정적인 감정이 강하지만, AI 기술에 대한 긍정적인 감정도 존재합니다."
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "이란 사태로 인한 경제적 영향을 최소화하기 위해, 기업은 다양한 대책을 마련해야 합니다.",
-      "action": "이란 사태에 대한 모니터링을 강화하고, 대책을 마련합니다.",
+      "insight": "이란 사태는 글로벌 경제에 영향을 미칠 수 있습니다.",
+      "action": "이란 사태를 주시하고 경제에 대한 영향에 대비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 활용될 수 있습니다. 기업은 AI 기술을 활용하여 경쟁력을 강화할 수 있습니다.",
-      "action": "AI 기술에 대한 투자를 증가시키고, 활용할 수 있는 방법을 모색합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고 산업에 대한 적용을 연구해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "이번 주에는 이란 사태와 홍준표 총리설, AI 기술에 대한 논의가 커뮤니티에서 활발히 진행되었습니다. 이란 사태는 경제적 영향을 줄 수 있으므로, 기업은 다양한 대책을 마련해야 합니다. 또한, AI 기술은 다양한 산업에서 활용될 수 있으므로, 기업은 AI 기술을 활용하여 경쟁력을 강화할 수 있습니다. 그러나, 홍준표 총리설에 대한 논의는 여전히 부정적인 감정이 강합니다. 따라서, 기업은 이러한 트렌드를 주시하고, 대응策을 마련해야 합니다.",
-  "analyzed_at": "2026-04-18T17:00:34.456Z",
+  "narrative": "클리앙 커뮤니티의 트렌드는 이란 사태와 AI 기술의 발전을 중심으로 돌아가고 있습니다. 이란 사태는 글로벌 경제에 영향을 미칠 수 있으며, AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다. 홍준표 총리설에 대한 논의도 진행되고 있지만, 부정적인 감정의 우세를 보이고 있습니다. 이러한 트렌드를 주시하고, 산업에 대한 적용을 연구해야 합니다.",
+  "analyzed_at": "2026-04-18T18:30:34.210Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
