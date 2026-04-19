@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술 발전",
-      "summary": "AI 기술이 빠르게 발전하고 있으며, 다양한 산업에서 적용되고 있다. 특히, 국산 AI에 대한 관심이 높아지고 있다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화가 주목받고 있다. 특히, AI의 발전으로 인한 직업의 변화와 새로운 기회에 대한 관심이 높다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "국제 정치 및 경제",
-      "summary": "국제 정치 및 경제 뉴스가 다양하게 보도되고 있다. 특히, 미국과 중국의 경쟁이 두드러지고 있다.",
-      "post_count": 10,
+      "topic": "국제 정치",
+      "summary": "국제 정치와 외교 관계에 대한 관심이 높다. 특히, 한국과 인도의 관계와 미국, 중국의 영향력에 대한 논의가 활발하다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠 및 엔터테인먼트",
-      "summary": "스포츠 및 엔터테인먼트 뉴스가 다양하게 보도되고 있다. 특히, 축구와 음악에 대한 관심이 높아지고 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제와 산업",
+      "summary": "경제와 산업의 동향에 대한 관심이 높다. 특히, 삼성전자와 애플의 경쟁과 메타의 직원 감축에 대한 논의가 활발하다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술 발전"
+      "context": "AI 기술의 발전과 그에 따른 다양한 산업의 변화"
     },
     {
-      "keyword": "국제 정치",
-      "count": 10,
+      "keyword": "삼성전자",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "국제 정치 및 경제"
+      "context": "삼성전자의 경쟁과 산업 동향"
     },
     {
-      "keyword": "스포츠",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "스포츠 및 엔터테인먼트"
+      "keyword": "메타",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "메타의 직원 감축과 산업 동향"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재한다."
+    "overall_mood": "적극적이고 호의적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 발전을 활용한 비즈니스 기회",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 변화를 가져올 것이다.",
+      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾아야 한다.",
       "priority": "high"
     },
     {
-      "insight": "국제 정치 및 경제의 불확실성",
-      "action": "국제 정치 및 경제의 변화를 주시하고, 비즈니스 전략을 조정한다.",
+      "insight": "국제 정치와 외교 관계는 경제와 산업의 동향에 영향을 미친다.",
+      "action": "국제 정치와 외교 관계를 주시하고 그에 따른リス크를 관리해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "스포츠 및 엔터테인먼트의 인기",
-      "action": "스포츠 및 엔터테인먼트 관련 비즈니스 기회를 발굴한다.",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술 발전과 국제 정치 및 경제의 불확실성, 스포츠 및 엔터테인먼트의 인기 등으로 특징지을 수 있다. 이러한 트렌드를 분석하여, 비즈니스 기회를 발굴하고, 전략을 조정하는 것이 중요하다. 특히, AI 기술 발전을 활용한 비즈니스 기회는 높은 우선순위를 가지고 있다. 또한, 국제 정치 및 경제의 변화를 주시하고, 비즈니스 전략을 조정하는 것이 필요하다. 마지막으로, 스포츠 및 엔터테인먼트의 인기를 활용하여, 새로운 비즈니스 기회를 발굴하는 것이 중요하다.",
-  "analyzed_at": "2026-04-19T20:00:34.286Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높다는 것이다. 또한, 국제 정치와 외교 관계에 대한 관심도 높다. 이러한 트렌드는 경제와 산업의 동향에 영향을 미치고 있다. 따라서, AI 기술의 발전을 주시하고 그에 따른 기회를 찾아야 하며, 국제 정치와 외교 관계를 주시하고 그에 따른 리스크를 관리해야 한다. 또한, 삼성전자와 애플의 경쟁과 메타의 직원 감축에 대한 논의도 주목해야 한다.",
+  "analyzed_at": "2026-04-19T21:30:35.438Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
