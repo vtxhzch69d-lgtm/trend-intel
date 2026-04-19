@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많으며, 대통령의 국빈순방과 서울시장 후보 확정 등 다양한 주제가 논의되고 있습니다.",
+      "topic": "경제",
+      "summary": "고물가와 물가차이, 다이어트와 건강에 대한 관심이 높다.",
       "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "대통령의 국빈순방과 정치적인 이슈에 대한 관심이 높다.",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "새로운 기술 개발과 관련된 게시글이 많으며, AI와 양자컴퓨팅 등 다양한 주제가 논의되고 있습니다.",
+      "summary": "AI와 기술적인 발전에 대한 관심이 높다.",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 게시글이 많으며, 고물가와 물가 상승 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "고물가",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "물가 상승에 대한 우려"
+    },
+    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "새로운 기술 개발과 관련된 게시글에서 자주 언급됩니다."
+      "context": "기술적인 발전에 대한 관심"
     },
     {
-      "keyword": "정치",
-      "count": 12,
+      "keyword": "대통령",
+      "count": 3,
       "sentiment": "mixed",
-      "context": "최근 정치 관련 게시글에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "경제 관련 게시글에서 자주 언급됩니다."
+      "context": "정치적인 이슈에 대한 관심"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "overall_mood": "부정적인 감정이 조금 더 강하다."
   },
   "business_insights": [
     {
-      "insight": "새로운 기술 개발과 관련된 게시글이 많으며, AI와 양자컴퓨팅 등 다양한 주제가 논의되고 있습니다.",
-      "action": "새로운 기술 개발에 대한 투자와 연구를 강화해야 합니다.",
+      "insight": "고물가에 대한 관심이 높아, 물가 관련된 제품이나 서비스에 대한 수요가 증가할 수 있다.",
+      "action": "물가 관련된 제품이나 서비스를 개발하거나 마케팅에 집중한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 게시글이 많으며, 고물가와 물가 상승 등 다양한 주제가 논의되고 있습니다.",
-      "action": "고물가와 물가 상승에 대한 대책을 마련해야 합니다.",
+      "insight": "AI와 기술적인 발전에 대한 관심이 높아, 관련된 제품이나 서비스에 대한 수요가 증가할 수 있다.",
+      "action": "AI와 기술적인 발전에 관련된 제품이나 서비스를 개발하거나 마케팅에 집중한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치, 기술, 경제 등 다양한 주제가 논의되고 있습니다. 새로운 기술 개발과 관련된 게시글이 많으며, AI와 양자컴퓨팅 등 다양한 주제가 논의되고 있습니다. 또한, 경제 관련 게시글이 많으며, 고물가와 물가 상승 등 다양한 주제가 논의되고 있습니다. 이러한 트렌드를 분석하여, 새로운 기술 개발과 경제 대책에 대한 투자와 연구를 강화해야 합니다.",
-  "analyzed_at": "2026-04-19T03:30:33.596Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 고물가와 물가차이, 다이어트와 건강에 대한 관심이 높다. 또한, 대통령의 국빈순방과 정치적인 이슈에 대한 관심이 높다. 기술적인 발전에 대한 관심도 높아, AI와 관련된 제품이나 서비스에 대한 수요가 증가할 수 있다. 이러한 트렌드를 고려하여, 물가 관련된 제품이나 서비스, AI와 기술적인 발전에 관련된 제품이나 서비스를 개발하거나 마케팅에 집중하는 것이 좋을 것이다.",
+  "analyzed_at": "2026-04-19T05:00:34.576Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
