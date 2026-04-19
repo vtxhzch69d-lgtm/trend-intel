@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. AI의 발전은 다양한 산업에 영향을 미치고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "부동산",
+      "summary": "한국 부동산 가격이 오르고 있으며, 외국인 투기 의혹이 제기되고 있다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 주제가 논의되고 있다. 경제 성장과 정치적 상황에 대한 관심이 높다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술이 발전하고 있으며, 다양한 산업에서 적용되고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 주제가 논의되고 있다. 새로운 기술의 개발과 과학적 발견에 대한 관심이 높다.",
+      "topic": "경제",
+      "summary": "한국 경제의 상황이 논의되고 있으며, 고환율의 원인이 분석되고 있다.",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "부동산",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "한국 부동산 가격이 오르고 있다."
+    },
+    {
       "keyword": "AI",
-      "count": 20,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술이 발전하고 있다."
     },
     {
       "keyword": "경제",
-      "count": 15,
+      "count": 8,
       "sentiment": "neutral",
-      "context": "경제 성장과 정치적 상황"
-    },
-    {
-      "keyword": "기술",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술의 발전과 과학적 발견"
+      "context": "한국 경제의 상황이 논의되고 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 개발과 적용에 투자하기",
+      "insight": "부동산 가격이 오르면 관련 산업에 영향을 미친다.",
+      "action": "부동산 가격 변동에 따른 산업 동향을 분석한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 성장과 정치적 상황에 대한 관심이 높다.",
-      "action": "경제와 정치에 대한 정보를 제공하기",
+      "insight": "AI 기술이 발전하면 다양한 산업에서 적용할 수 있다.",
+      "action": "AI 기술을 적용할 수 있는 산업을 탐색한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "기술의 발전과 과학적 발견에 대한 관심이 높다.",
-      "action": "기술과 과학에 대한 정보를 제공하기",
-      "priority": "low"
     }
   ],
-  "narrative": "현재 트렌드에 따르면, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. AI의 발전은 다양한 산업에 영향을 미치고 있다. 또한, 경제 및 정치 관련 주제가 논의되고 있다. 경제 성장과 정치적 상황에 대한 관심이 높다. 기술 및 과학 관련 주제도 논의되고 있다. 새로운 기술의 개발과 과학적 발견에 대한 관심이 높다. 이러한 트렌드에 따라, AI 기술의 개발과 적용에 투자하고, 경제와 정치에 대한 정보를 제공하며, 기술과 과학에 대한 정보를 제공하는 것이 중요하다.",
-  "analyzed_at": "2026-04-19T09:30:33.966Z",
+  "narrative": "한국 온라인 커뮤니티에서 부동산 가격이 오르고 있으며, 외국인 투기 의혹이 제기되고 있다. 또한, AI 기술이 발전하고 있으며, 다양한 산업에서 적용되고 있다. 한국 경제의 상황이 논의되고 있으며, 고환율의 원인이 분석되고 있다. 이러한 트렌드와 키워드를 분석하여, 관련 산업의 동향을 파악하고, 비즈니스 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-04-19T11:00:33.469Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
