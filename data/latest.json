@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용에 대한 관심이 높아지고 있습니다. 특히, 국산 AI와 미국·중국의 AI 기술 경쟁이 주목을 받고 있습니다.",
+      "topic": "AI 기술 발전",
+      "summary": "AI 기술이 빠르게 발전하고 있으며, 다양한 산업에서 적용되고 있다. 특히, 국산 AI에 대한 관심이 높아지고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 대통령의 활동과 정치적 사건들이 주목을 받고 있습니다.",
+      "topic": "국제 정치 및 경제",
+      "summary": "국제 정치 및 경제 뉴스가 다양하게 보도되고 있다. 특히, 미국과 중국의 경쟁이 두드러지고 있다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "스포츠 뉴스와 경기 결과가 많은 관심을 받고 있습니다. 특히, 축구와 야구 경기가 주목을 받고 있습니다.",
-      "post_count": 5,
+      "topic": "스포츠 및 엔터테인먼트",
+      "summary": "스포츠 및 엔터테인먼트 뉴스가 다양하게 보도되고 있다. 특히, 축구와 음악에 대한 관심이 높아지고 있다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술 발전"
     },
     {
-      "keyword": "국정",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 관련 뉴스와 이슈"
+      "keyword": "국제 정치",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "국제 정치 및 경제"
     },
     {
       "keyword": "스포츠",
-      "count": 5,
+      "count": 8,
       "sentiment": "positive",
-      "context": "스포츠 뉴스와 경기 결과"
+      "context": "스포츠 및 엔터테인먼트"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "관심과 기대가 높은 분위기"
+    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용",
+      "insight": "AI 기술 발전을 활용한 비즈니스 기회",
       "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 뉴스와 이슈",
-      "action": "정치 및 사회 관련 뉴스와 이슈에 대한 분석과 해석",
+      "insight": "국제 정치 및 경제의 불확실성",
+      "action": "국제 정치 및 경제의 변화를 주시하고, 비즈니스 전략을 조정한다.",
       "priority": "medium"
     },
     {
-      "insight": "스포츠 뉴스와 경기 결과",
-      "action": "스포츠 관련 비즈니스 모델 개발",
+      "insight": "스포츠 및 엔터테인먼트의 인기",
+      "action": "스포츠 및 엔터테인먼트 관련 비즈니스 기회를 발굴한다.",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 적용, 정치 및 사회 관련 뉴스와 이슈, 스포츠 뉴스와 경기 결과를 중심으로 형성되고 있습니다. 특히, AI 기술의 발전과 적용은 많은 관심을 받고 있으며, 새로운 비즈니스 모델 개발의 기회로 평가되고 있습니다. 또한, 정치 및 사회 관련 뉴스와 이슈는 많은 관심을 받고 있으며, 분석과 해석이 필요합니다. 스포츠 뉴스와 경기 결과는 많은 관심을 받고 있으며, 스포츠 관련 비즈니스 모델 개발의 기회로 평가되고 있습니다.",
-  "analyzed_at": "2026-04-19T18:30:33.843Z",
+  "narrative": "현재의 트렌드는 AI 기술 발전과 국제 정치 및 경제의 불확실성, 스포츠 및 엔터테인먼트의 인기 등으로 특징지을 수 있다. 이러한 트렌드를 분석하여, 비즈니스 기회를 발굴하고, 전략을 조정하는 것이 중요하다. 특히, AI 기술 발전을 활용한 비즈니스 기회는 높은 우선순위를 가지고 있다. 또한, 국제 정치 및 경제의 변화를 주시하고, 비즈니스 전략을 조정하는 것이 필요하다. 마지막으로, 스포츠 및 엔터테인먼트의 인기를 활용하여, 새로운 비즈니스 기회를 발굴하는 것이 중요하다.",
+  "analyzed_at": "2026-04-19T20:00:34.286Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
