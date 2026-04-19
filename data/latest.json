@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화가 주목받고 있다. 특히, AI의 발전으로 인한 직업의 변화와 새로운 기회에 대한 관심이 높다.",
+      "summary": "AI 기술의 발전과 적용 사례가 다양한 분야에서 논의되고 있다. AI의 발전은 인간의 삶을 개선할 수 있는 기회를 제공하지만, 또한倫理적 문제와 책임에 대한 논의도 필요하다.",
       "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "국제 정치",
-      "summary": "국제 정치와 외교 관계에 대한 관심이 높다. 특히, 한국과 인도의 관계와 미국, 중국의 영향력에 대한 논의가 활발하다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제와 산업",
-      "summary": "경제와 산업의 동향에 대한 관심이 높다. 특히, 삼성전자와 애플의 경쟁과 메타의 직원 감축에 대한 논의가 활발하다.",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 이슈가 논의되고 있다. 대통령 지지율, 정치 현안, 사회 문제 등 다양한 주제가 포함된다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 산업",
+      "summary": "기술 및 산업 관련 뉴스와 이슈가 논의되고 있다. 새로운 기술의 개발, 산업 동향, 기업 뉴스 등 다양한 주제가 포함된다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
@@ -26,42 +26,42 @@
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 다양한 산업의 변화"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 5,
       "sentiment": "neutral",
-      "context": "삼성전자의 경쟁과 산업 동향"
+      "context": "AI 기술의 발전과 적용 사례"
     },
     {
-      "keyword": "메타",
-      "count": 3,
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "negative",
-      "context": "메타의 직원 감축과 산업 동향"
+      "context": "정치 관련 뉴스와 이슈"
+    },
+    {
+      "keyword": "기술",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 및 산업 관련 뉴스와 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "적극적이고 호의적인 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 변화를 가져올 것이다.",
-      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾아야 한다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 제공한다.",
+      "action": "AI 기술을 적용하여 산업을 발전시키는 방안을 모색한다.",
       "priority": "high"
     },
     {
-      "insight": "국제 정치와 외교 관계는 경제와 산업의 동향에 영향을 미친다.",
-      "action": "국제 정치와 외교 관계를 주시하고 그에 따른リス크를 관리해야 한다.",
+      "insight": "정치 및 사회 관련 이슈는 기업의 이미지를 형성하는 중요한 요소이다.",
+      "action": "정치 및 사회 관련 이슈를 주시하고, 기업의 이미지를 형성하는 방안을 모색한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높다는 것이다. 또한, 국제 정치와 외교 관계에 대한 관심도 높다. 이러한 트렌드는 경제와 산업의 동향에 영향을 미치고 있다. 따라서, AI 기술의 발전을 주시하고 그에 따른 기회를 찾아야 하며, 국제 정치와 외교 관계를 주시하고 그에 따른 리스크를 관리해야 한다. 또한, 삼성전자와 애플의 경쟁과 메타의 직원 감축에 대한 논의도 주목해야 한다.",
-  "analyzed_at": "2026-04-19T21:30:35.438Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 적용 사례가 다양한 분야에서 논의되고 있다. 또한, 정치 및 사회 관련 뉴스와 이슈가 논의되고 있다. 기술 및 산업 관련 뉴스와 이슈도 중요한 주제로 등장하고 있다. 이러한 트렌드를 분석하여, 기업은 산업을 발전시키는 방안을 모색하고, 정치 및 사회 관련 이슈를 주시하여 기업의 이미지를 형성하는 방안을 모색할 수 있다. 또한, AI 기술의 발전은 다양한 산업에서 기회를 제공하므로, 기업은 AI 기술을 적용하여 산업을 발전시키는 방안을 모색할 수 있다.",
+  "analyzed_at": "2026-04-19T23:00:34.166Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
