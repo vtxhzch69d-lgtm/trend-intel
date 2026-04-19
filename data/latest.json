@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다. 다양한 분야에서 AI 기술의 활용이 증가하고 있으며, 이는 새로운 기회와 도전을 가져다 줄 것으로 보인다.",
-      "post_count": 20,
+      "summary": "AI 기술의 발전과 적용에 대한 관심이 높아지고 있습니다. 특히, 국산 AI와 미국·중국의 AI 기술 경쟁이 주목을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있다. 특히, 대통령의 활동과 국내외 정치 상황에 대한 논의가 활발하다.",
-      "post_count": 15,
+      "summary": "정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 대통령의 활동과 정치적 사건들이 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크 및 과학",
-      "summary": "테크 및 과학 관련 뉴스와 발전이 많은 관심을 받고 있다. 특히, 신기술과 혁신에 대한 논의가 활발하다.",
-      "post_count": 10,
+      "topic": "스포츠",
+      "summary": "스포츠 뉴스와 경기 결과가 많은 관심을 받고 있습니다. 특히, 축구와 야구 경기가 주목을 받고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 30,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng"
+      "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "정치",
-      "count": 20,
+      "keyword": "국정",
+      "count": 8,
       "sentiment": "mixed",
       "context": "정치 및 사회 관련 뉴스와 이슈"
     },
     {
-      "keyword": "테크",
-      "count": 15,
+      "keyword": "스포츠",
+      "count": 5,
       "sentiment": "positive",
-      "context": "테크 및 과학 관련 뉴스와 발전"
+      "context": "스포츠 뉴스와 경기 결과"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "긍정적"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "관심과 기대가 높은 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다.",
+      "insight": "AI 기술의 발전과 적용",
       "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있다.",
+      "insight": "정치 및 사회 관련 뉴스와 이슈",
       "action": "정치 및 사회 관련 뉴스와 이슈에 대한 분석과 해석",
       "priority": "medium"
     },
     {
-      "insight": "테크 및 과학 관련 뉴스와 발전이 많은 관심을 받고 있다.",
-      "action": "테크 및 과학 관련 뉴스와 발전에 대한 분석과 해석",
+      "insight": "스포츠 뉴스와 경기 결과",
+      "action": "스포츠 관련 비즈니스 모델 개발",
       "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다. 다양한 분야에서 AI 기술의 활용이 증가하고 있으며, 이는 새로운 기회와 도전을 가져다 줄 것으로 보인다. 또한, 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있으며, 테크 및 과학 관련 뉴스와 발전도 많은 관심을 받고 있다. 이러한 트렌드에 대한 분석과 해석을 통해, 새로운 비즈니스 모델 개발과 시장 동향에 대한 이해를 높일 수 있을 것이다.",
-  "analyzed_at": "2026-04-19T17:00:34.108Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 적용, 정치 및 사회 관련 뉴스와 이슈, 스포츠 뉴스와 경기 결과를 중심으로 형성되고 있습니다. 특히, AI 기술의 발전과 적용은 많은 관심을 받고 있으며, 새로운 비즈니스 모델 개발의 기회로 평가되고 있습니다. 또한, 정치 및 사회 관련 뉴스와 이슈는 많은 관심을 받고 있으며, 분석과 해석이 필요합니다. 스포츠 뉴스와 경기 결과는 많은 관심을 받고 있으며, 스포츠 관련 비즈니스 모델 개발의 기회로 평가되고 있습니다.",
+  "analyzed_at": "2026-04-19T18:30:33.843Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
