@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "트럼프",
+      "summary": "트럼프의 정신건강과 정치적 상황에 대한 논란",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "현재의 경제 상황과 주식 시장의 동향",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "국내외 정치 및 사회 현안",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "삼성",
+      "summary": "삼성의 파운드리 사업과 기술 개발",
+      "post_count": 4,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업 활용"
-    },
-    {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "현재의 주식 시장 동향"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "트럼프",
+      "count": 7,
       "sentiment": "negative",
-      "context": "국내외 정치 현안"
+      "context": "정치적 상황과 정신건강에 대한 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "기술 발전과 산업에서의 적용"
+    },
+    {
+      "keyword": "삼성",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "파운드리 사업과 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다",
+      "action": "AI 기술을 활용한 새로운 사업 개발",
       "priority": "high"
     },
     {
-      "insight": "현재의 경제 상황과 주식 시장의 동향을 주시해야 한다",
-      "action": "경제 및 주식 시장 분석",
+      "insight": "삼성의 파운드리 사업은 기술 개발과 투자를 통해 경쟁력을 높일 수 있다",
+      "action": "삼성의 파운드리 사업에 대한 투자와 기술 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "국내외 정치 및 사회 현안을 주시해야 한다",
-      "action": "정치 및 사회 현안 분석",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목할 만하다. 또한, 현재의 경제 상황과 주식 시장의 동향을 주시해야 하며, 국내외 정치 및 사회 현안도 주시해야 한다. 이러한 트렌드와 키워드를 분석하여 비즈니스 모델을 개발하고, 시장의 동향을 예측할 수 있다.",
-  "analyzed_at": "2026-04-19T00:30:33.746Z",
+  "narrative": "최근의 트렌드 분석 결과, 트럼프와 관련된 정치적 상황과 정신건강에 대한 논란이 많은 관심을 받고 있습니다. 또한, AI 기술의 발전과 다양한 산업에서의 적용은 새로운 기회를 창출할 수 있습니다. 삼성의 파운드리 사업은 기술 개발과 투자를 통해 경쟁력을 높일 수 있습니다. 이러한 트렌드와 인사이트를 통해 기업은 새로운 기회를 발굴하고 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-04-19T02:00:33.707Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
