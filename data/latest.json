@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많아졌습니다. 특히 Anthropic Labs의 Claude Design과 OpenAI의 GPT-Rosalind가 주목을 받았습니다.",
-      "post_count": 10,
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI의 활용이 증가하고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 게시글도 많았습니다. 특히 IMF의 경고와 현대자동차의 노조 문제가 논란을 일으켰습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석이 많은 관심을 받고 있다. 특히, 현대차 노조와 삼성전자 관련 뉴스가 주목을 받고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 게시글도 많았습니다. 특히 전고체 배터리 소재 개발과 양자통신 성능 향상이 주목을 받았습니다.",
-      "post_count": 6,
+      "summary": "기술 및 과학 관련 뉴스와 분석이 많은 관심을 받고 있다. 특히, 양자컴퓨터와 우주 데이터센터 관련 뉴스가 주목을 받고 있다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전과 그 응용"
     },
     {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "경제 상황과 문제점"
+      "keyword": "현대차",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "현대차 노조와 관련 뉴스"
     },
     {
-      "keyword": "기술",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술의 발전과 혁신"
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "삼성전자 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "호의적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 적용될 수 있습니다.",
-      "action": "AI 기술을 연구하고 개발하여 산업에 적용하는 것을 고려합니다.",
+      "insight": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발하는 것을 고려해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 상황은 불안정합니다.",
-      "action": "경제 상황을 주시하고 대비책을 마련합니다.",
+      "insight": "경제 및 금융 관련 뉴스와 분석이 많은 관심을 받고 있다.",
+      "action": "경제 및 금융 관련 뉴스와 분석을 주시하고, 이를 활용한 비즈니스 전략을 개발하는 것을 고려해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "기술의 발전은 혁신을 가져올 수 있습니다.",
-      "action": "기술의 발전을 주시하고 혁신을 도모합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술, 경제 및 정치, 기술 및 과학 관련 게시글이 많아졌습니다. AI 기술의 발전은 다양한 산업에 적용될 수 있으며, 경제 상황은 불안정합니다. 기술의 발전은 혁신을 가져올 수 있습니다. 이러한 트렌드를 주시하고 대비책을 마련하는 것이 중요합니다. 또한, AI 기술을 연구하고 개발하여 산업에 적용하는 것을 고려합니다. 경제 상황을 주시하고 대비책을 마련합니다. 기술의 발전을 주시하고 혁신을 도모합니다.",
-  "analyzed_at": "2026-04-19T06:30:35.170Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI의 활용이 증가하고 있으며, 이는 새로운 비즈니스 모델을 개발하는 기회를 제공한다. 또한, 경제 및 금융 관련 뉴스와 분석이 많은 관심을 받고 있으며, 이를 활용한 비즈니스 전략을 개발하는 것을 고려해야 한다. 기술 및 과학 관련 뉴스와 분석도 많은 관심을 받고 있으며, 특히 양자컴퓨터와 우주 데이터센터 관련 뉴스가 주목을 받고 있다. 이러한 트렌드에 따라, 기업은 새로운 비즈니스 모델을 개발하고, 기술 및 과학의 발전을 주시하며, 이를 활용한 비즈니스 전략을 개발하는 것을 고려해야 한다.",
+  "analyzed_at": "2026-04-19T08:00:34.299Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
