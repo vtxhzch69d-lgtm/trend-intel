@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제가 논의되고 있다.",
-      "post_count": 10,
+      "topic": "경제 및 주식",
+      "summary": "현재의 경제 상황과 주식 시장의 동향",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크 및 과학",
-      "summary": "테크 및 과학 관련 주제가 논의되고 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치 및 사회",
+      "summary": "국내외 정치 및 사회 현안",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 산업 활용"
+    },
+    {
+      "keyword": "주식",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "현재의 주식 시장 동향"
     },
     {
       "keyword": "정치",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 관련 주제"
-    },
-    {
-      "keyword": "테크",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "테크 및 과학 관련 주제"
+      "sentiment": "negative",
+      "context": "국내외 정치 현안"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
-    "negative": 10,
+    "negative": 20,
     "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있다",
       "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회의 영향",
-      "action": "정치 및 사회의 영향에 대한 비즈니스 전략 개발",
+      "insight": "현재의 경제 상황과 주식 시장의 동향을 주시해야 한다",
+      "action": "경제 및 주식 시장 분석",
       "priority": "medium"
     },
     {
-      "insight": "테크 및 과학의 발전",
-      "action": "테크 및 과학의 발전을 활용한 비즈니스 기회 발굴",
-      "priority": "low"
+      "insight": "국내외 정치 및 사회 현안을 주시해야 한다",
+      "action": "정치 및 사회 현안 분석",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있다. 이는 AI 기술의 발전이 다양한 산업과 비즈니스에 큰 영향을 미치고 있기 때문이다. 또한, 정치 및 사회 관련 주제도 논의되고 있다. 테크 및 과학 관련 주제도 중요한 비즈니스 기회를 제공하고 있다. 따라서, 비즈니스 모델 개발과 전략 수립에 이러한 트렌드를 고려하는 것이 중요하다.",
-  "analyzed_at": "2026-04-18T23:00:34.139Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목할 만하다. 또한, 현재의 경제 상황과 주식 시장의 동향을 주시해야 하며, 국내외 정치 및 사회 현안도 주시해야 한다. 이러한 트렌드와 키워드를 분석하여 비즈니스 모델을 개발하고, 시장의 동향을 예측할 수 있다.",
+  "analyzed_at": "2026-04-19T00:30:33.746Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
