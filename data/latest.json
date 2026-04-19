@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다. 특히, AI 기반의 기본소득론과 AI 기술의 경제적 영향에 대한 논의가 활발하다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "AI 기술 발전",
+      "summary": "AI 기술이 빠르게 발전하고 있으며, 다양한 산업에서 적용되고 있다. 특히, 언어 모델과 컴퓨터 비전 분야에서 많은 발전이 이루어지고 있다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 논의가 많다. 특히, 보유세 누진과 양자클러스터 등에 대한 관심이 높다.",
-      "post_count": 10,
+      "summary": "경제 및 금융 관련 뉴스가 많으며, 특히 주식 시장과 투자 관련 주제가 인기 있다.",
+      "post_count": 15,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 뉴스와 논의가 많다. 특히, 로보택시와 양자통신 등에 대한 관심이 높다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스가 많으며, 특히 대통령과 정부 관련 주제가 인기 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 30,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용"
+      "context": "AI 기술 발전과 적용"
     },
     {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스와 논의"
-    },
-    {
-      "keyword": "기술",
+      "keyword": "주식",
       "count": 10,
-      "sentiment": "positive",
-      "context": "기술 및 과학 관련 뉴스와 논의"
+      "sentiment": "neutral",
+      "context": "주식 시장과 투자"
+    },
+    {
+      "keyword": "대통령",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 및 사회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 40,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 기조를 보이고 있으나, 일부 주제에서는 긍정적인 반응을 보임"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 경제와 사회에 큰 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개발하는 것을 고려해야 한다.",
+      "insight": "AI 기술을 활용한 비즈니스 모델 개발",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발을 위한 투자와 연구",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스와 논의는 비즈니스에 큰 영향을 미칠 수 있다.",
-      "action": "경제 및 금융 관련 뉴스와 논의를 주시하고, 이를 활용하여 비즈니스 전략을 개발하는 것을 고려해야 한다.",
+      "insight": "경제 및 금융 관련 뉴스와 주제에 대한 분석",
+      "action": "경제 및 금융 관련 뉴스와 주제에 대한 분석을 통해 시장 동향을 파악",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 경제 및 금융 관련 뉴스와 논의가 주를 이루고 있다. AI 기술의 발전은 경제와 사회에 큰 영향을 미칠 수 있으므로, 이를 주시하고, 이를 활용하여 비즈니스 모델을 개발하는 것을 고려해야 한다. 또한, 경제 및 금융 관련 뉴스와 논의는 비즈니스에 큰 영향을 미칠 수 있으므로, 이를 주시하고, 이를 활용하여 비즈니스 전략을 개발하는 것을 고려해야 한다. 중립적인 분위기에서 다양한 주제와 키워드가 논의되고 있으므로, 이러한 트렌드를 주시하고, 이를 활용하여 비즈니스 전략을 개발하는 것이 중요하다.",
-  "analyzed_at": "2026-04-19T14:00:34.303Z",
+  "narrative": "현재의 트렌드는 AI 기술 발전과 경제 및 금융 관련 뉴스가 주를 이루고 있다. 특히, AI 기술은 빠르게 발전하고 있으며, 다양한 산업에서 적용되고 있다. 또한, 경제 및 금융 관련 뉴스는 주식 시장과 투자 관련 주제가 인기 있다. 이러한 트렌드를 분석하여 비즈니스 모델 개발과 시장 동향 파악을 위한 전략을 수립할 수 있다. 또한, 정치 및 사회 관련 뉴스도 중요하며, 대통령과 정부 관련 주제가 인기 있다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-04-19T15:30:34.508Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
