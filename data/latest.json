@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술 발전",
-      "summary": "AI 기술이 빠르게 발전하고 있으며, 다양한 산업에서 적용되고 있다. 특히, 언어 모델과 컴퓨터 비전 분야에서 많은 발전이 이루어지고 있다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다. 다양한 분야에서 AI 기술의 활용이 증가하고 있으며, 이는 새로운 기회와 도전을 가져다 줄 것으로 보인다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스가 많으며, 특히 주식 시장과 투자 관련 주제가 인기 있다.",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있다. 특히, 대통령의 활동과 국내외 정치 상황에 대한 논의가 활발하다.",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스가 많으며, 특히 대통령과 정부 관련 주제가 인기 있다.",
+      "topic": "테크 및 과학",
+      "summary": "테크 및 과학 관련 뉴스와 발전이 많은 관심을 받고 있다. 특히, 신기술과 혁신에 대한 논의가 활발하다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,41 +27,46 @@
       "keyword": "AI",
       "count": 30,
       "sentiment": "positive",
-      "context": "AI 기술 발전과 적용"
+      "context": "AI 기술의 발전과 ứng dụng"
     },
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장과 투자"
-    },
-    {
-      "keyword": "대통령",
-      "count": 5,
+      "keyword": "정치",
+      "count": 20,
       "sentiment": "mixed",
-      "context": "정치 및 사회 관련 뉴스"
+      "context": "정치 및 사회 관련 뉴스와 이슈"
+    },
+    {
+      "keyword": "테크",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "테크 및 과학 관련 뉴스와 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 40,
     "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적인 기조를 보이고 있으나, 일부 주제에서는 긍정적인 반응을 보임"
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술을 활용한 비즈니스 모델 개발",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발을 위한 투자와 연구",
+      "insight": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스와 주제에 대한 분석",
-      "action": "경제 및 금융 관련 뉴스와 주제에 대한 분석을 통해 시장 동향을 파악",
+      "insight": "정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있다.",
+      "action": "정치 및 사회 관련 뉴스와 이슈에 대한 분석과 해석",
       "priority": "medium"
+    },
+    {
+      "insight": "테크 및 과학 관련 뉴스와 발전이 많은 관심을 받고 있다.",
+      "action": "테크 및 과학 관련 뉴스와 발전에 대한 분석과 해석",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술 발전과 경제 및 금융 관련 뉴스가 주를 이루고 있다. 특히, AI 기술은 빠르게 발전하고 있으며, 다양한 산업에서 적용되고 있다. 또한, 경제 및 금융 관련 뉴스는 주식 시장과 투자 관련 주제가 인기 있다. 이러한 트렌드를 분석하여 비즈니스 모델 개발과 시장 동향 파악을 위한 전략을 수립할 수 있다. 또한, 정치 및 사회 관련 뉴스도 중요하며, 대통령과 정부 관련 주제가 인기 있다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-04-19T15:30:34.508Z",
+  "narrative": "最近의 트렌드 분석 결과, AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다. 다양한 분야에서 AI 기술의 활용이 증가하고 있으며, 이는 새로운 기회와 도전을 가져다 줄 것으로 보인다. 또한, 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있으며, 테크 및 과학 관련 뉴스와 발전도 많은 관심을 받고 있다. 이러한 트렌드에 대한 분석과 해석을 통해, 새로운 비즈니스 모델 개발과 시장 동향에 대한 이해를 높일 수 있을 것이다.",
+  "analyzed_at": "2026-04-19T17:00:34.108Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
