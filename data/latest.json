@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래의 공천 관련 뉴스와 정치 현안이热議되고 있습니다.",
+      "topic": "삼성전자",
+      "summary": "삼성전자가 다양한 제품을 출시하고 있으며, 특히 스마트폰과 전기차 배터리 분야에서 두드러진 성과를 보이고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "기업의 실적과 경제 동향이 주목받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "신기술과 제품 출시가 주목받고 있습니다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 특히 이미지 생성과 자연어 처리 분야에서 많은 관심을 받고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 정치",
+      "summary": "경제와 정치 분야에서 다양한 이슈가 논의되고 있으며, 특히 고용과 노동 문제가 많은 관심을 받고 있습니다.",
+      "post_count": 12,
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정청래의 공천 관련 논란"
+      "keyword": "삼성전자",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "삼성전자의 제품 출시와 성과"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "삼성전자의 신제품 출시와 기술 개발"
+      "context": "AI 기술의 적용과 발전"
     },
     {
       "keyword": "경제",
-      "count": 15,
+      "count": 8,
       "sentiment": "neutral",
-      "context": "경제 동향과 기업의 실적"
+      "context": "경제 분야의 다양한 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "정치와 경제는 밀접한 관련이 있습니다.",
-      "action": "정치와 경제 동향을 주목해야 합니다.",
+      "insight": "삼성전자의 제품 출시와 성과",
+      "action": "삼성전자 제품에 대한 마케팅과 홍보 강화",
       "priority": "high"
     },
     {
-      "insight": "신기술과 제품 출시가 경쟁력을 결정합니다.",
-      "action": "신기술과 제품 개발에 투자해야 합니다.",
+      "insight": "AI 기술의 적용과 발전",
+      "action": "AI 기술에 대한 투자와 연구 강화",
       "priority": "medium"
+    },
+    {
+      "insight": "경제와 정치 분야의 이슈",
+      "action": "경제와 정치 분야의 이슈에 대한 모니터링과 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, 경제, 기술 등 다양한 주제로 구성되어 있습니다. 정청래의 공천 관련 뉴스와 정치 현안이熱議되고 있으며, 기업의 실적과 경제 동향이 주목받고 있습니다. 또한, 신기술과 제품 출시가 주목받고 있습니다. 이러한 트렌드는 기업과 마케터에게 중요한 인사이트를 제공하며, 경쟁력을 결정하는 요소입니다. 따라서, 정치와 경제 동향을 주목하고, 신기술과 제품 개발에 투자해야 합니다.",
-  "analyzed_at": "2026-04-20T08:00:34.172Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드와 이슈를 분석한 결과, 삼성전자의 제품 출시와 성과, AI 기술의 적용과 발전, 경제와 정치 분야의 이슈가 주목할 만한 것으로 나타났습니다. 이러한 트렌드와 이슈를 고려하여 마케팅과 홍보 전략을 수립하고, AI 기술에 대한 투자와 연구를 강화하는 것이 중요할 것으로 보입니다. 또한, 경제와 정치 분야의 이슈에 대한 모니터링과 분석을 통해 시장의 변화를 예측하고 대응하는 것이 필요합니다.",
+  "analyzed_at": "2026-04-20T09:30:33.978Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
