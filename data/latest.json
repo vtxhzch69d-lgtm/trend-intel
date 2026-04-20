@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 모디 총리의 만남, 국회 재경위 신현송 한은총재 후보자 인사청문보고서 채택 등 정치 관련 뉴스가热을 끌고 있습니다.",
+      "summary": "정청래의 공천 관련 뉴스와 정치 현안이热議되고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "삼성전자, 애플, 인텔 등 기술 관련 뉴스가 많이 등장하고 있습니다. 메모리 칩, AI, 양자전환 등 다양한 주제가 다루어지고 있습니다.",
+      "topic": "경제",
+      "summary": "기업의 실적과 경제 동향이 주목받고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "현대차 노조의 보상 요구, 삼성전자 구형 모바일 D램 주문 종료 등 경제 관련 뉴스가 많이 등장하고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "신기술과 제품 출시가 주목받고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng용"
+      "keyword": "정청래",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정청래의 공천 관련 논란"
     },
     {
       "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "삼성전자의 사업과 뉴스"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "삼성전자의 신제품 출시와 기술 개발"
     },
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "이재명 대통령의 활동과 뉴스"
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 동향과 기업의 실적"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다.",
-      "action": "AI 기술의 ứng용을 연구하고 개발하세요.",
+      "insight": "정치와 경제는 밀접한 관련이 있습니다.",
+      "action": "정치와 경제 동향을 주목해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 사업은 다양한 산업에 큰 영향을 미칩니다.",
-      "action": "삼성전자의 사업을 연구하고 분석하세요.",
+      "insight": "신기술과 제품 출시가 경쟁력을 결정합니다.",
+      "action": "신기술과 제품 개발에 투자해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치, 기술, 경제 뉴스는 다양한 주제와 산업을 다루고 있습니다. AI 기술의 발전은 큰 영향을 미칠 것입니다. 삼성전자의 사업은 다양한 산업에 큰 영향을 미칩니다. 이러한 뉴스와 트렌드를 분석하여 사업을 발전시키는 데 활용하세요.",
-  "analyzed_at": "2026-04-20T06:30:34.174Z",
+  "narrative": "현재의 트렌드는 정치, 경제, 기술 등 다양한 주제로 구성되어 있습니다. 정청래의 공천 관련 뉴스와 정치 현안이熱議되고 있으며, 기업의 실적과 경제 동향이 주목받고 있습니다. 또한, 신기술과 제품 출시가 주목받고 있습니다. 이러한 트렌드는 기업과 마케터에게 중요한 인사이트를 제공하며, 경쟁력을 결정하는 요소입니다. 따라서, 정치와 경제 동향을 주목하고, 신기술과 제품 개발에 투자해야 합니다.",
+  "analyzed_at": "2026-04-20T08:00:34.172Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
