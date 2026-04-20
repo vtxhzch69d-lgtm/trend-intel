@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자가 다양한 제품을 출시하고 있으며, 특히 스마트폰과 전기차 배터리 분야에서 두드러진 성과를 보이고 있습니다.",
-      "post_count": 10,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 증가하고 있다. 클리앙 커뮤니티에서는 AI 관련된 주제가 많이 обсужд되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 특히 이미지 생성과 자연어 처리 분야에서 많은 관심을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "삼성전자",
+      "summary": "삼성전자의 최근 동향과 기술 발전이 주목을 받고 있다. 클리앙 커뮤니티에서는 삼성전자 관련된 주제가 많이 обсужд되고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     },
     {
       "topic": "경제 및 정치",
-      "summary": "경제와 정치 분야에서 다양한 이슈가 논의되고 있으며, 특히 고용과 노동 문제가 많은 관심을 받고 있습니다.",
+      "summary": "경제 및 정치 관련된 주제가 클리앙 커뮤니티에서 많이 обсужд되고 있다. 특히, 최근의 경제 동향과 정치적인 이슈가 주목을 받고 있다.",
       "post_count": 12,
       "sentiment": "mixed",
       "urgency": "high"
@@ -24,50 +24,50 @@
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 15,
+      "keyword": "AI",
+      "count": 20,
       "sentiment": "positive",
-      "context": "삼성전자의 제품 출시와 성과"
+      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
     },
     {
-      "keyword": "AI",
+      "keyword": "삼성전자",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 적용과 발전"
+      "sentiment": "neutral",
+      "context": "삼성전자의 최근 동향과 기술 발전"
     },
     {
       "keyword": "경제",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 분야의 다양한 이슈"
+      "sentiment": "negative",
+      "context": "경제적인 어려움과 불안정"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재합니다."
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적이고 다양한 의견이 존재하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자의 제품 출시와 성과",
-      "action": "삼성전자 제품에 대한 마케팅과 홍보 강화",
+      "insight": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 적용과 발전",
-      "action": "AI 기술에 대한 투자와 연구 강화",
+      "insight": "삼성전자의 기술 발전과 시장 동향",
+      "action": "삼성전자와의 협력을 강화하여 새로운 비즈니스 기회를 발굴",
       "priority": "medium"
     },
     {
-      "insight": "경제와 정치 분야의 이슈",
-      "action": "경제와 정치 분야의 이슈에 대한 모니터링과 분석",
+      "insight": "경제적인 어려움과 불안정",
+      "action": "경제적인 어려움을 극복하기 위한 대책을 마련",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 이슈를 분석한 결과, 삼성전자의 제품 출시와 성과, AI 기술의 적용과 발전, 경제와 정치 분야의 이슈가 주목할 만한 것으로 나타났습니다. 이러한 트렌드와 이슈를 고려하여 마케팅과 홍보 전략을 수립하고, AI 기술에 대한 투자와 연구를 강화하는 것이 중요할 것으로 보입니다. 또한, 경제와 정치 분야의 이슈에 대한 모니터링과 분석을 통해 시장의 변화를 예측하고 대응하는 것이 필요합니다.",
-  "analyzed_at": "2026-04-20T09:30:33.978Z",
-  "post_count": 60,
+  "narrative": "클리앙 커뮤니티에서는 AI 기술, 삼성전자, 경제 및 정치 관련된 주제가 많이 обсужд되고 있다. AI 기술의 발전과 다양한 산업에서의 적용이 증가하고 있으며, 삼성전자의 기술 발전과 시장 동향이 주목을 받고 있다. 또한, 경제적인 어려움과 불안정에 대한 우려가 존재한다. 이러한 주제와 키워드를 분석하여, 새로운 비즈니스 모델을 개발하고, 삼성전자와의 협력을 강화하며, 경제적인 어려움을 극복하기 위한 대책을 마련할 수 있다.",
+  "analyzed_at": "2026-04-20T11:00:34.174Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
