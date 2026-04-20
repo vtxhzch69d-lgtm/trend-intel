@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "장동혁",
-      "summary": "장동혁 관련 뉴스와 그의 활동에 대한 논의",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "이재명 대통령과 모디 총리의 만남, 국회 재경위 신현송 한은총재 후보자 인사청문보고서 채택 등 정치 관련 뉴스가热을 끌고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "삼성전자, 애플, 인텔 등 기술 관련 뉴스가 많이 등장하고 있습니다. 메모리 칩, AI, 양자전환 등 다양한 주제가 다루어지고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "파이어족",
-      "summary": "파이어족에 대한 논의와 관련된 주제",
-      "post_count": 2,
+      "topic": "경제",
+      "summary": "현대차 노조의 보상 요구, 삼성전자 구형 모바일 D램 주문 종료 등 경제 관련 뉴스가 많이 등장하고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련된 뉴스와 논의",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "장동혁",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "장동혁 관련 뉴스와 그의 활동"
-    },
-    {
-      "keyword": "파이어족",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "파이어족에 대한 논의"
-    },
-    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 AI 기술과 관련된 뉴스와 논의"
+      "context": "AI 기술의 발전과 ứng용"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "삼성전자의 사업과 뉴스"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 활동과 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적이며 정보를 공유하는 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 AI 기술에 대한 관심이 높아지고 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델을 개발하는 것을 고려해야 한다",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다.",
+      "action": "AI 기술의 ứng용을 연구하고 개발하세요.",
       "priority": "high"
     },
     {
-      "insight": "장동혁 관련 뉴스와 그의 활동에 대한 논의가 많다",
-      "action": "장동혁 관련 뉴스와 그의 활동을 주시하고 대응하는 것을 고려해야 한다",
+      "insight": "삼성전자의 사업은 다양한 산업에 큰 영향을 미칩니다.",
+      "action": "삼성전자의 사업을 연구하고 분석하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 장동혁 관련 뉴스와 그의 활동에 대한 논의가 많았으며, 최신 AI 기술에 대한 관심도 높아지고 있다. 파이어족에 대한 논의도 존재하지만, 전체적인 분위기는 중립적이며 정보를 공유하는 분위기이다. 비즈니스적으로는 최신 AI 기술을 활용한 비즈니스 모델을 개발하는 것을 고려해야 하며, 장동혁 관련 뉴스와 그의 활동을 주시하고 대응하는 것을 고려해야 한다.",
-  "analyzed_at": "2026-04-20T05:00:33.598Z",
-  "post_count": 62,
+  "narrative": "최근의 정치, 기술, 경제 뉴스는 다양한 주제와 산업을 다루고 있습니다. AI 기술의 발전은 큰 영향을 미칠 것입니다. 삼성전자의 사업은 다양한 산업에 큰 영향을 미칩니다. 이러한 뉴스와 트렌드를 분석하여 사업을 발전시키는 데 활용하세요.",
+  "analyzed_at": "2026-04-20T06:30:34.174Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
