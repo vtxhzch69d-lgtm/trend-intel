@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다.",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스와 의견이 활발하게 논의되고 있다.",
+      "summary": "경제 및 정치 관련 뉴스와 의견",
       "post_count": 20,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크 및 가전",
-      "summary": "최신 테크 및 가전 제품에 대한 정보와 리뷰가 공유되고 있다.",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 개발",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
@@ -36,37 +36,37 @@
       "context": "경제 불안정성"
     },
     {
-      "keyword": "삼성",
+      "keyword": "기술",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "삼성전자 관련 뉴스"
+      "sentiment": "positive",
+      "context": "최신 기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 20,
     "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신규 서비스 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 적용 가능하다",
+      "action": "AI 기술의 개발과 투자",
       "priority": "high"
     },
     {
-      "insight": "경제 불안정성",
-      "action": "경제 불안정성에 대한 대응 전략 수립",
+      "insight": "경제 및 정치 관련 뉴스와 의견은 중립적으로 접근해야 한다",
+      "action": "중립적인 의견을 제시",
       "priority": "medium"
     },
     {
-      "insight": "테크 및 가전 제품의 인기",
-      "action": "최신 테크 및 가전 제품에 대한 마케팅 캠페인 실행",
+      "insight": "최신 기술 및 과학 관련 뉴스와 개발은 지속적으로 모니터링해야 한다",
+      "action": "최신 기술 및 과학 관련 뉴스와 개발을 모니터링",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 경제 및 정치 관련 뉴스가 주목을 받고 있다. 또한, 테크 및 가전 제품에 대한 관심도 높아지고 있다. 이러한 트렌드를 반영하여, AI 기술을 활용한 신규 서비스 개발과 경제 불안정성에 대한 대응 전략 수립이 필요하다. 또한, 최신 테크 및 가전 제품에 대한 마케팅 캠페인 실행을 통해 소비자들의 관심을 끌 수 있을 것이다.",
-  "analyzed_at": "2026-04-20T17:00:34.096Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있다. 또한, 경제 및 정치 관련 뉴스와 의견은 중립적으로 접근해야 한다. 최신 기술 및 과학 관련 뉴스와 개발은 지속적으로 모니터링해야 한다. 이러한 트렌드와 인사이트를 바탕으로, 기업은 AI 기술의 개발과 투자, 중립적인 의견의 제시, 최신 기술 및 과학 관련 뉴스와 개발의 모니터링 등을 통해 경쟁력을 높일 수 있을 것이다.",
+  "analyzed_at": "2026-04-20T18:30:33.990Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
