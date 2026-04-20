@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "애플 CEO 교체",
-      "summary": "애플의 CEO 팀 쿡이 사임하고, 존 터너스가 후임으로 임명되었습니다. 이는 애플의 미래 방향에 큰 영향을 미칠 것으로 예상됩니다.",
-      "post_count": 3,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "윤석열 정부의 문화예술 정책에 대한 예술인 규탄 성명과 김건희 문자메시지 공개 등 정치 관련 게시물이 인기",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "폴더블폰 기술 발전",
-      "summary": "폴더블폰의 주름 문제를 해결한 기술이 개발되었습니다. 이는 폴더블폰의 시장 확대에 기여할 것으로 예상됩니다.",
-      "post_count": 2,
+      "topic": "기술",
+      "summary": "AI와 로봇 관련 게시물이 인기, 특히 Anthropic Labs의 Claude Design과 중국 휴머노이드 로봇 등",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술 발전",
-      "summary": "AI 기술이 빠르게 발전하고 있습니다. 이는 다양한 산업에 큰 영향을 미칠 것으로 예상됩니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "삼성전자와 LG이노텍의 최신 기술 개발과 메타의 직원 감축 등 경제 관련 게시물이 인기",
+      "post_count": 6,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "애플",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "애플의 CEO 교체와 새로운 기술 개발"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에의 적용"
+      "context": "AI 관련 기술 개발과 응용"
     },
     {
-      "keyword": "폴더블폰",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "폴더블폰의 주름 문제 해결과 시장 확대"
+      "keyword": "윤석열",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "윤석열 정부의 문화예술 정책과 김건희 문자메시지 공개"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 6,
+      "sentiment": "neutral",
+      "context": "삼성전자의 최신 기술 개발과 사업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "기대와 흥미"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "애플의 CEO 교체는 미래 방향에 큰 영향을 미칠 수 있습니다.",
-      "action": "애플의 미래 계획을 주시하고, 시장의 반응을 분석합니다.",
+      "insight": "AI 기술 개발과 응용이 중요",
+      "action": "AI 관련 기술 개발에 투자",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 다양한 산업에의 적용을 분석합니다.",
-      "priority": "high"
+      "insight": "윤석열 정부의 문화예술 정책에 대한 예술인 규탄 성명이 정치적으로 중요",
+      "action": "정치적 상황을 주시",
+      "priority": "medium"
     },
     {
-      "insight": "폴더블폰의 주름 문제 해결은 시장 확대에 기여할 수 있습니다.",
-      "action": "폴더블폰의 시장 동향을 주시하고, 소비자 반응을 분석합니다.",
+      "insight": "삼성전자와 LG이노텍의 최신 기술 개발이 경제적으로 중요",
+      "action": "최신 기술 개발을 주시",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 애플의 CEO 교체와 AI 기술의 발전이 주목을 끌고 있습니다. 애플의 미래 방향과 AI 기술의 다양한 산업에의 적용은 큰 영향을 미칠 수 있습니다. 또한, 폴더블폰의 주름 문제 해결은 시장 확대에 기여할 수 있습니다. 이러한 트렌드에 주시하고, 시장의 반응을 분석하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-20T21:30:34.281Z",
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시물은 정치, 기술, 경제 등 다양한 주제를 다루고 있습니다. 특히 AI와 로봇 관련 게시물이 인기이며, 윤석열 정부의 문화예술 정책에 대한 예술인 규탄 성명도 정치적으로 중요합니다. 또한 삼성전자와 LG이노텍의 최신 기술 개발이 경제적으로 중요하며, 이러한 기술 개발과 응용이 중요합니다. 따라서 AI 관련 기술 개발에 투자하고, 정치적 상황을 주시하며, 최신 기술 개발을 주시하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-20T23:00:34.313Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
