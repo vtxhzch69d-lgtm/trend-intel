@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "제네시스 WEC",
-      "summary": "제네시스 마그마 레이싱이 WEC 데뷔를 성공적으로 마쳤습니다. 현대 제네시스도 WEC 데뷔를 완주했습니다.",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
       "topic": "AI 기술",
-      "summary": "AI 기술이 거품이 아닌 것으로 보입니다. Anthropic Labs의 Claude Design이 소개되었습니다.",
-      "post_count": 5,
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "폴더블폰",
-      "summary": "폴더블폰의 주름 문제가 해결될 수 있을지에 대한 기사가 나왔습니다.",
-      "post_count": 2,
-      "sentiment": "neutral",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 의견이 활발하게 논의되고 있다.",
+      "post_count": 20,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테크 및 가전",
+      "summary": "최신 테크 및 가전 제품에 대한 정보와 리뷰가 공유되고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "제네시스",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "제네시스 마그마 레이싱이 WEC 데뷔를 성공적으로 마쳤습니다."
-    },
-    {
       "keyword": "AI",
-      "count": 6,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술이 거품이 아닌 것으로 보입니다."
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "폴더블폰",
-      "count": 2,
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "경제 불안정성"
+    },
+    {
+      "keyword": "삼성",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "폴더블폰의 주름 문제가 해결될 수 있을지에 대한 기사가 나왔습니다."
+      "context": "삼성전자 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적인 기조를 띄고 있지만, 일부에서는 긍정적인 반응을 보이고 있습니다."
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "제네시스 마그마 레이싱이 WEC 데뷔를 성공적으로 마쳤습니다.",
-      "action": "제네시스 브랜드의 마케팅을 강화해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 신규 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 거품이 아닌 것으로 보입니다.",
-      "action": "AI 기술을 활용한 새로운 제품이나 서비스를 개발해야 합니다.",
+      "insight": "경제 불안정성",
+      "action": "경제 불안정성에 대한 대응 전략 수립",
       "priority": "medium"
+    },
+    {
+      "insight": "테크 및 가전 제품의 인기",
+      "action": "최신 테크 및 가전 제품에 대한 마케팅 캠페인 실행",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 제네시스 마그마 레이싱이 WEC 데뷔를 성공적으로 마쳤습니다. 또한, AI 기술이 거품이 아닌 것으로 보입니다. 이러한 트렌드를 반영하여, 제네시스 브랜드의 마케팅을 강화하고, AI 기술을 활용한 새로운 제품이나 서비스를 개발해야 합니다. 또한, 폴더블폰의 주름 문제가 해결될 수 있을지에 대한 기사가 나왔습니다. 이러한 트렌드와 키워드를 분석하여, 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-04-20T15:30:33.669Z",
-  "post_count": 60,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 경제 및 정치 관련 뉴스가 주목을 받고 있다. 또한, 테크 및 가전 제품에 대한 관심도 높아지고 있다. 이러한 트렌드를 반영하여, AI 기술을 활용한 신규 서비스 개발과 경제 불안정성에 대한 대응 전략 수립이 필요하다. 또한, 최신 테크 및 가전 제품에 대한 마케팅 캠페인 실행을 통해 소비자들의 관심을 끌 수 있을 것이다.",
+  "analyzed_at": "2026-04-20T17:00:34.096Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
