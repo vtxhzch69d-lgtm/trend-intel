@@ -1,72 +1,54 @@
 {
   "trending_topics": [
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 뉴스와 분석",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시물이 많은 관심을 받고 있습니다. 특히 오픈AI의 챗GPT 이미지 2.0 공개와 관련된 게시물이 인기입니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회",
-      "summary": "사회 문제와 논란",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 게시물도 많은 관심을 받고 있습니다. 특히 달러와 원유값의 변동, 코스피의 최고치 등과 관련된 게시물이 인기입니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "인공지능 기술"
-    },
-    {
-      "keyword": "쿠팡",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "쿠팡 로비 논란"
+      "context": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시물이 많은 관심을 받고 있습니다."
     },
     {
       "keyword": "경제",
-      "count": 8,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "context": "경제 및 금융 관련 게시물도 많은 관심을 받고 있습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기입니다."
   },
   "business_insights": [
     {
-      "insight": "기술 트렌드에 대한 관심이 높아지고 있다",
-      "action": "최신 기술 뉴스와 트렌드를 제공하는 콘텐츠 개발",
+      "insight": "AI 기술 관련 게시물이 많은 관심을 받고 있습니다.",
+      "action": "AI 기술 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스와 분석에 대한 수요가 있다",
-      "action": "경제 뉴스와 분석 콘텐츠 개발",
+      "insight": "경제 및 금융 관련 게시물도 많은 관심을 받고 있습니다.",
+      "action": "경제 및 금융 관련 정보를 제공하거나 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 문제와 논란에 대한 관심이 낮아지고 있다",
-      "action": "사회 문제와 논란에 대한 콘텐츠 개발을 축소",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 기술과 경제에 대한 관심이 높아지고 있음을 알 수 있다. AI와 쿠팡 등 기술과 경제에 관련된 키워드가 많이 등장하고 있으며, 이러한 키워드에 대한 콘텐츠 개발이 필요하다. 또한, 사회 문제와 논란에 대한 관심이 낮아지고 있으므로 이러한 콘텐츠 개발을 축소하는 것이 좋을 것이다. 이러한 분석 결과를 바탕으로 콘텐츠 개발과 마케팅 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-04-21T19:00:34.507Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시물이 많은 관심을 받고 있습니다. 특히 오픈AI의 챗GPT 이미지 2.0 공개와 관련된 게시물이 인기입니다. 또한 경제 및 금융 관련 게시물도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 AI 기술 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다. 또한 경제 및 금융 관련 정보를 제공하거나 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다. 이러한 마케팅 전략을 통해 기업의 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-04-21T20:30:34.528Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
