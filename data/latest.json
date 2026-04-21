@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "이란-이스라엘 휴전",
+      "summary": "이란과 이스라엘의 휴전 관련 뉴스가 클리앙 커뮤니티에서 큰 관심을 받고 있습니다. 트럼프의 휴전 연장 발표와 관련된 글들이 많이 올라왔습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 분석이 활발하게 진행되고 있다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 뉴스가 클리앙 커뮤니티에서 많이 올라왔습니다. 챗GPT 이미지 2.0의 출시와 관련된 글들이 많이 올라왔습니다.",
+      "post_count": 4,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제가 논의되고 있으며, 일부에서는 논쟁이 일고 있다.",
-      "post_count": 12,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 관련 뉴스가 클리앙 커뮤니티에서 많이 올라왔습니다. 달러와 원유값의 변동과 관련된 글들이 많이 올라왔습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스와 분석"
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
+      "keyword": "이란",
+      "count": 5,
       "sentiment": "negative",
-      "context": "사회 및 정치 관련 주제"
+      "context": "이란과 이스라엘의 휴전 관련 뉴스"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "챗GPT 이미지 2.0의 출시"
+    },
+    {
+      "keyword": "달러",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "달러와 원유값의 변동"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "이란-이스라엘 휴전 관련 뉴스는 클리앙 커뮤니티에서 큰 관심을 받고 있습니다.",
+      "action": "관련 뉴스를 계속적으로 모니터링하고 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스",
-      "action": "경제 및 금융 관련 뉴스와 분석을 주시",
+      "insight": "AI 기술은 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "AI 기술 관련 뉴스를 계속적으로 모니터링하고 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 및 정치 관련 주제",
-      "action": "사회 및 정치 관련 주제를 주시",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있으며, 경제 및 금융 관련 뉴스와 분석도 활발하게 진행되고 있다. 사회 및 정치 관련 주제도 논의되고 있으나, 일부에서는 논쟁이 일고 있다. 이러한 트렌드를 분석하여, AI 기술을 활용한 비즈니스 모델 개발과 경제 및 금융 관련 뉴스와 분석을 주시하는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-04-21T22:00:34.153Z",
+  "narrative": "클리앙 커뮤니티에서는 이란-이스라엘 휴전과 AI 기술 관련 뉴스가 많이 올라왔습니다. 이란-이스라엘 휴전 관련 뉴스는 큰 관심을 받고 있습니다. AI 기술은 많은 논의를 불러일으키고 있습니다. 경제 관련 뉴스도 많이 올라왔습니다. 클리앙 커뮤니티의 전반적인 분위기는 중립적입니다. 이란-이스라엘 휴전과 AI 기술 관련 뉴스는 계속적으로 모니터링하고 있습니다.",
+  "analyzed_at": "2026-04-21T23:30:34.077Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
