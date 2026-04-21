@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI와 기술",
-      "summary": "AI의 발전과 기술의 진보가 다양한 산업에 미치는 영향",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "방시혁",
+      "summary": "방시혁에 대한 다양한 의견과 논란",
+      "post_count": 3,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제와 정치",
-      "summary": "국내외 경제와 정치 상황에 대한 논의",
-      "post_count": 12,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "생활과 문화",
-      "summary": "일상 생활과 문화에 대한 이야기",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 의견",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "방시혁",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "방시혁에 대한 비판"
+    },
+    {
       "keyword": "AI",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "AI의 발전과 기술의 진보"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "국내외 경제 상황"
-    },
-    {
-      "keyword": "정치",
-      "count": 6,
-      "sentiment": "mixed",
-      "context": "국내외 정치 상황"
+      "keyword": "쿠팡",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "쿠팡의 성장"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
-    "negative": 12,
+    "negative": 10,
     "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI와 기술의 발전은 다양한 산업에 미치는 영향",
-      "action": "AI와 기술의 발전을 주시하고 이를 활용하는 방안을 모색",
+      "insight": "AI 기술의 발전",
+      "action": "투자 및 연구",
       "priority": "high"
     },
     {
-      "insight": "경제와 정치 상황은 계속해서 변동",
-      "action": "경제와 정치 상황을 주시하고 이를 대비하는 방안을 모색",
+      "insight": "쿠팡의 성장",
+      "action": "마케팅 및 협력",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI와 기술의 발전, 경제와 정치 상황, 생활과 문화에 대한 이야기 등으로 구성되어 있습니다. AI와 기술의 발전은 다양한 산업에 미치는 영향이 크며, 경제와 정치 상황은 계속해서 변동하고 있습니다. 이러한 트렌드를 주시하고 이를 활용하는 방안을 모색하는 것이 중요합니다. 또한, 생활과 문화에 대한 이야기는 일상 생활과 문화에 대한 이야기로 구성되어 있으며, 이러한 이야기는 사람들의 관심과 흥미를 끌어들이는 중요한 요소입니다.",
-  "analyzed_at": "2026-04-21T12:00:34.034Z",
+  "narrative": "최근의 트렌드에서는 AI 기술의 발전과 쿠팡의 성장이 주목을 받고 있습니다. 방시혁에 대한 비판도 존재하지만, 전체적으로 중립적인 분위기입니다. 기업들은 AI 기술의 발전과 쿠팡의 성장에 주목하여 투자 및 연구, 마케팅 및 협력을 통해 기회를 잡아야 합니다.",
+  "analyzed_at": "2026-04-21T13:30:33.677Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
