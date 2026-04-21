@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 주식",
-      "summary": "코스피가 6350선 돌파하고, 삼전 실적 발표가 임박했다. 주식 시장의 상황을 주목해야 한다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "방시혁 구속영장",
+      "summary": "방시혁 하이브 의장에 대한 구속영장 신청이 이루어졌습니다. 사기적 부정거래 혐의로 경찰이 구속영장을 청구했습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "AI 기술의 발전과 구글의 구독 요금제 및 AI Studio 연동 발표가 주목을 끌고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "일본 세대차이",
+      "summary": "일본에서 세대차이가 느껴진다는 글에 대한 반응입니다. 일본의 세대 간 차이를 느낄 수 있는 요소에 대한 논의가 이루어졌습니다.",
+      "post_count": 1,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련된 다양한 뉴스와 이슈가 논의되고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "2차전지 주",
+      "summary": "2차전지 주에 대한 관심이 증가하고 있습니다. 관련 주식에 대한 투자와 관련 뉴스에 대한 관심이 높아지고 있습니다.",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 구글의 구독 요금제 및 AI Studio 연동 발표"
-    },
-    {
-      "keyword": "주식",
+      "keyword": "방시혁",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "코스피가 6350선 돌파하고, 삼전 실적 발표가 임박했다."
+      "sentiment": "negative",
+      "context": "구속영장 신청과 관련된 뉴스"
     },
     {
-      "keyword": "삼성전자",
-      "count": 3,
+      "keyword": "2차전지",
+      "count": 2,
       "sentiment": "positive",
-      "context": "삼성전자의 새로운 제품 출시와 기술 발전"
+      "context": "관련 주식에 대한 투자와 관심"
+    },
+    {
+      "keyword": "일본",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "세대차이와 관련된 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 5,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 15,
+    "overall_mood": "중립적이고 정보적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "구속영장 신청과 관련된 뉴스에 대한 관심이 높아지고 있습니다.",
+      "action": "관련 뉴스와 정보에 대한 제공을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 상황을 주목해야 한다.",
-      "action": "주식 시장의 동향을 분석하고 투자 전략을 수립",
+      "insight": "2차전지 주에 대한 관심이 증가하고 있습니다.",
+      "action": "관련 주식과 산업에 대한 정보를 제공해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 경제 및 주식, 기술 및 AI, 정치 및 사회 관련된 주제가 주를 이루고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 주식 시장의 상황을 주목해야 한다. 또한, 정치와 사회 관련된 다양한 뉴스와 이슈가 논의되고 있다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 주식 시장의 동향을 분석하여 투자 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-04-21T01:00:34.647Z",
+  "narrative": "최근의 트렌드는 구속영장 신청과 관련된 뉴스, 2차전지 주, 일본 세대차이 등으로 나타나고 있습니다. 구속영장 신청과 관련된 뉴스에 대한 관심이 높아지고 있으며, 2차전지 주에 대한 관심도 증가하고 있습니다. 일본 세대차이와 관련된 글에 대한 반응도 나타나고 있습니다. 중립적이고 정보적인 분위기가 나타나고 있으며, 관련 뉴스와 정보에 대한 제공을 강화해야 합니다.",
+  "analyzed_at": "2026-04-21T02:30:34.160Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
