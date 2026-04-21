@@ -2,17 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시물이 많은 관심을 받고 있습니다. 특히 오픈AI의 챗GPT 이미지 2.0 공개와 관련된 게시물이 인기입니다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 게시물도 많은 관심을 받고 있습니다. 특히 달러와 원유값의 변동, 코스피의 최고치 등과 관련된 게시물이 인기입니다.",
+      "summary": "경제 및 금융 관련 뉴스와 분석이 활발하게 진행되고 있다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 주제가 논의되고 있으며, 일부에서는 논쟁이 일고 있다.",
+      "post_count": 12,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -20,35 +27,46 @@
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시물이 많은 관심을 받고 있습니다."
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련 게시물도 많은 관심을 받고 있습니다."
+      "context": "경제 및 금융 관련 뉴스와 분석"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "사회 및 정치 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기입니다."
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 관련 게시물이 많은 관심을 받고 있습니다.",
-      "action": "AI 기술 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 게시물도 많은 관심을 받고 있습니다.",
-      "action": "경제 및 금융 관련 정보를 제공하거나 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다.",
+      "insight": "경제 및 금융 관련 뉴스",
+      "action": "경제 및 금융 관련 뉴스와 분석을 주시",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 정치 관련 주제",
+      "action": "사회 및 정치 관련 주제를 주시",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시물이 많은 관심을 받고 있습니다. 특히 오픈AI의 챗GPT 이미지 2.0 공개와 관련된 게시물이 인기입니다. 또한 경제 및 금융 관련 게시물도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 AI 기술 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다. 또한 경제 및 금융 관련 정보를 제공하거나 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다. 이러한 마케팅 전략을 통해 기업의 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-04-21T20:30:34.528Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있으며, 경제 및 금융 관련 뉴스와 분석도 활발하게 진행되고 있다. 사회 및 정치 관련 주제도 논의되고 있으나, 일부에서는 논쟁이 일고 있다. 이러한 트렌드를 분석하여, AI 기술을 활용한 비즈니스 모델 개발과 경제 및 금융 관련 뉴스와 분석을 주시하는 것이 중요할 것으로 보인다.",
+  "analyzed_at": "2026-04-21T22:00:34.153Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
