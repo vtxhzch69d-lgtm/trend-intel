@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "윤석열 정부의 문화예술 정책에 대한 예술인 규탄 성명과 김건희 문자메시지 공개 등 정치 관련 게시물이 인기",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "경제 및 주식",
+      "summary": "코스피가 6350선 돌파하고, 삼전 실적 발표가 임박했다. 주식 시장의 상황을 주목해야 한다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 로봇 관련 게시물이 인기, 특히 Anthropic Labs의 Claude Design과 중국 휴머노이드 로봇 등",
-      "post_count": 8,
+      "topic": "기술 및 AI",
+      "summary": "AI 기술의 발전과 구글의 구독 요금제 및 AI Studio 연동 발표가 주목을 끌고 있다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자와 LG이노텍의 최신 기술 개발과 메타의 직원 감축 등 경제 관련 게시물이 인기",
-      "post_count": 6,
-      "sentiment": "neutral",
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련된 다양한 뉴스와 이슈가 논의되고 있다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 관련 기술 개발과 응용"
+      "context": "AI 기술의 발전과 구글의 구독 요금제 및 AI Studio 연동 발표"
     },
     {
-      "keyword": "윤석열",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "윤석열 정부의 문화예술 정책과 김건희 문자메시지 공개"
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "코스피가 6350선 돌파하고, 삼전 실적 발표가 임박했다."
     },
     {
       "keyword": "삼성전자",
-      "count": 6,
-      "sentiment": "neutral",
-      "context": "삼성전자의 최신 기술 개발과 사업 동향"
+      "count": 3,
+      "sentiment": "positive",
+      "context": "삼성전자의 새로운 제품 출시와 기술 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
+    "negative": 10,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 응용이 중요",
-      "action": "AI 관련 기술 개발에 투자",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "윤석열 정부의 문화예술 정책에 대한 예술인 규탄 성명이 정치적으로 중요",
-      "action": "정치적 상황을 주시",
-      "priority": "medium"
-    },
-    {
-      "insight": "삼성전자와 LG이노텍의 최신 기술 개발이 경제적으로 중요",
-      "action": "최신 기술 개발을 주시",
+      "insight": "주식 시장의 상황을 주목해야 한다.",
+      "action": "주식 시장의 동향을 분석하고 투자 전략을 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 인기 게시물은 정치, 기술, 경제 등 다양한 주제를 다루고 있습니다. 특히 AI와 로봇 관련 게시물이 인기이며, 윤석열 정부의 문화예술 정책에 대한 예술인 규탄 성명도 정치적으로 중요합니다. 또한 삼성전자와 LG이노텍의 최신 기술 개발이 경제적으로 중요하며, 이러한 기술 개발과 응용이 중요합니다. 따라서 AI 관련 기술 개발에 투자하고, 정치적 상황을 주시하며, 최신 기술 개발을 주시하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-20T23:00:34.313Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 경제 및 주식, 기술 및 AI, 정치 및 사회 관련된 주제가 주를 이루고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 주식 시장의 상황을 주목해야 한다. 또한, 정치와 사회 관련된 다양한 뉴스와 이슈가 논의되고 있다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 주식 시장의 동향을 분석하여 투자 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-04-21T01:00:34.647Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
