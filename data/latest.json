@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "테크 및 산업",
-      "summary": "최근 클리앙 커뮤니티에서 테크 및 산업 관련 주제가 인기입니다. 아이폰, 폴더블폰, 인공지능, 자율주행 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 20,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제도 인기입니다. 코스피, 주식, 경제 동향 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "경제 뉴스와 분석",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제도 논의되고 있습니다. 산업재해, 공소 취소, 미국 이스라엘 관계 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 5,
+      "topic": "사회",
+      "summary": "사회 문제와 논란",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "아이폰",
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "인공지능 기술"
+    },
+    {
+      "keyword": "쿠팡",
       "count": 5,
+      "sentiment": "negative",
+      "context": "쿠팡 로비 논란"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "아이폰 관련 뉴스 및 논의"
-    },
-    {
-      "keyword": "인공지능",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "인공지능 관련 기술 및 개발"
-    },
-    {
-      "keyword": "자율주행",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "자율주행 관련 기술 및 개발"
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 8,
-    "neutral": 20,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 및 산업 관련 주제가 인기입니다.",
-      "action": "관련 제품 및 서비스 개발",
+      "insight": "기술 트렌드에 대한 관심이 높아지고 있다",
+      "action": "최신 기술 뉴스와 트렌드를 제공하는 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제도 인기입니다.",
-      "action": "관련 정보 및 서비스 제공",
+      "insight": "경제 뉴스와 분석에 대한 수요가 있다",
+      "action": "경제 뉴스와 분석 콘텐츠 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 문제와 논란에 대한 관심이 낮아지고 있다",
+      "action": "사회 문제와 논란에 대한 콘텐츠 개발을 축소",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 테크 및 산업 관련 주제가 인기입니다. 아이폰, 폴더블폰, 인공지능, 자율주행 등 다양한 주제가 논의되고 있습니다. 또한 경제 및 금융 관련 주제도 인기입니다. 코스피, 주식, 경제 동향 등 다양한 주제가 논의되고 있습니다. 이러한 주제는 중립적 또는 긍정적인 감정으로 논의되고 있습니다. 따라서 관련 제품 및 서비스 개발, 관련 정보 및 서비스 제공 등이 필요합니다.",
-  "analyzed_at": "2026-04-21T17:30:34.742Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 기술과 경제에 대한 관심이 높아지고 있음을 알 수 있다. AI와 쿠팡 등 기술과 경제에 관련된 키워드가 많이 등장하고 있으며, 이러한 키워드에 대한 콘텐츠 개발이 필요하다. 또한, 사회 문제와 논란에 대한 관심이 낮아지고 있으므로 이러한 콘텐츠 개발을 축소하는 것이 좋을 것이다. 이러한 분석 결과를 바탕으로 콘텐츠 개발과 마케팅 전략을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-04-21T19:00:34.507Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
