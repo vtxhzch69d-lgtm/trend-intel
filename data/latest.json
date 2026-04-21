@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "방시혁 구속영장",
-      "summary": "방시혁 하이브 의장이 사기적 부정거래 혐의로 구속영장 신청",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "현대차 아이오닉3",
-      "summary": "현대차가 아이오닉3를 공개",
-      "post_count": 3,
-      "sentiment": "positive",
+      "topic": "정치 및 사회",
+      "summary": "최근 정치 및 사회 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 정부의 정책과 정치인에 대한 논평이 주를 이루고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "LG전자 뉴스",
-      "summary": "LG전자 관련 뉴스",
-      "post_count": 5,
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. AI, 로봇, 전기차 등이 주를 이루고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 산업",
+      "summary": "최근 경제 및 산업 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 기업의 성과와 산업 동향이 주를 이루고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "방시혁",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "하이브 의장 구속영장 신청"
-    },
-    {
-      "keyword": "현대차",
-      "count": 4,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "아이오닉3 공개"
+      "context": "최신 기술 및 과학 관련 주제"
     },
     {
-      "keyword": "LG전자",
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 및 사회 관련 주제"
+    },
+    {
+      "keyword": "전기차",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "관련 뉴스"
+      "sentiment": "positive",
+      "context": "기술 및 과학 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 25,
     "negative": 15,
-    "neutral": 25,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "방시혁 구속영장 신청",
-      "action": "하이브 주가에 대한 주의",
+      "insight": "최신 기술 및 과학 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "최신 기술 및 과학 관련 주제에 대한 콘텐츠를 생성하여 클리앙 커뮤니티와 소통할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "현대차 아이오닉3 공개",
-      "action": "전기차 시장 동향 분석",
+      "insight": "정치 및 사회 관련 주제가 클리언 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "정치 및 사회 관련 주제에 대한 콘텐츠를 생성하여 클리앙 커뮤니티와 소통할 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "LG전자 관련 뉴스",
-      "action": "전자 산업 동향 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 방시혁 구속영장 신청과 현대차 아이오닉3 공개 등이热한 주제로 논의되고 있습니다. 방시혁 구속영장 신청은 하이브 주가에 대한 주의가 필요할 것으로 보이며, 현대차 아이오닉3 공개는 전기차 시장 동향 분석이 필요할 것으로 보입니다. 또한 LG전자 관련 뉴스는 전자 산업 동향 분석이 필요할 것으로 보입니다. 전체적으로 중립적인 분위기이지만, 일부 주제에서는 부정적인 감정이 나타나고 있습니다.",
-  "analyzed_at": "2026-04-21T04:00:33.660Z",
+  "narrative": "클리앙 커뮤니티는 정치, 사회, 기술, 과학 등 다양한 주제를 논의하는 온라인 커뮤니티입니다. 최근에는 최신 기술 및 과학 관련 주제가 많이 논의되고 있습니다. 클리앙 커뮤니티의 이용자는 최신 기술 및 과학 관련 주제에 대해 매우 관심이 많으며, 이러한 주제에 대한 콘텐츠를 생성하여 클리앙 커뮤니티와 소통할 수 있습니다. 또한, 정치 및 사회 관련 주제에 대한 콘텐츠를 생성하여 클리앙 커뮤니티와 소통할 수 있습니다. 클리앙 커뮤니티의 이용자는 중립적인 성향을 보이고 있습니다. 따라서, 클리앙 커뮤니티와 소통하기 위해서는 중립적인 콘텐츠를 생성하는 것이 좋습니다.",
+  "analyzed_at": "2026-04-21T05:30:34.322Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
