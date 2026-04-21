@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 정부와 관련된 다양한 정치 뉴스와 논란",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "고유가 지원금과 관련된 뉴스 및 경제 동향",
+      "topic": "테슬라와 전기차",
+      "summary": "테슬라의 전기차 기술과 시장 동향",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 발전",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "국가 부채와 경제",
+      "summary": "국가 부채의 증가와 경제적 영향",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "이재명 정부와 관련된 논란"
-    },
-    {
-      "keyword": "고유가",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "고유가 지원금과 관련된 뉴스"
-    },
-    {
       "keyword": "AI",
-      "count": 5,
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 발전"
+      "context": "테슬라의 전기차 기술"
+    },
+    {
+      "keyword": "국가 부채",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "국가 부채의 증가"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "고유가 지원금과 관련된 뉴스에 대한 관심이 높아지고 있습니다.",
-      "action": "고유가 지원금과 관련된 뉴스에 대한 분석을 진행하세요.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 이를 활용할 수 있는 방안을 모색한다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 발전에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 뉴스와 발전에 대한 분석을 진행하세요.",
+      "insight": "테슬라의 전기차 기술은 시장의 트렌드를 주도할 수 있다.",
+      "action": "테슬라의 전기차 기술을 분석하고 이를 활용할 수 있는 방안을 모색한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "국가 부채의 증가는 경제에 부정적인 영향을 미칠 수 있다.",
+      "action": "국가 부채의 증가를 주시하고 이를 해결할 수 있는 방안을 모색한다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 정치와 경제 뉴스에 대한 관심이 높아지고 있습니다. 특히, 이재명 정부와 관련된 논란 및 고유가 지원금과 관련된 뉴스에 대한 관심이 높아지고 있습니다. 또한, 최신 기술 뉴스와 발전에 대한 관심도 높아지고 있습니다. 이러한 관심을 바탕으로, 마케터는 관련된 뉴스와 분석을 진행하여 고객에게 제공할 수 있습니다.",
-  "analyzed_at": "2026-04-21T08:30:34.150Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 테슬라의 전기차 기술이 주목을 끌고 있다. 그러나 국가 부채의 증가가 경제에 부정적인 영향을 미칠 수 있어 이를 해결할 수 있는 방안을 모색해야 한다. 또한, AI 기술의 발전과 테슬라의 전기차 기술을 활용할 수 있는 방안을 모색하여 산업의 발전에 기여할 수 있다. 이러한 트렌드와 인사이트를 분석하여 사업 전략을 수립하고 시장의 기회를 잡을 수 있다.",
+  "analyzed_at": "2026-04-21T10:30:34.034Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
