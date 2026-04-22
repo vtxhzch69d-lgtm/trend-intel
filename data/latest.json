@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "AI와 기술",
-      "summary": "AI의 발전과 기술의 진보가 다양한 산업에 미치는 영향",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용 사례가 다양한 분야에서 증가하고 있다. 특히, 클리앙 커뮤니티에서 AI 관련 주제가 많이 обсужд되고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제와 산업",
-      "summary": "한국의 경제와 산업 동향, 전기차와 우주 산업의 발전",
-      "post_count": 12,
-      "sentiment": "neutral",
+      "topic": "전기차와 자동차 산업",
+      "summary": "전기차의 보급과 자동차 산업의 변화가 주목받고 있다. 특히, 현대차와 기아의 전기차 관련 뉴스가 많이 언급되고 있다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회와 정치",
-      "summary": "한국 사회와 정치의 다양한 이슈, 노무현 대통령의 발언",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "topic": "국제 정치와 경제",
+      "summary": "국제 정치와 경제 관련 뉴스가 다양하게 обсужд되고 있다. 특히, 미국과 중국의 관계와 이란 전쟁의 영향이 주목받고 있다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,41 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI의 발전과 기술의 진보"
+      "context": "AI 기술의 발전과 적용 사례"
     },
     {
       "keyword": "전기차",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "전기차의 발전과 산업의 동향"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "전기차의 보급과 자동차 산업의 변화"
     },
     {
-      "keyword": "우주",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "우주 산업의 발전과 한국의 우주 로켓 발사"
+      "keyword": "국제 정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "국제 정치와 경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "한국의 기술과 산업의 발전이 긍정적으로 평가되고 있지만, 일부 사회와 정치적인 이슈에서는 부정적인 감정도 존재한다."
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI와 기술의 발전은 다양한 산업에 미치는 영향",
-      "action": "AI와 기술의 발전을 주시하고, 이를 활용하여 산업의 발전을 도모한다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능하다.",
+      "action": "AI 기술을 활용한 신제품 개발",
       "priority": "high"
     },
     {
-      "insight": "전기차와 우주 산업의 발전",
-      "action": "전기차와 우주 산업의 발전을 지원하고, 이를 통해 산업의 발전을 도모한다.",
+      "insight": "전기차의 보급은 자동차 산업의 변화를 가져올 수 있다.",
+      "action": "전기차 관련 사업 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "국제 정치와 경제의 변화는 기업의 전략에 영향을 줄 수 있다.",
+      "action": "국제 정치와 경제의 변화를 주시하고 전략을 조정",
+      "priority": "low"
     }
   ],
-  "narrative": "한국의 기술과 산업은 빠르게 발전하고 있으며, AI와 전기차, 우주 산업은 주요한 동향을 보이고 있다. 이러한 발전은 한국의 경제와 산업에 긍정적인 영향을 미치고 있지만, 일부 사회와 정치적인 이슈에서는 부정적인 감정도 존재한다. 따라서, 이러한 동향을 주시하고, 이를 활용하여 산업의 발전을 도모하는 것이 중요하다. 또한, 전기차와 우주 산업의 발전을 지원하고, 이를 통해 산업의 발전을 도모하는 것도 필요하다.",
-  "analyzed_at": "2026-04-22T14:00:34.982Z",
+  "narrative": "현재 클리앙 커뮤니티에서 주목받는 주제는 AI 기술, 전기차와 자동차 산업, 국제 정치와 경제 등이다. AI 기술의 발전은 다양한 산업에 적용 가능하며, 전기차의 보급은 자동차 산업의 변화를 가져올 수 있다. 국제 정치와 경제의 변화는 기업의 전략에 영향을 줄 수 있으므로, 이러한 변화를 주시하고 전략을 조정하는 것이 중요하다. 또한, AI 기술을 활용한 신제품 개발과 전기차 관련 사업 개발은 기업의 성장과 발전에 기여할 수 있다.",
+  "analyzed_at": "2026-04-22T15:30:34.740Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
