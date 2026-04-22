@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 ứng dụng",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다. 다양한 산업에서 AI를 활용하여 효율성을 높이고 새로운 비즈니스 모델을 개발하고 있다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "전기차와 전력자산",
-      "summary": "전기차의 증가와 전력자산으로의 전환",
-      "post_count": 5,
+      "summary": "전기차의 보급과 전력자산으로의 전환에 대한 관심이 높아지고 있다. 전기차의 수요 증가와 전력자산의 잠재적 수익성에 대한 기대가 높다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "국제 관계와 정치",
-      "summary": "국제 관계와 정치적 이슈",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "국제 정치와 경제",
+      "summary": "국제 정치와 경제에 대한 관심이 높아지고 있다. 글로벌 경제의 불안정성과 국제 관계의 복잡성에 대한 우려가 높다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 30,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 ứng dụng"
     },
     {
       "keyword": "전기차",
-      "count": 5,
+      "count": 15,
       "sentiment": "positive",
-      "context": "전기차의 증가"
+      "context": "전기차의 보급과 전력자산으로의 전환"
     },
     {
-      "keyword": "국제 관계",
+      "keyword": "국제 정치",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "국제 관계와 정치적 이슈"
+      "sentiment": "negative",
+      "context": "국제 정치와 경제에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "긍정적"
+    "positive": 40,
+    "negative": 25,
+    "neutral": 35,
+    "overall_mood": "적절한 관심과 우려"
   },
   "business_insights": [
     {
       "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "action": "AI 기술을 활용하여 비즈니스 모델을 개발",
       "priority": "high"
     },
     {
-      "insight": "전기차의 증가",
-      "action": "전기차 관련 비즈니스 모델 개발",
+      "insight": "전기차의 보급",
+      "action": "전기차의 수요 증가와 전력자산의 잠재적 수익성에 대한 기대",
       "priority": "medium"
     },
     {
-      "insight": "국제 관계의 복잡성",
-      "action": "국제 관계를 고려한 비즈니스 전략 개발",
+      "insight": "국제 정치와 경제의 복잡성",
+      "action": "국제 관계의 복잡성에 대한 우려",
       "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 전기차의 증가가 주요한 트렌드임을 알 수 있습니다. 또한, 국제 관계와 정치적 이슈도 중요한 트렌드임을 알 수 있습니다. 이러한 트렌드를 고려하여 비즈니스 모델을 개발하고, 국제 관계를 고려한 전략을 개발하는 것이 중요합니다. 또한, AI 기술의 발전을 활용하여 비즈니스 모델을 개발하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-22T17:00:33.871Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 전기차의 보급, 국제 정치와 경제의 복잡성에 대한 관심이 높아지고 있다. 이러한 트렌드에 대한 적절한 이해와 대응은 비즈니스 모델의 개발과 수익성의 향상을 위해 중요하다. 또한, 국제 관계의 복잡성에 대한 우려는 글로벌 경제의 불안정성에 대한 기대와 함께 한다. 따라서, 이러한 트렌드에 대한 지속적인 모니터링과 분석은 비즈니스와 경제의 발전에 중요한 역할을 한다.",
+  "analyzed_at": "2026-04-22T18:30:35.711Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
