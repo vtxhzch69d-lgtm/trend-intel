@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다. 다양한 산업에서 AI를 활용하여 효율성을 높이고 새로운 비즈니스 모델을 개발하고 있다.",
-      "post_count": 20,
+      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있습니다. 클리앙 커뮤니티에서는 AI 관련 게시글이 많이 올라오고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "전기차와 전력자산",
-      "summary": "전기차의 보급과 전력자산으로의 전환에 대한 관심이 높아지고 있다. 전기차의 수요 증가와 전력자산의 잠재적 수익성에 대한 기대가 높다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "국내 정치",
+      "summary": "국내 정치 관련 뉴스와 논평이 많아지고 있습니다. 특히 대장동 개발과 관련된 게시글이 많이 올라오고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "국제 정치와 경제",
-      "summary": "국제 정치와 경제에 대한 관심이 높아지고 있다. 글로벌 경제의 불안정성과 국제 관계의 복잡성에 대한 우려가 높다.",
-      "post_count": 15,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 분석이 많아지고 있습니다. 특히 전기차와 관련된 게시글이 많이 올라오고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 30,
+      "count": 20,
       "sentiment": "positive",
       "context": "AI 기술의 발전과 ứng dụng"
     },
     {
       "keyword": "전기차",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "전기차의 보급과 전력자산으로의 전환"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "전기차와 관련된 뉴스와 분석"
     },
     {
-      "keyword": "국제 정치",
-      "count": 10,
+      "keyword": "대장동",
+      "count": 5,
       "sentiment": "negative",
-      "context": "국제 정치와 경제에 대한 관심"
+      "context": "대장동 개발과 관련된 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 25,
-    "neutral": 35,
-    "overall_mood": "적절한 관심과 우려"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
       "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용하여 비즈니스 모델을 개발",
+      "action": "AI 기술을 활용한 신제품 개발",
       "priority": "high"
     },
     {
-      "insight": "전기차의 보급",
-      "action": "전기차의 수요 증가와 전력자산의 잠재적 수익성에 대한 기대",
+      "insight": "전기차의 성장",
+      "action": "전기차와 관련된 투자",
       "priority": "medium"
     },
     {
-      "insight": "국제 정치와 경제의 복잡성",
-      "action": "국제 관계의 복잡성에 대한 우려",
-      "priority": "high"
+      "insight": "대장동 개발의 논란",
+      "action": "대장동 개발과 관련된 뉴스와 논평을 주의 깊게 모니터링",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 전기차의 보급, 국제 정치와 경제의 복잡성에 대한 관심이 높아지고 있다. 이러한 트렌드에 대한 적절한 이해와 대응은 비즈니스 모델의 개발과 수익성의 향상을 위해 중요하다. 또한, 국제 관계의 복잡성에 대한 우려는 글로벌 경제의 불안정성에 대한 기대와 함께 한다. 따라서, 이러한 트렌드에 대한 지속적인 모니터링과 분석은 비즈니스와 경제의 발전에 중요한 역할을 한다.",
-  "analyzed_at": "2026-04-22T18:30:35.711Z",
+  "narrative": "클리앙 커뮤니티에서는 AI 기술과 관련된 게시글이 많이 올라오고 있습니다. AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있으며, 이는 신제품 개발과 투자에 대한 기회를 제공할 수 있습니다. 또한 전기차와 관련된 뉴스와 분석이 많아지고 있으며, 이는 전기차와 관련된 투자에 대한 기회를 제공할 수 있습니다. 그러나 대장동 개발과 관련된 논평이 많아지고 있으며, 이는 정치적 논란을 일으킬 수 있습니다. 따라서 대장동 개발과 관련된 뉴스와 논평을 주의 깊게 모니터링해야 합니다.",
+  "analyzed_at": "2026-04-22T20:00:34.746Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
