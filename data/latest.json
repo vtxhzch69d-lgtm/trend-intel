@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "topic": "전기차와 자동차 산업",
+      "summary": "전기차의 인기와 자동차 산업의 변화를 다룬 게시글이 많습니다. 전기차의 연간 신규등록이 10만대에 달하고, 정부의 적극적인 지원이 예상됩니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 관련된 기술의 발전과 적용이 다루어지는 게시글이 많습니다. AI의 활용이 다양한 산업에서 증가하고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "전기차",
-      "summary": "전기차의 보급과 관련된 뉴스 및 의견이 많다.",
+      "topic": "정치와 사회",
+      "summary": "정치와 사회 관련된 게시글이 많습니다. 정치인의 발언과 행동, 사회적인 문제들이 다루어지고 있습니다.",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "국내 정치",
-      "summary": "국내 정치 관련 뉴스 및 의견이 많다.",
-      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
       "keyword": "전기차",
-      "count": 10,
+      "count": 12,
       "sentiment": "positive",
-      "context": "전기차의 보급"
+      "context": "전기차의 인기와 자동차 산업의 변화를 다룬 게시글"
     },
     {
-      "keyword": "국내 정치",
-      "count": 15,
+      "keyword": "AI",
+      "count": 18,
+      "sentiment": "positive",
+      "context": "AI와 관련된 기술의 발전과 적용"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "mixed",
-      "context": "국내 정치 관련 뉴스 및 의견"
+      "context": "정치와 사회 관련된 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
+    "negative": 15,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재한다."
+    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부에서는 부정적인 의견도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용한 비즈니스 기회를 찾는다.",
+      "insight": "전기차와 자동차 산업의 변화를 주시하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
+      "action": "전기차와 자동차 산업의 동향을 분석하고, 새로운 비즈니스 기회를 찾습니다.",
       "priority": "high"
     },
     {
-      "insight": "전기차의 보급은 환경과 에너지 산업에 영향을 미칠 수 있다.",
-      "action": "전기차의 보급을 주시하고, 이를 활용한 비즈니스 기회를 찾는다.",
-      "priority": "medium"
+      "insight": "AI와 관련된 기술의 발전을 주시하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
+      "action": "AI와 관련된 기술의 동향을 분석하고, 새로운 비즈니스 기회를 찾습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 전기차의 보급이 주요 주제로 나타났다. 또한, 국내 정치 관련 뉴스 및 의견도 많다. 이러한 트렌드는 다양한 산업과 비즈니스에 영향을 미칠 수 있으므로, 이를 주시하고, 이를 활용한 비즈니스 기회를 찾는 것이 중요하다. 또한, 일부 부정적인 의견도 존재하므로, 이를 고려하여 비즈니스 전략을 수립하는 것이 필요하다.",
-  "analyzed_at": "2026-04-22T10:30:34.190Z",
+  "narrative": "최근의 트렌드 분석 결과, 전기차와 자동차 산업, AI와 기술, 정치와 사회가 주요 주제로 등장했습니다. 전기차의 인기와 자동차 산업의 변화를 다룬 게시글이 많았으며, AI와 관련된 기술의 발전과 적용이 다루어지는 게시글도 많았습니다. 정치와 사회 관련된 게시글도 많았으며, 정치인의 발언과 행동, 사회적인 문제들이 다루어지고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 새로운 비즈니스 기회를 찾고, 시장의 동향을 주시하여 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-04-22T12:00:34.975Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
