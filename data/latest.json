@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. OpenAI Image 2.0의 공개와 AI 코딩 업체의 인수 등이 언급되었습니다.",
-      "post_count": 10,
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "한국의 경제와 정치 상황이 चर्च되고 있습니다. 코스피 6400과 국정조사 등이 언급되었습니다.",
+      "topic": "경제 및 금융",
+      "summary": "코스피의 상승과 전기차의 성장",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술과 산업 동향이 소개되고 있습니다. 전기차 연간 신규등록 10만대 조기달성과 KF-21 항공엔진 장착 등이 언급되었습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스와 논란",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "한국의 경제 상황과 정치적 영향"
+      "keyword": "코스피",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "코스피의 상승"
     },
     {
-      "keyword": "기술",
-      "count": 12,
+      "keyword": "전기차",
+      "count": 4,
       "sentiment": "positive",
-      "context": "최신 기술과 산업 동향"
+      "context": "전기차의 성장"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "기대와 관심이 높은 분위기"
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 것",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 사업 개발",
       "priority": "high"
     },
     {
-      "insight": "한국의 경제와 정치 상황이 불안정할 수 있음",
-      "action": "경제와 정치 상황을 주시하고 대응 전략 수립",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 기술과 산업 동향을 주시해야 함",
-      "action": "최신 기술과 산업 동향을 연구하고 적용",
+      "insight": "전기차의 성장",
+      "action": "전기차 관련 사업 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 다양한 산업에서의 적용, 경제 및 정치 상황, 최신 기술과 산업 동향을 중심으로 형성되고 있습니다. 이러한 트렌드는 비즈니스와 산업에 영향을 미칠 수 있으므로 주시하고 대응해야 합니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으므로 새로운 비즈니스 모델 개발을 고려해야 합니다. 또한, 한국의 경제와 정치 상황이 불안정할 수 있으므로 주시하고 대응 전략을 수립해야 합니다. 마지막으로, 최신 기술과 산업 동향을 주시하고 적용하여 경쟁력을 높여야 합니다.",
-  "analyzed_at": "2026-04-22T05:30:34.457Z",
+  "narrative": "최근의 트렌드에 따르면, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 또한, 코스피의 상승과 전기차의 성장도 주목할 만한 트렌드입니다. 이러한 트렌드에 따라, AI 기술을 활용한 사업 개발과 전기차 관련 사업 개발이 중요한 비즈니스 인사이트로 나타납니다. 또한, 사회 및 정치 관련 뉴스와 논란도 주목할 만한 트렌드입니다. 이러한 트렌드에 대한 분석과 이해를 통해, 마케터는 효과적인 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-22T07:30:34.203Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
