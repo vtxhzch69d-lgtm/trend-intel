@@ -2,67 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "트럼프와 이란의 관계, 한국 정치 상황 등 정치 관련 주제가热议",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "안민석 경기도교육감 진보 단일 후보로, 이재명과 조국에 대한 언론과 국짐의 공격",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI, 폴더블 아이폰, 스페이스X 등 기술 관련 주제가 인기",
-      "post_count": 20,
+      "summary": "GPT IMAGES 2.0, 오픈AI 이미지 생성 모델, 삼성전자 인피니트 라인 후드 일체형 인덕션 출시",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "코스피, 자발적 시정조치, 삼성전자 등 경제 관련 주제가 관심",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "summary": "한화오션, 美 최고 '함정 설계 명가'와 맞손, 스페이스X, AI 코딩 업체 인수",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 5,
+      "keyword": "안민석",
+      "count": 2,
       "sentiment": "negative",
-      "context": "트럼프의 성경구절 암송과 정치적 암시"
+      "context": "경기도교육감 진보 단일 후보"
     },
     {
-      "keyword": "AI",
-      "count": 8,
+      "keyword": "GPT IMAGES 2.0",
+      "count": 3,
       "sentiment": "positive",
-      "context": "AI의 발전과 다양한 응용"
+      "context": "오픈AI 이미지 생성 모델"
     },
     {
       "keyword": "삼성전자",
       "count": 4,
-      "sentiment": "neutral",
-      "context": "삼성전자의 다양한 뉴스와 제품"
+      "sentiment": "positive",
+      "context": "인피니트 라인 후드 일체형 인덕션 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 20,
     "negative": 15,
-    "neutral": 30,
+    "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 발전이 경제와 정치에 미치는 영향",
-      "action": "기술 트렌드에 주목하고 이를 경제와 정치에 연결지어 분석",
+      "insight": "정치와 기술이 온라인 커뮤니티에서 주목받고 있다",
+      "action": "정치와 기술 관련 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킨다",
       "priority": "high"
     },
     {
-      "insight": "소비자들의 관심이 경제와 정치에 미치는 영향",
-      "action": "소비자들의 관심을 분석하고 이를 경제와 정치에 반영",
+      "insight": "경제와 산업 관련 뉴스가 증가하고 있다",
+      "action": "경제와 산업 관련 뉴스를 제공하여 사용자의 관심을 끌어낸다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 주제가 혼재되어 나타나고 있습니다. 트럼프와 이란의 관계, 한국 정치 상황 등 정치 관련 주제가熱議되고 있으며, AI, 폴더블 아이폰, 스페이스X 등 기술 관련 주제가 인기입니다. 또한, 코스피, 자발적 시정조치, 삼성전자 등 경제 관련 주제가 관심을 끌고 있습니다. 이러한 트렌드를 분석하여 경제와 정치에 미치는 영향을 이해하고, 소비자들의 관심을 분석하여 이를 반영하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-22T01:00:33.920Z",
-  "post_count": 61,
+  "narrative": "온라인 커뮤니티에서 정치와 기술이 주목받고 있으며, 경제와 산업 관련 뉴스가 증가하고 있다. 사용자는 정치와 기술 관련 콘텐츠에 관심을 보이고 있으며, 경제와 산업 관련 뉴스를 통해 최신 정보를 얻고 있다. 따라서 정치와 기술 관련 콘텐츠를 생성하여 사용자와의 상호작용을 증가시키고, 경제와 산업 관련 뉴스를 제공하여 사용자의 관심을 끌어내는 것이 중요하다.",
+  "analyzed_at": "2026-04-22T02:30:33.780Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
