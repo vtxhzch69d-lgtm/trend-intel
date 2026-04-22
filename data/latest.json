@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "전기차와 자동차 산업",
-      "summary": "전기차의 인기와 자동차 산업의 변화를 다룬 게시글이 많습니다. 전기차의 연간 신규등록이 10만대에 달하고, 정부의 적극적인 지원이 예상됩니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
       "topic": "AI와 기술",
-      "summary": "AI와 관련된 기술의 발전과 적용이 다루어지는 게시글이 많습니다. AI의 활용이 다양한 산업에서 증가하고 있습니다.",
+      "summary": "AI의 발전과 기술의 진보가 다양한 산업에 미치는 영향",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치와 사회",
-      "summary": "정치와 사회 관련된 게시글이 많습니다. 정치인의 발언과 행동, 사회적인 문제들이 다루어지고 있습니다.",
+      "topic": "경제와 산업",
+      "summary": "한국의 경제와 산업 동향, 전기차와 우주 산업의 발전",
+      "post_count": 12,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "사회와 정치",
+      "summary": "한국 사회와 정치의 다양한 이슈, 노무현 대통령의 발언",
       "post_count": 8,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "전기차",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "전기차의 인기와 자동차 산업의 변화를 다룬 게시글"
-    },
-    {
       "keyword": "AI",
-      "count": 18,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI와 관련된 기술의 발전과 적용"
+      "context": "AI의 발전과 기술의 진보"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치와 사회 관련된 게시글"
+      "keyword": "전기차",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "전기차의 발전과 산업의 동향"
+    },
+    {
+      "keyword": "우주",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "우주 산업의 발전과 한국의 우주 로켓 발사"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
+    "positive": 25,
+    "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부에서는 부정적인 의견도 존재합니다."
+    "overall_mood": "한국의 기술과 산업의 발전이 긍정적으로 평가되고 있지만, 일부 사회와 정치적인 이슈에서는 부정적인 감정도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "전기차와 자동차 산업의 변화를 주시하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
-      "action": "전기차와 자동차 산업의 동향을 분석하고, 새로운 비즈니스 기회를 찾습니다.",
+      "insight": "AI와 기술의 발전은 다양한 산업에 미치는 영향",
+      "action": "AI와 기술의 발전을 주시하고, 이를 활용하여 산업의 발전을 도모한다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술의 발전을 주시하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
-      "action": "AI와 관련된 기술의 동향을 분석하고, 새로운 비즈니스 기회를 찾습니다.",
-      "priority": "high"
+      "insight": "전기차와 우주 산업의 발전",
+      "action": "전기차와 우주 산업의 발전을 지원하고, 이를 통해 산업의 발전을 도모한다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 전기차와 자동차 산업, AI와 기술, 정치와 사회가 주요 주제로 등장했습니다. 전기차의 인기와 자동차 산업의 변화를 다룬 게시글이 많았으며, AI와 관련된 기술의 발전과 적용이 다루어지는 게시글도 많았습니다. 정치와 사회 관련된 게시글도 많았으며, 정치인의 발언과 행동, 사회적인 문제들이 다루어지고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 새로운 비즈니스 기회를 찾고, 시장의 동향을 주시하여 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-04-22T12:00:34.975Z",
+  "narrative": "한국의 기술과 산업은 빠르게 발전하고 있으며, AI와 전기차, 우주 산업은 주요한 동향을 보이고 있다. 이러한 발전은 한국의 경제와 산업에 긍정적인 영향을 미치고 있지만, 일부 사회와 정치적인 이슈에서는 부정적인 감정도 존재한다. 따라서, 이러한 동향을 주시하고, 이를 활용하여 산업의 발전을 도모하는 것이 중요하다. 또한, 전기차와 우주 산업의 발전을 지원하고, 이를 통해 산업의 발전을 도모하는 것도 필요하다.",
+  "analyzed_at": "2026-04-22T14:00:34.982Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
