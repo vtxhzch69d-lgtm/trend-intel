@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용 분야에 대한 관심이 높아지고 있다. OpenAI 모델 릴리즈 이력과 내부 비공개 모델 노출에 대한 논의가 활발하다.",
-      "post_count": 10,
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 이슈에 대한 관심이 높아지고 있다. 한동훈, 신동욱 폭로와 주호영 ‘컷오프 효력중지 가처분’ 항고심도 기각 등 다양한 뉴스가 논의되고 있다.",
+      "topic": "전기차",
+      "summary": "전기차의 보급과 관련된 뉴스 및 의견이 많다.",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "기술 및 산업 관련 뉴스와 이슈에 대한 관심이 높아지고 있다. 전기차, 차량 넘어 '전력자산'으로의 전환과 BMW 그룹의 AI로 배터리 생산 혁신 등 다양한 뉴스가 논의되고 있다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "국내 정치",
+      "summary": "국내 정치 관련 뉴스 및 의견이 많다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 응용 분야"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "전기차",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "전기차의 발전과 그 시장 동향"
+      "context": "전기차의 보급"
     },
     {
-      "keyword": "정치",
-      "count": 8,
+      "keyword": "국내 정치",
+      "count": 15,
       "sentiment": "mixed",
-      "context": "정치 및 사회 관련 뉴스와 이슈"
+      "context": "국내 정치 관련 뉴스 및 의견"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "기대와 관심이 높아지는 분위기"
+    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업 분야에 큰 영향을 미칠 것이다.",
-      "action": "AI 기술의 발전을 주시하고, 그 응용 분야를 적극적으로 탐색할 필요가 있다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용한 비즈니스 기회를 찾는다.",
       "priority": "high"
     },
     {
-      "insight": "전기차 시장은 빠르게 성장하고 있다.",
-      "action": "전기차 시장의 동향을 주시하고, 그에 따른 비즈니스 기회를 찾아야 한다.",
+      "insight": "전기차의 보급은 환경과 에너지 산업에 영향을 미칠 수 있다.",
+      "action": "전기차의 보급을 주시하고, 이를 활용한 비즈니스 기회를 찾는다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 그 응용 분야에 대한 관심이 높아지고 있다. 또한, 정치 및 사회 관련 뉴스와 이슈에 대한 관심도 높아지고 있다. 기술 및 산업 관련 뉴스와 이슈도 다양한 분야에서 논의되고 있다. 이러한 트렌드를 주시하고, 그에 따른 비즈니스 기회를 찾아야 한다. 특히, AI 기술의 발전은 다양한 산업 분야에 큰 영향을 미칠 것이므로, 그에 대한 준비와 대응이 필요하다.",
-  "analyzed_at": "2026-04-22T09:00:34.619Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 전기차의 보급이 주요 주제로 나타났다. 또한, 국내 정치 관련 뉴스 및 의견도 많다. 이러한 트렌드는 다양한 산업과 비즈니스에 영향을 미칠 수 있으므로, 이를 주시하고, 이를 활용한 비즈니스 기회를 찾는 것이 중요하다. 또한, 일부 부정적인 의견도 존재하므로, 이를 고려하여 비즈니스 전략을 수립하는 것이 필요하다.",
+  "analyzed_at": "2026-04-22T10:30:34.190Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
