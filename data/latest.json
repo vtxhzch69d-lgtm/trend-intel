@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용 사례가 다양한 분야에서 증가하고 있다. 특히, 클리앙 커뮤니티에서 AI 관련 주제가 많이 обсужд되고 있다.",
+      "summary": "AI 기술의 발전과 ứng dụng",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "전기차와 자동차 산업",
-      "summary": "전기차의 보급과 자동차 산업의 변화가 주목받고 있다. 특히, 현대차와 기아의 전기차 관련 뉴스가 많이 언급되고 있다.",
-      "post_count": 8,
+      "topic": "전기차와 전력자산",
+      "summary": "전기차의 증가와 전력자산으로의 전환",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "국제 정치와 경제",
-      "summary": "국제 정치와 경제 관련 뉴스가 다양하게 обсужд되고 있다. 특히, 미국과 중국의 관계와 이란 전쟁의 영향이 주목받고 있다.",
+      "topic": "국제 관계와 정치",
+      "summary": "국제 관계와 정치적 이슈",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용 사례"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "전기차",
-      "count": 10,
+      "count": 5,
       "sentiment": "positive",
-      "context": "전기차의 보급과 자동차 산업의 변화"
+      "context": "전기차의 증가"
     },
     {
-      "keyword": "국제 정치",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "국제 정치와 경제 관련 뉴스"
+      "keyword": "국제 관계",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "국제 관계와 정치적 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능하다.",
-      "action": "AI 기술을 활용한 신제품 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "전기차의 보급은 자동차 산업의 변화를 가져올 수 있다.",
-      "action": "전기차 관련 사업 개발",
+      "insight": "전기차의 증가",
+      "action": "전기차 관련 비즈니스 모델 개발",
       "priority": "medium"
     },
     {
-      "insight": "국제 정치와 경제의 변화는 기업의 전략에 영향을 줄 수 있다.",
-      "action": "국제 정치와 경제의 변화를 주시하고 전략을 조정",
-      "priority": "low"
+      "insight": "국제 관계의 복잡성",
+      "action": "국제 관계를 고려한 비즈니스 전략 개발",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 클리앙 커뮤니티에서 주목받는 주제는 AI 기술, 전기차와 자동차 산업, 국제 정치와 경제 등이다. AI 기술의 발전은 다양한 산업에 적용 가능하며, 전기차의 보급은 자동차 산업의 변화를 가져올 수 있다. 국제 정치와 경제의 변화는 기업의 전략에 영향을 줄 수 있으므로, 이러한 변화를 주시하고 전략을 조정하는 것이 중요하다. 또한, AI 기술을 활용한 신제품 개발과 전기차 관련 사업 개발은 기업의 성장과 발전에 기여할 수 있다.",
-  "analyzed_at": "2026-04-22T15:30:34.740Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 전기차의 증가가 주요한 트렌드임을 알 수 있습니다. 또한, 국제 관계와 정치적 이슈도 중요한 트렌드임을 알 수 있습니다. 이러한 트렌드를 고려하여 비즈니스 모델을 개발하고, 국제 관계를 고려한 전략을 개발하는 것이 중요합니다. 또한, AI 기술의 발전을 활용하여 비즈니스 모델을 개발하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-22T17:00:33.871Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
