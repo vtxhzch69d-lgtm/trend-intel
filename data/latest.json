@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "이란-이스라엘 휴전",
-      "summary": "이란과 이스라엘의 휴전 관련 뉴스가 클리앙 커뮤니티에서 큰 관심을 받고 있습니다. 트럼프의 휴전 연장 발표와 관련된 글들이 많이 올라왔습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "트럼프와 이란의 관계, 한국 정치 상황 등 정치 관련 주제가热议",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스가 클리앙 커뮤니티에서 많이 올라왔습니다. 챗GPT 이미지 2.0의 출시와 관련된 글들이 많이 올라왔습니다.",
-      "post_count": 4,
+      "topic": "기술",
+      "summary": "AI, 폴더블 아이폰, 스페이스X 등 기술 관련 주제가 인기",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 뉴스가 클리앙 커뮤니티에서 많이 올라왔습니다. 달러와 원유값의 변동과 관련된 글들이 많이 올라왔습니다.",
-      "post_count": 3,
+      "summary": "코스피, 자발적 시정조치, 삼성전자 등 경제 관련 주제가 관심",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
+      "keyword": "트럼프",
       "count": 5,
       "sentiment": "negative",
-      "context": "이란과 이스라엘의 휴전 관련 뉴스"
+      "context": "트럼프의 성경구절 암송과 정치적 암시"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 8,
       "sentiment": "positive",
-      "context": "챗GPT 이미지 2.0의 출시"
+      "context": "AI의 발전과 다양한 응용"
     },
     {
-      "keyword": "달러",
-      "count": 2,
+      "keyword": "삼성전자",
+      "count": 4,
       "sentiment": "neutral",
-      "context": "달러와 원유값의 변동"
+      "context": "삼성전자의 다양한 뉴스와 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 25,
     "negative": 15,
-    "neutral": 20,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이란-이스라엘 휴전 관련 뉴스는 클리앙 커뮤니티에서 큰 관심을 받고 있습니다.",
-      "action": "관련 뉴스를 계속적으로 모니터링하고 있습니다.",
+      "insight": "기술 발전이 경제와 정치에 미치는 영향",
+      "action": "기술 트렌드에 주목하고 이를 경제와 정치에 연결지어 분석",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
-      "action": "AI 기술 관련 뉴스를 계속적으로 모니터링하고 있습니다.",
+      "insight": "소비자들의 관심이 경제와 정치에 미치는 영향",
+      "action": "소비자들의 관심을 분석하고 이를 경제와 정치에 반영",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 이란-이스라엘 휴전과 AI 기술 관련 뉴스가 많이 올라왔습니다. 이란-이스라엘 휴전 관련 뉴스는 큰 관심을 받고 있습니다. AI 기술은 많은 논의를 불러일으키고 있습니다. 경제 관련 뉴스도 많이 올라왔습니다. 클리앙 커뮤니티의 전반적인 분위기는 중립적입니다. 이란-이스라엘 휴전과 AI 기술 관련 뉴스는 계속적으로 모니터링하고 있습니다.",
-  "analyzed_at": "2026-04-21T23:30:34.077Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 주제가 혼재되어 나타나고 있습니다. 트럼프와 이란의 관계, 한국 정치 상황 등 정치 관련 주제가熱議되고 있으며, AI, 폴더블 아이폰, 스페이스X 등 기술 관련 주제가 인기입니다. 또한, 코스피, 자발적 시정조치, 삼성전자 등 경제 관련 주제가 관심을 끌고 있습니다. 이러한 트렌드를 분석하여 경제와 정치에 미치는 영향을 이해하고, 소비자들의 관심을 분석하여 이를 반영하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-22T01:00:33.920Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
