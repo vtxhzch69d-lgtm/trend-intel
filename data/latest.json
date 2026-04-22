@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "안민석 경기도교육감 진보 단일 후보로, 이재명과 조국에 대한 언론과 국짐의 공격",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI 기술을 활용하여 새로운 서비스와 제품을 개발하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "GPT IMAGES 2.0, 오픈AI 이미지 생성 모델, 삼성전자 인피니트 라인 후드 일체형 인덕션 출시",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 의견이 많은 관심을 받고 있다. 특히, 국내외 경제 동향과 정치 현안에 대한 분석과 토론이 활발하다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "한화오션, 美 최고 '함정 설계 명가'와 맞손, 스페이스X, AI 코딩 업체 인수",
-      "post_count": 6,
+      "topic": "기술 및 과학",
+      "summary": "신기술과 과학 관련 뉴스와 의견이 많은 관심을 받고 있다. 특히, 반도체, 인공지능, 그리고 우주 개발에 대한 논의가 활발하다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "안민석",
-      "count": 2,
+      "keyword": "AI",
+      "count": 25,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 그 응용"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "국내외 경제 동향"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "negative",
-      "context": "경기도교육감 진보 단일 후보"
-    },
-    {
-      "keyword": "GPT IMAGES 2.0",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "오픈AI 이미지 생성 모델"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "인피니트 라인 후드 일체형 인덕션 출시"
+      "context": "정치 현안에 대한 분석과 토론"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "neutral": 40,
+    "overall_mood": "중립적이며 정보를 탐구하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치와 기술이 온라인 커뮤니티에서 주목받고 있다",
-      "action": "정치와 기술 관련 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킨다",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
+      "action": "AI 기술을 활용하여 새로운 서비스와 제품을 개발하는 것을 고려해 보아야 한다.",
       "priority": "high"
     },
     {
-      "insight": "경제와 산업 관련 뉴스가 증가하고 있다",
-      "action": "경제와 산업 관련 뉴스를 제공하여 사용자의 관심을 끌어낸다",
+      "insight": "경제 및 정치 관련 뉴스와 의견은 많은 관심을 받고 있다.",
+      "action": "경제 및 정치 관련 뉴스와 의견을 모니터링하여 최신 동향을 파악해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "온라인 커뮤니티에서 정치와 기술이 주목받고 있으며, 경제와 산업 관련 뉴스가 증가하고 있다. 사용자는 정치와 기술 관련 콘텐츠에 관심을 보이고 있으며, 경제와 산업 관련 뉴스를 통해 최신 정보를 얻고 있다. 따라서 정치와 기술 관련 콘텐츠를 생성하여 사용자와의 상호작용을 증가시키고, 경제와 산업 관련 뉴스를 제공하여 사용자의 관심을 끌어내는 것이 중요하다.",
-  "analyzed_at": "2026-04-22T02:30:33.780Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 또한, 경제 및 정치 관련 뉴스와 의견이 많은 관심을 받고 있다. 이러한 트렌드는 다양한 산업에서 새로운 기회를 창출할 수 있으며, 최신 동향을 파악하는 것이 중요하다. 따라서, AI 기술을 활용하여 새로운 서비스와 제품을 개발하는 것을 고려해 보아야 하며, 경제 및 정치 관련 뉴스와 의견을 모니터링하여 최신 동향을 파악해야 한다.",
+  "analyzed_at": "2026-04-22T04:00:34.252Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
