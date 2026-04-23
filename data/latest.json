@@ -1,44 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 나타남",
-      "post_count": 100,
-      "sentiment": "mixed",
+      "topic": "주식 시장",
+      "summary": "코스피 6500 돌파, 주식 시장의 상승세가 지속되고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 의견이 나타나고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 동향과 관련된 뉴스와 의견이 나타나고 있다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "주식",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "주식 시장의 상승세"
     },
     {
-      "keyword": "이슈",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "이슈게시판의 부정적인 내용"
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "반도체",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "반도체 산업의 동향"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 비중이 높음"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "주식 시장의 상승세와 관련된 긍정적인 의견이 많다."
   },
   "business_insights": [
     {
-      "insight": "뽐뿌 커뮤니티에서 부정적인 감정의 비중이 높음",
-      "action": "부정적인 내용을 감소시키기 위한 전략 수립",
+      "insight": "주식 시장의 상승세를 이용하여 투자할 기회를 찾는다.",
+      "action": "주식 투자",
       "priority": "high"
+    },
+    {
+      "insight": "AI 기술의 발전을 이용하여 새로운 비즈니스 기회를 찾는다.",
+      "action": "AI 기술 연구",
+      "priority": "medium"
+    },
+    {
+      "insight": "반도체 산업의 동향을 분석하여 새로운 비즈니스 기회를 찾는다.",
+      "action": "반도체 산업 연구",
+      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티의 인기 게시글은 주로 자유게시판과 이슈게시판에서 나타남. 그러나 부정적인 감정의 비중이 높아 부정적인 내용을 감소시키기 위한 전략 수립이 필요함. 이를 통해 커뮤니티의 전체적인 분위기를 개선하고 사용자滿意도를 높일 수 있음. 또한, 뽐뿌 커뮤니티의 특성을 고려하여 마케팅 전략을 수립할 필요가 있음.",
-  "analyzed_at": "2026-04-23T00:00:34.110Z",
-  "post_count": 2,
+  "narrative": "현재 주식 시장은 상승세를 보이고 있으며, 주식 투자와 관련된 의견이 많다. 또한, AI 기술의 발전과 관련된 뉴스와 의견이 나타나고 있다. 반도체 산업의 동향도 분석되고 있으며, 새로운 비즈니스 기회를 찾기 위해 주식 시장, AI 기술, 반도체 산업을 연구하는 것이 필요하다. 이러한 동향을 분석하여 새로운 비즈니스 기회를 찾고, 투자할 기회를 찾는 것이 중요하다.",
+  "analyzed_at": "2026-04-23T01:30:34.007Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
