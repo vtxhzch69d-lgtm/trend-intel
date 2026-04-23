@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "일본차의 이미지",
-      "summary": "일본차의 이미지에 대한 논의가 활발하게 진행되고 있으며, 일부 사용자는 일본차의 품질과 디자인을 높이 평가하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "인공지능과 기술",
-      "summary": "인공지능과 기술에 관련된 주제가 많이 обсужд되고 있으며, 새로운 기술의 개발과 적용에 대한 관심이 높습니다.",
+      "topic": "AI 및 기술",
+      "summary": "최신 기술 뉴스와 트렌드가 클리앙 커뮤니티에서 인기 있는 주제입니다. 구글의 Gemini와 NVIDIA DLSS 4.5 SDK의 출시 등이 포함됩니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치와 사회",
-      "summary": "정치와 사회에 관련된 주제가 논의되고 있으며, 일부 사용자는 정치와 사회에 대한 비판적 시각을 가지고 있습니다.",
+      "topic": "사회 및 정치",
+      "summary": "한국의 정치와 사회 문제가 클리앙 커뮤니티에서 논의되고 있습니다. 문재인 전 대통령과 민주당의 공천 등이 포함됩니다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "게임 및 엔터테인먼트",
+      "summary": "게임 음악과 관련된 게시글이 클리앙 커뮤니티에서 인기 있습니다. 개인적으로 좋아하는 게임 음악을 공유하는 게시글이 포함됩니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일본차",
-      "count": 7,
-      "sentiment": "neutral",
-      "context": "일본차의 이미지와 품질에 대한 논의"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 트렌드"
     },
     {
-      "keyword": "인공지능",
+      "keyword": "구글",
       "count": 10,
       "sentiment": "positive",
-      "context": "인공지능의 개발과 적용에 대한 관심"
+      "context": "Gemini와 NVIDIA DLSS 4.5 SDK의 출시"
     },
     {
-      "keyword": "정치",
+      "keyword": "문재인",
       "count": 5,
-      "sentiment": "negative",
-      "context": "정치와 사회에 대한 비판적 시각"
+      "sentiment": "mixed",
+      "context": "한국의 정치와 사회 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적이며 일부 비판적"
+    "neutral": 20,
+    "overall_mood": "중립적이지만 긍정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "일본차의 이미지에 대한 논의는 일본차의 品質과 디자인에 대한 관심을 높일 수 있습니다.",
-      "action": "일본차의 品質과 디자인에 대한 마케팅을 강화합니다.",
-      "priority": "medium"
+      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높습니다.",
+      "action": "최신 기술 뉴스와 트렌드에 대한 콘텐츠를 제공하세요.",
+      "priority": "high"
     },
     {
-      "insight": "인공지능과 기술에 대한 관심은 새로운 기술의 개발과 적용에 대한 기회를 제공합니다.",
-      "action": "인공지능과 기술에 대한 연구와 개발을 강화합니다.",
-      "priority": "high"
+      "insight": "한국의 정치와 사회 문제에 대한 논의가 활발합니다.",
+      "action": "한국의 정치와 사회 문제에 대한 콘텐츠를 제공하세요.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 일본차의 이미지와 인공지능 및 기술에 대한 관심이 높아지고 있습니다. 일부 사용자는 일본차의 品質과 디자인을 높이 평가하고 있으며, 인공지능과 기술에 대한 개발과 적용에 대한 기회를 찾고 있습니다. 또한, 정치와 사회에 대한 비판적 시각이 일부 존재합니다. 이러한 트렌드를 고려하여, 일본차의 品質과 디자인에 대한 마케팅을 강화하고, 인공지능과 기술에 대한 연구와 개발을 강화하는 것이 필요합니다.",
-  "analyzed_at": "2026-04-23T09:00:34.145Z",
+  "narrative": "클리앙 커뮤니티에서는 최신 기술 뉴스와 트렌드, 한국의 정치와 사회 문제 등 다양한 주제가 논의되고 있습니다. 최신 기술 뉴스와 트렌드에 대한 관심이 높으며, 한국의 정치와 사회 문제에 대한 논의도 활발합니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하면 클리앙 커뮤니티 사용자들에게 큰 도움이 될 것입니다. 또한, 최신 기술 뉴스와 트렌드에 대한 콘텐츠를 제공하면 클리앙 커뮤니티 사용자들의 관심을 끌 수 있을 것입니다.",
+  "analyzed_at": "2026-04-23T10:30:34.500Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
