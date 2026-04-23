@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "코스피는 다시 말아 올리고 있으며, 현대차의 1분기 영업익이 30.8% 감소했다. 또한, 집은 소비재일까 아니면 투자재일까에 대한 논의가 진행 중이다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 AI",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 논의가 진행 중이다. 구글의 새로운 AI 칩, NVIDIA의 DLSS 4.5 SDK 출시 등이 포함된다.",
+      "topic": "경제",
+      "summary": "코스피가 사상 최고치를 경신하고, 경제 성장률이 증가하고 있습니다. 또한, 기업들의 투자와 혁신이 활발하게 진행되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "국민의힘 대구시장 후보의 컷오프와 관련된 논의, 일본의 AI 개발 투자 등이 포함된다.",
-      "post_count": 8,
+      "topic": "기술",
+      "summary": "AI와 관련된 기술이 발전하고 있으며, 기업들이 이를 활용하여 혁신을 추진하고 있습니다. 또한, 새로운 기술이 등장하고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "사회",
+      "summary": "사회적인 문제들이 논의되고 있으며,人们들의 관심이 집중되고 있습니다. 또한, 정치적인 문제들도 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스와 논의"
-    },
-    {
       "keyword": "코스피",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "코스피의 최근 동향에 대한 논의"
+      "sentiment": "positive",
+      "context": "코스피가 사상 최고치를 경신했습니다."
     },
     {
-      "keyword": "현대차",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "현대차의 1분기 영업익 감소에 대한 논의"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI와 관련된 기술이 발전하고 있습니다."
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "경제 성장률이 증가하고 있습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 15,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 사업에 적용할 수 있는 방법을 모색한다.",
+      "insight": "기업들이 혁신을 추진하고 있으며, 기술을 활용하여 경쟁력을 높이고 있습니다.",
+      "action": "기업들이 혁신을 추진하고 기술을 활용하여 경쟁력을 높이는 방안을 모색해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "코스피의 동향은 경제 및 금융 시장에 영향을 미친다.",
-      "action": "코스피의 동향을 주시하고, 투자 전략을 조정한다.",
+      "insight": "경제 성장률이 증가하고 있으며, 기업들이 투자와 혁신을 추진하고 있습니다.",
+      "action": "기업들이 투자와 혁신을 추진하고, 정부가 경제 성장률을 증가시키는 정책을 시행해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 뉴스와 논의가 많이 진행 중이다. 또한, 코스피의 동향과 현대차의 1분기 영업익 감소에 대한 논의도 포함된다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으며, 사업에 적용할 수 있는 방법을 모색하는 것이 중요하다. 또한, 코스피의 동향을 주시하고, 투자 전략을 조정하는 것도 필요하다.",
-  "analyzed_at": "2026-04-23T06:00:34.248Z",
-  "post_count": 61,
+  "narrative": "현재의 트렌드는 경제와 기술이 주도하고 있으며, 기업들이 혁신을 추진하고 기술을 활용하여 경쟁력을 높이고 있습니다. 또한, 사회적인 문제들이 논의되고 있으며, 政治的な 문제들도 논의되고 있습니다. 기업들이 혁신을 추진하고 기술을 활용하여 경쟁력을 높이는 방안을 모색해야 하며, 정부가 경제 성장률을 증가시키는 정책을 시행해야 합니다. 또한, 社会的な 문제들을 해결하고, 政治的な 문제들을 해결하는 방안을 모색해야 합니다.",
+  "analyzed_at": "2026-04-23T07:30:33.993Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
