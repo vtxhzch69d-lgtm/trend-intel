@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "국내 정치",
-      "summary": "장동혁과 관련된 정치적인 논쟁이 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 또한, 국립의전원법이 통과된 것으로 나타났습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "트럼프의 기뢰 설치 명령과 대통령 국정 지지율 그래프가 논란이 되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크 및 IT",
-      "summary": "최신 기술 뉴스와 트렌드가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 구글의 Gemini와 NVIDIA의 DLSS 4.5 SDK가 주목을 받고 있습니다.",
-      "post_count": 20,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시가 활발하게 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "주식 시장과 경제 관련 뉴스가 클리앙 커뮤니티에서 논의되고 있습니다. 성과급과 임금근로자에 대한 이야기가 주를 이루고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "경제",
+      "summary": "성과급과 임금근로자에 대한 논의가 진행되고 있습니다.",
+      "post_count": 3,
+      "sentiment": "mixed",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "장동혁",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치적인 논쟁"
-    },
-    {
-      "keyword": "구글 Gemini",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "최신 기술"
-    },
-    {
-      "keyword": "주식",
+      "keyword": "트럼프",
       "count": 2,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
+      "sentiment": "negative",
+      "context": "기뢰 설치 명령"
+    },
+    {
+      "keyword": "국정 지지율",
+      "count": 1,
+      "sentiment": "negative",
+      "context": "대통령 국정 지지율 그래프"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서는 정치적인 논쟁이 활발하게 진행되고 있습니다.",
-      "action": "정치적인 이야기를 피하는 것이 좋습니다.",
+      "insight": "최신 기술 뉴스와 제품 출시가 활발하게 обсужд되고 있습니다.",
+      "action": "최신 기술 뉴스와 제품 출시에 대한 마케팅 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 트렌드는 클리앙 커뮤니티에서 주목을 받고 있습니다.",
-      "action": "최신 기술에 대한 이야기를 더 많이 공유하는 것이 좋습니다.",
-      "priority": "medium"
+      "insight": "성과급과 임금근로자에 대한 논의가 진행되고 있습니다.",
+      "action": "성과급과 임금근로자에 대한 마케팅 전략을 수립하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 정치적인 논쟁이 활발하게 진행되고 있으며, 최신 기술 뉴스와 트렌드도 주목을 받고 있습니다. 또한, 경제 관련 뉴스도 논의되고 있지만, 중립적인 분위기가 유지되고 있습니다. 마케터는 이러한 트렌드와 분위기를 고려하여 전략을 수립하는 것이 좋습니다. 특히, 정치적인 이야기를 피하는 것이 좋으며, 최신 기술에 대한 이야기를 더 많이 공유하는 것이 좋습니다.",
-  "analyzed_at": "2026-04-23T12:00:36.327Z",
+  "narrative": "최근의 트렌드는 정치와 기술 뉴스에 대한 관심이 높아지고 있습니다. 트럼프의 기뢰 설치 명령과 대통령 국정 지지율 그래프가 논란이 되고 있습니다. 또한, 최신 기술 뉴스와 제품 출시가 활발하게 обсужд되고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다. 또한, 성과급과 임금근로자에 대한 논의가 진행되고 있으므로, 이러한 이슈에 대한 마케팅 전략을 수립하는 것이 필요합니다.",
+  "analyzed_at": "2026-04-23T13:30:33.574Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
