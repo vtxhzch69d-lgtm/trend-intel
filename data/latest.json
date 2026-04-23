@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "트럼프의 기뢰 설치 명령과 대통령 국정 지지율 그래프가 논란이 되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "국정지지율",
+      "summary": "이 대통령 국정지지율 69%, 한 달째 최고치 유지",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 활발하게 обсужд되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "성과급",
+      "summary": "성과급 관련 논의를 보면 가끔 그런 생각은 드네요",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "성과급과 임금근로자에 대한 논의가 진행되고 있습니다.",
-      "post_count": 3,
-      "sentiment": "mixed",
+      "topic": "주식",
+      "summary": "주식을 조금 매도했는데 D+2 열 받네요",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "기뢰 설치 명령"
-    },
-    {
-      "keyword": "국정 지지율",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "대통령 국정 지지율 그래프"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "국정지지율",
       "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "context": "이 대통령 국정지지율 관련 뉴스"
+    },
+    {
+      "keyword": "성과급",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "성과급 관련 논의"
+    },
+    {
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "주식 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 뉴스와 제품 출시가 활발하게 обсужд되고 있습니다.",
-      "action": "최신 기술 뉴스와 제품 출시에 대한 마케팅 전략을 수립하세요.",
+      "insight": "국정지지율이 높아짐에 따라 경제에 대한 기대감이 증가하고 있다",
+      "action": "경제 관련 뉴스에 대한 관심을 높이자",
       "priority": "high"
     },
     {
-      "insight": "성과급과 임금근로자에 대한 논의가 진행되고 있습니다.",
-      "action": "성과급과 임금근로자에 대한 마케팅 전략을 수립하세요.",
+      "insight": "성과급 관련 논의가 증가하고 있다",
+      "action": "성과급 관련 정책을 검토하자",
+      "priority": "medium"
+    },
+    {
+      "insight": "주식 관련 뉴스가 증가하고 있다",
+      "action": "주식 관련 정보를 제공하자",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술 뉴스에 대한 관심이 높아지고 있습니다. 트럼프의 기뢰 설치 명령과 대통령 국정 지지율 그래프가 논란이 되고 있습니다. 또한, 최신 기술 뉴스와 제품 출시가 활발하게 обсужд되고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다. 또한, 성과급과 임금근로자에 대한 논의가 진행되고 있으므로, 이러한 이슈에 대한 마케팅 전략을 수립하는 것이 필요합니다.",
-  "analyzed_at": "2026-04-23T13:30:33.574Z",
+  "narrative": "최근 클리앙 커뮤니티에서 국정지지율, 성과급, 주식 관련 뉴스가 많이 обсужд되고 있다. 국정지지율이 높아짐에 따라 경제에 대한 기대감이 증가하고 있다. 성과급 관련 논의가 증가하고 있으므로 관련 정책을 검토해야 한다. 주식 관련 뉴스가 증가하고 있으므로 관련 정보를 제공해야 한다. 중립적인 분위기이므로 다양한 의견을 수용해야 한다.",
+  "analyzed_at": "2026-04-23T15:00:33.878Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
