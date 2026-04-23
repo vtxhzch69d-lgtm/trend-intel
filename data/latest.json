@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "최신 기술 뉴스와 트렌드가 클리앙 커뮤니티에서 인기 있는 주제입니다. 구글의 Gemini와 NVIDIA DLSS 4.5 SDK의 출시 등이 포함됩니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "국내 정치",
+      "summary": "장동혁과 관련된 정치적인 논쟁이 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 또한, 국립의전원법이 통과된 것으로 나타났습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "한국의 정치와 사회 문제가 클리앙 커뮤니티에서 논의되고 있습니다. 문재인 전 대통령과 민주당의 공천 등이 포함됩니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "테크 및 IT",
+      "summary": "최신 기술 뉴스와 트렌드가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 구글의 Gemini와 NVIDIA의 DLSS 4.5 SDK가 주목을 받고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "게임 및 엔터테인먼트",
-      "summary": "게임 음악과 관련된 게시글이 클리앙 커뮤니티에서 인기 있습니다. 개인적으로 좋아하는 게임 음악을 공유하는 게시글이 포함됩니다.",
+      "topic": "경제 및 주식",
+      "summary": "주식 시장과 경제 관련 뉴스가 클리앙 커뮤니티에서 논의되고 있습니다. 성과급과 임금근로자에 대한 이야기가 주를 이루고 있습니다.",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드"
-    },
-    {
-      "keyword": "구글",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "Gemini와 NVIDIA DLSS 4.5 SDK의 출시"
-    },
-    {
-      "keyword": "문재인",
+      "keyword": "장동혁",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "한국의 정치와 사회 문제"
+      "sentiment": "negative",
+      "context": "정치적인 논쟁"
+    },
+    {
+      "keyword": "구글 Gemini",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "최신 기술"
+    },
+    {
+      "keyword": "주식",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
+    "positive": 15,
+    "negative": 10,
     "neutral": 20,
-    "overall_mood": "중립적이지만 긍정적인 기운이 감지됩니다."
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높습니다.",
-      "action": "최신 기술 뉴스와 트렌드에 대한 콘텐츠를 제공하세요.",
+      "insight": "클리앙 커뮤니티에서는 정치적인 논쟁이 활발하게 진행되고 있습니다.",
+      "action": "정치적인 이야기를 피하는 것이 좋습니다.",
       "priority": "high"
     },
     {
-      "insight": "한국의 정치와 사회 문제에 대한 논의가 활발합니다.",
-      "action": "한국의 정치와 사회 문제에 대한 콘텐츠를 제공하세요.",
+      "insight": "최신 기술 뉴스와 트렌드는 클리앙 커뮤니티에서 주목을 받고 있습니다.",
+      "action": "최신 기술에 대한 이야기를 더 많이 공유하는 것이 좋습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 최신 기술 뉴스와 트렌드, 한국의 정치와 사회 문제 등 다양한 주제가 논의되고 있습니다. 최신 기술 뉴스와 트렌드에 대한 관심이 높으며, 한국의 정치와 사회 문제에 대한 논의도 활발합니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하면 클리앙 커뮤니티 사용자들에게 큰 도움이 될 것입니다. 또한, 최신 기술 뉴스와 트렌드에 대한 콘텐츠를 제공하면 클리앙 커뮤니티 사용자들의 관심을 끌 수 있을 것입니다.",
-  "analyzed_at": "2026-04-23T10:30:34.500Z",
+  "narrative": "클리앙 커뮤니티에서는 정치적인 논쟁이 활발하게 진행되고 있으며, 최신 기술 뉴스와 트렌드도 주목을 받고 있습니다. 또한, 경제 관련 뉴스도 논의되고 있지만, 중립적인 분위기가 유지되고 있습니다. 마케터는 이러한 트렌드와 분위기를 고려하여 전략을 수립하는 것이 좋습니다. 특히, 정치적인 이야기를 피하는 것이 좋으며, 최신 기술에 대한 이야기를 더 많이 공유하는 것이 좋습니다.",
+  "analyzed_at": "2026-04-23T12:00:36.327Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
