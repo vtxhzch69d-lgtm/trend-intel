@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "최근 AI 기술의 발전과 관련된 주제들이 많은 관심을 받고 있습니다. 특히 GPT-5.5의 출시와 관련된 게시글이 많이 올라왔습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "이준석, 부산 북갑여론조사, 국힘 지지율 15% 등 정치 관련 뉴스가热한 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 관련된 주제들이 많은 관심을 받고 있습니다. 특히 주식 매도 후 인출과 관련된 게시글이 많이 올라왔습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "AI",
+      "summary": "GPT 5.5 성능 요약, 클로드 한도 재설정 & GPT 5.5 공개 등 AI 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련된 주제들이 많은 관심을 받고 있습니다. 특히 법안통과와 관련된 게시글이 많이 올라왔습니다.",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "인쇄용지 값 71% 폭등, 배후는 ‘담합’ 등 경제 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "GPT-5.5",
+      "keyword": "이준석",
       "count": 5,
-      "sentiment": "positive",
-      "context": "GPT-5.5의 출시와 관련된 게시글"
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스"
     },
     {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "주식 관련된 게시글"
-    },
-    {
-      "keyword": "법안통과",
+      "keyword": "GPT 5.5",
       "count": 3,
+      "sentiment": "positive",
+      "context": "AI 관련 뉴스"
+    },
+    {
+      "keyword": "인쇄용지",
+      "count": 2,
       "sentiment": "negative",
-      "context": "법안통과와 관련된 게시글"
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 기분이 대부분입니다."
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 빠르게 진행되고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발해야 합니다.",
+      "insight": "정치 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "정치 관련 뉴스에 대한 분석을 강화합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 주식 관련된 주제들이 많은 관심을 받고 있습니다.",
-      "action": "경제 및 주식 관련된 정보를 제공하는 서비스를 개발해야 합니다.",
+      "insight": "AI 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "AI 관련 뉴스에 대한 분석을 강화합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "경제 관련 뉴스에 대한 분석을 강화합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 AI 기술의 발전과 관련된 주제들이 많은 관심을 받고 있습니다. 특히 GPT-5.5의 출시와 관련된 게시글이 많이 올라왔습니다. 또한 경제 및 주식 관련된 주제들이 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고 서비스를 제공하는 것이 중요합니다. 중립적인 기분이 대부분이지만, 일부에서는 부정적인 기분을 보이고 있습니다. 따라서 이러한 트렌드에 대한 분석과 대응이 필요합니다.",
-  "analyzed_at": "2026-04-23T21:00:34.308Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치, AI, 경제 관련 뉴스가 많은 관심을 받고 있습니다. 정치 관련 뉴스는 이준석, 부산 북갑여론조사, 국힘 지지율 15% 등 다양한 주제로 논의되고 있습니다. AI 관련 뉴스는 GPT 5.5 성능 요약, 클로드 한도 재설정 & GPT 5.5 공개 등 다양한 주제로 논의되고 있습니다. 경제 관련 뉴스는 인쇄용지 값 71% 폭등, 배후는 ‘담합’ 등 다양한 주제로 논의되고 있습니다. 이러한 뉴스에 대한 분석을 강화하여 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-23T22:30:34.006Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
