@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "코스피 6500 돌파, 주식 시장의 상승세가 지속되고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 의견이 나타나고 있다.",
-      "post_count": 10,
+      "summary": "코스피 흘러서 보합권이네요. 주식 팔아서 고기 먹으려구요.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업의 동향과 관련된 뉴스와 의견이 나타나고 있다.",
-      "post_count": 8,
+      "topic": "정치",
+      "summary": "국민의힘 지지율 15%… 2020년 창당 이래 최저치. 이재명 대통령은 약속을 지켜라!!!",
+      "post_count": 7,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "SK하이닉스 'HBM4E, 하반기 샘플 공급 준비…내년 양산 계획 순항'. 구글, 8세대 AI칩 'TPU 8t·8i' 공개…훈련용·추론용으로 분리",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "주식",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "주식 시장의 상승세"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "주식 시장 관련 글"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 관련 글"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "반도체",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "반도체 산업의 동향"
+      "context": "기술 관련 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "주식 시장의 상승세와 관련된 긍정적인 의견이 많다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승세를 이용하여 투자할 기회를 찾는다.",
-      "action": "주식 투자",
+      "insight": "주식 시장의 변동성",
+      "action": "주식 투자 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전을 이용하여 새로운 비즈니스 기회를 찾는다.",
-      "action": "AI 기술 연구",
+      "insight": "정치적 불안정성",
+      "action": "정책 분석 및 대응 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "반도체 산업의 동향을 분석하여 새로운 비즈니스 기회를 찾는다.",
-      "action": "반도체 산업 연구",
+      "insight": "기술의 발전",
+      "action": "신기술에 대한 투자 및 연구",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 주식 시장은 상승세를 보이고 있으며, 주식 투자와 관련된 의견이 많다. 또한, AI 기술의 발전과 관련된 뉴스와 의견이 나타나고 있다. 반도체 산업의 동향도 분석되고 있으며, 새로운 비즈니스 기회를 찾기 위해 주식 시장, AI 기술, 반도체 산업을 연구하는 것이 필요하다. 이러한 동향을 분석하여 새로운 비즈니스 기회를 찾고, 투자할 기회를 찾는 것이 중요하다.",
-  "analyzed_at": "2026-04-23T01:30:34.007Z",
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 주식 시장, 정치, 기술이 주요 관심사로 나타났습니다. 주식 시장의 변동성과 정치적 불안정성은 중립적 또는 부정적인 감정을 불러일으키고 있습니다. 반면, 기술의 발전은 긍정적인 감정을 불러일으키고 있습니다. 이러한 분석 결과를 바탕으로, 기업이나 투자자는 주식 시장의 변동성에 대응하고, 정치적 불안정성에 대한 대응 전략을 수립하며, 신기술에 대한 투자 및 연구를 통해 경쟁력을 강화할 수 있습니다.",
+  "analyzed_at": "2026-04-23T03:00:34.852Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
