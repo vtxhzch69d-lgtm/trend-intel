@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "국정지지율",
-      "summary": "이 대통령 국정지지율 69%, 한 달째 최고치 유지",
-      "post_count": 3,
+      "topic": "AI 및 기술",
+      "summary": "AI 기술의 발전과 관련된 주제가 많은 관심을 받고 있습니다. 특히, GPT-5.5의 출시와 관련된 게시글이 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "성과급",
-      "summary": "성과급 관련 논의를 보면 가끔 그런 생각은 드네요",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련 주제가 많은 관심을 받고 있습니다. 특히, 주식 매도 후 인출과 관련된 게시글이 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "주식",
-      "summary": "주식을 조금 매도했는데 D+2 열 받네요",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다. 특히, 대통령 국정 지지율과 관련된 게시글이 있습니다.",
+      "post_count": 6,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "국정지지율",
-      "count": 5,
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "이 대통령 국정지지율 관련 뉴스"
-    },
-    {
-      "keyword": "성과급",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "성과급 관련 논의"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "주식",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "주식 관련 뉴스"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "주식 관련 주제"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 20,
     "negative": 10,
-    "neutral": 20,
+    "neutral": 30,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "국정지지율이 높아짐에 따라 경제에 대한 기대감이 증가하고 있다",
-      "action": "경제 관련 뉴스에 대한 관심을 높이자",
+      "insight": "AI 기술의 발전이 경제 및 사회에 미치는 영향",
+      "action": "AI 기술의 발전을 주시하고, 관련된 사업을 추진",
       "priority": "high"
     },
     {
-      "insight": "성과급 관련 논의가 증가하고 있다",
-      "action": "성과급 관련 정책을 검토하자",
+      "insight": "주식 시장의 변동이 경제에 미치는 영향",
+      "action": "주식 시장의 변동을 주시하고, 관련된 사업을 추진",
       "priority": "medium"
-    },
-    {
-      "insight": "주식 관련 뉴스가 증가하고 있다",
-      "action": "주식 관련 정보를 제공하자",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 국정지지율, 성과급, 주식 관련 뉴스가 많이 обсужд되고 있다. 국정지지율이 높아짐에 따라 경제에 대한 기대감이 증가하고 있다. 성과급 관련 논의가 증가하고 있으므로 관련 정책을 검토해야 한다. 주식 관련 뉴스가 증가하고 있으므로 관련 정보를 제공해야 한다. 중립적인 분위기이므로 다양한 의견을 수용해야 한다.",
-  "analyzed_at": "2026-04-23T15:00:33.878Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 많은 관심을 받고 있습니다. 특히, GPT-5.5의 출시와 관련된 게시글이 있습니다. 또한, 경제 및 주식 관련 주제가 많은 관심을 받고 있습니다. 특히, 주식 매도 후 인출과 관련된 게시글이 있습니다. 정치 및 사회 관련 주제도 많은 관심을 받고 있습니다. 특히, 대통령 국정 지지율과 관련된 게시글이 있습니다. 이러한 트렌드는 기업 및 마케터에게 중요한 인사이트를 제공합니다. AI 기술의 발전과 관련된 사업을 추진하고, 주식 시장의 변동을 주시하는 것이 중요합니다. 또한, 정치 및 사회 관련 주제를 주시하고, 관련된 사업을 추진하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-23T16:30:34.080Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
