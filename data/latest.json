@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 구글의 새로운 AI 칩, NVIDIA의 DLSS 4.5 SDK 출시 등이 언급되고 있습니다.",
+      "topic": "경제 및 금융",
+      "summary": "코스피는 다시 말아 올리고 있으며, 현대차의 1분기 영업익이 30.8% 감소했다. 또한, 집은 소비재일까 아니면 투자재일까에 대한 논의가 진행 중이다.",
       "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 AI",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 논의가 진행 중이다. 구글의 새로운 AI 칩, NVIDIA의 DLSS 4.5 SDK 출시 등이 포함된다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "국내 정치 상황에 대한 논의가 활발히 진행되고 있습니다. 국힘 지지율, 조선일보 메인 화면 등이 언급되고 있습니다.",
+      "topic": "정치 및 사회",
+      "summary": "국민의힘 대구시장 후보의 컷오프와 관련된 논의, 일본의 AI 개발 투자 등이 포함된다.",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 상황과 관련된 주제가 논의되고 있습니다. 우회전 단속, 코스피 흘러서 보합권 등이 언급되고 있습니다.",
-      "post_count": 6,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "국힘",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "국내 정치 상황"
+      "context": "AI 기술의 발전과 관련된 뉴스와 논의"
     },
     {
       "keyword": "코스피",
-      "count": 3,
+      "count": 5,
       "sentiment": "neutral",
-      "context": "경제 상황"
+      "context": "코스피의 최근 동향에 대한 논의"
+    },
+    {
+      "keyword": "현대차",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "현대차의 1분기 영업익 감소에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고, 사업에 적용할 수 있는 방법을 모색한다.",
       "priority": "high"
     },
     {
-      "insight": "국내 정치 상황",
-      "action": "정치 상황에 대한 지속적인 모니터링",
+      "insight": "코스피의 동향은 경제 및 금융 시장에 영향을 미친다.",
+      "action": "코스피의 동향을 주시하고, 투자 전략을 조정한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 상황",
-      "action": "경제 상황에 대한 분석과 대응 전략 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있습니다. 구글의 새로운 AI 칩, NVIDIA의 DLSS 4.5 SDK 출시 등이 언급되고 있습니다. 또한, 국내 정치 상황과 경제 상황에 대한 논의도 활발히 진행되고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델 개발과 정치 상황에 대한 지속적인 모니터링, 경제 상황에 대한 분석과 대응 전략 개발 등이 필요합니다.",
-  "analyzed_at": "2026-04-23T04:30:34.021Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 뉴스와 논의가 많이 진행 중이다. 또한, 코스피의 동향과 현대차의 1분기 영업익 감소에 대한 논의도 포함된다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으며, 사업에 적용할 수 있는 방법을 모색하는 것이 중요하다. 또한, 코스피의 동향을 주시하고, 투자 전략을 조정하는 것도 필요하다.",
+  "analyzed_at": "2026-04-23T06:00:34.248Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
