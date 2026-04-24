@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목받고 있습니다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 게시글도 많이 올라왔습니다. 대출금리 인상과 기준 금리 유지 등 다양한 경제 관련 뉴스가 주목받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 분석",
+      "post_count": 12,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 게시글도 올라왔습니다. 대통령 지지율과 정치 관련 뉴스가 주목받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "기술 및 가전",
+      "summary": "최신 기술 및 가전 제품에 대한 뉴스와 리뷰",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,41 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 산업의 발전"
+      "context": "AI 기술의 발전과 이를 활용한 산업의 성장"
     },
     {
       "keyword": "경제",
-      "count": 15,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "대출금리 인상과 기준 금리 유지 등 다양한 경제 관련 뉴스"
+      "context": "경제 관련 뉴스와 분석"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "대통령 지지율과 정치 관련 뉴스"
+      "keyword": "기술",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "최신 기술 및 가전 제품에 대한 뉴스와 리뷰"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "중립적"
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업의 발전을 주도할 것",
-      "action": "AI 기술을 활용한 산업의 발전을 주도하는 기업에 투자",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스가 계속 주목받을 것",
-      "action": "경제 및 금융 관련 뉴스를 계속 주시",
+      "insight": "경제 및 정치 관련 뉴스는 계속해서 주목할 필요가 있다",
+      "action": "경제 및 정치 관련 뉴스와 분석을 지속적으로 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 및 가전 제품에 대한 뉴스와 리뷰는 소비자들의 관심을 끌 수 있다",
+      "action": "최신 기술 및 가전 제품에 대한 마케팅 및 광고 캠페인 실행",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목받고 있습니다. 또한 경제 및 금융 관련 게시글도 많이 올라왔습니다. 대출금리 인상과 기준 금리 유지 등 다양한 경제 관련 뉴스가 주목받고 있습니다. 이러한 트렌드를 주시하고, AI 기술을 활용한 산업의 발전을 주도하는 기업에 투자하는 것이 좋을 것입니다. 또한 경제 및 금융 관련 뉴스를 계속 주시하여 시장의 변화를 예측할 수 있습니다.",
-  "analyzed_at": "2026-04-24T05:00:34.936Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목할 만하다. 또한, 경제 및 정치 관련 뉴스와 분석은 계속해서 주목할 필요가 있다. 최신 기술 및 가전 제품에 대한 뉴스와 리뷰는 소비자들의 관심을 끌 수 있다. 이러한 트렌드를 통해 비즈니스 인사이트를 얻고, 새로운 비즈니스 모델 개발 및 마케팅 및 광고 캠페인 실행을 통해 경쟁력을 높일 수 있다.",
+  "analyzed_at": "2026-04-24T06:30:34.493Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
