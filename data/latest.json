@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI 기술의 적용이 증가하고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 주제가 논의되고 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 뉴스와 분석이 많은 관심을 받고 있다. 특히, 반도체와 자동차 산업의 동향에 대한 관심이 높다.",
+      "post_count": 12,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "신제품 출시 및 기술 발전과 관련된 주제가 논의되고 있다.",
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스와 분석이 일부 관심을 받고 있다. 특히, 정치권의 동향과 사회 문제에 대한 관심이 높다.",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 그 응용"
     },
     {
-      "keyword": "경제",
+      "keyword": "반도체",
       "count": 10,
-      "sentiment": "negative",
-      "context": "경제 불황"
+      "sentiment": "neutral",
+      "context": "반도체 산업의 동향"
     },
     {
-      "keyword": "기술",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "신제품 출시"
+      "keyword": "자동차",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "자동차 산업의 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "neutral": 60,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
+      "action": "AI 기술의 적용을 위한 투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 불황",
-      "action": "경제 불황에 대비한 비즈니스 전략 수립",
+      "insight": "반도체와 자동차 산업의 동향을 주시하여 시장의 변화를 예측할 수 있다.",
+      "action": "시장 분석과 예측",
       "priority": "medium"
-    },
-    {
-      "insight": "신제품 출시",
-      "action": "신제품 출시를 위한 마케팅 전략 수립",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 대부분을 차지하고 있다. AI 기술의 발전은 다양한 산업에서 새로운 비즈니스 모델을 창출할 수 있는 기회를 제공하고 있다. 그러나 경제 불황과 관련된 주제도 논의되고 있어 경제 불황에 대비한 비즈니스 전략 수립이 필요하다. 또한 신제품 출시와 관련된 주제도 논의되고 있어 신제품 출시를 위한 마케팅 전략 수립이 필요하다. 전체적으로 긍정적인 분위기이지만 경제 불황과 관련된 주제도 논의되고 있어 다양한 전략을 수립해야 한다.",
-  "analyzed_at": "2026-04-24T21:30:34.819Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI 기술의 적용이 증가하고 있으며, 반도체와 자동차 산업의 동향도 많은 관심을 받고 있다. 이러한 트렌드를 분석하여 사업 전략을 수립하고 시장의 변화를 예측할 수 있다. 또한, AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있으므로, AI 기술의 적용을 위한 투자와 연구 개발을 고려할 수 있다.",
+  "analyzed_at": "2026-04-24T23:00:34.107Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
