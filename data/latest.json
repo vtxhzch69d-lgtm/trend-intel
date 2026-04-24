@@ -2,44 +2,44 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI의 활용이 증가하고 있다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. 특히, 반도체와 재생에너지에 대한 투자와 관련된 글들이 인기 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 뉴스와 분석이 많이 올라오고 있다. 특히, 기업의 실적과 시장 동향에 대한 관심이 높다.",
-      "post_count": 20,
-      "sentiment": "neutral",
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련된 글들이 많은 관심을 받고 있습니다. 특히, 조국 대표와 관련된 글들이 논란을 일으키고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스와 의견이 많이 올라오고 있다. 특히, 정치인과 정부 정책에 대한 논란이 많다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "테크 및 가전",
+      "summary": "최신 기술과 가전 제품에 대한 글들이 인기 있습니다. 특히, 삼성전자와 관련된 글들이 많은 관심을 받고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 응용"
-    },
-    {
-      "keyword": "경제",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 및 산업 관련 뉴스와 분석"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
     },
     {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "반도체 산업의 성장과 투자"
+    },
+    {
+      "keyword": "조국",
+      "count": 5,
       "sentiment": "negative",
-      "context": "사회 및 정치 관련 뉴스와 의견"
+      "context": "조국 대표와 관련된 정치 및 사회 논란"
     }
   ],
   "sentiment_overview": {
@@ -50,24 +50,24 @@
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 활용 가능하다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "action": "AI 기술을 활용한 새로운 사업 기회를 탐색",
       "priority": "high"
     },
     {
-      "insight": "경제 및 산업 관련 뉴스와 분석은 시장 동향을 이해하는 데 중요하다.",
-      "action": "시장 동향 분석 및 보고서 작성",
+      "insight": "반도체 산업의 성장과 투자",
+      "action": "반도체 산업에 대한 투자와 협력을 강화",
       "priority": "medium"
     },
     {
-      "insight": "사회 및 정치 관련 뉴스와 의견은 기업의 사회적 책임을 이해하는 데 중요하다.",
-      "action": "기업의 사회적 책임을 강화하는 전략 개발",
+      "insight": "정치 및 사회 논란",
+      "action": "정치 및 사회 논란에 대한 대응과 관리",
       "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 또한, 경제 및 산업 관련 뉴스와 분석이 많이 올라오고 있다. 그러나, 사회 및 정치 관련 뉴스와 의견은 논란이 많다. 이러한 트렌드를 분석하여, AI 기술을 활용한 새로운 비즈니스 모델 개발, 시장 동향 분석 및 보고서 작성, 기업의 사회적 책임을 강화하는 전략 개발 등의 액션을 취할 수 있다.",
-  "analyzed_at": "2026-04-24T11:00:35.173Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. 특히, 반도체와 재생에너지에 대한 투자와 관련된 글들이 인기 있습니다. 그러나, 정치 및 사회 논란도 존재하며, 조국 대표와 관련된 글들이 논란을 일으키고 있습니다. 이러한 트렌드와 키워드를 분석하여, 새로운 사업 기회를 탐색하고, 반도체 산업에 대한 투자와 협력을 강화하며, 정치 및 사회 논란에 대한 대응과 관리를 통해 기업의 성장과 발전에 기여할 수 있습니다.",
+  "analyzed_at": "2026-04-24T12:30:33.752Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
