@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "방시혁 구속영장 반려",
-      "summary": "하이브 방시혁 의장의 구속영장 청구가 반려되었습니다. 이에 대한 반응이 커뮤니티에서 뜨거운 논쟁을 일으키고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI의 활용이 증가하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 발전",
-      "summary": "최근 AI 기술의 발전이 가속화되고 있습니다. 이를 통해 다양한 산업 분야에서 혁신이 예상됩니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 뉴스와 분석이 많이 올라오고 있다. 특히, 기업의 실적과 시장 동향에 대한 관심이 높다.",
+      "post_count": 20,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "현재의 경제 상황과 주식 시장 동향에 대한 관심이 커뮤니티에서 높습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스와 의견이 많이 올라오고 있다. 특히, 정치인과 정부 정책에 대한 논란이 많다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "방시혁",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "구속영장 반려에 대한 논쟁"
-    },
-    {
       "keyword": "AI",
-      "count": 12,
+      "count": 25,
       "sentiment": "positive",
-      "context": "기술 발전과 산업 혁신"
+      "context": "AI 기술의 발전과 그 응용"
     },
     {
-      "keyword": "주식",
-      "count": 6,
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "경제 상황과 시장 동향"
+      "context": "경제 및 산업 관련 뉴스와 분석"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "사회 및 정치 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적이지만 일부 논쟁적인 주제가 존재"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 혁신을 가져올 수 있습니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 활용 가능하다.",
       "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 상황과 주식 시장의 동향을 주시해야 합니다.",
-      "action": "시장 분석과 투자 전략 수립",
+      "insight": "경제 및 산업 관련 뉴스와 분석은 시장 동향을 이해하는 데 중요하다.",
+      "action": "시장 동향 분석 및 보고서 작성",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 정치 관련 뉴스와 의견은 기업의 사회적 책임을 이해하는 데 중요하다.",
+      "action": "기업의 사회적 책임을 강화하는 전략 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 커뮤니티에서는 방시혁 구속영장 반려와 관련된 논쟁이 뜨거운 관심을 받고 있습니다. 또한, AI 기술의 발전과 경제 상황 및 주식 시장의 동향에 대한 관심도 높습니다. 이러한 트렌드와 키워드를 분석하면, AI 기술을 활용한 새로운 비즈니스 모델 개발과 시장 분석 및 투자 전략 수립의 필요성이 나타납니다. 중립적인 분위기이지만, 일부 논쟁적인 주제가 존재하므로 이를 주시해야 합니다.",
-  "analyzed_at": "2026-04-24T09:30:35.871Z",
+  "narrative": "最近의 트렌드 분석 결과, AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 또한, 경제 및 산업 관련 뉴스와 분석이 많이 올라오고 있다. 그러나, 사회 및 정치 관련 뉴스와 의견은 논란이 많다. 이러한 트렌드를 분석하여, AI 기술을 활용한 새로운 비즈니스 모델 개발, 시장 동향 분석 및 보고서 작성, 기업의 사회적 책임을 강화하는 전략 개발 등의 액션을 취할 수 있다.",
+  "analyzed_at": "2026-04-24T11:00:35.173Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
