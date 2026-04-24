@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. 특히, 반도체와 재생에너지에 대한 투자와 관련된 글들이 인기 있습니다.",
-      "post_count": 10,
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련된 글들이 많은 관심을 받고 있습니다. 특히, 조국 대표와 관련된 글들이 논란을 일으키고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석이 활발하게 이루어지고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "테크 및 가전",
-      "summary": "최신 기술과 가전 제품에 대한 글들이 인기 있습니다. 특히, 삼성전자와 관련된 글들이 많은 관심을 받고 있습니다.",
-      "post_count": 12,
+      "summary": "최신 테크 및 가전 제품에 대한 정보와 리뷰가 공유되고 있다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "반도체 산업의 성장과 투자"
+      "keyword": "경제",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 뉴스"
     },
     {
-      "keyword": "조국",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "조국 대표와 관련된 정치 및 사회 논란"
+      "keyword": "테크",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 테크 및 가전 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 다양한 산업에서의 적용",
-      "action": "AI 기술을 활용한 새로운 사업 기회를 탐색",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 ứng용 가능성을 탐색하자.",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 성장과 투자",
-      "action": "반도체 산업에 대한 투자와 협력을 강화",
+      "insight": "경제 및 금융 관련 뉴스와 분석은 중요하다.",
+      "action": "경제 및 금융 관련 뉴스와 분석을 주시하고 정보를 수집하자.",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 논란",
-      "action": "정치 및 사회 논란에 대한 대응과 관리",
+      "insight": "테크 및 가전 제품은 소비자의 관심을 끌 수 있다.",
+      "action": "최신 테크 및 가전 제품에 대한 정보와 리뷰를 공유하자.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. 특히, 반도체와 재생에너지에 대한 투자와 관련된 글들이 인기 있습니다. 그러나, 정치 및 사회 논란도 존재하며, 조국 대표와 관련된 글들이 논란을 일으키고 있습니다. 이러한 트렌드와 키워드를 분석하여, 새로운 사업 기회를 탐색하고, 반도체 산업에 대한 투자와 협력을 강화하며, 정치 및 사회 논란에 대한 대응과 관리를 통해 기업의 성장과 발전에 기여할 수 있습니다.",
-  "analyzed_at": "2026-04-24T12:30:33.752Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 또한, 경제 및 금융 관련 뉴스와 분석이 활발하게 이루어지고 있으며, 최신 테크 및 가전 제품에 대한 정보와 리뷰가 공유되고 있다. 이러한 트렌드에 따라, AI 기술의 발전을 주시하고 ứng용 가능성을 탐색하는 것이 중요하다. 또한, 경제 및 금융 관련 뉴스와 분석을 주시하고 정보를 수집하는 것이 필요하다. 마지막으로, 최신 테크 및 가전 제품에 대한 정보와 리뷰를 공유하여 소비자의 관심을 끌 수 있다.",
+  "analyzed_at": "2026-04-24T14:00:34.663Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
