@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있습니다. 이를 통해 미래의 기술 발전 방향을 예측할 수 있습니다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 обсужд되고 있습니다. GPT-5.5의 출시와 오픈AI의 챗GPT 업그레이드 등이 포함됩니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 정치",
-      "summary": "경제와 정치 관련된 주제들이 논의되고 있습니다. 이를 통해 현재의 경제와 정치 상황을 파악할 수 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "summary": "경제와 정치 관련된 주제들이 논의되고 있습니다. 대장동 보도와 관련된 논쟁, 부자 증세 등이 포함됩니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 제품",
-      "summary": "새로운 기술 제품과 관련된 주제들이 논의되고 있습니다. 이를 통해 최신 기술 제품을 파악할 수 있습니다.",
-      "post_count": 8,
+      "topic": "기술 및 제품",
+      "summary": "새로운 기술과 제품에 대한 소식이 있습니다. 젠하이저 헤드폰, B&W Px8 S2, 삼성 QD-OLED TV 등이 포함됩니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "경제",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 상황"
+      "sentiment": "negative",
+      "context": "경제와 정치 관련된 주제"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "정치 상황"
+      "keyword": "기술",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "새로운 기술과 제품에 대한 소식"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "적절한 발전을 기대"
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
       "insight": "AI 기술의 발전",
-      "action": "최신 기술을 연구하고 개발",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 상황",
-      "action": "시장 상황을 분석하고 대응",
+      "insight": "경제와 정치의 불안정성",
+      "action": "경제와 정치의 변화를 주시하고 대응하기",
       "priority": "medium"
     },
     {
-      "insight": "기술 제품의 발전",
-      "action": "최신 기술 제품을 파악",
+      "insight": "새로운 기술과 제품의 등장",
+      "action": "새로운 기술과 제품을 활용한 마케팅 전략 개발",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제들이 주를 이루고 있습니다. 이를 통해 미래의 기술 발전 방향을 예측할 수 있습니다. 또한, 경제와 정치 관련된 주제들이 논의되고 있습니다. 이를 통해 현재의 경제와 정치 상황을 파악할 수 있습니다. 이러한 트렌드와 키워드를 분석하여, 최신 기술을 연구하고 개발하고, 시장 상황을 분석하고 대응하는 등 적절한 액션을 취할 수 있습니다.",
-  "analyzed_at": "2026-04-24T18:30:33.603Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 주도하고 있습니다. GPT-5.5의 출시와 오픈AI의 챗GPT 업그레이드 등이 포함됩니다. 또한, 경제와 정치 관련된 주제들이 논의되고 있습니다. 대장동 보도와 관련된 논쟁, 부자 증세 등이 포함됩니다. 새로운 기술과 제품에 대한 소식도 있습니다. 젠하이저 헤드폰, B&W Px8 S2, 삼성 QD-OLED TV 등이 포함됩니다. 이러한 트렌드를 분석하여 비즈니스 전략을 개발할 수 있습니다. AI 기술을 활용한 비즈니스 모델 개발, 경제와 정치의 변화를 주시하고 대응하기, 새로운 기술과 제품을 활용한 마케팅 전략 개발 등이 포함됩니다.",
+  "analyzed_at": "2026-04-24T20:00:34.749Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
