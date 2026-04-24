@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 обсужд되고 있습니다. GPT-5.5의 출시와 오픈AI의 챗GPT 업그레이드 등이 포함됩니다.",
-      "post_count": 10,
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 정치",
-      "summary": "경제와 정치 관련된 주제들이 논의되고 있습니다. 대장동 보도와 관련된 논쟁, 부자 증세 등이 포함됩니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "summary": "경제 및 정치 관련 주제가 논의되고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 제품",
-      "summary": "새로운 기술과 제품에 대한 소식이 있습니다. 젠하이저 헤드폰, B&W Px8 S2, 삼성 QD-OLED TV 등이 포함됩니다.",
-      "post_count": 12,
+      "topic": "기술 및 가전",
+      "summary": "신제품 출시 및 기술 발전과 관련된 주제가 논의되고 있다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "경제",
       "count": 10,
       "sentiment": "negative",
-      "context": "경제와 정치 관련된 주제"
+      "context": "경제 불황"
     },
     {
       "keyword": "기술",
       "count": 15,
       "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 소식"
+      "context": "신제품 출시"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
       "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제와 정치의 불안정성",
-      "action": "경제와 정치의 변화를 주시하고 대응하기",
+      "insight": "경제 불황",
+      "action": "경제 불황에 대비한 비즈니스 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "새로운 기술과 제품의 등장",
-      "action": "새로운 기술과 제품을 활용한 마케팅 전략 개발",
+      "insight": "신제품 출시",
+      "action": "신제품 출시를 위한 마케팅 전략 수립",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 주도하고 있습니다. GPT-5.5의 출시와 오픈AI의 챗GPT 업그레이드 등이 포함됩니다. 또한, 경제와 정치 관련된 주제들이 논의되고 있습니다. 대장동 보도와 관련된 논쟁, 부자 증세 등이 포함됩니다. 새로운 기술과 제품에 대한 소식도 있습니다. 젠하이저 헤드폰, B&W Px8 S2, 삼성 QD-OLED TV 등이 포함됩니다. 이러한 트렌드를 분석하여 비즈니스 전략을 개발할 수 있습니다. AI 기술을 활용한 비즈니스 모델 개발, 경제와 정치의 변화를 주시하고 대응하기, 새로운 기술과 제품을 활용한 마케팅 전략 개발 등이 포함됩니다.",
-  "analyzed_at": "2026-04-24T20:00:34.749Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 대부분을 차지하고 있다. AI 기술의 발전은 다양한 산업에서 새로운 비즈니스 모델을 창출할 수 있는 기회를 제공하고 있다. 그러나 경제 불황과 관련된 주제도 논의되고 있어 경제 불황에 대비한 비즈니스 전략 수립이 필요하다. 또한 신제품 출시와 관련된 주제도 논의되고 있어 신제품 출시를 위한 마케팅 전략 수립이 필요하다. 전체적으로 긍정적인 분위기이지만 경제 불황과 관련된 주제도 논의되고 있어 다양한 전략을 수립해야 한다.",
+  "analyzed_at": "2026-04-24T21:30:34.819Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
