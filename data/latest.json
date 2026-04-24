@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이준석, 부산 북갑여론조사, 국힘 지지율 15% 등 정치 관련 뉴스가热한 관심을 받고 있습니다.",
+      "summary": "이재명 정부와 관련된 다양한 정치 뉴스",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "GPT 5.5 성능 요약, 클로드 한도 재설정 & GPT 5.5 공개 등 AI 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "post_count": 5,
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "인쇄용지 값 71% 폭등, 배후는 ‘담합’ 등 경제 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "summary": "경제 뉴스와 시장 동향",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이준석",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스"
-    },
-    {
-      "keyword": "GPT 5.5",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "AI 관련 뉴스"
-    },
-    {
-      "keyword": "인쇄용지",
-      "count": 2,
+      "keyword": "이재명",
+      "count": 10,
       "sentiment": "negative",
-      "context": "경제 관련 뉴스"
+      "context": "정치 뉴스"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "테크 뉴스"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 30,
     "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정"
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "정치 관련 뉴스에 대한 분석을 강화합니다.",
+      "insight": "정치 뉴스에 대한 관심이 높아지고 있다",
+      "action": "정치 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이기",
       "priority": "high"
     },
     {
-      "insight": "AI 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "AI 관련 뉴스에 대한 분석을 강화합니다.",
+      "insight": "테크 뉴스에 대한 관심이 높아지고 있다",
+      "action": "테크 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이기",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "경제 관련 뉴스에 대한 분석을 강화합니다.",
-      "priority": "high"
+      "insight": "경제 뉴스에 대한 관심이 낮아지고 있다",
+      "action": "경제 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이기",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치, AI, 경제 관련 뉴스가 많은 관심을 받고 있습니다. 정치 관련 뉴스는 이준석, 부산 북갑여론조사, 국힘 지지율 15% 등 다양한 주제로 논의되고 있습니다. AI 관련 뉴스는 GPT 5.5 성능 요약, 클로드 한도 재설정 & GPT 5.5 공개 등 다양한 주제로 논의되고 있습니다. 경제 관련 뉴스는 인쇄용지 값 71% 폭등, 배후는 ‘담합’ 등 다양한 주제로 논의되고 있습니다. 이러한 뉴스에 대한 분석을 강화하여 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-23T22:30:34.006Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치 뉴스에 대한 관심이 높아지고 있으며, 테크 뉴스에 대한 관심도 높아지고 있다. 그러나 경제 뉴스에 대한 관심은 낮아지고 있다. 이러한 트렌드를 고려하여 콘텐츠를 생성하여 관심을 끌어들이는 것이 중요하다. 또한, 정치 뉴스에 대한 관심이 높아지고 있으므로, 정치 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이는 것이 중요하다.",
+  "analyzed_at": "2026-04-24T00:30:33.650Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
