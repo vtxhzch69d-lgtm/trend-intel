@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스와 분석",
-      "post_count": 12,
+      "topic": "삼성전자",
+      "summary": "삼성전자의 반도체 및 전자제품 관련 뉴스와 논란",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "최신 기술 및 가전 제품에 대한 뉴스와 리뷰",
-      "post_count": 10,
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상승과 하락, 및 관련 뉴스",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 관련 뉴스",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 산업의 성장"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 분석"
-    },
-    {
-      "keyword": "기술",
+      "keyword": "삼성전자",
       "count": 15,
+      "sentiment": "neutral",
+      "context": "삼성전자의 뉴스와 논란"
+    },
+    {
+      "keyword": "주식",
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 및 가전 제품에 대한 뉴스와 리뷰"
+      "context": "주식 시장의 상승"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "최신 AI 기술"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "전체적으로 긍정적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "삼성전자의 반도체 사업은 계속 성장할 것",
+      "action": "삼성전자 주식 투자",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스는 계속해서 주목할 필요가 있다",
-      "action": "경제 및 정치 관련 뉴스와 분석을 지속적으로 모니터링",
+      "insight": "AI 기술은 빠르게 발전하고 있다",
+      "action": "AI 기술 연구 및 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 및 가전 제품에 대한 뉴스와 리뷰는 소비자들의 관심을 끌 수 있다",
-      "action": "최신 기술 및 가전 제품에 대한 마케팅 및 광고 캠페인 실행",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목할 만하다. 또한, 경제 및 정치 관련 뉴스와 분석은 계속해서 주목할 필요가 있다. 최신 기술 및 가전 제품에 대한 뉴스와 리뷰는 소비자들의 관심을 끌 수 있다. 이러한 트렌드를 통해 비즈니스 인사이트를 얻고, 새로운 비즈니스 모델 개발 및 마케팅 및 광고 캠페인 실행을 통해 경쟁력을 높일 수 있다.",
-  "analyzed_at": "2026-04-24T06:30:34.493Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자와 주식 시장, AI 기술이 주요 관심사로 나타났습니다. 삼성전자의 반도체 사업은 계속 성장할 것으로 예상되며, 주식 시장은 상승세를 보이고 있습니다. 또한, AI 기술은 빠르게 발전하고 있으며, 관련 연구 및 개발이 필요합니다. 이러한 트렌드를 고려하여, 사업 전략을 수립하고, 투자 및 연구 개발을 진행하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-24T08:00:33.669Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
