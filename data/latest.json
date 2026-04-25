@@ -1,67 +1,85 @@
 {
   "trending_topics": [
     {
-      "topic": "테크 및 게임",
-      "summary": "최신 기술 및 게임 관련 뉴스와 정보가 주목을 받고 있습니다. 오픈AI, 챗GPT, 테슬라 등이 포함됩니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "주식시장",
+      "summary": "주식시장 교란행위 의혹과 방시혁에 대한 논의",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 뉴스와 정보가 주목을 받고 있습니다. 삼성SDI, 현대차, 쿠팡 등이 포함됩니다.",
-      "post_count": 10,
+      "topic": "테크 뉴스",
+      "summary": "최신 기술 뉴스와 제품 출시에 대한 정보",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "스포츠",
-      "summary": "스포츠 관련 뉴스와 정보가 주목을 받고 있습니다. 토트넘, PSG, 이강인 등이 포함됩니다.",
-      "post_count": 5,
+      "summary": "토트넘과 PSG의 경기 결과 및 분석",
+      "post_count": 4,
       "sentiment": "positive",
       "urgency": "low"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 뉴스와 기업 동향에 대한 정보",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 및 게임 관련 뉴스와 정보"
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "주식시장 교란행위 의혹"
     },
     {
-      "keyword": "테슬라",
-      "count": 5,
+      "keyword": "테크",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "경제 및 산업 관련 뉴스와 정보"
+      "context": "최신 기술 뉴스"
     },
     {
       "keyword": "토트넘",
       "count": 3,
       "sentiment": "positive",
-      "context": "스포츠 관련 뉴스와 정보"
+      "context": "토트넘의 경기 결과"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "경제 뉴스와 기업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 10,
+    "negative": 12,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 게임 관련 뉴스와 정보가 주목을 받고 있습니다.",
-      "action": "관련 제품이나 서비스를 개발하고 홍보하세요.",
+      "insight": "주식시장 교란행위 의혹에 대한 관심이 높아지고 있다",
+      "action": "주식시장에 대한 정보를 제공하고 투자자들에게 경고를 발령한다",
       "priority": "high"
     },
     {
-      "insight": "경제 및 산업 관련 뉴스와 정보가 주목을 받고 있습니다.",
-      "action": "관련 산업이나 기업을 분석하고 투자하세요.",
+      "insight": "최신 기술 뉴스가 많은 관심을 받고 있다",
+      "action": "최신 기술 뉴스를 제공하고 관련 제품을 출시한다",
       "priority": "medium"
+    },
+    {
+      "insight": "토트넘의 경기 결과에 대한 관심이 높아지고 있다",
+      "action": "토트넘의 경기 결과를 제공하고 관련 분석을 한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최신 기술 및 게임 관련 뉴스와 정보가 주목을 받고 있습니다. 오픈AI, 챗GPT, 테슬라 등이 포함됩니다. 또한, 경제 및 산업 관련 뉴스와 정보가 주목을 받고 있습니다. 삼성SDI, 현대차, 쿠팡 등이 포함됩니다. 스포츠 관련 뉴스와 정보도 주목을 받고 있습니다. 토트넘, PSG, 이강인 등이 포함됩니다. 이러한 트렌드를 분석하여 관련 제품이나 서비스를 개발하고 홍보하세요. 또한, 관련 산업이나 기업을 분석하고 투자하세요.",
-  "analyzed_at": "2026-04-25T20:00:34.382Z",
+  "narrative": "최근의 트렌드에는 주식시장 교란행위 의혹, 최신 기술 뉴스, 토트넘의 경기 결과 등이 포함되어 있다. 주식시장 교란행위 의혹에 대한 관심이 높아지고 있으며, 최신 기술 뉴스는 많은 관심을 받고 있다. 토트넘의 경기 결과에 대한 관심도 높아지고 있다. 이러한 트렌드에 대한 분석과 정보를 제공함으로써 관련된 기업과 개인들에게 도움이 될 수 있다.",
+  "analyzed_at": "2026-04-25T21:30:34.560Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
