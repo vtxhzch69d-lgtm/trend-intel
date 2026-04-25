@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발 및 적용 사례",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 뉴스와 분석",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "부동산",
+      "summary": "서울 부동산과 관련된 다양한 주제가 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "최신 기술 및 가전 제품 뉴스",
+      "topic": "경제",
+      "summary": "경제와 관련된 다양한 주제가 논의되고 있습니다.",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "최신 AI 기술 개발"
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "부동산",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "서울 부동산"
     },
     {
       "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 뉴스 및 분석"
-    },
-    {
-      "keyword": "기술",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "최신 기술 및 가전 제품 뉴스"
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "경제와 관련된 다양한 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "최신 AI 기술 개발 및 적용",
-      "action": "AI 기술 개발에 투자",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 방안을 모색하세요.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 시장 분석",
-      "action": "경제 및 금융 뉴스 모니터링",
+      "insight": "부동산 시장은 계속해서 변동할 수 있습니다.",
+      "action": "부동산 시장의 동향을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 방안을 모색하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 및 가전 제품 트렌드",
-      "action": "최신 기술 및 가전 제품 연구",
-      "priority": "low"
     }
   ],
-  "narrative": "최신 AI 기술 개발 및 적용이 주목을 받고 있으며, 경제 및 금융 뉴스와 분석도 중요한 트렌드입니다. 기술 및 가전 제품 뉴스도 관심을 끌고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립할 수 있습니다. 또한, 최신 기술 및 가전 제품 연구와 개발에 투자하여 미래를 준비할 수 있습니다.",
-  "analyzed_at": "2026-04-25T05:00:33.850Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 부동산과 경제와 관련된 주제도 논의되고 있지만, 전반적으로 긍정적인 분위기입니다. 이러한 트렌드를 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 방안을 모색하는 것이 중요합니다. 또한, 부동산 시장의 동향을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 방안을 모색하는 것도 중요합니다.",
+  "analyzed_at": "2026-04-25T06:30:33.666Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
