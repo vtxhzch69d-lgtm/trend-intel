@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 오픈AI의 챗GPT와 에이전트 능력서, 구글의 Gemini 등이 언급되고 있습니다.",
-      "post_count": 10,
+      "summary": "최신 AI 기술 개발 및 적용 사례",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "자동차",
-      "summary": "자동차 관련 주제가 논의되고 있습니다. 아이오닉 V와 테슬라의 비감독 FSD 구현 등이 언급되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 주제가 논의되고 있습니다. 장대표의 방미 거짓말 파문과 국힘 지지율의 추락 등이 언급되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술 및 가전",
+      "summary": "최신 기술 및 가전 제품 뉴스",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "최신 AI 기술 개발"
+    },
+    {
+      "keyword": "경제",
       "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "sentiment": "neutral",
+      "context": "경제 뉴스 및 분석"
     },
     {
-      "keyword": "자동차",
-      "count": 5,
+      "keyword": "기술",
+      "count": 12,
       "sentiment": "positive",
-      "context": "자동차 관련 주제"
-    },
-    {
-      "keyword": "정치",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 주제"
+      "context": "최신 기술 및 가전 제품 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 10,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "최신 AI 기술 개발 및 적용",
+      "action": "AI 기술 개발에 투자",
       "priority": "high"
     },
     {
-      "insight": "자동차 산업은 전기차와 자율주행 기술의 발전으로 변화할 것입니다.",
-      "action": "전기차와 자율주행 기술에 대한 투자",
+      "insight": "경제 및 금융 시장 분석",
+      "action": "경제 및 금융 뉴스 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 및 가전 제품 트렌드",
+      "action": "최신 기술 및 가전 제품 연구",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술과 자동차 산업이 주목받고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다. 또한, 자동차 산업은 전기차와 자율주행 기술의 발전으로 변화할 것입니다. 이러한 트렌드에 따라 비즈니스 모델을 개발하고 투자할 필요가 있습니다. 반면, 정치 관련 주제는 부정적인 감정으로 논의되고 있습니다. 이러한 트렌드 분석 결과를 통해 비즈니스와 마케팅 전략을 개발할 수 있습니다.",
-  "analyzed_at": "2026-04-25T03:30:33.758Z",
+  "narrative": "최신 AI 기술 개발 및 적용이 주목을 받고 있으며, 경제 및 금융 뉴스와 분석도 중요한 트렌드입니다. 기술 및 가전 제품 뉴스도 관심을 끌고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립할 수 있습니다. 또한, 최신 기술 및 가전 제품 연구와 개발에 투자하여 미래를 준비할 수 있습니다.",
+  "analyzed_at": "2026-04-25T05:00:33.850Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
