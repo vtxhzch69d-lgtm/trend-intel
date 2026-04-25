@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 응용 분야와 기술적 발전이 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "장동혁의 차관보 임명과 관련된 논란, 경찰청장 인선 지연 등",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 주제가 논의되고 있습니다. 기업의 실적과 산업 동향이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "테크",
+      "summary": "애플 보급형 아이폰, 테슬라 FSD, Anthropic Claude 성능 저하 등",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제가 논의되고 있습니다. 정치인과 사회 문제가 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "쿠팡 정보유출, 하이닉스 블랙웰 도입, 현대차 더 뉴 스타리아 일렉트릭 출시 등",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용 분야"
+      "keyword": "장동혁",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "차관보 임명 논란"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "애플",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "기업의 실적과 산업 동향"
+      "context": "보급형 아이폰 출시"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치인과 사회 문제"
+      "keyword": "테슬라",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "FSD 구현 어려움"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 응용 분야를 연구하고 투자할 필요가 있습니다.",
+      "insight": "정치적 논란이 기업의 브랜드 이미지를 악화시킬 수 있음",
+      "action": "기업의 사회적 책임을 강조하는 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "경제 및 산업 동향을 주목해야 합니다.",
-      "action": "기업의 실적과 산업 동향을 분석하고 전략을 수립해야 합니다.",
+      "insight": "테크 산업의 발전이 경제 성장에 기여할 수 있음",
+      "action": "테크 산업에 대한 투자와 지원 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 응용 분야에 대한 관심이 높아지고 있습니다. 또한, 경제 및 산업 동향이 주목을 받고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 투자할 필요가 있습니다. 또한, 사회 및 정치 관련 주제도 주목을 받고 있으므로, 이러한 트렌드를 고려하여 사업을 운영해야 합니다.",
-  "analyzed_at": "2026-04-25T08:00:34.015Z",
+  "narrative": "최근의 정치적 논란과 테크 산업의 발전이 경제 성장에 미치는 영향에 대한 분석입니다. 정치적 논란은 기업의 브랜드 이미지를 악화시킬 수 있으므로, 기업의 사회적 책임을 강조하는 마케팅 전략 수립이 필요합니다. 또한, 테크 산업의 발전은 경제 성장에 기여할 수 있으므로, 테크 산업에 대한 투자와 지원 강화가 필요합니다.",
+  "analyzed_at": "2026-04-25T09:30:33.799Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
