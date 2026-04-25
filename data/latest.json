@@ -2,24 +2,31 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석이 활발하게 진행되고 있다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 제품 출시",
+      "topic": "자동차 및 기술",
+      "summary": "자동차 및 기술 관련 뉴스와 제품 출시가 주목을 받고 있다.",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 논의되고 있다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -30,38 +37,49 @@
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "정치",
+      "keyword": "경제",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 뉴스"
     },
     {
-      "keyword": "기술",
-      "count": 12,
+      "keyword": "자동차",
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시"
+      "context": "자동차 및 기술 관련 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 및 사회 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 주제에서는 부정적인 의견도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고, 관련 산업에 대한 투자를 고려한다.",
       "priority": "high"
     },
     {
-      "insight": "기술 뉴스의 중요성",
-      "action": "최신 기술 뉴스를 모니터링하고 적용",
+      "insight": "경제 및 금융 관련 뉴스와 분석은 중요한 의사 결정에 영향을 미칠 수 있다.",
+      "action": "경제 및 금융 관련 뉴스와 분석을 주시하고, 관련 산업에 대한 투자를 고려한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "자동차 및 기술 관련 뉴스와 제품 출시는 소비자들의 관심을 끌 수 있다.",
+      "action": "자동차 및 기술 관련 뉴스와 제품 출시를 주시하고, 관련 산업에 대한 투자를 고려한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 다양한 산업에서의 적용이 주를 이루고 있습니다. 정치 관련 뉴스와 의견도 많은 관심을 받고 있습니다. 기술 뉴스와 제품 출시도 중요한 트렌드 중 하나입니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개발하고 최신 기술을 적용하면 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-04-25T11:00:34.145Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 또한, 경제 및 금융 관련 뉴스와 분석이 활발하게 진행되고 있다. 자동차 및 기술 관련 뉴스와 제품 출시도 주목을 받고 있다. 그러나, 일부 주제에서는 부정적인 의견도 존재한다. 따라서, 관련 산업에 대한 투자를 고려하고, 다양한 주제에 대한 주시가 필요하다. 또한, AI 기술의 발전과 관련된 산업에 대한 투자가 중요할 수 있다.",
+  "analyzed_at": "2026-04-25T12:30:33.905Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
