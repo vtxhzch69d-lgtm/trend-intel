@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI 기술의 적용이 증가하고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "국힘 지지율 '15%' 쇼크…'아니다, 40%다'...이진숙 시장 불출마 전망",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 뉴스와 분석이 많은 관심을 받고 있다. 특히, 반도체와 자동차 산업의 동향에 대한 관심이 높다.",
-      "post_count": 12,
-      "sentiment": "neutral",
+      "topic": "테크",
+      "summary": "오픈AI, 챗GPT에 '워크스페이스 에이전트' 도입...'조직형 AI로 전환'",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스와 분석이 일부 관심을 받고 있다. 특히, 정치권의 동향과 사회 문제에 대한 관심이 높다.",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "쿠팡, 정보유출 후 美정관계 로비 확대…부통령실로도 자금",
+      "post_count": 5,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 응용"
+      "context": "테크 및 비즈니스 관련 뉴스"
     },
     {
-      "keyword": "반도체",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "반도체 산업의 동향"
-    },
-    {
-      "keyword": "자동차",
+      "keyword": "국힘",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "자동차 산업의 동향"
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스"
+    },
+    {
+      "keyword": "쿠팡",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 60,
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
-      "action": "AI 기술의 적용을 위한 투자와 연구 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "반도체와 자동차 산업의 동향을 주시하여 시장의 변화를 예측할 수 있다.",
-      "action": "시장 분석과 예측",
+      "insight": "정치적 불안정성",
+      "action": "정치적 리스크 관리",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제적 불안정성",
+      "action": "경제적 리스크 관리",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI 기술의 적용이 증가하고 있으며, 반도체와 자동차 산업의 동향도 많은 관심을 받고 있다. 이러한 트렌드를 분석하여 사업 전략을 수립하고 시장의 변화를 예측할 수 있다. 또한, AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있으므로, AI 기술의 적용을 위한 투자와 연구 개발을 고려할 수 있다.",
-  "analyzed_at": "2026-04-24T23:00:34.107Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치, 테크, 경제 분야에서 다양한 이슈들이 논의되고 있습니다. 정치 분야에서는 국힘 지지율의 급락과 관련된 뉴스가 많은 반면, 테크 분야에서는 AI 기술의 발전과 관련된 뉴스가 많습니다. 경제 분야에서는 쿠팡의 정보유출과 관련된 뉴스가 많습니다. 이러한 트렌드 분석 결과를 통해, 비즈니스 모델 개발과 리스크 관리를 위한 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-25T00:30:33.838Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
