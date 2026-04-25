@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "테크 및 게임",
-      "summary": "최근 출시된 게임 및 테크 제품에 대한 관심이 높다. 특히, 붉은사막과 프레그마타의 결말 이후 DLC 예상 시나리오가 인기 있다.",
-      "post_count": 10,
+      "summary": "최신 기술 및 게임 관련 뉴스와 정보가 주목을 받고 있습니다. 오픈AI, 챗GPT, 테슬라 등이 포함됩니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "삼전닉스 ETF와 애플 보급형 아이폰에 대한 관심이 높다. 또한, 테슬라와 오픈AI의 최신 동향도 주목된다.",
-      "post_count": 8,
-      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "트럼프와 파키스탄에 대한 관심이 높다. 또한, 법왜곡죄와 공무원에 대한 논의도 이루어지고 있다.",
-      "post_count": 6,
-      "sentiment": "mixed",
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 뉴스와 정보가 주목을 받고 있습니다. 삼성SDI, 현대차, 쿠팡 등이 포함됩니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "스포츠 관련 뉴스와 정보가 주목을 받고 있습니다. 토트넘, PSG, 이강인 등이 포함됩니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용에 대한 관심"
-    },
-    {
-      "keyword": "게임",
       "count": 10,
       "sentiment": "positive",
-      "context": "최근 출시된 게임에 대한 관심"
+      "context": "최신 기술 및 게임 관련 뉴스와 정보"
     },
     {
-      "keyword": "테크",
-      "count": 8,
+      "keyword": "테슬라",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "최신 테크 제품과 기술에 대한 관심"
+      "context": "경제 및 산업 관련 뉴스와 정보"
+    },
+    {
+      "keyword": "토트넘",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "스포츠 관련 뉴스와 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적이며 정보에 대한 관심이 높다"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있다",
-      "action": "AI 기술의 적용을 위한 투자와 연구를 강화할 필요가 있다",
+      "insight": "최신 기술 및 게임 관련 뉴스와 정보가 주목을 받고 있습니다.",
+      "action": "관련 제품이나 서비스를 개발하고 홍보하세요.",
       "priority": "high"
     },
     {
-      "insight": "게임과 테크 제품에 대한 관심이 높아지고 있다",
-      "action": "게임과 테크 제품에 대한 마케팅과 홍보를 강화할 필요가 있다",
+      "insight": "경제 및 산업 관련 뉴스와 정보가 주목을 받고 있습니다.",
+      "action": "관련 산업이나 기업을 분석하고 투자하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 게임 및 테크 제품에 대한 관심이 높아지고 있다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으며, 기업들은 이러한 트렌드에 대한 마케팅과 홍보를 강화할 필요가 있다. 또한, AI 기술의 적용을 위한 투자와 연구를 강화할 필요가 있다. 중립적이며 정보에 대한 관심이 높은 현재의 분위기에서, 기업들은 이러한 트렌드에 대한 적극적인 대응이 필요하다.",
-  "analyzed_at": "2026-04-25T18:30:34.549Z",
+  "narrative": "최신 기술 및 게임 관련 뉴스와 정보가 주목을 받고 있습니다. 오픈AI, 챗GPT, 테슬라 등이 포함됩니다. 또한, 경제 및 산업 관련 뉴스와 정보가 주목을 받고 있습니다. 삼성SDI, 현대차, 쿠팡 등이 포함됩니다. 스포츠 관련 뉴스와 정보도 주목을 받고 있습니다. 토트넘, PSG, 이강인 등이 포함됩니다. 이러한 트렌드를 분석하여 관련 제품이나 서비스를 개발하고 홍보하세요. 또한, 관련 산업이나 기업을 분석하고 투자하세요.",
+  "analyzed_at": "2026-04-25T20:00:34.382Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
