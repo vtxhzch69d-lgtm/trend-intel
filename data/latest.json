@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "국힘 지지율 '15%' 쇼크…'아니다, 40%다'...이진숙 시장 불출마 전망",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "오픈AI, 챗GPT에 '워크스페이스 에이전트' 도입...'조직형 AI로 전환'",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 의견",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "쿠팡, 정보유출 후 美정관계 로비 확대…부통령실로도 자금",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "기술 및 제품",
+      "summary": "신제품 출시와 기술 발전",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "테크 및 비즈니스 관련 뉴스"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "국힘",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스"
-    },
-    {
-      "keyword": "쿠팡",
-      "count": 5,
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "negative",
       "context": "경제 관련 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
       "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "action": "AI 기술을 활용한 제품 개발",
       "priority": "high"
     },
     {
-      "insight": "정치적 불안정성",
-      "action": "정치적 리스크 관리",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제적 불안정성",
-      "action": "경제적 리스크 관리",
+      "insight": "경제 및 정치 관련 뉴스",
+      "action": "경제 및 정치 관련 뉴스 모니터링",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치, 테크, 경제 분야에서 다양한 이슈들이 논의되고 있습니다. 정치 분야에서는 국힘 지지율의 급락과 관련된 뉴스가 많은 반면, 테크 분야에서는 AI 기술의 발전과 관련된 뉴스가 많습니다. 경제 분야에서는 쿠팡의 정보유출과 관련된 뉴스가 많습니다. 이러한 트렌드 분석 결과를 통해, 비즈니스 모델 개발과 리스크 관리를 위한 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-25T00:30:33.838Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장입니다. 또한, 경제 및 정치 관련 뉴스와 의견이 많습니다. 이러한 트렌드를 분석하여 AI 기술을 활용한 제품 개발과 경제 및 정치 관련 뉴스 모니터링을 통해 사업을 발전시킬 수 있습니다. 또한, 기술 및 제품 관련 뉴스도 많아 신제품 출시와 기술 발전을 주목해야 합니다.",
+  "analyzed_at": "2026-04-25T02:00:33.500Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
