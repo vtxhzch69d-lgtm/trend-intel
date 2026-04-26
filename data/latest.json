@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 성능 향상, 새로운 모델의 출시, 그리고 이를 활용한 다양한 산업의 발전이 포함됩니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "한국 정치 상황과 지역정치인에 대한 논의",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "경제 및 산업",
+      "summary": "경제와 산업 관련된 주제가 논의되고 있습니다. 기업의 실적, 새로운 제품의 출시, 그리고 산업의 발전이 포함됩니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 제품",
-      "summary": "신제품 출시와 기술 제품에 대한 논의",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "사회 및 정치",
+      "summary": "사회와 정치 관련된 주제가 논의되고 있습니다. 정치인들의 활동, 사회 문제, 그리고 정치적인 사건들이 포함됩니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 관련된 주제"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제와 산업 관련된 주제"
     },
     {
       "keyword": "정치",
-      "count": 10,
+      "count": 8,
       "sentiment": "mixed",
-      "context": "한국 정치 상황"
-    },
-    {
-      "keyword": "기술",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "신제품 출시와 기술 제품"
+      "context": "사회와 정치 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 발전을 촉진할 수 있습니다.",
+      "action": "AI 기술을 활용한 새로운 제품이나 서비스를 개발합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 상황은 소비자 행동에 영향을 줄 수 있다",
-      "action": "정치 상황을 고려한 마케팅 전략 개발",
-      "priority": "medium"
-    },
-    {
-      "insight": "신제품 출시는 소비자에게 새로운 기회를 제공할 수 있다",
-      "action": "신제품 출시를 위한 마케팅 캠페인 개발",
+      "insight": "경제와 산업의 발전은 사회와 정치적인 요인에 의해 영향을 받을 수 있습니다.",
+      "action": "경제와 산업의 동향을 주시하고, 사회와 정치적인 요인에 대한 분석을 수행합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 산업의 변화가 주목을 끌고 있습니다. 또한, 한국 정치 상황과 지역정치인에 대한 논의도 활발하게 진행되고 있습니다. 기술 제품에 대한 논의도 많으며, 신제품 출시와 기술 제품에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 고려한 비즈니스 전략을 개발하여 소비자에게 새로운 기회를 제공할 수 있습니다.",
-  "analyzed_at": "2026-04-26T12:30:33.891Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 주를 이루고 있습니다. AI 기술의 성능 향상, 새로운 모델의 출시, 그리고 이를 활용한 다양한 산업의 발전이 포함됩니다. 또한, 경제와 산업 관련된 주제도 논의되고 있습니다. 이러한 트렌드는 기업과 마케터에게 새로운 기회와 도전을 제공할 수 있습니다. 따라서, AI 기술을 활용한 새로운 제품이나 서비스를 개발하고, 경제와 산업의 동향을 주시하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-26T14:00:34.973Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
