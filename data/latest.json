@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와議論이 진행 중이다. AI의 발전은 다양한 산업에 영향을 미치고 있다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있습니다. 특히, 딥시크의 새로운 모델과 오픈AI의 챗GPT 업데이트가 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제와 정치 관련된 뉴스와議論이 진행 중이다. 최근의 경제 상황과 정치적 이슈가 주목을 받고 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "경제 및 산업",
+      "summary": "경제와 산업 관련된 주제들이 논의되고 있습니다. 특히, 정부의 AI시대 대응책과 기업들의 기술 개발이 주목을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "신제품 출시와 기술 발전 관련된 뉴스와議論이 진행 중이다. 새로운 기술과 제품이 주목을 받고 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "사회 및 정치",
+      "summary": "사회와 정치 관련된 주제들이 논의되고 있습니다. 특히, 정부의 정책과 정치인들의 활동이 주목을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된議論"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "경제",
-      "count": 10,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "경제 상황과 관련된 뉴스"
+      "context": "경제와 산업 관련된 주제"
     },
     {
-      "keyword": "신제품",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "신제품 출시와 관련된 뉴스"
+      "keyword": "정부",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정부의 정책과 활동"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "negative": 20,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미친다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 기업들의 경쟁력을 높일 수 있습니다.",
+      "action": "AI 기술을 도입하고 개발하여 경쟁력을 높입니다.",
       "priority": "high"
     },
     {
-      "insight": "신제품 출시는 소비자들의 관심을 끌 수 있다.",
-      "action": "신제품 출시와 관련된 마케팅 전략 개발",
+      "insight": "정부의 정책은 경제와 산업에 큰 영향을 미칩니다.",
+      "action": "정부의 정책을 주시하고 대응책을 마련합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된議論이 주목을 받고 있다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있으며, 신제품 출시와 기술 발전 관련된 뉴스도 주목을 받고 있다. 경제와 정치 관련된 뉴스도 진행 중이다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델 개발과 마케팅 전략 개발을 위한 인사이트를 얻을 수 있다.",
-  "analyzed_at": "2026-04-26T15:30:34.482Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제들이 주목을 받고 있습니다. 특히, 딥시크의 새로운 모델과 오픈AI의 챗GPT 업데이트가 주목을 받고 있습니다. 또한, 경제와 산업 관련된 주제들이 논의되고 있습니다. 특히, 정부의 AI시대 대응책과 기업들의 기술 개발이 주목을 받고 있습니다. 이러한 트렌드를 통해 기업들은 AI 기술을 도입하고 개발하여 경쟁력을 높일 수 있습니다. 또한, 정부의 정책을 주시하고 대응책을 마련하여 경제와 산업에 큰 영향을 미칠 수 있습니다.",
+  "analyzed_at": "2026-04-26T18:30:33.952Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
