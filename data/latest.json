@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI의 발전과 적용에 대한 관심이 높아지고 있습니다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 обсужд되고 있습니다. 특히, AI 모델의 성능 개선과 새로운 기술의 개발이 주목을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "클리앙 커뮤니티에서 부동산 시장 관련 게시글이 많이 올라왔습니다. 집값 안정과 공급 확대에 대한 관심이 높아지고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "경제 및 정치",
+      "summary": "경제와 정치 관련된 주제들이 활발하게 обсужд되고 있습니다. 특히, 정부의 정책과 경제 동향이 주목을 받고 있습니다.",
+      "post_count": 12,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "클리앙 커뮤니티에서 정치 및 사회 관련 게시글이 많이 올라왔습니다. 정치와 사회에 대한 관심이 높아지고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "기술 및 가전",
+      "summary": "새로운 기술과 가전 제품에 대한 주제들이 обсужд되고 있습니다. 특히, 최신 스마트폰과 헤드폰에 대한 리뷰와 비교가 주목을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
-      "keyword": "부동산",
+      "keyword": "경제",
       "count": 15,
       "sentiment": "neutral",
-      "context": "집값 안정과 공급 확대"
+      "context": "경제와 정치 관련된 주제"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치와 사회에 대한 관심"
+      "keyword": "스마트폰",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 스마트폰에 대한 리뷰와 비교"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "중립적"
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주목하고, 이를 활용한 새로운 비즈니스 모델을 개발해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 안정",
-      "action": "부동산 시장의 동향을 분석하고 대응 전략을 개발",
+      "insight": "경제와 정치 관련된 주제는 항상 관심을 끌 수 있습니다.",
+      "action": "경제와 정치 관련된 주제에 대한 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 및 사회의 영향",
-      "action": "정치 및 사회의 동향을 분석하고 대응 전략을 개발",
-      "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 AI 기술, 부동산 시장, 정치 및 사회 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 적용, 부동산 시장의 안정, 정치 및 사회의 영향에 대한 관심이 높아지고 있습니다. 이러한 관심을 바탕으로 비즈니스 모델을 개발하고 대응 전략을 수립하는 것이 중요합니다. 또한, 클리앙 커뮤니티의 동향을 분석하고 이해하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-26T05:00:34.188Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 경제 및 정치 관련된 주제가 주목을 받고 있습니다. 이러한 트렌드를 활용하여 새로운 비즈니스 모델을 개발하고, 사용자의 관심을 끌 수 있는 콘텐츠를 제공해야 합니다. 또한, 최신 기술과 가전 제품에 대한 리뷰와 비교를 제공하여 사용자의 니즈를 충족시켜야 합니다.",
+  "analyzed_at": "2026-04-26T06:30:33.952Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
