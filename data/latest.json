@@ -2,24 +2,31 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 동향과 관련된 다양한 주제가 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 관련된 다양한 주제가 논의되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "neutral",
+      "topic": "테크 및 가전",
+      "summary": "최신 테크 및 가전 제품 뉴스",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "low"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 뉴스와 논평",
+      "post_count": 7,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -30,43 +37,49 @@
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "주식",
+      "keyword": "경제",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "주식 시장의 동향"
+      "sentiment": "neutral",
+      "context": "경제 뉴스와 분석"
     },
     {
-      "keyword": "기술",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "최신 기술 뉴스"
+      "keyword": "테크",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 테크 제품 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "사회 및 정치 뉴스와 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기입니다."
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있다",
       "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 동향은 경제에 큰 영향을 미칩니다.",
-      "action": "주식 시장의 동향을 분석하고 대응策을 마련합니다.",
+      "insight": "경제 및 금융 뉴스는 비즈니스에 중요한 영향을 미친다",
+      "action": "경제 및 금융 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술 뉴스는 비즈니스에 큰 영향을 미칠 수 있습니다.",
-      "action": "최신 기술 뉴스를 분석하고 비즈니스에 적용합니다.",
+      "insight": "테크 및 가전 제품은 소비자의 관심을 끌 수 있다",
+      "action": "최신 테크 및 가전 제품에 대한 마케팅 전략 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있습니다. 이는 AI 기술의 발전이 다양한 산업에 영향을 미칠 것으로 예상되기 때문입니다. 또한, 주식 시장의 동향과 관련된 주제도 많이 논의되고 있습니다. 이는 주식 시장의 동향이 경제에 큰 영향을 미치기 때문입니다. 최신 기술 뉴스와 관련된 주제도 많이 논의되고 있습니다. 이는 최신 기술 뉴스가 비즈니스에 큰 영향을 미칠 수 있기 때문입니다. 따라서, 비즈니스에서는 AI 기술의 발전과 주식 시장의 동향, 최신 기술 뉴스를 분석하고 대응策을 마련하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-25T23:00:34.022Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목을 끌고 있다. 또한, 경제 및 금융 뉴스와 분석은 비즈니스에 중요한 영향을 미치고 있다. 테크 및 가전 제품은 소비자의 관심을 끌 수 있는 기회를 제공한다. 이러한 트렌드를 고려하여 비즈니스 전략을 개발하고, 최신 뉴스와 분석을 모니터링하는 것이 중요하다. 또한, AI 기술을 활용한 비즈니스 모델 개발과 최신 테크 및 가전 제품에 대한 마케팅 전략 개발을 통해 경쟁력을 높일 수 있다.",
+  "analyzed_at": "2026-04-26T00:30:33.991Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
