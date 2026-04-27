@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 혁신",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제가 많이 논의되고 있다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "주식 시장",
+      "summary": "코스피200 ETF의 상승과 주식 투자에 대한 관심",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제가 논의되고 있다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "summary": "현재의 정치 및 사회 현안에 대한 논의",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 산업 혁신"
     },
     {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 주제"
+      "keyword": "주식",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "주식 투자와 시장 동향"
     },
     {
       "keyword": "정치",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 및 사회 관련 주제"
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "현재의 정치 현안과 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "관심과 논의가 있는 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 혁신을 가져올 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융의 불안정성",
-      "action": "경제 및 금융 관련 리스크 관리",
+      "insight": "주식 시장의 상승은 투자 기회를 제공할 수 있다",
+      "action": "주식 투자에 대한 교육과 컨설팅 제공",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 및 사회의 불안정성",
-      "action": "정치 및 사회 관련 리스크 관리",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 많이 논의되고 있다. 또한, 경제 및 금융 관련 주제와 정치 및 사회 관련 주제도 많이 논의되고 있다. 이러한 트렌드에 따라, 비즈니스 모델 개발과 리스크 관리를 위한 전략을 수립하는 것이 중요하다. 특히, AI 기술의 발전을 활용한 비즈니스 모델 개발과 경제 및 금융 관련 리스크 관리가 필요하다. 또한, 정치 및 사회 관련 리스크 관리도 중요하다.",
-  "analyzed_at": "2026-04-27T06:30:34.150Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술과 주식 시장, 정치 및 사회 현안이 주목을 받고 있는 것으로 나타났다. AI 기술의 발전은 다양한 산업의 혁신을 가져올 수 있으며, 주식 시장의 상승은 투자 기회를 제공할 수 있다. 그러나 정치 및 사회 현안에 대한 논의는 복잡하고 다양한 의견이 존재한다. 이러한 트렌드에 대한 이해와 분석은 비즈니스와 마케팅 전략의 개발에 중요한 역할을 할 수 있다.",
+  "analyzed_at": "2026-04-27T08:00:33.987Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
