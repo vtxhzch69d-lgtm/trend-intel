@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심이 높아지고 있습니다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 특히, AI의 발전과 관련된 기업들의 움직임이 주목을 받고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "부동산",
-      "summary": "부동산 관련 게시글도 많이 올라왔습니다. 주택 시장이 안정될 것인지, 임대비율이 낮춰질 것인지에 대한 관심이 많습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련 게시글도 올라왔습니다. 최근 정치 상황에 대한 관심이 많습니다.",
+      "summary": "정치 관련된 주제가 논의되고 있습니다. 특히, 정치인들의 움직임과 관련된 뉴스가 주목을 받고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련된 주제가 논의되고 있습니다. 특히, 기업들의 움직임과 관련된 뉴스가 주목을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "주택 시장이 안정될 것인지"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "정치",
       "count": 15,
       "sentiment": "mixed",
-      "context": "最近 정치 상황"
+      "context": "정치 관련된 주제"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 30,
     "negative": 20,
-    "neutral": 30,
+    "neutral": 50,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신규 서비스 개발",
+      "insight": "AI 기술의 발전은 기업들의 경쟁력에 큰 영향을 미칠 수 있습니다.",
+      "action": "AI 기술을 활용하여 경쟁력을 높이는 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 안정",
-      "action": "부동산 시장의 동향을 분석하고, 안정적인 투자 전략을 수립",
+      "insight": "정치 관련된 주제는 기업들의 움직임에 큰 영향을 미칠 수 있습니다.",
+      "action": "정치 관련된 뉴스를 주목하고 기업들의 움직임을 예측해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "정치 상황의 변화",
-      "action": "정치 상황의变化를 분석하고, 이를 반영한 마케팅 전략을 수립",
+      "insight": "경제 관련된 주제는 기업들의 움직임에 큰 영향을 미칠 수 있습니다.",
+      "action": "경제 관련된 뉴스를 주목하고 기업들의 움직임을 예측해야 합니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술, 부동산, 정치 등 다양한 주제의 게시글이 많이 올라왔습니다. AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심이 높아지고 있습니다. 또한, 부동산 시장의 안정과 정치 상황의 변화에 대한 관심도 많습니다. 이러한 트렌드를 반영한 마케팅 전략을 수립하여, 소비자의 관심을 끌고, 시장의 동향을 선도할 수 있습니다.",
-  "analyzed_at": "2026-04-27T18:30:34.657Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 주목을 받고 있습니다. 특히, AI 기술의 발전과 관련된 기업들의 움직임이 주목을 받고 있습니다. 또한, 정치 관련된 주제도 논의되고 있습니다. 기업들은 이러한 트렌드를 주목하고 경쟁력을 높이는 전략을 수립해야 합니다. 특히, AI 기술을 활용하여 경쟁력을 높이는 전략을 수립해야 합니다. 또한, 정치 관련된 뉴스를 주목하고 기업들의 움직임을 예측해야 합니다. 경제 관련된 주제도 주목해야 합니다. 이러한 트렌드를 주목하고 기업들의 움직임을 예측하면 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-04-27T20:00:33.838Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
