@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 시장",
-      "summary": "부동산 시장의 현황과 전망에 대한 논의가 활발하다. 주택난과 전세가에 대한 우려가 제기되고 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 변화에 대한 관심이 높다. AI 모델의 성능과 응용 가능성에 대한 논의가 진행되고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제가 많이 논의되고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제와 정치",
-      "summary": "경제와 정치에 대한 논의가 활발하다. 정부의 정책과 경제 동향에 대한 관심이 높다.",
-      "post_count": 12,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 논의되고 있다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "주택난과 전세가에 대한 우려"
-    },
-    {
       "keyword": "AI",
-      "count": 25,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용 가능성"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "경제",
       "count": 15,
       "sentiment": "neutral",
-      "context": "정부의 정책과 경제 동향"
+      "context": "경제 및 금융 관련 주제"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 및 사회 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 25,
-    "neutral": 20,
-    "overall_mood": "부동산 시장과 경제에 대한 우려가 있지만, AI 기술의 발전에 대한 기대가 높다."
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "부동산 시장의 변화를 주시하고, 이를 활용한 새로운 비즈니스 모델을 개발할 필요가 있다.",
-      "action": "부동산 시장의 동향을 분석하고, 새로운 비즈니스 모델을 개발한다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전을 주시하고, 이를 활용한 새로운 산업의 창출을 도모할 필요가 있다.",
-      "action": "AI 기술의 동향을 분석하고, 새로운 산업의 창출을 지원한다.",
+      "insight": "경제 및 금융의 불안정성",
+      "action": "경제 및 금융 관련 리스크 관리",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 및 사회의 불안정성",
+      "action": "정치 및 사회 관련 리스크 관리",
+      "priority": "high"
     }
   ],
-  "narrative": "부동산 시장과 경제에 대한 우려가 있지만, AI 기술의 발전에 대한 기대가 높다. 부동산 시장의 변화를 주시하고, 이를 활용한 새로운 비즈니스 모델을 개발할 필요가 있다. 또한, AI 기술의 발전을 주시하고, 이를 활용한 새로운 산업의 창출을 도모할 필요가 있다. 이러한 동향을 주시하고, 새로운 비즈니스 기회를 창출하기 위해 지속적인 분석과 개발이 필요하다.",
-  "analyzed_at": "2026-04-27T05:00:33.760Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 많이 논의되고 있다. 또한, 경제 및 금융 관련 주제와 정치 및 사회 관련 주제도 많이 논의되고 있다. 이러한 트렌드에 따라, 비즈니스 모델 개발과 리스크 관리를 위한 전략을 수립하는 것이 중요하다. 특히, AI 기술의 발전을 활용한 비즈니스 모델 개발과 경제 및 금융 관련 리스크 관리가 필요하다. 또한, 정치 및 사회 관련 리스크 관리도 중요하다.",
+  "analyzed_at": "2026-04-27T06:30:34.150Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
