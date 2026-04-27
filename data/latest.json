@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다.",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. 특히 Anthropic, Claude, 구글 딥마인드 등 관련 기업과 기술에 대한 관심이 높아졌습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제와 정치 관련된 주제가 많이 논의되고 있습니다. 최근 경제 상황과 정치적인 이슈가 많은 관심을 받고 있습니다.",
-      "post_count": 12,
-      "sentiment": "negative",
+      "topic": "부동산",
+      "summary": "부동산 관련 게시글도 많이 올라왔습니다. 특히 강북 재건축 임대비율과 관련된 게시글이 관심을 모았습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "새로운 기술과 가전 제품에 대한 관심이 많습니다. 최근 출시된 제품과 기술에 대한 리뷰와 논의가 활발하게 진행되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치 관련 게시글도 올라왔습니다. 특히 하정우 수석과 관련된 게시글이 관심을 모았습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,52 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "context": "AI 기술과 관련된 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "경제 상황과 관련된 주제"
-    },
-    {
-      "keyword": "정치",
+      "keyword": "부동산",
       "count": 10,
-      "sentiment": "negative",
-      "context": "정치적인 이슈와 관련된 주제"
+      "sentiment": "neutral",
+      "context": "부동산 관련 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "가전",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "새로운 가전 제품에 대한 리뷰와 논의"
+      "keyword": "하정우",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 관련 게시글에서 많이 언급되었습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정들이 공존하는 것으로 나타났습니다."
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "관심과 호기심이 많은 분위기입니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고 이를 활용할 수 있는 방안을 모색하세요.",
+      "insight": "AI 기술에 대한 관심이 높아지고 있습니다.",
+      "action": "AI 기술을 활용한 서비스 개발을 고려해 보세요.",
       "priority": "high"
     },
     {
-      "insight": "경제 상황과 정치적인 이슈는 소비자들의 구매 결정에 영향을 미칠 수 있습니다.",
-      "action": "경제 상황과 정치적인 이슈를 주시하고 이를 고려한 마케팅 전략을 수립하세요.",
+      "insight": "부동산 관련 게시글이 많이 올라왔습니다.",
+      "action": "부동산 관련 서비스를 개발하거나 마케팅을 강화해 보세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "새로운 가전 제품에 대한 리뷰와 논의는 소비자들의 관심을 끌 수 있습니다.",
-      "action": "새로운 가전 제품에 대한 리뷰와 논의를 주시하고 이를 활용한 마케팅 전략을 수립하세요.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 많은 관심을 받고 있습니다. 또한, 경제 상황과 정치적인 이슈도 많은 관심을 받고 있습니다. 이러한 트렌드들을 고려한 마케팅 전략을 수립하여 소비자들의 관심을 끌 수 있습니다. 또한, 새로운 가전 제품에 대한 리뷰와 논의를 주시하고 이를 활용한 마케팅 전략을 수립하여 소비자들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-04-27T15:30:34.195Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술과 부동산 관련 게시글이 많이 올라왔습니다. 특히 Anthropic, Claude, 구글 딥마인드 등 관련 기업과 기술에 대한 관심이 높아졌습니다. 또한 부동산 관련 게시글도 많이 올라왔습니다. 특히 강북 재건축 임대비율과 관련된 게시글이 관심을 모았습니다. 이러한 관심과 호기심을 고려하여 AI 기술을 활용한 서비스 개발이나 부동산 관련 서비스 개발을 고려해 보세요. 또한 정치 관련 게시글도 올라왔습니다. 특히 하정우 수석과 관련된 게시글이 관심을 모았습니다. 이러한 관심을 고려하여 정치 관련 서비스 개발이나 마케팅을 강화해 보세요.",
+  "analyzed_at": "2026-04-27T17:00:34.119Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
