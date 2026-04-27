@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심이 높아지고 있다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있으며, 이를 통해 새로운 기회와 도전이 나타나고 있다.",
-      "post_count": 20,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 분석이 많은 관심을 받고 있다. 최근 경제 상황과 금융 정책에 대한 논의가 활발하게 진행되고 있다.",
+      "summary": "AI 기술의 발전과 이를 둘러싼 다양한 의견이 커뮤니티에서 논의되고 있다. AI의 발전이 인간의 일자리를 대체할 수 있는지에 대한 우려와 함께, AI의 잠재적인ประโยชน에 대한 기대도 존재한다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "최신 기술과 가전 제품에 대한 관심이 높아지고 있다. 새로운 기술의 등장과 기존 기술의 발전이 소비자들의 관심을 끌고 있다.",
+      "topic": "정치 및 사회 문제",
+      "summary": "정치 및 사회 문제에 대한 논의가 커뮤니티에서 활발히 진행되고 있다. 정치인에 대한 평가와 다양한 사회 문제에 대한 의견이 교환되고 있다.",
       "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 산업 동향",
+      "summary": "최신 기술 및 산업 동향에 대한 정보가 커뮤니티에서 공유되고 있다. 새로운 기술의 개발과 산업의 변화에 대한 관심이 높다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 30,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 그에 따른 사회적 영향"
-    },
-    {
-      "keyword": "경제",
       "count": 20,
-      "sentiment": "negative",
-      "context": "最近 경제 상황과 금융 정책에 대한 논의"
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 이를 둘러싼 다양한 의견"
     },
     {
-      "keyword": "삼성",
+      "keyword": "정치",
       "count": 10,
+      "sentiment": "negative",
+      "context": "정치인에 대한 평가와 다양한 사회 문제"
+    },
+    {
+      "keyword": "기술",
+      "count": 8,
       "sentiment": "positive",
-      "context": "삼성의 최신 기술과 제품에 대한 관심"
+      "context": "최신 기술 및 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미치고 있다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 통해 새로운 기회를 찾는 것이 중요하다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 새로운 비즈니스 기회를 찾는다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스와 분석이 많은 관심을 받고 있다.",
-      "action": "경제 및 금융 관련 뉴스와 분석을 주시하고, 이를 통해 최신 정보를 얻는 것이 중요하다.",
+      "insight": "정치 및 사회 문제는 소비자의 의견과 행동에 영향을 미칠 수 있다.",
+      "action": "정치 및 사회 문제에 대한 의견을 수집하고, 이를 활용하여 마케팅 전략을 수립한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술과 가전 제품에 대한 관심이 높아지고 있다.",
-      "action": "최신 기술과 가전 제품에 대한 정보를 주시하고, 이를 통해 새로운 기회를 찾는 것이 중요하다.",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드와 분석 결과를 바탕으로, AI 기술의 발전과 그에 따른 사회적 영향, 경제 및 금융 관련 뉴스와 분석, 최신 기술과 가전 제품에 대한 관심이 높아지고 있는 것을 알 수 있다. 이러한 트렌드와 분석 결과를 통해, 새로운 기회와 도전을 찾고, 최신 정보를 얻는 것이 중요하다. 또한, 이러한 트렌드와 분석 결과를 바탕으로, 사업 전략을 수립하고, 새로운 기회를 찾는 것이 중요하다.",
-  "analyzed_at": "2026-04-27T12:30:33.904Z",
+  "narrative": "커뮤니티에서 논의되는 주제는 다양하지만, AI 기술과 정치 및 사회 문제가 주를 이루고 있다. 이러한 주제는 소비자의 의견과 행동에 영향을 미칠 수 있으므로, 기업은 이러한 주제에 대한 의견을 수집하고, 이를 활용하여 마케팅 전략을 수립해야 한다. 또한, AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으므로, 기업은 AI 기술의 발전을 주시하고, 이를 활용하여 새로운 비즈니스 기회를 찾는 것이 중요하다.",
+  "analyzed_at": "2026-04-27T14:00:35.435Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
