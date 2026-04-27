@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논평이 많습니다. 조국 대표와 용인시장 선거 등이 주요 주제입니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 뉴스와 논평이 많습니다. 구글의 AI 캠퍼스 개소와 Anthropic의 성능 저하 등이 주요 주제입니다.",
+      "topic": "AI 기술 개발",
+      "summary": "AI 기술의 발전과 그로 인한 다양한 산업의 변화",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 논평이 많습니다. 주식과 부동산 등이 주요 주제입니다.",
+      "topic": "부동산 정책",
+      "summary": "부동산 정책의 변화와 그로 인한 사회적 영향",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 선거",
+      "summary": "최근의 정치 및 선거 관련 뉴스와 논평",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스와 논평"
+      "context": "AI 기술의 발전과 그로 인한 다양한 산업의 변화"
     },
     {
-      "keyword": "정치",
-      "count": 15,
+      "keyword": "부동산",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "부동산 정책의 변화와 그로 인한 사회적 영향"
+    },
+    {
+      "keyword": "선거",
+      "count": 8,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논평"
-    },
-    {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "주식과 경제 관련 뉴스와 논평"
+      "context": "최근의 정치 및 선거 관련 뉴스와 논평"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "negative": 25,
+    "neutral": 20,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 경제와 정치에 미치는 영향",
-      "action": "AI 기술의 발전을 주시하고 이를 경제와 정치에 적용하는 방안을 모색",
+      "insight": "AI 기술의 발전은 다양한 산업의 변화를 가져올 수 있다",
+      "action": "AI 기술의 발전을 주시하고 그로 인한 기회를 찾는다",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 논평의 증가",
-      "action": "정치 관련 뉴스와 논평을 주시하고 이를 분석하여 시사점을 도출",
+      "insight": "부동산 정책의 변화는 사회적 영향을 미칠 수 있다",
+      "action": "부동산 정책의 변화를 주시하고 그로 인한 위험을 관리한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 정치 관련 뉴스와 논평이 주요 주제로 나타났습니다. AI 기술의 발전은 경제와 정치에 미치는 영향이 크므로 이를 주시하고 이를 경제와 정치에 적용하는 방안을 모색해야 합니다. 또한, 정치 관련 뉴스와 논평의 증가로 인해 정치와 경제의 상관관계를 분석하여 시사점을 도출할 필요가 있습니다. 이러한 분석 결과를 바탕으로, 경제와 정치의 트렌드를 예측하고 이를 사업에 적용하여 성과를 도출할 수 있을 것입니다.",
-  "analyzed_at": "2026-04-27T09:30:34.276Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 AI 기술의 발전과 부동산 정책의 변화가 주를 이루고 있다. AI 기술의 발전은 다양한 산업의 변화를 가져올 수 있으며, 부동산 정책의 변화는 사회적 영향을 미칠 수 있다. 또한, 최근의 정치 및 선거 관련 뉴스와 논평도 많은 관심을 받고 있다. 이러한 트렌드를 주시하고 그로 인한 기회와 위험을 관리하는 것이 중요하다.",
+  "analyzed_at": "2026-04-27T11:00:34.629Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
