@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 혁신",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 논평이 많습니다. 조국 대표와 용인시장 선거 등이 주요 주제입니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 뉴스와 논평이 많습니다. 구글의 AI 캠퍼스 개소와 Anthropic의 성능 저하 등이 주요 주제입니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "코스피200 ETF의 상승과 주식 투자에 대한 관심",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "현재의 정치 및 사회 현안에 대한 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 논평이 많습니다. 주식과 부동산 등이 주요 주제입니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업 혁신"
-    },
-    {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "주식 투자와 시장 동향"
+      "context": "AI 기술의 발전과 관련된 뉴스와 논평"
     },
     {
       "keyword": "정치",
-      "count": 12,
+      "count": 15,
       "sentiment": "mixed",
-      "context": "현재의 정치 현안과 논의"
+      "context": "정치 관련 뉴스와 논평"
+    },
+    {
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "주식과 경제 관련 뉴스와 논평"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "관심과 논의가 있는 분위기"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 혁신을 가져올 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전이 경제와 정치에 미치는 영향",
+      "action": "AI 기술의 발전을 주시하고 이를 경제와 정치에 적용하는 방안을 모색",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 상승은 투자 기회를 제공할 수 있다",
-      "action": "주식 투자에 대한 교육과 컨설팅 제공",
+      "insight": "정치 관련 뉴스와 논평의 증가",
+      "action": "정치 관련 뉴스와 논평을 주시하고 이를 분석하여 시사점을 도출",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술과 주식 시장, 정치 및 사회 현안이 주목을 받고 있는 것으로 나타났다. AI 기술의 발전은 다양한 산업의 혁신을 가져올 수 있으며, 주식 시장의 상승은 투자 기회를 제공할 수 있다. 그러나 정치 및 사회 현안에 대한 논의는 복잡하고 다양한 의견이 존재한다. 이러한 트렌드에 대한 이해와 분석은 비즈니스와 마케팅 전략의 개발에 중요한 역할을 할 수 있다.",
-  "analyzed_at": "2026-04-27T08:00:33.987Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 정치 관련 뉴스와 논평이 주요 주제로 나타났습니다. AI 기술의 발전은 경제와 정치에 미치는 영향이 크므로 이를 주시하고 이를 경제와 정치에 적용하는 방안을 모색해야 합니다. 또한, 정치 관련 뉴스와 논평의 증가로 인해 정치와 경제의 상관관계를 분석하여 시사점을 도출할 필요가 있습니다. 이러한 분석 결과를 바탕으로, 경제와 정치의 트렌드를 예측하고 이를 사업에 적용하여 성과를 도출할 수 있을 것입니다.",
+  "analyzed_at": "2026-04-27T09:30:34.276Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
