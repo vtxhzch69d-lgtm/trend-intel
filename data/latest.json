@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "하정우와 전은수 출마 관련 뉴스",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 반도체 관련 뉴스",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "신혼부부 평균 소득",
+      "summary": "서울 9,388만원, 세종 8,153만원 등 전국 지역별 신혼부부 평균 소득이 공개되었습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "고유가와 구매확정 관련 뉴스",
-      "post_count": 5,
+      "topic": "선거유세 중 음료수 공격",
+      "summary": "개혁신당 정이한 부산시장 후보가 선거유세 중 음료수 공격을 받았습니다.",
+      "post_count": 2,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "high"
+    },
+    {
+      "topic": "김어준 관련 논란",
+      "summary": "김어준 관련 논란이 클리앙 커뮤니티에서 논란이 되고 있습니다.",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "하정우",
+      "keyword": "신혼부부",
       "count": 5,
       "sentiment": "neutral",
-      "context": "정치 뉴스"
+      "context": "전국 지역별 신혼부부 평균 소득"
     },
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 뉴스"
+      "keyword": "김어준",
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "김어준 관련 논란"
     },
     {
-      "keyword": "고유가",
+      "keyword": "선거유세",
       "count": 3,
       "sentiment": "negative",
-      "context": "경제 뉴스"
+      "context": "선거유세 중 음료수 공격"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 30,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 기술은 현재 트렌드의 핵심",
-      "action": "관련 뉴스와 키워드에 주목",
-      "priority": "high"
+      "insight": "신혼부부 평균 소득에 대한 관심이 높아지고 있습니다.",
+      "action": "신혼부부를 타겟으로 하는 마케팅 전략을 수립하세요.",
+      "priority": "medium"
     },
     {
-      "insight": "경제 뉴스는 부정적인 감정으로 가득 차 있다",
-      "action": "고유가와 구매확정 관련 문제 해결을 위한 대책 마련",
-      "priority": "medium"
+      "insight": "김어준 관련 논란이 클리앙 커뮤니티에서 논란이 되고 있습니다.",
+      "action": "김어준 관련 논란에 대한 대응 전략을 수립하세요.",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 트렌드는 정치와 기술을 중심으로 돌아가고 있습니다. 하정우와 전은수 출마 관련 뉴스가 정치 분야에서 큰 이슈로 부상하고 있으며, AI와 반도체 관련 뉴스가 기술 분야에서 주목을 받고 있습니다. 경제 분야에서는 고유가와 구매확정 관련 문제가 부정적인 감정으로 가득 차 있습니다. 이러한 트렌드와 키워드를 분석하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-04-27T00:30:34.322Z",
+  "narrative": "클리앙 커뮤니티에서 신혼부부 평균 소득, 선거유세 중 음료수 공격, 김어준 관련 논란 등 다양한 주제가 논란이 되고 있습니다. 이러한 주제에 대한 관심과 논란은 마케터에게 새로운 기회와 도전을 제공합니다. 신혼부부를 타겟으로 하는 마케팅 전략을 수립하고, 김어준 관련 논란에 대한 대응 전략을 수립하여 효과적인 마케팅 활동을 수행할 수 있습니다.",
+  "analyzed_at": "2026-04-27T02:00:33.263Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
