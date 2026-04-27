@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. 특히 Anthropic, Claude, 구글 딥마인드 등 관련 기업과 기술에 대한 관심이 높아졌습니다.",
+      "summary": "최근 클리앙 커뮤니티에서 AI 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심이 높아지고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "부동산",
-      "summary": "부동산 관련 게시글도 많이 올라왔습니다. 특히 강북 재건축 임대비율과 관련된 게시글이 관심을 모았습니다.",
-      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
+      "topic": "부동산",
+      "summary": "부동산 관련 게시글도 많이 올라왔습니다. 주택 시장이 안정될 것인지, 임대비율이 낮춰질 것인지에 대한 관심이 많습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
       "topic": "정치",
-      "summary": "정치 관련 게시글도 올라왔습니다. 특히 하정우 수석과 관련된 게시글이 관심을 모았습니다.",
-      "post_count": 5,
+      "summary": "정치 관련 게시글도 올라왔습니다. 최근 정치 상황에 대한 관심이 많습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 게시글에서 많이 언급되었습니다."
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "부동산",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "부동산 관련 게시글에서 많이 언급되었습니다."
+      "sentiment": "negative",
+      "context": "주택 시장이 안정될 것인지"
     },
     {
-      "keyword": "하정우",
-      "count": 5,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "mixed",
-      "context": "정치 관련 게시글에서 많이 언급되었습니다."
+      "context": "最近 정치 상황"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "관심과 호기심이 많은 분위기입니다."
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술에 대한 관심이 높아지고 있습니다.",
-      "action": "AI 기술을 활용한 서비스 개발을 고려해 보세요.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 신규 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "부동산 관련 게시글이 많이 올라왔습니다.",
-      "action": "부동산 관련 서비스를 개발하거나 마케팅을 강화해 보세요.",
+      "insight": "부동산 시장의 안정",
+      "action": "부동산 시장의 동향을 분석하고, 안정적인 투자 전략을 수립",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 상황의 변화",
+      "action": "정치 상황의变化를 분석하고, 이를 반영한 마케팅 전략을 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술과 부동산 관련 게시글이 많이 올라왔습니다. 특히 Anthropic, Claude, 구글 딥마인드 등 관련 기업과 기술에 대한 관심이 높아졌습니다. 또한 부동산 관련 게시글도 많이 올라왔습니다. 특히 강북 재건축 임대비율과 관련된 게시글이 관심을 모았습니다. 이러한 관심과 호기심을 고려하여 AI 기술을 활용한 서비스 개발이나 부동산 관련 서비스 개발을 고려해 보세요. 또한 정치 관련 게시글도 올라왔습니다. 특히 하정우 수석과 관련된 게시글이 관심을 모았습니다. 이러한 관심을 고려하여 정치 관련 서비스 개발이나 마케팅을 강화해 보세요.",
-  "analyzed_at": "2026-04-27T17:00:34.119Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술, 부동산, 정치 등 다양한 주제의 게시글이 많이 올라왔습니다. AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심이 높아지고 있습니다. 또한, 부동산 시장의 안정과 정치 상황의 변화에 대한 관심도 많습니다. 이러한 트렌드를 반영한 마케팅 전략을 수립하여, 소비자의 관심을 끌고, 시장의 동향을 선도할 수 있습니다.",
+  "analyzed_at": "2026-04-27T18:30:34.657Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
