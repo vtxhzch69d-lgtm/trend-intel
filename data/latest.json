@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 обсужд되고 있습니다. AI 모델의 성능 향상과 새로운 응용 분야에 대한 관심이 집중되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "하정우와 전은수 출마 관련 뉴스",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 주제가 많이 обсужд되고 있습니다. 기업의 실적과 새로운 기술의 적용에 대한 관심이 집중되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "AI와 반도체 관련 뉴스",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제가 일부 обсужд되고 있습니다. 정치적 이슈와 사회적 문제에 대한 관심이 집중되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "고유가와 구매확정 관련 뉴스",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "하정우",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "경제 및 산업 관련 주제"
+      "context": "정치 뉴스"
     },
     {
-      "keyword": "정치",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "사회 및 정치 관련 주제"
+      "sentiment": "positive",
+      "context": "기술 뉴스"
+    },
+    {
+      "keyword": "고유가",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 20,
     "negative": 15,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 적용을 위한 투자와 연구를 강화해야 합니다.",
+      "insight": "정치와 기술은 현재 트렌드의 핵심",
+      "action": "관련 뉴스와 키워드에 주목",
       "priority": "high"
     },
     {
-      "insight": "경제 및 산업의 동향을 주시하여 새로운 기회를 발굴해야 합니다.",
-      "action": "경제 및 산업 관련 뉴스와 정보를 지속적으로 모니터링해야 합니다.",
+      "insight": "경제 뉴스는 부정적인 감정으로 가득 차 있다",
+      "action": "고유가와 구매확정 관련 문제 해결을 위한 대책 마련",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 많이 обсужд되고 있습니다. AI 기술의 성능 향상과 새로운 응용 분야에 대한 관심이 집중되고 있습니다. 또한, 경제 및 산업 관련 주제도 많이 обсужд되고 있습니다. 기업의 실적과 새로운 기술의 적용에 대한 관심이 집중되고 있습니다. 사회 및 정치 관련 주제는 일부 обсужд되고 있습니다. 정치적 이슈와 사회적 문제에 대한 관심이 집중되고 있습니다. 이러한 트렌드를 분석하여 새로운 기회를 발굴하고, 사업을 발전시키기 위한 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-04-26T23:00:34.038Z",
+  "narrative": "현재 트렌드는 정치와 기술을 중심으로 돌아가고 있습니다. 하정우와 전은수 출마 관련 뉴스가 정치 분야에서 큰 이슈로 부상하고 있으며, AI와 반도체 관련 뉴스가 기술 분야에서 주목을 받고 있습니다. 경제 분야에서는 고유가와 구매확정 관련 문제가 부정적인 감정으로 가득 차 있습니다. 이러한 트렌드와 키워드를 분석하여 사업 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-27T00:30:34.322Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
