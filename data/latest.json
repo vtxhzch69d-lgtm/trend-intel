@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "이란 강경파의 공포 정치",
-      "summary": "이란 강경파의 공포 정치가 계속되고 있으며, 이에 대한 반발이 거세지고 있다. 이란 정부는 강경한 대응을 계속하고 있다.",
+      "topic": "이재명",
+      "summary": "이재명 관련 뉴스와 논란이 많은 것으로 보임",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "AI 기술 개발이 급속히 진행되고 있으며, 다양한 기업과 기관이 참여하고 있다. AI 기술은 다양한 분야에서 활용되고 있다.",
+      "topic": "AI",
+      "summary": "AI 관련 기술과 서비스가 다양한 것으로 보임",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "한국 경제",
-      "summary": "한국 경제는 안정적인 추세를 보이고 있으며, 다양한 산업이 성장하고 있다. 그러나 일부 산업은 어려움을 겪고 있다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "현대차",
+      "summary": "현대차의 자율주행 기술과 신제품 관련 뉴스가 많음",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "이재명",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 논란"
+    },
+    {
       "keyword": "AI",
       "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술 개발과 활용"
-    },
-    {
-      "keyword": "이란",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "이란 강경파의 공포 정치"
-    },
-    {
-      "keyword": "한국",
-      "count": 10,
       "sentiment": "neutral",
-      "context": "한국 경제와 산업"
+      "context": "기술과 서비스 관련 뉴스"
+    },
+    {
+      "keyword": "현대차",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "자율주행 기술과 신제품 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "negative": 30,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발 투자",
-      "action": "AI 기술 개발에 투자하기",
+      "insight": "이재명 관련 논란이 많은 것으로 보임",
+      "action": "정치 관련 뉴스와 논란을 주의해야 함",
       "priority": "high"
     },
     {
-      "insight": "이란 시장 진출",
-      "action": "이란 시장 진출을 재고하기",
-      "priority": "low"
+      "insight": "AI 관련 기술과 서비스가 다양한 것으로 보임",
+      "action": "AI 관련 기술과 서비스를 개발하고 투자해야 함",
+      "priority": "medium"
     },
     {
-      "insight": "한국 산업 지원",
-      "action": "한국 산업을 지원하기",
+      "insight": "현대차의 자율주행 기술과 신제품 관련 뉴스가 많음",
+      "action": "현대차의 자율주행 기술과 신제품을 주시해야 함",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술 개발과 한국 산업의 성장이다. 그러나 이란 강경파의 공포 정치가 계속되고 있으며, 이에 대한 반발이 거세지고 있다. 기업과 기관은 AI 기술 개발에 투자하고, 한국 산업을 지원하는 것이 중요하다. 그러나 이란 시장 진출은 재고해야 한다.",
-  "analyzed_at": "2026-04-28T03:30:33.749Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 이재명 관련 논란과 AI 관련 기술 및 서비스가 주를 이루고 있습니다. 또한 현대차의 자율주행 기술과 신제품 관련 뉴스가 많습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요합니다. 특히, 이재명 관련 논란이 많은 것으로 보이므로 정치 관련 뉴스와 논란을 주의해야 합니다. 또한, AI 관련 기술과 서비스를 개발하고 투자하는 것이 좋을 것입니다. 마지막으로, 현대차의 자율주행 기술과 신제품을 주시하여 마케팅 전략을 수립하는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-04-28T05:30:33.733Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
