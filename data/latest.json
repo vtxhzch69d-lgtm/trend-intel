@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "기술 및 산업",
-      "summary": "최근 기술 및 산업 관련 뉴스와 트렌드가 주목을 받고 있습니다. 삼성전자, 현대차, 애플 등 주요 기업의 신제품 출시와 기술 개발이 포함됩니다.",
+      "summary": "최신 기술 및 산업 동향에 대한 관심이 높다. AI, 반도체, 전기차 등 다양한 주제가 논의되고 있다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 트렌드가 관심을 끌고 있습니다. 금융 비즈니스, 자본효율성, 주식 시장 등이 포함됩니다.",
-      "post_count": 10,
+      "summary": "경제 및 금융 관련 뉴스와 분석이 활발하다. 주식, 증시, 금리 등 다양한 주제가 논의되고 있다.",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스와 트렌드가 논의되고 있습니다. 정치인들의 활동, 사회 문제, 법률 관련 뉴스가 포함됩니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "summary": "사회 및 정치 관련 뉴스와 분석이 활발하다. 정치, 경제, 사회 등 다양한 주제가 논의되고 있다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "신제품 출시와 기술 개발"
+      "context": "최신 기술 및 산업 동향"
     },
     {
-      "keyword": "현대차",
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 및 산업 동향"
+    },
+    {
+      "keyword": "전기차",
       "count": 5,
       "sentiment": "positive",
-      "context": "신제품 출시와 기술 개발"
-    },
-    {
-      "keyword": "애플",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "신제품 출시와 기술 개발"
+      "context": "최신 기술 및 산업 동향"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 및 산업 분야의 신제품 출시와 기술 개발이 시장의 주목을 받고 있습니다.",
-      "action": "신제품 출시와 기술 개발에 집중",
+      "insight": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있다.",
+      "action": "최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌어들이는 마케팅 전략을 수립한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 분야의 트렌드와 뉴스를 주시하여 시장의 변화를 예측할 수 있습니다.",
-      "action": "경제 및 금융 뉴스와 트렌드에 주목",
+      "insight": "경제 및 금융 관련 뉴스와 분석이 활발하다.",
+      "action": "경제 및 금융 관련 뉴스와 분석을 제공하여 고객의 관심을 끌어들이는 마케팅 전략을 수립한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 기술 및 산업 분야의 신제품 출시와 기술 개발이 시장의 주목을 받고 있습니다. 삼성전자, 현대차, 애플 등 주요 기업의 신제품 출시와 기술 개발이 포함됩니다. 또한, 경제 및 금융 분야의 트렌드와 뉴스를 주시하여 시장의 변화를 예측할 수 있습니다. 사회 및 정치 분야의 뉴스와 트렌드도 논의되고 있습니다. 이러한 트렌드와 뉴스를 분석하여 시장의 변화를 예측하고, 기업의 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-28T17:30:34.065Z",
+  "narrative": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있다. AI, 반도체, 전기차 등 다양한 주제가 논의되고 있다. 경제 및 금융 관련 뉴스와 분석도 활발하다. 이러한 관심을 바탕으로 최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌어들이는 마케팅 전략을 수립할 수 있다. 또한, 경제 및 금융 관련 뉴스와 분석을 제공하여 고객의 관심을 끌어들이는 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-04-28T19:00:33.582Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
