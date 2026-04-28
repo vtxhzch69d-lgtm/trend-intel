@@ -1,22 +1,15 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명",
-      "summary": "이재명 관련 뉴스와 논란이 많은 것으로 보임",
-      "post_count": 5,
+      "topic": "김건희 주가조작 사건",
+      "summary": "김건희 주가조작 사건에 대한 2심 판결이 나왔으며, 공동정범으로 인정되었다. 이 사건은 클리앙 커뮤니티에서 많은 관심을 받고 있다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 기술과 서비스가 다양한 것으로 보임",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "현대차",
-      "summary": "현대차의 자율주행 기술과 신제품 관련 뉴스가 많음",
+      "topic": "삼성전자 및 현대차의 기술 개발",
+      "summary": "삼성전자와 현대차가 새로운 기술을 개발하고 있다. 이는 클리앙 커뮤니티에서 많은 관심을 받고 있다.",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
@@ -24,49 +17,44 @@
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
+      "keyword": "김건희",
+      "count": 15,
       "sentiment": "negative",
-      "context": "정치 관련 논란"
+      "context": "주가조작 사건"
     },
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "기술과 서비스 관련 뉴스"
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "새로운 기술 개발"
     },
     {
       "keyword": "현대차",
-      "count": 8,
+      "count": 5,
       "sentiment": "positive",
-      "context": "자율주행 기술과 신제품 관련 뉴스"
+      "context": "새로운 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "이재명 관련 논란이 많은 것으로 보임",
-      "action": "정치 관련 뉴스와 논란을 주의해야 함",
+      "insight": "클리앙 커뮤니티에서 김건희 주가조작 사건에 대한 관심이 높다.",
+      "action": "관련 뉴스 및 정보를 제공",
       "priority": "high"
     },
     {
-      "insight": "AI 관련 기술과 서비스가 다양한 것으로 보임",
-      "action": "AI 관련 기술과 서비스를 개발하고 투자해야 함",
-      "priority": "medium"
-    },
-    {
-      "insight": "현대차의 자율주행 기술과 신제품 관련 뉴스가 많음",
-      "action": "현대차의 자율주행 기술과 신제품을 주시해야 함",
+      "insight": "삼성전자 및 현대차의 기술 개발에 대한 관심이 높다.",
+      "action": "관련 뉴스 및 정보를 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 이재명 관련 논란과 AI 관련 기술 및 서비스가 주를 이루고 있습니다. 또한 현대차의 자율주행 기술과 신제품 관련 뉴스가 많습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요합니다. 특히, 이재명 관련 논란이 많은 것으로 보이므로 정치 관련 뉴스와 논란을 주의해야 합니다. 또한, AI 관련 기술과 서비스를 개발하고 투자하는 것이 좋을 것입니다. 마지막으로, 현대차의 자율주행 기술과 신제품을 주시하여 마케팅 전략을 수립하는 것이 좋을 것입니다.",
-  "analyzed_at": "2026-04-28T05:30:33.733Z",
+  "narrative": "클리앙 커뮤니티에서 김건희 주가조작 사건에 대한 관심이 높다. 이 사건은 많은 논란을 불러일으키고 있으며, 클리언 커뮤니티에서 많은 관심을 받고 있다. 또한, 삼성전자 및 현대차의 기술 개발에 대한 관심도 높다. 이러한 관심은 클리앙 커뮤니티에서 많은 논의를 불러일으키고 있으며, 관련 뉴스 및 정보를 제공하는 것이 중요하다. 클리앙 커뮤니티의 관심을 잘 이해하고, 관련 정보를 제공하여 마케팅 전략을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-04-28T07:00:33.646Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
