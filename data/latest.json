@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 새로운 제품과 기술에 대한 관심이 높다. 폴더블폰, 무선 충전기 등 다양한 제품이 출시되고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "이란과의 전쟁",
+      "summary": "이란과의 전쟁에 대한 우려와 준비에 관한 게시글이 많습니다. UAE의 OPEC 탈퇴와 관련된 게시글도 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "애플",
-      "summary": "애플의 새로운 제품과 기술에 대한 관심이 높다. 아이폰, 맥북 등 다양한 제품이 출시되고 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "기술 및 가전",
+      "summary": "최신 기술과 가전 제품에 대한 게시글이 많습니다. 삼성전자와 애플의 새로운 제품과 기술에 관한 루머와 소식이 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "현대차",
-      "summary": "현대차의 새로운 제품과 기술에 대한 관심이 높다. 전기차, 자율주행차 등 다양한 제품이 출시되고 있다.",
-      "post_count": 10,
+      "topic": "스포츠",
+      "summary": "프로야구와 배구에 대한 게시글이 있습니다. 선수와 팀의 성적과 뉴스에 관한 게시글이 있습니다.",
+      "post_count": 3,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "폴더블폰",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 관심"
-    },
-    {
-      "keyword": "무선 충전기",
+      "keyword": "이란",
       "count": 5,
-      "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 관심"
+      "sentiment": "negative",
+      "context": "이란과의 전쟁에 대한 우려"
     },
     {
-      "keyword": "전기차",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "새로운 기술과 제품에 대한 관심"
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "최신 기술과 가전 제품"
+    },
+    {
+      "keyword": "애플",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "최신 기술과 가전 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "긍정적"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "새로운 기술과 제품에 대한 관심이 높다",
-      "action": "새로운 기술과 제품을 개발하고 출시하는 것을 고려해야 한다",
+      "insight": "이란과의 전쟁에 대한 우려가 높아지고 있습니다.",
+      "action": "관련 제품과 서비스의 개발과 마케팅",
       "priority": "high"
     },
     {
-      "insight": "소비자의 니즈를 파악하고 이를 만족시키는 제품을 개발해야 한다",
-      "action": "소비자 연구와 시장 분석을 수행해야 한다",
+      "insight": "최신 기술과 가전 제품에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술과 가전 제품의 개발과 마케팅",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 소비자의 관심은 새로운 기술과 제품에 집중되어 있다. 특히, 폴더블폰, 무선 충전기, 전기차 등 다양한 제품이 출시되고 있다. 이러한 트렌드를 파악하고, 소비자의 니즈를 만족시키는 제품을 개발하는 것이 중요하다. 또한, 새로운 기술과 제품을 개발하고 출시하는 것을 고려해야 한다. 이를 통해, 기업은 소비자의 관심을 끌고, 시장에서 경쟁력을 확보할 수 있을 것이다.",
-  "analyzed_at": "2026-04-28T11:30:33.715Z",
+  "narrative": "현재 이란과의 전쟁에 대한 우려가 높아지고 있습니다. 이에 따라 관련 제품과 서비스의 개발과 마케팅이 필요합니다. 또한 최신 기술과 가전 제품에 대한 관심이 높아지고 있습니다. 따라서 최신 기술과 가전 제품의 개발과 마케팅이 필요합니다. 이러한 트렌드와 인사이트를 바탕으로 사업을 진행하면 성공할 수 있습니다.",
+  "analyzed_at": "2026-04-28T13:00:33.922Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
