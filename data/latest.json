@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히, AI의 발전과 그에 따른 산업의 변화가 주목을 받고 있습니다.",
-      "post_count": 15,
+      "topic": "기술 및 산업",
+      "summary": "최근 기술 및 산업 관련 뉴스와 트렌드가 주목을 받고 있습니다. 삼성전자, 현대차, 애플 등 주요 기업의 신제품 출시와 기술 개발이 포함됩니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제도 많이 обсужд되고 있습니다. 특히, 최근의 경제 동향과 금융 정책이 주목을 받고 있습니다.",
+      "summary": "경제 및 금융 관련 뉴스와 트렌드가 관심을 끌고 있습니다. 금융 비즈니스, 자본효율성, 주식 시장 등이 포함됩니다.",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제도 많이 обсужд되고 있습니다. 특히, 최근의 정치 상황과 사회 문제가 주목을 받고 있습니다.",
+      "summary": "사회 및 정치 관련 뉴스와 트렌드가 논의되고 있습니다. 정치인들의 활동, 사회 문제, 법률 관련 뉴스가 포함됩니다.",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI의 발전과 그에 따른 산업의 변화"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "最近의 경제 동향과 금융 정책"
-    },
-    {
-      "keyword": "정치",
+      "keyword": "삼성전자",
       "count": 10,
-      "sentiment": "negative",
-      "context": "最近의 정치 상황과 사회 문제"
+      "sentiment": "positive",
+      "context": "신제품 출시와 기술 개발"
+    },
+    {
+      "keyword": "현대차",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "신제품 출시와 기술 개발"
+    },
+    {
+      "keyword": "애플",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "신제품 출시와 기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 및 기술의 발전은 산업의 변화를 가져올 수 있습니다.",
-      "action": "AI 및 기술의 발전을 주목하고, 산업의 변화를 준비해야 합니다.",
+      "insight": "기술 및 산업 분야의 신제품 출시와 기술 개발이 시장의 주목을 받고 있습니다.",
+      "action": "신제품 출시와 기술 개발에 집중",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 정책은 시장의 동향을 결정할 수 있습니다.",
-      "action": "경제 및 금융 정책을 주목하고, 시장의 동향을 예측해야 합니다.",
+      "insight": "경제 및 금융 분야의 트렌드와 뉴스를 주시하여 시장의 변화를 예측할 수 있습니다.",
+      "action": "경제 및 금융 뉴스와 트렌드에 주목",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 및 정치의 변화는 시장의 동향을 결정할 수 있습니다.",
-      "action": "사회 및 정치의 변화를 주목하고, 시장의 동향을 예측해야 합니다.",
-      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술, 경제 및 금융, 사회 및 정치 관련 주제가 많이 обсужд되고 있습니다. AI의 발전과 그에 따른 산업의 변화, 최근의 경제 동향과 금융 정책, 최근의 정치 상황과 사회 문제가 주목을 받고 있습니다. 이러한 주제는 시장의 동향을 결정할 수 있으므로, 주목하고 준비해야 합니다. 또한, 이러한 주제는 중립적이거나 긍정적인 감정을 가지고 있으므로, 이러한 감정을 고려하여 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-04-28T16:00:33.998Z",
+  "narrative": "최근 기술 및 산업 분야의 신제품 출시와 기술 개발이 시장의 주목을 받고 있습니다. 삼성전자, 현대차, 애플 등 주요 기업의 신제품 출시와 기술 개발이 포함됩니다. 또한, 경제 및 금융 분야의 트렌드와 뉴스를 주시하여 시장의 변화를 예측할 수 있습니다. 사회 및 정치 분야의 뉴스와 트렌드도 논의되고 있습니다. 이러한 트렌드와 뉴스를 분석하여 시장의 변화를 예측하고, 기업의 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-28T17:30:34.065Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
