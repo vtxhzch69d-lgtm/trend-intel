@@ -1,16 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "김건희 주가조작 사건",
-      "summary": "김건희 주가조작 사건에 대한 2심 판결이 나왔으며, 공동정범으로 인정되었다. 이 사건은 클리앙 커뮤니티에서 많은 관심을 받고 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "김건희 판결",
+      "summary": "김건희의 2심 징역 4년 선고에 대한 논란과 반응",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자 및 현대차의 기술 개발",
-      "summary": "삼성전자와 현대차가 새로운 기술을 개발하고 있다. 이는 클리앙 커뮤니티에서 많은 관심을 받고 있다.",
-      "post_count": 5,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 사법개혁과 정치 현안에 대한 논의",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련 산업 동향",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -18,43 +25,43 @@
   "keywords": [
     {
       "keyword": "김건희",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "김건희의 판결과 정치 현안"
+    },
+    {
+      "keyword": "이재명",
       "count": 15,
       "sentiment": "negative",
-      "context": "주가조작 사건"
+      "context": "이재명 대통령의 사법개혁과 정치 현안"
     },
     {
-      "keyword": "삼성전자",
-      "count": 5,
+      "keyword": "AI",
+      "count": 12,
       "sentiment": "positive",
-      "context": "새로운 기술 개발"
-    },
-    {
-      "keyword": "현대차",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "새로운 기술 개발"
+      "context": "AI 기술의 발전과 관련 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 김건희 주가조작 사건에 대한 관심이 높다.",
-      "action": "관련 뉴스 및 정보를 제공",
+      "insight": "김건희 판결의 정치적 영향",
+      "action": "정치적 리스크 관리",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 및 현대차의 기술 개발에 대한 관심이 높다.",
-      "action": "관련 뉴스 및 정보를 제공",
+      "insight": "AI 기술의 산업 동향",
+      "action": "AI 기술 투자와 연구",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 김건희 주가조작 사건에 대한 관심이 높다. 이 사건은 많은 논란을 불러일으키고 있으며, 클리언 커뮤니티에서 많은 관심을 받고 있다. 또한, 삼성전자 및 현대차의 기술 개발에 대한 관심도 높다. 이러한 관심은 클리앙 커뮤니티에서 많은 논의를 불러일으키고 있으며, 관련 뉴스 및 정보를 제공하는 것이 중요하다. 클리앙 커뮤니티의 관심을 잘 이해하고, 관련 정보를 제공하여 마케팅 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-04-28T07:00:33.646Z",
+  "narrative": "최근의 정치적 사건과 기술 동향이 온라인 커뮤니티에서 큰 관심을 받고 있습니다. 김건희의 판결과 이재명 대통령의 사법개혁은 정치적 리스크 관리가 필요합니다. 또한, AI 기술의 발전은 관련 산업의 동향을 주목해야 합니다. 이러한 트렌드와 인사이트를 바탕으로 사업 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-04-28T08:30:33.782Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
