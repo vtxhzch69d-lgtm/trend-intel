@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 권성동, 이재명, 김부겸 등 정치인들의 활동과 발언이 주목을 받았습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "이란 강경파의 공포 정치",
+      "summary": "이란 강경파의 공포 정치가 계속되고 있으며, 이에 대한 반발이 거세지고 있다. 이란 정부는 강경한 대응을 계속하고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "한국증시의 성장과 금리 인상 전망, 현대차의 신차 출시 등 경제 관련 뉴스가 많았습니다.",
+      "topic": "AI 기술 개발",
+      "summary": "AI 기술 개발이 급속히 진행되고 있으며, 다양한 기업과 기관이 참여하고 있다. AI 기술은 다양한 분야에서 활용되고 있다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 뉴스, 삼성전자와 현대차의 신제품 출시, 스마트폰과 프로젝터 관련 뉴스가 많았습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "한국 경제",
+      "summary": "한국 경제는 안정적인 추세를 보이고 있으며, 다양한 산업이 성장하고 있다. 그러나 일부 산업은 어려움을 겪고 있다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI와 관련된 기술 개발과 적용"
+      "context": "AI 기술 개발과 활용"
     },
     {
-      "keyword": "정치",
+      "keyword": "이란",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "이란 강경파의 공포 정치"
+    },
+    {
+      "keyword": "한국",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논란"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "한국증시의 성장과 금리 인상 전망"
+      "sentiment": "neutral",
+      "context": "한국 경제와 산업"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "호의적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI와 관련된 기술 개발과 적용이 증가하고 있습니다.",
-      "action": "AI와 관련된 기술 개발에 투자하고, 적용을 확대해야 합니다.",
+      "insight": "AI 기술 개발 투자",
+      "action": "AI 기술 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "한국증시의 성장과 금리 인상 전망이 경제 관련 뉴스에서 주목을 받았습니다.",
-      "action": "경제 관련 뉴스를 주시하고, 금리 인상 전망에 대비해야 합니다.",
+      "insight": "이란 시장 진출",
+      "action": "이란 시장 진출을 재고하기",
+      "priority": "low"
+    },
+    {
+      "insight": "한국 산업 지원",
+      "action": "한국 산업을 지원하기",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치, 경제, 기술 관련 뉴스가 많았습니다. AI와 관련된 기술 개발과 적용이 증가하고 있으며, 한국증시의 성장과 금리 인상 전망이 경제 관련 뉴스에서 주목을 받았습니다. 이러한 트렌드를 주시하고, 관련된 기술 개발과 적용, 경제 관련 뉴스에 대비해야 합니다. 또한, 정치 관련 뉴스와 논란이 많아 정치적 안정성을 유지하기 위해 노력해야 합니다.",
-  "analyzed_at": "2026-04-28T02:00:33.748Z",
+  "narrative": "현재의 트렌드는 AI 기술 개발과 한국 산업의 성장이다. 그러나 이란 강경파의 공포 정치가 계속되고 있으며, 이에 대한 반발이 거세지고 있다. 기업과 기관은 AI 기술 개발에 투자하고, 한국 산업을 지원하는 것이 중요하다. 그러나 이란 시장 진출은 재고해야 한다.",
+  "analyzed_at": "2026-04-28T03:30:33.749Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
