@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 및 기술",
-      "summary": "삼성전자와 SK하이닉스의 반도체 시장 성장 및 기술 개발",
-      "post_count": 10,
+      "topic": "삼성전자",
+      "summary": "삼성전자의 새로운 제품과 기술에 대한 관심이 높다. 폴더블폰, 무선 충전기 등 다양한 제품이 출시되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "이재명 대통령 및 정치 관련 뉴스",
+      "topic": "애플",
+      "summary": "애플의 새로운 제품과 기술에 대한 관심이 높다. 아이폰, 맥북 등 다양한 제품이 출시되고 있다.",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "증시 및 경제 관련 뉴스",
-      "post_count": 6,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "현대차",
+      "summary": "현대차의 새로운 제품과 기술에 대한 관심이 높다. 전기차, 자율주행차 등 다양한 제품이 출시되고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
+      "keyword": "폴더블폰",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "새로운 기술과 제품에 대한 관심"
+    },
+    {
+      "keyword": "무선 충전기",
       "count": 5,
       "sentiment": "positive",
-      "context": "반도체 시장 성장"
+      "context": "새로운 기술과 제품에 대한 관심"
     },
     {
-      "keyword": "이재명",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스"
-    },
-    {
-      "keyword": "반도체",
-      "count": 3,
+      "keyword": "전기차",
+      "count": 8,
       "sentiment": "positive",
-      "context": "기술 개발 및 시장 성장"
+      "context": "새로운 기술과 제품에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 30,
     "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "neutral": 15,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "반도체 시장 성장",
-      "action": "기술 개발 및 투자",
+      "insight": "새로운 기술과 제품에 대한 관심이 높다",
+      "action": "새로운 기술과 제품을 개발하고 출시하는 것을 고려해야 한다",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 동향",
-      "action": "이슈 모니터링 및 대응",
+      "insight": "소비자의 니즈를 파악하고 이를 만족시키는 제품을 개발해야 한다",
+      "action": "소비자 연구와 시장 분석을 수행해야 한다",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 동향",
-      "action": "시장 분석 및 투자 전략",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 반도체 및 기술 분야에서 삼성전자와 SK하이닉스의 시장 성장 및 기술 개발이 주목을 받고 있습니다. 또한, 이재명 대통령 및 정치 관련 뉴스가 많이 обсужд되고 있습니다. 경제 및 금융 분야에서는 증시 및 경제 관련 뉴스가 중립적으로 다루어지고 있습니다. 이러한 동향을 고려하여, 기술 개발 및 투자, 이슈 모니터링 및 대응, 시장 분석 및 투자 전략 등의 액션이 필요합니다.",
-  "analyzed_at": "2026-04-28T10:00:33.650Z",
+  "narrative": "최근의 트렌드 분석 결과, 소비자의 관심은 새로운 기술과 제품에 집중되어 있다. 특히, 폴더블폰, 무선 충전기, 전기차 등 다양한 제품이 출시되고 있다. 이러한 트렌드를 파악하고, 소비자의 니즈를 만족시키는 제품을 개발하는 것이 중요하다. 또한, 새로운 기술과 제품을 개발하고 출시하는 것을 고려해야 한다. 이를 통해, 기업은 소비자의 관심을 끌고, 시장에서 경쟁력을 확보할 수 있을 것이다.",
+  "analyzed_at": "2026-04-28T11:30:33.715Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
