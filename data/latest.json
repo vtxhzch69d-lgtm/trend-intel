@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "김건희 판결",
-      "summary": "김건희의 2심 징역 4년 선고에 대한 논란과 반응",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "반도체 및 기술",
+      "summary": "삼성전자와 SK하이닉스의 반도체 시장 성장 및 기술 개발",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령의 사법개혁과 정치 현안에 대한 논의",
+      "topic": "정치 및 사회",
+      "summary": "이재명 대통령 및 정치 관련 뉴스",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련 산업 동향",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제 및 금융",
+      "summary": "증시 및 경제 관련 뉴스",
+      "post_count": 6,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김건희",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "김건희의 판결과 정치 현안"
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "반도체 시장 성장"
     },
     {
       "keyword": "이재명",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "이재명 대통령의 사법개혁과 정치 현안"
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스"
     },
     {
-      "keyword": "AI",
-      "count": 12,
+      "keyword": "반도체",
+      "count": 3,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련 산업 동향"
+      "context": "기술 개발 및 시장 성장"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "부정적인 분위기"
+    "positive": 15,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "김건희 판결의 정치적 영향",
-      "action": "정치적 리스크 관리",
+      "insight": "반도체 시장 성장",
+      "action": "기술 개발 및 투자",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 산업 동향",
-      "action": "AI 기술 투자와 연구",
+      "insight": "정치 및 사회 동향",
+      "action": "이슈 모니터링 및 대응",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 금융 동향",
+      "action": "시장 분석 및 투자 전략",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 정치적 사건과 기술 동향이 온라인 커뮤니티에서 큰 관심을 받고 있습니다. 김건희의 판결과 이재명 대통령의 사법개혁은 정치적 리스크 관리가 필요합니다. 또한, AI 기술의 발전은 관련 산업의 동향을 주목해야 합니다. 이러한 트렌드와 인사이트를 바탕으로 사업 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-04-28T08:30:33.782Z",
+  "narrative": "최근 반도체 및 기술 분야에서 삼성전자와 SK하이닉스의 시장 성장 및 기술 개발이 주목을 받고 있습니다. 또한, 이재명 대통령 및 정치 관련 뉴스가 많이 обсужд되고 있습니다. 경제 및 금융 분야에서는 증시 및 경제 관련 뉴스가 중립적으로 다루어지고 있습니다. 이러한 동향을 고려하여, 기술 개발 및 투자, 이슈 모니터링 및 대응, 시장 분석 및 투자 전략 등의 액션이 필요합니다.",
+  "analyzed_at": "2026-04-28T10:00:33.650Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
