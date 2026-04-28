@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "최근의 경제 및 정치 관련 뉴스와 논평이 많은 관심을 받고 있습니다. 삼성전자 이익, 미래 몫 남겨둬야 한다는 산업부장관의 발언, 테슬라 모델 Y 주니퍼 충전 어댑터 등 다양한 주제가 논의되고 있습니다.",
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 권성동, 이재명, 김부겸 등 정치인들의 활동과 발언이 주목을 받았습니다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 AI",
-      "summary": "AI와 기술 관련 뉴스 및 논평이 많은 관심을 받고 있습니다. 구글의 CLI 에이전트 교육용 영상, OpenAI와 마이크로소프트간의 독점 계약 종료, AI동맹 전방위 확대 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 관련 뉴스 및 논평이 많은 관심을 받고 있습니다. 장애인 주차구역에 대한 생각, 드라마 스토브리그, 노영희의 발언 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "topic": "경제",
+      "summary": "한국증시의 성장과 금리 인상 전망, 현대차의 신차 출시 등 경제 관련 뉴스가 많았습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI와 관련된 뉴스, 삼성전자와 현대차의 신제품 출시, 스마트폰과 프로젝터 관련 뉴스가 많았습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "산업부장관의 발언과 관련하여 삼성전자 이익이 많은 관심을 받고 있습니다."
-    },
-    {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "AI와 관련된 뉴스 및 논평이 많은 관심을 받고 있습니다."
+      "context": "AI와 관련된 기술 개발과 적용"
     },
     {
-      "keyword": "테슬라",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "테슬라 모델 Y 주니퍼 충전 어댑터와 관련된 뉴스가 논의되고 있습니다."
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 논란"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "한국증시의 성장과 금리 인상 전망"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 10,
     "neutral": 15,
-    "overall_mood": "중립적이며 다양한 주제가 논의되고 있습니다."
+    "overall_mood": "호의적"
   },
   "business_insights": [
     {
-      "insight": "AI와 기술 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "AI와 기술 관련 제품 및 서비스 개발에 투자할 수 있습니다.",
+      "insight": "AI와 관련된 기술 개발과 적용이 증가하고 있습니다.",
+      "action": "AI와 관련된 기술 개발에 투자하고, 적용을 확대해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "경제 및 정치 관련 뉴스를 주기적으로 분석하고 대응할 수 있습니다.",
+      "insight": "한국증시의 성장과 금리 인상 전망이 경제 관련 뉴스에서 주목을 받았습니다.",
+      "action": "경제 관련 뉴스를 주시하고, 금리 인상 전망에 대비해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 경제 및 정치, 기술 및 AI, 사회 및 문화 등 다양한 주제로 나뉘어져 있습니다. AI와 기술 관련 뉴스가 많은 관심을 받고 있으며, 삼성전자 이익과 관련된 산업부장관의 발언도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립할 수 있습니다. 또한, AI와 기술 관련 제품 및 서비스 개발에 투자할 수 있습니다. 경제 및 정치 관련 뉴스를 주기적으로 분석하고 대응할 수 있습니다.",
-  "analyzed_at": "2026-04-28T00:30:34.050Z",
+  "narrative": "최근 정치, 경제, 기술 관련 뉴스가 많았습니다. AI와 관련된 기술 개발과 적용이 증가하고 있으며, 한국증시의 성장과 금리 인상 전망이 경제 관련 뉴스에서 주목을 받았습니다. 이러한 트렌드를 주시하고, 관련된 기술 개발과 적용, 경제 관련 뉴스에 대비해야 합니다. 또한, 정치 관련 뉴스와 논란이 많아 정치적 안정성을 유지하기 위해 노력해야 합니다.",
+  "analyzed_at": "2026-04-28T02:00:33.748Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
