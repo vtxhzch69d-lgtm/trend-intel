@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 특히, AI의 발전이 사회에 미치는 영향과 관련된 주제가 많다.",
+      "topic": "경제 및 정치",
+      "summary": "최근의 경제 및 정치 관련 뉴스와 논평이 많은 관심을 받고 있습니다. 삼성전자 이익, 미래 몫 남겨둬야 한다는 산업부장관의 발언, 테슬라 모델 Y 주니퍼 충전 어댑터 등 다양한 주제가 논의되고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 주제가 많이 논의되고 있다. 특히, 최근의 선거와 관련된 주제가 많다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "기술 및 AI",
+      "summary": "AI와 기술 관련 뉴스 및 논평이 많은 관심을 받고 있습니다. 구글의 CLI 에이전트 교육용 영상, OpenAI와 마이크로소프트간의 독점 계약 종료, AI동맹 전방위 확대 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최근의 기술 뉴스가 많이 논의되고 있다. 특히, 새로운 기술의 개발과 관련된 주제가 많다.",
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화 관련 뉴스 및 논평이 많은 관심을 받고 있습니다. 장애인 주차구역에 대한 생각, 드라마 스토브리그, 노영희의 발언 등 다양한 주제가 논의되고 있습니다.",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련된 주제"
-    },
-    {
-      "keyword": "기술",
-      "count": 10,
+      "keyword": "삼성전자",
+      "count": 5,
       "sentiment": "positive",
-      "context": "새로운 기술의 개발과 관련된 주제"
+      "context": "산업부장관의 발언과 관련하여 삼성전자 이익이 많은 관심을 받고 있습니다."
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "AI와 관련된 뉴스 및 논평이 많은 관심을 받고 있습니다."
+    },
+    {
+      "keyword": "테슬라",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "테슬라 모델 Y 주니퍼 충전 어댑터와 관련된 뉴스가 논의되고 있습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 15,
+    "overall_mood": "중립적이며 다양한 주제가 논의되고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 사회에 미치는 영향",
-      "action": "AI 기술의 발전을 주시하고, 관련된 주제를 분석한다.",
+      "insight": "AI와 기술 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "AI와 기술 관련 제품 및 서비스 개발에 투자할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 주제의 중요성",
-      "action": "정치 관련된 주제를 주시하고, 관련된 뉴스를 분석한다.",
+      "insight": "경제 및 정치 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "경제 및 정치 관련 뉴스를 주기적으로 분석하고 대응할 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "새로운 기술의 개발",
-      "action": "새로운 기술의 개발을 주시하고, 관련된 주제를 분석한다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 많이 논의되고 있다. 특히, AI의 발전이 사회에 미치는 영향과 관련된 주제가 많다. 또한, 정치 관련된 주제가 많이 논의되고 있다. 새로운 기술의 개발과 관련된 주제도 많이 논의되고 있다. 이러한 트렌드는 기업의 마케팅 전략에 중요한 영향을 미칠 수 있다. 따라서, 이러한 트렌드를 주시하고, 관련된 주제를 분석하여 마케팅 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-04-27T23:00:33.760Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 경제 및 정치, 기술 및 AI, 사회 및 문화 등 다양한 주제로 나뉘어져 있습니다. AI와 기술 관련 뉴스가 많은 관심을 받고 있으며, 삼성전자 이익과 관련된 산업부장관의 발언도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립할 수 있습니다. 또한, AI와 기술 관련 제품 및 서비스 개발에 투자할 수 있습니다. 경제 및 정치 관련 뉴스를 주기적으로 분석하고 대응할 수 있습니다.",
+  "analyzed_at": "2026-04-28T00:30:34.050Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
