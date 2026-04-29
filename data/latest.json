@@ -1,103 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "테슬라 모델 Y 주니퍼 충전 어댑터 도어 독 관련",
-      "summary": "테슬라 모델 Y 주니퍼 충전 어댑터 도어 독 관련 진행사항 업데이트",
-      "post_count": 1,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "쿠팡",
-      "summary": "국힘의 매국 오작교는 쿠팡",
-      "post_count": 1,
+      "topic": "트럼프",
+      "summary": "트럼프 여권 발급과 관련된 논란",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "조국",
-      "summary": "조국은 견제를 심하게 당하네요",
-      "post_count": 2,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
       "topic": "삼성전자",
-      "summary": "삼성전자, 첫 6K 32인치 165Hz 모니터 G80HS 출시",
-      "post_count": 1,
+      "summary": "삼성전자의 사업 확장과 기술 개발",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "현대차",
-      "summary": "현대차, '더 뉴 그랜저' 디자인 공개",
-      "post_count": 1,
+      "summary": "현대차의 전기차와 자율주행 기술 개발",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 상황과 관련된 다양한 뉴스",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "테슬라",
-      "count": 1,
-      "sentiment": "neutral",
-      "context": "테슬라 모델 Y 주니퍼 충전 어댑터 도어 독 관련"
-    },
-    {
-      "keyword": "쿠팡",
-      "count": 1,
+      "keyword": "트럼프",
+      "count": 10,
       "sentiment": "negative",
-      "context": "국힘의 매국 오작교는 쿠팡"
-    },
-    {
-      "keyword": "조국",
-      "count": 2,
-      "sentiment": "mixed",
-      "context": "조국은 견제를 심하게 당하네요"
+      "context": "여권 발급과 관련된 논란"
     },
     {
       "keyword": "삼성전자",
-      "count": 1,
+      "count": 15,
       "sentiment": "positive",
-      "context": "삼성전자, 첫 6K 32인치 165Hz 모니터 G80HS 출시"
+      "context": "사업 확장과 기술 개발"
     },
     {
       "keyword": "현대차",
-      "count": 1,
+      "count": 10,
       "sentiment": "positive",
-      "context": "현대차, '더 뉴 그랜저' 디자인 공개"
+      "context": "전기차와 자율주행 기술 개발"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "기술의 발전과 다양한 산업에서의 적용"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "경제 상황과 관련된 다양한 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 3,
-    "negative": 1,
-    "neutral": 1,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "테슬라 모델 Y 주니퍼 충전 어댑터 도어 독 관련 진행사항 업데이트",
-      "action": "테슬라 모델 Y 주니퍼 충전 어댑터 도어 독 관련 진행사항 업데이트에 대한 고객 반응 모니터링",
-      "priority": "medium"
-    },
-    {
-      "insight": "쿠팡에 대한 부정적인 반응",
-      "action": "쿠팡에 대한 부정적인 반응에 대한 대응 전략 수립",
+      "insight": "트럼프와 관련된 논란은 여전히 높은 관심을 받고 있습니다.",
+      "action": "관련 뉴스와 트렌드를 주시하여 대응하기",
       "priority": "high"
     },
     {
-      "insight": "조국에 대한 혼재된 반응",
-      "action": "조국에 대한 혼재된 반응에 대한 고객 교육 및 홍보 활동",
-      "priority": "high"
+      "insight": "삼성전자의 사업 확장과 기술 개발은 긍정적인 반응을 받고 있습니다.",
+      "action": "관련 기술과 산업을 연구하여 사업 기회를 찾기",
+      "priority": "medium"
     },
     {
-      "insight": "삼성전자 및 현대차에 대한 긍정적인 반응",
-      "action": "삼성전자 및 현대차에 대한 긍정적인 반응에 대한 고객 만족도 향상",
-      "priority": "medium"
+      "insight": "AI 기술의 발전은 다양한 산업에서 적용될 수 있습니다.",
+      "action": "AI 기술을 연구하여 사업 기회를 찾기",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 클리앙 커뮤니티에서 테슬라 모델 Y 주니퍼 충전 어댑터 도어 독 관련, 쿠팡, 조국, 삼성전자, 현대차 등 다양한 주제가 논의되고 있습니다. 테슬라 모델 Y 주니퍼 충전 어댑터 도어 독 관련 진행사항 업데이트에 대한 고객 반응은 중립적입니다. 쿠팡에 대한 부정적인 반응은 높은 우선순위를 갖는 반면, 조국에 대한 혼재된 반응은 고객 교육 및 홍보 활동이 필요합니다. 삼성전자 및 현대차에 대한 긍정적인 반응은 고객 만족도 향상을 위한 기회입니다. 이러한 주제에 대한 고객 반응을 모니터링하고, 대응 전략을 수립하여 고객 만족도를 향상시키는 것이 중요합니다.",
-  "analyzed_at": "2026-04-28T23:30:34.466Z",
+  "narrative": "최근의 트렌드와 뉴스를 분석한 결과, 트럼프와 관련된 논란이 여전히 높은 관심을 받고 있습니다. 또한, 삼성전자의 사업 확장과 기술 개발은 긍정적인 반응을 받고 있습니다. AI 기술의 발전은 다양한 산업에서 적용될 수 있으며, 관련 기술과 산업을 연구하여 사업 기회를 찾는 것이 중요합니다. 경제 상황과 관련된 뉴스도 다양한 관심을 받고 있으며, 중립적인 기운이 감지되지만 약간 부정적인 기운도 감지됩니다. 따라서, 관련 뉴스와 트렌드를 주시하여 대응하는 것이 중요합니다.",
+  "analyzed_at": "2026-04-29T01:00:34.857Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
