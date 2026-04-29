@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "최근의 경제 및 정치 뉴스와 관련된 게시글이 많습니다. 주식, 투자, 정치인에 대한 논의가 활발합니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "신기술과 과학에 대한 관심이 높습니다. AI, 반도체, 우주 관련 게시글이 많이 올라옵니다.",
-      "post_count": 12,
+      "topic": "삼성전자",
+      "summary": "삼성전자의 반도체 사업과 최근의 성과",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "생활 및 문화",
-      "summary": "생활과 문화에 대한 게시글이 많습니다. 음식, 여행, 엔터테인먼트에 대한 논의가 활발합니다.",
-      "post_count": 10,
+      "topic": "경제",
+      "summary": "한국 경제의 현황과 전망",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 동향과 발전",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "주식 시장의 불안정성에 대한 우려"
-    },
-    {
-      "keyword": "AI",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 가능성에 대한 기대"
-    },
-    {
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 15,
+      "sentiment": "positive",
+      "context": "반도체 사업"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "삼성전자의 사업과 기술에 대한 논의"
+      "context": "한국 경제"
+    },
+    {
+      "keyword": "기술",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "최신 기술 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술과 과학에 대한 관심이 높아지고 있습니다.",
-      "action": "기술과 과학에 대한 콘텐츠를 제공하여 고객의 관심을 끌어야 합니다.",
+      "insight": "삼성전자의 반도체 사업은 최근 성과를 보이고 있다",
+      "action": "삼성전자 주식 투자 고려",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치에 대한 논의가 활발합니다.",
-      "action": "경제 및 정치에 대한 콘텐츠를 제공하여 고객의 관심을 끌어야 합니다.",
+      "insight": "한국 경제는 안정적인 성장을 보이고 있다",
+      "action": "한국 경제에 대한 투자 고려",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술은 빠르게 발전하고 있다",
+      "action": "최신 기술에 대한 연구와 투자 고려",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 기술과 과학, 경제 및 정치, 생활 및 문화에 대한 관심이 높아지고 있습니다. 기술과 과학에 대한 관심은 특히 높아지고 있으며, AI와 반도체에 대한 논의가 활발합니다. 경제 및 정치에 대한 논의도 활발하며, 주식과 투자에 대한 우려가 있습니다. 생활과 문화에 대한 게시글도 많으며, 음식과 여행에 대한 논의가 활발합니다. 이러한 트렌드를 고려하여 콘텐츠를 제공하여 고객의 관심을 끌어야 합니다.",
-  "analyzed_at": "2026-04-29T16:00:34.157Z",
+  "narrative": "最近의 트렌드에 따르면, 삼성전자의 반도체 사업과 한국 경제는 안정적인 성장을 보이고 있다. 또한, 최신 기술은 빠르게 발전하고 있어 관련 연구와 투자가 필요하다. 이러한 트렌드는 기업과 투자자에게 중요한 정보를 제공하며, 이를 통해 사업 전략을 수립하고 투자 결정을 내릴 수 있다. 또한, 이러한 트렌드는 소비자와 일반 대중에게도 중요한 정보를 제공하며, 이를 통해 최신 기술과 경제 동향을 이해하고 자신의 생활과 투자 결정을 내릴 수 있다.",
+  "analyzed_at": "2026-04-29T17:30:34.313Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
