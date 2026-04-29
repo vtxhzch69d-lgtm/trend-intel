@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 파업사태",
-      "summary": "삼성전자 파업사태로 인한 노조와 주주의 대결 구도, 노조의 무리한 요구에 대한 제한 필요성",
+      "topic": "삼성전자",
+      "summary": "삼성전자가 가전사업을 대거 정리할 수 있다는 소식이 전해짐에 따라 주가가 하락하고 있다. 또한, 노조와의 갈등이 지속되고 있다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화, 새로운 기술의 등장",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "쿠팡",
+      "summary": "쿠팡이 정부에 압박을 받고 있으며, 백악관에 보고해야 한다는 소식이 전해짐에 따라 주가가 하락하고 있다.",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 뉴스, 주가 및 금리 변동, 시장 동향",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "우회전 일단정지",
+      "summary": "우회전 일단정지에 대한 논의가 진행되고 있으며, 일부 이용자들은 우회전 일단정지의 취지를 이해하지만, 일부 이용자들은 우회전 일단정지의 필요성을 의문시하고 있다.",
+      "post_count": 1,
+      "sentiment": "mixed",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 10,
+      "count": 7,
       "sentiment": "negative",
-      "context": "파업사태와 관련된 뉴스"
+      "context": "삼성전자의 가전사업 정리와 노조 갈등"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "기술 발전과 산업의 변화"
+      "keyword": "쿠팡",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "쿠팡의 정부 압박과 백악관 보고"
     },
     {
-      "keyword": "경제",
-      "count": 12,
+      "keyword": "우회전 일단정지",
+      "count": 1,
       "sentiment": "neutral",
-      "context": "경제 및 금융 뉴스"
+      "context": "우회전 일단정지에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 5,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 파업사태로 인한 산업의 불안정성",
-      "action": "노조와 주주의 대결 구도를 해결하기 위한 대책 마련",
+      "insight": "삼성전자의 가전사업 정리와 노조 갈등은 주가에 부정적인 영향을 미칠 수 있다.",
+      "action": "삼성전자의 가전사업 정리와 노조 갈등을 주시하고, 필요한 경우 대응策을 마련한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 그에 따른 산업의 변화",
-      "action": "신기술에 대한 투자와 연구 개발",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 뉴스의 증가",
-      "action": "시장 동향과 주가 및 금리 변동에 대한 분석",
+      "insight": "쿠팡의 정부 압박과 백악관 보고는 주가에 부정적인 영향을 미칠 수 있다.",
+      "action": "쿠팡의 정부 압박과 백악관 보고를 주시하고, 필요한 경우 대응책을 마련한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 삼성전자 파업사태와 AI 기술의 발전이 주요 관심사로 나타났습니다. 또한, 경제 및 금융 뉴스가 많이 등장했습니다. 이러한 트렌드에 대한 분석과 대책 마련이 필요합니다. 특히, 삼성전자 파업사태로 인한 산업의 불안정성과 노조와 주주의 대결 구도를 해결하기 위한 대책 마련이 필요합니다. 또한, AI 기술의 발전과 그에 따른 산업의 변화에 대한 투자와 연구 개발이 필요합니다.",
-  "analyzed_at": "2026-04-29T20:00:34.044Z",
+  "narrative": "현재의 트렌드는 삼성전자의 가전사업 정리와 노조 갈등, 쿠팡의 정부 압박과 백악관 보고 등으로 인해 부정적인 감정이 우세합니다. 이러한 트렌드는 주가에 부정적인 영향을 미칠 수 있으므로, 필요한 경우 대응책을 마련해야 합니다. 또한, 우회전 일단정지에 대한 논의는 일부 이용자들의 관심을 끌고 있지만, 전체적인 트렌드에는 큰 영향을 미치지 않고 있습니다.",
+  "analyzed_at": "2026-04-29T21:30:34.055Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
