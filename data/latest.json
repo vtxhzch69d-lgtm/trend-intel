@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "조국 전 법무부 장관과 관련된 정치적 논쟁이 커뮤니티에서 활발하게 진행되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "삼성전자",
+      "summary": "삼성전자가 다양한 제품과 기술을 개발하고 출시하고 있으며, 특히 반도체와 폴더블 디스플레이에 대한 관심이 집중되고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드가 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "조국",
+      "summary": "조국에 대한 논란과 관련된 게시글이 많으며, 특히 정치와 법률 관련된 주제에서 많이 언급되고 있다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 관련된 포스트가 많이 올라오고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 관련된 게시글이 많으며, 특히 AI의 응용과 미래에 대한 가능성에 대한 관심이 집중되고 있다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치적 논쟁"
-    },
-    {
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "삼성전자의 제품과 기술에 대한 관심"
     },
     {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "keyword": "조국",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "조국에 대한 논란과 관련된 주제"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치적 논쟁이 커뮤니티에서 많이 진행되고 있습니다.",
-      "action": "정치적 논쟁에 대한 대응 전략 수립",
+      "insight": "삼성전자의 제품과 기술에 대한 관심이 높아지고 있다.",
+      "action": "삼성전자 제품과 기술에 대한 마케팅과 광고를 강화할 필요가 있다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 트렌드가 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "action": "기술 뉴스와 트렌드에 대한 콘텐츠 개발",
+      "insight": "AI 기술의 발전과 관련된 주제에 대한 관심이 집중되고 있다.",
+      "action": "AI 기술과 관련된 제품과 서비스를 개발하고 마케팅할 필요가 있다.",
       "priority": "medium"
     }
   ],
-  "narrative": "커뮤니티에서 정치적 논쟁과 기술 뉴스, 경제 뉴스가 많이 обсужд되고 있습니다. 정치적 논쟁에 대한 대응 전략 수립과 기술 뉴스와 트렌드에 대한 콘텐츠 개발이 필요합니다. 또한, 경제 뉴스와 관련된 콘텐츠 개발도 고려해야 합니다. 커뮤니티의 중립적 분위기를 고려하여 콘텐츠 개발과 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-04-29T04:00:33.392Z",
+  "narrative": "최근의 트렌드와 분석 결과를 바탕으로, 삼성전자와 AI 기술에 대한 관심이 높아지고 있으며, 조국에 대한 논란과 관련된 주제도 많이 언급되고 있다. 이러한 트렌드와 분석 결과를 바탕으로, 마케터는 삼성전자와 AI 기술에 대한 마케팅과 광고를 강화하고, 관련된 제품과 서비스를 개발하고 마케팅할 필요가 있다. 또한, 조국에 대한 논란과 관련된 주제에 대한 관심을 고려하여, 관련된 마케팅과 광고를 진행할 필요가 있다.",
+  "analyzed_at": "2026-04-29T05:30:34.058Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
