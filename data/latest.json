@@ -1,75 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 반도체 사업과 최근의 성과",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "한국 경제의 현황과 전망",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글이며, 사용자들의 관심을 끌고 있습니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 동향과 발전",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "반도체 사업"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "뽐뿌",
+      "count": 50,
       "sentiment": "neutral",
-      "context": "한국 경제"
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "기술",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "최신 기술 동향"
+      "keyword": "이슈",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "이슈게시판에서 올라오는 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 5,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자의 반도체 사업은 최근 성과를 보이고 있다",
-      "action": "삼성전자 주식 투자 고려",
-      "priority": "high"
-    },
-    {
-      "insight": "한국 경제는 안정적인 성장을 보이고 있다",
-      "action": "한국 경제에 대한 투자 고려",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 기술은 빠르게 발전하고 있다",
-      "action": "최신 기술에 대한 연구와 투자 고려",
+      "insight": "사용자들의 관심을 끌기 위해서는 이슈게시판에서 올라오는 글에 대한 분석이 필요합니다.",
+      "action": "이슈게시판 글 분석",
       "priority": "high"
     }
   ],
-  "narrative": "最近의 트렌드에 따르면, 삼성전자의 반도체 사업과 한국 경제는 안정적인 성장을 보이고 있다. 또한, 최신 기술은 빠르게 발전하고 있어 관련 연구와 투자가 필요하다. 이러한 트렌드는 기업과 투자자에게 중요한 정보를 제공하며, 이를 통해 사업 전략을 수립하고 투자 결정을 내릴 수 있다. 또한, 이러한 트렌드는 소비자와 일반 대중에게도 중요한 정보를 제공하며, 이를 통해 최신 기술과 경제 동향을 이해하고 자신의 생활과 투자 결정을 내릴 수 있다.",
-  "analyzed_at": "2026-04-29T17:30:34.313Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글이며, 사용자들의 관심을 끌고 있습니다. 하지만 이슈게시판에서 올라오는 글은 주로 부정적인 감정을 가지고 있습니다. 따라서 사용자들의 관심을 끌기 위해서는 이슈게시판에서 올라오는 글에 대한 분석이 필요합니다. 또한, 뽐뿌 커뮤니티에서 사용자들의 감정은 중립적이며, 사용자들의 관심을 끌기 위해서는 다양한 마케팅 전략이 필요합니다.",
+  "analyzed_at": "2026-04-29T18:30:34.463Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
