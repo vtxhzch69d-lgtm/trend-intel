@@ -1,44 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글이며, 사용자들의 관심을 끌고 있습니다.",
-      "post_count": 100,
-      "sentiment": "mixed",
+      "topic": "삼성전자 파업사태",
+      "summary": "삼성전자 파업사태로 인한 노조와 주주의 대결 구도, 노조의 무리한 요구에 대한 제한 필요성",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화, 새로운 기술의 등장",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 뉴스, 주가 및 금리 변동, 시장 동향",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "파업사태와 관련된 뉴스"
     },
     {
-      "keyword": "이슈",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "이슈게시판에서 올라오는 글"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 발전과 산업의 변화"
+    },
+    {
+      "keyword": "경제",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "경제 및 금융 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 20,
+    "negative": 15,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "사용자들의 관심을 끌기 위해서는 이슈게시판에서 올라오는 글에 대한 분석이 필요합니다.",
-      "action": "이슈게시판 글 분석",
+      "insight": "삼성전자 파업사태로 인한 산업의 불안정성",
+      "action": "노조와 주주의 대결 구도를 해결하기 위한 대책 마련",
       "priority": "high"
+    },
+    {
+      "insight": "AI 기술의 발전과 그에 따른 산업의 변화",
+      "action": "신기술에 대한 투자와 연구 개발",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 및 금융 뉴스의 증가",
+      "action": "시장 동향과 주가 및 금리 변동에 대한 분석",
+      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글이며, 사용자들의 관심을 끌고 있습니다. 하지만 이슈게시판에서 올라오는 글은 주로 부정적인 감정을 가지고 있습니다. 따라서 사용자들의 관심을 끌기 위해서는 이슈게시판에서 올라오는 글에 대한 분석이 필요합니다. 또한, 뽐뿌 커뮤니티에서 사용자들의 감정은 중립적이며, 사용자들의 관심을 끌기 위해서는 다양한 마케팅 전략이 필요합니다.",
-  "analyzed_at": "2026-04-29T18:30:34.463Z",
-  "post_count": 2,
+  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 삼성전자 파업사태와 AI 기술의 발전이 주요 관심사로 나타났습니다. 또한, 경제 및 금융 뉴스가 많이 등장했습니다. 이러한 트렌드에 대한 분석과 대책 마련이 필요합니다. 특히, 삼성전자 파업사태로 인한 산업의 불안정성과 노조와 주주의 대결 구도를 해결하기 위한 대책 마련이 필요합니다. 또한, AI 기술의 발전과 그에 따른 산업의 변화에 대한 투자와 연구 개발이 필요합니다.",
+  "analyzed_at": "2026-04-29T20:00:34.044Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
