@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "고유가 지원금",
-      "summary": "고유가 지원금에 대한 논의와 여론의 반응",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "최근 정치 관련 게시글이 많아졌습니다. 특히, 전해철의 국회입성과 추미애의 마지막 날 등이 주목을 받았습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "윤석열의 석방",
-      "summary": "윤석열의 석방에 대한 요구와 논의",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "경제",
+      "summary": "고유가 지원금과 주식 관련 게시글이 많아졌습니다. 특히, 고유가 지원금의 현실과 직면하게 된 정부와 주식 시장의 변동 등이 주목을 받았습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "삼성전자 노조 파업",
-      "summary": "삼성전자 노조 파업에 대한 논의와 여론의 반응",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "기술",
+      "summary": "최신 기술 관련 게시글이 많아졌습니다. 특히, 삼성전자와 애플의 새로운 기술 개발과 메타의 퍼포먼스 AI 글래스 등이 주목을 받았습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "고유가 지원금",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "고유가 지원금에 대한 논의와 여론의 반응"
-    },
-    {
-      "keyword": "윤석열",
       "count": 5,
       "sentiment": "negative",
-      "context": "윤석열의 석방에 대한 요구와 논의"
+      "context": "고유가 지원금의 현실과 직면하게 된 정부"
+    },
+    {
+      "keyword": "주식",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "주식 시장의 변동"
     },
     {
       "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "삼성전자 노조 파업에 대한 논의와 여론의 반응"
+      "count": 6,
+      "sentiment": "positive",
+      "context": "삼성전자의 새로운 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 여론이 우세"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "고유가 지원금에 대한 논의가 활발",
-      "action": "고유가 지원금에 대한 정책을 검토",
+      "insight": "고유가 지원금의 현실과 직면하게 된 정부",
+      "action": "정부의 정책에 대한 관심을 높입니다.",
       "priority": "high"
     },
     {
-      "insight": "윤석열의 석방에 대한 요구가 증가",
-      "action": "윤석열의 석방에 대한 정책을 검토",
+      "insight": "주식 시장의 변동",
+      "action": "주식 시장의 변동에 대한 관심을 높입니다.",
       "priority": "medium"
     },
     {
-      "insight": "삼성전자 노조 파업에 대한 논의가 활발",
-      "action": "삼성전자 노조 파업에 대한 정책을 검토",
-      "priority": "medium"
+      "insight": "삼성전자의 새로운 기술 개발",
+      "action": "삼성전자의 새로운 기술 개발에 대한 관심을 높입니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 고유가 지원금, 윤석열의 석방, 삼성전자 노조 파업 등이 주요한 주제로 나타났습니다. 고유가 지원금에 대한 논의는 활발하게 진행되고 있으며, 윤석열의 석방에 대한 요구도 증가하고 있습니다. 또한, 삼성전자 노조 파업에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 정책을 검토하고 대응하는 것이 필요합니다.",
-  "analyzed_at": "2026-04-29T08:30:33.691Z",
+  "narrative": "최근 정치 관련 게시글이 많아졌습니다. 특히, 전해철의 국회입성과 추미애의 마지막 날 등이 주목을 받았습니다. 또한, 고유가 지원금과 주식 관련 게시글이 많아졌습니다. 특히, 고유가 지원금의 현실과 직면하게 된 정부와 주식 시장의 변동 등이 주목을 받았습니다. 기술 관련 게시글도 많아졌습니다. 특히, 삼성전자와 애플의 새로운 기술 개발과 메타의 퍼포먼스 AI 글래스 등이 주목을 받았습니다. 이러한 트렌드에 따라 정부와 기업은 정책과 기술 개발에 대한 관심을 높여야 합니다.",
+  "analyzed_at": "2026-04-29T10:00:34.244Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
