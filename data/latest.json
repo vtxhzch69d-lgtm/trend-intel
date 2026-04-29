@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "쿠팡",
-      "summary": "쿠팡의 아이패드 대란과 로컬 LLM의 등장",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 새로운 제품과 기술 개발",
+      "topic": "정치",
+      "summary": "조국 전 법무부 장관과 관련된 정치적 논쟁이 커뮤니티에서 활발하게 진행되고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "현대차",
-      "summary": "현대차의 자율주행 기술과 전기차 보급",
-      "post_count": 5,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드가 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 뉴스와 관련된 포스트가 많이 올라오고 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "쿠팡",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "쿠팡의 아이패드 대란"
+      "keyword": "조국",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치적 논쟁"
     },
     {
       "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "삼성전자의 새로운 제품과 기술 개발"
-    },
-    {
-      "keyword": "현대차",
       "count": 5,
       "sentiment": "positive",
-      "context": "현대차의 자율주행 기술과 전기차 보급"
+      "context": "기술 뉴스"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "쿠팡의 아이패드 대란은 소비자들의 관심을 끌었다",
-      "action": "쿠팡의 마케팅 전략을 분석하여 소비자들의 관심을 끌 수 있는 방법을 찾기",
-      "priority": "medium"
-    },
-    {
-      "insight": "삼성전자의 새로운 제품과 기술 개발은 시장에서 경쟁력을 갖출 수 있다",
-      "action": "삼성전자의 제품과 기술 개발을 분석하여 시장에서 경쟁력을 갖출 수 있는 방법을 찾기",
+      "insight": "정치적 논쟁이 커뮤니티에서 많이 진행되고 있습니다.",
+      "action": "정치적 논쟁에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "현대차의 자율주행 기술과 전기차 보급은 미래의 자동차 산업을 주도할 수 있다",
-      "action": "현대차의 자율주행 기술과 전기차 보급을 분석하여 미래의 자동차 산업을 주도할 수 있는 방법을 찾기",
+      "insight": "최신 기술 뉴스와 트렌드가 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "action": "기술 뉴스와 트렌드에 대한 콘텐츠 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 쿠팡의 아이패드 대란과 삼성전자의 새로운 제품과 기술 개발, 현대차의 자율주행 기술과 전기차 보급이 주목을 끌었다. 이러한 트렌드는 소비자들의 관심을 끌고 시장에서 경쟁력을 갖출 수 있는 방법을 찾는 데 도움이 될 수 있다. 또한, 이러한 트렌드는 미래의 자동차 산업을 주도할 수 있는 방법을 찾는 데 도움이 될 수 있다. 따라서, 이러한 트렌드를 분석하여 소비자들의 관심을 끌고 시장에서 경쟁력을 갖출 수 있는 방법을 찾는 것이 중요하다.",
-  "analyzed_at": "2026-04-29T02:30:34.002Z",
+  "narrative": "커뮤니티에서 정치적 논쟁과 기술 뉴스, 경제 뉴스가 많이 обсужд되고 있습니다. 정치적 논쟁에 대한 대응 전략 수립과 기술 뉴스와 트렌드에 대한 콘텐츠 개발이 필요합니다. 또한, 경제 뉴스와 관련된 콘텐츠 개발도 고려해야 합니다. 커뮤니티의 중립적 분위기를 고려하여 콘텐츠 개발과 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-04-29T04:00:33.392Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
