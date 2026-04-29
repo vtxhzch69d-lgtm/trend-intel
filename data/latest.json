@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "윤석열 2심 결과",
-      "summary": "윤석열 2심 결과에 대한 논의가 활발하게 진행 중입니다. 체포방해 혐의 관련하여 다양한 의견이 있습니다.",
-      "post_count": 2,
+      "topic": "고유가 지원금",
+      "summary": "고유가 지원금에 대한 논의와 여론의 반응",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자 노조 파업",
-      "summary": "삼성전자 노조 파업에 대한 논의가 진행 중입니다. 무리한 요구와 경쟁력 약화에 대한 의견이 있습니다.",
-      "post_count": 1,
+      "topic": "윤석열의 석방",
+      "summary": "윤석열의 석방에 대한 요구와 논의",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술에 대한 논의가 활발하게 진행 중입니다. 다양한 주제와 기술에 대한 의견이 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "삼성전자 노조 파업",
+      "summary": "삼성전자 노조 파업에 대한 논의와 여론의 반응",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "윤석열",
-      "count": 3,
+      "keyword": "고유가 지원금",
+      "count": 10,
       "sentiment": "negative",
-      "context": "체포방해 혐의 관련 논의"
+      "context": "고유가 지원금에 대한 논의와 여론의 반응"
+    },
+    {
+      "keyword": "윤석열",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "윤석열의 석방에 대한 요구와 논의"
     },
     {
       "keyword": "삼성전자",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "노조 파업과 기술에 대한 논의"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술과 혁신에 대한 논의"
+      "sentiment": "negative",
+      "context": "삼성전자 노조 파업에 대한 논의와 여론의 반응"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 10,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "부정적인 여론이 우세"
   },
   "business_insights": [
     {
-      "insight": "AI와 기술에 대한 관심이 높아지고 있습니다.",
-      "action": "AI와 기술에 대한 콘텐츠를 제공하여 고객의 관심을 끌어야 합니다.",
+      "insight": "고유가 지원금에 대한 논의가 활발",
+      "action": "고유가 지원금에 대한 정책을 검토",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 노조 파업에 대한 논의가 진행 중입니다.",
-      "action": "노조 파업에 대한 최신 정보를 제공하여 고객의 관심을 끌어야 합니다.",
+      "insight": "윤석열의 석방에 대한 요구가 증가",
+      "action": "윤석열의 석방에 대한 정책을 검토",
+      "priority": "medium"
+    },
+    {
+      "insight": "삼성전자 노조 파업에 대한 논의가 활발",
+      "action": "삼성전자 노조 파업에 대한 정책을 검토",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI와 기술에 대한 관심이 높아지고 있습니다. 다양한 주제와 기술에 대한 의견이 있습니다. 또한, 삼성전자 노조 파업에 대한 논의가 진행 중입니다. 이러한 트렌드를 분석하여 고객의 관심을 끌 수 있는 콘텐츠를 제공해야 합니다. 또한, 최신 정보를 제공하여 고객의 신뢰를 얻어야 합니다.",
-  "analyzed_at": "2026-04-29T07:00:34.123Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 고유가 지원금, 윤석열의 석방, 삼성전자 노조 파업 등이 주요한 주제로 나타났습니다. 고유가 지원금에 대한 논의는 활발하게 진행되고 있으며, 윤석열의 석방에 대한 요구도 증가하고 있습니다. 또한, 삼성전자 노조 파업에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 정책을 검토하고 대응하는 것이 필요합니다.",
+  "analyzed_at": "2026-04-29T08:30:33.691Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
