@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많습니다. 정부의 정책과 정치인들의 활동이 주목을 받고 있습니다.",
+      "summary": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다. 여러 정치인과 정치 관련 사건에 대한 논의가 활발했습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 주목을 받고 있습니다. AI와 전기차 관련 뉴스가 많습니다.",
+      "summary": "최신 기술 관련 뉴스와 제품 출시가 많은 것으로 나타났습니다. 특히 AI와 OLED 관련 뉴스가 주를 이루었습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 기업의 실적이 주목을 받고 있습니다. 기업의 성장과 투자 기회가 관심을 받고 있습니다.",
+      "summary": "경제 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히 기업 실적과 경제 정책에 대한 논의가 활발했습니다.",
       "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시"
+      "context": "최신 기술 관련 뉴스와 제품 출시"
     },
     {
-      "keyword": "전기차",
+      "keyword": "OLED",
       "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시"
+      "context": "최신 기술 관련 뉴스와 제품 출시"
     },
     {
-      "keyword": "정부",
-      "count": 8,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "mixed",
       "context": "정치 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술에 대한 마케팅과 제품 개발에 집중할 필요가 있습니다.",
+      "insight": "최신 기술 관련 뉴스와 제품 출시가 많은 것으로 나타났습니다.",
+      "action": "최신 기술 관련 제품 개발과 마케팅에 집중할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
-      "action": "정치와 경제에 대한 뉴스와 분석을 제공할 필요가 있습니다.",
+      "insight": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다.",
+      "action": "정치 관련 뉴스와 의견을 모니터링하고 대응할 필요가 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최신 기술과 정치, 경제에 대한 관심이 높아지고 있습니다. 최신 기술에 대한 마케팅과 제품 개발에 집중할 필요가 있으며, 정치와 경제에 대한 뉴스와 분석을 제공할 필요가 있습니다. 중립적인 분위기에서 기업의 성장과 투자 기회가 관심을 받고 있습니다.",
-  "analyzed_at": "2026-04-30T19:30:33.398Z",
+  "narrative": "최신 기술 관련 뉴스와 제품 출시가 많은 것으로 나타났습니다. 특히 AI와 OLED 관련 뉴스가 주를 이루었습니다. 정치 관련 뉴스와 의견도 많은 것으로 나타났습니다. 이러한 트렌드를 고려하여 최신 기술 관련 제품 개발과 마케팅에 집중할 필요가 있습니다. 또한 정치 관련 뉴스와 의견을 모니터링하고 대응할 필요가 있습니다. 중립적이지만 약간 긍정적인 분위기입니다.",
+  "analyzed_at": "2026-04-30T21:00:34.200Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
