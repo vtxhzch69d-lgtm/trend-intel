@@ -1,98 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "노동조합과 정부의 대립",
-      "summary": "노동조합의 과도한 요구와 정부의 대응에 대한 논의",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융 뉴스",
-      "summary": "한국의 경제 및 금융 뉴스에 대한 논의",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "테크 및 IT 뉴스",
-      "summary": "최신 테크 및 IT 뉴스에 대한 논의",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회 뉴스",
-      "summary": "한국의 정치 및 사회 뉴스에 대한 논의",
-      "post_count": 7,
+      "topic": "정치 및 사회",
+      "summary": "여러 정치 및 사회 관련 주제가 논의되고 있습니다. 하정우, 이재명 정부, 국회 증감법 위반 등 다양한 주제가 포함됩니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "스포츠 뉴스",
-      "summary": "최신 스포츠 뉴스에 대한 논의",
-      "post_count": 3,
+      "topic": "기술 및 산업",
+      "summary": "최신 기술 및 산업 동향이 논의되고 있습니다. AI, OLED, 반도체 등 다양한 주제가 포함됩니다.",
+      "post_count": 20,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제가 논의되고 있습니다. 삼성전자, 네이버, 현대차그룹 등 다양한 기업이 포함됩니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "노동조합",
+      "keyword": "하정우",
       "count": 5,
       "sentiment": "negative",
-      "context": "노동조합의 과도한 요구"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "한국의 경제 뉴스"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "삼성전자의 최신 뉴스"
-    },
-    {
-      "keyword": "트럼프",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "트럼프의 뉴스"
+      "context": "하정우 관련 논란이 있습니다."
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI의 최신 기술"
+      "context": "AI 기술이 발전하고 있습니다."
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "삼성전자 관련 뉴스가 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 12,
-    "neutral": 20,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "노동조합과 정부의 대립은 한국의 경제에 부정적인 영향을 미칠 수 있다.",
-      "action": "노동조합과 정부의 대립을 주시하고 대응策을 마련한다.",
+      "insight": "최신 기술 및 산업 동향을 주시해야 합니다.",
+      "action": "최신 기술 및 산업 동향을 분석하고 연구해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "테크 및 IT 뉴스는 한국의 경제에 긍정적인 영향을 미칠 수 있다.",
-      "action": "테크 및 IT 뉴스를 주시하고 투자한다.",
+      "insight": "경제 및 금융 관련 주제를 주시해야 합니다.",
+      "action": "경제 및 금융 관련 뉴스를 분석하고 연구해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "스포츠 뉴스는 한국의 사회에 긍정적인 영향을 미칠 수 있다.",
-      "action": "스포츠 뉴스를 주시하고 지원한다.",
-      "priority": "low"
     }
   ],
-  "narrative": "한국의 온라인 커뮤니티에서는 노동조합과 정부의 대립, 경제 및 금융 뉴스, 테크 및 IT 뉴스, 정치 및 사회 뉴스, 스포츠 뉴스 등 다양한 주제가 논의되고 있다. 노동조합과 정부의 대립은 한국의 경제에 부정적인 영향을 미칠 수 있으므로 주시하고 대응策을 마련해야 한다. 테크 및 IT 뉴스는 한국의 경제에 긍정적인 영향을 미칠 수 있으므로 주시하고 투자해야 한다. 스포츠 뉴스는 한국의 사회에 긍정적인 영향을 미칠 수 있으므로 주시하고 지원해야 한다.",
-  "analyzed_at": "2026-04-30T07:00:34.072Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치 및 사회, 기술 및 산업, 경제 및 금융 관련 주제가 논의되고 있습니다. 하정우, 이재명 정부, 국회 증감법 위반 등 다양한 주제가 포함됩니다. 또한, 최신 기술 및 산업 동향이 발전하고 있습니다. AI, OLED, 반도체 등 다양한 주제가 포함됩니다. 경제 및 금융 관련 주제도 중요합니다. 삼성전자, 네이버, 현대차그룹 등 다양한 기업이 포함됩니다. 이러한 트렌드를 주시하고 분석하여 사업 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-04-30T09:00:34.259Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
