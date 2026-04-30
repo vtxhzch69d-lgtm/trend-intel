@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 가전사업",
-      "summary": "삼성전자가 가전사업을 대거 정리할 것이라는 소식이 전해짐에 따라 관련된 게시글이 많이 올라왔습니다. 이에 대한 반응은 대부분 부정적입니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "기술 및 산업",
+      "summary": "최신 기술 개발 및 산업 동향에 대한 관심이 높다. 삼성전자, 현대차그룹 등의 기업이 새로운 기술 및 제품을 개발하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "이란전쟁 비용",
-      "summary": "미국의 이란전쟁 비용이 37조원에 달하는 것으로 알려졌습니다. 이에 대한 반응은 대부분 부정적입니다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "정치 및 경제",
+      "summary": "정치 및 경제 관련 뉴스에 대한 관심이 높다. 트럼프, 이란, 한국 경제 등 다양한 주제가 논의되고 있다.",
+      "post_count": 12,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "트럼프의 독일 주둔 미군 감축",
-      "summary": "트럼프가 독일 주둔 미군을 감축할 것이라는 소식이 전해짐에 따라 관련된 게시글이 많이 올라왔습니다. 이에 대한 반응은 대부분 중립적입니다.",
-      "post_count": 2,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "엔터테인먼트",
+      "summary": "영화, 드라마, 게임 등 엔터테인먼트 관련 주제에 대한 관심이 높다. 새로운 영화 및 게임이 출시되고 있다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "가전사업 정리 관련된 게시글에서 많이 언급됨"
-    },
-    {
-      "keyword": "이란전쟁",
       "count": 5,
-      "sentiment": "negative",
-      "context": "전쟁 비용 관련된 게시글에서 많이 언급됨"
+      "sentiment": "positive",
+      "context": "새로운 기술 개발 및 제품 출시"
     },
     {
       "keyword": "트럼프",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "정치 및 경제 관련 논란"
+    },
+    {
+      "keyword": "AI",
       "count": 3,
-      "sentiment": "neutral",
-      "context": "독일 주둔 미군 감축 관련된 게시글에서 많이 언급됨"
+      "sentiment": "positive",
+      "context": "최신 기술 개발 및 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 부정적인 감정도 많음"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자의 가전사업 정리는 소비자에게 영향을 미칠 수 있음",
-      "action": "소비자 반응을 주시하고 대응策을 마련할 필요가 있음",
+      "insight": "최신 기술 개발 및 산업 동향에 대한 관심이 높아지고 있다.",
+      "action": "새로운 기술 및 제품 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "이란전쟁 비용은 경제에 영향을 미칠 수 있음",
-      "action": "경제 동향을 주시하고 대응策을 마련할 필요가 있음",
+      "insight": "정치 및 경제 관련 뉴스에 대한 관심이 높아지고 있다.",
+      "action": "정치 및 경제 관련 뉴스를 주시하기",
       "priority": "medium"
+    },
+    {
+      "insight": "엔터테인먼트 관련 주제에 대한 관심이 높아지고 있다.",
+      "action": "새로운 영화 및 게임 출시를 주시하기",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성전자의 가전사업 정리와 이란전쟁 비용, 트럼프의 독일 주둔 미군 감축 등으로 구성되어 있습니다. 이에 대한 반응은 대부분 부정적이거나 중립적입니다. 이러한 트렌드는 소비자와 경제에 영향을 미칠 수 있으므로 주시하고 대응策을 마련할 필요가 있습니다. 또한, 이러한 트렌드는 기업의 마케팅 전략에 영향을 미칠 수 있으므로 마케터는 이러한 트렌드를 주시하고 대응策을 마련할 필요가 있습니다.",
-  "analyzed_at": "2026-04-29T23:00:34.389Z",
+  "narrative": "최근의 트렌드 분석 결과, 기술 및 산업, 정치 및 경제, 엔터테인먼트 등 다양한 주제에 대한 관심이 높아지고 있다. 특히, 최신 기술 개발 및 산업 동향에 대한 관심이 높아지고 있으며, 삼성전자, 현대차그룹 등의 기업이 새로운 기술 및 제품을 개발하고 있다. 또한, 정치 및 경제 관련 뉴스에 대한 관심이 높아지고 있으며, 트럼프, 이란, 한국 경제 등 다양한 주제가 논의되고 있다. 엔터테인먼트 관련 주제에 대한 관심도 높아지고 있으며, 새로운 영화 및 게임이 출시되고 있다. 이러한 트렌드에 대한 분석을 통해, 기업 및 마케터는 최신 기술 개발 및 산업 동향, 정치 및 경제 관련 뉴스, 엔터테인먼트 관련 주제에 대한 관심을 고려하여 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-04-30T01:00:34.436Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
