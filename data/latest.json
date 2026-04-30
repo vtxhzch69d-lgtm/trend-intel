@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "여러 정치 및 사회 관련 주제가 논의되고 있습니다. 하정우, 이재명 정부, 국회 증감법 위반 등 다양한 주제가 포함됩니다.",
-      "post_count": 15,
+      "topic": "정치",
+      "summary": "최근 정치 관련 게시글이 많아 정치적인 이슈가 뜨거운 것으로 보인다. 푸틴과 트럼프의 전쟁 관련 언급, 하정우의 손 털기 논란 등이 대표적이다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향이 논의되고 있습니다. AI, OLED, 반도체 등 다양한 주제가 포함됩니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "경제 관련 게시글도 많아 경제적인 이슈가 많은 것으로 보인다. 주식 내부자거래 제보자 보상금액, SK하이닉스 하청노동자들의 직접 교섭 등이 대표적이다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제가 논의되고 있습니다. 삼성전자, 네이버, 현대차그룹 등 다양한 기업이 포함됩니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "기술 관련 게시글도 많아 기술적인 이슈가 많은 것으로 보인다. LG전자 울트라기어 에보 5K 게이밍 모니터 출시, 네이버의 실행형 AI 등이 대표적이다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "하정우",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "하정우 관련 논란이 있습니다."
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "푸틴과 트럼프의 전쟁 관련 언급"
     },
     {
-      "keyword": "AI",
+      "keyword": "경제",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술이 발전하고 있습니다."
+      "sentiment": "neutral",
+      "context": "주식 내부자거래 제보자 보상금액"
     },
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "삼성전자 관련 뉴스가 있습니다."
+      "keyword": "기술",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "LG전자 울트라기어 에보 5K 게이밍 모니터 출시"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 25,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 산업 동향을 주시해야 합니다.",
-      "action": "최신 기술 및 산업 동향을 분석하고 연구해야 합니다.",
+      "insight": "정치적인 이슈가 뜨거운 것으로 보인다.",
+      "action": "정치적인 이슈에 대한 대응을 준비해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제를 주시해야 합니다.",
-      "action": "경제 및 금융 관련 뉴스를 분석하고 연구해야 합니다.",
+      "insight": "경제적인 이슈가 많은 것으로 보인다.",
+      "action": "경제적인 이슈에 대한 분석을 진행해야 한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술적인 이슈가 많은 것으로 보인다.",
+      "action": "기술적인 이슈에 대한 연구를 진행해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치 및 사회, 기술 및 산업, 경제 및 금융 관련 주제가 논의되고 있습니다. 하정우, 이재명 정부, 국회 증감법 위반 등 다양한 주제가 포함됩니다. 또한, 최신 기술 및 산업 동향이 발전하고 있습니다. AI, OLED, 반도체 등 다양한 주제가 포함됩니다. 경제 및 금융 관련 주제도 중요합니다. 삼성전자, 네이버, 현대차그룹 등 다양한 기업이 포함됩니다. 이러한 트렌드를 주시하고 분석하여 사업 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-04-30T09:00:34.259Z",
+  "narrative": "최근 정치, 경제, 기술 관련 게시글이 많아 각 분야의 이슈가 뜨거운 것으로 보인다. 정치적인 이슈는 푸틴과 트럼프의 전쟁 관련 언급, 하정우의 손 털기 논란 등이 대표적이다. 경제적인 이슈는 주식 내부자거래 제보자 보상금액, SK하이닉스 하청노동자들의 직접 교섭 등이 대표적이다. 기술적인 이슈는 LG전자 울트라기어 에보 5K 게이밍 모니터 출시, 네이버의 실행형 AI 등이 대표적이다. 이러한 이슈에 대한 대응과 분석을 준비해야 한다.",
+  "analyzed_at": "2026-04-30T10:30:33.892Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
