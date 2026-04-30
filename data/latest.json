@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아 정치적인 이슈가 뜨거운 것으로 보인다. 푸틴과 트럼프의 전쟁 관련 언급, 하정우의 손 털기 논란 등이 대표적이다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 게시글도 많아 경제적인 이슈가 많은 것으로 보인다. 주식 내부자거래 제보자 보상금액, SK하이닉스 하청노동자들의 직접 교섭 등이 대표적이다.",
-      "post_count": 8,
+      "topic": "외국인 노동자 인권",
+      "summary": "외국인 노동자 인권 문제가 논란이 되고 있습니다. 정부는 외국인 노동자 인권을 강화하기 위해 노력하고 있습니다.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 게시글도 많아 기술적인 이슈가 많은 것으로 보인다. LG전자 울트라기어 에보 5K 게이밍 모니터 출시, 네이버의 실행형 AI 등이 대표적이다.",
-      "post_count": 12,
+      "topic": "AI 기술 발전",
+      "summary": "AI 기술이 발전하고 있습니다. 다양한 기업들이 AI 기술을 활용하여 새로운 제품과 서비스를 개발하고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 뉴스",
+      "summary": "경제 뉴스가 많습니다. 다양한 경제 뉴스가 올라오고 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "푸틴과 트럼프의 전쟁 관련 언급"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술 발전"
+    },
+    {
+      "keyword": "외국인 노동자",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "외국인 노동자 인권"
     },
     {
       "keyword": "경제",
-      "count": 10,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "주식 내부자거래 제보자 보상금액"
-    },
-    {
-      "keyword": "기술",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "LG전자 울트라기어 에보 5K 게이밍 모니터 출시"
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 기분"
   },
   "business_insights": [
     {
-      "insight": "정치적인 이슈가 뜨거운 것으로 보인다.",
-      "action": "정치적인 이슈에 대한 대응을 준비해야 한다.",
+      "insight": "AI 기술을 활용하여 새로운 제품과 서비스를 개발할 수 있습니다.",
+      "action": "AI 기술을 연구하고 개발하세요.",
       "priority": "high"
     },
     {
-      "insight": "경제적인 이슈가 많은 것으로 보인다.",
-      "action": "경제적인 이슈에 대한 분석을 진행해야 한다.",
+      "insight": "외국인 노동자 인권 문제를 해결하기 위해 정부와 기업이 협력해야 합니다.",
+      "action": "외국인 노동자 인권 문제를 해결하기 위해 노력하세요.",
       "priority": "medium"
     },
     {
-      "insight": "기술적인 이슈가 많은 것으로 보인다.",
-      "action": "기술적인 이슈에 대한 연구를 진행해야 한다.",
+      "insight": "경제 뉴스를 분석하여 시장 동향을 파악할 수 있습니다.",
+      "action": "경제 뉴스를 분석하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치, 경제, 기술 관련 게시글이 많아 각 분야의 이슈가 뜨거운 것으로 보인다. 정치적인 이슈는 푸틴과 트럼프의 전쟁 관련 언급, 하정우의 손 털기 논란 등이 대표적이다. 경제적인 이슈는 주식 내부자거래 제보자 보상금액, SK하이닉스 하청노동자들의 직접 교섭 등이 대표적이다. 기술적인 이슈는 LG전자 울트라기어 에보 5K 게이밍 모니터 출시, 네이버의 실행형 AI 등이 대표적이다. 이러한 이슈에 대한 대응과 분석을 준비해야 한다.",
-  "analyzed_at": "2026-04-30T10:30:33.892Z",
+  "narrative": "현재 트렌드는 AI 기술 발전과 외국인 노동자 인권 문제, 경제 뉴스입니다. AI 기술은 다양한 기업들이 활용하여 새로운 제품과 서비스를 개발하고 있습니다. 외국인 노동자 인권 문제는 정부와 기업이 협력하여 해결해야 합니다. 경제 뉴스는 다양한 뉴스가 올라오고 있습니다. 이러한 트렌드를 분석하여 사업을 발전시킬 수 있습니다. 또한, AI 기술을 활용하여 새로운 제품과 서비스를 개발할 수 있습니다. 외국인 노동자 인권 문제를 해결하기 위해 정부와 기업이 협력해야 합니다. 경제 뉴스를 분석하여 시장 동향을 파악할 수 있습니다.",
+  "analyzed_at": "2026-04-30T12:00:33.976Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
