@@ -1,67 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "트럼프와 한국 정치 관련된 다양한 뉴스와 의견이 논의되고 있습니다. 트럼프의 계엄 선언 가능성과 한국의 정치 상황이 주목을 받고 있습니다.",
-      "post_count": 15,
+      "topic": "노동조합과 정부의 대립",
+      "summary": "노동조합의 과도한 요구와 정부의 대응에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융 뉴스",
+      "summary": "한국의 경제 및 금융 뉴스에 대한 논의",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테크 및 IT 뉴스",
+      "summary": "최신 테크 및 IT 뉴스에 대한 논의",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회 뉴스",
+      "summary": "한국의 정치 및 사회 뉴스에 대한 논의",
+      "post_count": 7,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "한국의 경제 상황과 기업 동향이 논의되고 있습니다. 삼성전자와 현대차그룹의 뉴스와 IT 산업의 발전이 주목을 받고 있습니다.",
-      "post_count": 20,
+      "topic": "스포츠 뉴스",
+      "summary": "최신 스포츠 뉴스에 대한 논의",
+      "post_count": 3,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 기술 관련된 뉴스와 의견이 논의되고 있습니다. 구글의 AI 협력과 삼성전자와 현대차그룹의 기술 개발이 주목을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 10,
+      "keyword": "노동조합",
+      "count": 5,
       "sentiment": "negative",
-      "context": "트럼프의 계엄 선언 가능성과 정치 상황"
+      "context": "노동조합의 과도한 요구"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "한국의 경제 뉴스"
     },
     {
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 3,
       "sentiment": "positive",
-      "context": "삼성전자의 기술 개발과 경제 상황"
+      "context": "삼성전자의 최신 뉴스"
+    },
+    {
+      "keyword": "트럼프",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "트럼프의 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 4,
       "sentiment": "positive",
-      "context": "AI와 기술 관련된 뉴스와 의견"
+      "context": "AI의 최신 기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "한국의 정치와 경제 상황에 대한 관심이 높고, 기술 발전에 대한 긍정적인 의견이 많습니다."
+    "positive": 15,
+    "negative": 12,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국의 정치와 경제 상황에 대한 관심이 높아지고 있습니다.",
-      "action": "정치와 경제 관련된 뉴스와 의견을 주목하고, 기술 발전에 대한 기회를 찾습니다.",
+      "insight": "노동조합과 정부의 대립은 한국의 경제에 부정적인 영향을 미칠 수 있다.",
+      "action": "노동조합과 정부의 대립을 주시하고 대응策을 마련한다.",
       "priority": "high"
     },
     {
-      "insight": "기술 발전에 대한 관심이 높아지고 있습니다.",
-      "action": "AI와 기술 관련된 뉴스와 의견을 주목하고, 기술 개발에 대한 기회를 찾습니다.",
+      "insight": "테크 및 IT 뉴스는 한국의 경제에 긍정적인 영향을 미칠 수 있다.",
+      "action": "테크 및 IT 뉴스를 주시하고 투자한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "스포츠 뉴스는 한국의 사회에 긍정적인 영향을 미칠 수 있다.",
+      "action": "스포츠 뉴스를 주시하고 지원한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "한국의 정치와 경제 상황에 대한 관심이 높아지고 있습니다. 트럼프와 한국 정치 관련된 다양한 뉴스와 의견이 논의되고 있습니다. 또한, 기술 발전에 대한 관심이 높아지고 있습니다. AI와 기술 관련된 뉴스와 의견이 주목을 받고 있습니다. 이러한 상황에서 기업들은 정치와 경제 관련된 뉴스와 의견을 주목하고, 기술 발전에 대한 기회를 찾는 것이 중요합니다. 또한, 기술 개발에 대한 투자를 고려하고, 미래의 기술 발전을 주목하는 것이 필요합니다.",
-  "analyzed_at": "2026-04-30T05:30:34.000Z",
+  "narrative": "한국의 온라인 커뮤니티에서는 노동조합과 정부의 대립, 경제 및 금융 뉴스, 테크 및 IT 뉴스, 정치 및 사회 뉴스, 스포츠 뉴스 등 다양한 주제가 논의되고 있다. 노동조합과 정부의 대립은 한국의 경제에 부정적인 영향을 미칠 수 있으므로 주시하고 대응策을 마련해야 한다. 테크 및 IT 뉴스는 한국의 경제에 긍정적인 영향을 미칠 수 있으므로 주시하고 투자해야 한다. 스포츠 뉴스는 한국의 사회에 긍정적인 영향을 미칠 수 있으므로 주시하고 지원해야 한다.",
+  "analyzed_at": "2026-04-30T07:00:34.072Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
