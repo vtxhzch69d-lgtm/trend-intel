@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 뉴스와 정책에 대한 논의",
+      "summary": "정치 관련 뉴스와 의견이 많습니다. 정부의 정책과 정치인들의 활동이 주목을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 발전",
+      "summary": "최신 기술 뉴스와 제품 출시가 주목을 받고 있습니다. AI와 전기차 관련 뉴스가 많습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "最近의 경제 뉴스와 분석",
+      "summary": "경제 관련 뉴스와 기업의 실적이 주목을 받고 있습니다. 기업의 성장과 투자 기회가 관심을 받고 있습니다.",
       "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술"
+      "context": "최신 기술 뉴스와 제품 출시"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제"
+      "keyword": "전기차",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 제품 출시"
+    },
+    {
+      "keyword": "정부",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 30,
     "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 발전",
-      "action": "투자",
+      "insight": "최신 기술에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술에 대한 마케팅과 제품 개발에 집중할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 분석",
-      "action": "분석",
+      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
+      "action": "정치와 경제에 대한 뉴스와 분석을 제공할 필요가 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 동향",
-      "action": "관찰",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 정책에 대한 논의가 활발하게 진행되고 있으며, 기술 발전과 경제 분석도 중요한 주제로 떠오르고 있습니다. 기술 발전은 투자할 가치가 있는 분야이며, 경제 분석은 시장 동향을 이해하는 데 중요합니다. 정치 동향은 관찰할 필요가 있습니다. 전체적으로 중립적인 분위기입니다.",
-  "analyzed_at": "2026-04-30T18:00:33.270Z",
+  "narrative": "최신 기술과 정치, 경제에 대한 관심이 높아지고 있습니다. 최신 기술에 대한 마케팅과 제품 개발에 집중할 필요가 있으며, 정치와 경제에 대한 뉴스와 분석을 제공할 필요가 있습니다. 중립적인 분위기에서 기업의 성장과 투자 기회가 관심을 받고 있습니다.",
+  "analyzed_at": "2026-04-30T19:30:33.398Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
