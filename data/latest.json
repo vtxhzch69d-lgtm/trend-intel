@@ -2,66 +2,84 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다. 여러 정치인과 정치 관련 사건에 대한 논의가 활발했습니다.",
-      "post_count": 15,
+      "summary": "정청래 대표의 평택 방문과 민주당의 다수당 가능성에 대한 논의",
+      "post_count": 5,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련 뉴스와 제품 출시가 많은 것으로 나타났습니다. 특히 AI와 OLED 관련 뉴스가 주를 이루었습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 의견이 많은 것으로 나타났습니다. 특히 기업 실적과 경제 정책에 대한 논의가 활발했습니다.",
-      "post_count": 10,
+      "summary": "고유가로 인한 민심 악화와 정부의 대책에 대한 논의",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "갤럭시 S26 시리즈의 가격과 성능에 대한 논의",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "사회",
+      "summary": "부동산 문제와 인구 감소 지역에 대한 논의",
+      "post_count": 4,
       "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 관련 뉴스와 제품 출시"
+      "keyword": "정청래",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "정치인"
     },
     {
-      "keyword": "OLED",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 관련 뉴스와 제품 출시"
+      "keyword": "고유가",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "경제 문제"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
+      "keyword": "갤럭시 S26",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "신제품"
+    },
+    {
+      "keyword": "부동산",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "사회 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
+    "positive": 10,
+    "negative": 15,
     "neutral": 20,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 관련 뉴스와 제품 출시가 많은 것으로 나타났습니다.",
-      "action": "최신 기술 관련 제품 개발과 마케팅에 집중할 필요가 있습니다.",
+      "insight": "고유가로 인한 민심 악화는 정부의 대책을 요구한다",
+      "action": "정부의 대책을 모니터링한다",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다.",
-      "action": "정치 관련 뉴스와 의견을 모니터링하고 대응할 필요가 있습니다.",
+      "insight": "갤럭시 S26 시리즈의 가격과 성능은 소비자의 관심을 끌었다",
+      "action": "신제품의 마케팅 전략을 개발한다",
       "priority": "medium"
+    },
+    {
+      "insight": "부동산 문제는 사회적인 관심을 끌었다",
+      "action": "부동산 관련 정책을 개발한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최신 기술 관련 뉴스와 제품 출시가 많은 것으로 나타났습니다. 특히 AI와 OLED 관련 뉴스가 주를 이루었습니다. 정치 관련 뉴스와 의견도 많은 것으로 나타났습니다. 이러한 트렌드를 고려하여 최신 기술 관련 제품 개발과 마케팅에 집중할 필요가 있습니다. 또한 정치 관련 뉴스와 의견을 모니터링하고 대응할 필요가 있습니다. 중립적이지만 약간 긍정적인 분위기입니다.",
-  "analyzed_at": "2026-04-30T21:00:34.200Z",
+  "narrative": "최근의 트렌드는 정치, 경제, 기술, 사회 등 다양한 주제를 다루고 있다. 고유가로 인한 민심 악화와 정부의 대책, 갤럭시 S26 시리즈의 가격과 성능, 부동산 문제 등이 주요한 관심사이다. 이러한 트렌드는 정부와 기업의 대책과 마케팅 전략을 요구한다. 또한, 부동산 문제는 사회적인 관심을 끌었으며, 관련 정책을 개발하는 것이 필요하다.",
+  "analyzed_at": "2026-04-30T22:30:34.161Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
