@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정부 대미라인 대거 교체와 쿠팡 로비에 대한 강경 대응, 이재명 정부의 발목잡는 악날한 족속에 대한 논의",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "最近의 정치 뉴스와 정책에 대한 논의",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "홈플러스와 메리츠의 긴급 자금 요청, LG전자와 삼성전자의 새로운 제품 출시",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 발전",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 OLED 기술의 발전, 네이버와 카카오의 새로운 서비스 출시",
-      "post_count": 12,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "最近의 경제 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
@@ -27,41 +27,46 @@
       "keyword": "이재명",
       "count": 5,
       "sentiment": "negative",
-      "context": "이재명 정부의 발목잡는 악날한 족속"
-    },
-    {
-      "keyword": "쿠팡",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "쿠팡 로비에 대한 강경 대응"
+      "context": "정치"
     },
     {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 새로운 서비스 출시"
+      "context": "기술"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정이 더 강한 것으로 나타남"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있다",
-      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌기",
+      "insight": "기술 발전",
+      "action": "투자",
       "priority": "high"
     },
     {
-      "insight": "AI와 OLED 기술의 발전이 가속화되고 있다",
-      "action": "새로운 기술과 서비스에 대한 정보를 제공하여 사용자의 관심을 끌기",
+      "insight": "경제 분석",
+      "action": "분석",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 동향",
+      "action": "관찰",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 경제에 대한 관심이 높아지고 있으며, AI와 OLED 기술의 발전이 가속화되고 있다. 사용자의 관심을 끌기 위해 관련된 뉴스와 정보를 제공하는 것이 중요하다. 또한, 새로운 기술과 서비스에 대한 정보를 제공하여 사용자의 관심을 끌기 위해 노력해야 한다. 이러한 트렌드와 인사이트를 고려하여 마케팅 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-04-30T16:30:33.678Z",
+  "narrative": "最近의 정치 뉴스와 정책에 대한 논의가 활발하게 진행되고 있으며, 기술 발전과 경제 분석도 중요한 주제로 떠오르고 있습니다. 기술 발전은 투자할 가치가 있는 분야이며, 경제 분석은 시장 동향을 이해하는 데 중요합니다. 정치 동향은 관찰할 필요가 있습니다. 전체적으로 중립적인 분위기입니다.",
+  "analyzed_at": "2026-04-30T18:00:33.270Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
