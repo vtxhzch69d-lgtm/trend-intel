@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "노란봉투법",
-      "summary": "노란봉투법에 대한 논의와 비판",
-      "post_count": 5,
-      "sentiment": "negative",
+      "summary": "노란봉투법에 대한 비판과 논란이 커뮤니티에서 활발하게讨论되고 있다. 일부 사용자들은 법이 졸속으로 통과되었다고 주장하며, 다른 사용자들은 법의 필요성을 강조하고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "애플 제품",
-      "summary": "애플의 새로운 제품 계획과 성과",
-      "post_count": 3,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 논란이 커뮤니티에서 많이讨论되고 있다. 사용자들은 경제 동향과 금융 뉴스를 공유하며, 일부 사용자들은 경제 정책과 금융 제도에 대한 비판을 제기하고 있다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융 관련 뉴스와 분석",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "기술 및 IT",
+      "summary": "최신 기술과 IT 뉴스가 커뮤니티에서 많이讨论되고 있다. 사용자들은 새로운 기술과 제품에 대한 정보를 공유하며, 일부 사용자들은 기술의 발전과 그에 따른 사회적 영향에 대한 논의를 하고 있다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "노란봉투법",
-      "count": 7,
+      "count": 20,
       "sentiment": "negative",
-      "context": "노동법과 노조 관련"
-    },
-    {
-      "keyword": "애플",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "신제품과 기술 개발"
+      "context": "노란봉투법에 대한 비판과 논란"
     },
     {
       "keyword": "경제",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "경제 동향과 금융 뉴스"
+    },
+    {
+      "keyword": "기술",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "금융 뉴스와 분석"
+      "sentiment": "positive",
+      "context": "최신 기술과 IT 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 25,
-    "overall_mood": "중립적이고 비판적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "노란봉투법에 대한 논의가 증가하고 있다",
-      "action": "노동법과 노조 관련 정책을 검토할 필요가 있다",
+      "insight": "노란봉투법에 대한 비판과 논란이 커뮤니티에서 활발하게讨论되고 있다.",
+      "action": "노란봉투법에 대한 정보를 제공하고, 사용자들의 의견을 수렴하여 정책 개선에 반영하는 등 적극적인 대응이 필요하다.",
       "priority": "high"
     },
     {
-      "insight": "애플의 새로운 제품 계획이 관심을 끌고 있다",
-      "action": "신제품 개발과 기술 투자를 고려할 필요가 있다",
+      "insight": "경제 및 금융 관련 뉴스와 논란이 커뮤니티에서 많이讨论되고 있다.",
+      "action": "경제 및 금융 관련 정보를 제공하고, 사용자들의 의견을 수렴하여 경제 정책과 금융 제도에 대한 개선에 반영하는 등 적극적인 대응이 필요하다.",
       "priority": "medium"
     },
     {
-      "insight": "경제와 금융 관련 뉴스가 많아지고 있다",
-      "action": "경제와 금융 관련 분석과 예측을 강화할 필요가 있다",
-      "priority": "medium"
+      "insight": "최신 기술과 IT 뉴스가 커뮤니티에서 많이讨论되고 있다.",
+      "action": "최신 기술과 IT 뉴스를 제공하고, 사용자들의 의견을 수렴하여 기술의 발전과 그에 따른 사회적 영향에 대한 논의를 하는 등 적극적인 대응이 필요하다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 노란봉투법과 애플의 새로운 제품 계획이 주목을 끌고 있다. 노란봉투법에 대한 논의는 노동법과 노조 관련 정책을 검토할 필요가 있음을 시사한다. 또한, 애플의 새로운 제품 계획은 신제품 개발과 기술 투자를 고려할 필요가 있음을 나타낸다. 경제와 금융 관련 뉴스도 많아지고 있어 관련 분석과 예측을 강화할 필요가 있다. 이러한 트렌드와 키워드를 고려하여 마케팅 전략을 수립하고 비즈니스 기회를 발굴할 수 있을 것이다.",
-  "analyzed_at": "2026-05-01T06:00:34.098Z",
+  "narrative": "커뮤니티에서 노란봉투법에 대한 비판과 논란, 경제 및 금융 관련 뉴스와 논란, 최신 기술과 IT 뉴스가 많이讨论되고 있다. 사용자들은 노란봉투법에 대한 정보를 제공하고, 경제 및 금융 관련 정보를 제공하며, 최신 기술과 IT 뉴스를 공유하고 있다. 이러한 논의와 정보 공유는 커뮤니티의 활발한 활동과 사용자들의 관심을 보여준다. 따라서, 노란봉투법에 대한 정보를 제공하고, 경제 및 금융 관련 정보를 제공하며, 최신 기술과 IT 뉴스를 공유하는 등 적극적인 대응이 필요하다.",
+  "analyzed_at": "2026-05-01T07:30:34.740Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
