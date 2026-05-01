@@ -2,66 +2,84 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "추미애, 매머드급 선대위 구성 및 與 원내대표 출마",
+      "summary": "민주당의 보궐선거 전략과 관련된 다양한 의견이 제기되고 있다.",
       "post_count": 5,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 제품과 서비스에 대한 다양한 뉴스와 리뷰가 게시되고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스 및 제품 출시",
-      "post_count": 15,
+      "topic": "게임",
+      "summary": "게임에 대한 다양한 의견과 리뷰가 게시되고 있다.",
+      "post_count": 3,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     },
     {
       "topic": "사회",
-      "summary": "노동절대회 및 사회 문제",
+      "summary": "사회적인 문제와 관련된 다양한 의견과 뉴스가 게시되고 있다.",
       "post_count": 8,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 및 제품"
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 뉴스 및 논평"
-    },
-    {
-      "keyword": "경제",
+      "keyword": "민주당",
       "count": 5,
+      "sentiment": "neutral",
+      "context": "정치"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술"
+    },
+    {
+      "keyword": "게임",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "게임"
+    },
+    {
+      "keyword": "사회",
+      "count": 8,
       "sentiment": "negative",
-      "context": "경제 뉴스 및 문제"
+      "context": "사회"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 제품에 대한 관심이 높아지고 있다",
-      "action": "최신 기술 및 제품에 대한 마케팅 및 광고 강화",
+      "insight": "기술 제품에 대한 수요가 증가하고 있다.",
+      "action": "기술 제품에 대한 마케팅을 강화한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 경제 뉴스에 대한 관심이 높아지고 있다",
-      "action": "정치 및 경제 뉴스에 대한 마케팅 및 광고 강화",
+      "insight": "게임에 대한 관심이 증가하고 있다.",
+      "action": "게임에 대한 마케팅을 강화한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "사회적인 문제에 대한 관심이 증가하고 있다.",
+      "action": "사회적인 문제에 대한 마케팅을 강화한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치, 테크, 사회 등 다양한 주제로 구성되어 있다. 최신 기술 및 제품에 대한 관심이 높아지고 있으며, 정치 및 경제 뉴스에 대한 관심도 높아지고 있다. 이러한 트렌드를 반영하여 마케팅 및 광고 전략을 수립할 필요가 있다. 또한, 최신 기술 및 제품에 대한 마케팅 및 광고 강화가 필요하며, 정치 및 경제 뉴스에 대한 마케팅 및 광고도 강화할 필요가 있다.",
-  "analyzed_at": "2026-05-01T12:00:34.025Z",
+  "narrative": "최근의 트렌드에 따르면, 기술 제품과 게임에 대한 관심이 증가하고 있다. 또한, 사회적인 문제에 대한 관심도 증가하고 있다. 이러한 트렌드를 반영하여, 기술 제품과 게임에 대한 마케팅을 강화하고, 사회적인 문제에 대한 마케팅을 강화하는 것이 효과적일 수 있다. 또한, 중립적인 분위기를 유지하는 것이 중요하다.",
+  "analyzed_at": "2026-05-01T13:30:33.817Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
