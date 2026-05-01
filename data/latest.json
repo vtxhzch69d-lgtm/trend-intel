@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "노동절 기념사, 장동혁의 탄핵 찬성, 정청래 대표의 중도경쟁력",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI, 반도체, OLED, IT 기술 관련 뉴스",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 적용 사례에 대한 관심이 높아지고 있다. 다양한 산업 분야에서 AI 기술을 활용하여 효율성을 높이고 새로운 비즈니스 모델을 개발하고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "수출 증가, 기업 실적, 경제 관련 뉴스",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "정치 및 사회 문제",
+      "summary": "정치 및 사회 문제에 대한 관심이 높아지고 있다. 다양한 정치 및 사회 문제에 대한 논의와 의견 교환이 활발하게 이루어지고 있다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "테크 및 가전",
+      "summary": "테크 및 가전 제품에 대한 관심이 높아지고 있다. 새로운 테크 및 가전 제품의 출시와 그 적용 사례에 대한 논의가 활발하게 이루어지고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 25,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "AI 기술의 발전과 그 적용 사례"
     },
     {
       "keyword": "정치",
-      "count": 12,
+      "count": 20,
       "sentiment": "mixed",
-      "context": "노동절 기념사, 장동혁의 탄핵 찬성"
+      "context": "정치 및 사회 문제에 대한 논의"
     },
     {
-      "keyword": "경제",
-      "count": 8,
+      "keyword": "테크",
+      "count": 15,
       "sentiment": "positive",
-      "context": "수출 증가, 기업 실적"
+      "context": "테크 및 가전 제품에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "보통"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 발전이 경제 성장에 기여",
-      "action": "기술 투자 증가",
+      "insight": "AI 기술의 발전은 다양한 산업 분야에서 효율성을 높이고 새로운 비즈니스 모델을 개발하는 기회를 제공한다.",
+      "action": "AI 기술을 활용하여 비즈니스 모델을 개발하고 효율성을 높이는 전략을 수립한다.",
       "priority": "high"
     },
     {
-      "insight": "정치적 불안정성이 경제에 부정적 영향을 미친다",
-      "action": "정치적 안정성 유지",
+      "insight": "정치 및 사회 문제에 대한 관심은 높은 편이다. 따라서 관련된 비즈니스 모델을 개발하고 효율성을 높이는 전략을 수립하는 것이 중요하다.",
+      "action": "정치 및 사회 문제에 대한 논의와 의견 교환을 통해 비즈니스 모델을 개발하고 효율성을 높이는 전략을 수립한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 뉴스입니다. 기술 발전이 경제 성장에 기여하고 있지만, 정치적 불안정성이 경제에 부정적 영향을 미칠 수 있습니다. 따라서 기술 투자 증가와 정치적 안정성 유지가 필요합니다. 또한, 기업 실적과 수출 증가가 경제 성장에 기여하고 있습니다. 그러나, 정치적 상황에 따라 경제에 부정적 영향을 미칠 수 있으므로, 정치적 안정성을 유지하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-01T01:30:33.930Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그 적용 사례에 대한 관심이 높아지고 있다. 또한 정치 및 사회 문제에 대한 관심도 높은 편이다. 테크 및 가전 제품에 대한 관심도 높아지고 있다. 이러한 트렌드를 통해 비즈니스 모델을 개발하고 효율성을 높이는 전략을 수립할 수 있다. 특히 AI 기술의 발전은 다양한 산업 분야에서 효율성을 높이고 새로운 비즈니스 모델을 개발하는 기회를 제공한다. 따라서 AI 기술을 활용하여 비즈니스 모델을 개발하고 효율성을 높이는 전략을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-05-01T03:00:33.823Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
