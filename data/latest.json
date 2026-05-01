@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 논평이 많습니다. 조국 대표와 관련된 글도 많습니다.",
-      "post_count": 15,
+      "summary": "노동절 기념사, 장동혁의 탄핵 찬성, 정청래 대표의 중도경쟁력",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 제품 출시 소식이 많습니다. 삼성전자와 LG전자 관련 뉴스가 많습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
+      "topic": "기술",
+      "summary": "AI, 반도체, OLED, IT 기술 관련 뉴스",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많습니다. 주식과 금융 관련 글도 많습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "summary": "수출 증가, 기업 실적, 경제 관련 뉴스",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "negative",
-      "context": "정치 관련 글에서 많이 언급됩니다."
+      "sentiment": "positive",
+      "context": "기술 발전"
     },
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "테크 관련 뉴스에서 많이 언급됩니다."
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "노동절 기념사, 장동혁의 탄핵 찬성"
     },
     {
       "keyword": "경제",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 분석에서 많이 언급됩니다."
+      "sentiment": "positive",
+      "context": "수출 증가, 기업 실적"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "보통"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스와 논평이 많아 정치적인 이슈에 관심이 집중되고 있습니다.",
-      "action": "정치 관련 뉴스와 논평을 분석하여 정치적인 이슈에 대한 인사이트를 얻어야 합니다.",
+      "insight": "기술 발전이 경제 성장에 기여",
+      "action": "기술 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "테크 관련 뉴스와 제품 출시 소식이 많아 최신 기술에 대한 관심이 높습니다.",
-      "action": "최신 기술 뉴스와 제품 출시 소식을 분석하여 기술적인 이슈에 대한 인사이트를 얻어야 합니다.",
+      "insight": "정치적 불안정성이 경제에 부정적 영향을 미친다",
+      "action": "정치적 안정성 유지",
       "priority": "medium"
     }
   ],
-  "narrative": "정치적인 이슈에 대한 관심이 집중되고 있으며, 최신 기술에 대한 관심도 높습니다. 경제 관련 뉴스와 분석도 많아 경제적인 이슈에 대한 인사이트를 얻을 수 있습니다. 정치적인 이슈와 기술적인 이슈에 대한 분석을 통해 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-01T00:00:34.232Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 뉴스입니다. 기술 발전이 경제 성장에 기여하고 있지만, 정치적 불안정성이 경제에 부정적 영향을 미칠 수 있습니다. 따라서 기술 투자 증가와 정치적 안정성 유지가 필요합니다. 또한, 기업 실적과 수출 증가가 경제 성장에 기여하고 있습니다. 그러나, 정치적 상황에 따라 경제에 부정적 영향을 미칠 수 있으므로, 정치적 안정성을 유지하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-01T01:30:33.930Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
