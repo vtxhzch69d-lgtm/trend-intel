@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프 아들들 최신 근황",
-      "summary": "트럼프 아들들의 최근 활동과 소식이 클리앙 커뮤니티에서 논란이 되고 있습니다. 트럼프 아들들의 행동과 발언이 미국 정치와 사회에 미치는 영향에 대해 사용자들이 다양한 의견을 나누고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "트럼프",
+      "summary": "트럼프 암살 시도 사건 및 트럼프 아들들 최신 근황",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "K-팝",
+      "summary": "트와이스, 日 도쿄 국립경기장 24만명 동원…일본 투어로만 64만 관객",
+      "post_count": 1,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "K-팝의 일본 투어",
-      "summary": "트와이스의 일본 투어와 K-팝의 글로벌 인기에 대해 클리앙 커뮤니티에서 논의가 진행 중입니다. 사용자들은 K-팝의 세계적인 인기와 한국 문화의 확산에 대해 긍정적인 의견을 나타내고 있습니다.",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "삼성전자와 LG전자 제품",
-      "summary": "삼성전자와 LG전자의 최신 제품과 기술에 대해 클리앙 커뮤니티에서 논의가 진행 중입니다. 사용자들은 두 회사의 제품과 기술에 대해 다양한 의견을 나누고 있습니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스 및 제품 출시",
+      "post_count": 20,
       "sentiment": "neutral",
       "urgency": "medium"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "트럼프",
-      "count": 10,
+      "count": 5,
       "sentiment": "negative",
-      "context": "트럼프 아들들의 최근 활동과 소식"
+      "context": "트럼프 관련 뉴스"
     },
     {
       "keyword": "K-팝",
-      "count": 5,
+      "count": 1,
       "sentiment": "positive",
-      "context": "트와이스의 일본 투어와 K-팝의 글로벌 인기"
+      "context": "트와이스 일본 투어"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
+      "keyword": "AI",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "삼성전자와 LG전자의 최신 제품과 기술"
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "K-팝의 글로벌 인기",
-      "action": "한국 문화와 엔터테인먼트 산업에 대한 투자",
+      "insight": "트럼프 관련 뉴스가 많이 обсужд되고 있습니다.",
+      "action": "트럼프 관련 뉴스를 주시하고 대응策을 마련하세요.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자와 LG전자의 기술 경쟁",
-      "action": "두 회사의 제품과 기술에 대한 연구와 개발",
+      "insight": "K-팝이 일본에서 인기 있습니다.",
+      "action": "K-팝 관련 마케팅을 강화하세요.",
       "priority": "medium"
     },
     {
-      "insight": "트럼프 아들들의 최근 활동",
-      "action": "미국 정치와 사회에 대한 관심과 분석",
-      "priority": "low"
+      "insight": "최신 기술 뉴스가 많이 обсужд되고 있습니다.",
+      "action": "최신 기술 뉴스를 주시하고 기술 개발을 강화하세요.",
+      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 다양한 주제와 키워드에 대한 논의가 진행 중입니다. 트럼프 아들들의 최근 활동과 소식, K-팝의 일본 투어와 글로벌 인기, 삼성전자와 LG전자의 최신 제품과 기술 등이 주요 주제입니다. 사용자들은 이러한 주제에 대해 다양한 의견을 나누고 있습니다. 이러한 논의는 한국 문화와 엔터테인먼트 산업, 미국 정치와 사회, 기술 산업 등에 대한 관심과 분석을 필요로 합니다. 또한, 이러한 주제와 키워드는 마케팅과 비즈니스 전략에 대한洞察을 제공할 수 있습니다.",
-  "analyzed_at": "2026-05-01T19:30:34.646Z",
+  "narrative": "최근 트럼프 관련 뉴스가 많이 обсужд되고 있습니다. 트럼프 암살 시도 사건 및 트럼프 아들들 최신 근황이 주목을 받고 있습니다. 또한 K-팝이 일본에서 인기 있습니다. 트와이스의 일본 투어가 성공적으로 진행되었습니다. 최신 기술 뉴스도 많이 обсужд되고 있습니다. AI와 관련된 기술 뉴스가 주목을 받고 있습니다. 이러한 트렌드를 주시하고 대응策을 마련하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-01T21:00:34.106Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
