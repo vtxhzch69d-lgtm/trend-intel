@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "트럼프",
-      "summary": "트럼프 암살 시도 사건 및 트럼프 아들들 최신 근황",
-      "post_count": 3,
+      "summary": "트럼프 관련 뉴스와 사건이 최근 많이 논의되고 있습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "K-팝",
-      "summary": "트와이스, 日 도쿄 국립경기장 24만명 동원…일본 투어로만 64만 관객",
-      "post_count": 1,
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 뉴스와 제품 출시가 최근 많이 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 제품 출시",
-      "post_count": 20,
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 분석이 최근 많이 논의되고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     }
@@ -25,48 +25,43 @@
   "keywords": [
     {
       "keyword": "트럼프",
-      "count": 5,
+      "count": 7,
       "sentiment": "negative",
-      "context": "트럼프 관련 뉴스"
-    },
-    {
-      "keyword": "K-팝",
-      "count": 1,
-      "sentiment": "positive",
-      "context": "트와이스 일본 투어"
+      "context": "트럼프 관련 뉴스와 사건"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 뉴스와 제품 출시"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "최신 기술 뉴스"
+      "context": "경제 관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
     "neutral": 25,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "트럼프 관련 뉴스가 많이 обсужд되고 있습니다.",
-      "action": "트럼프 관련 뉴스를 주시하고 대응策을 마련하세요.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 제품 개발",
       "priority": "high"
     },
     {
-      "insight": "K-팝이 일본에서 인기 있습니다.",
-      "action": "K-팝 관련 마케팅을 강화하세요.",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 뉴스가 많이 обсужд되고 있습니다.",
-      "action": "최신 기술 뉴스를 주시하고 기술 개발을 강화하세요.",
+      "insight": "경제의 불안정성",
+      "action": "경제 관련 뉴스와 분석을 주시",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 트럼프 관련 뉴스가 많이 обсужд되고 있습니다. 트럼프 암살 시도 사건 및 트럼프 아들들 최신 근황이 주목을 받고 있습니다. 또한 K-팝이 일본에서 인기 있습니다. 트와이스의 일본 투어가 성공적으로 진행되었습니다. 최신 기술 뉴스도 많이 обсужд되고 있습니다. AI와 관련된 기술 뉴스가 주목을 받고 있습니다. 이러한 트렌드를 주시하고 대응策을 마련하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-01T21:00:34.106Z",
+  "narrative": "最近의 트렌드에 따르면, 트럼프 관련 뉴스와 사건이 많이 논의되고 있습니다. 또한, AI 기술과 관련된 뉴스와 제품 출시가 최근 많이 논의되고 있습니다. 경제 관련 뉴스와 분석도 많이 논의되고 있습니다. 이러한 트렌드를 바탕으로, AI 기술을 활용한 제품 개발과 경제 관련 뉴스와 분석을 주시하는 것이 중요할 것으로 보입니다.",
+  "analyzed_at": "2026-05-01T22:30:34.306Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
