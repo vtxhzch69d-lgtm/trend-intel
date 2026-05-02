@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "대통령 선거와 정치 관련된 주제가 많이 обсужд되고 있습니다.",
+      "summary": "최근 정치 관련 게시글이 많이 올라왔습니다. 주요 쟁점은 정치인들의 발언과 정책입니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 관련된 주제가 많이 обсужд되고 있습니다.",
+      "summary": "최신 기술 관련 게시글이 많이 올라왔습니다. 주요 쟁점은 AI, OLED, 자율주행 등입니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "사회",
-      "summary": "사회 관련된 주제가 많이 обсужд되고 있습니다.",
+      "summary": "사회 관련 게시글이 많이 올라왔습니다. 주요 쟁점은 교육, 노동, 환경 등입니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "low"
@@ -24,44 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "대통령",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "대통령 선거와 관련된 주제"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 관련된 주제"
+      "context": "최신 기술 관련 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "경제",
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 게시글에서 많이 언급되었습니다."
+    },
+    {
+      "keyword": "OLED",
       "count": 5,
-      "sentiment": "negative",
-      "context": "경제 관련된 주제"
+      "sentiment": "positive",
+      "context": "최신 기술 관련 게시글에서 많이 언급되었습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 관련된 주제가 많이 обсужд되고 있습니다.",
-      "action": "최신 기술 관련된 주제에 대한 마케팅 전략을 수립하세요.",
+      "insight": "최신 기술 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "최신 기술 관련 제품이나 서비스를 개발하여 시장에 출시합니다.",
       "priority": "high"
     },
     {
-      "insight": "대통령 선거와 관련된 주제가 많이 обсужд되고 있습니다.",
-      "action": "대통령 선거와 관련된 주제에 대한 마케팅 전략을 수립하세요.",
+      "insight": "정치 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "정치 관련 뉴스나 분석을 제공하여 사용자들의 관심을 끌어냅니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "사회 관련 문제를 해결하는 제품이나 서비스를 개발하여 시장에 출시합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 기술 관련된 주제가 많이 обсужд되고 있습니다. 대통령 선거와 관련된 주제는 많은 관심을 받고 있으며, 최신 기술 관련된 주제는 긍정적인 반응을 보이고 있습니다. 그러나 경제 관련된 주제는 부정적인 반응을 보이고 있습니다. 따라서 최신 기술 관련된 주제에 대한 마케팅 전략을 수립하고, 대통령 선거와 관련된 주제에 대한 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-02T08:00:33.430Z",
+  "narrative": "최근 정치, 기술, 사회 관련 게시글이 많이 올라왔습니다. 최신 기술 관련 게시글은 대부분 긍정적인 감정을 가지고 있으며, 정치 관련 게시글은 복합적인 감정을 가지고 있습니다. 사회 관련 게시글은 대부분 부정적인 감정을 가지고 있습니다. 이러한 트렌드를 분석하여 최신 기술 관련 제품이나 서비스를 개발하여 시장에 출시하고, 정치 관련 뉴스나 분석을 제공하여 사용자들의 관심을 끌어내는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-05-02T09:30:34.210Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
