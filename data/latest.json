@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 로봇세 개념의 등장, AI의 한계효용 체감 구간",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "환율에 따른 프랑스 1인당 GDP 비교, 주가 상승, 경제 성장",
-      "post_count": 8,
+      "topic": "AI 및 기술",
+      "summary": "AI의 발전과 기술의 진보가 다양한 산업에 미치는 영향",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "새로운 기술 및 가전 제품의 출시, 스팀 컨트롤러, 소니 True RGB TV",
-      "post_count": 12,
-      "sentiment": "positive",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 논평",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "엔터테인먼트",
+      "summary": "영화, 음악, 게임 등 엔터테인먼트 관련 뉴스",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전"
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI의 발전과 기술의 진보"
     },
     {
       "keyword": "경제",
       "count": 10,
-      "sentiment": "positive",
-      "context": "경제 성장 및 주가 상승"
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스와 논평"
     },
     {
-      "keyword": "기술",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "새로운 기술 및 가전 제품의 출시"
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 5,
+    "positive": 30,
+    "negative": 15,
     "neutral": 20,
-    "overall_mood": "적절한 성장과 발전"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
       "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신제품 개발",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 성장",
-      "action": "경제 성장에 따른 투자 확대",
-      "priority": "medium"
-    },
-    {
-      "insight": "새로운 기술의 등장",
-      "action": "새로운 기술을 활용한 마케팅 전략 수립",
+      "insight": "경제 및 정치의 불안정성",
+      "action": "경제 및 정치의 변화를 예측하고 대응하는 비즈니스 전략 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 경제 성장, 새로운 기술의 등장 등이 주요 주제로 나타났습니다. 이러한 트렌드들은 기업의 마케팅 전략과 신제품 개발에 큰 영향을 미칠 수 있습니다. 따라서 기업들은 이러한 트렌드들을 주시하고, 적절한 전략을 수립하여 성장과 발전을 도모해야 합니다. 또한, 새로운 기술을 활용한 마케팅 전략 수립과 AI 기술을 활용한 신제품 개발 등이 주요 과제로 나타났습니다.",
-  "analyzed_at": "2026-05-02T21:30:34.588Z",
+  "narrative": "최근의 트렌드는 AI 및 기술, 경제 및 정치, 엔터테인먼트 등 다양한 주제를 다루고 있습니다. AI 기술의 발전은 다양한 산업에 미치는 영향이 크며, 경제 및 정치의 불안정성은 비즈니스 전략에 영향을 미칠 수 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 경제 및 정치의 변화를 예측하고 대응하는 비즈니스 전략을 개발하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-02T23:00:33.494Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
