@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "트럼프",
-      "summary": "트럼프 관련 뉴스와 사건이 최근 많이 논의되고 있습니다.",
+      "summary": "트럼프 관련 뉴스와 사건사고가 많이 논의되고 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI",
-      "summary": "AI 기술과 관련된 뉴스와 제품 출시가 최근 많이 논의되고 있습니다.",
+      "summary": "AI 기술과 관련된 뉴스와 제품 출시가 많이 논의되고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 최근 많이 논의되고 있습니다.",
+      "topic": "정치",
+      "summary": "한국 정치와 관련된 뉴스와 사건사고가 많이 논의되고 있습니다.",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,7 +27,7 @@
       "keyword": "트럼프",
       "count": 7,
       "sentiment": "negative",
-      "context": "트럼프 관련 뉴스와 사건"
+      "context": "트럼프 관련 뉴스와 사건사고"
     },
     {
       "keyword": "AI",
@@ -36,10 +36,10 @@
       "context": "AI 기술과 관련된 뉴스와 제품 출시"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "삼성전자",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 분석"
+      "context": "삼성전자 관련 뉴스와 제품 출시"
     }
   ],
   "sentiment_overview": {
@@ -50,19 +50,24 @@
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 제품 개발",
+      "insight": "AI 기술은 향후 중요하게 될 것입니다.",
+      "action": "AI 기술에 투자하고 연구합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제의 불안정성",
-      "action": "경제 관련 뉴스와 분석을 주시",
+      "insight": "트럼프 관련 뉴스는 계속적으로 발생할 것입니다.",
+      "action": "트럼프 관련 뉴스를 계속적으로 모니터링합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "한국 정치는 계속적으로 논의될 것입니다.",
+      "action": "한국 정치 뉴스를 계속적으로 모니터링합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "最近의 트렌드에 따르면, 트럼프 관련 뉴스와 사건이 많이 논의되고 있습니다. 또한, AI 기술과 관련된 뉴스와 제품 출시가 최근 많이 논의되고 있습니다. 경제 관련 뉴스와 분석도 많이 논의되고 있습니다. 이러한 트렌드를 바탕으로, AI 기술을 활용한 제품 개발과 경제 관련 뉴스와 분석을 주시하는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-05-01T22:30:34.306Z",
-  "post_count": 60,
+  "narrative": "최근의 트렌드 분석 결과, 트럼프 관련 뉴스와 사건사고, AI 기술과 관련된 뉴스와 제품 출시, 한국 정치와 관련된 뉴스가 많이 논의되고 있습니다. 이러한 트렌드는 향후 중요하게 될 것입니다. 따라서, AI 기술에 투자하고 연구하며, 트럼프 관련 뉴스와 한국 정치 뉴스를 계속적으로 모니터링하는 것이 중요합니다. 또한, 이러한 트렌드에 대한 인사이트를 얻기 위해 계속적으로 분석하고 연구하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-02T00:00:33.849Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
