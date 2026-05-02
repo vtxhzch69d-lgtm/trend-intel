@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "게임 산업",
-      "summary": "게임 산업의 최신 동향과 뉴스가 공유되고 있다.",
-      "post_count": 8,
+      "topic": "기술 및 게임",
+      "summary": "최신 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 문제",
-      "summary": "사회 문제와 관련된 다양한 주제가 논의되고 있다.",
-      "post_count": 12,
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스와 논란이 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "연예 및 문화",
+      "summary": "연예 및 문화 관련 뉴스와 이벤트가 주목을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "최신 기술 및 게임 관련 뉴스와 제품 출시"
     },
     {
       "keyword": "게임",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "게임 산업의 최신 동향"
+      "context": "최신 기술 및 게임 관련 뉴스와 제품 출시"
     },
     {
-      "keyword": "사회 문제",
-      "count": 12,
+      "keyword": "사회",
+      "count": 6,
       "sentiment": "negative",
-      "context": "사회 문제와 관련된 다양한 주제"
+      "context": "사회 및 정치 관련 뉴스와 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
     "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "최신 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다.",
+      "action": "최신 기술 및 게임 관련 제품 출시를 준비합니다.",
       "priority": "high"
     },
     {
-      "insight": "게임 산업의 성장",
-      "action": "게임 산업에 대한 투자 증가",
+      "insight": "사회 및 정치 관련 뉴스와 논란이 주목을 받고 있습니다.",
+      "action": "사회 및 정치 관련 뉴스와 논란에 대한 대응을 준비합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 문제의 중요성",
-      "action": "사회 문제에 대한 인식과 해결책 개발",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, AI 기술의 발전과 게임 산업의 성장이 주목을 받고 있습니다. 또한, 사회 문제와 관련된 다양한 주제가 논의되고 있습니다. 이러한 트렌드에 따라, 비즈니스 모델 개발과 투자 증가가 예상됩니다. 그러나, 사회 문제에 대한 인식과 해결책 개발이 필요합니다. 중립적인 시각에서 이러한 트렌드를 분석하고, 새로운 비즈니스 기회를 발굴하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-02T14:00:33.889Z",
+  "narrative": "최신 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다. 사회 및 정치 관련 뉴스와 논란도 주목을 받고 있습니다. 연예 및 문화 관련 뉴스와 이벤트도 주목을 받고 있습니다. 이러한 트렌드에 따라 최신 기술 및 게임 관련 제품 출시를 준비하고, 사회 및 정치 관련 뉴스와 논란에 대한 대응을 준비하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-02T15:30:33.364Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
