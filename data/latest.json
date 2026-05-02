@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있다. AI를 이용한 만화 그리기, 게임 난이도 자동 조절, 의료 서비스 등 다양한 분야에서 AI의 활용이 증가하고 있다.",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. 특히, AI를 활용한 의료 서비스와 자율주행 기술이 관심을 모으고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스가 많이 등장하고 있습니다. 특히, 애플의 제품 계획과 팀 쿡의 퇴진, 그리고 포르쉐의 모터스포츠 출전이 주목받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 제품 출시가 주목받고 있다. 새로운 프로젝터, 스피커, 모니터 등 다양한 제품이 출시되고 있다.",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "low"
-    },
-    {
-      "topic": "사회 문제",
-      "summary": "의료 서비스의 문제점과 안전 신고 처리 등 사회 문제가 논의되고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술 및 가전",
+      "summary": "최신 기술과 가전 제품에 대한 관심이 높습니다. 특히, LG전자와 삼성전자의 새로운 제품 출시와 기술 발전이 주목받고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 20,
       "sentiment": "positive",
       "context": "AI 기술의 발전과 다양한 산업에서의 적용"
     },
     {
-      "keyword": "기술",
-      "count": 30,
+      "keyword": "애플",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 제품 출시"
+      "context": "팀 쿡의 퇴진과 애플의 제품 계획"
     },
     {
-      "keyword": "의료",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "의료 서비스의 문제점"
+      "keyword": "LG전자",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "LG전자 새로운 제품 출시"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서의 혁신을 가져올 수 있다.",
-      "action": "AI 기술의 적용을 위한 투자와 연구 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다.",
+      "action": "AI 기술을 활용한 새로운 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 출시는 소비자들의 관심을 끌 수 있다.",
-      "action": "최신 기술 뉴스와 제품 출시를 활용한 마케팅 전략",
+      "insight": "경제 및 금융 관련 뉴스는 항상 관심을 모으는 주제입니다.",
+      "action": "경제 및 금융 관련 뉴스 모니터링",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술과 가전 제품에 대한 관심은 높습니다.",
+      "action": "최신 기술과 가전 제품에 대한 마케팅 캠페인",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있다. 또한, 최신 기술 뉴스와 제품 출시가 소비자들의 관심을 끌 수 있다. 그러나, 의료 서비스의 문제점과 안전 신고 처리 등 사회 문제도 논의되고 있다. 이러한 트렌드와 인사이트를 바탕으로, 기업들은 AI 기술의 적용을 위한 투자와 연구 개발, 최신 기술 뉴스와 제품 출시를 활용한 마케팅 전략 등을 고려할 수 있다.",
-  "analyzed_at": "2026-05-02T18:30:34.149Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. 또한, 경제 및 금융 관련 뉴스와 최신 기술 및 가전 제품에 대한 관심이 높습니다. 이러한 트렌드를 고려하여 마케팅 캠페인을 진행할 수 있습니다. 특히, AI 기술을 활용한 새로운 서비스 개발과 최신 기술 및 가전 제품에 대한 마케팅 캠페인이 효과적일 수 있습니다.",
+  "analyzed_at": "2026-05-02T20:00:33.886Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
