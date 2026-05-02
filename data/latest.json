@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "기술 및 게임",
-      "summary": "최신 기술 및 게임 관련 뉴스와 제품 출시가 인기 있는 주제입니다. 스팀 컨트롤러, 소니 True RGB TV, 윌슨 오디오 등의 제품이 언급되었습니다.",
+      "summary": "최신 기술 및 게임 관련 뉴스와 제품 출시가 주목을 끌고 있습니다. 스팀 컨트롤러, 소니 True RGB TV, 윌슨 오디오 등의 제품이 언급되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 논평이 인기 있는 주제입니다. 한동훈 출마, 軍자산 투입, 중대재해처벌법 등의 주제가 언급되었습니다.",
+      "topic": "사회 및 정치",
+      "summary": "정치 및 사회 관련 뉴스가 논란을 일으키고 있습니다. 국힘, 윤석열, 전광훈 등의 이름이 언급되고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 뉴스와 분석이 인기 있는 주제입니다. 삼성전자, LG전자, 네이버 등의 기업이 언급되었습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "생활 및 엔터테인먼트",
+      "summary": "생활 및 엔터테인먼트 관련 뉴스가 관심을 끌고 있습니다. 영화, 드라마, 음악 등의 내용이 포함되어 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 및 게임 관련 뉴스에서 언급"
+      "context": "최신 기술 및 게임 관련 뉴스에서 자주 언급됩니다."
     },
     {
       "keyword": "스팀",
-      "count": 3,
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 및 게임 관련 뉴스에서 언급"
+      "context": "게임 관련 뉴스에서 언급됩니다."
     },
     {
-      "keyword": "삼성전자",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "경제 및 산업 관련 뉴스에서 언급"
+      "keyword": "윤석열",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스에서 언급됩니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "긍정적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 게임 관련 뉴스와 제품 출시가 인기 있는 주제입니다.",
-      "action": "최신 기술 및 게임 관련 제품을 출시하거나 홍보합니다.",
+      "insight": "최신 기술 및 게임 관련 뉴스가 주목을 끌고 있습니다.",
+      "action": "최신 기술 및 게임 관련 제품을 출시하거나 홍보할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 뉴스와 논평이 인기 있는 주제입니다.",
-      "action": "정치 및 사회 관련 뉴스와 논평을 제공하거나 분석합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 산업 관련 뉴스와 분석이 인기 있는 주제입니다.",
-      "action": "경제 및 산업 관련 뉴스와 분석을 제공하거나 연구합니다.",
+      "insight": "정치 및 사회 관련 뉴스가 논란을 일으키고 있습니다.",
+      "action": "정치 및 사회 관련 뉴스를 주의해서 다루어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최신 기술 및 게임 관련 뉴스와 제품 출시가 인기 있는 주제입니다. 스팀 컨트롤러, 소니 True RGB TV, 윌슨 오디오 등의 제품이 언급되었습니다. 정치 및 사회 관련 뉴스와 논평도 인기 있는 주제입니다. 한동훈 출마, 軍자산 투입, 중대재해처벌법 등의 주제가 언급되었습니다. 경제 및 산업 관련 뉴스와 분석도 인기 있는 주제입니다. 삼성전자, LG전자, 네이버 등의 기업이 언급되었습니다. 이러한 주제와 키워드를 분석하여 최신 기술 및 게임 관련 제품을 출시하거나 홍보하는 것이 좋습니다. 또한, 정치 및 사회 관련 뉴스와 논평을 제공하거나 분석하는 것이 좋습니다. 경제 및 산업 관련 뉴스와 분석을 제공하거나 연구하는 것도 좋습니다.",
-  "analyzed_at": "2026-05-02T11:00:34.905Z",
+  "narrative": "최신 기술 및 게임 관련 뉴스가 주목을 끌고 있습니다. 스팀 컨트롤러, 소니 True RGB TV, 윌슨 오디오 등의 제품이 언급되고 있습니다. 또한, 정치 및 사회 관련 뉴스가 논란을 일으키고 있습니다. 따라서, 최신 기술 및 게임 관련 제품을 출시하거나 홍보할 수 있습니다. 그러나, 정치 및 사회 관련 뉴스를 주의해서 다루어야 합니다. 중립적인 분위기가 유지되고 있지만, 최신 기술 및 게임 관련 뉴스가 주목을 끌고 있습니다.",
+  "analyzed_at": "2026-05-02T12:30:33.929Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
