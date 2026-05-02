@@ -1,70 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 게임",
-      "summary": "최신 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 자유롭게 의견을 공유하고 있습니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스와 논란이 주목을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "연예 및 문화",
-      "summary": "연예 및 문화 관련 뉴스와 이벤트가 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 및 게임 관련 뉴스와 제품 출시"
+      "keyword": "일상생활",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "사용자들의 일상생활과 관련된 주제"
     },
     {
-      "keyword": "게임",
-      "count": 8,
+      "keyword": "의견 공유",
+      "count": 30,
       "sentiment": "positive",
-      "context": "최신 기술 및 게임 관련 뉴스와 제품 출시"
-    },
-    {
-      "keyword": "사회",
-      "count": 6,
-      "sentiment": "negative",
-      "context": "사회 및 정치 관련 뉴스와 논란"
+      "context": "사용자들의 의견 공유와 토론"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 40,
+    "negative": 20,
+    "neutral": 40,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다.",
-      "action": "최신 기술 및 게임 관련 제품 출시를 준비합니다.",
+      "insight": "사용자들의 관심사를 파악하여 맞춤형 콘텐츠 제공",
+      "action": "사용자들의 관심사를 분석하고 콘텐츠를 개발",
       "priority": "high"
-    },
-    {
-      "insight": "사회 및 정치 관련 뉴스와 논란이 주목을 받고 있습니다.",
-      "action": "사회 및 정치 관련 뉴스와 논란에 대한 대응을 준비합니다.",
-      "priority": "medium"
     }
   ],
-  "narrative": "최신 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다. 사회 및 정치 관련 뉴스와 논란도 주목을 받고 있습니다. 연예 및 문화 관련 뉴스와 이벤트도 주목을 받고 있습니다. 이러한 트렌드에 따라 최신 기술 및 게임 관련 제품 출시를 준비하고, 사회 및 정치 관련 뉴스와 논란에 대한 대응을 준비하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-02T15:30:33.364Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티는 사용자들의 일상생활과 관련된 주제에 대해 활발한 의견 공유와 토론이 이루어지고 있습니다. 사용자들의 관심사를 파악하여 맞춤형 콘텐츠를 제공하면 사용자들의 참여도를 높일 수 있을 것입니다. 또한, 사용자들의 의견을 수집하여 사업 전략을 수립하는 데 도움이 될 것입니다.",
+  "analyzed_at": "2026-05-02T17:00:33.542Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
