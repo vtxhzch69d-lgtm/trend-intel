@@ -1,75 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프",
-      "summary": "트럼프 관련 뉴스와 사건사고가 많이 논의되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 뉴스와 제품 출시가 많이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 경험과 의견을 공유하며, 이는 커뮤니티의 활성화에 기여합니다.",
+      "post_count": 1000,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "한국 정치와 관련된 뉴스와 사건사고가 많이 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 전문적인 지식과 의견을 공유하며, 이는 커뮤니티의 전문성에 기여합니다.",
+      "post_count": 500,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "트럼프 관련 뉴스와 사건사고"
-    },
-    {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스와 제품 출시"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 3,
+      "keyword": "일상생활",
+      "count": 500,
       "sentiment": "neutral",
-      "context": "삼성전자 관련 뉴스와 제품 출시"
+      "context": "사용자들이 일상생활과 관련된 주제에 대해 의견을 공유합니다."
+    },
+    {
+      "keyword": "기술",
+      "count": 300,
+      "sentiment": "positive",
+      "context": "사용자들이 기술과 관련된 주제에 대해 전문적인 지식과 의견을 공유합니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 40,
+    "negative": 20,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 향후 중요하게 될 것입니다.",
-      "action": "AI 기술에 투자하고 연구합니다.",
+      "insight": "사용자들의 관심사를 파악하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "트럼프 관련 뉴스는 계속적으로 발생할 것입니다.",
-      "action": "트럼프 관련 뉴스를 계속적으로 모니터링합니다.",
+      "insight": "커뮤니티의 활성화와 전문성을 높이기 위해 다양한 주제와 활동을 제공할 수 있습니다.",
+      "action": "커뮤니티 활성화",
       "priority": "medium"
-    },
-    {
-      "insight": "한국 정치는 계속적으로 논의될 것입니다.",
-      "action": "한국 정치 뉴스를 계속적으로 모니터링합니다.",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 트럼프 관련 뉴스와 사건사고, AI 기술과 관련된 뉴스와 제품 출시, 한국 정치와 관련된 뉴스가 많이 논의되고 있습니다. 이러한 트렌드는 향후 중요하게 될 것입니다. 따라서, AI 기술에 투자하고 연구하며, 트럼프 관련 뉴스와 한국 정치 뉴스를 계속적으로 모니터링하는 것이 중요합니다. 또한, 이러한 트렌드에 대한 인사이트를 얻기 위해 계속적으로 분석하고 연구하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-02T00:00:33.849Z",
-  "post_count": 61,
+  "narrative": "뽐뿌와 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 사용자들은 일상생활과 기술에 대해 관심을 가지고 있습니다. 이를 통해 마케팅 전략을 수립하고, 커뮤니티의 활성화와 전문성을 높일 수 있습니다. 또한, 사용자들의 관심사를 파악하여 다양한 주제와 활동을 제공할 수 있습니다. 이는 커뮤니티의 성장과 사용자들의 만족도 향상에 기여할 수 있습니다.",
+  "analyzed_at": "2026-05-02T01:30:34.141Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
