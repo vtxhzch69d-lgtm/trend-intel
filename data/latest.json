@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "대선과 정치 관련된 주제가 많이 обсужд되고 있습니다.",
+      "summary": "대통령 선거와 정치 관련된 주제가 많이 обсужд되고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 제품과 혁신에 대한 관심이 높습니다.",
+      "summary": "최신 기술 관련된 주제가 많이 обсужд되고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "사회",
-      "summary": "사회 문제와 사건에 대한 논의가 활발합니다.",
+      "summary": "사회 관련된 주제가 많이 обсужд되고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "대선",
+      "keyword": "대통령",
       "count": 10,
-      "sentiment": "negative",
-      "context": "대선 관련된 논의"
+      "sentiment": "mixed",
+      "context": "대통령 선거와 관련된 주제"
     },
     {
-      "keyword": "기술",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "최신 기술 제품에 대한 관심"
-    },
-    {
-      "keyword": "사회 문제",
+      "keyword": "AI",
       "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 관련된 주제"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
       "sentiment": "negative",
-      "context": "사회 문제에 대한 논의"
+      "context": "경제 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정이 다소 높지만, 기술 관련된 주제에서는 긍정적인 감정이 나타납니다."
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 제품에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 제품에 대한 마케팅을 강화하세요.",
+      "insight": "최신 기술 관련된 주제가 많이 обсужд되고 있습니다.",
+      "action": "최신 기술 관련된 주제에 대한 마케팅 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "대선과 정치 관련된 주제가 많이 обсужд되고 있습니다.",
-      "action": "정치 관련된 마케팅을 주의하세요.",
+      "insight": "대통령 선거와 관련된 주제가 많이 обсужд되고 있습니다.",
+      "action": "대통령 선거와 관련된 주제에 대한 마케팅 전략을 수립하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 문제에 대한 논의가 활발합니다.",
-      "action": "사회 책임에 대한 마케팅을 고려하세요.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 기술 제품과 정치 관련된 주제가 많이 обсужд되고 있습니다. 기술 제품에 대한 관심이 높아지고 있지만, 정치 관련된 주제에서는 부정적인 감정이 다소 높습니다. 사회 문제에 대한 논의도 활발하지만, 전체적인 분위기는 기술 제품에 대한 긍정적인 감정으로 대표될 수 있습니다. 마케터들은 최신 기술 제품에 대한 마케팅을 강화하고, 정치 관련된 마케팅을 주의해야 합니다. 또한, 사회 책임에 대한 마케팅을 고려하여 브랜드 이미지를 개선할 수 있습니다.",
-  "analyzed_at": "2026-05-02T06:30:33.789Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 기술 관련된 주제가 많이 обсужд되고 있습니다. 대통령 선거와 관련된 주제는 많은 관심을 받고 있으며, 최신 기술 관련된 주제는 긍정적인 반응을 보이고 있습니다. 그러나 경제 관련된 주제는 부정적인 반응을 보이고 있습니다. 따라서 최신 기술 관련된 주제에 대한 마케팅 전략을 수립하고, 대통령 선거와 관련된 주제에 대한 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-02T08:00:33.430Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
