@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "하정우 후보 선거운동",
-      "summary": "하정우 후보의 선거운동에 대한 논의와 지지 의견이 많다. 일부에서는 그의 당선 가능성을 언급하며 기대감을 나타낸다.",
-      "post_count": 5,
+      "topic": "정청래",
+      "summary": "정청래가 제대로 사고 쳤다는 게시글이 클리앙 커뮤니티에서 인기 있습니다. 정청래의 사과에 대한 논의도 활발합니다.",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 관련 기술과 제품에 대한 게시글이 클리앙 커뮤니티에서 인기 있습니다. AI의 발전과 적용에 대한 논의도 활발합니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정청래 사과와 연임 논의",
-      "summary": "정청래의 사과와 그의 연임 가능성에 대한 논의가 진행 중이다. 일부에서는 그의 행동을 비판하며, 다른 일부에서는 그의 연임을 지지한다.",
-      "post_count": 3,
+      "topic": "선거",
+      "summary": "선거와 정치 관련 게시글이 클리앙 커뮤니티에서 인기 있습니다. 선거에 대한 개인적인 생각과 분석이 활발합니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "high"
-    },
-    {
-      "topic": "AI와 기술 관련 뉴스",
-      "summary": "AI와 기술 관련 뉴스가 많이 등장하고 있다. 이는 스포티파이의 AI 음원 구별 기능, 애플의 AI 결제 플랫폼, 그리고 삼성전자와 LG전자의 기술 개발 등이다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "하정우",
-      "count": 7,
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "선거운동과 당선 가능성에 대한 논의"
+      "context": "AI 기술과 제품에 대한 논의"
     },
     {
       "keyword": "정청래",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "사과와 연임 가능성에 대한 논의"
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정청래의 사고와 사과에 대한 논의"
     },
     {
-      "keyword": "AI",
+      "keyword": "선거",
       "count": 8,
-      "sentiment": "positive",
-      "context": "기술 개발과 적용에 대한 논의"
+      "sentiment": "mixed",
+      "context": "선거와 정치 관련 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "기대와 관심이 높은 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 개발과 적용이 중요하다",
-      "action": "기술 개발에 투자하고, 이를 사업에 적용하는 방안을 모색한다",
+      "insight": "AI 기술과 제품에 대한 관심이 높아지고 있습니다.",
+      "action": "AI 관련 제품과 서비스를 개발하고 홍보하세요.",
       "priority": "high"
     },
     {
-      "insight": "소비자들의 기대와 관심을 파악한다",
-      "action": "소비자들의 의견과 반응을 분석하고, 이를 사업에 반영한다",
+      "insight": "정청래의 사고와 사과에 대한 논의가 활발합니다.",
+      "action": "정청래와 관련된 제품과 서비스를 개발하고 홍보하지 마세요.",
+      "priority": "medium"
+    },
+    {
+      "insight": "선거와 정치 관련 논의가 활발합니다.",
+      "action": "선거와 정치 관련 제품과 서비스를 개발하고 홍보하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 하정우 후보의 선거운동과 정청래의 사과, 그리고 AI와 기술 관련 뉴스에 대한 관심이 높다. 이러한 트렌드는 소비자들의 기대와 관심을 파악하는 데 도움이 되며, 기술 개발과 적용에 대한 중요성을 강조한다. 따라서, 기술 개발에 투자하고, 이를 사업에 적용하는 방안을 모색하며, 소비자들의 의견과 반응을 분석하고, 이를 사업에 반영하는 것이 중요하다.",
-  "analyzed_at": "2026-05-03T15:30:34.456Z",
+  "narrative": "클리앙 커뮤니티에서 인기 있는 주제는 정청래, AI, 선거 등입니다. AI 기술과 제품에 대한 관심이 높아지고 있으며, 정청래의 사고와 사과에 대한 논의도 활발합니다. 선거와 정치 관련 논의도 활발하며, 중립적이지만 약간 부정적인 분위기입니다. 따라서 AI 관련 제품과 서비스를 개발하고 홍보하는 것이 좋으며, 정청래와 관련된 제품과 서비스를 개발하고 홍보하지 않는 것이 좋습니다. 또한 선거와 정치 관련 제품과 서비스를 개발하고 홍보하는 것도 좋습니다.",
+  "analyzed_at": "2026-05-03T17:00:34.465Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
