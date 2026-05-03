@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. AI 관련 뉴스와 기술 개발에 대한 논의가 활발하다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논의가 많다. 특히 조국 대표와 관련된 뉴스에 대한 관심이 높다.",
-      "post_count": 10,
+      "topic": "하정우 선거",
+      "summary": "하정우 후보의 선거 관련 뉴스와 의견이 클리앙 커뮤니티에서 논란이 되고 있습니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 제품 출시에 대한 관심이 높다. 특히 애플과 삼성전자 관련 뉴스가 많다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스와 의견이 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "삼성전자 뉴스",
+      "summary": "삼성전자의 최근 뉴스와 업적이 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용"
-    },
-    {
-      "keyword": "조국",
-      "count": 10,
+      "keyword": "하정우",
+      "count": 7,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논의"
+      "context": "선거 관련 뉴스와 의견"
     },
     {
-      "keyword": "애플",
-      "count": 8,
+      "keyword": "AI",
+      "count": 12,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시"
+      "context": "AI 기술의 발전과 관련된 뉴스와 의견"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼성전자의 최근 뉴스와 업적"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "긍정적"
+    "overall_mood": "중립적인 분위기지만, 일부 주제에서는 긍정적인 반응이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것이다.",
-      "action": "AI 기술의 발전을 주시하고 ứng용 가능성을 탐색한다.",
+      "insight": "클리앙 커뮤니티에서는 정치와 기술 관련 주제가 많이 논의되고 있습니다.",
+      "action": "해당 주제에 대한 콘텐츠를 제공하여 사용자와의 상호작용을 증가시킬 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 출시에 대한 관심이 높다.",
-      "action": "최신 기술 뉴스와 제품 출시를 주시하고 고객의 관심을 반영한다.",
+      "insight": "AI 기술의 발전은 클리앙 커뮤니티에서 큰 관심을 받고 있습니다.",
+      "action": "AI 기술 관련 뉴스와 정보를 제공하여 사용자의 관심을 유도할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 또한 정치 관련 뉴스와 논의가 많다. 최신 기술 뉴스와 제품 출시에 대한 관심도 높다. 이러한 트렌드를 반영하여 마케팅 전략을 수립하고 고객의 관심을 반영하는 것이 중요하다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것이므로 이를 주시하고 응용 가능성을 탐색하는 것이 필요하다. 또한 최신 기술 뉴스와 제품 출시를 주시하고 고객의 관심을 반영하는 것이 중요하다.",
-  "analyzed_at": "2026-05-03T12:30:34.380Z",
+  "narrative": "클리앙 커뮤니티에서는 다양한 주제가 논의되고 있습니다. 정치와 기술 관련 주제가 많이 논의되고 있으며, AI 기술의 발전은 큰 관심을 받고 있습니다. 이러한 주제에 대한 콘텐츠를 제공하여 사용자와의 상호작용을 증가시킬 수 있습니다. 또한, 사용자의 관심을 유도하기 위해 AI 기술 관련 뉴스와 정보를 제공할 수 있습니다. 클리앙 커뮤니티의 분위기는 중립적인 분위기지만, 일부 주제에서는 긍정적인 반응이 많습니다. 이러한 점을 고려하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-03T14:00:33.993Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
