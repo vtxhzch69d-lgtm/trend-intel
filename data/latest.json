@@ -1,56 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "최근 경제 상황에 대한 우려와 불안정성",
-      "post_count": 500,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 의견이 많은 관심을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "최근 정치 상황에 대한 논란과 불만",
-      "post_count": 300,
-      "sentiment": "mixed",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시가 많은 관심을 받고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "最近의 스포츠 뉴스와 경기 결과가 많은 관심을 받고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "경제",
-      "count": 1000,
+      "keyword": "민주당",
+      "count": 5,
       "sentiment": "negative",
-      "context": "최근 경제 상황에 대한 우려"
+      "context": "정치 뉴스에서 많이 언급되고 있습니다."
     },
     {
-      "keyword": "정치",
-      "count": 800,
-      "sentiment": "mixed",
-      "context": "최근 정치 상황에 대한 논란"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스에서 많이 언급되고 있습니다."
+    },
+    {
+      "keyword": "손흥민",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "스포츠 뉴스에서 많이 언급되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 200,
-    "negative": 800,
-    "neutral": 500,
-    "overall_mood": "부정적인 감정"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 기분이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "최근 경제 상황에 대한 우려가 높아지고 있다",
-      "action": "경제 관련 콘텐츠 제공",
+      "insight": "최신 기술 뉴스를 많이 관심을 받고 있습니다.",
+      "action": "최신 기술 뉴스를 제공하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "최근 정치 상황에 대한 논란이 존재한다",
-      "action": "정치 관련 콘텐츠 제공",
+      "insight": "정치 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "정치 뉴스를 제공하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 경제와 정치 관련 주제가 인기 있는 것으로 나타났습니다. 경제 상황에 대한 우려와 불안정성이 높아지고 있으며, 정치 상황에 대한 논란도 존재합니다. 이러한 트렌드를 반영하여 경제와 정치 관련 콘텐츠를 제공하는 것이 중요할 것으로 보입니다. 또한, 부정적인 감정이 높은 것으로 나타나므로, 콘텐츠를 통해 사용자의 우려와 불안정을 해소하는 것이 필요할 것입니다.",
-  "analyzed_at": "2026-05-03T06:30:33.926Z",
-  "post_count": 2,
+  "narrative": "最近의 정치 뉴스와 최신 기술 뉴스가 많은 관심을 받고 있습니다. 최신 기술 뉴스를 제공하여 관심을 끌 수 있습니다. 또한 정치 뉴스를 제공하여 관심을 끌 수 있습니다. 중립적인 기분이 많습니다. 최신 기술 뉴스와 정치 뉴스를 제공하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-05-03T08:00:33.473Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
