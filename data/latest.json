@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "조국, 김용남, 양상국 등 정치 인물 관련 게시글이 많습니다.",
+      "summary": "최근 정치 관련 게시글이 많아졌으며, 특히 민주당과 관련된 게시글이 많은 관심을 받고 있다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "애플, 삼성전자, LG전자 등 기술 관련 뉴스가 많습니다.",
+      "summary": "최신 기술 관련 게시글이 많아졌으며, 특히 AI와 관련된 게시글이 많은 관심을 받고 있다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "금리 인상, 국민연금, 코스피 투자 등 경제 관련 게시글이 많습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "summary": "경제 관련 게시글이 많아졌으며, 특히 금리 인상과 관련된 게시글이 많은 관심을 받고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
+      "keyword": "민주당",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "민주당과 관련된 게시글이 많은 관심을 받고 있다."
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI와 관련된 게시글이 많은 관심을 받고 있다."
+    },
+    {
+      "keyword": "금리 인상",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 관련 게시글에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "애플",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 관련 뉴스에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "금리",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "경제 관련 게시글에서 언급됩니다."
+      "context": "금리 인상과 관련된 게시글이 많은 관심을 받고 있다."
     }
   ],
   "sentiment_overview": {
     "positive": 25,
     "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 15,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 게시글이 많아 정치적인 이슈가 중요합니다.",
-      "action": "정치 관련 콘텐츠를 생성합니다.",
+      "insight": "최근 정치 관련 게시글이 많아졌으므로, 정치와 관련된 마케팅 전략을 수립해야 한다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 뉴스가 많아 기술적인 이슈가 중요합니다.",
-      "action": "기술 관련 콘텐츠를 생성합니다.",
+      "insight": "최신 기술 관련 게시글이 많아졌으므로, 기술과 관련된 마케팅 전략을 수립해야 한다.",
+      "action": "마케팅 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 게시글이 많아 경제적인 이슈가 중요합니다.",
-      "action": "경제 관련 콘텐츠를 생성합니다.",
+      "insight": "경제 관련 게시글이 많아졌으므로, 경제와 관련된 마케팅 전략을 수립해야 한다.",
+      "action": "마케팅 전략 수립",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 게시글이 많습니다. 정치 관련 게시글은 조국, 김용남, 양상국 등 정치 인물 관련 콘텐츠가 많습니다. 기술 관련 뉴스는 애플, 삼성전자, LG전자 등 기술 관련 뉴스가 많습니다. 경제 관련 게시글은 금리 인상, 국민연금, 코스피 투자 등 경제 관련 콘텐츠가 많습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-03T09:30:34.208Z",
+  "narrative": "최근 정치, 기술, 경제와 관련된 게시글이 많아졌으며, 특히 민주당과 AI와 관련된 게시글이 많은 관심을 받고 있다. 이러한 트렌드를 반영하여 마케팅 전략을 수립해야 한다. 또한, 금리 인상과 관련된 게시글이 많은 관심을 받고 있으므로, 경제와 관련된 마케팅 전략을 수립해야 한다. 이러한 분석 결과를 통해 마케팅 전략을 수립하고, 사업을 성공적으로 진행할 수 있을 것이다.",
+  "analyzed_at": "2026-05-03T11:00:33.788Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
