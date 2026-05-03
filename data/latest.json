@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "국힘 공천과 장동혁, 윤석열에 대한 논란",
+      "summary": "트럼프와 관련된 정치 뉴스 및 논평",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "테크",
-      "summary": "AI, IT 기술 관련 뉴스와 제품 출시",
+      "summary": "최신 기술 뉴스 및 제품 출시",
       "post_count": 20,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "에너지 위기, 미국 경제 상황",
+      "summary": "경제 뉴스 및 분석",
       "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "장동혁",
-      "count": 5,
+      "keyword": "트럼프",
+      "count": 10,
       "sentiment": "negative",
-      "context": "국힘 공천과 관련된 논란"
+      "context": "정치 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "IT 기술과 관련된 뉴스"
+      "count": 15,
+      "sentiment": "positive",
+      "context": "테크 뉴스"
     },
     {
-      "keyword": "트럼프",
+      "keyword": "경제",
       "count": 5,
-      "sentiment": "negative",
-      "context": "미국 경제 상황과 관련된 뉴스"
+      "sentiment": "neutral",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "부정적인 감정의 비중이 높음"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제에 대한 관심이 높아짐",
-      "action": "관련된 뉴스와 정보를 제공함",
+      "insight": "테크 산업은 빠르게 성장하고 있다",
+      "action": "테크 산업에 대한 투자 및 연구를 강화해야 한다",
       "priority": "high"
     },
     {
-      "insight": "AI와 IT 기술에 대한 관심이 높아짐",
-      "action": "관련된 제품과 서비스를 개발함",
+      "insight": "정치 뉴스는 여전히 많은 관심을 받고 있다",
+      "action": "정치 뉴스에 대한 분석 및 해설을 강화해야 한다",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 뉴스는 중립적인 반응을 보이고 있다",
+      "action": "경제 뉴스에 대한 분석 및 해설을 유지해야 한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 경제에 대한 관심이 높아지고 있습니다. 특히, 국힘 공천과 장동혁, 윤석열에 대한 논란이 큰 관심을 받고 있습니다. 또한, AI와 IT 기술에 대한 관심도 높아지고 있습니다. 이러한 트렌드를 반영하여, 관련된 뉴스와 정보를 제공하고, 관련된 제품과 서비스를 개발하는 것이 중요할 것입니다. 또한, 부정적인 감정의 비중이 높아짐에 따라, 긍정적인 콘텐츠를 제공하여 사용자의 감정을 개선하는 것도 중요할 것입니다.",
-  "analyzed_at": "2026-05-03T21:30:34.421Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 테크 산업의 성장과 정치 뉴스의 관심이 높아지고 있는 것을 보여주고 있다. 테크 산업은 빠르게 성장하고 있으며, 많은 사람들이 새로운 기술 및 제품에 대한 관심을 보이고 있다. 정치 뉴스도 여전히 많은 관심을 받고 있으며, 특히 트럼프와 관련된 뉴스가 많은 논쟁을 일으키고 있다. 경제 뉴스는 중립적인 반응을 보이고 있으며, 많은 사람들이 경제 뉴스에 대한 분석 및 해설을 원하고 있다. 이러한 트렌드를 고려하여, 테크 산업에 대한 투자 및 연구를 강화하고, 정치 뉴스에 대한 분석 및 해설을 강화하며, 경제 뉴스에 대한 분석 및 해설을 유지하는 것이 중요하다.",
+  "analyzed_at": "2026-05-03T23:00:34.070Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
