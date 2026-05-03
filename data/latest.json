@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래",
-      "summary": "정청래의 최근 발언과 행동에 대한 논란",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "국힘 공천과 장동혁, 윤석열에 대한 논란",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 ứng용 분야",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "테크",
+      "summary": "AI, IT 기술 관련 뉴스와 제품 출시",
+      "post_count": 20,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "선거와 정치",
-      "summary": "선거와 정치 관련된 다양한 의견과 논란",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "에너지 위기, 미국 경제 상황",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "정청래",
+      "keyword": "장동혁",
       "count": 5,
       "sentiment": "negative",
-      "context": "정청래의 최근 발언과 행동"
+      "context": "국힘 공천과 관련된 논란"
     },
     {
-      "keyword": "선거",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "선거와 정치 관련된 다양한 의견과 논란"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "IT 기술과 관련된 뉴스"
+    },
+    {
+      "keyword": "트럼프",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "미국 경제 상황과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적인 분위기지만 일부 논란이 존재"
+    "positive": 10,
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "부정적인 감정의 비중이 높음"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업 분야에서 기회를 창출할 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "정치와 경제에 대한 관심이 높아짐",
+      "action": "관련된 뉴스와 정보를 제공함",
       "priority": "high"
     },
     {
-      "insight": "정청래의 최근 발언과 행동은 정치적인 논란을 일으킬 수 있다",
-      "action": "정치적인 논란을 피하기 위한 전략 개발",
+      "insight": "AI와 IT 기술에 대한 관심이 높아짐",
+      "action": "관련된 제품과 서비스를 개발함",
       "priority": "medium"
-    },
-    {
-      "insight": "선거와 정치 관련된 다양한 의견과 논란은 사회적인 관심을 끌 수 있다",
-      "action": "사회적인 관심을 끌기 위한 마케팅 전략 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업 분야에서 기회를 창출할 수 있는 가능성이 나타났습니다. 그러나 정청래의 최근 발언과 행동은 정치적인 논란을 일으킬 수 있으며, 선거와 정치 관련된 다양한 의견과 논란은 사회적인 관심을 끌 수 있습니다. 이러한 트렌드와 키워드를 분석하여 새로운 비즈니스 모델 개발과 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-03T20:00:34.161Z",
+  "narrative": "최근의 트렌드는 정치와 경제에 대한 관심이 높아지고 있습니다. 특히, 국힘 공천과 장동혁, 윤석열에 대한 논란이 큰 관심을 받고 있습니다. 또한, AI와 IT 기술에 대한 관심도 높아지고 있습니다. 이러한 트렌드를 반영하여, 관련된 뉴스와 정보를 제공하고, 관련된 제품과 서비스를 개발하는 것이 중요할 것입니다. 또한, 부정적인 감정의 비중이 높아짐에 따라, 긍정적인 콘텐츠를 제공하여 사용자의 감정을 개선하는 것도 중요할 것입니다.",
+  "analyzed_at": "2026-05-03T21:30:34.421Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
