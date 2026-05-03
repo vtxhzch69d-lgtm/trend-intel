@@ -1,72 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 게임",
-      "summary": "최근 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다. 애플, 삼성전자, LG전자 등의 기업이 새로운 제품과 기술을 개발 중입니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많은 것으로 나타났습니다. 특히 조국과 김용남 관련 게시글이 많이 올라왔습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 논평이 많은 관심을 받고 있습니다. 최근 선거와 정치 현안이 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "기술",
+      "summary": "클리앙 커뮤니티에서 기술 관련 게시글이 많은 것으로 나타났습니다. 특히 AI와 게임 관련 게시글이 많이 올라왔습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 뉴스와 분석이 주목을 받고 있습니다. 최근 경제 성장과 산업 동향이 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "스포츠",
+      "summary": "클리앙 커뮤니티에서 스포츠 관련 게시글이 많은 것으로 나타났습니다. 특히 손흥민과 이강인 관련 게시글이 많이 올라왔습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "애플",
+      "keyword": "조국",
       "count": 5,
-      "sentiment": "positive",
-      "context": "애플의 새로운 제품과 기술 개발"
+      "sentiment": "negative",
+      "context": "정치 관련 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "삼성전자의 제품 출시와 기술 개발"
+      "keyword": "김용남",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "정치 관련 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "LG전자",
-      "count": 2,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "LG전자의 새로운 제품 출시"
+      "context": "기술 관련 게시글에서 많이 언급되었습니다."
+    },
+    {
+      "keyword": "게임",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 관련 게시글에서 많이 언급되었습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최근 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다.",
-      "action": "기술 및 게임 관련 제품 개발과 마케팅에 집중",
+      "insight": "클리앙 커뮤니티에서 정치와 기술 관련 게시글이 많은 것으로 나타났습니다.",
+      "action": "정치와 기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 뉴스와 논평이 많은 관심을 받고 있습니다.",
-      "action": "정치 및 사회 관련 뉴스와 논평을 모니터링",
+      "insight": "클리앙 커뮤니티에서 AI와 게임 관련 게시글이 많이 올라왔습니다.",
+      "action": "AI와 게임 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 산업 관련 뉴스와 분석이 주목을 받고 있습니다.",
-      "action": "경제 및 산업 관련 뉴스와 분석을 모니터링",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 기술 및 게임 관련 뉴스와 제품 출시가 주목을 받고 있습니다. 애플, 삼성전자, LG전자 등의 기업이 새로운 제품과 기술을 개발 중입니다. 또한, 정치 및 사회 관련 뉴스와 논평이 많은 관심을 받고 있습니다. 최근 선거와 정치 현안이 주목을 받고 있습니다. 경제 및 산업 관련 뉴스와 분석도 주목을 받고 있습니다. 최근 경제 성장과 산업 동향이 관심을 받고 있습니다. 이러한 트렌드와 인사이트를 바탕으로, 기업은 기술 및 게임 관련 제품 개발과 마케팅에 집중하고, 정치 및 사회 관련 뉴스와 논평을 모니터링하며, 경제 및 산업 관련 뉴스와 분석을 모니터링해야 합니다.",
-  "analyzed_at": "2026-05-03T03:30:33.972Z",
+  "narrative": "클리앙 커뮤니티에서 정치와 기술 관련 게시글이 많은 것으로 나타났습니다. 특히 조국과 김용남 관련 게시글이 많이 올라왔습니다. 또한 AI와 게임 관련 게시글이 많이 올라왔습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하면 사용자들의 관심을 끌 수 있습니다. 클리앙 커뮤니티의 사용자들은 중립적인 분위기를 보이지만, 정치와 기술 관련 게시글에 대해 관심을 보이는 것으로 나타났습니다. 따라서 이러한 트렌드를 반영하여 콘텐츠를 제공하면 사용자들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-05-03T05:00:33.689Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
