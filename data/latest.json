@@ -1,23 +1,37 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "AI의 발전과 기술의 진보가 다양한 산업에 미치는 영향",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용 사례",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스와 논평",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 동향과 분석",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "엔터테인먼트",
-      "summary": "영화, 음악, 게임 등 엔터테인먼트 관련 뉴스",
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스와 논평",
+      "post_count": 12,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 게임",
+      "summary": "최신 기술과 게임 관련 뉴스",
       "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "문화 및 예술",
+      "summary": "문화 및 예술 관련 뉴스와 리뷰",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -27,41 +41,68 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI의 발전과 기술의 진보"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "경제",
-      "count": 10,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 논평"
+      "context": "경제 동향과 분석"
     },
     {
       "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "사회 및 정치 관련 뉴스"
+    },
+    {
+      "keyword": "게임",
       "count": 8,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스와 논평"
+      "sentiment": "positive",
+      "context": "최신 게임 관련 뉴스"
+    },
+    {
+      "keyword": "문화",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "문화 및 예술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "neutral": 25,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 적용 가능하다",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치의 불안정성",
-      "action": "경제 및 정치의 변화를 예측하고 대응하는 비즈니스 전략 개발",
+      "insight": "경제 및 산업 동향을 분석하여 비즈니스 전략을 수립할 수 있다",
+      "action": "경제 및 산업 동향 분석",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 정치 관련 뉴스는 비즈니스에 영향을 줄 수 있다",
+      "action": "사회 및 정치 관련 뉴스 모니터링",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 및 게임 관련 뉴스는 새로운 비즈니스 기회를 제공할 수 있다",
+      "action": "기술 및 게임 관련 뉴스 모니터링",
+      "priority": "low"
+    },
+    {
+      "insight": "문화 및 예술 관련 뉴스는 브랜드 이미지를 개선할 수 있다",
+      "action": "문화 및 예술 관련 뉴스 모니터링",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 및 기술, 경제 및 정치, 엔터테인먼트 등 다양한 주제를 다루고 있습니다. AI 기술의 발전은 다양한 산업에 미치는 영향이 크며, 경제 및 정치의 불안정성은 비즈니스 전략에 영향을 미칠 수 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 경제 및 정치의 변화를 예측하고 대응하는 비즈니스 전략을 개발하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-02T23:00:33.494Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술과 경제 및 산업 동향이 주목을 받고 있다. 이러한 트렌드는 비즈니스 전략을 수립하고 새로운 기회를 찾는 데 도움이 될 수 있다. 또한, 사회 및 정치 관련 뉴스는 비즈니스에 영향을 줄 수 있으므로 모니터링이 필요하다. 기술 및 게임 관련 뉴스와 문화 및 예술 관련 뉴스는 새로운 비즈니스 기회와 브랜드 이미지를 개선하는 데 도움이 될 수 있다. 따라서, 이러한 트렌드와 키워드를 고려하여 비즈니스 전략을 수립하고 실행하는 것이 중요하다.",
+  "analyzed_at": "2026-05-03T00:30:34.528Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
