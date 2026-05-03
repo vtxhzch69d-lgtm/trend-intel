@@ -1,108 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용 사례",
+      "topic": "정치",
+      "summary": "윤석열 정부와 관련된 다양한 정치적 이슈가 논의되고 있습니다. 국힘 조은희의 공천 재검토와 윤석열 대통령에 대한 평가 등이 포함됩니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 동향과 분석",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스와 논평",
-      "post_count": 12,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 게임",
-      "summary": "최신 기술과 게임 관련 뉴스",
-      "post_count": 8,
+      "topic": "기술",
+      "summary": "최신 기술 제품과 서비스에 대한 정보가 공유되고 있습니다. 애플, 삼성전자, LG전자 등의 제품과 기술에 대한 뉴스가 포함됩니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "문화 및 예술",
-      "summary": "문화 및 예술 관련 뉴스와 리뷰",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "사회",
+      "summary": "사회적 이슈와 문제에 대한 논의가 진행되고 있습니다. 청년층 우경화, 노동절 명칭 변경, 성범죄 등이 포함됩니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 동향과 분석"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "사회 및 정치 관련 뉴스"
-    },
-    {
-      "keyword": "게임",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 게임 관련 뉴스"
-    },
-    {
-      "keyword": "문화",
+      "keyword": "윤석열",
       "count": 5,
+      "sentiment": "negative",
+      "context": "윤석열 대통령에 대한 비판과 평가"
+    },
+    {
+      "keyword": "애플",
+      "count": 3,
       "sentiment": "positive",
-      "context": "문화 및 예술 관련 뉴스"
+      "context": "애플의 최신 제품과 기술에 대한 뉴스"
+    },
+    {
+      "keyword": "청년층",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "청년층 우경화와 사회적 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 적용 가능하다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "최신 기술 제품과 서비스에 대한 수요가 증가하고 있습니다.",
+      "action": "기술 제품과 서비스에 대한 마케팅과 광고를 강화합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 산업 동향을 분석하여 비즈니스 전략을 수립할 수 있다",
-      "action": "경제 및 산업 동향 분석",
+      "insight": "사회적 이슈와 문제에 대한 논의가 활발하게 진행되고 있습니다.",
+      "action": "사회적 이슈와 문제에 대한 마케팅과 광고를 주의합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 및 정치 관련 뉴스는 비즈니스에 영향을 줄 수 있다",
-      "action": "사회 및 정치 관련 뉴스 모니터링",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술 및 게임 관련 뉴스는 새로운 비즈니스 기회를 제공할 수 있다",
-      "action": "기술 및 게임 관련 뉴스 모니터링",
-      "priority": "low"
-    },
-    {
-      "insight": "문화 및 예술 관련 뉴스는 브랜드 이미지를 개선할 수 있다",
-      "action": "문화 및 예술 관련 뉴스 모니터링",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술과 경제 및 산업 동향이 주목을 받고 있다. 이러한 트렌드는 비즈니스 전략을 수립하고 새로운 기회를 찾는 데 도움이 될 수 있다. 또한, 사회 및 정치 관련 뉴스는 비즈니스에 영향을 줄 수 있으므로 모니터링이 필요하다. 기술 및 게임 관련 뉴스와 문화 및 예술 관련 뉴스는 새로운 비즈니스 기회와 브랜드 이미지를 개선하는 데 도움이 될 수 있다. 따라서, 이러한 트렌드와 키워드를 고려하여 비즈니스 전략을 수립하고 실행하는 것이 중요하다.",
-  "analyzed_at": "2026-05-03T00:30:34.528Z",
+  "narrative": "최근의 트렌드와 이슈를 분석한 결과, 정치와 기술, 사회적 문제가 주요한 주제로 나타났습니다. 특히, 윤석열 정부와 관련된 정치적 이슈와 최신 기술 제품과 서비스에 대한 정보가 많이 공유되고 있습니다. 또한, 사회적 문제와 이슈에 대한 논의가 활발하게 진행되고 있습니다. 이러한 트렌드와 이슈를 고려하여 마케팅과 광고 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-03T02:00:34.639Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
