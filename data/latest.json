@@ -1,84 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있습니다. AI를 이용한 쇼핑, 게임, 의료 등 다양한 분야에서 혁신이 일어나고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정청래",
+      "summary": "정청래의 최근 발언과 행동에 대한 논란",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "정치 및 선거 관련 주제가 많은 관심을 받고 있습니다. 정청래의 사고, 하정우의 선거 운동 등 다양한 정치 관련 뉴스가 주목받고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 다양한 ứng용 분야",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "최신 기술 및 가전 제품 관련 주제가 많은 관심을 받고 있습니다. 애플, 삼성, LG 등의 제품 관련 뉴스가 주목받고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "선거와 정치",
+      "summary": "선거와 정치 관련된 다양한 의견과 논란",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "정청래",
       "count": 5,
       "sentiment": "negative",
-      "context": "정청래의 사고"
+      "context": "정청래의 최근 발언과 행동"
     },
     {
-      "keyword": "하정우",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "하정우의 선거 운동"
-    },
-    {
-      "keyword": "애플",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "애플 제품 관련 뉴스"
-    },
-    {
-      "keyword": "삼성",
+      "keyword": "선거",
       "count": 8,
-      "sentiment": "positive",
-      "context": "삼성 제품 관련 뉴스"
+      "sentiment": "mixed",
+      "context": "선거와 정치 관련된 다양한 의견과 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기지만 일부 논란이 존재"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 혁신을 가져올 수 있습니다.",
+      "insight": "AI 기술의 발전은 다양한 산업 분야에서 기회를 창출할 수 있다",
       "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 및 선거 관련 주제는 많은 관심을 받고 있습니다.",
-      "action": "정치 및 선거 관련 뉴스와 분석을 제공",
+      "insight": "정청래의 최근 발언과 행동은 정치적인 논란을 일으킬 수 있다",
+      "action": "정치적인 논란을 피하기 위한 전략 개발",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술 및 가전 제품은 많은 관심을 받고 있습니다.",
-      "action": "최신 기술 및 가전 제품 관련 뉴스와 리뷰를 제공",
-      "priority": "medium"
+      "insight": "선거와 정치 관련된 다양한 의견과 논란은 사회적인 관심을 끌 수 있다",
+      "action": "사회적인 관심을 끌기 위한 마케팅 전략 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술, 정치 및 선거, 최신 기술 및 가전 제품 관련 주제가 많은 관심을 받고 있습니다. AI 기술의 발전은 다양한 산업에서 혁신을 가져올 수 있으며, 정치 및 선거 관련 주제는 많은 관심을 받고 있습니다. 또한, 최신 기술 및 가전 제품은 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 정치 및 선거 관련 뉴스와 분석을 제공하며, 최신 기술 및 가전 제품 관련 뉴스와 리뷰를 제공하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-03T18:30:34.060Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업 분야에서 기회를 창출할 수 있는 가능성이 나타났습니다. 그러나 정청래의 최근 발언과 행동은 정치적인 논란을 일으킬 수 있으며, 선거와 정치 관련된 다양한 의견과 논란은 사회적인 관심을 끌 수 있습니다. 이러한 트렌드와 키워드를 분석하여 새로운 비즈니스 모델 개발과 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-03T20:00:34.161Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
