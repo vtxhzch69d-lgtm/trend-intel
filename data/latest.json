@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아졌으며, 특히 민주당과 관련된 게시글이 많은 관심을 받고 있다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. AI 관련 뉴스와 기술 개발에 대한 논의가 활발하다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련 게시글이 많아졌으며, 특히 AI와 관련된 게시글이 많은 관심을 받고 있다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 논의가 많다. 특히 조국 대표와 관련된 뉴스에 대한 관심이 높다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 게시글이 많아졌으며, 특히 금리 인상과 관련된 게시글이 많은 관심을 받고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 제품 출시에 대한 관심이 높다. 특히 애플과 삼성전자 관련 뉴스가 많다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "민주당과 관련된 게시글이 많은 관심을 받고 있다."
-    },
-    {
       "keyword": "AI",
-      "count": 15,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI와 관련된 게시글이 많은 관심을 받고 있다."
+      "context": "AI 기술의 발전과 응용"
     },
     {
-      "keyword": "금리 인상",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "금리 인상과 관련된 게시글이 많은 관심을 받고 있다."
+      "keyword": "조국",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 논의"
+    },
+    {
+      "keyword": "애플",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 제품 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "최근 정치 관련 게시글이 많아졌으므로, 정치와 관련된 마케팅 전략을 수립해야 한다.",
-      "action": "마케팅 전략 수립",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것이다.",
+      "action": "AI 기술의 발전을 주시하고 ứng용 가능성을 탐색한다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 관련 게시글이 많아졌으므로, 기술과 관련된 마케팅 전략을 수립해야 한다.",
-      "action": "마케팅 전략 수립",
+      "insight": "최신 기술 뉴스와 제품 출시에 대한 관심이 높다.",
+      "action": "최신 기술 뉴스와 제품 출시를 주시하고 고객의 관심을 반영한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 게시글이 많아졌으므로, 경제와 관련된 마케팅 전략을 수립해야 한다.",
-      "action": "마케팅 전략 수립",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 정치, 기술, 경제와 관련된 게시글이 많아졌으며, 특히 민주당과 AI와 관련된 게시글이 많은 관심을 받고 있다. 이러한 트렌드를 반영하여 마케팅 전략을 수립해야 한다. 또한, 금리 인상과 관련된 게시글이 많은 관심을 받고 있으므로, 경제와 관련된 마케팅 전략을 수립해야 한다. 이러한 분석 결과를 통해 마케팅 전략을 수립하고, 사업을 성공적으로 진행할 수 있을 것이다.",
-  "analyzed_at": "2026-05-03T11:00:33.788Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 또한 정치 관련 뉴스와 논의가 많다. 최신 기술 뉴스와 제품 출시에 대한 관심도 높다. 이러한 트렌드를 반영하여 마케팅 전략을 수립하고 고객의 관심을 반영하는 것이 중요하다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것이므로 이를 주시하고 응용 가능성을 탐색하는 것이 필요하다. 또한 최신 기술 뉴스와 제품 출시를 주시하고 고객의 관심을 반영하는 것이 중요하다.",
+  "analyzed_at": "2026-05-03T12:30:34.380Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
