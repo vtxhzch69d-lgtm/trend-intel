@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 뉴스와 의견이 많은 관심을 받고 있습니다.",
+      "summary": "조국, 김용남, 양상국 등 정치 인물 관련 게시글이 많습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 많은 관심을 받고 있습니다.",
+      "summary": "애플, 삼성전자, LG전자 등 기술 관련 뉴스가 많습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "最近의 스포츠 뉴스와 경기 결과가 많은 관심을 받고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "금리 인상, 국민연금, 코스피 투자 등 경제 관련 게시글이 많습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
+      "keyword": "조국",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 뉴스에서 많이 언급되고 있습니다."
+      "context": "정치 관련 게시글에서 자주 언급됩니다."
     },
     {
-      "keyword": "AI",
+      "keyword": "애플",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스에서 많이 언급되고 있습니다."
+      "context": "기술 관련 뉴스에서 자주 언급됩니다."
     },
     {
-      "keyword": "손흥민",
+      "keyword": "금리",
       "count": 3,
-      "sentiment": "positive",
-      "context": "스포츠 뉴스에서 많이 언급되고 있습니다."
+      "sentiment": "neutral",
+      "context": "경제 관련 게시글에서 언급됩니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 기분이 많습니다."
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 뉴스를 많이 관심을 받고 있습니다.",
-      "action": "최신 기술 뉴스를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "정치 관련 게시글이 많아 정치적인 이슈가 중요합니다.",
+      "action": "정치 관련 콘텐츠를 생성합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "정치 뉴스를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "기술 관련 뉴스가 많아 기술적인 이슈가 중요합니다.",
+      "action": "기술 관련 콘텐츠를 생성합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 게시글이 많아 경제적인 이슈가 중요합니다.",
+      "action": "경제 관련 콘텐츠를 생성합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 최신 기술 뉴스가 많은 관심을 받고 있습니다. 최신 기술 뉴스를 제공하여 관심을 끌 수 있습니다. 또한 정치 뉴스를 제공하여 관심을 끌 수 있습니다. 중립적인 기분이 많습니다. 최신 기술 뉴스와 정치 뉴스를 제공하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-05-03T08:00:33.473Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 게시글이 많습니다. 정치 관련 게시글은 조국, 김용남, 양상국 등 정치 인물 관련 콘텐츠가 많습니다. 기술 관련 뉴스는 애플, 삼성전자, LG전자 등 기술 관련 뉴스가 많습니다. 경제 관련 게시글은 금리 인상, 국민연금, 코스피 투자 등 경제 관련 콘텐츠가 많습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-03T09:30:34.208Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
