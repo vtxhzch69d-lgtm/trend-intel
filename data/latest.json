@@ -1,76 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많은 것으로 나타났습니다. 특히 조국과 김용남 관련 게시글이 많이 올라왔습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "클리앙 커뮤니티에서 기술 관련 게시글이 많은 것으로 나타났습니다. 특히 AI와 게임 관련 게시글이 많이 올라왔습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "최근 경제 상황에 대한 우려와 불안정성",
+      "post_count": 500,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "스포츠",
-      "summary": "클리앙 커뮤니티에서 스포츠 관련 게시글이 많은 것으로 나타났습니다. 특히 손흥민과 이강인 관련 게시글이 많이 올라왔습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "최근 정치 상황에 대한 논란과 불만",
+      "post_count": 300,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 5,
+      "keyword": "경제",
+      "count": 1000,
       "sentiment": "negative",
-      "context": "정치 관련 게시글에서 많이 언급되었습니다."
+      "context": "최근 경제 상황에 대한 우려"
     },
     {
-      "keyword": "김용남",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "정치 관련 게시글에서 많이 언급되었습니다."
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 관련 게시글에서 많이 언급되었습니다."
-    },
-    {
-      "keyword": "게임",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "기술 관련 게시글에서 많이 언급되었습니다."
+      "keyword": "정치",
+      "count": 800,
+      "sentiment": "mixed",
+      "context": "최근 정치 상황에 대한 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 200,
+    "negative": 800,
+    "neutral": 500,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 정치와 기술 관련 게시글이 많은 것으로 나타났습니다.",
-      "action": "정치와 기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "최근 경제 상황에 대한 우려가 높아지고 있다",
+      "action": "경제 관련 콘텐츠 제공",
       "priority": "high"
     },
     {
-      "insight": "클리앙 커뮤니티에서 AI와 게임 관련 게시글이 많이 올라왔습니다.",
-      "action": "AI와 게임 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "최근 정치 상황에 대한 논란이 존재한다",
+      "action": "정치 관련 콘텐츠 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치와 기술 관련 게시글이 많은 것으로 나타났습니다. 특히 조국과 김용남 관련 게시글이 많이 올라왔습니다. 또한 AI와 게임 관련 게시글이 많이 올라왔습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하면 사용자들의 관심을 끌 수 있습니다. 클리앙 커뮤니티의 사용자들은 중립적인 분위기를 보이지만, 정치와 기술 관련 게시글에 대해 관심을 보이는 것으로 나타났습니다. 따라서 이러한 트렌드를 반영하여 콘텐츠를 제공하면 사용자들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-05-03T05:00:33.689Z",
-  "post_count": 62,
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 경제와 정치 관련 주제가 인기 있는 것으로 나타났습니다. 경제 상황에 대한 우려와 불안정성이 높아지고 있으며, 정치 상황에 대한 논란도 존재합니다. 이러한 트렌드를 반영하여 경제와 정치 관련 콘텐츠를 제공하는 것이 중요할 것으로 보입니다. 또한, 부정적인 감정이 높은 것으로 나타나므로, 콘텐츠를 통해 사용자의 우려와 불안정을 해소하는 것이 필요할 것입니다.",
+  "analyzed_at": "2026-05-03T06:30:33.926Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
