@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "주식투자, 자산증가, 부동산 가격 상승 등 경제 및 금융 관련 주제가 인기 있습니다.",
-      "post_count": 15,
+      "topic": "주식 투자",
+      "summary": "클리앙 커뮤니티에서 주식 투자 관련 게시글이 많이 올라옴. 삼성 SDI, LG전자 등 주식 관련 뉴스도 많음.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI, 스팀 머신, 프로젝터, 모바일 신분증 등 기술 및 과학 관련 주제가 인기 있습니다.",
-      "post_count": 20,
+      "topic": "경제 뉴스",
+      "summary": "IMF의 한국 순부채율 관련 뉴스, 주택시장 관련 뉴스 등 경제 뉴스가 많음.",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "박상용 징계, 서울고검TF, 호르무즈 해협 등 사회 및 정치 관련 주제가 인기 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술 뉴스",
+      "summary": "스팀 머신, XGIMI 프로젝터, LG전자 울트라기어 에보 등 기술 관련 뉴스가 많음.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
-      "count": 5,
+      "count": 15,
       "sentiment": "positive",
-      "context": "주식투자 열심히 해서 상급지 가는게 답인 것 같습니다."
+      "context": "주식 투자 관련 게시글"
     },
     {
-      "keyword": "AI",
+      "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "AI가 쇼핑해주는 시대…금결원장 'AI 결제플랫폼 연내 기술검증'"
+      "context": "경제 뉴스"
     },
     {
-      "keyword": "부동산",
-      "count": 5,
+      "keyword": "기술",
+      "count": 12,
       "sentiment": "positive",
-      "context": "15억원 이하 부동산 가격 상승, 시장이 걱정할 부분은 아니다"
+      "context": "기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "경제 및 금융 관련 주제가 인기 있습니다.",
-      "action": "경제 및 금융 관련 콘텐츠를 생성하세요.",
+      "insight": "주식 투자 관련 게시글이 많아 주식 투자에 대한 관심이 높음",
+      "action": "주식 투자 관련 콘텐츠 제공",
       "priority": "high"
     },
     {
-      "insight": "기술 및 과학 관련 주제가 인기 있습니다.",
-      "action": "기술 및 과학 관련 콘텐츠를 생성하세요.",
+      "insight": "경제 뉴스가 많아 경제 관련 콘텐츠 제공 필요",
+      "action": "경제 뉴스 제공",
       "priority": "medium"
     },
     {
-      "insight": "사회 및 정치 관련 주제가 인기 있습니다.",
-      "action": "사회 및 정치 관련 콘텐츠를 생성하세요.",
+      "insight": "기술 뉴스가 많아 기술 관련 콘텐츠 제공 필요",
+      "action": "기술 뉴스 제공",
       "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, 경제 및 금융, 기술 및 과학, 사회 및 정치 관련 주제가 인기 있습니다. 주식투자, 자산증가, 부동산 가격 상승 등 경제 및 금융 관련 주제는 긍정적인 반응을 보이고 있습니다. 기술 및 과학 관련 주제는 중립적인 반응을 보이고 있습니다. 사회 및 정치 관련 주제는 부정적인 반응을 보이고 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 생성하면 효과적인 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-04T16:00:34.089Z",
+  "narrative": "클리앙 커뮤니티에서 주식 투자, 경제 뉴스, 기술 뉴스가 많이 올라옴. 주식 투자 관련 게시글이 많아 주식 투자에 대한 관심이 높음. 경제 뉴스도 많아 경제 관련 콘텐츠 제공 필요. 기술 뉴스가 많아 기술 관련 콘텐츠 제공 필요. 전체적으로 긍정적인 분위기임.",
+  "analyzed_at": "2026-05-04T17:30:33.728Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
