@@ -1,67 +1,78 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 및 경제",
-      "summary": "하이닉스, 삼전 등 주식 관련 게시물이 많은 것으로 나타났습니다. 또한, 경제 관련 뉴스와 분석 게시물도 많이 등장했습니다.",
+      "topic": "주식 시장",
+      "summary": "코스피와 코스닥의 상승세가 지속되고 있으며, 외국인의 매수세가 강하다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 응용 분야가 다양해지고 있으며, 관련 뉴스와 기사가 많다.",
       "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "조국, 윤석열 등 정치인 관련 게시물이 많았습니다. 또한, 정치 관련 뉴스와 분석 게시물도 많이 등장했습니다.",
-      "post_count": 10,
+      "summary": "정치 관련 뉴스와 의견이 많으며, 특히 조국 대표와 한동훈에 대한 논의가 활발하다.",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "high"
-    },
-    {
-      "topic": "기술 및 IT",
-      "summary": "최신 기술과 IT 관련 뉴스 및 제품 리뷰 게시물이 많이 등장했습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "하이닉스",
+      "keyword": "코스피",
       "count": 5,
+      "sentiment": "positive",
+      "context": "주식 시장의 상승세"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "주식 관련 게시물에서 많이 등장했습니다."
+      "context": "기술 발전과 응용 분야"
     },
     {
       "keyword": "조국",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "정치 관련 게시물에서 많이 등장했습니다."
+      "count": 3,
+      "sentiment": "negative",
+      "context": "정치 관련 논의"
     },
     {
-      "keyword": "삼전",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "주식 관련 게시물에서 많이 등장했습니다."
+      "keyword": "한동훈",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "정치 관련 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
+    "positive": 15,
+    "negative": 10,
     "neutral": 20,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기이지만, 주식 시장과 관련된 긍정적인 기사와 의견이 많다."
   },
   "business_insights": [
     {
-      "insight": "주식 및 경제 관련 게시물이 많은 것으로 나타났습니다.",
-      "action": "주식 및 경제 관련 콘텐츠를 제공하여 사용자와의 상호작용을 증가시킬 수 있습니다.",
+      "insight": "주식 시장의 상승세를 이용하여 투자할 기회를 찾는 것이 좋다.",
+      "action": "주식 투자",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 게시물이 많았습니다.",
-      "action": "정치 관련 콘텐츠를 제공하여 사용자와의 상호작용을 증가시킬 수 있습니다.",
+      "insight": "AI 기술의 발전을 이용하여 새로운 비즈니스 모델을 개발할 수 있다.",
+      "action": "AI 기술 연구",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 뉴스와 의견을 분석하여 정치적 위험을 관리할 수 있다.",
+      "action": "정치 뉴스 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 뽐뿌와 클리앙 커뮤니티의 인기 게시물은 주식 및 경제, 정치, 기술 및 IT 관련 게시물이 많았습니다. 주식 및 경제 관련 게시물은 중립적인 감정을 보였으며, 정치 관련 게시물은 혼합된 감정을 보였습니다. 기술 및 IT 관련 게시물은 긍정적인 감정을 보였습니다. 이러한 분석 결과를 통해 마케터는 사용자와의 상호작용을 증가시키기 위해 주식 및 경제, 정치, 기술 및 IT 관련 콘텐츠를 제공할 수 있습니다.",
-  "analyzed_at": "2026-05-04T06:30:33.700Z",
+  "narrative": "최근의 트렌드는 주식 시장과 AI 기술이 주를 이루고 있으며, 정치 관련 뉴스와 의견도 많다. 주식 시장의 상승세를 이용하여 투자할 기회를 찾는 것이 좋으며, AI 기술의 발전을 이용하여 새로운 비즈니스 모델을 개발할 수 있다. 또한, 정치 관련 뉴스와 의견을 분석하여 정치적 위험을 관리할 수 있다. 중립적인 분위기이지만, 주식 시장과 관련된 긍정적인 기사와 의견이 많다.",
+  "analyzed_at": "2026-05-04T08:00:34.014Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
