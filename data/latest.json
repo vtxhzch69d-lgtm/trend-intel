@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "최근의 경제 및 정치 관련 뉴스와 논평이 주목을 받고 있습니다. 주식 시장의 상승과 정부의 정책에 대한 논평이 많습니다.",
+      "topic": "주식 및 경제",
+      "summary": "하이닉스, 삼전 등 주식 관련 게시물이 많은 것으로 나타났습니다. 또한, 경제 관련 뉴스와 분석 게시물도 많이 등장했습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "테크 및 가전",
-      "summary": "신제품 출시와 기술 발전에 대한 관심이 높습니다. 특히, 애플과 삼성의 최신 제품에 대한 논평이 많습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "조국, 윤석열 등 정치인 관련 게시물이 많았습니다. 또한, 정치 관련 뉴스와 분석 게시물도 많이 등장했습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "생활 및 문화",
-      "summary": "일상 생활과 문화 관련 주제가 인기 있습니다. 특히, 음식과 여행에 대한 글들이 많습니다.",
-      "post_count": 10,
+      "topic": "기술 및 IT",
+      "summary": "최신 기술과 IT 관련 뉴스 및 제품 리뷰 게시물이 많이 등장했습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장의 상승과 하락에 대한 논평"
-    },
-    {
-      "keyword": "애플",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "애플의 최신 제품과 기술에 대한 논평"
-    },
-    {
-      "keyword": "삼성",
+      "keyword": "하이닉스",
       "count": 5,
-      "sentiment": "positive",
-      "context": "삼성의 최신 제품과 기술에 대한 논평"
+      "sentiment": "neutral",
+      "context": "주식 관련 게시물에서 많이 등장했습니다."
+    },
+    {
+      "keyword": "조국",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "정치 관련 게시물에서 많이 등장했습니다."
+    },
+    {
+      "keyword": "삼전",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "주식 관련 게시물에서 많이 등장했습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 10,
+    "negative": 5,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 및 가전 제품에 대한 관심이 높아지고 있습니다.",
-      "action": "신제품 출시와 기술 발전에 대한 마케팅을 강화해야 합니다.",
+      "insight": "주식 및 경제 관련 게시물이 많은 것으로 나타났습니다.",
+      "action": "주식 및 경제 관련 콘텐츠를 제공하여 사용자와의 상호작용을 증가시킬 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 주제에 대한 관심이 높아지고 있습니다.",
-      "action": "관련 뉴스와 논평을 제공하여 고객의 관심을 끌어야 합니다.",
+      "insight": "정치 관련 게시물이 많았습니다.",
+      "action": "정치 관련 콘텐츠를 제공하여 사용자와의 상호작용을 증가시킬 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 테크 및 가전 제품에 대한 관심이 높아지고 있으며, 경제 및 정치 관련 주제에도 많은 관심이 있습니다. 이러한 트렌드를 반영하여 마케팅 전략을 수립하고, 고객의 관심을 끌기 위한 콘텐츠를 제공해야 합니다. 또한, 신제품 출시와 기술 발전에 대한 마케팅을 강화하여 고객의 관심을 끌어야 합니다.",
-  "analyzed_at": "2026-05-04T05:00:33.708Z",
-  "post_count": 61,
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티의 인기 게시물은 주식 및 경제, 정치, 기술 및 IT 관련 게시물이 많았습니다. 주식 및 경제 관련 게시물은 중립적인 감정을 보였으며, 정치 관련 게시물은 혼합된 감정을 보였습니다. 기술 및 IT 관련 게시물은 긍정적인 감정을 보였습니다. 이러한 분석 결과를 통해 마케터는 사용자와의 상호작용을 증가시키기 위해 주식 및 경제, 정치, 기술 및 IT 관련 콘텐츠를 제공할 수 있습니다.",
+  "analyzed_at": "2026-05-04T06:30:33.700Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
