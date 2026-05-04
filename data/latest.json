@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
+      "topic": "부동산",
+      "summary": "부동산 관련 게시물이 많은 것으로 나타났습니다. 주택시장의 변동과 관련된 게시물이 많았으며, 일부 게시물에서는 부동산 정책에 대한 비판도 나타났습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
       "topic": "금리 인상",
-      "summary": "금리 인상으로 인한 부동산 시장의 변동과 경제적 영향",
+      "summary": "금리 인상에 대한 게시물이 많았습니다. 일부 게시물에서는 금리 인상의 부동산 시장을 타격할 것이라는 우려가 나타났습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 시장의 현황과 미래 전망",
-      "post_count": 4,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 게시물이 많았습니다. 일부 게시물에서는 AI 기술의 발전과 관련된 뉴스와 기사가 나타났습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "금리",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "금리 인상으로 인한 부동산 시장의 변동"
-    },
-    {
       "keyword": "부동산",
-      "count": 10,
+      "count": 15,
       "sentiment": "mixed",
-      "context": "부동산 시장의 현황과 미래 전망"
+      "context": "주택시장의 변동과 관련된 게시물"
     },
     {
-      "keyword": "정치",
-      "count": 15,
+      "keyword": "금리",
+      "count": 8,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스와 의견"
+      "context": "금리 인상의 부동산 시장을 타격할 것이라는 우려"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 뉴스와 기사"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 30,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "금리 인상으로 인한 부동산 시장의 변동",
-      "action": "부동산 투자에 대한 재고 필요",
+      "insight": "부동산 시장의 변동에 대비하여 금리 인상에 대한 대응 전략을 수립해야 합니다.",
+      "action": "금리 인상에 대한 부동산 시장의 반응을 모니터링하고, 대응 전략을 수립합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스의 증가",
-      "action": "정치 관련 뉴스 모니터링 필요",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 모니터링하고, 이를 활용하여 새로운 비즈니스 기회를 찾습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, 금리 인상과 부동산 시장의 변동, 정치 관련 뉴스가 주목을 끌고 있습니다. 금리 인상으로 인한 부동산 시장의 변동은 부정적인 감정을 불러일으키고 있으며, 정치 관련 뉴스는 계속해서 증가하고 있습니다. 이러한 트렌드에 대한 모니터링과 분석이 필요합니다. 또한, 부동산 투자에 대한 재고와 정치 관련 뉴스 모니터링이 필요합니다.",
-  "analyzed_at": "2026-05-04T09:30:33.459Z",
+  "narrative": "최근의 트렌드 분석 결과, 부동산과 금리 인상에 대한 게시물이 많았습니다. 일부 게시물에서는 부동산 정책에 대한 비판도 나타났으며, 금리 인상의 부동산 시장을 타격할 것이라는 우려도 나타났습니다. 또한, AI 기술 관련 게시물이 많았으며, 일부 게시물에서는 AI 기술의 발전과 관련된 뉴스와 기사가 나타났습니다. 이러한 트렌드 분석 결과를 바탕으로, 부동산 시장의 변동에 대비하여 금리 인상에 대한 대응 전략을 수립하고, AI 기술의 발전을 모니터링하여 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
+  "analyzed_at": "2026-05-04T11:00:35.206Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
