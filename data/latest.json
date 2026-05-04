@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산",
-      "summary": "부동산 관련 게시물이 많은 것으로 나타났습니다. 주택시장의 변동과 관련된 게시물이 많았으며, 일부 게시물에서는 부동산 정책에 대한 비판도 나타났습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "금리 인상",
-      "summary": "금리 인상에 대한 게시물이 많았습니다. 일부 게시물에서는 금리 인상의 부동산 시장을 타격할 것이라는 우려가 나타났습니다.",
-      "post_count": 5,
+      "topic": "호르무즈 해협 한국 선박 피격",
+      "summary": "호르무즈 해협에서 한국 선박이 피격된 것으로 확인되고 있으며, 인명피해는 없는 것으로 보고됨.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 게시물이 많았습니다. 일부 게시물에서는 AI 기술의 발전과 관련된 뉴스와 기사가 나타났습니다.",
-      "post_count": 8,
+      "topic": "주식 투자",
+      "summary": "주식 투자에 대한 관심이 높아지고 있으며, 상급지 가는 것이 답인 것으로 보임.",
+      "post_count": 2,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "자동차 보험료 인상",
+      "summary": "자동차 보험료가 인상된 것으로 보고되며, 이는 많은 사용자들에게 영향을 미칠 것으로 예상됨.",
+      "post_count": 1,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "주택시장의 변동과 관련된 게시물"
-    },
-    {
-      "keyword": "금리",
-      "count": 8,
+      "keyword": "호르무즈 해협",
+      "count": 3,
       "sentiment": "negative",
-      "context": "금리 인상의 부동산 시장을 타격할 것이라는 우려"
+      "context": "한국 선박 피격"
     },
     {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "주식 투자",
+      "count": 2,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스와 기사"
+      "context": "상급지 가는 것이 답"
+    },
+    {
+      "keyword": "자동차 보험료",
+      "count": 1,
+      "sentiment": "negative",
+      "context": "보험료 인상"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 5,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높음"
   },
   "business_insights": [
     {
-      "insight": "부동산 시장의 변동에 대비하여 금리 인상에 대한 대응 전략을 수립해야 합니다.",
-      "action": "금리 인상에 대한 부동산 시장의 반응을 모니터링하고, 대응 전략을 수립합니다.",
+      "insight": "호르무즈 해협에서 한국 선박이 피격된 사건은 국제 관계에 영향을 미칠 수 있음",
+      "action": "국제 관계 동향을 주시함",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 모니터링하고, 이를 활용하여 새로운 비즈니스 기회를 찾습니다.",
+      "insight": "주식 투자에 대한 관심이 높아지고 있으므로, 투자 관련 서비스를 제공하는 기업은 기회를 찾을 수 있음",
+      "action": "투자 관련 서비스를 제공함",
+      "priority": "medium"
+    },
+    {
+      "insight": "자동차 보험료 인상은 많은 사용자들에게 영향을 미칠 수 있으므로, 보험료 인상에 대한 대책을 마련해야 함",
+      "action": "보험료 인상에 대한 대책을 마련함",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 부동산과 금리 인상에 대한 게시물이 많았습니다. 일부 게시물에서는 부동산 정책에 대한 비판도 나타났으며, 금리 인상의 부동산 시장을 타격할 것이라는 우려도 나타났습니다. 또한, AI 기술 관련 게시물이 많았으며, 일부 게시물에서는 AI 기술의 발전과 관련된 뉴스와 기사가 나타났습니다. 이러한 트렌드 분석 결과를 바탕으로, 부동산 시장의 변동에 대비하여 금리 인상에 대한 대응 전략을 수립하고, AI 기술의 발전을 모니터링하여 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
-  "analyzed_at": "2026-05-04T11:00:35.206Z",
+  "narrative": "최근의 트렌드에 따르면, 호르무즈 해협에서 한국 선박이 피격된 사건이 큰 관심을 끌고 있으며, 주식 투자에 대한 관심도 높아지고 있음. 또한, 자동차 보험료 인상에 대한 우려도 존재함. 이러한 트렌드는 국제 관계, 투자, 보험 등 다양한 분야에 영향을 미칠 수 있으므로, 각 분야의 기업과 기관은 이러한 트렌드에 주시하여 대응해야 함. 또한, 부정적인 감정의 비중이 높아지고 있으므로, 기업과 기관은 사용자들의 우려와 불만을 해결하기 위한 노력을 해야 함.",
+  "analyzed_at": "2026-05-04T14:30:34.405Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
