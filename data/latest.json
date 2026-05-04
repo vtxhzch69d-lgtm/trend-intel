@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "주식 투자",
-      "summary": "클리앙 커뮤니티에서 주식 투자 관련 게시글이 많이 올라옴. 삼성 SDI, LG전자 등 주식 관련 뉴스도 많음.",
+      "summary": "클리앙 커뮤니티에서 주식 투자 관련 게시글이 많이 올라왔습니다. 주식 투자에 대한 관심이 높아지고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 뉴스",
-      "summary": "IMF의 한국 순부채율 관련 뉴스, 주택시장 관련 뉴스 등 경제 뉴스가 많음.",
+      "topic": "부동산",
+      "summary": "클리앙 커뮤니티에서 부동산 관련 게시글이 많이 올라왔습니다. 부동산 가격 상승에 대한 관심이 높아지고 있습니다.",
       "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "스팀 머신, XGIMI 프로젝터, LG전자 울트라기어 에보 등 기술 관련 뉴스가 많음.",
+      "topic": "AI 기술",
+      "summary": "클리언 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 기술의 발전에 대한 관심이 높아지고 있습니다.",
       "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "주식",
       "count": 15,
       "sentiment": "positive",
-      "context": "주식 투자 관련 게시글"
+      "context": "주식 투자에 대한 관심이 높아지고 있습니다."
     },
     {
-      "keyword": "경제",
+      "keyword": "부동산",
       "count": 10,
       "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "context": "부동산 가격 상승에 대한 관심이 높아지고 있습니다."
     },
     {
-      "keyword": "기술",
-      "count": 12,
+      "keyword": "AI",
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "AI 기술의 발전에 대한 관심이 높아지고 있습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 5,
+    "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "클리앙 커뮤니티의 전체적인 분위기는 긍정적입니다."
   },
   "business_insights": [
     {
-      "insight": "주식 투자 관련 게시글이 많아 주식 투자에 대한 관심이 높음",
-      "action": "주식 투자 관련 콘텐츠 제공",
+      "insight": "주식 투자에 대한 관심이 높아지고 있습니다.",
+      "action": "주식 투자 관련 서비스를 제공하는 것을 고려해 볼 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스가 많아 경제 관련 콘텐츠 제공 필요",
-      "action": "경제 뉴스 제공",
+      "insight": "AI 기술의 발전에 대한 관심이 높아지고 있습니다.",
+      "action": "AI 기술을 활용한 서비스를 개발하는 것을 고려해 볼 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "기술 뉴스가 많아 기술 관련 콘텐츠 제공 필요",
-      "action": "기술 뉴스 제공",
+      "insight": "부동산 가격 상승에 대한 관심이 높아지고 있습니다.",
+      "action": "부동산 관련 서비스를 제공하는 것을 고려해 볼 수 있습니다.",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 주식 투자, 경제 뉴스, 기술 뉴스가 많이 올라옴. 주식 투자 관련 게시글이 많아 주식 투자에 대한 관심이 높음. 경제 뉴스도 많아 경제 관련 콘텐츠 제공 필요. 기술 뉴스가 많아 기술 관련 콘텐츠 제공 필요. 전체적으로 긍정적인 분위기임.",
-  "analyzed_at": "2026-05-04T17:30:33.728Z",
+  "narrative": "클리앙 커뮤니티의 트렌드 분석 결과, 주식 투자, 부동산, AI 기술이 주요 관심사로 나타났습니다. 주식 투자에 대한 관심이 높아지고 있으며, AI 기술의 발전에 대한 관심도 높아지고 있습니다. 부동산 가격 상승에 대한 관심도 높아지고 있지만, 전체적인 분위기는 긍정적입니다. 이러한 트렌드를 고려하여, 주식 투자 관련 서비스, AI 기술을 활용한 서비스, 부동산 관련 서비스를 제공하는 것을 고려해 볼 수 있습니다.",
+  "analyzed_at": "2026-05-04T19:00:34.108Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
