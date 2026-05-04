@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "트럼프와 관련된 정치 뉴스 및 논평",
+      "summary": "정청래, 하정우의 사과문과 관련된 정치적인 논쟁이 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 또한, 트럼프의 독일 미군철수와 관련된 글도 관심을 받고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스 및 제품 출시",
-      "post_count": 20,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스 및 분석",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 관련된 글들이 클리앙 커뮤니티에서 많이 올라오고 있습니다. 특히, 애플의 최신 제품과 기술, AI 관련 뉴스가 주목을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "여행",
+      "summary": "여행과 관련된 글들이 클리앙 커뮤니티에서 올라오고 있습니다. 특히, 항공사와 관련된 뉴스가 주목을 받고 있습니다.",
       "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,49 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 뉴스"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "테크 뉴스"
-    },
-    {
-      "keyword": "경제",
+      "keyword": "정청래",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "sentiment": "negative",
+      "context": "정청래의 사과문과 관련된 논쟁"
+    },
+    {
+      "keyword": "애플",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "애플의 최신 제품과 기술"
+    },
+    {
+      "keyword": "트럼프",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "트럼프의 독일 미군철수와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "테크 산업은 빠르게 성장하고 있다",
-      "action": "테크 산업에 대한 투자 및 연구를 강화해야 한다",
+      "insight": "최신 기술 뉴스와 관련된 마케팅 전략",
+      "action": "최신 기술 뉴스와 관련된 콘텐츠를 생성하여 클리앙 커뮤니티에서 홍보",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스는 여전히 많은 관심을 받고 있다",
-      "action": "정치 뉴스에 대한 분석 및 해설을 강화해야 한다",
+      "insight": "정치적인 논쟁과 관련된 마케팅 전략",
+      "action": "정치적인 논쟁과 관련된 콘텐츠를 생성하여 클리앙 커뮤니티에서 홍보",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 뉴스는 중립적인 반응을 보이고 있다",
-      "action": "경제 뉴스에 대한 분석 및 해설을 유지해야 한다",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 테크 산업의 성장과 정치 뉴스의 관심이 높아지고 있는 것을 보여주고 있다. 테크 산업은 빠르게 성장하고 있으며, 많은 사람들이 새로운 기술 및 제품에 대한 관심을 보이고 있다. 정치 뉴스도 여전히 많은 관심을 받고 있으며, 특히 트럼프와 관련된 뉴스가 많은 논쟁을 일으키고 있다. 경제 뉴스는 중립적인 반응을 보이고 있으며, 많은 사람들이 경제 뉴스에 대한 분석 및 해설을 원하고 있다. 이러한 트렌드를 고려하여, 테크 산업에 대한 투자 및 연구를 강화하고, 정치 뉴스에 대한 분석 및 해설을 강화하며, 경제 뉴스에 대한 분석 및 해설을 유지하는 것이 중요하다.",
-  "analyzed_at": "2026-05-03T23:00:34.070Z",
+  "narrative": "클리앙 커뮤니티에서는 정치적인 논쟁과 최신 기술 뉴스가 주목을 받고 있습니다. 특히, 애플의 최신 제품과 기술, 정청래의 사과문과 관련된 논쟁이 많이 올라오고 있습니다. 이러한 트렌드를 이용하여 최신 기술 뉴스와 관련된 마케팅 전략을 수립할 수 있습니다. 또한, 정치적인 논쟁과 관련된 마케팅 전략도 수립할 수 있습니다. 클리앙 커뮤니티의 중립적인 분위기를 이용하여 다양한 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-04T00:30:34.841Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
