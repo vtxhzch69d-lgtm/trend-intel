@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 투자",
-      "summary": "클리앙 커뮤니티에서 주식 투자 관련 게시글이 많이 올라왔습니다. 삼성 SDI와 HMM 등 다양한 주식에 대한 토론이 이루어졌습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있다. ChatGPT와 같은 AI 모델이 밤샘을 유발하는 등 일상생활에 영향을 미치고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스가 많았습니다. IMF의 한국 순부채율 평가와 주택시장 동향 등 다양한 주제가 논의되었습니다.",
+      "summary": "부동산 가격 상승과 자산 증가에 대한 논의가 활발하다. 다주택자에 대한 갈구기와 자산 증가에 대한 질문이 많다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
     },
     {
-      "topic": "기술 및 IT",
-      "summary": "최신 기술 및 IT 관련 뉴스가 많았습니다. 스팀 머신, 드리미, XGIMI 등 다양한 기술 관련 주제가 논의되었습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치 및 사회",
+      "summary": "한동훈 자아비대증과 조국 공소취소에 대한 논의가 있다. 부산북구 하정우-한동훈 접전 여론조사 관련 게시물도 있다.",
+      "post_count": 6,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
+      "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "주식 투자 관련 토론"
+      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "부동산",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스"
+      "context": "부동산 가격 상승과 자산 증가에 대한 논의"
     },
     {
-      "keyword": "기술",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "최신 기술 및 IT 관련 뉴스"
+      "keyword": "한동훈",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "한동훈 자아비대증과 조국 공소취소에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "주식 투자에 대한 관심이 높아지고 있습니다.",
-      "action": "주식 투자 관련 서비스를 제공하거나 홍보할 수 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스가 많아지고 있습니다.",
-      "action": "경제 및 금융 관련 콘텐츠를 제공하거나 분석할 수 있습니다.",
+      "insight": "부동산 가격 상승",
+      "action": "부동산 투자 전략 개발",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술 및 IT 관련 뉴스가 많아지고 있습니다.",
-      "action": "최신 기술 및 IT 관련 콘텐츠를 제공하거나 분석할 수 있습니다.",
-      "priority": "high"
+      "insight": "정치 및 사회적 논의",
+      "action": "정치 및 사회적 논의에 대한 모니터링",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 주식 투자, 경제 및 금융, 기술 및 IT 관련 주제가 많이 논의되었습니다. 주식 투자에 대한 관심이 높아지고 있으며, 경제 및 금융 관련 뉴스가 많아지고 있습니다. 또한 최신 기술 및 IT 관련 뉴스가 많아지고 있으며, 이러한 주제에 대한 콘텐츠를 제공하거나 분석할 수 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-04T20:30:34.158Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 다양한 산업에서의 적용이 주목받고 있다. ChatGPT와 같은 AI 모델이 밤샘을 유발하는 등 일상생활에 영향을 미치고 있다. 또한, 부동산 가격 상승과 자산 증가에 대한 논의가 활발하다. 다주택자에 대한 갈구기와 자산 증가에 대한 질문이 많다. 정치 및 사회적 논의도 활발하다. 한동훈 자아비대증과 조국 공소취소에 대한 논의가 있다. 부산북구 하정우-한동훈 접전 여론조사 관련 게시물도 있다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 부동산 투자 전략을 개발하며, 정치 및 사회적 논의에 대한 모니터링을 통해 사업을 발전시킬 수 있다.",
+  "analyzed_at": "2026-05-04T22:00:34.357Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
