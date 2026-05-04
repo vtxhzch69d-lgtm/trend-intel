@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "호르무즈 해협 한국 선박 피격",
-      "summary": "호르무즈 해협에서 한국 선박이 피격된 것으로 확인되고 있으며, 인명피해는 없는 것으로 보고됨.",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식 투자",
-      "summary": "주식 투자에 대한 관심이 높아지고 있으며, 상급지 가는 것이 답인 것으로 보임.",
-      "post_count": 2,
+      "topic": "경제 및 금융",
+      "summary": "주식투자, 자산증가, 부동산 가격 상승 등 경제 및 금융 관련 주제가 인기 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "자동차 보험료 인상",
-      "summary": "자동차 보험료가 인상된 것으로 보고되며, 이는 많은 사용자들에게 영향을 미칠 것으로 예상됨.",
-      "post_count": 1,
+      "topic": "기술 및 과학",
+      "summary": "AI, 스팀 머신, 프로젝터, 모바일 신분증 등 기술 및 과학 관련 주제가 인기 있습니다.",
+      "post_count": 20,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "박상용 징계, 서울고검TF, 호르무즈 해협 등 사회 및 정치 관련 주제가 인기 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "호르무즈 해협",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "한국 선박 피격"
-    },
-    {
-      "keyword": "주식 투자",
-      "count": 2,
+      "keyword": "주식",
+      "count": 5,
       "sentiment": "positive",
-      "context": "상급지 가는 것이 답"
+      "context": "주식투자 열심히 해서 상급지 가는게 답인 것 같습니다."
     },
     {
-      "keyword": "자동차 보험료",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "보험료 인상"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "AI가 쇼핑해주는 시대…금결원장 'AI 결제플랫폼 연내 기술검증'"
+    },
+    {
+      "keyword": "부동산",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "15억원 이하 부동산 가격 상승, 시장이 걱정할 부분은 아니다"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정의 비중이 높음"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "호르무즈 해협에서 한국 선박이 피격된 사건은 국제 관계에 영향을 미칠 수 있음",
-      "action": "국제 관계 동향을 주시함",
+      "insight": "경제 및 금융 관련 주제가 인기 있습니다.",
+      "action": "경제 및 금융 관련 콘텐츠를 생성하세요.",
       "priority": "high"
     },
     {
-      "insight": "주식 투자에 대한 관심이 높아지고 있으므로, 투자 관련 서비스를 제공하는 기업은 기회를 찾을 수 있음",
-      "action": "투자 관련 서비스를 제공함",
+      "insight": "기술 및 과학 관련 주제가 인기 있습니다.",
+      "action": "기술 및 과학 관련 콘텐츠를 생성하세요.",
       "priority": "medium"
     },
     {
-      "insight": "자동차 보험료 인상은 많은 사용자들에게 영향을 미칠 수 있으므로, 보험료 인상에 대한 대책을 마련해야 함",
-      "action": "보험료 인상에 대한 대책을 마련함",
-      "priority": "medium"
+      "insight": "사회 및 정치 관련 주제가 인기 있습니다.",
+      "action": "사회 및 정치 관련 콘텐츠를 생성하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 호르무즈 해협에서 한국 선박이 피격된 사건이 큰 관심을 끌고 있으며, 주식 투자에 대한 관심도 높아지고 있음. 또한, 자동차 보험료 인상에 대한 우려도 존재함. 이러한 트렌드는 국제 관계, 투자, 보험 등 다양한 분야에 영향을 미칠 수 있으므로, 각 분야의 기업과 기관은 이러한 트렌드에 주시하여 대응해야 함. 또한, 부정적인 감정의 비중이 높아지고 있으므로, 기업과 기관은 사용자들의 우려와 불만을 해결하기 위한 노력을 해야 함.",
-  "analyzed_at": "2026-05-04T14:30:34.405Z",
+  "narrative": "最近의 트렌드 분석 결과, 경제 및 금융, 기술 및 과학, 사회 및 정치 관련 주제가 인기 있습니다. 주식투자, 자산증가, 부동산 가격 상승 등 경제 및 금융 관련 주제는 긍정적인 반응을 보이고 있습니다. 기술 및 과학 관련 주제는 중립적인 반응을 보이고 있습니다. 사회 및 정치 관련 주제는 부정적인 반응을 보이고 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 생성하면 효과적인 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-04T16:00:34.089Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
