@@ -1,78 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피와 코스닥의 상승세가 지속되고 있으며, 외국인의 매수세가 강하다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "금리 인상",
+      "summary": "금리 인상으로 인한 부동산 시장의 변동과 경제적 영향",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용 분야가 다양해지고 있으며, 관련 뉴스와 기사가 많다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "부동산",
+      "summary": "부동산 시장의 현황과 미래 전망",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많으며, 특히 조국 대표와 한동훈에 대한 논의가 활발하다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "summary": "정치 관련 뉴스와 의견",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "주식 시장의 상승세"
+      "keyword": "금리",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "금리 인상으로 인한 부동산 시장의 변동"
     },
     {
-      "keyword": "AI",
+      "keyword": "부동산",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "기술 발전과 응용 분야"
+      "sentiment": "mixed",
+      "context": "부동산 시장의 현황과 미래 전망"
     },
     {
-      "keyword": "조국",
-      "count": 3,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "negative",
-      "context": "정치 관련 논의"
-    },
-    {
-      "keyword": "한동훈",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "정치 관련 논의"
+      "context": "정치 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
+    "positive": 10,
+    "negative": 30,
     "neutral": 20,
-    "overall_mood": "중립적인 분위기이지만, 주식 시장과 관련된 긍정적인 기사와 의견이 많다."
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승세를 이용하여 투자할 기회를 찾는 것이 좋다.",
-      "action": "주식 투자",
+      "insight": "금리 인상으로 인한 부동산 시장의 변동",
+      "action": "부동산 투자에 대한 재고 필요",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전을 이용하여 새로운 비즈니스 모델을 개발할 수 있다.",
-      "action": "AI 기술 연구",
+      "insight": "정치 관련 뉴스의 증가",
+      "action": "정치 관련 뉴스 모니터링 필요",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 뉴스와 의견을 분석하여 정치적 위험을 관리할 수 있다.",
-      "action": "정치 뉴스 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 주식 시장과 AI 기술이 주를 이루고 있으며, 정치 관련 뉴스와 의견도 많다. 주식 시장의 상승세를 이용하여 투자할 기회를 찾는 것이 좋으며, AI 기술의 발전을 이용하여 새로운 비즈니스 모델을 개발할 수 있다. 또한, 정치 관련 뉴스와 의견을 분석하여 정치적 위험을 관리할 수 있다. 중립적인 분위기이지만, 주식 시장과 관련된 긍정적인 기사와 의견이 많다.",
-  "analyzed_at": "2026-05-04T08:00:34.014Z",
+  "narrative": "最近의 트렌드 분석 결과, 금리 인상과 부동산 시장의 변동, 정치 관련 뉴스가 주목을 끌고 있습니다. 금리 인상으로 인한 부동산 시장의 변동은 부정적인 감정을 불러일으키고 있으며, 정치 관련 뉴스는 계속해서 증가하고 있습니다. 이러한 트렌드에 대한 모니터링과 분석이 필요합니다. 또한, 부동산 투자에 대한 재고와 정치 관련 뉴스 모니터링이 필요합니다.",
+  "analyzed_at": "2026-05-04T09:30:33.459Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
