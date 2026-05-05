@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "장동혁, 한동훈과 단일화 재차 일축",
+      "summary": "정치 관련된 다양한 주제가 논의되고 있다. 조국 후보와 김재연의 사과, 김민석의 계엄 해제 당시 행동 등이 논의되고 있다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "LG, OLED W6 TV '베스트 오브 더 베스트' 포함 2026 레드닷 디자인 어워드 27개 수상",
-      "post_count": 5,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "정부의 부동산 정책 시그널은 명확합니다",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "최신 기술 관련된 주제가 논의되고 있다. AI, OLED, 5G 등이 논의되고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "사회",
+      "summary": "사회 관련된 다양한 주제가 논의되고 있다. 어린이날, 북한, 검술 등이 논의되고 있다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "장동혁",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "정치"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술 관련된 주제"
     },
     {
-      "keyword": "LG",
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 관련된 다양한 주제"
+    },
+    {
+      "keyword": "OLED",
       "count": 5,
       "sentiment": "positive",
-      "context": "기술"
-    },
-    {
-      "keyword": "부동산",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "경제"
+      "context": "최신 기술 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 불안정성이 경제에 미치는 영향",
-      "action": "정책 분석",
+      "insight": "최신 기술 관련된 주제가 많은 관심을 받고 있다.",
+      "action": "최신 기술 관련된 제품이나 서비스를 개발하고 마케팅해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "기술 발전이 산업에 미치는 영향",
-      "action": "기술 연구",
+      "insight": "정치 관련된 주제가 많은 논의를 불러일으키고 있다.",
+      "action": "정치 관련된 주제에 대한 마케팅을 주의해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "부동산 정책이 소비자에 미치는 영향",
-      "action": "시장 분석",
-      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 정치, 기술, 경제 등 다양한 주제가 논의되고 있습니다. 정치적으로는 장동혁과 한동훈의 단일화 문제가 논의되고 있으며, 기술적으로는 LG의 OLED TV가 수상했습니다. 경제적으로는 정부의 부동산 정책이 시그널을 보내고 있습니다. 이러한 주제들은 소비자와 산업에 미치는 영향을 분석하여 사업 전략을 수립하는 데 도움이 될 수 있습니다.",
-  "analyzed_at": "2026-05-05T04:00:33.690Z",
+  "narrative": "최신 기술 관련된 주제가 많은 관심을 받고 있다. AI, OLED, 5G 등이 논의되고 있다. 정치 관련된 주제도 많은 논의를 불러일으키고 있다. 조국 후보와 김재연의 사과, 김민석의 계엄 해제 당시 행동 등이 논의되고 있다. 사회 관련된 다양한 주제도 논의되고 있다. 어린이날, 북한, 검술 등이 논의되고 있다. 최신 기술 관련된 제품이나 서비스를 개발하고 마케팅해야 한다. 정치 관련된 주제에 대한 마케팅을 주의해야 한다.",
+  "analyzed_at": "2026-05-05T05:30:33.811Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
