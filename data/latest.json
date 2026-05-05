@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 논평",
-      "post_count": 10,
+      "topic": "검찰개혁",
+      "summary": "검찰개혁에 대한 논의와 이를 둘러싼 정치적 상황",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크 및 가전",
-      "summary": "최신 테크 및 가전 제품 뉴스와 리뷰",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업의 동향과 이를 둘러싼 다양한 요인",
+      "post_count": 12,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전과 이를 활용한 산업의 성장"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 관련 논평과 뉴스"
-    },
-    {
-      "keyword": "테크",
+      "keyword": "검찰개혁",
       "count": 8,
-      "sentiment": "positive",
-      "context": "최신 테크 제품 뉴스와 리뷰"
+      "sentiment": "mixed",
+      "context": "검찰개혁에 대한 논의와 이를 둘러싼 정치적 상황"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 및 산업의 동향과 이를 둘러싼 다양한 요인"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "대체적으로 긍정적인 분위기"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 제품 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "action": "AI 기술을 활용한 산업의 성장을 위한 투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "테크 및 가전 제품의 인기",
-      "action": "최신 테크 및 가전 제품을 판매하고 홍보",
+      "insight": "검찰개혁은 정치적 상황에 따라 영향을 받을 수 있다",
+      "action": "검찰개혁에 대한 논의와 이를 둘러싼 정치적 상황을 주시",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 관련 논평의 중요성",
-      "action": "정치 및 사회 관련 논평과 뉴스를 제공",
+      "insight": "경제 및 산업의 동향은 다양한 요인에 의해 영향을 받을 수 있다",
+      "action": "경제 및 산업의 동향을 주시하고 이를 둘러싼 다양한 요인을 분석",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목을 받고 있습니다. 또한, 테크 및 가전 제품의 인기와 정치 및 사회 관련 논평의 중요성이 확인되었습니다. 이러한 트렌드를 바탕으로, 기업은 AI 기술을 활용한 새로운 제품 개발과 최신 테크 및 가전 제품의 판매와 홍보를 통해 경쟁력을 높일 수 있을 것입니다. 또한, 정치 및 사회 관련 논평과 뉴스를 제공함으로써 고객과의 소통과 신뢰를 구축할 수 있을 것입니다.",
-  "analyzed_at": "2026-05-04T23:30:33.733Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 산업의 성장이 주목을 받고 있다. 또한, 검찰개혁에 대한 논의와 이를 둘러싼 정치적 상황이 관심을 끌고 있다. 경제 및 산업의 동향도 다양한 요인에 의해 영향을 받을 수 있다. 이러한 트렌드와 키워드를 분석하여, 사업적 인사이트를 얻고 이를 활용한 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-05-05T01:00:33.891Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
