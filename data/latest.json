@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 상승과 하락에 대한 관심이 집중되고 있습니다. 특히, 코스피 예상과 쿠팡Inc의 영업손실에 대한 논의가 활발합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "쿠팡의 영업손실 확대",
+      "summary": "쿠팡의 영업손실이 4년 3개월 만에 최대치로 확대되었다. 이는 매출 증가에도 불구하고 영업손실이 커졌다는 것을 의미한다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 ứng용에 대한 관심이 증가하고 있습니다. 특히, AI 스마트폰과 AI 탑재된 제품에 대한 논의가 활발합니다.",
-      "post_count": 8,
+      "topic": "AI 기술의 발전",
+      "summary": "AI 기술이 빠르게 발전하고 있으며, 다양한 분야에서 적용되고 있다. 이는 새로운 기회와 도전을 가져올 수 있다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스에 대한 관심이 집중되고 있습니다. 특히, 환율 변화와 통일부의 활동에 대한 논의가 활발합니다.",
-      "post_count": 6,
-      "sentiment": "neutral",
+      "topic": "주식 시장의 변동",
+      "summary": "주식 시장에서 다양한 변동이 발생하고 있으며, 일부 주가는 급등하고 있다. 이는 투자자들에게 관심을 끌고 있다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "주식 시장의 상승과 하락에 대한 관심"
+      "keyword": "쿠팡",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "영업손실 확대"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 다양한 ứng용"
+      "context": "기술 발전"
     },
     {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스"
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "시장 변동"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승과 하락에 대한 관심이 집중되고 있습니다.",
-      "action": "주식 시장의 동향을 주시하고, 투자 전략을 조정해야 합니다.",
+      "insight": "쿠팡의 영업손실 확대는 경쟁사에게 기회를 제공할 수 있다.",
+      "action": "쿠팡의 경쟁사 분석",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 그에 따른 다양한 ứng용에 대한 관심이 증가하고 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 그에 따른 기회를 발굴해야 합니다.",
+      "insight": "AI 기술의 발전은 새로운 비즈니스 기회를 창출할 수 있다.",
+      "action": "AI 기술 적용 가능성 연구",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스에 대한 관심이 집중되고 있습니다.",
-      "action": "경제 및 금융 관련 뉴스를 주시하고, 그에 따른 영향을 분석해야 합니다.",
+      "insight": "주식 시장의 변동은 투자자들에게 관심을 끌고 있다.",
+      "action": "주식 시장 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 주식 시장, AI 기술, 경제 및 금융 관련 뉴스에 대한 관심이 집중되고 있습니다. 주식 시장의 상승과 하락에 대한 관심은 투자 전략을 조정해야 하는 필요성을 제기하고, AI 기술의 발전과 그에 따른 다양한 ứng용은 새로운 기회를 발굴해야 합니다. 또한, 경제 및 금융 관련 뉴스는 그에 따른 영향을 분석해야 합니다. 이러한 트렌드를 주시하고, 그에 따른 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-05-05T21:00:34.578Z",
+  "narrative": "현재의 트렌드는 쿠팡의 영업손실 확대, AI 기술의 발전, 주식 시장의 변동 등이다. 이러한 트렌드는 비즈니스에게 새로운 기회와 도전을 가져올 수 있다. 특히, 쿠팡의 영업손실 확대는 경쟁사에게 기회를 제공할 수 있으며, AI 기술의 발전은 새로운 비즈니스 기회를 창출할 수 있다. 또한, 주식 시장의 변동은 투자자들에게 관심을 끌고 있다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하는 것이 중요하다. 또한, 이러한 트렌드가 미래에 어떻게 발전할지 예측하여 비즈니스에게 앞서가는 기회를 제공할 수 있다.",
+  "analyzed_at": "2026-05-05T22:30:34.275Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
