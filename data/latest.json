@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "주식 시장의 급등과 투자에 대한 관심이 증가하고 있습니다. 투자자들은 주식 시장의 변동성에 대해 논의하고 있습니다.",
+      "summary": "주식 시장의 급등과 하락에 대한 논의가 활발합니다. 투자자들은 주식 시장의 변동에 대해 관심을 가지고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 증가하고 있습니다. 사용자들은 AI 기술의 잠재적 활용과 제한에 대해 논의하고 있습니다.",
+      "summary": "AI 기술의 발전과 ứng dụng에 대한 논의가 활발합니다. 사용자들은 AI 기술의 잠재적 활용에 대해 관심을 가지고 있습니다.",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제와 정치에 대한 관심이 증가하고 있습니다. 사용자들은 경제와 정치의 최근 동향과 그 영향에 대해 논의하고 있습니다.",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 논의가 활발합니다. 사용자들은 경제 및 금융 관련 정보에 대해 관심을 가지고 있습니다.",
       "post_count": 12,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,41 +27,46 @@
       "keyword": "주식",
       "count": 15,
       "sentiment": "mixed",
-      "context": "주식 시장의 변동성에 대한 관심"
+      "context": "주식 시장의 변동에 대한 논의"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용"
+      "context": "AI 기술의 발전과 ứng용"
     },
     {
       "keyword": "경제",
       "count": 8,
-      "sentiment": "negative",
-      "context": "경제의 최근 동향과 그 영향"
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 뉴스와 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "부정적인 감정이 강하지만 중립적인 의견도 많음"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 변동성에 대한 관심이 증가하고 있습니다.",
-      "action": "주식 시장의 동향을 주시하고 투자 전략을 조정해야 합니다.",
+      "insight": "주식 시장의 변동에 대한 투자자들의 관심이 높아지고 있습니다.",
+      "action": "주식 시장 관련 정보와 분석을 제공합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 응용에 대한 관심이 증가하고 있습니다.",
-      "action": "AI 기술의 잠재적 활용과 제한을 연구하고 이를 사업에 적용해야 합니다.",
+      "insight": "AI 기술의 발전과 ứng용에 대한 사용자들의 관심이 높아지고 있습니다.",
+      "action": "AI 기술 관련 정보와 교육을 제공합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 및 금융 관련 정보에 대한 사용자들의 관심이 높아지고 있습니다.",
+      "action": "경제 및 금융 관련 뉴스와 정보를 제공합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식 시장과 AI 기술에 대한 관심이 증가하고 있습니다. 주식 시장의 변동성에 대한 관심은 투자자들에게 중요하며, AI 기술의 발전과 응용은 다양한 산업에서 활용될 수 있습니다. 또한, 경제와 정치에 대한 관심도 증가하고 있습니다. 이러한 트렌드를 고려하여 사업 전략을 조정하고 새로운 기회를 발굴해야 합니다.",
-  "analyzed_at": "2026-05-05T18:00:33.969Z",
+  "narrative": "현재 주식 시장의 변동과 AI 기술의 발전이 사용자들의 관심을 끌고 있습니다. 또한, 경제 및 금융 관련 정보에 대한 관심도 높아지고 있습니다. 이러한 트렌드에 따라, 주식 시장 관련 정보와 분석, AI 기술 관련 정보와 교육, 경제 및 금융 관련 뉴스와 정보를 제공하여 사용자들의需求을 충족시킬 수 있습니다. 또한, 이러한 트렌드에 대한 깊은 분석과洞察을 제공하여 사용자들이 정보에 기반한 의사결정을 할 수 있도록 도와줄 수 있습니다.",
+  "analyzed_at": "2026-05-05T19:30:34.171Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
