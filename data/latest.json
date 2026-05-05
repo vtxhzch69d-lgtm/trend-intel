@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 가전",
-      "summary": "최신 기술 및 가전 제품에 대한 관심이 높다. LG, 삼성전자 등이 새로운 제품을 출시하며 시장 경쟁이 치열하다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스에 대한 관심이 높다. 한동훈, 조국혁신당 등이 언급된다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "이란 한국 선박 공격",
+      "summary": "이란의 한국 선박 공격과 미국의 반응에 대한 논의",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 관련 뉴스에 대한 관심이 높다. BTS, 유튜브 등이 언급된다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "교사 갑질, 학부모 민원",
+      "summary": "교사 갑질과 학부모 민원 문제에 대한 우려",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부산 북갑 여론조사",
+      "summary": "부산 북갑 지역의 여론조사 결과에 대한 논의",
+      "post_count": 2,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "LG",
+      "keyword": "이란",
       "count": 5,
-      "sentiment": "positive",
-      "context": "LG의 새로운 제품 출시"
-    },
-    {
-      "keyword": "한동훈",
-      "count": 3,
       "sentiment": "negative",
-      "context": "한동훈의 출금 뉴스"
+      "context": "한국 선박 공격"
     },
     {
-      "keyword": "BTS",
+      "keyword": "부산",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "북갑 지역"
+    },
+    {
+      "keyword": "교사",
       "count": 2,
-      "sentiment": "positive",
-      "context": "BTS의 영향력"
+      "sentiment": "negative",
+      "context": "갑질 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "positive": 5,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 가전 제품에 대한 관심이 높다.",
-      "action": "새로운 제품 출시 및 마케팅 캠페인",
+      "insight": "국제 관계에 대한 우려가 높아지고 있다",
+      "action": "국제 관계에 대한 정보를 제공하고 대비책을 마련한다",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스에 대한 관심이 높다.",
-      "action": "관련 뉴스 및 분석 제공",
+      "insight": "교육 문제에 대한 관심이 높아지고 있다",
+      "action": "교육 문제에 대한 정보를 제공하고 해결책을 마련한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 기술 및 가전 제품에 대한 관심이 높아지고 있다. LG, 삼성전자 등이 새로운 제품을 출시하며 시장 경쟁이 치열하다. 또한, 경제 및 정치 관련 뉴스에 대한 관심이 높아지고 있다. 한동훈, 조국혁신당 등이 언급되며 관련 뉴스 및 분석 제공이 필요하다. 이러한 트렌드에 따라 마케팅 캠페인 및 제품 출시 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-05-05T12:00:34.277Z",
+  "narrative": "최근의 트렌드에 따르면, 이란의 한국 선박 공격과 미국의 반응에 대한 논의가 활발하게 진행되고 있다. 또한, 교사 갑질과 학부모 민원 문제에 대한 우려가 높아지고 있다. 이러한 문제에 대한 정보를 제공하고 대비책을 마련하는 것이 중요하다. 또한, 부산 북갑 지역의 여론조사 결과에 대한 논의도 진행되고 있다. 이러한 트렌드에 대한 분석을 통해, 국제 관계와 교육 문제에 대한 정보를 제공하고 해결책을 마련하는 것이 필요하다.",
+  "analyzed_at": "2026-05-05T13:30:34.436Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
