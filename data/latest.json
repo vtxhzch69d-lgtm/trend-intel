@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련된 다양한 주제가 논의되고 있다. 조국 후보와 김재연의 사과, 김민석의 계엄 해제 당시 행동 등이 논의되고 있다.",
+      "summary": "정치 관련된 게시글이 많이 올라왔습니다. 특히 조국과 김용남 관련된 게시글이 많았습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련된 주제가 논의되고 있다. AI, OLED, 5G 등이 논의되고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "사회",
-      "summary": "사회 관련된 다양한 주제가 논의되고 있다. 어린이날, 북한, 검술 등이 논의되고 있다.",
+      "topic": "기술",
+      "summary": "새로운 기술 관련된 게시글이 많이 올라왔습니다. 특히 AI와 관련된 게시글이 많았습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "생활",
+      "summary": "생활 관련된 게시글이 많이 올라왔습니다. 특히 음식과 관련된 게시글이 많았습니다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
@@ -27,41 +27,46 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 관련된 주제"
+      "context": "새로운 기술 관련된 게시글에서 많이 언급되었습니다."
     },
     {
       "keyword": "정치",
       "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 관련된 다양한 주제"
+      "sentiment": "negative",
+      "context": "정치 관련된 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "OLED",
+      "keyword": "음식",
       "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 관련된 주제"
+      "sentiment": "neutral",
+      "context": "생활 관련된 게시글에서 많이 언급되었습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 관련된 주제가 많은 관심을 받고 있다.",
-      "action": "최신 기술 관련된 제품이나 서비스를 개발하고 마케팅해야 한다.",
+      "insight": "새로운 기술 관련된 게시글이 많이 올라왔습니다.",
+      "action": "새로운 기술 관련된 제품이나 서비스를 개발하여 출시하는 것을 고려해 볼 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 주제가 많은 논의를 불러일으키고 있다.",
-      "action": "정치 관련된 주제에 대한 마케팅을 주의해야 한다.",
+      "insight": "정치 관련된 게시글이 많이 올라왔습니다.",
+      "action": "정치 관련된 이슈에 대한 대응책을 마련하여 고객의 신뢰를 얻는 것을 고려해 볼 수 있습니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "생활 관련된 게시글이 많이 올라왔습니다.",
+      "action": "생활 관련된 제품이나 서비스를 개발하여 출시하는 것을 고려해 볼 수 있습니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최신 기술 관련된 주제가 많은 관심을 받고 있다. AI, OLED, 5G 등이 논의되고 있다. 정치 관련된 주제도 많은 논의를 불러일으키고 있다. 조국 후보와 김재연의 사과, 김민석의 계엄 해제 당시 행동 등이 논의되고 있다. 사회 관련된 다양한 주제도 논의되고 있다. 어린이날, 북한, 검술 등이 논의되고 있다. 최신 기술 관련된 제품이나 서비스를 개발하고 마케팅해야 한다. 정치 관련된 주제에 대한 마케팅을 주의해야 한다.",
-  "analyzed_at": "2026-05-05T05:30:33.811Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 생활 관련된 게시글이 많이 올라왔습니다. 특히 새로운 기술 관련된 게시글이 많이 올라왔으며, AI와 관련된 게시글이 많았습니다. 정치 관련된 게시글도 많이 올라왔으며, 조국과 김용남 관련된 게시글이 많았습니다. 생활 관련된 게시글도 많이 올라왔으며, 음식과 관련된 게시글이 많았습니다. 이러한 트렌드를 고려하여 새로운 기술 관련된 제품이나 서비스를 개발하여 출시하는 것을 고려해 볼 수 있습니다. 또한, 정치 관련된 이슈에 대한 대응책을 마련하여 고객의 신뢰를 얻는 것을 고려해 볼 수 있습니다.",
+  "analyzed_at": "2026-05-05T07:00:33.935Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
