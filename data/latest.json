@@ -1,62 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나눔, 할인 정보 등이 포함되어 있습니다.",
-      "post_count": 100,
+      "topic": "기술 및 가전",
+      "summary": "최신 기술 및 가전 제품에 대한 관심이 높다. LG, 삼성전자 등이 새로운 제품을 출시하며 시장 경쟁이 치열하다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 정치, 사회 문제 등이 포함되어 있습니다.",
-      "post_count": 50,
-      "sentiment": "negative",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스에 대한 관심이 높다. 한동훈, 조국혁신당 등이 언급된다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
+    },
+    {
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화 관련 뉴스에 대한 관심이 높다. BTS, 유튜브 등이 언급된다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "무료나눔",
-      "count": 50,
+      "keyword": "LG",
+      "count": 5,
       "sentiment": "positive",
-      "context": "뽐뿌 커뮤니티에서 인기 있는 키워드"
+      "context": "LG의 새로운 제품 출시"
     },
     {
-      "keyword": "할인 정보",
-      "count": 30,
-      "sentiment": "positive",
-      "context": "뽐뿌 커뮤니티에서 인기 있는 키워드"
-    },
-    {
-      "keyword": "정치",
-      "count": 20,
+      "keyword": "한동훈",
+      "count": 3,
       "sentiment": "negative",
-      "context": "클리앙 커뮤니티에서 인기 있는 키워드"
+      "context": "한동훈의 출금 뉴스"
+    },
+    {
+      "keyword": "BTS",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "BTS의 영향력"
     }
   ],
   "sentiment_overview": {
-    "positive": 60,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "대체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재합니다."
+    "positive": 20,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "뽐뿌 커뮤니티에서 무료나눔, 할인 정보 등이 인기 있는 키워드입니다.",
-      "action": "마케팅 캠페인을 통해 무료나눔, 할인 정보 등을 제공하여 고객의 관심을 끌 수 있습니다.",
+      "insight": "최신 기술 및 가전 제품에 대한 관심이 높다.",
+      "action": "새로운 제품 출시 및 마케팅 캠페인",
       "priority": "high"
     },
     {
-      "insight": "클리앙 커뮤니티에서 정치, 사회 문제 등이 인기 있는 키워드입니다.",
-      "action": "마케팅 캠페인을 통해 정치, 사회 문제 등에 대한 의견을 수렴하여 고객의 관심을 끌 수 있습니다.",
+      "insight": "경제 및 정치 관련 뉴스에 대한 관심이 높다.",
+      "action": "관련 뉴스 및 분석 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글과 키워드를 분석한 결과, 뽐뿌에서는 무료나눔, 할인 정보 등이 인기 있는 키워드인 반면, 클리앙에서는 정치, 사회 문제 등이 인기 있는 키워드임을 알 수 있습니다. 이러한 결과를 바탕으로 마케팅 캠페인을 진행하여 고객의 관심을 끌 수 있습니다. 또한, 고객의 의견을 수렴하여 마케팅 캠페인을 개선할 수 있습니다. 따라서, 마케팅 캠페인을 통해 고객의 관심을 끌고, 고객의 의견을 수렴하여 마케팅 캠페인을 개선하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-05T10:30:33.935Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드 분석 결과, 기술 및 가전 제품에 대한 관심이 높아지고 있다. LG, 삼성전자 등이 새로운 제품을 출시하며 시장 경쟁이 치열하다. 또한, 경제 및 정치 관련 뉴스에 대한 관심이 높아지고 있다. 한동훈, 조국혁신당 등이 언급되며 관련 뉴스 및 분석 제공이 필요하다. 이러한 트렌드에 따라 마케팅 캠페인 및 제품 출시 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-05-05T12:00:34.277Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
