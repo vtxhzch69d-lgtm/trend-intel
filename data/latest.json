@@ -1,75 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많이 올라왔습니다. 특히 조국과 김용남 관련된 게시글이 많았습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "새로운 기술 관련된 게시글이 많이 올라왔습니다. 특히 AI와 관련된 게시글이 많았습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 게시물이 많은 관심을 받고 있습니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "생활",
-      "summary": "생활 관련된 게시글이 많이 올라왔습니다. 특히 음식과 관련된 게시글이 많았습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 게시물이 많은 논쟁을 일으키고 있습니다.",
+      "post_count": 50,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "새로운 기술 관련된 게시글에서 많이 언급되었습니다."
+      "keyword": "경제",
+      "count": 50,
+      "sentiment": "negative",
+      "context": "경제 상황에 대한 우려"
     },
     {
       "keyword": "정치",
-      "count": 8,
+      "count": 30,
       "sentiment": "negative",
-      "context": "정치 관련된 게시글에서 많이 언급되었습니다."
-    },
-    {
-      "keyword": "음식",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "생활 관련된 게시글에서 많이 언급되었습니다."
+      "context": "정치 상황에 대한 비판"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "negative": 60,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "새로운 기술 관련된 게시글이 많이 올라왔습니다.",
-      "action": "새로운 기술 관련된 제품이나 서비스를 개발하여 출시하는 것을 고려해 볼 수 있습니다.",
+      "insight": "경제 및 금융 관련 게시물에 대한 관심이 높아지고 있습니다.",
+      "action": "경제 및 금융 관련 콘텐츠를 제공하여 고객의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 게시글이 많이 올라왔습니다.",
-      "action": "정치 관련된 이슈에 대한 대응책을 마련하여 고객의 신뢰를 얻는 것을 고려해 볼 수 있습니다.",
+      "insight": "사회 및 정치 관련 게시물에 대한 논쟁이 많아지고 있습니다.",
+      "action": "사회 및 정치 관련 콘텐츠를 제공하여 고객의 관심을 끌어야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "생활 관련된 게시글이 많이 올라왔습니다.",
-      "action": "생활 관련된 제품이나 서비스를 개발하여 출시하는 것을 고려해 볼 수 있습니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 생활 관련된 게시글이 많이 올라왔습니다. 특히 새로운 기술 관련된 게시글이 많이 올라왔으며, AI와 관련된 게시글이 많았습니다. 정치 관련된 게시글도 많이 올라왔으며, 조국과 김용남 관련된 게시글이 많았습니다. 생활 관련된 게시글도 많이 올라왔으며, 음식과 관련된 게시글이 많았습니다. 이러한 트렌드를 고려하여 새로운 기술 관련된 제품이나 서비스를 개발하여 출시하는 것을 고려해 볼 수 있습니다. 또한, 정치 관련된 이슈에 대한 대응책을 마련하여 고객의 신뢰를 얻는 것을 고려해 볼 수 있습니다.",
-  "analyzed_at": "2026-05-05T07:00:33.935Z",
-  "post_count": 62,
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 경제 및 금융 관련 게시물이 많은 관심을 받고 있습니다. 이러한 게시물은 주로 경제 상황에 대한 우려와 정치 상황에 대한 비판을 포함하고 있습니다. 이러한 트렌드에 따라 경제 및 금융 관련 콘텐츠를 제공하여 고객의 관심을 끌어야 합니다. 또한, 사회 및 정치 관련 게시물에 대한 논쟁이 많아지고 있으므로 이러한 콘텐츠를 제공하여 고객의 관심을 끌어야 합니다. 이러한 분석 결과를 바탕으로 마케팅 전략을 수립하여 고객의 관심을 끌고 브랜드 이미지를 향상시킬 수 있습니다.",
+  "analyzed_at": "2026-05-05T09:00:34.343Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
