@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피가 상승하고 있으며, 일부 주식은 저렴한 가격에 거래되고 있습니다. 그러나 일부 투자자는 주식 시장의 불안정성에 대한 우려를 나타내고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "테드 터너 사망",
+      "summary": "테드 터너 CNN 창립자 사망. 향년 87세. 그의 사망 소식은 클리앙 커뮤니티에서 큰 관심을 받고 있다.",
+      "post_count": 1,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "삼성 기술 홀랑 넘겼는데 '징역 6년'",
+      "summary": "삼성 기술 홀랑 넘긴 사람에게 징역 6년이 선고되었다. 이 사건은 클리앙 커뮤니티에서 많은 논란을 일으키고 있다.",
+      "post_count": 1,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많으며, 일부 정치인에 대한 비판이나 지지가 나타나고 있습니다.",
-      "post_count": 8,
+      "topic": "코스피 7천피 평가 절하하는 국힘",
+      "summary": "코스피 7천피 평가 절하하는 국힘의 발언이 클리앙 커뮤니티에서 논란을 일으키고 있다.",
+      "post_count": 1,
       "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련된 게시글이 많으며, AI, 로봇, 자율주행 등에 대한 관심이 나타나고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
+      "keyword": "테드 터너",
+      "count": 1,
       "sentiment": "neutral",
-      "context": "주식 시장에 대한 관심"
+      "context": "CNN 창립자 사망"
     },
     {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "삼성",
+      "count": 2,
       "sentiment": "negative",
-      "context": "정치인에 대한 비판"
+      "context": "기술 홀랑 넘긴 사람에게 징역 6년"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 기술에 대한 관심"
+      "keyword": "코스피",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "7천피 평가 절하하는 국힘"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 0,
+    "negative": 3,
+    "neutral": 2,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "주식 투자에 대한 재고 필요",
-      "priority": "high"
+      "insight": "클리앙 커뮤니티에서 테드 터너의 사망 소식이 큰 관심을 받고 있다.",
+      "action": "테드 터너의 사망 소식에 대한 대응 전략 수립",
+      "priority": "low"
     },
     {
-      "insight": "최신 기술에 대한 관심",
-      "action": "최신 기술에 대한 투자 고려",
+      "insight": "삼성 기술 홀랑 넘긴 사람에게 징역 6년이 선고되었다.",
+      "action": "삼성 기술 홀랑 넘긴 사람에게 징역 6년에 대한 대응 전략 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 주식 시장과 정치에 대한 관심이 높아지고 있습니다. 또한, 최신 기술에 대한 관심도 높아지고 있으며, AI와 로봇 등에 대한 투자 고려가 필요합니다. 그러나 주식 시장의 불안정성에 대한 우려도 나타나고 있으므로, 주식 투자에 대한 재고가 필요합니다. 전체적으로 중립적인 분위기이지만, 일부 정치인에 대한 비판이나 지지가 나타나고 있습니다.",
-  "analyzed_at": "2026-05-06T14:30:34.042Z",
-  "post_count": 61,
+  "narrative": "클리앙 커뮤니티에서 테드 터너의 사망 소식이 큰 관심을 받고 있다. 또한, 삼성 기술 홀랑 넘긴 사람에게 징역 6년이 선고되어 많은 논란을 일으키고 있다. 이러한 상황에서 기업은 테드 터너의 사망 소식과 삼성 기술 홀랑 넘긴 사람에게 징역 6년에 대한 대응 전략을 수립해야 한다. 또한, 코스피 7천피 평가 절하하는 국힘의 발언이 논란을 일으키고 있으므로, 기업은 이러한 상황에 대한 대응 전략을 수립해야 한다.",
+  "analyzed_at": "2026-05-06T16:00:34.360Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
