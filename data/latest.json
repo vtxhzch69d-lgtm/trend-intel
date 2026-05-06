@@ -1,67 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 주식",
-      "summary": "하이닉스, 삼성전자 등 주식 관련 뉴스와 분석이热한 관심을 받고 있습니다.",
+      "topic": "주식 및 경제",
+      "summary": "코스피 7000돌파와 주식 시장의 상황에 대한 관심이 많다. 또한, 하이닉스와 삼전의 주가에 대한 분석과 전망이 활발하다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 AI",
-      "summary": "AI 관련 뉴스와 기술 발전이 주목을 받고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "정치 및 사회",
-      "summary": "정치 관련 뉴스와 사회 문제가 논의되고 있습니다.",
-      "post_count": 8,
+      "summary": "대통령의 발언과 정치 상황에 대한 관심이 많다. 또한, 사법 개혁과 관련된 뉴스에 대한 관심이 있다.",
+      "post_count": 10,
       "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "최신 기술과 과학 뉴스에 대한 관심이 많다. 특히, AI와 관련된 뉴스에 대한 관심이 높다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "주식",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "코스피 7000돌파와 주식 시장의 상황에 대한 관심"
+    },
+    {
       "keyword": "하이닉스",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "주식 관련 뉴스"
+      "sentiment": "positive",
+      "context": "하이닉스의 주가에 대한 분석과 전망"
+    },
+    {
+      "keyword": "삼전",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼전의 주가에 대한 분석과 전망"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 8,
       "sentiment": "positive",
-      "context": "기술 발전"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "주식 관련 뉴스"
+      "context": "최신 기술과 과학 뉴스에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 발전이 경제에 미치는 영향",
-      "action": "기술 투자 증가",
+      "insight": "주식 시장의 상황에 대한 관심이 높아, 관련된 뉴스와 분석을 제공하는 것이 유용할 수 있다.",
+      "action": "관련된 뉴스와 분석을 제공",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동성",
-      "action": "투자 전략 조정",
+      "insight": "최신 기술과 과학 뉴스에 대한 관심이 높아, 관련된 뉴스와 분석을 제공하는 것이 유용할 수 있다.",
+      "action": "관련된 뉴스와 분석을 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 경제 및 주식, 기술 및 AI, 정치 및 사회 등 다양한 주제로 나뉘어 있습니다. 하이닉스, 삼성전자 등 주식 관련 뉴스와 분석이熱한 관심을 받고 있습니다. 또한, AI 관련 뉴스와 기술 발전이 주목을 받고 있습니다. 기술 발전이 경제에 미치는 영향과 주식 시장의 변동성 등이 주요한 비즈니스 인사이트입니다.",
-  "analyzed_at": "2026-05-06T00:00:33.467Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 및 경제, 정치 및 사회, 기술 및 과학에 대한 관심이 많다. 특히, 주식 시장의 상황에 대한 관심이 높아, 관련된 뉴스와 분석을 제공하는 것이 유용할 수 있다. 또한, 최신 기술과 과학 뉴스에 대한 관심이 높아, 관련된 뉴스와 분석을 제공하는 것이 유용할 수 있다. 따라서, 관련된 뉴스와 분석을 제공하여 사용자의 관심을满足하고, 사용자의 니즈를 이해하는 것이 중요하다.",
+  "analyzed_at": "2026-05-06T01:30:33.707Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
