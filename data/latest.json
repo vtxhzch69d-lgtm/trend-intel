@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "제미나이",
-      "summary": "제미나이 관련 게시글이 많아지고 있으며, 사용자들은 제미나이의 기능과 사용법에 대해 관심을 보이고 있다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "한동훈과 관련된 정치 뉴스 및 의견",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 뉴스 및 개발",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙",
-      "summary": "클리앙 사용자들은 다양한 주제에 대해 게시글을 작성하고 있으며, 정치, 경제, 기술 등 다양한 분야의 주제가 포함되어 있다.",
-      "post_count": 20,
-      "sentiment": "mixed",
-      "urgency": "low"
-    },
-    {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 뉴스와 관련된 게시글이 많아지고 있으며, 사용자들은 삼성전자의 기술과 제품에 대해 관심을 보이고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "주식 및 경제 관련 뉴스",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "제미나이",
+      "keyword": "한동훈",
       "count": 10,
-      "sentiment": "positive",
-      "context": "제미나이 관련 게시글"
+      "sentiment": "negative",
+      "context": "정치 뉴스"
     },
     {
-      "keyword": "클리앙",
-      "count": 20,
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "기술 개발"
+    },
+    {
+      "keyword": "주식",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "클리앙 사용자들의 게시글"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "삼성전자의 뉴스와 제품"
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "제미나이의 인기",
-      "action": "제미나이 관련 제품이나 서비스 개발",
+      "insight": "기술 개발이 빠르게 진행되고 있다",
+      "action": "최신 기술을 따라가기",
       "priority": "high"
     },
     {
-      "insight": "클리앙 사용자의 관심",
-      "action": "클리앙 사용자들을 대상으로한 마케팅 전략 개발",
+      "insight": "경제 상황이 안정적이다",
+      "action": "투자하기",
       "priority": "medium"
     },
     {
-      "insight": "삼성전자의 기술",
-      "action": "삼성전자와의 협력 또는 기술 도입",
-      "priority": "low"
+      "insight": "정치 상황이 불안정하다",
+      "action": "주의하기",
+      "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티의 사용자들은 다양한 주제에 대해 게시글을 작성하고 있으며, 제미나이와 삼성전자의 기술에 대해 관심을 보이고 있다. 제미나이의 인기와 클리앙 사용자의 관심은 마케팅 전략 개발에 활용될 수 있으며, 삼성전자의 기술은 협력 또는 기술 도입의 기회로 활용될 수 있다. 중립적인 분위기에서 사용자들의 관심을 끌기 위한 전략이 필요하다.",
-  "analyzed_at": "2026-05-06T17:30:34.019Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제를 중심으로 돌아가고 있습니다. 기술 개발이 빠르게 진행되고 있으며, 경제 상황은 안정적입니다. 그러나 정치 상황은 불안정하여 주의가 필요합니다. 이러한 트렌드를 따라가기 위해 최신 기술을 따라가고, 투자하기, 주의하기 등의 액션이 필요합니다.",
+  "analyzed_at": "2026-05-06T19:00:33.714Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
