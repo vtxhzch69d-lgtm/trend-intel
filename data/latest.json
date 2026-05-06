@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "쿠팡의 영업손실과 주식 시장의 상황이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "주식 시장",
+      "summary": "코스피 10000 넘을수 밖에 없다, 하닉 100배 인증은 얼마나 대단한 것인가...",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 조국 대표의 활동이 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "OpenAI, ChatGPT 기본 모델로 GPT-5.5 Instant 출시, 애플, '인텔리전스 지연'에 3670억 배상",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 로봇 기술의 발전이 논의되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "정치",
+      "summary": "장예찬 '한동훈.내 득표율 넘을지 볼테니 부디 완주를', 절윤한다면서 친윤 공천···국.힘..위기인 이유",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "쿠팡",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "영업손실과 이용자 감소"
-    },
-    {
       "keyword": "주식",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "시장 상황과 투자 전략"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "코스피 10000 넘을수 밖에 없다"
     },
     {
       "keyword": "AI",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "기술 발전과 산업 활용"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "OpenAI, ChatGPT 기본 모델로 GPT-5.5 Instant 출시"
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "장예찬 '한동훈.내 득표율 넘을지 볼테니 부디 완주를'"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
+    "negative": 25,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "쿠팡의 영업손실은 경쟁사에게 기회가 될 수 있습니다.",
-      "action": "마케팅 전략 조정",
+      "insight": "주식 시장의 상승세",
+      "action": "주식 투자",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 새로운 비즈니스 기회를 창출할 수 있습니다.",
-      "action": "기술 투자와 연구 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술 연구 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "정치적 불안정성",
+      "action": "정치적 위험 관리",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 경제와 정치가 주요 관심사로 나타났습니다. 쿠팡의 영업손실과 주식 시장의 상황이 논의되고 있으며, 이재명 대통령과 조국 대표의 활동도 주목을 받고 있습니다. 또한, AI와 로봇 기술의 발전이 논의되고 있으며, 새로운 비즈니스 기회를 창출할 수 있는 기술 투자와 연구 개발이 필요합니다. 이러한 트렌드와 인사이트를 바탕으로, 기업은 마케팅 전략을 조정하고 기술 투자를 통해 경쟁력을 강화할 수 있습니다.",
-  "analyzed_at": "2026-05-06T09:00:33.988Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 상승세와 AI 기술의 발전이 주목을 받고 있습니다. 그러나 정치적 불안정성이 높은 우려도 있습니다. 이러한 트렌드를 고려하여, 주식 투자와 AI 기술 연구 개발을 우선적으로 진행하는 것이 좋을 것입니다. 또한, 정치적 위험 관리를 통해 불안정성에 대비하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-06T10:30:33.951Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
