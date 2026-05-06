@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "테드 터너 사망",
-      "summary": "테드 터너 CNN 창립자 사망. 향년 87세. 그의 사망 소식은 클리앙 커뮤니티에서 큰 관심을 받고 있다.",
-      "post_count": 1,
-      "sentiment": "neutral",
-      "urgency": "low"
-    },
-    {
-      "topic": "삼성 기술 홀랑 넘겼는데 '징역 6년'",
-      "summary": "삼성 기술 홀랑 넘긴 사람에게 징역 6년이 선고되었다. 이 사건은 클리앙 커뮤니티에서 많은 논란을 일으키고 있다.",
-      "post_count": 1,
-      "sentiment": "negative",
+      "topic": "제미나이",
+      "summary": "제미나이 관련 게시글이 많아지고 있으며, 사용자들은 제미나이의 기능과 사용법에 대해 관심을 보이고 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "코스피 7천피 평가 절하하는 국힘",
-      "summary": "코스피 7천피 평가 절하하는 국힘의 발언이 클리앙 커뮤니티에서 논란을 일으키고 있다.",
-      "post_count": 1,
-      "sentiment": "negative",
+      "topic": "클리앙",
+      "summary": "클리앙 사용자들은 다양한 주제에 대해 게시글을 작성하고 있으며, 정치, 경제, 기술 등 다양한 분야의 주제가 포함되어 있다.",
+      "post_count": 20,
+      "sentiment": "mixed",
+      "urgency": "low"
+    },
+    {
+      "topic": "삼성전자",
+      "summary": "삼성전자의 뉴스와 관련된 게시글이 많아지고 있으며, 사용자들은 삼성전자의 기술과 제품에 대해 관심을 보이고 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "테드 터너",
-      "count": 1,
+      "keyword": "제미나이",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "제미나이 관련 게시글"
+    },
+    {
+      "keyword": "클리앙",
+      "count": 20,
       "sentiment": "neutral",
-      "context": "CNN 창립자 사망"
+      "context": "클리앙 사용자들의 게시글"
     },
     {
-      "keyword": "삼성",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "기술 홀랑 넘긴 사람에게 징역 6년"
-    },
-    {
-      "keyword": "코스피",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "7천피 평가 절하하는 국힘"
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼성전자의 뉴스와 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 0,
-    "negative": 3,
-    "neutral": 2,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 15,
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 테드 터너의 사망 소식이 큰 관심을 받고 있다.",
-      "action": "테드 터너의 사망 소식에 대한 대응 전략 수립",
-      "priority": "low"
+      "insight": "제미나이의 인기",
+      "action": "제미나이 관련 제품이나 서비스 개발",
+      "priority": "high"
     },
     {
-      "insight": "삼성 기술 홀랑 넘긴 사람에게 징역 6년이 선고되었다.",
-      "action": "삼성 기술 홀랑 넘긴 사람에게 징역 6년에 대한 대응 전략 수립",
+      "insight": "클리앙 사용자의 관심",
+      "action": "클리앙 사용자들을 대상으로한 마케팅 전략 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "삼성전자의 기술",
+      "action": "삼성전자와의 협력 또는 기술 도입",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 테드 터너의 사망 소식이 큰 관심을 받고 있다. 또한, 삼성 기술 홀랑 넘긴 사람에게 징역 6년이 선고되어 많은 논란을 일으키고 있다. 이러한 상황에서 기업은 테드 터너의 사망 소식과 삼성 기술 홀랑 넘긴 사람에게 징역 6년에 대한 대응 전략을 수립해야 한다. 또한, 코스피 7천피 평가 절하하는 국힘의 발언이 논란을 일으키고 있으므로, 기업은 이러한 상황에 대한 대응 전략을 수립해야 한다.",
-  "analyzed_at": "2026-05-06T16:00:34.360Z",
+  "narrative": "클리앙 커뮤니티의 사용자들은 다양한 주제에 대해 게시글을 작성하고 있으며, 제미나이와 삼성전자의 기술에 대해 관심을 보이고 있다. 제미나이의 인기와 클리앙 사용자의 관심은 마케팅 전략 개발에 활용될 수 있으며, 삼성전자의 기술은 협력 또는 기술 도입의 기회로 활용될 수 있다. 중립적인 분위기에서 사용자들의 관심을 끌기 위한 전략이 필요하다.",
+  "analyzed_at": "2026-05-06T17:30:34.019Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
