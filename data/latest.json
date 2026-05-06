@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "코스피 불장",
-      "summary": "코스피가 6.45% 오른 7,384로 마감했다. 장중 7,400도 돌파했다. 코스피 불장에 대한 기사와 게시글이 많다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "쿠팡의 영업손실과 주식 시장의 상황이 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "재외국민 인증서",
-      "summary": "재외국민이 국내 휴대전화 없어도 재외국민 인증서로 공공 웹사이트를 이용할 수 있다. 관련 기사와 게시글이 있다.",
-      "post_count": 2,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "이재명 대통령과 조국 대표의 활동이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술에 대한 기사와 게시글이 많다. 애플, 메타, 오픈AI 등이 AI 기술을 개발하고 있다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "AI와 로봇 기술의 발전이 논의되고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
+      "keyword": "쿠팡",
       "count": 5,
-      "sentiment": "positive",
-      "context": "코스피 불장에 대한 기사와 게시글"
+      "sentiment": "negative",
+      "context": "영업손실과 이용자 감소"
     },
     {
-      "keyword": "재외국민",
-      "count": 2,
+      "keyword": "주식",
+      "count": 4,
       "sentiment": "neutral",
-      "context": "재외국민 인증서에 대한 기사와 게시글"
+      "context": "시장 상황과 투자 전략"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 6,
       "sentiment": "positive",
-      "context": "AI 기술에 대한 기사와 게시글"
+      "context": "기술 발전과 산업 활용"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 2,
-    "neutral": 5,
-    "overall_mood": "기대감과 흥미"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "코스피 불장에 대한 기대감이 높다",
-      "action": "투자 전략을 조정한다",
+      "insight": "쿠팡의 영업손실은 경쟁사에게 기회가 될 수 있습니다.",
+      "action": "마케팅 전략 조정",
       "priority": "high"
     },
     {
-      "insight": "재외국민 인증서의 이용이 확대된다",
-      "action": "인증서의 보안을 강화한다",
+      "insight": "AI 기술의 발전은 새로운 비즈니스 기회를 창출할 수 있습니다.",
+      "action": "기술 투자와 연구 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 개발이 가속화된다",
-      "action": "AI 기술을 적용한다",
-      "priority": "high"
     }
   ],
-  "narrative": "현재 코스피 불장에 대한 기대감이 높고, 재외국민 인증서의 이용이 확대되고 있다. 또한, AI 기술의 개발이 가속화되고 있다. 이러한 트렌드에 따라 투자 전략을 조정하고, 인증서의 보안을 강화하며, AI 기술을 적용하는 것이 중요하다. 이러한 트렌드에 대한 기대감과 흥미가 높아지고 있다.",
-  "analyzed_at": "2026-05-06T07:30:33.921Z",
-  "post_count": 62,
+  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 경제와 정치가 주요 관심사로 나타났습니다. 쿠팡의 영업손실과 주식 시장의 상황이 논의되고 있으며, 이재명 대통령과 조국 대표의 활동도 주목을 받고 있습니다. 또한, AI와 로봇 기술의 발전이 논의되고 있으며, 새로운 비즈니스 기회를 창출할 수 있는 기술 투자와 연구 개발이 필요합니다. 이러한 트렌드와 인사이트를 바탕으로, 기업은 마케팅 전략을 조정하고 기술 투자를 통해 경쟁력을 강화할 수 있습니다.",
+  "analyzed_at": "2026-05-06T09:00:33.988Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
