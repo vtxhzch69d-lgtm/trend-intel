@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 애플의 AI 최종승자 가능성, AI 골격 분석, AI 추론 플랫폼 등이 주요하게 다루어지고 있습니다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 특히, 애플의 AI 기술과 관련된 뉴스가 주목을 받고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "한동훈과 관련된 정치적인 주제가 논의되고 있습니다. 한동훈의 강한 3등 가능성, 정형근의 후원회장 임명 등이 주요하게 다루어지고 있습니다.",
-      "post_count": 8,
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련 주제가 많이 논의되고 있다. 특히, 코스피와 삼전의 주가 변동이 주목을 받고 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제와 관련된 다양한 주제가 논의되고 있습니다. 주식 시장의 상승, 코스피의 증가, 삼전닉스의 시총 증가 등이 주요하게 다루어지고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "정치",
+      "summary": "정치 관련 주제가 논의되고 있다. 특히, 한동훈과 관련된 뉴스가 주목을 받고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "context": "AI 기술의 발전과 관련된 뉴스"
+    },
+    {
+      "keyword": "삼전",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "삼전의 주가 변동과 관련된 뉴스"
     },
     {
       "keyword": "한동훈",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "정치적인 주제"
-    },
-    {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "경제와 관련된 주제"
+      "sentiment": "negative",
+      "context": "한동훈과 관련된 정치 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 사업에 적용할 수 있는 방법을 모색합니다.",
+      "insight": "AI 기술의 발전이 산업에 미치는 영향",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치적인 주제는 사업에 영향을 미칠 수 있습니다.",
-      "action": "정치적인 주제를 주시하고, 사업에 영향을 미칠 수 있는 요소를 분석합니다.",
+      "insight": "경제 및 주식 시장의 변동",
+      "action": "주식 투자 전략의 조정",
       "priority": "medium"
     },
     {
-      "insight": "경제적인 주제는 사업에 영향을 미칠 수 있습니다.",
-      "action": "경제적인 주제를 주시하고, 사업에 영향을 미칠 수 있는 요소를 분석합니다.",
-      "priority": "medium"
+      "insight": "정치적 불안정성의 영향",
+      "action": "정치적リスク 관리",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 주요하게 다루어지고 있습니다. 애플의 AI 최종승자 가능성, AI 골격 분석, AI 추론 플랫폼 등이 주요하게 다루어지고 있습니다. 또한, 정치적인 주제와 경제적인 주제도 다루어지고 있습니다. 이러한 트렌드 분석 결과를 통해, 사업에 영향을 미칠 수 있는 요소를 분석하고, 사업에 적용할 수 있는 방법을 모색할 수 있습니다.",
-  "analyzed_at": "2026-05-06T20:30:34.375Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 주목을 받고 있다. 특히, 애플의 AI 기술과 관련된 뉴스가 주목을 받고 있다. 또한, 경제 및 주식 관련 주제가 많이 논의되고 있다. 그러나, 정치 관련 주제는 상대적으로 덜 논의되고 있다. 이러한 트렌드는 비즈니스 전략의 개발과 시장의 변동에 대한 이해를 도와줄 수 있다.",
+  "analyzed_at": "2026-05-06T22:00:34.294Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
