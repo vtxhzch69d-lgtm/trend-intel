@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "한동훈과 관련된 정치 뉴스 및 의견",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 애플의 AI 최종승자 가능성, AI 골격 분석, AI 추론 플랫폼 등이 주요하게 다루어지고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 개발",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "한동훈과 관련된 정치적인 주제가 논의되고 있습니다. 한동훈의 강한 3등 가능성, 정형근의 후원회장 임명 등이 주요하게 다루어지고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "주식 및 경제 관련 뉴스",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "summary": "경제와 관련된 다양한 주제가 논의되고 있습니다. 주식 시장의 상승, 코스피의 증가, 삼전닉스의 시총 증가 등이 주요하게 다루어지고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "한동훈",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 뉴스"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "기술 개발"
+      "keyword": "한동훈",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치적인 주제"
     },
     {
       "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "count": 8,
+      "sentiment": "positive",
+      "context": "경제와 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 개발이 빠르게 진행되고 있다",
-      "action": "최신 기술을 따라가기",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고, 사업에 적용할 수 있는 방법을 모색합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 상황이 안정적이다",
-      "action": "투자하기",
+      "insight": "정치적인 주제는 사업에 영향을 미칠 수 있습니다.",
+      "action": "정치적인 주제를 주시하고, 사업에 영향을 미칠 수 있는 요소를 분석합니다.",
       "priority": "medium"
     },
     {
-      "insight": "정치 상황이 불안정하다",
-      "action": "주의하기",
-      "priority": "high"
+      "insight": "경제적인 주제는 사업에 영향을 미칠 수 있습니다.",
+      "action": "경제적인 주제를 주시하고, 사업에 영향을 미칠 수 있는 요소를 분석합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제를 중심으로 돌아가고 있습니다. 기술 개발이 빠르게 진행되고 있으며, 경제 상황은 안정적입니다. 그러나 정치 상황은 불안정하여 주의가 필요합니다. 이러한 트렌드를 따라가기 위해 최신 기술을 따라가고, 투자하기, 주의하기 등의 액션이 필요합니다.",
-  "analyzed_at": "2026-05-06T19:00:33.714Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 주요하게 다루어지고 있습니다. 애플의 AI 최종승자 가능성, AI 골격 분석, AI 추론 플랫폼 등이 주요하게 다루어지고 있습니다. 또한, 정치적인 주제와 경제적인 주제도 다루어지고 있습니다. 이러한 트렌드 분석 결과를 통해, 사업에 영향을 미칠 수 있는 요소를 분석하고, 사업에 적용할 수 있는 방법을 모색할 수 있습니다.",
+  "analyzed_at": "2026-05-06T20:30:34.375Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
