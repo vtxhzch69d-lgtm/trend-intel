@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "북한의 헌법 개정",
-      "summary": "북한이 헌법을 개정하여 영토조항을 신설하고 통일삭제를 두 국가 개헌을 진행",
+      "topic": "코스피 불장",
+      "summary": "코스피가 6.45% 오른 7,384로 마감했다. 장중 7,400도 돌파했다. 코스피 불장에 대한 기사와 게시글이 많다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "코스피 역대급 상승과 주식 수익률에 대한 चर치",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "재외국민 인증서",
+      "summary": "재외국민이 국내 휴대전화 없어도 재외국민 인증서로 공공 웹사이트를 이용할 수 있다. 관련 기사와 게시글이 있다.",
+      "post_count": 2,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
-      "post_count": 15,
+      "summary": "AI 기술에 대한 기사와 게시글이 많다. 애플, 메타, 오픈AI 등이 AI 기술을 개발하고 있다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "북한",
+      "keyword": "코스피",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "북한의 헌법 개정"
+      "sentiment": "positive",
+      "context": "코스피 불장에 대한 기사와 게시글"
     },
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "주식 시장의 상승"
+      "keyword": "재외국민",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "재외국민 인증서에 대한 기사와 게시글"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술에 대한 기사와 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 15,
+    "negative": 2,
+    "neutral": 5,
+    "overall_mood": "기대감과 흥미"
   },
   "business_insights": [
     {
-      "insight": "북한의 헌법 개정은 한국의 정치와 경제에 영향을 미칠 수 있다",
-      "action": "한국 정부와 기업은 북한의 헌법 개정에 대한 대응책을 마련해야 한다",
+      "insight": "코스피 불장에 대한 기대감이 높다",
+      "action": "투자 전략을 조정한다",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 상승은 투자자들에게 기회를 제공한다",
-      "action": "투자자들은 주식 시장의 동향을 주시하고 투자 전략을 수립해야 한다",
+      "insight": "재외국민 인증서의 이용이 확대된다",
+      "action": "인증서의 보안을 강화한다",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 혁신을 불러올 수 있다",
-      "action": "기업들은 AI 기술을 도입하고 혁신을 추구해야 한다",
-      "priority": "medium"
+      "insight": "AI 기술의 개발이 가속화된다",
+      "action": "AI 기술을 적용한다",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 북한의 헌법 개정과 주식 시장의 상승, AI 기술의 발전이 주목을 받고 있다. 북한의 헌법 개정은 한국의 정치와 경제에 영향을 미칠 수 있으며, 주식 시장의 상승은 투자자들에게 기회를 제공한다. 또한, AI 기술의 발전은 다양한 산업에서 혁신을 불러올 수 있다. 따라서, 한국 정부와 기업들은 북한의 헌법 개정에 대한 대응책을 마련하고, 투자자들은 주식 시장의 동향을 주시하고 투자 전략을 수립해야 한다. 또한, 기업들은 AI 기술을 도입하고 혁신을 추구해야 한다.",
-  "analyzed_at": "2026-05-06T06:00:35.058Z",
-  "post_count": 61,
+  "narrative": "현재 코스피 불장에 대한 기대감이 높고, 재외국민 인증서의 이용이 확대되고 있다. 또한, AI 기술의 개발이 가속화되고 있다. 이러한 트렌드에 따라 투자 전략을 조정하고, 인증서의 보안을 강화하며, AI 기술을 적용하는 것이 중요하다. 이러한 트렌드에 대한 기대감과 흥미가 높아지고 있다.",
+  "analyzed_at": "2026-05-06T07:30:33.921Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
