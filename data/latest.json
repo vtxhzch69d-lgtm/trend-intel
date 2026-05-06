@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 특히, 애플의 AI 기술과 관련된 뉴스가 주목을 받고 있다.",
-      "post_count": 15,
+      "topic": "경제 및 금융",
+      "summary": "KODEX 인버스X2 1년 수익률, 외환보유액 증가, 주식 시장 동향 등 경제 및 금융 관련 주제가 인기 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 AI",
+      "summary": "AI 관련 기술, 구글의 오픈소스 LLM, 애플의 AI 최종승자 논리 등 기술 및 AI 관련 주제가 인기 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 관련 주제가 많이 논의되고 있다. 특히, 코스피와 삼전의 주가 변동이 주목을 받고 있다.",
-      "post_count": 10,
+      "topic": "정치 및 사회",
+      "summary": "한반도 평화 정착, 청백리 보호프로그램, 철도공단의 계엄 해제 등 정치 및 사회 관련 주제가 인기 있습니다.",
+      "post_count": 6,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 주제가 논의되고 있다. 특히, 한동훈과 관련된 뉴스가 주목을 받고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스"
+      "context": "AI 관련 기술 및 애플의 AI 최종승자 논리"
     },
     {
-      "keyword": "삼전",
-      "count": 10,
+      "keyword": "주식",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "삼전의 주가 변동과 관련된 뉴스"
+      "context": "주식 시장 동향 및 KODEX 인버스X2 1년 수익률"
     },
     {
-      "keyword": "한동훈",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "한동훈과 관련된 정치 뉴스"
+      "keyword": "경제",
+      "count": 6,
+      "sentiment": "neutral",
+      "context": "외환보유액 증가, 경제 동향 등"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 산업에 미치는 영향",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 관련 기술 및 애플의 AI 최종승자 논리는 관심이 높습니다.",
+      "action": "AI 관련 기술 개발 및 투자",
       "priority": "high"
     },
     {
-      "insight": "경제 및 주식 시장의 변동",
-      "action": "주식 투자 전략의 조정",
+      "insight": "주식 시장 동향 및 경제 관련 주제는 관심이 높습니다.",
+      "action": "경제 동향 분석 및 주식 시장 투자",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적 불안정성의 영향",
-      "action": "정치적リスク 관리",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 주목을 받고 있다. 특히, 애플의 AI 기술과 관련된 뉴스가 주목을 받고 있다. 또한, 경제 및 주식 관련 주제가 많이 논의되고 있다. 그러나, 정치 관련 주제는 상대적으로 덜 논의되고 있다. 이러한 트렌드는 비즈니스 전략의 개발과 시장의 변동에 대한 이해를 도와줄 수 있다.",
-  "analyzed_at": "2026-05-06T22:00:34.294Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융, 기술 및 AI, 정치 및 사회 관련 주제가 인기 있습니다. AI 관련 기술 및 애플의 AI 최종승자 논리는 관심이 높으며, 주식 시장 동향 및 경제 관련 주제도 관심이 높습니다. 이러한 트렌드에 따라 AI 관련 기술 개발 및 투자, 경제 동향 분석 및 주식 시장 투자가 필요합니다.",
+  "analyzed_at": "2026-05-06T23:30:33.417Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
