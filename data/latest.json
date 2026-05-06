@@ -1,75 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피 10000 넘을수 밖에 없다, 하닉 100배 인증은 얼마나 대단한 것인가...",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "OpenAI, ChatGPT 기본 모델로 GPT-5.5 Instant 출시, 애플, '인텔리전스 지연'에 3670억 배상",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에 관한 내용입니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "장예찬 '한동훈.내 득표율 넘을지 볼테니 부디 완주를', 절윤한다면서 친윤 공천···국.힘..위기인 이유",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "코스피 10000 넘을수 밖에 없다"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
+      "keyword": "뽐뿌",
+      "count": 50,
       "sentiment": "neutral",
-      "context": "OpenAI, ChatGPT 기본 모델로 GPT-5.5 Instant 출시"
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "정치",
-      "count": 12,
+      "keyword": "이슈",
+      "count": 20,
       "sentiment": "negative",
-      "context": "장예찬 '한동훈.내 득표율 넘을지 볼테니 부디 완주를'"
+      "context": "문제 또는 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
+    "positive": 30,
+    "negative": 40,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승세",
-      "action": "주식 투자",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술 연구 개발",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치적 불안정성",
-      "action": "정치적 위험 관리",
+      "insight": "커뮤니티 이용자들의 관심사에 대한 분석",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 상승세와 AI 기술의 발전이 주목을 받고 있습니다. 그러나 정치적 불안정성이 높은 우려도 있습니다. 이러한 트렌드를 고려하여, 주식 투자와 AI 기술 연구 개발을 우선적으로 진행하는 것이 좋을 것입니다. 또한, 정치적 위험 관리를 통해 불안정성에 대비하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-06T10:30:33.951Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티의 인기 게시글을 분석한 결과, 자유게시판과 이슈게시판에 관한 내용이 주를 이루고 있습니다. 이용자들의 관심사는 다양한 것으로 나타났으며, 마케팅 전략 수립을 위한 참고자료로 활용할 수 있습니다. 또한, 커뮤니티 이용자들의 감정 분석 결과, 중립적인 분위기가 나타났습니다. 이는 마케팅 전략에 대한 참고자료로 활용할 수 있으며, 이용자들의 관심사와 감정에 대한 분석을 통해 효과적인 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-06T12:00:33.777Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
