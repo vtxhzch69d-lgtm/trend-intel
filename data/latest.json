@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "KF-21 전투기",
-      "summary": "KF-21 전투기가 전투용 적합 판정 획득하여 대한민국의 독자 전투기 시대가 시작되었다.",
-      "post_count": 2,
-      "sentiment": "positive",
+      "topic": "지방선거",
+      "summary": "지방선거 결과와 관련된 다양한 의견과 분석이 나타나고 있습니다. 일부 지역에서는 보수 정당의 승리가 예상되며, 일부 지역에서는 민주당의 승리가 예상됩니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "이란과 한국의 관계",
-      "summary": "이란이 한국선박을 공격하지 않았다고 주장하며, 한국에 대한 우호적 감정을 표현하였다.",
-      "post_count": 3,
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 의견이 나타나고 있습니다. 일부 기업의 실적과 관련된 뉴스가 있으며, 일부 사용자는 경제 상황에 대한 우려를 나타내고 있습니다.",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI 기술이 발전하며, 다양한 산업에서 활용되고 있다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "기술 관련 뉴스와 의견이 나타나고 있습니다. 일부 사용자는 새로운 기술에 대한 기대와 관심을 나타내고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "KF-21",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "전투기"
+      "keyword": "지방선거",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "지방선거 결과와 관련된 다양한 의견과 분석"
     },
     {
-      "keyword": "이란",
-      "count": 3,
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "한국선박 공격"
+      "context": "경제 관련 뉴스와 의견"
     },
     {
-      "keyword": "AI",
+      "keyword": "기술",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "기술 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "국방 산업의 성장",
-      "action": "국방 산업에 대한 투자 증가",
+      "insight": "지방선거 결과는 경제와 기술에 영향을 미칠 수 있습니다.",
+      "action": "경제와 기술에 대한 분석을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "기술은 경제와 사회에 긍정적인 영향을 미칠 수 있습니다.",
+      "action": "기술에 대한 투자를 강화해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, KF-21 전투기와 이란과의 관계, AI 기술의 발전이 주목을 받고 있다. 이러한 트렌드는 국방 산업의 성장과 AI 기술을 활용한 새로운 비즈니스 모델 개발의 기회를 제공한다. 그러나 이란과의 관계는 여전히 불안정한 요소로 남아 있다. 따라서, 이러한 트렌드를 주시하고, 적절한 전략을 수립하여 비즈니스 기회를 잡는 것이 중요하다.",
-  "analyzed_at": "2026-05-07T10:00:34.235Z",
-  "post_count": 61,
+  "narrative": "지방선거 결과와 경제, 기술에 대한 분석이 필요합니다. 지방선거 결과는 경제와 기술에 영향을 미칠 수 있으며, 기술은 경제와 사회에 긍정적인 영향을 미칠 수 있습니다. 따라서 경제와 기술에 대한 분석을 강화하고, 기술에 대한 투자를 강화해야 합니다. 또한, 지방선거 결과와 관련된 다양한 의견과 분석을 고려하여 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-05-07T11:30:33.853Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
