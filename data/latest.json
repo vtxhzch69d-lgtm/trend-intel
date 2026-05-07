@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정진석 후보의 보궐선거 출마와 국회 개헌안 표결 무산 등 정치 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "KF-21 전투기",
+      "summary": "KF-21 전투기가 전투용 적합 판정 획득하여 대한민국의 독자 전투기 시대가 시작되었다.",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "KF-21 전투기와 현대로템의 우즈벡 고속철 도입 등 기술 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "이란과 한국의 관계",
+      "summary": "이란이 한국선박을 공격하지 않았다고 주장하며, 한국에 대한 우호적 감정을 표현하였다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자와 LG전자의 사업 뉴스와 경제 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 12,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI와 기술",
+      "summary": "AI 기술이 발전하며, 다양한 산업에서 활용되고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "KF-21",
-      "count": 5,
+      "count": 2,
       "sentiment": "positive",
-      "context": "전투기 개발 성공"
+      "context": "전투기"
     },
     {
-      "keyword": "정진석",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "보궐선거 출마와 국회 개헌안 표결 무산"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 6,
+      "keyword": "이란",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "사업 뉴스와 경제 관련 뉴스"
+      "context": "한국선박 공격"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 개발 투자",
-      "action": "기술 개발에 투자하기",
+      "insight": "국방 산업의 성장",
+      "action": "국방 산업에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "경제 동향 분석",
-      "action": "경제 동향을 분석하고 대응하기",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 뉴스 모니터링",
-      "action": "정치 관련 뉴스를 모니터링하고 대응하기",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 기술 관련 뉴스가 주목을 받고 있습니다. 특히 KF-21 전투기와 현대로템의 우즈벡 고속철 도입 등 기술 관련 뉴스가 주목을 받고 있습니다. 또한, 삼성전자와 LG전자의 사업 뉴스와 경제 관련 뉴스가 주목을 받고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 기술 개발 투자와 경제 동향 분석 등이 필요합니다. 또한, 정치 관련 뉴스를 모니터링하고 대응하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-07T08:30:33.930Z",
-  "post_count": 59,
+  "narrative": "최근의 트렌드 분석 결과, KF-21 전투기와 이란과의 관계, AI 기술의 발전이 주목을 받고 있다. 이러한 트렌드는 국방 산업의 성장과 AI 기술을 활용한 새로운 비즈니스 모델 개발의 기회를 제공한다. 그러나 이란과의 관계는 여전히 불안정한 요소로 남아 있다. 따라서, 이러한 트렌드를 주시하고, 적절한 전략을 수립하여 비즈니스 기회를 잡는 것이 중요하다.",
+  "analyzed_at": "2026-05-07T10:00:34.235Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
