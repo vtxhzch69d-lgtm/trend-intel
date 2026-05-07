@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련된 게시글이 많아졌습니다. 특히 조국 대표와 관련된 게시글이 많이 올라왔습니다.",
-      "post_count": 15,
+      "summary": "조국혁신당과 관련된 다양한 의견이 나타나고 있습니다. 일부 사용자는 조국혁신당을 지지하며, 다른 사용자는 당명을 변경해야 한다고 주장합니다.",
+      "post_count": 5,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식",
-      "summary": "주식 관련된 게시글이 많이 올라왔습니다. 특히 코스피와 관련된 게시글이 많아졌습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 관련된 게시글이 많이 올라왔습니다. 특히 서울과 관련된 게시글이 많아졌습니다.",
-      "post_count": 5,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시 정보가 주목을 받고 있습니다. 사용자들은 새로운 기술과 제품에 대해 관심을 보이고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "사회",
+      "summary": "여러 사회 문제와 사건에 대한 논의가 진행되고 있습니다. 사용자들은 다양한 의견을 제시하고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "조국 대표와 관련된 게시글이 많이 올라왔습니다."
-    },
-    {
-      "keyword": "코스피",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "코스피와 관련된 게시글이 많이 올라왔습니다."
-    },
-    {
-      "keyword": "서울",
+      "keyword": "조국혁신당",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "서울과 관련된 게시글이 많이 올라왔습니다."
+      "sentiment": "mixed",
+      "context": "정치 관련 주제"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 관련 주제"
+    },
+    {
+      "keyword": "사회 문제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "사회 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
     "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치와 관련된 마케팅을 진행할 수 있습니다.",
-      "action": "정치와 관련된 콘텐츠를 생성합니다.",
+      "insight": "기술 관련 주제가 사용자의 관심을 끌고 있습니다.",
+      "action": "기술 관련 콘텐츠를 제공하여 사용자의 관심을 유도합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식과 관련된 마케팅을 진행할 수 있습니다.",
-      "action": "주식과 관련된 콘텐츠를 생성합니다.",
+      "insight": "사용자들은 다양한 의견을 제시하고 있습니다.",
+      "action": "사용자의 의견을 수렴하여 콘텐츠를 개선합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "부동산과 관련된 마케팅을 진행할 수 있습니다.",
-      "action": "부동산과 관련된 콘텐츠를 생성합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 정치와 주식, 부동산과 관련된 게시글이 많이 올라왔습니다. 특히 조국 대표와 관련된 게시글이 많이 올라왔습니다. 이러한 트렌드를 반영하여 마케팅을 진행할 수 있습니다. 정치와 관련된 마케팅을 진행할 수 있으며, 주식과 부동산과 관련된 마케팅도 진행할 수 있습니다. 이러한 마케팅을 통해 고객의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-05-07T05:30:33.552Z",
+  "narrative": "최근의 트렌드 분석 결과, 사용자들은 정치, 기술, 사회 관련 주제에 대해 관심을 보이고 있습니다. 기술 관련 주제는 사용자의 관심을 끌고 있으며, 사용자들은 다양한 의견을 제시하고 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 제공하고 사용자의 의견을 수렴하여 콘텐츠를 개선하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-07T07:00:33.970Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
