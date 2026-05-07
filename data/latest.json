@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "대구시장 선거와 정치 관련 뉴스가 많이 обсужд되고 있습니다.",
+      "summary": "국민의힘 공천 후폭풍, 친일재산 환수 법적근거 마련",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자와 현대차의 뉴스 및 금융 관련 주제가 많이 논의되고 있습니다.",
+      "topic": "기술",
+      "summary": "삼성전자, 갤럭시 워치 활용한 미주신경성 실신 조기 예측 입증",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 많이 논의되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "호르무즈 해협 재개방 임박, 사우디 국영 TV 수 시간 내 돌파구 기대",
+      "post_count": 6,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "대구시장",
-      "count": 5,
+      "keyword": "국민의힘",
+      "count": 15,
       "sentiment": "negative",
-      "context": "대구시장 선거 관련 논의"
+      "context": "공천 후폭풍"
     },
     {
       "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "삼성전자 뉴스 및 제품 출시"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "갤럭시 워치"
     },
     {
-      "keyword": "현대차",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "현대차 뉴스 및 제품 출시"
+      "keyword": "호르무즈 해협",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "재개방 임박"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "대구시장 선거에 대한 관심이 높아지고 있습니다.",
-      "action": "대구시장 선거 관련 마케팅 캠페인 실행",
+      "insight": "국민의힘 공천 후폭풍으로 인한 정치적 불안정",
+      "action": "정치적 리스크 관리",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 출시가 많이 논의되고 있습니다.",
-      "action": "최신 기술 뉴스와 제품 출시 관련 마케팅 캠페인 실행",
+      "insight": "삼성전자 기술 발전",
+      "action": "기술 투자",
       "priority": "medium"
+    },
+    {
+      "insight": "호르무즈 해협 재개방",
+      "action": "해상 물류 투자",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 경제 관련 주제가 많이 논의되고 있습니다. 특히 대구시장 선거와 삼성전자, 현대차의 뉴스가 많이 обсужд되고 있습니다. 또한 최신 기술 뉴스와 제품 출시가 많이 논의되고 있습니다. 이러한 트렌드를 반영하여 마케팅 캠페인을 실행하는 것이 좋을 것입니다. 또한 중립적인 분위기를 고려하여 마케팅 캠페인의 톤을 조절하는 것이 중요할 것입니다.",
-  "analyzed_at": "2026-05-07T13:00:34.051Z",
+  "narrative": "현재의 정치적 상황은 불안정한 편이며, 국민의힘 공천 후폭풍으로 인한 정치적 리스크 관리가 필요합니다. 기술 분야에서는 삼성전자의 갤럭시 워치가 미주신경성 실신 조기 예측에 활용될 수 있어 기술 투자가 필요합니다. 또한, 호르무즈 해협 재개방으로 인한 해상 물류 투자가 필요할 수 있습니다. 현재의 전체적인 분위기는 중립적이며, 정치적 불안정과 기술 발전이 주요한 이슈입니다.",
+  "analyzed_at": "2026-05-07T14:30:33.890Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
