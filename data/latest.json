@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "외환보유액 증가, 미국 물가 상승, 삼성전자 및 하이닉스 관련 뉴스",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "이란 핵무기 포기, 미국 제안 검토, 한국 정치 관련 뉴스",
+      "topic": "한덕수 2심 판결",
+      "summary": "한덕수 2심에서 징역 15년으로 감형됨. 많은 이용자가 이 판결에 대해 논란을 일으키고 있음.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI 기술 개발, 양자암호통신 기술 실증, 로봇 기술 개발",
+      "topic": "경제 및 금융",
+      "summary": "삼성전자, 하이닉스 등 기업의 주가 및 경제 동향에 대한 논의가 활발함.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 및 기술",
+      "summary": "AI 기술의 발전 및 ứng용에 대한 관심이 높음. 다양한 기업의 AI 관련 뉴스 및 개발 동향이 논의됨.",
       "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
@@ -24,44 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "삼성전자 관련 뉴스"
+      "keyword": "한덕수",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "2심 판결에 대한 논란"
     },
     {
-      "keyword": "하이닉스",
-      "count": 3,
+      "keyword": "삼성전자",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "하이닉스 관련 뉴스"
+      "context": "주가 및 경제 동향"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술 개발 관련 뉴스"
+      "context": "기술 발전 및 응용"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적이지만 일부 논란이 존재"
   },
   "business_insights": [
     {
-      "insight": "경제 및 금융 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "관련 뉴스 및 정보를 제공하여 고객의 관심을 끌 수 있습니다.",
+      "insight": "한덕수 2심 판결에 대한 논란이 높아, 관련 기업 및 경제 동향에 대한 관심이 높아질 수 있음.",
+      "action": "관련 뉴스 및 동향을 주시하고, 필요에 따라 대응 策略을 수립할 것.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 개발이 빠르게 진행되고 있습니다.",
-      "action": "AI 기술 개발 관련 뉴스 및 정보를 제공하여 고객의 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 발전 및 응용에 대한 관심이 높아, 관련 기업 및 기술에 대한 투자 및 개발을 고려할 수 있음.",
+      "action": "관련 기술 및 기업을 연구하고, 투자 및 개발을 위한 전략을 수립할 것.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융 뉴스가 많은 관심을 받고 있습니다. 외환보유액 증가, 미국 물가 상승, 삼성전자 및 하이닉스 관련 뉴스가 많이 обсужд되고 있습니다. 또한, AI 기술 개발이 빠르게 진행되고 있으며, 관련 뉴스 및 정보가 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여, 관련 뉴스 및 정보를 제공하여 고객의 관심을 끌 수 있습니다. 또한, AI 기술 개발 관련 뉴스 및 정보를 제공하여 고객의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-05-07T01:00:34.548Z",
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 한덕수 2심 판결에 대한 논란이 높아, 관련 기업 및 경제 동향에 대한 관심이 높아질 수 있음. 또한, AI 기술의 발전 및 응용에 대한 관심이 높아, 관련 기업 및 기술에 대한 투자 및 개발을 고려할 수 있음. 중립적인 분위기이지만, 일부 논란이 존재하므로, 관련 뉴스 및 동향을 주시하고, 필요에 따라 대응 策略을 수립할 필요가 있음.",
+  "analyzed_at": "2026-05-07T02:30:34.107Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
