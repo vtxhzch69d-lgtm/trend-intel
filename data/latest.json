@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아졌다.",
-      "post_count": 10,
+      "summary": "국내 정치 뉴스와 논쟁이 활발하게 진행되고 있습니다. 다양한 정치 관련 주제가 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 관련 뉴스와 제품 출시가 많아졌다.",
-      "post_count": 15,
+      "summary": "최신 기술 뉴스와 개발이 진행되고 있습니다. AI, 반도체, 전자제품 등 다양한 기술 관련 주제가 논의되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많아졌다.",
-      "post_count": 8,
+      "summary": "국내 경제 뉴스와 분석이 진행되고 있습니다. 다양한 경제 관련 주제가 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "새로운 갤럭시 제품 출시"
-    },
-    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "최신 기술 뉴스와 개발"
     },
     {
       "keyword": "정치",
-      "count": 8,
+      "count": 15,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논평"
+      "context": "국내 정치 뉴스와 논쟁"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "국내 경제 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
+    "positive": 25,
+    "negative": 15,
+    "neutral": 20,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술을 적용한 제품 출시",
-      "action": "신제품 개발",
+      "insight": "최신 기술 뉴스와 개발에 대한 관심이 높아지고 있습니다.",
+      "action": "기술 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스와 분석",
-      "action": "시장 분석",
+      "insight": "국내 정치 뉴스와 논쟁이 활발하게 진행되고 있습니다.",
+      "action": "정치 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "정치 관련 논평과 분석",
-      "action": "정책 개발",
+      "insight": "국내 경제 뉴스와 분석에 대한 관심이 있습니다.",
+      "action": "경제 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치, 기술, 경제 관련 게시글이 많아졌다. 최신 기술을 적용한 제품 출시와 경제 관련 뉴스와 분석이 주목을 받았다. 정치 관련 논평과 분석도 많아졌지만, 전체적인 분위기는 중립적인 편이다. 기업들은 최신 기술을 적용한 제품 출시와 시장 분석을 통해 경쟁력을 높일 수 있을 것이다.",
-  "analyzed_at": "2026-05-07T22:00:34.632Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 주제로 구성되어 있습니다. 최신 기술 뉴스와 개발에 대한 관심이 높아지고 있으며, 국내 정치 뉴스와 논쟁이 활발하게 진행되고 있습니다. 또한, 국내 경제 뉴스와 분석에 대한 관심도 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-05-07T23:30:33.637Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
