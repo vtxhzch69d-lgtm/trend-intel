@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "한덕수 2심 판결",
-      "summary": "한덕수 2심에서 징역 15년으로 감형됨. 많은 이용자가 이 판결에 대해 논란을 일으키고 있음.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "국힘 18%.서울·PK 패색 더 짙어져.TK 1당 탈환도 못해",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "삼성전자, 하이닉스 등 기업의 주가 및 경제 동향에 대한 논의가 활발함.",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "양도세 중과 앞두고 막판 급매 몰렸다",
+      "post_count": 3,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI 기술의 발전 및 ứng용에 대한 관심이 높음. 다양한 기업의 AI 관련 뉴스 및 개발 동향이 논의됨.",
-      "post_count": 12,
+      "topic": "기술",
+      "summary": "삼성전자, 美 AI 추론 플랫폼 '딥인프라' 투자",
+      "post_count": 4,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "한덕수",
-      "count": 15,
+      "keyword": "국힘",
+      "count": 5,
       "sentiment": "negative",
-      "context": "2심 판결에 대한 논란"
+      "context": "정치 관련 글"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
+      "keyword": "양도세",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "주가 및 경제 동향"
+      "context": "경제 관련 글"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 4,
       "sentiment": "positive",
-      "context": "기술 발전 및 응용"
+      "context": "기술 관련 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 일부 논란이 존재"
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한덕수 2심 판결에 대한 논란이 높아, 관련 기업 및 경제 동향에 대한 관심이 높아질 수 있음.",
-      "action": "관련 뉴스 및 동향을 주시하고, 필요에 따라 대응 策略을 수립할 것.",
+      "insight": "정치 관련 글은 부정적인 감정으로 가득 차 있다",
+      "action": "정치 관련 글에 대한 감성 분석을 수행하여 마케팅 전략을 수립한다",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전 및 응용에 대한 관심이 높아, 관련 기업 및 기술에 대한 투자 및 개발을 고려할 수 있음.",
-      "action": "관련 기술 및 기업을 연구하고, 투자 및 개발을 위한 전략을 수립할 것.",
+      "insight": "경제 관련 글은 중립적인 감정으로 가득 차 있다",
+      "action": "경제 관련 글에 대한 감성 분석을 수행하여 마케팅 전략을 수립한다",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 관련 글은 긍정적인 감정으로 가득 차 있다",
+      "action": "기술 관련 글에 대한 감성 분석을 수행하여 마케팅 전략을 수립한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 한덕수 2심 판결에 대한 논란이 높아, 관련 기업 및 경제 동향에 대한 관심이 높아질 수 있음. 또한, AI 기술의 발전 및 응용에 대한 관심이 높아, 관련 기업 및 기술에 대한 투자 및 개발을 고려할 수 있음. 중립적인 분위기이지만, 일부 논란이 존재하므로, 관련 뉴스 및 동향을 주시하고, 필요에 따라 대응 策略을 수립할 필요가 있음.",
-  "analyzed_at": "2026-05-07T02:30:34.107Z",
+  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치, 경제, 기술 관련 글로 구성되어 있다. 정치 관련 글은 부정적인 감정으로 가득 차 있으며, 경제 관련 글은 중립적인 감정으로 가득 차 있다. 기술 관련 글은 긍정적인 감정으로 가득 차 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있다. 또한, 키워드 분석을 통해 국힘, 양도세, AI 등이 주요 키워드임을 알 수 있다. 이러한 키워드를 활용하여 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-05-07T04:00:33.987Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
