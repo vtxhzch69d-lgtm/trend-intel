@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "국민의힘 공천 후폭풍, 친일재산 환수 법적근거 마련",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "최근 정치 관련 게시물이 많은 것으로 나타났습니다. 선거와 관련된 게시물이 많으며, 정치인에 대한 의견도 다양하게 나타나고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "삼성전자, 갤럭시 워치 활용한 미주신경성 실신 조기 예측 입증",
-      "post_count": 8,
+      "summary": "기술 관련 게시물이 많으며, 특히 AI와 관련된 게시물이 많이 나타나고 있습니다. 새로운 기술의 개발과 적용에 대한 관심이 높아보입니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "호르무즈 해협 재개방 임박, 사우디 국영 TV 수 시간 내 돌파구 기대",
-      "post_count": 6,
+      "summary": "경제 관련 게시물이 많으며, 특히 기업의 뉴스와 경제 동향에 대한 관심이 높아보입니다. 기업의 성과와 시장 동향에 대한 분석이 많이 나타나고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "국민의힘",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "공천 후폭풍"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "새로운 기술의 개발과 적용에 대한 관심"
+    },
+    {
+      "keyword": "선거",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 관련 게시물에서 많이 언급되는 키워드"
     },
     {
       "keyword": "삼성전자",
-      "count": 10,
+      "count": 3,
       "sentiment": "positive",
-      "context": "갤럭시 워치"
-    },
-    {
-      "keyword": "호르무즈 해협",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "재개방 임박"
+      "context": "기업의 뉴스와 성과에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "국민의힘 공천 후폭풍으로 인한 정치적 불안정",
-      "action": "정치적 리스크 관리",
+      "insight": "기술 분야에서 새로운 기회가 많이 존재한다.",
+      "action": "기술 분야에 대한 투자와 연구를 강화한다.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 기술 발전",
-      "action": "기술 투자",
+      "insight": "경제 분야에서 기업의 성과와 시장 동향에 대한 분석이 중요하다.",
+      "action": "기업의 뉴스와 시장 동향에 대한 분석을 강화한다.",
       "priority": "medium"
     },
     {
-      "insight": "호르무즈 해협 재개방",
-      "action": "해상 물류 투자",
+      "insight": "정치 분야에서 선거와 관련된 게시물이 많다.",
+      "action": "정치 관련 게시물에 대한 분석을 강화한다.",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 정치적 상황은 불안정한 편이며, 국민의힘 공천 후폭풍으로 인한 정치적 리스크 관리가 필요합니다. 기술 분야에서는 삼성전자의 갤럭시 워치가 미주신경성 실신 조기 예측에 활용될 수 있어 기술 투자가 필요합니다. 또한, 호르무즈 해협 재개방으로 인한 해상 물류 투자가 필요할 수 있습니다. 현재의 전체적인 분위기는 중립적이며, 정치적 불안정과 기술 발전이 주요한 이슈입니다.",
-  "analyzed_at": "2026-05-07T14:30:33.890Z",
+  "narrative": "최근 정치, 기술, 경제 분야에서 많은 게시물이 나타나고 있습니다. 기술 분야에서 새로운 기회가 많이 존재하며, 경제 분야에서 기업의 성과와 시장 동향에 대한 분석이 중요합니다. 정치 분야에서 선거와 관련된 게시물이 많으며, 중립적인 분위기가 나타나고 있습니다. 이러한 분석 결과를 바탕으로, 기술 분야에 대한 투자와 연구를 강화하고, 기업의 뉴스와 시장 동향에 대한 분석을 강화하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-07T16:00:34.700Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
