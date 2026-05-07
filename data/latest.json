@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "지방선거",
-      "summary": "지방선거 결과와 관련된 다양한 의견과 분석이 나타나고 있습니다. 일부 지역에서는 보수 정당의 승리가 예상되며, 일부 지역에서는 민주당의 승리가 예상됩니다.",
+      "topic": "정치",
+      "summary": "대구시장 선거와 정치 관련 뉴스가 많이 обсужд되고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 의견이 나타나고 있습니다. 일부 기업의 실적과 관련된 뉴스가 있으며, 일부 사용자는 경제 상황에 대한 우려를 나타내고 있습니다.",
-      "post_count": 15,
+      "summary": "삼성전자와 현대차의 뉴스 및 금융 관련 주제가 많이 논의되고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "기술 관련 뉴스와 의견이 나타나고 있습니다. 일부 사용자는 새로운 기술에 대한 기대와 관심을 나타내고 있습니다.",
+      "summary": "최신 기술 뉴스와 제품 출시가 많이 논의되고 있습니다.",
       "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "지방선거",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "지방선거 결과와 관련된 다양한 의견과 분석"
+      "keyword": "대구시장",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "대구시장 선거 관련 논의"
     },
     {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "삼성전자",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 의견"
+      "context": "삼성전자 뉴스 및 제품 출시"
     },
     {
-      "keyword": "기술",
-      "count": 10,
+      "keyword": "현대차",
+      "count": 4,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스와 의견"
+      "context": "현대차 뉴스 및 제품 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 25,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "지방선거 결과는 경제와 기술에 영향을 미칠 수 있습니다.",
-      "action": "경제와 기술에 대한 분석을 강화해야 합니다.",
+      "insight": "대구시장 선거에 대한 관심이 높아지고 있습니다.",
+      "action": "대구시장 선거 관련 마케팅 캠페인 실행",
       "priority": "high"
     },
     {
-      "insight": "기술은 경제와 사회에 긍정적인 영향을 미칠 수 있습니다.",
-      "action": "기술에 대한 투자를 강화해야 합니다.",
+      "insight": "최신 기술 뉴스와 제품 출시가 많이 논의되고 있습니다.",
+      "action": "최신 기술 뉴스와 제품 출시 관련 마케팅 캠페인 실행",
       "priority": "medium"
     }
   ],
-  "narrative": "지방선거 결과와 경제, 기술에 대한 분석이 필요합니다. 지방선거 결과는 경제와 기술에 영향을 미칠 수 있으며, 기술은 경제와 사회에 긍정적인 영향을 미칠 수 있습니다. 따라서 경제와 기술에 대한 분석을 강화하고, 기술에 대한 투자를 강화해야 합니다. 또한, 지방선거 결과와 관련된 다양한 의견과 분석을 고려하여 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-05-07T11:30:33.853Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 경제 관련 주제가 많이 논의되고 있습니다. 특히 대구시장 선거와 삼성전자, 현대차의 뉴스가 많이 обсужд되고 있습니다. 또한 최신 기술 뉴스와 제품 출시가 많이 논의되고 있습니다. 이러한 트렌드를 반영하여 마케팅 캠페인을 실행하는 것이 좋을 것입니다. 또한 중립적인 분위기를 고려하여 마케팅 캠페인의 톤을 조절하는 것이 중요할 것입니다.",
+  "analyzed_at": "2026-05-07T13:00:34.051Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
