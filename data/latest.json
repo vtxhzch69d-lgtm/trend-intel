@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "국내 정치 뉴스와 논쟁이 활발하게 진행되고 있습니다. 다양한 정치 관련 주제가 논의되고 있습니다.",
+      "summary": "국민의힘 탈당과 공천 잡음, 여수 공무원 출장 논란 등 정치 관련 주제가热",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 개발이 진행되고 있습니다. AI, 반도체, 전자제품 등 다양한 기술 관련 주제가 논의되고 있습니다.",
+      "summary": "AI, 반도체, 로봇 등 기술 관련 주제가 인기",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "국내 경제 뉴스와 분석이 진행되고 있습니다. 다양한 경제 관련 주제가 논의되고 있습니다.",
+      "summary": "주식, 경제 관련 주제가 관심을 끌고 있다",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "국민의힘",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "탈당과 공천 잡음"
+    },
+    {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 개발"
+      "context": "기술 개발과 적용"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "국내 정치 뉴스와 논쟁"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "국내 경제 뉴스와 분석"
+      "keyword": "반도체",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "산업 동향과 기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지된다"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 뉴스와 개발에 대한 관심이 높아지고 있습니다.",
-      "action": "기술 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
+      "insight": "정치와 경제는 밀접한 관련이 있다",
+      "action": "정치와 경제 동향을 지속적으로 모니터링할 것",
       "priority": "high"
     },
     {
-      "insight": "국내 정치 뉴스와 논쟁이 활발하게 진행되고 있습니다.",
-      "action": "정치 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
+      "insight": "기술 개발은 산업의 미래를 결정한다",
+      "action": "기술 개발과 투자를 지속적으로 지원할 것",
       "priority": "medium"
-    },
-    {
-      "insight": "국내 경제 뉴스와 분석에 대한 관심이 있습니다.",
-      "action": "경제 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 주제로 구성되어 있습니다. 최신 기술 뉴스와 개발에 대한 관심이 높아지고 있으며, 국내 정치 뉴스와 논쟁이 활발하게 진행되고 있습니다. 또한, 국내 경제 뉴스와 분석에 대한 관심도 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-05-07T23:30:33.637Z",
+  "narrative": "최근의 정치와 경제 동향은 매우 복잡하고 민감한 문제들로 가득 차 있다. 특히, 국민의힘의 탈당과 공천 잡음, 여수 공무원 출장 논란 등 정치 관련 주제가 많은 관심을 끌고 있다. 기술 개발과 산업 동향도 중요한 주제로, AI, 반도체, 로봇 등이 주목을 받고 있다. 이러한 동향을 분석하고 이해하는 것은 비즈니스와 산업의 미래를 결정하는 데 중요한 역할을 할 것이다.",
+  "analyzed_at": "2026-05-08T01:30:34.457Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
