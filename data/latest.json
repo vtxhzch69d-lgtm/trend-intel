@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "국민의힘 탈당과 공천 잡음, 여수 공무원 출장 논란 등 정치 관련 주제가热",
-      "post_count": 15,
+      "summary": "김건희 명품백 사건, 임성근 1심 징역 3년, 김현태 전 707특임단장 6·3 재보선 인천 계양을 출마",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 반도체, 로봇 등 기술 관련 주제가 인기",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "삼성전자, 메모리 직원들에게 영업이익 10% 성과급 지급 약속, 쿠팡 2대주주 영국 자산운용사 지분 8천억 탈팡",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "주식, 경제 관련 주제가 관심을 끌고 있다",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "인공지능 데이터센터 특별법 국회 본회의 통과, 오픈AI 실시간 음성 AI모델 공개",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "국민의힘",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "탈당과 공천 잡음"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "기술 개발과 적용"
-    },
-    {
-      "keyword": "반도체",
+      "keyword": "김건희",
       "count": 5,
+      "sentiment": "negative",
+      "context": "명품백 사건"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "메모리 직원들에게 영업이익 10% 성과급 지급 약속"
+    },
+    {
+      "keyword": "인공지능",
+      "count": 6,
       "sentiment": "positive",
-      "context": "산업 동향과 기술 개발"
+      "context": "인공지능 데이터센터 특별법 국회 본회의 통과"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지된다"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제는 밀접한 관련이 있다",
-      "action": "정치와 경제 동향을 지속적으로 모니터링할 것",
+      "insight": "인공지능 기술의 발전",
+      "action": "인공지능 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "기술 개발은 산업의 미래를 결정한다",
-      "action": "기술 개발과 투자를 지속적으로 지원할 것",
+      "insight": "경제적 불안정성",
+      "action": "경제적 불안정성에 대한 대비책 마련",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치와 경제 동향은 매우 복잡하고 민감한 문제들로 가득 차 있다. 특히, 국민의힘의 탈당과 공천 잡음, 여수 공무원 출장 논란 등 정치 관련 주제가 많은 관심을 끌고 있다. 기술 개발과 산업 동향도 중요한 주제로, AI, 반도체, 로봇 등이 주목을 받고 있다. 이러한 동향을 분석하고 이해하는 것은 비즈니스와 산업의 미래를 결정하는 데 중요한 역할을 할 것이다.",
-  "analyzed_at": "2026-05-08T01:30:34.457Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치, 경제, 기술 등 다양한 주제를 다루고 있습니다. 정치적으로는 김건희 명품백 사건과 임성근 1심 징역 3년이 큰 이슈였습니다. 경제적으로는 삼성전자의 메모리 직원들에게 영업이익 10% 성과급 지급 약속과 쿠팡 2대주주 영국 자산운용사의 지분 8천억 탈팡이 주목을 받았습니다. 기술적으로는 인공지능 데이터센터 특별법의 국회 본회의 통과와 오픈AI의 실시간 음성 AI모델 공개가 큰 관심을 모았습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-08T03:00:34.757Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
