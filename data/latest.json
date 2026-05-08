@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI 보안주권, 홀로그램 기술, 인공지능 데이터센터 특별법 등이 주요 주제입니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 주제가 많이 논의되고 있습니다. 특히, 한동훈과 조국후보에 대한 이야기가 많습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제가 논의되고 있습니다. 주가, 경제 성장, 금융 정책 등이 주요 주제입니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "최신 기술 관련 주제가 많이 논의되고 있습니다. 특히, AI와 로봇 관련 이야기가 많습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "국가 및 정치",
-      "summary": "국가 및 정치 관련 주제가 논의되고 있습니다. 정치인, 정책, 선거 등이 주요 주제입니다.",
+      "topic": "경제",
+      "summary": "경제 관련 주제가 많이 논의되고 있습니다. 특히, 주가와 경제 뉴스에 대한 이야기가 많습니다.",
       "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "한동훈",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 주제에서 많이 언급됩니다."
+    },
+    {
       "keyword": "AI",
-      "count": 20,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "기술 관련 주제에서 많이 언급됩니다."
     },
     {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "주가",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "경제 성장 및 정책"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치인 및 정책"
+      "context": "경제 관련 주제에서 많이 언급됩니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
+      "insight": "정치 관련 주제가 많이 논의되고 있습니다.",
+      "action": "정치 관련 주제에 대한 마케팅 캠페인을 실행합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제는 계속해서 논의될 것입니다.",
-      "action": "경제 및 금융 관련 뉴스를 주시하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
+      "insight": "최신 기술 관련 주제가 많이 논의되고 있습니다.",
+      "action": "최신 기술 관련 주제에 대한 마케팅 캠페인을 실행합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 주제가 많이 논의되고 있습니다.",
+      "action": "경제 관련 주제에 대한 마케팅 캠페인을 실행합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 경제 및 금융 관련 주제가 중심입니다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으며, 비즈니스 기회를 찾기 위해 주시하고 분석하는 것이 중요합니다. 또한, 국가 및 정치 관련 주제도 중요하며, 이를 주시하고 분석하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-08T20:00:33.759Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 주제가 많이 논의되고 있습니다. 특히, 한동훈과 조국후보에 대한 이야기가 많습니다. 또한, 최신 기술 관련 주제가 많이 논의되고 있습니다. 경제 관련 주제도 많이 논의되고 있지만, 중립적인 분위기입니다. 이러한 트렌드를 고려하여 마케팅 캠페인을 실행하는 것이 좋습니다.",
+  "analyzed_at": "2026-05-08T21:30:34.374Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
