@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "김건희 명품백 사건, 임성근 1심 징역 3년, 김현태 전 707특임단장 6·3 재보선 인천 계양을 출마",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아졌다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "삼성전자, 메모리 직원들에게 영업이익 10% 성과급 지급 약속, 쿠팡 2대주주 영국 자산운용사 지분 8천억 탈팡",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "summary": "경제 관련 게시글도 많아졌으며, 특히 반도체 산업과 관련된 글들이 눈에 띄었다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "인공지능 데이터센터 특별법 국회 본회의 통과, 오픈AI 실시간 음성 AI모델 공개",
-      "post_count": 12,
+      "summary": "기술 관련 게시글도 많아졌으며, 특히 AI와 관련된 글들이 많았다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김건희",
+      "keyword": "반도체",
       "count": 5,
-      "sentiment": "negative",
-      "context": "명품백 사건"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "메모리 직원들에게 영업이익 10% 성과급 지급 약속"
-    },
-    {
-      "keyword": "인공지능",
-      "count": 6,
       "sentiment": "positive",
-      "context": "인공지능 데이터센터 특별법 국회 본회의 통과"
+      "context": "반도체 산업의 성장과 관련된 글"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 글"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련된 글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 40,
+    "negative": 10,
+    "neutral": 15,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "인공지능 기술의 발전",
-      "action": "인공지능 기술을 활용한 비즈니스 모델 개발",
+      "insight": "반도체 산업의 성장은 계속될 것",
+      "action": "반도체 산업에 투자",
       "priority": "high"
     },
     {
-      "insight": "경제적 불안정성",
-      "action": "경제적 불안정성에 대한 대비책 마련",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련된 글은 계속해서 증가할 것",
+      "action": "정치 관련된 글을 모니터링",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치, 경제, 기술 등 다양한 주제를 다루고 있습니다. 정치적으로는 김건희 명품백 사건과 임성근 1심 징역 3년이 큰 이슈였습니다. 경제적으로는 삼성전자의 메모리 직원들에게 영업이익 10% 성과급 지급 약속과 쿠팡 2대주주 영국 자산운용사의 지분 8천억 탈팡이 주목을 받았습니다. 기술적으로는 인공지능 데이터센터 특별법의 국회 본회의 통과와 오픈AI의 실시간 음성 AI모델 공개가 큰 관심을 모았습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-08T03:00:34.757Z",
+  "narrative": "클리앙 커뮤니티에서 정치, 경제, 기술 관련된 글들이 많이 올라왔으며, 특히 반도체 산업과 AI 기술 관련된 글들이 눈에 띄었다. 이러한 트렌드는 앞으로도 계속될 것으로 예상되며, 비즈니스적으로는 반도체 산업에 투자하고 AI 기술을 활용한 비즈니스 모델을 개발하는 것이 좋을 것 같다. 또한, 정치 관련된 글을 모니터링하는 것도 중요할 것 같다.",
+  "analyzed_at": "2026-05-08T04:30:34.317Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
