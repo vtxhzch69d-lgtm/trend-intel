@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자가 중국에서 TV와 가전제품 판매를 공식적으로 중단하고, 반도체 사업에 집중하는 등 다양한 뉴스가 보도되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "김용남과 조국에 대한 논란, 20대 우경화, 북진통일 등 정치 관련된 주제가 많이 обсужд되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "주식 시장",
+      "summary": "코스피 상위 종목은 손도 못댄다, 골드만삭스 '코스피 9000 간다…세계서 가장 놀라운 랠리'",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 관련된 기술 뉴스, 예를 들어 Anthropic의 '꿈꾸기' 도입, 구글의 스마트팔찌 신작 등이 보도되고 있습니다.",
+      "topic": "정치",
+      "summary": "한동훈 후원회장 정형근은 이근안한테 김근태 고문하라고 지시한 분이네요, 당원들에게 고민정과 김용남을 선택하라면",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "애플, 카메라 달린 에어팟으로 AI 승부수…개인정보 논란도, 삼성전자, 스마트폰 방열 기술 '테일러 TIM' 확대 적용",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "중국에서 TV와 가전제품 판매 중단"
-    },
-    {
-      "keyword": "김용남",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "정치 관련된 논란"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "코스피",
+      "count": 5,
       "sentiment": "positive",
-      "context": "신기술과 발전"
+      "context": "주식 시장 관련 게시물에서 자주 언급"
+    },
+    {
+      "keyword": "골드만삭스",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "주식 시장 관련 게시물에서 언급"
+    },
+    {
+      "keyword": "한동훈",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "정치 관련 게시물에서 언급"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적이고 다양한 주제가 обсужд되고 있습니다."
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자의 반도체 사업에 대한 관심이 높아지고 있습니다.",
-      "action": "삼성전자와 관련된 뉴스와 트렌드를 계속 모니터링하세요.",
+      "insight": "주식 시장의 상승세가 지속되고 있다",
+      "action": "주식 투자에 대한 관심을 높이자",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술이 발전하고 있습니다.",
-      "action": "AI와 관련된 뉴스와 트렌드를 계속 모니터링하세요.",
+      "insight": "정치 관련 게시물이 증가하고 있다",
+      "action": "정치 관련 게시물에 대한 모니터링을 강화하자",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 관련 게시물이 증가하고 있다",
+      "action": "기술 관련 게시물에 대한 모니터링을 강화하자",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 온라인 커뮤니티에서는 삼성전자와 정치, AI와 기술 관련된 주제가 많이 обсужд되고 있습니다. 삼성전자의 반도체 사업에 대한 관심이 높아지고 있고, 정치 관련된 논란도 많습니다. 또한 AI와 관련된 기술이 발전하고 있어 이를 계속 모니터링하는 것이 중요할 것으로 보입니다. 이러한 트렌드와 뉴스를 분석하여 비즈니스 전략을 수립하는 것이 중요할 것입니다.",
-  "analyzed_at": "2026-05-08T09:00:34.061Z",
+  "narrative": "최근의 트렌드는 주식 시장의 상승세와 정치 관련 게시물의 증가, 기술 관련 게시물의 증가로 특징지을 수 있다. 주식 시장의 상승세는 투자자들의 관심을 끌고 있으며, 정치 관련 게시물의 증가는 정치적인 이슈가 더 많이 논의되고 있음을 의미한다. 기술 관련 게시물의 증가도 기술 산업의 발전에 대한 관심이 증가하고 있음을 의미한다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-05-08T10:30:34.024Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
