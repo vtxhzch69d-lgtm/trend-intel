@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "국민의힘과 정부의 대립, 개헌안 관련 논의",
+      "topic": "삼성전자",
+      "summary": "삼성전자가 중국에서 TV와 가전제품 판매를 공식적으로 중단하고, 반도체 사업에 집중하는 등 다양한 뉴스가 보도되고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식",
-      "summary": "코스피 상승, 주식 시장 동향",
-      "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 로봇, 반도체 관련 뉴스",
+      "topic": "정치",
+      "summary": "김용남과 조국에 대한 논란, 20대 우경화, 북진통일 등 정치 관련된 주제가 많이 обсужд되고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 관련된 기술 뉴스, 예를 들어 Anthropic의 '꿈꾸기' 도입, 구글의 스마트팔찌 신작 등이 보도되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "국민의힘",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 논의"
+      "keyword": "삼성전자",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "중국에서 TV와 가전제품 판매 중단"
     },
     {
-      "keyword": "코스피",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "주식 시장 동향"
+      "keyword": "김용남",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 관련된 논란"
     },
     {
       "keyword": "AI",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "기술 관련 뉴스"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "신기술과 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적이고 다양한 주제가 обсужд되고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "정치 관련 논의가 증가하고 있다",
-      "action": "정치 관련 뉴스와 논의를 주시하여 사업에 영향을 미칠 수 있는 요인을 파악하자",
+      "insight": "삼성전자의 반도체 사업에 대한 관심이 높아지고 있습니다.",
+      "action": "삼성전자와 관련된 뉴스와 트렌드를 계속 모니터링하세요.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장 동향이 호조세를 보이고 있다",
-      "action": "주식 시장 동향을 주시하여 투자 기회를 파악하자",
+      "insight": "AI와 관련된 기술이 발전하고 있습니다.",
+      "action": "AI와 관련된 뉴스와 트렌드를 계속 모니터링하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "기술 관련 뉴스가 증가하고 있다",
-      "action": "기술 관련 뉴스를 주시하여 새로운 사업 기회를 파악하자",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 논의가 증가하고 있다. 국민의힘과 정부의 대립, 개헌안 관련 논의 등이 주를 이루고 있다. 또한, 주식 시장 동향이 호조세를 보이고 있어 투자 기회를 파악하는 것이 중요하다. 기술 관련 뉴스도 증가하고 있어 새로운 사업 기회를 파악하는 것이 필요하다. 중립적인 시각에서 이러한 동향을 주시하여 사업에 영향을 미칠 수 있는 요인을 파악하는 것이 중요하다.",
-  "analyzed_at": "2026-05-08T07:30:33.966Z",
-  "post_count": 61,
+  "narrative": "현재 온라인 커뮤니티에서는 삼성전자와 정치, AI와 기술 관련된 주제가 많이 обсужд되고 있습니다. 삼성전자의 반도체 사업에 대한 관심이 높아지고 있고, 정치 관련된 논란도 많습니다. 또한 AI와 관련된 기술이 발전하고 있어 이를 계속 모니터링하는 것이 중요할 것으로 보입니다. 이러한 트렌드와 뉴스를 분석하여 비즈니스 전략을 수립하는 것이 중요할 것입니다.",
+  "analyzed_at": "2026-05-08T09:00:34.061Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
