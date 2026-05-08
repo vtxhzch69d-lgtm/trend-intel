@@ -1,75 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아졌다.",
-      "post_count": 15,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 게시글입니다. 이 게시글들은 다양한 주제를 다루고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 게시글도 많아졌으며, 특히 반도체 산업과 관련된 글들이 눈에 띄었다.",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "기술 관련 게시글도 많아졌으며, 특히 AI와 관련된 글들이 많았다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "반도체 산업의 성장과 관련된 글"
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "AI",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 글"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련된 글"
+      "keyword": "이슈",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "이슈게시판에서 올라오는 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 15,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 성장은 계속될 것",
-      "action": "반도체 산업에 투자",
+      "insight": "뽐뿌 커뮤니티에서 인기 있는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
-    },
-    {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치 관련된 글은 계속해서 증가할 것",
-      "action": "정치 관련된 글을 모니터링",
-      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치, 경제, 기술 관련된 글들이 많이 올라왔으며, 특히 반도체 산업과 AI 기술 관련된 글들이 눈에 띄었다. 이러한 트렌드는 앞으로도 계속될 것으로 예상되며, 비즈니스적으로는 반도체 산업에 투자하고 AI 기술을 활용한 비즈니스 모델을 개발하는 것이 좋을 것 같다. 또한, 정치 관련된 글을 모니터링하는 것도 중요할 것 같다.",
-  "analyzed_at": "2026-05-08T04:30:34.317Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제의 게시글이 올라오는 커뮤니티입니다. 이 커뮤니티에서 인기 있는 게시글을 분석하면 마케팅 전략을 수립할 수 있습니다. 뽐뿌 커뮤니티의 전체적인 분위기는 중립적입니다. 따라서 마케팅 전략을 수립할 때에는 중립적인 입장을 취하는 것이 좋습니다. 또한, 이슈게시판에서 올라오는 게시글은 주로 부정적인 감정을 포함하고 있으므로, 마케팅 전략을 수립할 때에는 이 점을 고려해야 합니다.",
+  "analyzed_at": "2026-05-08T06:00:33.918Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
