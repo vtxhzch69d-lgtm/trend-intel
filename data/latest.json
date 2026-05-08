@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 및 기술",
-      "summary": "반도체 및 기술 관련 뉴스가 많으며, 삼성전자와 하이닉스의 반도체 생산량 증가, AI 기술의 발전 등이 주목을 받고 있다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스가 많으며, 김용남의 선거 전략, 가짜뉴스 처벌법, 공무원의 간 큰 투자 등이 논란이 되고 있다.",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석이 활발하게 진행되고 있습니다.",
       "post_count": 12,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스가 많으며, 삼성전자와 하이닉스의 반도체 생산량 증가, S&P 500의 상승 등이 주목을 받고 있다.",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 논의되고 있으며, 일부에서는 논쟁이 진행되고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "삼성전자와 하이닉스의 반도체 생산량 증가"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
-      "keyword": "김용남",
-      "count": 5,
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 뉴스와 분석"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "negative",
-      "context": "김용남의 선거 전략"
+      "context": "정치 및 사회 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "반도체 및 기술 관련 뉴스가 많아, 관련 기업의 주가 상승이 예상된다.",
-      "action": "관련 주식 투자",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 주목을 받고 있으므로, 관련 기업의 투자 및 협력이 필요하다.",
-      "action": "AI 기술 관련 투자 및 협력",
+      "insight": "경제 및 금융 시장의 변동",
+      "action": "경제 및 금융 시장의 동향을 주시하고 대응하기",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 및 사회의 영향",
+      "action": "정치 및 사회의 변동에 대응하고 비즈니스 모델을 조정하기",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 반도체 및 기술, 정치 및 사회, 경제 및 금융 관련 뉴스가 많으며, 반도체 및 기술 관련 뉴스가 가장 많다. 김용남의 선거 전략과 가짜뉴스 처벌법이 논란이 되고 있다. 반도체 및 기술 관련 뉴스의 상승으로 관련 기업의 주가 상승이 예상된다. 또한, AI 기술의 발전이 주목을 받고 있으므로, 관련 기업의 투자 및 협력이 필요하다.",
-  "analyzed_at": "2026-05-08T12:30:34.524Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있습니다. 또한, 경제 및 금융 관련 뉴스와 분석이 활발하게 진행되고 있으며, 정치 및 사회 관련 주제도 논의되고 있습니다. 이러한 트렌드에 따라, 비즈니스 모델을 개발하고 시장의 동향을 주시하는 것이 중요합니다. 특히, AI 기술의 발전을 활용한 비즈니스 모델 개발과 경제 및 금융 시장의 동향을 주시하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-08T14:00:33.678Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
