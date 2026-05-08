@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "인공지능 및 기술",
-      "summary": "인공지능 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 특히, 인공지능 보안주권과 관련된 뉴스가 주목을 받고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 논문이 발표되고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 주식",
-      "summary": "인텔 주가 급등과 관련된 주제가 논의되고 있습니다. 또한, 다양한 주식 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 8,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "김용남 의원과 관련된 주제가 논의되고 있습니다. 또한, 다양한 정치 및 사회 관련 뉴스가 주목을 받고 있습니다.",
+      "topic": "삼성전자",
+      "summary": "삼성전자의 반도체 사업과 관련된 뉴스와 분석이 많이 나오고 있습니다. 삼성전자의 반도체 사업은 한국 경제에 큰 영향을 미치고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "인공지능 보안",
+      "summary": "인공지능 보안과 관련된 뉴스와 논문이 많이 나오고 있습니다. 인공지능 보안은 다양한 산업에 큰 영향을 미치고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
@@ -24,49 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "인공지능",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "인공지능 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "주식",
-      "count": 10,
+      "keyword": "AI",
+      "count": 25,
       "sentiment": "positive",
-      "context": "주식 관련 뉴스와 주가 변동"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "김용남",
-      "count": 5,
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "삼성전자의 반도체 사업"
+    },
+    {
+      "keyword": "인공지능 보안",
+      "count": 15,
       "sentiment": "negative",
-      "context": "김용남 의원과 관련된 정치 및 사회 주제"
+      "context": "인공지능 보안의 중요성"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "인공지능 기술의 발전",
-      "action": "인공지능 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동",
-      "action": "주식 시장의 변동을 예측하고 대응하는 전략 개발",
+      "insight": "삼성전자의 반도체 사업",
+      "action": "삼성전자의 반도체 사업을 주시하고 관련된 비즈니스 기회를 찾기",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회의 영향",
-      "action": "정치 및 사회의 영향을 고려한 비즈니스 전략 개발",
-      "priority": "low"
+      "insight": "인공지능 보안",
+      "action": "인공지능 보안을 강화하고 관련된 비즈니스 기회를 찾기",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 인공지능 및 기술, 경제 및 주식, 정치 및 사회의 주제가 주목을 받고 있습니다. 인공지능 기술의 발전과 관련된 주제는 중립적인 분위기를 보이고 있으며, 주식 시장의 변동은 긍정적인 분위기를 보이고 있습니다. 그러나 정치 및 사회의 주제는 부정적인 분위기를 보이고 있습니다. 이러한 트렌드를 고려한 비즈니스 전략 개발이 필요합니다.",
-  "analyzed_at": "2026-05-08T17:00:34.417Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 뉴스와 논문이 많이 나오고 있습니다. 또한, 삼성전자의 반도체 사업과 관련된 뉴스와 분석이 많이 나오고 있습니다. 인공지능 보안과 관련된 뉴스와 논문도 많이 나오고 있습니다. 이러한 트렌드들은 다양한 산업에 큰 영향을 미치고 있습니다. 따라서, 비즈니스 모델 개발과 관련된 기회를 찾고, 삼성전자의 반도체 사업을 주시하고, 인공지능 보안을 강화하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-08T18:30:33.662Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
