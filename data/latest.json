@@ -2,44 +2,44 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 논문이 발표되고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI 보안주권, 홀로그램 기술, 인공지능 데이터센터 특별법 등이 주요 주제입니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 반도체 사업과 관련된 뉴스와 분석이 많이 나오고 있습니다. 삼성전자의 반도체 사업은 한국 경제에 큰 영향을 미치고 있습니다.",
-      "post_count": 8,
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제가 논의되고 있습니다. 주가, 경제 성장, 금융 정책 등이 주요 주제입니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "인공지능 보안",
-      "summary": "인공지능 보안과 관련된 뉴스와 논문이 많이 나오고 있습니다. 인공지능 보안은 다양한 산업에 큰 영향을 미치고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "국가 및 정치",
+      "summary": "국가 및 정치 관련 주제가 논의되고 있습니다. 정치인, 정책, 선거 등이 주요 주제입니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 20,
       "sentiment": "positive",
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "삼성전자",
-      "count": 10,
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "삼성전자의 반도체 사업"
+      "context": "경제 성장 및 정책"
     },
     {
-      "keyword": "인공지능 보안",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "인공지능 보안의 중요성"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치인 및 정책"
     }
   ],
   "sentiment_overview": {
@@ -50,23 +50,18 @@
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 반도체 사업",
-      "action": "삼성전자의 반도체 사업을 주시하고 관련된 비즈니스 기회를 찾기",
+      "insight": "경제 및 금융 관련 주제는 계속해서 논의될 것입니다.",
+      "action": "경제 및 금융 관련 뉴스를 주시하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "인공지능 보안",
-      "action": "인공지능 보안을 강화하고 관련된 비즈니스 기회를 찾기",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 뉴스와 논문이 많이 나오고 있습니다. 또한, 삼성전자의 반도체 사업과 관련된 뉴스와 분석이 많이 나오고 있습니다. 인공지능 보안과 관련된 뉴스와 논문도 많이 나오고 있습니다. 이러한 트렌드들은 다양한 산업에 큰 영향을 미치고 있습니다. 따라서, 비즈니스 모델 개발과 관련된 기회를 찾고, 삼성전자의 반도체 사업을 주시하고, 인공지능 보안을 강화하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-08T18:30:33.662Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 경제 및 금융 관련 주제가 중심입니다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으며, 비즈니스 기회를 찾기 위해 주시하고 분석하는 것이 중요합니다. 또한, 국가 및 정치 관련 주제도 중요하며, 이를 주시하고 분석하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-08T20:00:33.759Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
