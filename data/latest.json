@@ -1,44 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 게시글입니다. 이 게시글들은 다양한 주제를 다루고 있습니다.",
-      "post_count": 100,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "국민의힘과 정부의 대립, 개헌안 관련 논의",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "주식",
+      "summary": "코스피 상승, 주식 시장 동향",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI, 로봇, 반도체 관련 뉴스",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "국민의힘",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 논의"
     },
     {
-      "keyword": "이슈",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "이슈게시판에서 올라오는 게시글"
+      "keyword": "코스피",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "주식 시장 동향"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "뽐뿌 커뮤니티에서 인기 있는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다.",
-      "action": "마케팅 전략 수립",
+      "insight": "정치 관련 논의가 증가하고 있다",
+      "action": "정치 관련 뉴스와 논의를 주시하여 사업에 영향을 미칠 수 있는 요인을 파악하자",
       "priority": "high"
+    },
+    {
+      "insight": "주식 시장 동향이 호조세를 보이고 있다",
+      "action": "주식 시장 동향을 주시하여 투자 기회를 파악하자",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 관련 뉴스가 증가하고 있다",
+      "action": "기술 관련 뉴스를 주시하여 새로운 사업 기회를 파악하자",
+      "priority": "low"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 다양한 주제의 게시글이 올라오는 커뮤니티입니다. 이 커뮤니티에서 인기 있는 게시글을 분석하면 마케팅 전략을 수립할 수 있습니다. 뽐뿌 커뮤니티의 전체적인 분위기는 중립적입니다. 따라서 마케팅 전략을 수립할 때에는 중립적인 입장을 취하는 것이 좋습니다. 또한, 이슈게시판에서 올라오는 게시글은 주로 부정적인 감정을 포함하고 있으므로, 마케팅 전략을 수립할 때에는 이 점을 고려해야 합니다.",
-  "analyzed_at": "2026-05-08T06:00:33.918Z",
-  "post_count": 2,
+  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 논의가 증가하고 있다. 국민의힘과 정부의 대립, 개헌안 관련 논의 등이 주를 이루고 있다. 또한, 주식 시장 동향이 호조세를 보이고 있어 투자 기회를 파악하는 것이 중요하다. 기술 관련 뉴스도 증가하고 있어 새로운 사업 기회를 파악하는 것이 필요하다. 중립적인 시각에서 이러한 동향을 주시하여 사업에 영향을 미칠 수 있는 요인을 파악하는 것이 중요하다.",
+  "analyzed_at": "2026-05-08T07:30:33.966Z",
+  "post_count": 61,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
