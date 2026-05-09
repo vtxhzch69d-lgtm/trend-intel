@@ -2,44 +2,44 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다.",
-      "post_count": 10,
+      "summary": "最近의 정치 뉴스와 이슈에 대한 관심이 높아지고 있습니다. 특히, 민주당과 관련된 뉴스가 많이 등장하고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 관련된 게시글이 많습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "생활",
-      "summary": "일상 생활과 관련된 게시글이 많습니다.",
-      "post_count": 15,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있습니다. 특히, AI와 관련된 뉴스가 많이 등장하고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "最近의 경제 뉴스와 이슈에 대한 관심이 높아지고 있습니다. 특히, 기업과 관련된 뉴스가 많이 등장하고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "선거",
-      "count": 5,
+      "keyword": "민주당",
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치 뉴스와 관련된 키워드"
+      "context": "민주당과 관련된 뉴스와 이슈"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 관련된 키워드"
+      "context": "최신 기술 뉴스와 트렌드"
     },
     {
-      "keyword": "생활",
+      "keyword": "경제",
       "count": 8,
       "sentiment": "neutral",
-      "context": "일상 생활과 관련된 키워드"
+      "context": "最近의 경제 뉴스와 이슈"
     }
   ],
   "sentiment_overview": {
@@ -50,18 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "최신 기술 뉴스와 관련된 게시글이 많습니다.",
-      "action": "최신 기술 뉴스에 대한 마케팅 전략을 수립하세요.",
+      "insight": "최신 기술 트렌드에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 뉴스와 트렌드에 대한 분석을 진행하세요.",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스와 관련된 게시글이 많습니다.",
-      "action": "정치 뉴스에 대한 마케팅 전략을 수립하세요.",
+      "insight": "민주당과 관련된 뉴스와 이슈에 대한 관심이 높아지고 있습니다.",
+      "action": "민주당과 관련된 뉴스와 이슈에 대한 분석을 진행하세요.",
       "priority": "medium"
+    },
+    {
+      "insight": "最近의 경제 뉴스와 이슈에 대한 관심이 높아지고 있습니다.",
+      "action": "最近의 경제 뉴스와 이슈에 대한 분석을 진행하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다. 최신 기술 뉴스와 관련된 게시글도 많습니다. 일상 생활과 관련된 게시글도 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 최신 기술 뉴스에 대한 마케팅 전략을 수립하여 고객의 관심을 끌 수 있습니다. 정치 뉴스에 대한 마케팅 전략을 수립하여 고객의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-05-09T03:30:33.893Z",
+  "narrative": "最近의 정치 뉴스와 이슈에 대한 관심이 높아지고 있습니다. 특히, 민주당과 관련된 뉴스가 많이 등장하고 있습니다. 또한, 최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있습니다. 특히, AI와 관련된 뉴스가 많이 등장하고 있습니다. 최근의 경제 뉴스와 이슈에 대한 관심도 높아지고 있습니다. 이러한 트렌드와 이슈에 대한 분석을 통해 최신 정보를 제공하고, 기업과 관련된 뉴스와 이슈에 대한 분석을 진행하여 기업의 성장과 발전에 기여할 수 있습니다.",
+  "analyzed_at": "2026-05-09T05:00:33.584Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
