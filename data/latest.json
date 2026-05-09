@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남 후보",
-      "summary": "김용남 후보에 대한 논의와 지지 여론이 클리앙 커뮤니티에서 활발하게 진행되고 있다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련된 주제가 논의되고 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "국가검진과 당뇨검사",
-      "summary": "국가검진에서 당뇨검사의 비용이 제각각이라는 문제가 논의되고 있다.",
-      "post_count": 1,
-      "sentiment": "negative",
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스가 논의되고 있다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "low"
-    },
-    {
-      "topic": "애플과 AI",
-      "summary": "애플의 AI 관련 뉴스와 기술 개발이 클리앙 커뮤니티에서 주목을 받고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "김용남",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "김용남 후보에 대한 논의"
-    },
-    {
-      "keyword": "애플",
-      "count": 5,
+      "keyword": "AI",
+      "count": 20,
       "sentiment": "positive",
-      "context": "애플의 AI 관련 뉴스와 기술 개발"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "국가검진",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "국가검진에서 당뇨검사의 비용 문제"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련된 주제"
+    },
+    {
+      "keyword": "기술",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적이며 정보를 공유하고 обсужд하는 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 김용남 후보에 대한 논의가 활발하게 진행되고 있다.",
-      "action": "김용남 후보의 캠페인과 마케팅 전략을 개발할 때 클리앙 커뮤니티의 여론을 고려해야 한다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 이를 활용할 수 있는 방법을 모색한다.",
+      "priority": "high"
+    },
+    {
+      "insight": "정치 관련된 주제는 여론을 형성하는 데 중요한 역할을 한다.",
+      "action": "정치 관련된 주제를 주시하고 이를 활용할 수 있는 방법을 모색한다.",
       "priority": "medium"
     },
     {
-      "insight": "애플의 AI 관련 기술 개발이 클리앙 커뮤니티에서 주목을 받고 있다.",
-      "action": "애플의 AI 관련 제품과 서비스를 개발하고 마케팅할 때 클리앙 커뮤니티의 관심을 고려해야 한다.",
-      "priority": "high"
+      "insight": "최신 기술 뉴스는 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "최신 기술 뉴스를 주시하고 이를 활용할 수 있는 방법을 모색한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 김용남 후보에 대한 논의와 애플의 AI 관련 기술 개발이 주목을 받고 있다. 이러한 주제는 클리앙 커뮤니티의 사용자들이 관심을 가지고 있는 분야이며, 이러한 관심을 고려하여 마케팅 전략을 개발할 수 있다. 또한, 클리앙 커뮤니티의 여론은 중립적이며 정보를 공유하고 обсужд하는 분위기이므로, 마케팅 전략을 개발할 때 이러한 여론을 고려해야 한다.",
-  "analyzed_at": "2026-05-09T12:00:34.833Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 정치 관련된 주제도 논의되고 있으며, 최신 기술 뉴스는 다양한 산업에 영향을 미칠 수 있다. 이러한 트렌드를 주시하고 이를 활용할 수 있는 방법을 모색하는 것이 중요하다. 또한, 여론을 형성하는 데 중요한 역할을 하는 정치 관련된 주제를 주시하고 이를 활용할 수 있는 방법을 모색하는 것도 필요하다. 최신 기술 뉴스를 주시하고 이를 활용할 수 있는 방법을 모색하는 것은 다양한 산업에 영향을 미칠 수 있다.",
+  "analyzed_at": "2026-05-09T13:30:33.708Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
