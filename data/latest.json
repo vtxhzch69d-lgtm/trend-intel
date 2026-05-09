@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "AI와 기술",
-      "summary": "AI의 발전과 기술의 진보가 사회에 미치는 영향",
-      "post_count": 20,
-      "sentiment": "neutral",
+      "topic": "김용남",
+      "summary": "김용남에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다. 그의 정치적 성향과 활동에 대한 의견이 분분하다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치와 사회",
-      "summary": "정치와 사회에 대한 다양한 의견과 논쟁",
-      "post_count": 15,
+      "topic": "조국",
+      "summary": "조국에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다. 그의 정치적 성향과 활동에 대한 의견이 분분하다.",
+      "post_count": 4,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "topic": "경제와 산업",
-      "summary": "경제와 산업의 동향과 발전",
+      "topic": "AI",
+      "summary": "AI 기술에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다. 그의 발전과 미래에 대한 의견이 분분하다.",
       "post_count": 10,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 25,
+      "keyword": "김용남",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "AI의 발전과 기술의 진보"
+      "context": "정치인"
     },
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "정치와 사회에 대한 다양한 의견과 논쟁"
+      "keyword": "조국",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "정치인"
     },
     {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "경제와 산업의 동향과 발전"
+      "context": "기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI와 기술의 발전은 산업의 발전을 가속화할 수 있다",
-      "action": "AI와 기술의 발전을 주시하고 투자할 수 있다",
+      "insight": "클리앙 커뮤니티에서 정치적 논의가 활발하게 진행되고 있다.",
+      "action": "정치적 논의에 대한 분석을 진행한다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회에 대한 다양한 의견과 논쟁은 사회의 발전을 가속화할 수 있다",
-      "action": "정치와 사회에 대한 다양한 의견과 논쟁을 주시하고 참여할 수 있다",
+      "insight": "AI 기술에 대한 관심이 클리앙 커뮤니티에서 높다.",
+      "action": "AI 기술에 대한 분석을 진행한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI와 기술의 발전이 사회에 미치는 영향이 크게 증가하고 있다. 또한, 정치와 사회에 대한 다양한 의견과 논쟁이 사회의 발전을 가속화할 수 있다. 경제와 산업의 동향과 발전도 주목할 만하다. 이러한 트렌드를 주시하고 투자할 수 있다면, 산업의 발전을 가속화할 수 있을 것이다.",
-  "analyzed_at": "2026-05-09T21:00:33.925Z",
-  "post_count": 60,
+  "narrative": "클리앙 커뮤니티에서 정치적 논의가 활발하게 진행되고 있다. 김용남과 조국에 대한 논의가 분분하다. 또한, AI 기술에 대한 관심이 높다. 클리앙 커뮤니티의 사용자들은 정치적 논의와 기술에 대한 관심이 높다. 따라서, 정치적 논의와 기술에 대한 분석을 진행하는 것이 중요하다. 클리앙 커뮤니티의 사용자들은 중립적인 의견을 가지고 있다. 그러나, 일부 사용자들은 정치적 논의에 대한 의견이 분분하다. 따라서, 정치적 논의에 대한 분석을 진행하는 것이 중요하다.",
+  "analyzed_at": "2026-05-09T22:30:33.479Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
