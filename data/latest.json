@@ -2,72 +2,72 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "조국 후보와 단일화, 계엄에 대한 다양한 의견",
+      "summary": "총선과 정치 관련된 게시글이 많습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI, 홀로그램 기술, 로봇 등의 최신 기술에 대한 관심",
-      "post_count": 15,
+      "summary": "최신 기술과 관련된 게시글이 많습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "주식, 경제 뉴스, 기업 동향에 대한 관심",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "사회",
+      "summary": "사회적인 문제와 관련된 게시글이 많습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "총선",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "총선과 관련된 게시글"
+    },
+    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술에 대한 관심"
+      "context": "최신 기술과 관련된 게시글"
     },
     {
-      "keyword": "조국",
-      "count": 5,
+      "keyword": "사회 문제",
+      "count": 8,
       "sentiment": "negative",
-      "context": "정치적인 의견"
-    },
-    {
-      "keyword": "홀로그램",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "최신 기술에 대한 관심"
+      "context": "사회적인 문제와 관련된 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 25,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술에 대한 관심이 높아지고 있다",
-      "action": "최신 기술에 대한 콘텐츠를 제공하여 관심을 유도한다",
+      "insight": "최신 기술에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술에 대한 콘텐츠를 제공하세요.",
       "priority": "high"
     },
     {
-      "insight": "정치적인 의견이 분분하다",
-      "action": "정치적인 의견을 중립적으로 다루어야 한다",
+      "insight": "사회적인 문제에 대한 관심이 높아지고 있습니다.",
+      "action": "사회적인 문제에 대한 콘텐츠를 제공하세요.",
       "priority": "medium"
     },
     {
-      "insight": "경제 뉴스에 대한 관심이 낮다",
-      "action": "경제 뉴스를 더 흥미롭게 다루어야 한다",
+      "insight": "총선과 관련된 관심이 높아지고 있습니다.",
+      "action": "총선과 관련된 콘텐츠를 제공하세요.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 등의 주제에 대한 관심이 높아지고 있다. 특히 최신 기술에 대한 관심이 높아지고 있으며, 조국 후보와 관련된 정치적인 의견이 분분하다. 또한 경제 뉴스에 대한 관심이 낮아져서 더 흥미롭게 다루어야 한다. 이러한 트렌드를 고려하여 콘텐츠를 제공하고, 중립적인 의견을 다루는 것이 중요하다.",
-  "analyzed_at": "2026-05-09T00:30:36.450Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 정치, 기술, 사회적인 문제에 대한 관심이 높아지고 있습니다. 최신 기술에 대한 관심이 특히 높아지고 있으며, 사회적인 문제에 대한 관심도 높아지고 있습니다. 총선과 관련된 관심도 높아지고 있지만, 전체적인 분위기는 중립적인 편입니다. 이러한 트렌드를 고려하여 콘텐츠를 제공하면 효과적인 마케팅을 할 수 있을 것입니다.",
+  "analyzed_at": "2026-05-09T02:00:33.643Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
