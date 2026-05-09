@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남",
-      "summary": "김용남에 대한 논란과 반응",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "김용남 후보",
+      "summary": "김용남 후보에 대한 논의와 지지 및 비판",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "선거",
-      "summary": "선거 중간 관전평과 분석",
-      "post_count": 3,
+      "topic": "경제 및 금융",
+      "summary": "한국 경제와 금융 관련 뉴스 및 분석",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
+      "topic": "기술 및 AI",
+      "summary": "최신 기술 및 AI 관련 뉴스 및 개발",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "김용남",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "김용남 후보에 대한 논의"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
-      "sentiment": "negative",
-      "context": "김용남에 대한 논란"
+      "sentiment": "neutral",
+      "context": "한국 경제 관련 뉴스 및 분석"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 8,
       "sentiment": "positive",
-      "context": "인공지능 기술 발전"
-    },
-    {
-      "keyword": "선거",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "선거 관련 뉴스"
+      "context": "최신 기술 및 AI 관련 뉴스 및 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 25,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "김용남에 대한 논란이 선거에 영향을 미칠 수 있다",
-      "action": "선거 관련 뉴스에 주목",
-      "priority": "high"
+      "insight": "한국 경제 및 금융 관련 뉴스 및 분석",
+      "action": "관련 뉴스 및 분석을 모니터링",
+      "priority": "medium"
     },
     {
-      "insight": "테크 뉴스가 증가하고 있다",
-      "action": "테크 관련 콘텐츠 개발",
-      "priority": "medium"
+      "insight": "최신 기술 및 AI 관련 뉴스 및 개발",
+      "action": "관련 기술 및 개발을 연구",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 김용남에 대한 논란과 선거 관련 뉴스가 주목을 받고 있다. 또한 테크 뉴스가 증가하고 있으며, 이는 미래의 기술 발전에 대한 관심이 높아지고 있음을 나타낸다. 이러한 트렌드를 고려하여 선거와 테크 관련 콘텐츠를 개발하고, 김용남에 대한 논란에 주목하는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-05-09T08:00:33.637Z",
+  "narrative": "최근 클리앙 커뮤니티에서 김용남 후보에 대한 논의와 지지 및 비판이 활발히 이루어지고 있습니다. 또한, 한국 경제 및 금융 관련 뉴스 및 분석이 중립적으로 обсужд되고 있으며, 최신 기술 및 AI 관련 뉴스 및 개발이 긍정적으로 평가되고 있습니다. 이러한 트렌드와 키워드를 분석하여, 관련 뉴스 및 분석을 모니터링하고, 최신 기술 및 개발을 연구하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-09T09:30:33.737Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
