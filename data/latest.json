@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "총선과 정치 관련된 게시글이 많습니다.",
+      "summary": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술과 관련된 게시글이 많습니다.",
+      "summary": "최신 기술 뉴스와 관련된 게시글이 많습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "사회적인 문제와 관련된 게시글이 많습니다.",
+      "topic": "생활",
+      "summary": "일상 생활과 관련된 게시글이 많습니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "총선",
+      "keyword": "선거",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "총선과 관련된 게시글"
+      "sentiment": "negative",
+      "context": "정치 뉴스와 관련된 키워드"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술과 관련된 게시글"
+      "context": "최신 기술 뉴스와 관련된 키워드"
     },
     {
-      "keyword": "사회 문제",
+      "keyword": "생활",
       "count": 8,
-      "sentiment": "negative",
-      "context": "사회적인 문제와 관련된 게시글"
+      "sentiment": "neutral",
+      "context": "일상 생활과 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
-    "neutral": 25,
+    "neutral": 30,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술에 대한 콘텐츠를 제공하세요.",
+      "insight": "최신 기술 뉴스와 관련된 게시글이 많습니다.",
+      "action": "최신 기술 뉴스에 대한 마케팅 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "사회적인 문제에 대한 관심이 높아지고 있습니다.",
-      "action": "사회적인 문제에 대한 콘텐츠를 제공하세요.",
+      "insight": "정치 뉴스와 관련된 게시글이 많습니다.",
+      "action": "정치 뉴스에 대한 마케팅 전략을 수립하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "총선과 관련된 관심이 높아지고 있습니다.",
-      "action": "총선과 관련된 콘텐츠를 제공하세요.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 사회적인 문제에 대한 관심이 높아지고 있습니다. 최신 기술에 대한 관심이 특히 높아지고 있으며, 사회적인 문제에 대한 관심도 높아지고 있습니다. 총선과 관련된 관심도 높아지고 있지만, 전체적인 분위기는 중립적인 편입니다. 이러한 트렌드를 고려하여 콘텐츠를 제공하면 효과적인 마케팅을 할 수 있을 것입니다.",
-  "analyzed_at": "2026-05-09T02:00:33.643Z",
+  "narrative": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다. 최신 기술 뉴스와 관련된 게시글도 많습니다. 일상 생활과 관련된 게시글도 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 최신 기술 뉴스에 대한 마케팅 전략을 수립하여 고객의 관심을 끌 수 있습니다. 정치 뉴스에 대한 마케팅 전략을 수립하여 고객의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-05-09T03:30:33.893Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
