@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 애플의 AI 허위광고 비판, 애플의 인텔서 칩 생산 예비합의, 오픈AI의 챗GPT에 광고 도입 등이 포함됩니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많이 올라왔습니다. 특히 오세훈과 김용남 전의원에 대한 게시글이 인기가 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 주제가 논의되고 있습니다. 조국의 시간 위에 민주당의 역사를 얹다, 김어준, 유시민 공격하던 메모들이 선거때 되니까 조국 까고 있네요 등이 포함됩니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI",
+      "summary": "AI 관련 기술과 뉴스에 대한 게시글이 많이 올라왔습니다. 특히 애플과 삼성의 AI 관련 소식이 인기가 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "테크 관련된 주제가 논의되고 있습니다. 스마트폰 시장 매출 8% 성장, 판매량은 감소했으나 프리미엄화로 매출 ↑, 파이어폭스, '미소스' 투입 한달 만에 보안 버그 271개 수정 등이 포함됩니다.",
-      "post_count": 12,
+      "topic": "게임",
+      "summary": "게임 관련 게시글이 몇 개 올라왔습니다. 특히 플스4 프로와 게임 소식에 대한 게시글이 인기가 있습니다.",
+      "post_count": 2,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "keyword": "오세훈",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "오세훈에 대한 비판적인 게시글이 많이 올라왔습니다."
     },
     {
-      "keyword": "애플",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "애플의 AI 허위광고 비판, 애플의 인텔서 칩 생산 예비합의"
+      "context": "AI 관련 기술과 뉴스에 대한 게시글이 많이 올라왔습니다."
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련된 주제"
+      "keyword": "삼성",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼성의 AI 관련 소식과 기술에 대한 게시글이 인기가 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "중립적인 감정이 대부분이지만, 일부에서는 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 필요합니다.",
+      "insight": "AI 기술은 최근 클리앙 커뮤니티에서 큰 관심을 받고 있습니다.",
+      "action": "AI 관련 기술과 뉴스를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 주제는 항상 논의되고 있습니다.",
-      "action": "정치 관련된 주제를 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 필요합니다.",
+      "insight": "정치 관련 게시글은 최근 클리앙 커뮤니티에서 많이 올라왔습니다.",
+      "action": "정치 관련 뉴스와 정보를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 애플의 AI 허위광고 비판, 애플의 인텔서 칩 생산 예비합의, 오픈AI의 챗GPT에 광고 도입 등이 포함됩니다. 또한, 정치 관련된 주제도 논의되고 있습니다. 조국의 시간 위에 민주당의 역사를 얹다, 김어준, 유시민 공격하던 메모들이 선거때 되니까 조국 까고 있네요 등이 포함됩니다. 테크 관련된 주제도 논의되고 있습니다. 스마트폰 시장 매출 8% 성장, 판매량은 감소했으나 프리미엄화로 매출 ↑, 파이어폭스, '미소스' 투입 한달 만에 보안 버그 271개 수정 등이 포함됩니다. 이러한 트렌드는 비즈니스 모델을 개선하는 데 도움이 될 것입니다.",
-  "analyzed_at": "2026-05-09T15:00:35.014Z",
-  "post_count": 62,
+  "narrative": "최근 클리앙 커뮤니티에서는 정치와 AI 관련 게시글이 많이 올라왔습니다. 특히 오세훈과 김용남 전의원에 대한 게시글이 인기가 있습니다. 또한 AI 관련 기술과 뉴스에 대한 게시글이 많이 올라왔습니다. 이러한 트렌드를 통해 사용자들의 관심을 끌 수 있는 콘텐츠를 제공할 수 있습니다. 또한, 사용자들의 감정과 관심을 분석하여 더 나은 서비스를 제공할 수 있습니다.",
+  "analyzed_at": "2026-05-09T16:30:34.045Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
