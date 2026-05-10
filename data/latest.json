@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 게시글이 많아 정치적인 주제가 트렌드에 있는 것으로 보임",
+      "summary": "정치 관련 게시글이 많은 것으로 나타났습니다. 조국, 김용남, 정의당 등이 주요 키워드로 등장했습니다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련 게시글이 많아 기술적인 주제가 트렌드에 있는 것으로 보임",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
+      "topic": "기술",
+      "summary": "기술 관련 게시글이 많았습니다. AI, 스마트폰, 로봇 등이 주요 키워드로 등장했습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
       "topic": "교육",
-      "summary": "교육 관련 게시글이 많아 교육적인 주제가 트렌드에 있는 것으로 보임",
+      "summary": "교육 관련 게시글이 많았습니다. 교사, 학생, 교육제도 등이 주요 키워드로 등장했습니다.",
       "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,49 +24,44 @@
   ],
   "keywords": [
     {
+      "keyword": "조국",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 게시글에서 등장했습니다."
+    },
+    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 관련 키워드"
+      "context": "기술 관련 게시글에서 등장했습니다."
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 키워드"
-    },
-    {
-      "keyword": "교육",
-      "count": 5,
+      "keyword": "교사",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "교육 관련 키워드"
+      "context": "교육 관련 게시글에서 등장했습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 15,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술에 대한 관심이 높아",
-      "action": "최신 기술 관련 콘텐츠 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "정치적인 주제가 트렌드에 있는 것으로 보임",
-      "action": "정치적인 주제에 대한 콘텐츠 개발",
+      "insight": "정치 관련 게시글이 많은 것으로 나타났습니다.",
+      "action": "정치 관련 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킵니다.",
       "priority": "medium"
     },
     {
-      "insight": "교육적인 주제가 트렌드에 있는 것으로 보임",
-      "action": "교육적인 주제에 대한 콘텐츠 개발",
+      "insight": "기술 관련 게시글이 많았습니다.",
+      "action": "기술 관련 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킵니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적인 주제와 최신 기술에 대한 관심이 높아지고 있는 것으로 보임. 또한, 교육적인 주제도 트렌드에 있는 것으로 보임. 이러한 트렌드를 반영하여 콘텐츠를 개발하여 사용자에게 제공할 수 있을 것으로 보임. 또한, 최신 기술에 대한 관심이 높아지므로, 최신 기술 관련 콘텐츠 개발에 우선순위를 두어야 할 것으로 보임.",
-  "analyzed_at": "2026-05-10T04:30:33.689Z",
+  "narrative": "최근의 트렌드는 정치와 기술 관련 게시글이 많았습니다. 사용자들은 정치와 기술에 대한 관심이 높아졌으며, 교육 관련 게시글도 일부 등장했습니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하고 사용자와의 상호작용을 증가시킴으로써 마케팅 효과를 높일 수 있을 것입니다. 또한, 사용자들의 감정과 우려를 이해하고 이를 해결하는 콘텐츠를 생성하여 사용자와의 신뢰를 높일 수 있을 것입니다.",
+  "analyzed_at": "2026-05-10T06:00:33.872Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
