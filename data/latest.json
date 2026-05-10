@@ -1,70 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 보안 문제가 주요 관심사입니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 의견을 공유하고 토론합니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "국제 관계",
-      "summary": "국제 관계와 정치적 문제가 주요 관심사입니다. 미국, 이란, 파키스탄 등의 국가들이 언급됩니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제와 금융 관련 문제가 주요 관심사입니다. 수안보, 휘발유값, 초과세수 등이 언급됩니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 다양한 기술 주제에 대해 의견을 공유하고 토론합니다.",
+      "post_count": 50,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
+      "keyword": "일상생활",
+      "count": 50,
       "sentiment": "neutral",
-      "context": "AI 기술의 발전과 보안 문제"
+      "context": "뽐뿌 커뮤니티에서 인기 있는 주제"
     },
     {
-      "keyword": "미국",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "국제 관계와 정치적 문제"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제와 금융 관련 문제"
+      "keyword": "기술",
+      "count": 30,
+      "sentiment": "positive",
+      "context": "클리앙 커뮤니티에서 인기 있는 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
+    "positive": 40,
+    "negative": 20,
+    "neutral": 40,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고 산업에 적용할 수 있는 방법을 연구합니다.",
+      "insight": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "국제 관계와 정치적 문제는 경제와 금융에 영향을 미칠 수 있습니다.",
-      "action": "국제 관계와 정치적 문제를 주시하고 경제와 금융에 미치는 영향을 분석합니다.",
+      "insight": "커뮤니티 사용자들의 의견과 토론을 분석하여 제품 개발과 서비스 개선에 활용할 수 있습니다.",
+      "action": "제품 개발과 서비스 개선",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 보안 문제, 국제 관계와 정치적 문제, 경제와 금융 관련 문제가 주요 관심사입니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다. 국제 관계와 정치적 문제는 경제와 금융에 영향을 미칠 수 있습니다. 따라서 이러한 트렌드를 주시하고 산업에 적용할 수 있는 방법을 연구하는 것이 중요합니다. 또한, 국제 관계와 정치적 문제를 주시하고 경제와 금융에 미치는 영향을 분석하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-10T18:00:34.020Z",
-  "post_count": 62,
+  "narrative": "뽐뿌와 클리앙 커뮤니티는 한국 온라인 커뮤니티의 대표적인 플랫폼입니다. 이 커뮤니티에서 인기 있는 주제와 키워드를 분석하여 마케팅 전략을 수립하고 제품 개발과 서비스 개선에 활용할 수 있습니다. 또한, 커뮤니티 사용자들의 의견과 토론을 분석하여 고객의 니즈를 이해하고 만족도를 높일 수 있습니다. 이러한 분석 결과를 바탕으로 기업은 고객 중심의 마케팅 전략을 수립하고 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-05-10T19:30:34.433Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
