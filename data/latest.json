@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 게시글이 많은 것으로 나타났습니다. 조국, 김용남, 정의당 등이 주요 키워드로 등장했습니다.",
-      "post_count": 15,
+      "summary": "국민의힘 서울 은평구청장 선거와 김용남에 대한 논의가 활발합니다. 또한, 조국과 관련된 뉴스도 관심을 끌고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "기술 관련 게시글이 많았습니다. AI, 스마트폰, 로봇 등이 주요 키워드로 등장했습니다.",
+      "summary": "애플, 삼성전자, 구글 등 기술 회사들의 최신 뉴스와 개발이 обсужд되고 있습니다. 특히, AI와 관련된 기술이 주목을 받고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     },
     {
       "topic": "교육",
-      "summary": "교육 관련 게시글이 많았습니다. 교사, 학생, 교육제도 등이 주요 키워드로 등장했습니다.",
+      "summary": "교육과정과 교육감에 대한 논의가 이루어지고 있습니다. 또한, 교사에 대한 아동학대법 개선도 관심을 끌고 있습니다.",
       "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,44 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "조국",
+      "keyword": "김용남",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 관련 게시글에서 등장했습니다."
+      "context": "김용남에 대한 비판적인 의견이 있습니다."
     },
     {
-      "keyword": "AI",
+      "keyword": "조국",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "조국에 대한 의견이 분분합니다."
+    },
+    {
+      "keyword": "애플",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 게시글에서 등장했습니다."
-    },
-    {
-      "keyword": "교사",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "교육 관련 게시글에서 등장했습니다."
+      "context": "애플의 최신 기술과 제품이 관심을 끌고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 게시글이 많은 것으로 나타났습니다.",
-      "action": "정치 관련 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킵니다.",
-      "priority": "medium"
+      "insight": "기술 компании들은 AI와 관련된 개발에 집중해야 합니다.",
+      "action": "AI 관련 기술 개발 투자",
+      "priority": "high"
     },
     {
-      "insight": "기술 관련 게시글이 많았습니다.",
-      "action": "기술 관련 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킵니다.",
-      "priority": "low"
+      "insight": "교육 관련 회사들은 교육과정과 교육감에 대한 논의에 관심을 가져야 합니다.",
+      "action": "교육 관련 정책 모니터링",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술 관련 게시글이 많았습니다. 사용자들은 정치와 기술에 대한 관심이 높아졌으며, 교육 관련 게시글도 일부 등장했습니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하고 사용자와의 상호작용을 증가시킴으로써 마케팅 효과를 높일 수 있을 것입니다. 또한, 사용자들의 감정과 우려를 이해하고 이를 해결하는 콘텐츠를 생성하여 사용자와의 신뢰를 높일 수 있을 것입니다.",
-  "analyzed_at": "2026-05-10T06:00:33.872Z",
+  "narrative": "최근의 트렌드는 정치와 기술 분야에서 활발한 논의가 이루어지고 있습니다. 특히, 김용남과 조국에 대한 논의가 관심을 끌고 있습니다. 또한, 애플과 삼성전자 등 기술 회사들의 최신 뉴스와 개발이 обсужд되고 있습니다. 교육 분야에서는 교육과정과 교육감에 대한 논의가 이루어지고 있습니다. 중립적인 분위기에서 기술 회사들은 AI와 관련된 개발에 집중해야 하며, 교육 관련 회사들은 교육 관련 정책을 모니터링해야 합니다.",
+  "analyzed_at": "2026-05-10T07:30:34.976Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
