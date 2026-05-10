@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 다양한 정치 뉴스",
-      "post_count": 10,
+      "topic": "정치 및 사회",
+      "summary": "최근 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 정치인들의 발언과 행동에 대한 논란이 많습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 트렌드",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 개발이 많은 관심을 받고 있습니다. 특히, AI와 로봇 기술에 대한 관심이 많습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 시장 동향",
-      "post_count": 15,
+      "topic": "경제 및 금융",
+      "summary": "최근 경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 주식 시장과 경제 성장에 대한 관심이 많습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 뉴스"
-    },
-    {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "테크 뉴스"
+      "context": "최신 기술 및 과학 관련 뉴스와 개발"
     },
     {
-      "keyword": "경제",
+      "keyword": "정치",
       "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 및 사회 관련 뉴스와 이슈"
+    },
+    {
+      "keyword": "주식",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "context": "경제 및 금융 관련 뉴스와 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 뉴스는 여전히 많은 관심을 받고 있다",
-      "action": "정치 뉴스에 대한 분석을 강화",
+      "insight": "최신 기술 및 과학 관련 뉴스와 개발에 대한 관심이 많습니다.",
+      "action": "최신 기술 및 과학 관련 뉴스와 개발에 대한 콘텐츠를 제공합니다.",
       "priority": "high"
     },
     {
-      "insight": "테크 뉴스는 긍정적인 반응을 보이고 있다",
-      "action": "테크 뉴스에 대한 분석을 강화",
+      "insight": "정치 및 사회 관련 뉴스와 이슈에 대한 관심이 많습니다.",
+      "action": "정치 및 사회 관련 뉴스와 이슈에 대한 콘텐츠를 제공합니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 뉴스는 중립적인 반응을 보이고 있다",
-      "action": "경제 뉴스에 대한 분석을 유지",
-      "priority": "low"
+      "insight": "경제 및 금융 관련 뉴스와 이슈에 대한 관심이 많습니다.",
+      "action": "경제 및 금융 관련 뉴스와 이슈에 대한 콘텐츠를 제공합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치 뉴스는 많은 관심을 받고 있으며, 테크 뉴스는 긍정적인 반응을 보이고 있다. 경제 뉴스는 중립적인 반응을 보이고 있다. 이러한 트렌드는 마케팅 전략에 반영되어야 한다. 또한, 이재명 대통령과 관련된 뉴스는 많은 관심을 받고 있으므로, 관련된 분석을 강화해야 한다. 테크 뉴스에 대한 분석도 강화되어야 한다. 경제 뉴스에 대한 분석은 유지되어야 한다.",
-  "analyzed_at": "2026-05-10T10:30:33.542Z",
+  "narrative": "최근 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 정치인들의 발언과 행동에 대한 논란이 많습니다. 또한, 최신 기술 및 과학 관련 뉴스와 개발이 많은 관심을 받고 있습니다. 특히, AI와 로봇 기술에 대한 관심이 많습니다. 경제 및 금융 관련 뉴스와 이슈에도 많은 관심이 있습니다. 이러한 관심을 반영하여 콘텐츠를 제공하는 것이 중요합니다. 최신 기술 및 과학 관련 뉴스와 개발에 대한 콘텐츠를 제공하여 많은 관심을 받을 수 있습니다. 또한, 정치 및 사회 관련 뉴스와 이슈에 대한 콘텐츠를 제공하여 많은 관심을 받을 수 있습니다. 경제 및 금융 관련 뉴스와 이슈에 대한 콘텐츠를 제공하여 많은 관심을 받을 수 있습니다.",
+  "analyzed_at": "2026-05-10T12:00:34.446Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
