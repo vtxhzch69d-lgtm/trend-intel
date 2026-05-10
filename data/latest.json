@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 보안 문제가 주목받고 있다. 다양한 산업에서 AI의 적용이 증가하고 있으며, 이를 통해 새로운 비즈니스 기회가 창출되고 있다.",
+      "summary": "AI 기술의 발전과 보안 문제가 주요 관심사입니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "스마트폰 시장",
-      "summary": "스마트폰 시장의 매출은 증가하고 있지만, 판매량은 감소하고 있다. 프리미엄화로 매출이 증가하고 있으며, 새로운 기술의 적용이 예상된다.",
-      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "국제 관계",
-      "summary": "국제 관계에서 다양한 문제가 발생하고 있다. 미국과 이란의 관계, 한국과 일본의 관계 등이 주목받고 있다.",
-      "post_count": 10,
+      "summary": "국제 관계와 정치적 문제가 주요 관심사입니다. 미국, 이란, 파키스탄 등의 국가들이 언급됩니다.",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제와 금융 관련 문제가 주요 관심사입니다. 수안보, 휘발유값, 초과세수 등이 언급됩니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
+      "count": 20,
+      "sentiment": "neutral",
       "context": "AI 기술의 발전과 보안 문제"
     },
     {
-      "keyword": "스마트폰",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "스마트폰 시장의 매출과 판매량"
+      "keyword": "미국",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "국제 관계와 정치적 문제"
     },
     {
-      "keyword": "국제 관계",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "국제 관계에서 다양한 문제"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제와 금융 관련 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 20,
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 적용하여 새로운 비즈니스 기회를 창출",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고 산업에 적용할 수 있는 방법을 연구합니다.",
       "priority": "high"
     },
     {
-      "insight": "스마트폰 시장의 변화",
-      "action": "스마트폰 시장의 변화에 대응하여 새로운 전략을 수립",
+      "insight": "국제 관계와 정치적 문제는 경제와 금융에 영향을 미칠 수 있습니다.",
+      "action": "국제 관계와 정치적 문제를 주시하고 경제와 금융에 미치는 영향을 분석합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "국제 관계의 불안정성",
-      "action": "국제 관계의 불안정성에 대응하여 위험을 관리",
-      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 보안 문제, 스마트폰 시장의 변화, 국제 관계의 불안정성 등이다. 이러한 트렌드에 대응하여 새로운 비즈니스 기회를 창출하고, 위험을 관리하는 것이 중요하다. 또한, 국제 관계의 불안정성에 대응하여 위험을 관리하는 것이 필요하다. 이러한 트렌드에 대응하여 적절한 전략을 수립하고, 실행하여 성공을 달성할 수 있을 것이다.",
-  "analyzed_at": "2026-05-10T16:30:33.868Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 보안 문제, 국제 관계와 정치적 문제, 경제와 금융 관련 문제가 주요 관심사입니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다. 국제 관계와 정치적 문제는 경제와 금융에 영향을 미칠 수 있습니다. 따라서 이러한 트렌드를 주시하고 산업에 적용할 수 있는 방법을 연구하는 것이 중요합니다. 또한, 국제 관계와 정치적 문제를 주시하고 경제와 금융에 미치는 영향을 분석하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-10T18:00:34.020Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
