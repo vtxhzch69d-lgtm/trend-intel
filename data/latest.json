@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 보안 문제에 대한 관심이 높아지고 있다. 다양한 산업에서 AI의 적용이 증가하고 있으며, 이를 위한 보안 대책이 필요하다.",
+      "summary": "AI 기술의 발전과 보안 문제가 주목받고 있다. 다양한 산업에서 AI의 적용이 증가하고 있으며, 이를 통해 새로운 비즈니스 기회가 창출되고 있다.",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스가 많이 등장하고 있다. 특히, 주식 시장과 경제 성장에 대한 관심이 높아지고 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "스마트폰 시장",
+      "summary": "스마트폰 시장의 매출은 증가하고 있지만, 판매량은 감소하고 있다. 프리미엄화로 매출이 증가하고 있으며, 새로운 기술의 적용이 예상된다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 뉴스가 많이 등장하고 있다. 특히, 스마트폰 시장과 신기술 개발에 대한 관심이 높아지고 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "국제 관계",
+      "summary": "국제 관계에서 다양한 문제가 발생하고 있다. 미국과 이란의 관계, 한국과 일본의 관계 등이 주목받고 있다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
+      "count": 25,
+      "sentiment": "positive",
       "context": "AI 기술의 발전과 보안 문제"
     },
     {
-      "keyword": "주식",
+      "keyword": "스마트폰",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "주식 시장과 경제 성장"
+      "sentiment": "neutral",
+      "context": "스마트폰 시장의 매출과 판매량"
     },
     {
-      "keyword": "스마트폰",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "스마트폰 시장과 신기술 개발"
+      "keyword": "국제 관계",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "국제 관계에서 다양한 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
+    "positive": 30,
+    "negative": 25,
     "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 보안 문제에 대한 관심이 높아지고 있다.",
-      "action": "AI 기술의 발전과 보안 문제에 대한 대책을 마련해야 한다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 적용하여 새로운 비즈니스 기회를 창출",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스가 많이 등장하고 있다.",
-      "action": "경제 및 금융 관련 뉴스를 주시하고, 이를 통해 시장 동향을 파악해야 한다.",
+      "insight": "스마트폰 시장의 변화",
+      "action": "스마트폰 시장의 변화에 대응하여 새로운 전략을 수립",
       "priority": "medium"
     },
     {
-      "insight": "기술 및 과학 관련 뉴스가 많이 등장하고 있다.",
-      "action": "기술 및 과학 관련 뉴스를 주시하고, 이를 통해 신기술 개발을 발굴해야 한다.",
-      "priority": "low"
+      "insight": "국제 관계의 불안정성",
+      "action": "국제 관계의 불안정성에 대응하여 위험을 관리",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 보안 문제에 대한 관심이 높아지고 있다. 또한, 경제 및 금융 관련 뉴스가 많이 등장하고 있으며, 기술 및 과학 관련 뉴스도 많이 등장하고 있다. 이러한 트렌드에 대한 분석을 통해, 기업은 시장 동향을 파악하고, 이를 통해 신기술 개발과 보안 대책을 마련해야 한다. 또한, 경제 및 금융 관련 뉴스를 주시하고, 이를 통해 시장 동향을 파악해야 한다. 이러한 분석 결과를 통해, 기업은 시장의 변화를 예측하고, 이를 통해 경쟁력을 강화할 수 있을 것이다.",
-  "analyzed_at": "2026-05-10T15:00:34.464Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 보안 문제, 스마트폰 시장의 변화, 국제 관계의 불안정성 등이다. 이러한 트렌드에 대응하여 새로운 비즈니스 기회를 창출하고, 위험을 관리하는 것이 중요하다. 또한, 국제 관계의 불안정성에 대응하여 위험을 관리하는 것이 필요하다. 이러한 트렌드에 대응하여 적절한 전략을 수립하고, 실행하여 성공을 달성할 수 있을 것이다.",
+  "analyzed_at": "2026-05-10T16:30:33.868Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
