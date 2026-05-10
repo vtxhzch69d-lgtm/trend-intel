@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "초과세수 35조 예측, 민생지원금 또 주겠다는 의견이 제기되고 있습니다. 또한, 박지원의 내각제 추진과 관련된 논의가 진행 중입니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 보안 문제에 대한 관심이 높아지고 있다. 다양한 산업에서 AI의 적용이 증가하고 있으며, 이를 위한 보안 대책이 필요하다.",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스가 많이 등장하고 있다. 특히, 주식 시장과 경제 성장에 대한 관심이 높아지고 있다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "기술 및 과학",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스가 발표되고 있습니다. 애플의 AI 허위광고 비판과 나노입자의 역설 규명 등이 포함됩니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "사회 및 문화",
-      "summary": "여러 가지 사회 및 문화 관련 주제가 논의되고 있습니다. 레알 마드리드와 바르사의 경기 결과와 넷플릭스 기리고 후기 등이 포함됩니다.",
+      "summary": "기술 및 과학 관련 뉴스가 많이 등장하고 있다. 특히, 스마트폰 시장과 신기술 개발에 대한 관심이 높아지고 있다.",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -26,42 +26,47 @@
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스"
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 보안 문제"
     },
     {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "초과세수 35조 예측과 민생지원금 관련 논의"
-    },
-    {
-      "keyword": "정치",
+      "keyword": "주식",
       "count": 10,
-      "sentiment": "negative",
-      "context": "박지원의 내각제 추진과 관련된 논의"
+      "sentiment": "mixed",
+      "context": "주식 시장과 경제 성장"
+    },
+    {
+      "keyword": "스마트폰",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "스마트폰 시장과 신기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 방안을 모색하세요.",
+      "insight": "AI 기술의 발전과 보안 문제에 대한 관심이 높아지고 있다.",
+      "action": "AI 기술의 발전과 보안 문제에 대한 대책을 마련해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스는 소비자의 구매 결정에 영향을 미칠 수 있습니다.",
-      "action": "경제 및 정치 관련 뉴스를 주시하고, 이를 고려하여 마케팅 전략을 수립하세요.",
+      "insight": "경제 및 금융 관련 뉴스가 많이 등장하고 있다.",
+      "action": "경제 및 금융 관련 뉴스를 주시하고, 이를 통해 시장 동향을 파악해야 한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "기술 및 과학 관련 뉴스가 많이 등장하고 있다.",
+      "action": "기술 및 과학 관련 뉴스를 주시하고, 이를 통해 신기술 개발을 발굴해야 한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 경제 및 정치 관련 뉴스가 주목을 끌고 있습니다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으며, 비즈니스 모델을 개선하고 마케팅 전략을 수립하는 데 중요한 참고자료가 될 수 있습니다. 따라서, 이러한 트렌드를 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 방안을 모색하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-10T13:30:34.307Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 보안 문제에 대한 관심이 높아지고 있다. 또한, 경제 및 금융 관련 뉴스가 많이 등장하고 있으며, 기술 및 과학 관련 뉴스도 많이 등장하고 있다. 이러한 트렌드에 대한 분석을 통해, 기업은 시장 동향을 파악하고, 이를 통해 신기술 개발과 보안 대책을 마련해야 한다. 또한, 경제 및 금융 관련 뉴스를 주시하고, 이를 통해 시장 동향을 파악해야 한다. 이러한 분석 결과를 통해, 기업은 시장의 변화를 예측하고, 이를 통해 경쟁력을 강화할 수 있을 것이다.",
+  "analyzed_at": "2026-05-10T15:00:34.464Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
