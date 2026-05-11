@@ -1,108 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식",
-      "summary": "주식 투자와 관련된 다양한 주제가 논의되고 있다.",
+      "topic": "주식 시장",
+      "summary": "코스피 1년간 상승률 200% 달성, 삼전닉스 비싸서 주저하는 분들에게, 주식 5~10년 이상 장기투자하는 사람들 특징",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 다양한 주제가 논의되고 있다.",
-      "post_count": 8,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제와 관련된 다양한 주제가 논의되고 있다.",
+      "topic": "AI 기술",
+      "summary": "AI발전과 로봇의 업무환경을 생각해보니, AI가 생각하는 지금의 주식시장 만평, 챗GPT '안심 연락처' 기능 도입",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 뉴스",
+      "summary": "한국 항공우주산업과 미래 항공 모빌리티 개발 업무협약 체결, 낸드 현물가 한 달 새 40% 급락",
       "post_count": 6,
       "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치와 관련된 다양한 주제가 논의되고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "기술과 관련된 다양한 주제가 논의되고 있다.",
-      "post_count": 4,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "주식 투자와 관련된 키워드"
+      "sentiment": "positive",
+      "context": "코스피 1년간 상승률 200% 달성"
     },
     {
       "keyword": "AI",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 키워드"
+      "sentiment": "neutral",
+      "context": "AI발전과 로봇의 업무환경을 생각해보니"
     },
     {
       "keyword": "경제",
       "count": 8,
       "sentiment": "negative",
-      "context": "경제와 관련된 키워드"
-    },
-    {
-      "keyword": "정치",
-      "count": 6,
-      "sentiment": "negative",
-      "context": "정치와 관련된 키워드"
-    },
-    {
-      "keyword": "기술",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "기술과 관련된 키워드"
+      "context": "낸드 현물가 한 달 새 40% 급락"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 투자와 관련된 주제가 많이 논의되고 있다.",
-      "action": "주식 투자와 관련된 콘텐츠를 제공한다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술과 관련된 주제가 많이 논의되고 있다.",
-      "action": "AI 기술과 관련된 콘텐츠를 제공한다.",
+      "insight": "주식 시장의 상승세가 지속되고 있다.",
+      "action": "주식 투자에 대한 관심을 높이자.",
       "priority": "high"
     },
     {
-      "insight": "경제와 관련된 주제가 많이 논의되고 있다.",
-      "action": "경제와 관련된 콘텐츠를 제공한다.",
+      "insight": "AI 기술의 발전이 로봇의 업무환경에 영향을 미치고 있다.",
+      "action": "AI 기술의 발전을 주시하고, 로봇의 업무환경에 대한 연구를 진행하자.",
       "priority": "medium"
     },
     {
-      "insight": "정치와 관련된 주제가 많이 논의되고 있다.",
-      "action": "정치와 관련된 콘텐츠를 제공한다.",
-      "priority": "high"
-    },
-    {
-      "insight": "기술과 관련된 주제가 많이 논의되고 있다.",
-      "action": "기술과 관련된 콘텐츠를 제공한다.",
-      "priority": "medium"
+      "insight": "경제 뉴스의 부정적 기사가 증가하고 있다.",
+      "action": "경제 뉴스를 주시하고, 부정적 기사에 대한 대응을 준비하자.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드에 따르면, 주식 투자와 관련된 주제가 많이 논의되고 있다. 또한, AI 기술과 관련된 주제도 많이 논의되고 있다. 경제와 정치와 관련된 주제도 많이 논의되고 있다. 기술과 관련된 주제도 많이 논의되고 있다. 이러한 트렌드에 따라, 주식 투자와 관련된 콘텐츠를 제공하고, AI 기술과 관련된 콘텐츠를 제공하는 것이 중요하다. 또한, 경제와 정치와 관련된 콘텐츠를 제공하고, 기술과 관련된 콘텐츠를 제공하는 것도 중요하다.",
-  "analyzed_at": "2026-05-11T04:00:33.874Z",
+  "narrative": "최근의 주식 시장은 상승세를 보이고 있으며, 삼전닉스와 같은 주식에 대한 관심이 높아지고 있다. 또한, AI 기술의 발전이 로봇의 업무환경에 영향을 미치고 있으며, 챗GPT와 같은 AI 기술의 적용이 증가하고 있다. 그러나, 경제 뉴스의 부정적 기사가 증가하고 있으며, 낸드 현물가의 급락과 같은 경제적 불안정성이 존재한다. 이러한 상황에서, 주식 투자에 대한 관심을 높이고, AI 기술의 발전을 주시하며, 경제 뉴스를 주시하는 것이 중요하다.",
+  "analyzed_at": "2026-05-11T05:30:34.093Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
