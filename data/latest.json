@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "이재명 정부와 조국에 대한 논의, 경제 성장률 예상, 국제유가의 영향 등",
-      "post_count": 15,
+      "topic": "남북관계",
+      "summary": "남북관계와 관련된 다양한 주제들이 논의되고 있습니다. 남북관계의 현황과 미래에 대한 의견이 분분합니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "AI 기술의 발전, 반도체 산업의 동향, 6G 기술의 개발 등",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "교육 관련 논의, 마누스 환불 논의, 카카오톡의 SNS화 등",
-      "post_count": 10,
+      "topic": "경제",
+      "summary": "경제와 관련된 주제들이 논의되고 있습니다. 경제 성장과 안정에 대한 의견이 분분합니다.",
+      "post_count": 15,
       "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "기술과 관련된 주제들이 논의되고 있습니다. 기술 발전과 혁신에 대한 의견이 분분합니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 논의"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "남북관계",
       "count": 10,
-      "sentiment": "positive",
-      "context": "기술 관련 논의"
+      "sentiment": "mixed",
+      "context": "남북관계와 관련된 다양한 주제들이 논의되고 있습니다."
     },
     {
       "keyword": "경제",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "경제 관련 논의"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제와 관련된 주제들이 논의되고 있습니다."
+    },
+    {
+      "keyword": "기술",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "기술과 관련된 주제들이 논의되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 30,
     "negative": 20,
-    "neutral": 30,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 산업에 미치는 영향",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "남북관계와 경제는 밀접한 관련이 있습니다.",
+      "action": "남북관계와 경제에 대한 주제를 더 많이 논의해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 성장률의 예상과 기업의 전략",
-      "action": "경제 성장률에 대한 분석과 전략 수립",
+      "insight": "기술은 경제 성장과 발전에 중요한 역할을 합니다.",
+      "action": "기술에 대한 주제를 더 많이 논의해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드는 경제 및 정치, 기술 및 과학, 사회 및 문화 등 다양한 주제로 구분될 수 있다. 경제 및 정치 관련 논의에서는 이재명 정부와 조국에 대한 논의, 경제 성장률 예상, 국제유가의 영향 등이 चर화되고 있다. 기술 및 과학 관련 논의에서는 AI 기술의 발전, 반도체 산업의 동향, 6G 기술의 개발 등이 주목을 받고 있다. 사회 및 문화 관련 논의에서는 교육 관련 논의, 마누스 환불 논의, 카카오톡의 SNS화 등이 चर화되고 있다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-05-11T11:00:36.218Z",
+  "narrative": "남북관계, 경제, 기술은 현재 논의되고 있는 주요 주제입니다. 남북관계와 경제는 밀접한 관련이 있으며, 기술은 경제 성장과 발전에 중요한 역할을 합니다. 이러한 주제에 대한 논의는 계속해서 진행되어야 합니다. 또한, 남북관계와 경제에 대한 주제를 더 많이 논의해야 하며, 기술에 대한 주제도 더 많이 논의해야 합니다. 이러한 노력으로 인해 더 나은 미래를 만들 수 있을 것입니다.",
+  "analyzed_at": "2026-05-11T12:30:34.388Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
