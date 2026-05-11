@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남 논란",
-      "summary": "김용남이 사과했지만 여전히 논란이 지속되고 있다. 일부 사람들은 김용남의 사과를 받아들이지 않고, 더 많은 책임을 요구하고 있다.",
+      "topic": "김용남",
+      "summary": "김용남 관련 논란과 사과에 대한 게시글이 많습니다. 일부 사용자는 김용남을 지지하는 반면, 다른 사용자는 그의 행동을 비판합니다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 활용되고 있다. 특히, 생성형 AI와 챗봇 기술이 주목받고 있다.",
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련 뉴스와 게시글이 많습니다. 사용자는 새로운 기술과 제품에 대한 관심을 보이고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 뉴스",
-      "summary": "경제 뉴스가 다양하게 등장하고 있다. 특히, 반도체와 전기차 관련 뉴스가 주목받고 있다.",
+      "topic": "경제와 정치",
+      "summary": "경제와 정치 관련 뉴스와 게시글이 많습니다. 사용자는 최근 경제 상황과 정치 뉴스에 대한 관심을 보이고 있습니다.",
       "post_count": 12,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "김용남",
       "count": 20,
-      "sentiment": "negative",
-      "context": "김용남 논란 관련 게시물"
+      "sentiment": "mixed",
+      "context": "김용남 관련 논란과 사과"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술 관련 게시물"
+      "context": "AI와 기술 관련 뉴스와 게시글"
     },
     {
-      "keyword": "반도체",
+      "keyword": "경제",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "반도체 관련 뉴스 게시물"
+      "sentiment": "negative",
+      "context": "경제 관련 뉴스와 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적"
+    "negative": 25,
+    "neutral": 20,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "김용남 논란은 여전히 지속되고 있다.",
-      "action": "김용남 관련 게시물에 대한 모니터링을 강화한다.",
+      "insight": "김용남 관련 논란이 계속되면 그의 지지율이 떨어질 수 있습니다.",
+      "action": "김용남의 행동과 발언을 주의깊게 모니터링",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 분야에서 활용되고 있다.",
-      "action": "AI 기술 관련 게시물에 대한 분석을 강화한다.",
+      "insight": "AI와 기술 관련 제품과 서비스에 대한 수요가 증가할 수 있습니다.",
+      "action": "AI와 기술 관련 제품과 서비스 개발",
       "priority": "medium"
     },
     {
-      "insight": "경제 뉴스는 다양하게 등장하고 있다.",
-      "action": "경제 뉴스 관련 게시물에 대한 분석을 강화한다.",
+      "insight": "경제와 정치 관련 뉴스와 게시글이 많아지면 사용자의 관심이 증가할 수 있습니다.",
+      "action": "경제와 정치 관련 뉴스와 게시글을 제공",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 김용남 논란과 AI 기술 관련 게시물이 주를 이루고 있다. 특히, 김용남 논란은 여전히 지속되고 있다. 반면, AI 기술은 다양한 분야에서 활용되고 있다. 또한, 경제 뉴스는 다양하게 등장하고 있다. 이러한 트렌드를 분석하여, 마케팅 전략을 수립할 수 있을 것이다.",
-  "analyzed_at": "2026-05-11T20:00:34.189Z",
+  "narrative": "최근 김용남 관련 논란과 사과에 대한 게시글이 많아졌습니다. 일부 사용자는 김용남을 지지하는 반면, 다른 사용자는 그의 행동을 비판합니다. 또한, AI와 기술 관련 뉴스와 게시글이 많아졌습니다. 사용자는 새로운 기술과 제품에 대한 관심을 보이고 있습니다. 경제와 정치 관련 뉴스와 게시글도 많아졌습니다. 사용자는 최근 경제 상황과 정치 뉴스에 대한 관심을 보이고 있습니다. 이러한 트렌드와 감정을 고려하여, 김용남의 행동과 발언을 주의깊게 모니터링하고, AI와 기술 관련 제품과 서비스 개발, 경제와 정치 관련 뉴스와 게시글을 제공하는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-05-11T21:30:34.614Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
