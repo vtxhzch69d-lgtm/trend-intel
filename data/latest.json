@@ -1,75 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 및 경제",
-      "summary": "코스피 대장 교체, 주식 시장의 상승세, 하이닉스 주가 등",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "최근 경제 상황에 대한 우려가 증가하고 있습니다. 많은 사람들이 경제적 안정성을 찾고 있습니다.",
+      "post_count": 100,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "AI 기술의 발전, 애플의 AI 허위광고 비판, 스마트폰 시장의 성장 등",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "사회 및 정치",
-      "summary": "정청래 대표의 의중, 조국 강성지지자들의 반응, 나경원 의원의 발언 등",
-      "post_count": 8,
+      "topic": "정치",
+      "summary": "정치적인 이슈가 많은 사람들의 관심을 끌고 있습니다. 정치적 안정성을 찾고 있습니다.",
+      "post_count": 50,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "코스피 대장 교체, 주식 시장의 상승세"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전, 애플의 AI 허위광고 비판"
-    },
-    {
       "keyword": "경제",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "하이닉스 주가, 코스피 대장 교체"
+      "count": 200,
+      "sentiment": "negative",
+      "context": "최근 경제 상황에 대한 우려"
+    },
+    {
+      "keyword": "정치",
+      "count": 100,
+      "sentiment": "neutral",
+      "context": "정치적인 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
+    "positive": 20,
+    "negative": 60,
     "neutral": 20,
-    "overall_mood": "보통"
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승세를 이용하여 투자할 기회를 찾기",
-      "action": "주식 투자",
+      "insight": "경제적인 안정성을 제공하는 제품이나 서비스에 대한 수요가 증가할 수 있습니다.",
+      "action": "경제적인 안정성을 제공하는 제품이나 서비스를 개발하고 마케팅하세요.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전을 이용하여 새로운 비즈니스 모델을 개발하기",
-      "action": "AI 기술 개발",
+      "insight": "정치적인 안정성을 제공하는 제품이나 서비스에 대한 수요가 증가할 수 있습니다.",
+      "action": "정치적인 안정성을 제공하는 제품이나 서비스를 개발하고 마케팅하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 및 정치적인 이슈를 이용하여 마케팅 캠페인을 진행하기",
-      "action": "마케팅 캠페인",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 주식 및 경제, 기술 및 AI, 사회 및 정치적인 이슈를 중심으로 돌아가고 있습니다. 주식 시장의 상승세와 하이닉스 주가의 상승은 투자할 기회를 제공하고 있습니다. 또한, AI 기술의 발전은 새로운 비즈니스 모델을 개발할 수 있는 기회를 제공하고 있습니다. 그러나, 사회 및 정치적인 이슈는 마케팅 캠페인을 진행할 때 주의해야 할 점입니다. 따라서, 이러한 트렌드를 이용하여 비즈니스 전략을 개발하고, 마케팅 캠페인을 진행할 때 주의해야 할 점을 고려해야 합니다.",
-  "analyzed_at": "2026-05-11T07:00:33.792Z",
-  "post_count": 61,
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 경제와 정치가 주요 주제로 부상하고 있습니다. 많은 사람들이 경제적인 안정성을 찾고 있으며, 정치적인 안정성도 중요하게 여겨지고 있습니다. 이러한 트렌드를 반영하여 경제적인 안정성을 제공하는 제품이나 서비스를 개발하고 마케팅하는 것이 중요할 수 있습니다. 또한, 정치적인 안정성을 제공하는 제품이나 서비스도 개발하고 마케팅하는 것이 필요할 수 있습니다. 이러한 마케팅 전략을 통해 기업은 소비자의需求을 충족시키고 시장에서 경쟁력을 확보할 수 있습니다.",
+  "analyzed_at": "2026-05-11T08:30:34.315Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
