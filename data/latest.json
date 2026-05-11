@@ -2,37 +2,23 @@
   "trending_topics": [
     {
       "topic": "김용남",
-      "summary": "김용남이 사과해도 안 끝나네요. 김용남이 검사다.",
+      "summary": "김용남이 검사다, 김용남이 사과해도 안 끝나네요.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "조국",
-      "summary": "조국 지지한다는데 딴지가 왜 나오나요. 조국혁신당의 선거전략이 참으로 이해가 안갑니다.",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "반도체",
+      "summary": "반도체는 광기인가, 낸드 현물가 한 달 새 40% 급락.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "AI",
-      "summary": "챗GPT '안심 연락처' 기능 도입…자해 위험 감지하면 알림 발송. 인텔, 마이크론 투더문....",
-      "post_count": 6,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "1인당 gdp와 평균 임금 추이. 낸드 현물가 한 달 새 40% 급락…호가·실수요 괴리 심화",
-      "post_count": 4,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "빛으로 흔들림없는 초고주파 신호 만든다...6G·우주 탐사 활용 기대. 파이어폭스, '미소스' 투입 한달 만에 보안 버그 271개 수정",
+      "summary": "인공지능(AI) 기반 실시간 매개체 감시 개시, 챗GPT '안심 연락처' 기능 도입.",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
@@ -41,63 +27,46 @@
       "keyword": "김용남",
       "count": 7,
       "sentiment": "negative",
-      "context": "김용남이 사과해도 안 끝나네요"
-    },
-    {
-      "keyword": "조국",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "조국 지지한다는데 딴지가 왜 나오나요"
+      "context": "김용남 관련 논란"
     },
     {
       "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "챗GPT '안심 연락처' 기능 도입…자해 위험 감지하면 알림 발송"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "인공지능 기술 개발"
     },
     {
-      "keyword": "경제",
-      "count": 6,
+      "keyword": "반도체",
+      "count": 3,
       "sentiment": "negative",
-      "context": "1인당 gdp와 평균 임금 추이"
-    },
-    {
-      "keyword": "기술",
-      "count": 7,
-      "sentiment": "positive",
-      "context": "빛으로 흔들림없는 초고주파 신호 만든다...6G·우주 탐사 활용 기대"
+      "context": "반도체 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정으로 가득 찬 온라인 커뮤니티"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "김용남 사과에 대한 반응",
-      "action": "사과에 대한 대응 전략 수립",
+      "insight": "김용남 관련 논란이 지속되고 있다.",
+      "action": "김용남 관련 뉴스 모니터링",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술의 활용 및 투자",
+      "insight": "반도체 산업이 어려움을 겪고 있다.",
+      "action": "반도체 산업 동향 분석",
       "priority": "medium"
     },
     {
-      "insight": "경제 상황",
-      "action": "경제 상황에 대한 분석 및 대응",
-      "priority": "high"
-    },
-    {
-      "insight": "기술 발전",
-      "action": "기술 발전에 대한 투자 및 활용",
+      "insight": "AI 기술 개발이 활발하다.",
+      "action": "AI 기술 개발 동향 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "온라인 커뮤니티에서는 김용남 사과에 대한 반응이 뜨겁습니다. AI 기술의 발전은 많은 관심을 받고 있습니다. 경제 상황은 안정되지 못하고 있습니다. 기술 발전은 다양한 분야에서 활용되고 있습니다. 이러한 트렌드와 인사이트를 바탕으로 사업 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-11T17:00:35.005Z",
+  "narrative": "최근 클리앙 커뮤니티에서 김용남 관련 논란이 지속되고 있다. 김용남이 검사라는 사실이 알려지면서 논란이 확대되고 있다. 또한, 반도체 산업이 어려움을 겪고 있는 것으로 나타났다. 낸드 현물가가 한 달 새 40% 급락하면서 반도체 산업이 어려움을 겪고 있는 것으로 분석된다. 반면, AI 기술 개발이 활발하다. 인공지능(AI) 기반 실시간 매개체 감시 개시와 챗GPT '안심 연락처' 기능 도입 등이 대표적이다. 이러한 동향을 고려하여, 김용남 관련 뉴스 모니터링과 반도체 산업 동향 분석, AI 기술 개발 동향 분석 등의 업무가 필요하다.",
+  "analyzed_at": "2026-05-11T18:30:34.613Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
