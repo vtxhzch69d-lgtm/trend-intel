@@ -2,66 +2,102 @@
   "trending_topics": [
     {
       "topic": "김용남",
-      "summary": "김용남 관련 논란과 사과에 대한 논의",
+      "summary": "김용남이 사과해도 안 끝나네요. 김용남이 검사다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "조국",
-      "summary": "조국 관련 지지와 비판에 대한 논의",
+      "summary": "조국 지지한다는데 딴지가 왜 나오나요. 조국혁신당의 선거전략이 참으로 이해가 안갑니다.",
       "post_count": 4,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "인공지능",
-      "summary": "인공지능 기술과 응용에 대한 논의",
-      "post_count": 3,
+      "topic": "AI",
+      "summary": "챗GPT '안심 연락처' 기능 도입…자해 위험 감지하면 알림 발송. 인텔, 마이크론 투더문....",
+      "post_count": 6,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "1인당 gdp와 평균 임금 추이. 낸드 현물가 한 달 새 40% 급락…호가·실수요 괴리 심화",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "빛으로 흔들림없는 초고주파 신호 만든다...6G·우주 탐사 활용 기대. 파이어폭스, '미소스' 투입 한달 만에 보안 버그 271개 수정",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "김용남",
-      "count": 10,
+      "count": 7,
       "sentiment": "negative",
-      "context": "논란과 사과"
+      "context": "김용남이 사과해도 안 끝나네요"
     },
     {
       "keyword": "조국",
-      "count": 8,
+      "count": 5,
       "sentiment": "mixed",
-      "context": "지지와 비판"
+      "context": "조국 지지한다는데 딴지가 왜 나오나요"
     },
     {
-      "keyword": "인공지능",
-      "count": 5,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "기술과 응용"
+      "context": "챗GPT '안심 연락처' 기능 도입…자해 위험 감지하면 알림 발송"
+    },
+    {
+      "keyword": "경제",
+      "count": 6,
+      "sentiment": "negative",
+      "context": "1인당 gdp와 평균 임금 추이"
+    },
+    {
+      "keyword": "기술",
+      "count": 7,
+      "sentiment": "positive",
+      "context": "빛으로 흔들림없는 초고주파 신호 만든다...6G·우주 탐사 활용 기대"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정으로 가득 찬 온라인 커뮤니티"
   },
   "business_insights": [
     {
-      "insight": "김용남 관련 논란이 정치와 사회에 미치는 영향",
-      "action": "정치와 사회에 대한 관심과 참여를 높이는 마케팅 전략",
+      "insight": "김용남 사과에 대한 반응",
+      "action": "사과에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "인공지능 기술의 발전과 응용",
-      "action": "인공지능 기술을 활용한 제품과 서비스 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술의 활용 및 투자",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 상황",
+      "action": "경제 상황에 대한 분석 및 대응",
+      "priority": "high"
+    },
+    {
+      "insight": "기술 발전",
+      "action": "기술 발전에 대한 투자 및 활용",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 김용남과 조국 관련 논란과 인공지능 기술의 발전을 중심으로 형성되고 있습니다. 김용남 관련 논란은 정치와 사회에 미치는 영향이 크며, 인공지능 기술의 발전은 다양한 산업과 분야에 적용될 수 있습니다. 이러한 트렌드를 고려한 마케팅 전략은 정치와 사회에 대한 관심과 참여를 높이는 방향으로 진행되어야 하며, 인공지능 기술을 활용한 제품과 서비스 개발도 중요합니다.",
-  "analyzed_at": "2026-05-11T15:30:33.985Z",
+  "narrative": "온라인 커뮤니티에서는 김용남 사과에 대한 반응이 뜨겁습니다. AI 기술의 발전은 많은 관심을 받고 있습니다. 경제 상황은 안정되지 못하고 있습니다. 기술 발전은 다양한 분야에서 활용되고 있습니다. 이러한 트렌드와 인사이트를 바탕으로 사업 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-11T17:00:35.005Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
