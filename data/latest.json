@@ -1,72 +1,85 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남",
-      "summary": "김용남 관련 논란과 사과에 대한 게시글이 많습니다. 일부 사용자는 김용남을 지지하는 반면, 다른 사용자는 그의 행동을 비판합니다.",
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 여론조사 결과",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 뉴스와 게시글이 많습니다. 사용자는 새로운 기술과 제품에 대한 관심을 보이고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제와 정치",
-      "summary": "경제와 정치 관련 뉴스와 게시글이 많습니다. 사용자는 최근 경제 상황과 정치 뉴스에 대한 관심을 보이고 있습니다.",
+      "topic": "경제",
+      "summary": "最近의 경제 동향과 기업 실적",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "기술",
+      "summary": "最近의 기술 발전과 신제품 출시",
       "post_count": 12,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "사회",
+      "summary": "最近의 사회 문제와 사건",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "김용남",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "김용남 관련 논란과 사과"
-    },
-    {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI와 기술 관련 뉴스와 게시글"
+      "context": "기술 발전과 적용"
     },
     {
       "keyword": "경제",
       "count": 10,
-      "sentiment": "negative",
-      "context": "경제 관련 뉴스와 게시글"
+      "sentiment": "neutral",
+      "context": "最近의 경제 동향"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "最近의 정치 뉴스와 여론조사 결과"
+    },
+    {
+      "keyword": "기술",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "最近의 기술 발전과 신제품 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 20,
-    "overall_mood": "복합적인 감정"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "김용남 관련 논란이 계속되면 그의 지지율이 떨어질 수 있습니다.",
-      "action": "김용남의 행동과 발언을 주의깊게 모니터링",
+      "insight": "기술 발전이 경제 성장에 기여할 수 있다",
+      "action": "기술 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련 제품과 서비스에 대한 수요가 증가할 수 있습니다.",
-      "action": "AI와 기술 관련 제품과 서비스 개발",
+      "insight": "정치 뉴스와 여론조사 결과가 기업에 영향을 줄 수 있다",
+      "action": "정치 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "경제와 정치 관련 뉴스와 게시글이 많아지면 사용자의 관심이 증가할 수 있습니다.",
-      "action": "경제와 정치 관련 뉴스와 게시글을 제공",
+      "insight": "사회 문제가 기업의 사회적 책임에 영향을 줄 수 있다",
+      "action": "사회적 책임 활동 증가",
       "priority": "low"
     }
   ],
-  "narrative": "최근 김용남 관련 논란과 사과에 대한 게시글이 많아졌습니다. 일부 사용자는 김용남을 지지하는 반면, 다른 사용자는 그의 행동을 비판합니다. 또한, AI와 기술 관련 뉴스와 게시글이 많아졌습니다. 사용자는 새로운 기술과 제품에 대한 관심을 보이고 있습니다. 경제와 정치 관련 뉴스와 게시글도 많아졌습니다. 사용자는 최근 경제 상황과 정치 뉴스에 대한 관심을 보이고 있습니다. 이러한 트렌드와 감정을 고려하여, 김용남의 행동과 발언을 주의깊게 모니터링하고, AI와 기술 관련 제품과 서비스 개발, 경제와 정치 관련 뉴스와 게시글을 제공하는 것이 좋을 것입니다.",
-  "analyzed_at": "2026-05-11T21:30:34.614Z",
+  "narrative": "最近의 정치 뉴스와 여론조사 결과는 기업에 영향을 줄 수 있습니다. 기술 발전이 경제 성장에 기여할 수 있으며, 사회 문제가 기업의 사회적 책임에 영향을 줄 수 있습니다. 따라서 기업은 기술 투자와 사회적 책임 활동을 증가시키고 정치 뉴스를 모니터링해야 합니다. 또한, 최근의 경제 동향과 기술 발전을 주시하여 기업의 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-05-11T23:30:33.415Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
