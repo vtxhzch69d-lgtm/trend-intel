@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "조국혁신당의 선거전략과 민주당원들의 반응, 정치 관련 뉴스",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "김용남",
+      "summary": "김용남 관련 논란과 사과에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 스마트폰, 전기차, 로봇 등 기술 관련 뉴스",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "조국",
+      "summary": "조국 관련 지지와 비판에 대한 논의",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 성장률, 전기차용 배터리 사용량, 기업 뉴스",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "인공지능",
+      "summary": "인공지능 기술과 응용에 대한 논의",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "김용남",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng"
+      "sentiment": "negative",
+      "context": "논란과 사과"
     },
     {
       "keyword": "조국",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "조국혁신당의 선거전략과 민주당원들의 반응"
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "지지와 비판"
     },
     {
-      "keyword": "전기차",
+      "keyword": "인공지능",
       "count": 5,
       "sentiment": "positive",
-      "context": "전기차용 배터리 사용량과 전기차 시장의 성장"
+      "context": "기술과 응용"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
+    "positive": 15,
+    "negative": 20,
     "neutral": 10,
-    "overall_mood": "중립적이며 기술과 경제 관련 뉴스에 대한 관심이 높음"
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 ứng dụng",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "김용남 관련 논란이 정치와 사회에 미치는 영향",
+      "action": "정치와 사회에 대한 관심과 참여를 높이는 마케팅 전략",
       "priority": "high"
     },
     {
-      "insight": "전기차 시장의 성장",
-      "action": "전기차용 배터리와 충전 인프라 개발",
+      "insight": "인공지능 기술의 발전과 응용",
+      "action": "인공지능 기술을 활용한 제품과 서비스 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 성장률의 저하",
-      "action": "경제 성장률을 높이기 위한 정책 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치, 기술, 경제 관련 뉴스가 주를 이루고 있습니다. 특히 AI 기술의 발전과 ứng dụng, 전기차 시장의 성장, 경제 성장률의 저하 등이 주요 관심사입니다. 이러한 트렌드를 바탕으로 새로운 비즈니스 모델 개발, 전기차용 배터리와 충전 인프라 개발, 경제 성장률을 높이기 위한 정책 개발 등이 필요합니다. 또한, 조국혁신당의 선거전략과 민주당원들의 반응, 기술과 경제 관련 뉴스에 대한 관심이 높아지고 있습니다.",
-  "analyzed_at": "2026-05-11T14:00:33.969Z",
+  "narrative": "최근의 트렌드는 김용남과 조국 관련 논란과 인공지능 기술의 발전을 중심으로 형성되고 있습니다. 김용남 관련 논란은 정치와 사회에 미치는 영향이 크며, 인공지능 기술의 발전은 다양한 산업과 분야에 적용될 수 있습니다. 이러한 트렌드를 고려한 마케팅 전략은 정치와 사회에 대한 관심과 참여를 높이는 방향으로 진행되어야 하며, 인공지능 기술을 활용한 제품과 서비스 개발도 중요합니다.",
+  "analyzed_at": "2026-05-11T15:30:33.985Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
