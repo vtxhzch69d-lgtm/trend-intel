@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "코스피",
-      "summary": "코스피가 7800선을 돌파하며 주식시장이 과열되고 있다. 투자자들은 주식시장의 불안정성에 대해 우려를 나타내고 있다.",
+      "topic": "주식 시장",
+      "summary": "코스피가 상승하고 있으며, 주식 투자에 대한 관심이 증가하고 있다. 그러나 일부 투자자들은 주식 시장의 불안정성에 대한 우려를 나타내고 있다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식",
-      "summary": "주식시장의 불안정성과 투자자들의 우려가 증가하고 있다. 일부 투자자들은 주식시장이 과열되었다고 주장하고 있다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 그러나 AI 기술의 보안과 안전성에 대한 우려도 존재한다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술이 발전하고 있으며, 이를 활용한 다양한 산업들이 등장하고 있다. 그러나 AI 기술의 보안 문제도 함께 증가하고 있다.",
+      "topic": "사회 문제",
+      "summary": "사회 문제에 대한 관심이 증가하고 있으며, 일부 문제에 대한 해결책이 모색되고 있다. 그러나 일부 문제는 여전히 해결되지 않은 채로 남아 있다.",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "주식시장의 불안정성"
-    },
-    {
       "keyword": "주식",
-      "count": 15,
+      "count": 20,
       "sentiment": "mixed",
-      "context": "투자자들의 우려"
+      "context": "주식 시장의 상승과 불안정성"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "AI 기술의 발전과 산업 성장"
+    },
+    {
+      "keyword": "사회 문제",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "사회 문제에 대한 관심과 해결책 모색"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "우려와 불안정성"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "주식 시장의 상승과 AI 기술의 발전에 대한 긍정적인 기대감이 존재하지만, 사회 문제에 대한 우려와 불안정성도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "주식시장의 불안정성",
-      "action": "투자자 교육 및 자산 관리",
+      "insight": "주식 시장의 상승과 불안정성",
+      "action": "주식 투자에 대한 심사숙고와 다각적인 분석",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술 투자 및 연구",
+      "insight": "AI 기술의 발전과 산업 성장",
+      "action": "AI 기술의 활용과 보안성 강화",
       "priority": "medium"
     },
     {
-      "insight": "보안 문제",
-      "action": "보안 기술 개발 및 투자",
+      "insight": "사회 문제에 대한 관심과 해결책 모색",
+      "action": "사회 문제에 대한 심도 있는 분석과 해결책 개발",
       "priority": "low"
     }
   ],
-  "narrative": "현재 주식시장은 불안정한 상황에 처해 있다. 코스피가 7800선을 돌파하며 투자자들은 주식시장의 불안정성에 대해 우려를 나타내고 있다. 또한, AI 기술의 발전은 다양한 산업들을 변화시키고 있으며, 이를 활용한 산업들이 등장하고 있다. 그러나 AI 기술의 보안 문제도 함께 증가하고 있다. 따라서, 투자자들은 주식시장의 불안정성과 AI 기술의 발전을 주시해야 하며, 보안 문제에 대한 대책을 마련해야 한다.",
-  "analyzed_at": "2026-05-11T01:00:33.698Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 상승과 불안정성, AI 기술의 발전과 산업 성장, 사회 문제에 대한 관심과 해결책 모색이 주요한 이슈로 나타났다. 주식 시장의 상승과 불안정성은 투자자들의 관심을 끌고 있으며, AI 기술의 발전은 다양한 산업의 성장을 주도하고 있다. 그러나 사회 문제에 대한 우려와 불안정성도 존재한다. 이러한 트렌드에 대한 심도 있는 분석과 해결책 개발이 필요하다. 또한, 주식 투자에 대한 심사숙고와 다각적인 분석, AI 기술의 활용과 보안성 강화, 사회 문제에 대한 심도 있는 분석과 해결책 개발이 필요한 것으로 나타났다.",
+  "analyzed_at": "2026-05-11T02:30:34.940Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
