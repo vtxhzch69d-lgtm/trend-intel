@@ -1,72 +1,108 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피가 상승하고 있으며, 주식 투자에 대한 관심이 증가하고 있다. 그러나 일부 투자자들은 주식 시장의 불안정성에 대한 우려를 나타내고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 그러나 AI 기술의 보안과 안전성에 대한 우려도 존재한다.",
+      "topic": "주식",
+      "summary": "주식 투자와 관련된 다양한 주제가 논의되고 있다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "사회 문제",
-      "summary": "사회 문제에 대한 관심이 증가하고 있으며, 일부 문제에 대한 해결책이 모색되고 있다. 그러나 일부 문제는 여전히 해결되지 않은 채로 남아 있다.",
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 다양한 주제가 논의되고 있다.",
       "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제와 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 6,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치와 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "기술과 관련된 다양한 주제가 논의되고 있다.",
+      "post_count": 4,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
-      "count": 20,
+      "count": 15,
       "sentiment": "mixed",
-      "context": "주식 시장의 상승과 불안정성"
+      "context": "주식 투자와 관련된 키워드"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업 성장"
+      "context": "AI 기술과 관련된 키워드"
     },
     {
-      "keyword": "사회 문제",
-      "count": 10,
+      "keyword": "경제",
+      "count": 8,
       "sentiment": "negative",
-      "context": "사회 문제에 대한 관심과 해결책 모색"
+      "context": "경제와 관련된 키워드"
+    },
+    {
+      "keyword": "정치",
+      "count": 6,
+      "sentiment": "negative",
+      "context": "정치와 관련된 키워드"
+    },
+    {
+      "keyword": "기술",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "기술과 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "주식 시장의 상승과 AI 기술의 발전에 대한 긍정적인 기대감이 존재하지만, 사회 문제에 대한 우려와 불안정성도 존재한다."
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승과 불안정성",
-      "action": "주식 투자에 대한 심사숙고와 다각적인 분석",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술의 발전과 산업 성장",
-      "action": "AI 기술의 활용과 보안성 강화",
+      "insight": "주식 투자와 관련된 주제가 많이 논의되고 있다.",
+      "action": "주식 투자와 관련된 콘텐츠를 제공한다.",
       "priority": "medium"
     },
     {
-      "insight": "사회 문제에 대한 관심과 해결책 모색",
-      "action": "사회 문제에 대한 심도 있는 분석과 해결책 개발",
-      "priority": "low"
+      "insight": "AI 기술과 관련된 주제가 많이 논의되고 있다.",
+      "action": "AI 기술과 관련된 콘텐츠를 제공한다.",
+      "priority": "high"
+    },
+    {
+      "insight": "경제와 관련된 주제가 많이 논의되고 있다.",
+      "action": "경제와 관련된 콘텐츠를 제공한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치와 관련된 주제가 많이 논의되고 있다.",
+      "action": "정치와 관련된 콘텐츠를 제공한다.",
+      "priority": "high"
+    },
+    {
+      "insight": "기술과 관련된 주제가 많이 논의되고 있다.",
+      "action": "기술과 관련된 콘텐츠를 제공한다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 상승과 불안정성, AI 기술의 발전과 산업 성장, 사회 문제에 대한 관심과 해결책 모색이 주요한 이슈로 나타났다. 주식 시장의 상승과 불안정성은 투자자들의 관심을 끌고 있으며, AI 기술의 발전은 다양한 산업의 성장을 주도하고 있다. 그러나 사회 문제에 대한 우려와 불안정성도 존재한다. 이러한 트렌드에 대한 심도 있는 분석과 해결책 개발이 필요하다. 또한, 주식 투자에 대한 심사숙고와 다각적인 분석, AI 기술의 활용과 보안성 강화, 사회 문제에 대한 심도 있는 분석과 해결책 개발이 필요한 것으로 나타났다.",
-  "analyzed_at": "2026-05-11T02:30:34.940Z",
+  "narrative": "最近의 트렌드에 따르면, 주식 투자와 관련된 주제가 많이 논의되고 있다. 또한, AI 기술과 관련된 주제도 많이 논의되고 있다. 경제와 정치와 관련된 주제도 많이 논의되고 있다. 기술과 관련된 주제도 많이 논의되고 있다. 이러한 트렌드에 따라, 주식 투자와 관련된 콘텐츠를 제공하고, AI 기술과 관련된 콘텐츠를 제공하는 것이 중요하다. 또한, 경제와 정치와 관련된 콘텐츠를 제공하고, 기술과 관련된 콘텐츠를 제공하는 것도 중요하다.",
+  "analyzed_at": "2026-05-11T04:00:33.874Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
