@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "장동혁, 중앙선대위 출범과 관련된 뉴스 및 논평",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "주식 시장",
+      "summary": "코스피 급락과 관련된 주제가 많은 것으로 나타났습니다. 주식 시장의 불안정성과 관련된 글들이 많았습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "주식시장과 관련된 뉴스 및 분석",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 주제가 많이 등장했습니다. AI의 발전과 관련된 글이 많았습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 반도체, 스마트폰 등 기술 관련 뉴스",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치와 관련된 주제가 많이 등장했습니다. 정치인과 관련된 글들이 많았습니다.",
+      "post_count": 6,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "장동혁",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스"
-    },
-    {
       "keyword": "주식",
-      "count": 8,
+      "count": 15,
       "sentiment": "negative",
-      "context": "경제 관련 뉴스"
+      "context": "코스피 급락과 관련된 글"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스"
+      "context": "AI 기술의 발전과 관련된 글"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치인과 관련된 글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정의 비중이 높지만, 기술 관련 뉴스에서는 긍정적인 감정도 존재"
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스에서 부정적인 감정의 비중이 높아, 정치적 불안정성이 경제에 미치는 영향에 주목할 필요가 있음",
-      "action": "정치 관련 뉴스를 지속적으로 모니터링",
+      "insight": "주식 시장의 불안정성",
+      "action": "주식 투자에 대한 주의",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 뉴스에서 긍정적인 감정의 비중이 높아, 기술 산업의 성장 가능성에 주목할 필요가 있음",
-      "action": "기술 산업의 동향을 분석",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술에 대한 투자",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치와 관련된 이슈",
+      "action": "정치와 관련된 뉴스에 대한 주의",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치 관련 뉴스에서 부정적인 감정의 비중이 높아, 정치적 불안정성이 경제에 미치는 영향에 주목할 필요가 있음. 기술 관련 뉴스에서는 긍정적인 감정의 비중이 높아, 기술 산업의 성장 가능성에 주목할 필요가 있음. 또한, 주식시장과 관련된 뉴스에서는 부정적인 감정의 비중이 높아, 주식시장의 동향을 분석할 필요가 있음.",
-  "analyzed_at": "2026-05-12T10:30:33.703Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 불안정성과 관련된 주제가 많이 등장했습니다. 또한, AI 기술과 관련된 주제도 많이 등장했습니다. 정치와 관련된 주제도 많이 등장했습니다. 이러한 결과는 현재의 사회적 이슈와 관련된 것으로 보입니다. 따라서, 주식 투자에 대한 주의와 AI 기술에 대한 투자가 필요할 것으로 보입니다. 또한, 정치와 관련된 뉴스에 대한 주의도 필요할 것으로 보입니다.",
+  "analyzed_at": "2026-05-12T12:30:34.185Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
