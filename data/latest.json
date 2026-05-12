@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피 급락과 관련된 주제가 많은 것으로 나타났습니다. 주식 시장의 불안정성과 관련된 글들이 많았습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "서태지 표절 논란",
+      "summary": "서태지가 표절을 했다는 논란이 일어나고 있다. 일부 네티즌들은 서태지가 표절을 했다고 주장하지만, 다른 사람들은 음모론 수준의 이야기가 아니라고 반박하고 있다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "펄어비스 어닝서프라이즈",
+      "summary": "펄어비스의 어닝서프라이즈가 발표되었다. 펄어비스의 매출과 영업이익이 예상치를 상회했다.",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 주제가 많이 등장했습니다. AI의 발전과 관련된 글이 많았습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치와 관련된 주제가 많이 등장했습니다. 정치인과 관련된 글들이 많았습니다.",
-      "post_count": 6,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "삼성전자 노사 협상",
+      "summary": "삼성전자의 노사 협상이 평행선에 빠져 있다. 노동조합과 경영진이 합의를 보지 못하고 있다.",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
+      "keyword": "서태지",
+      "count": 7,
       "sentiment": "negative",
-      "context": "코스피 급락과 관련된 글"
+      "context": "표절 논란"
     },
     {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "펄어비스",
+      "count": 3,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 글"
+      "context": "어닝서프라이즈"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치인과 관련된 글"
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "노사 협상"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "주식 투자에 대한 주의",
+      "insight": "서태지 표절 논란은 음반 판매에 영향을 미칠 수 있다.",
+      "action": "서태지의 마케팅 전략을 재평가해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술에 대한 투자",
+      "insight": "펄어비스의 어닝서프라이즈는 투자자들에게 긍정적인 신호를 보낸다.",
+      "action": "펄어비스의 주식을 매수해야 한다.",
       "priority": "medium"
     },
     {
-      "insight": "정치와 관련된 이슈",
-      "action": "정치와 관련된 뉴스에 대한 주의",
-      "priority": "medium"
+      "insight": "삼성전자의 노사 협상은 회사에 부정적인 영향을 미칠 수 있다.",
+      "action": "삼성전자의 노사 협상을 주시해야 한다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 불안정성과 관련된 주제가 많이 등장했습니다. 또한, AI 기술과 관련된 주제도 많이 등장했습니다. 정치와 관련된 주제도 많이 등장했습니다. 이러한 결과는 현재의 사회적 이슈와 관련된 것으로 보입니다. 따라서, 주식 투자에 대한 주의와 AI 기술에 대한 투자가 필요할 것으로 보입니다. 또한, 정치와 관련된 뉴스에 대한 주의도 필요할 것으로 보입니다.",
-  "analyzed_at": "2026-05-12T12:30:34.185Z",
+  "narrative": "현재의 트렌드는 서태지 표절 논란, 펄어비스의 어닝서프라이즈, 삼성전자의 노사 협상 등이다. 서태지 표절 논란은 음반 판매에 영향을 미칠 수 있으며, 펄어비스의 어닝서프라이즈는 투자자들에게 긍정적인 신호를 보낸다. 삼성전자의 노사 협상은 회사에 부정적인 영향을 미칠 수 있다. 따라서 서태지의 마케팅 전략을 재평가해야 하며, 펄어비스의 주식을 매수해야 한다. 또한, 삼성전자의 노사 협상을 주시해야 한다.",
+  "analyzed_at": "2026-05-12T14:00:34.449Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
