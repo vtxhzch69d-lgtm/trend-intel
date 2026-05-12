@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 최근 뉴스와 사건들에 대한 논의",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상황과 전망에 대한 논의",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "부동산 정책",
-      "summary": "부동산 정책에 대한 논의와 불만",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
     },
     {
       "topic": "AI 기술",
       "summary": "AI 기술의 발전과 ứng dụng에 대한 논의",
       "post_count": 8,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 상황",
+      "summary": "경제 상황과 물가에 대한 논의",
+      "post_count": 6,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
+      "keyword": "주식",
       "count": 15,
       "sentiment": "neutral",
-      "context": "삼성전자의 뉴스와 사건들"
-    },
-    {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "부동산 정책에 대한 불만"
+      "context": "주식 시장에 대한 논의"
     },
     {
       "keyword": "AI",
       "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng용"
+      "context": "AI 기술의 발전과 응용"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "경제 상황과 물가에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 기분"
   },
   "business_insights": [
     {
-      "insight": "삼성전자의 최근 뉴스와 사건들에 대한 논의가 많아지고 있다.",
-      "action": "삼성전자의 뉴스와 사건들에 대한 모니터링을 강화해야 한다.",
+      "insight": "주식 시장의 상황을 주시하여 투자 전략을 수립해야 한다",
+      "action": "주식 시장의 동향을 분석하고 투자 전략을 수립한다",
       "priority": "high"
     },
     {
-      "insight": "부동산 정책에 대한 불만이 많아지고 있다.",
-      "action": "부동산 정책에 대한 대응을 강화해야 한다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전과 응용에 대한 논의가 많아지고 있다.",
-      "action": "AI 기술의 발전과 응용에 대한 투자를 강화해야 한다.",
+      "insight": "AI 기술의 발전을 주시하여 새로운 비즈니스 기회를 발굴해야 한다",
+      "action": "AI 기술의 동향을 분석하고 새로운 비즈니스 기회를 발굴한다",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드에 따르면, 삼성전자의 최근 뉴스와 사건들에 대한 논의가 많아지고 있다. 또한, 부동산 정책에 대한 불만이 많아지고 있다. 반면, AI 기술의 발전과 응용에 대한 논의가 많아지고 있다. 이러한 트렌드에 따라, 기업은 삼성전자의 뉴스와 사건들에 대한 모니터링을 강화하고, 부동산 정책에 대한 대응을 강화해야 한다. 또한, AI 기술의 발전과 응용에 대한 투자를 강화해야 한다.",
-  "analyzed_at": "2026-05-12T22:00:33.881Z",
+  "narrative": "최근의 트렌드에 따르면, 주식 시장과 AI 기술이 가장 많이 논의되는 주제입니다. 주식 시장의 상황과 전망에 대한 논의가 많으며, AI 기술의 발전과 응용에 대한 논의도 많습니다. 또한, 경제 상황과 물가에 대한 논의도 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하는 것이 중요합니다. 주식 시장의 상황을 주시하여 투자 전략을 수립하고, AI 기술의 발전을 주시하여 새로운 비즈니스 기회를 발굴해야 합니다.",
+  "analyzed_at": "2026-05-12T23:30:33.922Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
