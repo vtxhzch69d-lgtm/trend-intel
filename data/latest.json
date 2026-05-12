@@ -1,60 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 및 경제",
-      "summary": "코스피 8천 찍을거 같다는 게시글이 많은 것으로 보아 주식 시장의 상승세가 지속되고 있는 것으로 분석됩니다. 또한, 애플과 삼성전자 관련 뉴스가 많이 보이는 것으로 보아 기술 및 전자 산업이 주목을 받고 있는 것으로 보입니다.",
-      "post_count": 15,
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상황과 전망에 대한 게시글이 많습니다. 주식 포모와 트럼프의 이란 종전안에 대한 반응이热합니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용에 대한 게시글이 많습니다. AI의 잠재력과 위험성에 대한 논의가 진행 중입니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "조국 대표와 관련된 게시글이 많으며, 일부에서는 비판적인 의견이 나타나는 것으로 보입니다. 또한, 인공지능과 기술 관련 뉴스가 많이 보이는 것으로 보아 기술의 발전과 그에 따른 사회적 영향이 주목을 받고 있는 것으로 보입니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "경제 상황",
+      "summary": "경제 상황과 금리 압박에 대한 게시글이 많습니다. 경기 아파트의 경매건수와 주식 시장의 상황이 주목을 받고 있습니다.",
+      "post_count": 6,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "주식 시장의 상승세"
+      "keyword": "주식",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "주식 시장의 상황과 전망"
     },
     {
-      "keyword": "애플",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "기술 및 전자 산업 뉴스"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "인공지능",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "기술의 발전과 사회적 영향"
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "경제 상황과 금리 압박"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
+    "negative": 25,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "부정적인 감정이 우세하지만, AI 기술에 대한 긍정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승세는 지속될 것으로 보입니다.",
-      "action": "주식 투자",
+      "insight": "주식 시장의 상황과 전망에 대한 이해",
+      "action": "주식 시장의 상황을 주시하고, 전략을 조정해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 및 전자 산업은 주목을 받고 있는 분야입니다.",
-      "action": "기술 및 전자 산업 투자",
+      "insight": "AI 기술의 발전과 적용",
+      "action": "AI 기술의 잠재력을 이해하고, 적용할 수 있는 기회를 찾습니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 상황과 금리 압박",
+      "action": "경제 상황을 주시하고, 금리 압박에 대비해야 합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 주식 시장의 상승세와 기술 및 전자 산업의 발전을 중심으로 형성되고 있습니다. 주식 시장의 상승세는 지속될 것으로 보이며, 기술 및 전자 산업은 주목을 받고 있는 분야입니다. 또한, 인공지능과 관련된 뉴스가 많이 보이는 것으로 보아 기술의 발전과 그에 따른 사회적 영향이 주목을 받고 있는 것으로 보입니다. 이러한 트렌드를 고려하여, 주식 투자와 기술 및 전자 산업 투자를 고려할 수 있습니다.",
-  "analyzed_at": "2026-05-12T01:00:34.085Z",
+  "narrative": "현재의 트렌드는 주식 시장의 상황과 전망, AI 기술의 발전과 적용, 경제 상황과 금리 압박에 대한 관심이 집중되어 있습니다. 주식 시장의 상황과 전망에 대한 이해와 AI 기술의 잠재력을 이해하는 것이 중요합니다. 또한, 경제 상황과 금리 압박에 대비하는 것이 필요합니다. 이러한 트렌드를 이해하고, 적절한 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-12T02:30:33.827Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
