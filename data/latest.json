@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "코스피 불장, 초과세수, 김용범 실장의 발언 등 경제 및 금융 관련 주제가 인기",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 확산에 대한 관심이 높아지고 있다. 특히 클리앙 커뮤니티에서 AI 관련 게시글이 많이 올라오고 있다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "검찰개혁, 피의사실 공표, 노상원 징역 등 정치 및 사회 관련 주제가 인기",
+      "topic": "경제 및 재정",
+      "summary": "경제 및 재정 관련 게시글이 많아지고 있다. 특히 초과세수와 관련된 게시글이 많이 올라오고 있다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI, 로봇, 인공지능 등 기술 및 과학 관련 주제가 인기",
+      "topic": "정치 및 선거",
+      "summary": "정치 및 선거 관련 게시글이 많아지고 있다. 특히 선거 임박에 따라 관련된 게시글이 많이 올라오고 있다.",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "코스피 불장 관련 글"
-    },
-    {
-      "keyword": "김용범",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "김용범 실장의 발언 관련 글"
-    },
-    {
       "keyword": "AI",
-      "count": 4,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 관련 기술 및 과학 글"
+      "context": "AI 기술의 발전과 확산"
+    },
+    {
+      "keyword": "초과세수",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "경제 및 재정 관련"
+    },
+    {
+      "keyword": "선거",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 및 선거 관련"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "경제 및 금융 관련 주제가 인기",
-      "action": "경제 및 금융 관련 콘텐츠 생성",
+      "insight": "AI 기술의 발전과 확산",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "기술 및 과학 관련 주제가 인기",
-      "action": "기술 및 과학 관련 콘텐츠 생성",
+      "insight": "경제 및 재정 관련 관심 증가",
+      "action": "경제 및 재정 관련 콘텐츠 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 및 선거 관련 관심 증가",
+      "action": "정치 및 선거 관련 콘텐츠 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 인기 있는 주제는 경제 및 금융, 정치 및 사회, 기술 및 과학 관련 주제입니다. 경제 및 금융 관련 주제는 코스피 불장, 초과세수, 김용범 실장의 발언 등으로 인해 인기があり, 기술 및 과학 관련 주제는 AI, 로봇, 인공지능 등으로 인해 인기 있습니다. 이러한 주제에 대한 콘텐츠 생성을 통해 마케팅 효과를 높일 수 있습니다.",
-  "analyzed_at": "2026-05-12T06:00:35.364Z",
-  "post_count": 60,
+  "narrative": "클리앙 커뮤니티에서 AI 기술, 경제 및 재정, 정치 및 선거 관련 게시글이 많아지고 있다. 특히 AI 기술의 발전과 확산에 대한 관심이 높아지고 있다. 이는 비즈니스 모델 개발과 콘텐츠 개발의 기회를 제공한다. 그러나 정치 및 선거 관련 관심 증가에 따라 관련된 콘텐츠 개발도 필요하다. 중립적인 분위기를 유지하는 것이 중요하다.",
+  "analyzed_at": "2026-05-12T07:30:33.752Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
