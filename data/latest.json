@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 상황과 전망에 대한 게시글이 많습니다. 주식 포모와 트럼프의 이란 종전안에 대한 반응이热합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목받고 있다. 특히, 인공지능 기반의 서비스와 제품들이 증가하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용에 대한 게시글이 많습니다. AI의 잠재력과 위험성에 대한 논의가 진행 중입니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "정치 및 사회 문제",
+      "summary": "정치와 사회 문제에 관한 논의가 활발하게 진행되고 있다. 특히, 정치인과 정부 정책에 대한 평가와 비판이 주를 이루고 있다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제 상황",
-      "summary": "경제 상황과 금리 압박에 대한 게시글이 많습니다. 경기 아파트의 경매건수와 주식 시장의 상황이 주목을 받고 있습니다.",
-      "post_count": 6,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제 및 산업",
+      "summary": "경제와 산업에 관한 뉴스와 분석이 주목받고 있다. 특히, 기업의 성과와 산업 동향에 대한 논의가 활발하게 진행되고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "주식 시장의 상황과 전망"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "인공지능 기술의 발전"
     },
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치인과 정부 정책에 대한 비판"
     },
     {
       "keyword": "경제",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "경제 상황과 금리 압박"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "기업의 성과와 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정이 우세하지만, AI 기술에 대한 긍정적인 감정도 존재합니다."
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상황과 전망에 대한 이해",
-      "action": "주식 시장의 상황을 주시하고, 전략을 조정해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
+      "action": "AI 기술의 적용을 위한 투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 적용",
-      "action": "AI 기술의 잠재력을 이해하고, 적용할 수 있는 기회를 찾습니다.",
+      "insight": "정치와 사회 문제에 대한 논의는 기업의 사회적 책임과 윤리적인 의사 결정에 영향을 줄 수 있다.",
+      "action": "기업의 사회적 책임과 윤리적인 의사 결정에 대한 평가와 개선",
       "priority": "medium"
     },
     {
-      "insight": "경제 상황과 금리 압박",
-      "action": "경제 상황을 주시하고, 금리 압박에 대비해야 합니다.",
-      "priority": "high"
+      "insight": "경제와 산업에 관한 뉴스와 분석은 기업의 전략과 의사 결정에 영향을 줄 수 있다.",
+      "action": "경제와 산업에 관한 뉴스와 분석에 대한 모니터링과 평가",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 주식 시장의 상황과 전망, AI 기술의 발전과 적용, 경제 상황과 금리 압박에 대한 관심이 집중되어 있습니다. 주식 시장의 상황과 전망에 대한 이해와 AI 기술의 잠재력을 이해하는 것이 중요합니다. 또한, 경제 상황과 금리 압박에 대비하는 것이 필요합니다. 이러한 트렌드를 이해하고, 적절한 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-12T02:30:33.827Z",
+  "narrative": "최근의 트렌드와 뉴스에 따르면, AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목받고 있다. 특히, 인공지능 기반의 서비스와 제품들이 증가하고 있다. 또한, 정치와 사회 문제에 관한 논의가 활발하게 진행되고 있다. 특히, 정치인과 정부 정책에 대한 평가와 비판이 주를 이루고 있다. 경제와 산업에 관한 뉴스와 분석도 주목받고 있다. 특히, 기업의 성과와 산업 동향에 대한 논의가 활발하게 진행되고 있다. 이러한 트렌드와 뉴스를 통해, 기업은 새로운 기회를 창출하고 사회적 책임과 윤리적인 의사 결정에 대한 평가와 개선을 통해 경쟁력을 강화할 수 있다.",
+  "analyzed_at": "2026-05-12T04:00:34.181Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
