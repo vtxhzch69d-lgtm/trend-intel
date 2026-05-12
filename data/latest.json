@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "김용범 국민배당금 발언",
-      "summary": "김용범의 국민배당금 발언에 대한 논란과 반응",
+      "topic": "정치",
+      "summary": "장동혁, 중앙선대위 출범과 관련된 뉴스 및 논평",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령에 대한 뉴스와 논평",
-      "post_count": 3,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "주식시장과 관련된 뉴스 및 분석",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 관련 뉴스와 분석",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "기술",
+      "summary": "AI, 반도체, 스마트폰 등 기술 관련 뉴스",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김용범",
-      "count": 7,
+      "keyword": "장동혁",
+      "count": 5,
       "sentiment": "negative",
-      "context": "국민배당금 발언에 대한 논란"
+      "context": "정치 관련 뉴스"
     },
     {
-      "keyword": "이재명",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "대통령에 대한 뉴스와 논평"
+      "keyword": "주식",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "경제 관련 뉴스"
     },
     {
-      "keyword": "경제",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 및 주식 관련 뉴스와 분석"
+      "sentiment": "positive",
+      "context": "기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높지만, 기술 관련 뉴스에서는 긍정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "김용범의 국민배당금 발언에 대한 논란",
-      "action": "정치 및 경제 관련 뉴스와 분석에 주목",
+      "insight": "정치 관련 뉴스에서 부정적인 감정의 비중이 높아, 정치적 불안정성이 경제에 미치는 영향에 주목할 필요가 있음",
+      "action": "정치 관련 뉴스를 지속적으로 모니터링",
       "priority": "high"
     },
     {
-      "insight": "이재명 대통령에 대한 뉴스와 논평",
-      "action": "대통령에 대한 뉴스와 논평에 주목",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 주식 관련 뉴스와 분석",
-      "action": "경제 및 주식 관련 뉴스와 분석에 주목",
+      "insight": "기술 관련 뉴스에서 긍정적인 감정의 비중이 높아, 기술 산업의 성장 가능성에 주목할 필요가 있음",
+      "action": "기술 산업의 동향을 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 김용범의 국민배당금 발언에 대한 논란과 이재명 대통령에 대한 뉴스와 논평, 그리고 경제 및 주식 관련 뉴스와 분석이 주를 이루고 있습니다. 이러한 트렌드는 정치 및 경제 관련 뉴스와 분석에 주목할 필요가 있습니다. 또한, 김용범의 국민배당금 발언에 대한 논란은 높은 우선순위를 가지고 있습니다. 따라서, 이러한 트렌드에 주목하여 정치 및 경제 관련 뉴스와 분석에 집중하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-12T09:00:34.234Z",
-  "post_count": 61,
+  "narrative": "최근의 정치 관련 뉴스에서 부정적인 감정의 비중이 높아, 정치적 불안정성이 경제에 미치는 영향에 주목할 필요가 있음. 기술 관련 뉴스에서는 긍정적인 감정의 비중이 높아, 기술 산업의 성장 가능성에 주목할 필요가 있음. 또한, 주식시장과 관련된 뉴스에서는 부정적인 감정의 비중이 높아, 주식시장의 동향을 분석할 필요가 있음.",
+  "analyzed_at": "2026-05-12T10:30:33.703Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
