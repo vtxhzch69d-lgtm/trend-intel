@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "서태지 표절 논란",
-      "summary": "서태지가 표절을 했다는 논란이 일어나고 있다. 일부 네티즌들은 서태지가 표절을 했다고 주장하지만, 다른 사람들은 음모론 수준의 이야기가 아니라고 반박하고 있다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "펄어비스 어닝서프라이즈",
-      "summary": "펄어비스의 어닝서프라이즈가 발표되었다. 펄어비스의 매출과 영업이익이 예상치를 상회했다.",
-      "post_count": 2,
-      "sentiment": "positive",
+      "topic": "박상용 검사 징계",
+      "summary": "박상용 검사의 징계 청구와 관련된 뉴스입니다. 대검 감찰위가 법무부에 박상용 검사의 정직 징계를 청구했습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "삼성전자 노사 협상",
-      "summary": "삼성전자의 노사 협상이 평행선에 빠져 있다. 노동조합과 경영진이 합의를 보지 못하고 있다.",
+      "summary": "삼성전자와 노조 간의 협상이 평행선에 빠져 있습니다. 긴급조정권 발동 전망도 나왔습니다.",
       "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 뉴스입니다. 구글포토가 앨범장사를 하고 있으며, 네이버클라우드가 완전관리형 서버리스 데이터베이스 서비스를 출시했습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "서태지",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "표절 논란"
-    },
-    {
-      "keyword": "펄어비스",
+      "keyword": "박상용",
       "count": 3,
-      "sentiment": "positive",
-      "context": "어닝서프라이즈"
+      "sentiment": "negative",
+      "context": "박상용 검사의 징계 청구"
     },
     {
       "keyword": "삼성전자",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "삼성전자와 노조 간의 협상"
+    },
+    {
+      "keyword": "AI",
       "count": 5,
-      "sentiment": "negative",
-      "context": "노사 협상"
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 15,
-    "neutral": 20,
+    "negative": 5,
+    "neutral": 15,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "서태지 표절 논란은 음반 판매에 영향을 미칠 수 있다.",
-      "action": "서태지의 마케팅 전략을 재평가해야 한다.",
+      "insight": "박상용 검사의 징계 청구는 법조계에 큰 영향을 미칠 수 있습니다.",
+      "action": "법조계와의 관계를 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "펄어비스의 어닝서프라이즈는 투자자들에게 긍정적인 신호를 보낸다.",
-      "action": "펄어비스의 주식을 매수해야 한다.",
+      "insight": "삼성전자와 노조 간의 협상은 평행선에 빠져 있습니다.",
+      "action": "노조와의 관계를 개선해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "삼성전자의 노사 협상은 회사에 부정적인 영향을 미칠 수 있다.",
-      "action": "삼성전자의 노사 협상을 주시해야 한다.",
-      "priority": "high"
+      "insight": "AI 기술은 빠르게 발전하고 있습니다.",
+      "action": "AI 기술을 활용하여 경쟁력을 높여야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 서태지 표절 논란, 펄어비스의 어닝서프라이즈, 삼성전자의 노사 협상 등이다. 서태지 표절 논란은 음반 판매에 영향을 미칠 수 있으며, 펄어비스의 어닝서프라이즈는 투자자들에게 긍정적인 신호를 보낸다. 삼성전자의 노사 협상은 회사에 부정적인 영향을 미칠 수 있다. 따라서 서태지의 마케팅 전략을 재평가해야 하며, 펄어비스의 주식을 매수해야 한다. 또한, 삼성전자의 노사 협상을 주시해야 한다.",
-  "analyzed_at": "2026-05-12T14:00:34.449Z",
+  "narrative": "최근의 뉴스 트렌드는 박상용 검사의 징계 청구와 관련된 뉴스, 삼성전자와 노조 간의 협상, AI 기술과 관련된 뉴스 등입니다. 이러한 뉴스들은 법조계, 노조, 기술 산업 등 다양한 분야에 영향을 미칠 수 있습니다. 따라서 이러한 뉴스들을 주시하고, 법조계와의 관계를 강화하고, 노조와의 관계를 개선하며, AI 기술을 활용하여 경쟁력을 높여야 합니다.",
+  "analyzed_at": "2026-05-12T15:30:34.013Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
