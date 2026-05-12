@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 확산에 대한 관심이 높아지고 있다. 특히 클리앙 커뮤니티에서 AI 관련 게시글이 많이 올라오고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "김용범 국민배당금 발언",
+      "summary": "김용범의 국민배당금 발언에 대한 논란과 반응",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 재정",
-      "summary": "경제 및 재정 관련 게시글이 많아지고 있다. 특히 초과세수와 관련된 게시글이 많이 올라오고 있다.",
-      "post_count": 10,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령에 대한 뉴스와 논평",
+      "post_count": 3,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "정치 및 선거 관련 게시글이 많아지고 있다. 특히 선거 임박에 따라 관련된 게시글이 많이 올라오고 있다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 확산"
-    },
-    {
-      "keyword": "초과세수",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "경제 및 재정 관련"
-    },
-    {
-      "keyword": "선거",
-      "count": 8,
+      "keyword": "김용범",
+      "count": 7,
       "sentiment": "negative",
-      "context": "정치 및 선거 관련"
+      "context": "국민배당금 발언에 대한 논란"
+    },
+    {
+      "keyword": "이재명",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "대통령에 대한 뉴스와 논평"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 및 주식 관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 10,
     "negative": 20,
-    "neutral": 50,
+    "neutral": 30,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 확산",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "김용범의 국민배당금 발언에 대한 논란",
+      "action": "정치 및 경제 관련 뉴스와 분석에 주목",
       "priority": "high"
     },
     {
-      "insight": "경제 및 재정 관련 관심 증가",
-      "action": "경제 및 재정 관련 콘텐츠 개발",
+      "insight": "이재명 대통령에 대한 뉴스와 논평",
+      "action": "대통령에 대한 뉴스와 논평에 주목",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 선거 관련 관심 증가",
-      "action": "정치 및 선거 관련 콘텐츠 개발",
-      "priority": "low"
+      "insight": "경제 및 주식 관련 뉴스와 분석",
+      "action": "경제 및 주식 관련 뉴스와 분석에 주목",
+      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 AI 기술, 경제 및 재정, 정치 및 선거 관련 게시글이 많아지고 있다. 특히 AI 기술의 발전과 확산에 대한 관심이 높아지고 있다. 이는 비즈니스 모델 개발과 콘텐츠 개발의 기회를 제공한다. 그러나 정치 및 선거 관련 관심 증가에 따라 관련된 콘텐츠 개발도 필요하다. 중립적인 분위기를 유지하는 것이 중요하다.",
-  "analyzed_at": "2026-05-12T07:30:33.752Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 김용범의 국민배당금 발언에 대한 논란과 이재명 대통령에 대한 뉴스와 논평, 그리고 경제 및 주식 관련 뉴스와 분석이 주를 이루고 있습니다. 이러한 트렌드는 정치 및 경제 관련 뉴스와 분석에 주목할 필요가 있습니다. 또한, 김용범의 국민배당금 발언에 대한 논란은 높은 우선순위를 가지고 있습니다. 따라서, 이러한 트렌드에 주목하여 정치 및 경제 관련 뉴스와 분석에 집중하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-12T09:00:34.234Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
