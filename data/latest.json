@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노사 협상",
-      "summary": "삼성전자 노사 협상이 평행선을 달리고 있으며, 긴급조정권 발동이 예상됩니다. 노조는 사후조정 최종결렬을 선언하였습니다.",
+      "topic": "부동산 정책",
+      "summary": "부동산 정책에 대한 논의가 활발히 진행되고 있으며, 일부 사용자는 정책의 효과에 대해 의문을 제기하고 있습니다.",
       "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "삼성전자 노조",
+      "summary": "삼성전자 노조의 사후조정 최종결렬과 관련된 뉴스가 보도되고 있으며, 일부 사용자는 노조의 행동에 대해 비판적인 의견을 제기하고 있습니다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 활용되고 있으며, 관련 뉴스와 기사들이 많이 게재되고 있습니다. 특히, 구글, 애플, 네이버 등의 기업들이 AI 기술을 개발하고 있습니다.",
+      "summary": "AI 기술의 발전과 관련된 뉴스가 보도되고 있으며, 일부 사용자는 AI 기술의 잠재적 활용 가능성에 대해 관심을 보이고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 증시",
-      "summary": "한국증시 시총이 글로벌 6위로 상승하였으며, 반도체 랠리가 계속되고 있습니다. 그러나, 일부 기업들의 부진도 보고되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 10,
+      "keyword": "부동산",
+      "count": 7,
       "sentiment": "negative",
-      "context": "노사 협상과 관련된 뉴스"
+      "context": "부동산 정책에 대한 논의"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "삼성전자 노조의 사후조정 최종결렬"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "기술 개발과 관련된 뉴스"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "증시와 관련된 뉴스"
+      "context": "AI 기술의 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적인 분위기이지만, 일부 부정적인 뉴스도 존재합니다."
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노사 협상이 평행선을 달리고 있으므로, 관련 기업들의 주가에 영향을 줄 수 있습니다.",
-      "action": "주가 변동에 주목할 필요가 있습니다.",
-      "priority": "high"
+      "insight": "부동산 정책에 대한 논의가 활발히 진행되고 있으며, 일부 사용자는 정책의 효과에 대해 의문을 제기하고 있습니다.",
+      "action": "부동산 정책에 대한 의견 수렴",
+      "priority": "medium"
     },
     {
-      "insight": "AI 기술이 다양한 분야에서 활용되고 있으므로, 관련 기술 개발에 투자할 필요가 있습니다.",
-      "action": "AI 기술 개발에 투자할 필요가 있습니다.",
-      "priority": "medium"
+      "insight": "AI 기술의 발전과 관련된 뉴스가 보도되고 있으며, 일부 사용자는 AI 기술의 잠재적 활용 가능성에 대해 관심을 보이고 있습니다.",
+      "action": "AI 기술에 대한 투자",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노사 협상과 AI 기술, 경제 및 증시 관련 뉴스가 많이 게재되고 있습니다. 특히, 삼성전자 노사 협상은 평행선을 달리고 있으며, 관련 기업들의 주가에 영향을 줄 수 있습니다. 또한, AI 기술은 다양한 분야에서 활용되고 있으므로, 관련 기술 개발에 투자할 필요가 있습니다. 그러나, 일부 부정적인 뉴스도 존재하므로, 주의가 필요합니다.",
-  "analyzed_at": "2026-05-12T19:00:34.455Z",
+  "narrative": "최근 부동산 정책에 대한 논의가 활발히 진행되고 있으며, 일부 사용자는 정책의 효과에 대해 의문을 제기하고 있습니다. 또한, 삼성전자 노조의 사후조정 최종결렬과 관련된 뉴스가 보도되고 있으며, 일부 사용자는 노조의 행동에 대해 비판적인 의견을 제기하고 있습니다. 반면, AI 기술의 발전과 관련된 뉴스가 보도되고 있으며, 일부 사용자는 AI 기술의 잠재적 활용 가능성에 대해 관심을 보이고 있습니다. 이러한 트렌드에 따라, 부동산 정책에 대한 의견 수렴과 AI 기술에 대한 투자가 필요할 것으로 보입니다.",
+  "analyzed_at": "2026-05-12T20:30:34.026Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
