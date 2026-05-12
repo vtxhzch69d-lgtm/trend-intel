@@ -1,85 +1,60 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스와 여론조사 결과",
+      "topic": "주식 및 경제",
+      "summary": "코스피 8천 찍을거 같다는 게시글이 많은 것으로 보아 주식 시장의 상승세가 지속되고 있는 것으로 분석됩니다. 또한, 애플과 삼성전자 관련 뉴스가 많이 보이는 것으로 보아 기술 및 전자 산업이 주목을 받고 있는 것으로 보입니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "조국 대표와 관련된 게시글이 많으며, 일부에서는 비판적인 의견이 나타나는 것으로 보입니다. 또한, 인공지능과 기술 관련 뉴스가 많이 보이는 것으로 보아 기술의 발전과 그에 따른 사회적 영향이 주목을 받고 있는 것으로 보입니다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "最近의 경제 동향과 기업 실적",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
-    },
-    {
-      "topic": "기술",
-      "summary": "最近의 기술 발전과 신제품 출시",
-      "post_count": 12,
-      "sentiment": "positive",
       "urgency": "high"
-    },
-    {
-      "topic": "사회",
-      "summary": "最近의 사회 문제와 사건",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
+      "keyword": "코스피",
+      "count": 5,
       "sentiment": "positive",
-      "context": "기술 발전과 적용"
+      "context": "주식 시장의 상승세"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "애플",
+      "count": 4,
       "sentiment": "neutral",
-      "context": "最近의 경제 동향"
+      "context": "기술 및 전자 산업 뉴스"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "最近의 정치 뉴스와 여론조사 결과"
-    },
-    {
-      "keyword": "기술",
-      "count": 12,
+      "keyword": "인공지능",
+      "count": 3,
       "sentiment": "positive",
-      "context": "最近의 기술 발전과 신제품 출시"
+      "context": "기술의 발전과 사회적 영향"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 10,
-    "neutral": 15,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 발전이 경제 성장에 기여할 수 있다",
-      "action": "기술 투자 증가",
+      "insight": "주식 시장의 상승세는 지속될 것으로 보입니다.",
+      "action": "주식 투자",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스와 여론조사 결과가 기업에 영향을 줄 수 있다",
-      "action": "정치 뉴스 모니터링",
+      "insight": "기술 및 전자 산업은 주목을 받고 있는 분야입니다.",
+      "action": "기술 및 전자 산업 투자",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 문제가 기업의 사회적 책임에 영향을 줄 수 있다",
-      "action": "사회적 책임 활동 증가",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 여론조사 결과는 기업에 영향을 줄 수 있습니다. 기술 발전이 경제 성장에 기여할 수 있으며, 사회 문제가 기업의 사회적 책임에 영향을 줄 수 있습니다. 따라서 기업은 기술 투자와 사회적 책임 활동을 증가시키고 정치 뉴스를 모니터링해야 합니다. 또한, 최근의 경제 동향과 기술 발전을 주시하여 기업의 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-05-11T23:30:33.415Z",
+  "narrative": "현재의 트렌드는 주식 시장의 상승세와 기술 및 전자 산업의 발전을 중심으로 형성되고 있습니다. 주식 시장의 상승세는 지속될 것으로 보이며, 기술 및 전자 산업은 주목을 받고 있는 분야입니다. 또한, 인공지능과 관련된 뉴스가 많이 보이는 것으로 보아 기술의 발전과 그에 따른 사회적 영향이 주목을 받고 있는 것으로 보입니다. 이러한 트렌드를 고려하여, 주식 투자와 기술 및 전자 산업 투자를 고려할 수 있습니다.",
+  "analyzed_at": "2026-05-12T01:00:34.085Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
