@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자가 영업이익 10% 상한폐지 파업을 시작했으며, 이는 회사와 노조 간의 협상에서 중요한 이슈로 떠올랐다.",
+      "topic": "삼성전자 노조",
+      "summary": "삼성전자 노조의 성과급 요구와 관련된 게시글이 많습니다. 일부 사용자는 노조의 요구를 지지하는 반면, 다른 사용자는 노조의 요구를 비판하고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "high"
-    },
-    {
-      "topic": "반도체",
-      "summary": "미국시장에서 반도체가 다시 달리며, 관련 주가가 상승하고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "한국형 저궤도 위성통신과 국방·UAM 등 범부처 수요가 몰려, 공공 거버넌스 추진이 논의되고 있다.",
-      "post_count": 8,
+      "topic": "마이클 영화",
+      "summary": "마이클 영화에 대한 평론과 감상이 많은 게시글이 있습니다. 일부 사용자는 영화를 추천하는 반면, 다른 사용자는 영화를 비판하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "low"
+    },
+    {
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 관련된 게시글이 많습니다. AI, 양자컴퓨팅, 반도체 등 다양한 주제가 포함되어 있습니다.",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     }
@@ -25,43 +25,48 @@
   "keywords": [
     {
       "keyword": "삼성전자",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "노조, 성과급, 기술"
+    },
+    {
+      "keyword": "마이클",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "영화, 평론, 감상"
+    },
+    {
+      "keyword": "AI",
       "count": 15,
       "sentiment": "neutral",
-      "context": "영업이익 10% 상한폐지 파업"
-    },
-    {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "미국시장에서 반도체가 다시 달리며"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "한국형 저궤도 위성통신과 국방·UAM 등"
+      "context": "기술, 뉴스, 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자와 관련된 주가가 상승하고 있다.",
-      "action": "관련 주식을 매수하거나, 삼성전자와 관련된 산업에 투자하는 것을 고려",
+      "insight": "삼성전자 노조의 성과급 요구가 기업의 이미지에 영향을 미칠 수 있습니다.",
+      "action": "노조와의 협상을 통해 성과급 요구를 해결하는 것이 필요합니다.",
       "priority": "high"
     },
     {
-      "insight": "한국형 저궤도 위성통신과 국방·UAM 등 범부처 수요가 몰려, 공공 거버넌스 추진이 논의되고 있다.",
-      "action": "관련 산업에 투자하거나, 공공 거버넌스 추진에 참여하는 것을 고려",
+      "insight": "마이클 영화의 평론과 감상이 영화의 흥행에 영향을 미칠 수 있습니다.",
+      "action": "영화의 마케팅 전략을 조정하여 영화의 흥행을 높이는 것이 필요합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 뉴스가 기업의 기술 개발과 혁신에 영향을 미칠 수 있습니다.",
+      "action": "최신 기술 뉴스를 모니터링하여 기술 개발과 혁신을 위한 기회를 찾는 것이 필요합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 삼성전자와 관련된 주가가 상승하고 있으며, 이는 영업이익 10% 상한폐지 파업과 관련이 있다. 또한, 한국형 저궤도 위성통신과 국방·UAM 등 범부처 수요가 몰려, 공공 거버넌스 추진이 논의되고 있다. 이러한 추세는 중립적인 분위기를 보이고 있으며, 관련 산업에 투자하거나, 공공 거버넌스 추진에 참여하는 것을 고려할 수 있다.",
-  "analyzed_at": "2026-05-13T14:30:34.127Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조의 성과급 요구와 마이클 영화의 평론과 감상이 많은 게시글이 있습니다. 또한, 최신 기술 뉴스가 다양한 주제를 포함하여 많은 게시글이 있습니다. 이러한 트렌드는 기업의 이미지, 영화의 흥행, 기술 개발과 혁신에 영향을 미칠 수 있습니다. 따라서, 노조와의 협상을 통해 성과급 요구를 해결하고, 영화의 마케팅 전략을 조정하여 영화의 흥행을 높이는 것이 필요합니다. 또한, 최신 기술 뉴스를 모니터링하여 기술 개발과 혁신을 위한 기회를 찾는 것이 필요합니다.",
+  "analyzed_at": "2026-05-13T16:00:34.771Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
