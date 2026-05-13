@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조 파업",
-      "summary": "삼성전자 노조 파업과 관련된 논의가 활발하게 진행되고 있습니다.",
+      "topic": "삼성전자 파업",
+      "summary": "삼성전자 파업으로 인한 주식 할인과 여론조사에 대한 관심이 높다. 파업의 영향과 향후 전망에 대한 논의가 활발하다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 발전",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있습니다.",
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련 뉴스와 논의가 많다. AI의 발전과 적용, 그리고 관련 기업들의 움직임에 대한 관심이 높다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "반도체 산업 동향",
-      "summary": "반도체 산업의 동향과 관련된 주제들이 논의되고 있습니다.",
-      "post_count": 8,
+      "topic": "경제와 주식",
+      "summary": "경제와 주식 관련 뉴스와 논의가 많다. 반도체 산업과 관련 기업들의 움직임, 그리고 경제 전망에 대한 관심이 높다.",
+      "post_count": 12,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
       "count": 20,
-      "sentiment": "negative",
-      "context": "노조 파업과 관련된 논의"
+      "sentiment": "neutral",
+      "context": "파업과 주식 관련 논의"
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 발전과 관련된 논의"
+      "context": "기술 발전과 적용"
     },
     {
-      "keyword": "반도체",
-      "count": 15,
+      "keyword": "주식",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "산업 동향과 관련된 논의"
+      "context": "경제와 주식 관련 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적인 분위기"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조 파업의 해결은 중요합니다.",
-      "action": "노조와의 협상을 강화해야 합니다.",
+      "insight": "삼성전자 파업의 영향",
+      "action": "파업의 여론조사와 향후 전망을 분석",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 기회입니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발해야 합니다.",
+      "insight": "AI와 기술의 발전",
+      "action": "AI와 기술 관련 뉴스와 논의를 분석",
       "priority": "medium"
     },
     {
-      "insight": "반도체 산업의 동향을 주시해야 합니다.",
-      "action": "반도체 산업의 동향을 분석하고 대응해야 합니다.",
-      "priority": "low"
+      "insight": "경제와 주식의 동향",
+      "action": "경제와 주식 관련 뉴스와 논의를 분석",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재 온라인 커뮤니티에서는 삼성전자 노조 파업과 관련된 논의가 활발하게 진행되고 있습니다. 또한, AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있습니다. 반도체 산업의 동향도 주목할 만한 주제입니다. 이러한 주제들은 기업의 비즈니스 전략과 관련이 있으므로, 기업은 이러한 주제들을 주시하고 대응해야 합니다. 특히, 삼성전자 노조 파업의 해결은 중요하며, AI 기술의 발전은 기회입니다. 반도체 산업의 동향을 주시하고 대응하는 것도 중요합니다.",
-  "analyzed_at": "2026-05-13T01:00:33.748Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자 파업과 AI 및 기술 관련 뉴스가 많이 обсужд되고 있습니다. 또한, 경제와 주식 관련 뉴스도 많이 обсужд되고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업과 마케터는 자신의 비즈니스 전략을 수립하고, 고객의 관심과需求을 파악할 수 있습니다. 또한, 이러한 분석 결과를 통해, 새로운 비즈니스 기회를 발굴하고, 경쟁사와의 차별화를 구축할 수 있습니다.",
+  "analyzed_at": "2026-05-13T02:30:33.736Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
