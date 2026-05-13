@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "하이닉스 주가",
-      "summary": "하이닉스 주가가 상승하고 있으며, 관련 뉴스와 포럼에서 많이 обсужд되고 있습니다.",
+      "topic": "삼성전자 노조 파업",
+      "summary": "삼성전자 노조 파업으로 인해 회사와 노조 간의 напря張이 높아지고 있다. 노조는 파업을 통해 임금 인상과 노동 조건 개선을 요구하고 있다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "국회의장 조정식",
-      "summary": "국회의장 조정식에 대한 뉴스와 의견이 많이 나오고 있습니다.",
+      "topic": "한국형 저궤도 위성통신",
+      "summary": "한국형 저궤도 위성통신 사업이 국방·UAM 등 범부처 수요 몰려 공공 거버넌스 추진되고 있다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 새로운 기술과 제품에 대한 뉴스와 의견이 많이 나오고 있습니다.",
+      "topic": "AI 기술 개발",
+      "summary": "AI 기술 개발이 활발하게 진행되고 있으며, 다양한 산업 분야에서 적용되고 있다.",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
@@ -24,49 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "하이닉스",
+      "keyword": "삼성전자",
       "count": 15,
-      "sentiment": "positive",
-      "context": "하이닉스 주가 상승"
+      "sentiment": "negative",
+      "context": "노조 파업 관련"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "삼성전자 새로운 기술"
+      "context": "기술 개발 및 산업 적용"
     },
     {
-      "keyword": "국회의장",
+      "keyword": "한국형 저궤도 위성통신",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "국회의장 조정식"
+      "sentiment": "positive",
+      "context": "국방·UAM 등 범부처 수요"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "긍정적"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "하이닉스 주가 상승",
-      "action": "주식 투자",
+      "insight": "삼성전자 노조 파업으로 인해 회사와 노조 간의 напря張이 높아지고 있다.",
+      "action": "노조와의 협상을 통해 파업을 해결해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 새로운 기술",
-      "action": "기술 개발",
+      "insight": "한국형 저궤도 위성통신 사업이 국방·UAM 등 범부처 수요 몰려 공공 거버넌스 추진되고 있다.",
+      "action": "한국형 저궤도 위성통신 사업에 투자하고 참여해야 한다.",
       "priority": "medium"
     },
     {
-      "insight": "국회의장 조정식",
-      "action": "정치 뉴스",
-      "priority": "low"
+      "insight": "AI 기술 개발이 활발하게 진행되고 있으며, 다양한 산업 분야에서 적용되고 있다.",
+      "action": "AI 기술 개발에 투자하고 적용해야 한다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재 하이닉스 주가 상승과 관련된 뉴스와 포럼에서 많은 обсужд이가 이루어지고 있습니다. 또한, 삼성전자의 새로운 기술과 제품에 대한 뉴스와 의견이 많이 나오고 있습니다. 국회의장 조정식에 대한 뉴스와 의견도 많이 나오고 있습니다. 이러한 트렌드와 키워드를 분석하여, 주식 투자와 기술 개발에 대한 인사이트를 얻을 수 있습니다.",
-  "analyzed_at": "2026-05-13T08:30:33.597Z",
+  "narrative": "最近의 트렌드 분석 결과, 삼성전자 노조 파업과 한국형 저궤도 위성통신 사업이 주목을 끌고 있다. 또한, AI 기술 개발이 활발하게 진행되고 있으며, 다양한 산업 분야에서 적용되고 있다. 이러한 트렌드에 따라, 회사와 노조 간의 협상을 통해 파업을 해결하고, 한국형 저궤도 위성통신 사업에 투자하고 참여하며, AI 기술 개발에 투자하고 적용해야 한다. 이러한 전략을 통해, 회사와 산업의 발전을 도모할 수 있을 것이다.",
+  "analyzed_at": "2026-05-13T10:00:34.261Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
