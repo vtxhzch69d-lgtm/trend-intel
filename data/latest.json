@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 주식",
-      "summary": "삼성전자 주식에 대한 논의가 활발합니다. 주가 변동과 관련된 다양한 의견이 있습니다.",
+      "topic": "삼성전자",
+      "summary": "삼성전자가 영업이익 10% 상한폐지 파업을 시작했으며, 이는 회사와 노조 간의 협상에서 중요한 이슈로 떠올랐다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "경제 활성화",
-      "summary": "전통시장 활성화와 관련된 다양한 의견이 있습니다. 정부의 정책과 시장의 반응에 대한 논의가 있습니다.",
+      "topic": "반도체",
+      "summary": "미국시장에서 반도체가 다시 달리며, 관련 주가가 상승하고 있다.",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술에 대한 논의가 활발합니다. 다양한 산업에서 AI 기술의 적용과 관련된 의견이 있습니다.",
+      "topic": "경제",
+      "summary": "한국형 저궤도 위성통신과 국방·UAM 등 범부처 수요가 몰려, 공공 거버넌스 추진이 논의되고 있다.",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "삼성전자",
       "count": 15,
       "sentiment": "neutral",
-      "context": "주식과 관련된 논의"
+      "context": "영업이익 10% 상한폐지 파업"
+    },
+    {
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "미국시장에서 반도체가 다시 달리며"
     },
     {
       "keyword": "경제",
       "count": 10,
-      "sentiment": "positive",
-      "context": "활성화와 관련된 논의"
-    },
-    {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "기술과 관련된 논의"
+      "sentiment": "neutral",
+      "context": "한국형 저궤도 위성통신과 국방·UAM 등"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
+    "negative": 5,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부에서는 긍정적인 의견이 있습니다."
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 주식에 대한 투자",
-      "action": "주가 변동을 주시하고, 투자 전략을 수립하세요.",
+      "insight": "삼성전자와 관련된 주가가 상승하고 있다.",
+      "action": "관련 주식을 매수하거나, 삼성전자와 관련된 산업에 투자하는 것을 고려",
       "priority": "high"
     },
     {
-      "insight": "경제 활성화 정책",
-      "action": "정부의 정책을 주시하고, 시장의 반응을 분석하세요.",
+      "insight": "한국형 저궤도 위성통신과 국방·UAM 등 범부처 수요가 몰려, 공공 거버넌스 추진이 논의되고 있다.",
+      "action": "관련 산업에 투자하거나, 공공 거버넌스 추진에 참여하는 것을 고려",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 적용",
-      "action": "다양한 산업에서 AI 기술의 적용을 연구하고, 사업 기회를 찾으세요.",
-      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 삼성전자 주식과 경제 활성화, AI 기술의 적용에 대한 논의가 활발합니다. 이러한 트렌드를 분석하여, 사업 기회를 찾고, 투자 전략을 수립하는 것이 중요합니다. 또한, 정부의 정책과 시장의 반응을 주시하고, 중립적인 분위기에서 긍정적인 의견을 찾아내는 것이 필요합니다.",
-  "analyzed_at": "2026-05-13T13:00:34.570Z",
+  "narrative": "현재 삼성전자와 관련된 주가가 상승하고 있으며, 이는 영업이익 10% 상한폐지 파업과 관련이 있다. 또한, 한국형 저궤도 위성통신과 국방·UAM 등 범부처 수요가 몰려, 공공 거버넌스 추진이 논의되고 있다. 이러한 추세는 중립적인 분위기를 보이고 있으며, 관련 산업에 투자하거나, 공공 거버넌스 추진에 참여하는 것을 고려할 수 있다.",
+  "analyzed_at": "2026-05-13T14:30:34.127Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
