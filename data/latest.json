@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "한국 1분기 성장률 세계 1위, GDP 1.694%로 성장률 급회복",
+      "topic": "삼성전자 주식",
+      "summary": "삼성전자 주식에 대한 논의가 활발합니다. 주가 변동과 관련된 다양한 의견이 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 오늘 오전, 선거와 관련한 혼자만의 생각",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "경제 활성화",
+      "summary": "전통시장 활성화와 관련된 다양한 의견이 있습니다. 정부의 정책과 시장의 반응에 대한 논의가 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "삼성전자, 4분기 '포스트 HBM' CXL 3.1 양산 추진, 애플, '4면 벤딩' 디스플레이 업그레이드",
-      "post_count": 12,
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 논의가 활발합니다. 다양한 산업에서 AI 기술의 적용과 관련된 의견이 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "high"
     }
@@ -26,47 +26,47 @@
     {
       "keyword": "삼성전자",
       "count": 15,
-      "sentiment": "positive",
-      "context": "기술 분야에서 활발한 활동"
+      "sentiment": "neutral",
+      "context": "주식과 관련된 논의"
     },
     {
-      "keyword": "이재명",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 분야에서 다양한 의견"
-    },
-    {
-      "keyword": "경제 성장률",
+      "keyword": "경제",
       "count": 10,
       "sentiment": "positive",
-      "context": "한국 1분기 성장률 세계 1위"
+      "context": "활성화와 관련된 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "기술과 관련된 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 20,
     "negative": 10,
-    "neutral": 20,
-    "overall_mood": "긍정적"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부에서는 긍정적인 의견이 있습니다."
   },
   "business_insights": [
     {
-      "insight": "한국 경제 성장률이 세계 1위로 급회복",
-      "action": "투자 기회를 모색",
+      "insight": "삼성전자 주식에 대한 투자",
+      "action": "주가 변동을 주시하고, 투자 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자와 애플의 기술 경쟁",
-      "action": "최신 기술 동향을 주시",
+      "insight": "경제 활성화 정책",
+      "action": "정부의 정책을 주시하고, 시장의 반응을 분석하세요.",
       "priority": "medium"
     },
     {
-      "insight": "정치 분야에서 다양한 의견",
-      "action": "정책 변화를 예측",
-      "priority": "low"
+      "insight": "AI 기술의 적용",
+      "action": "다양한 산업에서 AI 기술의 적용을 연구하고, 사업 기회를 찾으세요.",
+      "priority": "high"
     }
   ],
-  "narrative": "한국 경제 성장률이 세계 1위로 급회복하였으며, 삼성전자와 애플의 기술 경쟁이 가열되고 있다. 정치 분야에서는 다양한 의견이 존재하며, 정책 변화를 예측하는 것이 중요하다. 이러한 트렌드와 인사이트를 바탕으로 사업 전략을 수립하고, 투자 기회를 모색하는 것이 필요하다.",
-  "analyzed_at": "2026-05-13T11:30:33.930Z",
+  "narrative": "현재의 트렌드는 삼성전자 주식과 경제 활성화, AI 기술의 적용에 대한 논의가 활발합니다. 이러한 트렌드를 분석하여, 사업 기회를 찾고, 투자 전략을 수립하는 것이 중요합니다. 또한, 정부의 정책과 시장의 반응을 주시하고, 중립적인 분위기에서 긍정적인 의견을 찾아내는 것이 필요합니다.",
+  "analyzed_at": "2026-05-13T13:00:34.570Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
