@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조 파업",
-      "summary": "삼성전자 노조 파업으로 인해 회사와 노조 간의 напря張이 높아지고 있다. 노조는 파업을 통해 임금 인상과 노동 조건 개선을 요구하고 있다.",
+      "topic": "경제",
+      "summary": "한국 1분기 성장률 세계 1위, GDP 1.694%로 성장률 급회복",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "한국형 저궤도 위성통신",
-      "summary": "한국형 저궤도 위성통신 사업이 국방·UAM 등 범부처 수요 몰려 공공 거버넌스 추진되고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "이재명 대통령의 오늘 오전, 선거와 관련한 혼자만의 생각",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "AI 기술 개발이 활발하게 진행되고 있으며, 다양한 산업 분야에서 적용되고 있다.",
-      "post_count": 8,
+      "topic": "기술",
+      "summary": "삼성전자, 4분기 '포스트 HBM' CXL 3.1 양산 추진, 애플, '4면 벤딩' 디스플레이 업그레이드",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
       "count": 15,
-      "sentiment": "negative",
-      "context": "노조 파업 관련"
+      "sentiment": "positive",
+      "context": "기술 분야에서 활발한 활동"
     },
     {
-      "keyword": "AI",
+      "keyword": "이재명",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 분야에서 다양한 의견"
+    },
+    {
+      "keyword": "경제 성장률",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 개발 및 산업 적용"
-    },
-    {
-      "keyword": "한국형 저궤도 위성통신",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "국방·UAM 등 범부처 수요"
+      "context": "한국 1분기 성장률 세계 1위"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조 파업으로 인해 회사와 노조 간의 напря張이 높아지고 있다.",
-      "action": "노조와의 협상을 통해 파업을 해결해야 한다.",
+      "insight": "한국 경제 성장률이 세계 1위로 급회복",
+      "action": "투자 기회를 모색",
       "priority": "high"
     },
     {
-      "insight": "한국형 저궤도 위성통신 사업이 국방·UAM 등 범부처 수요 몰려 공공 거버넌스 추진되고 있다.",
-      "action": "한국형 저궤도 위성통신 사업에 투자하고 참여해야 한다.",
+      "insight": "삼성전자와 애플의 기술 경쟁",
+      "action": "최신 기술 동향을 주시",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술 개발이 활발하게 진행되고 있으며, 다양한 산업 분야에서 적용되고 있다.",
-      "action": "AI 기술 개발에 투자하고 적용해야 한다.",
-      "priority": "medium"
+      "insight": "정치 분야에서 다양한 의견",
+      "action": "정책 변화를 예측",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, 삼성전자 노조 파업과 한국형 저궤도 위성통신 사업이 주목을 끌고 있다. 또한, AI 기술 개발이 활발하게 진행되고 있으며, 다양한 산업 분야에서 적용되고 있다. 이러한 트렌드에 따라, 회사와 노조 간의 협상을 통해 파업을 해결하고, 한국형 저궤도 위성통신 사업에 투자하고 참여하며, AI 기술 개발에 투자하고 적용해야 한다. 이러한 전략을 통해, 회사와 산업의 발전을 도모할 수 있을 것이다.",
-  "analyzed_at": "2026-05-13T10:00:34.261Z",
+  "narrative": "한국 경제 성장률이 세계 1위로 급회복하였으며, 삼성전자와 애플의 기술 경쟁이 가열되고 있다. 정치 분야에서는 다양한 의견이 존재하며, 정책 변화를 예측하는 것이 중요하다. 이러한 트렌드와 인사이트를 바탕으로 사업 전략을 수립하고, 투자 기회를 모색하는 것이 필요하다.",
+  "analyzed_at": "2026-05-13T11:30:33.930Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
