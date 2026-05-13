@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "하이닉스 주가 상승",
-      "summary": "하이닉스 주가가 상승하면서 관련 주식과 경제 뉴스가 많아졌습니다.",
+      "topic": "하이닉스 주가",
+      "summary": "하이닉스 주가가 상승하고 있으며, 관련 뉴스와 포럼에서 많이 обсужд되고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자 노조 파업",
-      "summary": "삼성전자 노조의 파업과 관련된 뉴스와 의견이 많이 나왔습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "국회의장 조정식",
+      "summary": "국회의장 조정식에 대한 뉴스와 의견이 많이 나오고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "AI 기술 개발과 관련된 뉴스와 의견이 많이 나왔습니다.",
-      "post_count": 12,
+      "topic": "삼성전자",
+      "summary": "삼성전자의 새로운 기술과 제품에 대한 뉴스와 의견이 많이 나오고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -27,47 +27,47 @@
       "keyword": "하이닉스",
       "count": 15,
       "sentiment": "positive",
-      "context": "주가 상승"
+      "context": "하이닉스 주가 상승"
     },
     {
       "keyword": "삼성전자",
       "count": 10,
-      "sentiment": "negative",
-      "context": "노조 파업"
+      "sentiment": "positive",
+      "context": "삼성전자 새로운 기술"
     },
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "기술 개발"
+      "keyword": "국회의장",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "국회의장 조정식"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "전체적으로 긍정적인 분위기입니다."
+    "positive": 20,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "하이닉스 주가 상승으로 인한 경제 성장",
-      "action": "투자 기회 탐색",
+      "insight": "하이닉스 주가 상승",
+      "action": "주식 투자",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 노조 파업으로 인한 생산성 저하",
-      "action": "노조와의 협상 강화",
+      "insight": "삼성전자 새로운 기술",
+      "action": "기술 개발",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술 개발로 인한 산업 혁신",
-      "action": "AI 기술 투자",
-      "priority": "medium"
+      "insight": "국회의장 조정식",
+      "action": "정치 뉴스",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 하이닉스 주가 상승과 삼성전자 노조 파업이 주목을 받았습니다. 또한 AI 기술 개발과 관련된 뉴스와 의견이 많이 나왔습니다. 이러한 트렌드를 분석하여 투자 기회를 탐색하고 노조와의 협상 강화, AI 기술 투자를 통해 산업 혁신을 도모할 수 있습니다. 전반적으로 긍정적인 분위기이지만, 노조 파업과 같은 부정적인 요인도 고려해야 합니다.",
-  "analyzed_at": "2026-05-13T07:00:33.908Z",
-  "post_count": 61,
+  "narrative": "현재 하이닉스 주가 상승과 관련된 뉴스와 포럼에서 많은 обсужд이가 이루어지고 있습니다. 또한, 삼성전자의 새로운 기술과 제품에 대한 뉴스와 의견이 많이 나오고 있습니다. 국회의장 조정식에 대한 뉴스와 의견도 많이 나오고 있습니다. 이러한 트렌드와 키워드를 분석하여, 주식 투자와 기술 개발에 대한 인사이트를 얻을 수 있습니다.",
+  "analyzed_at": "2026-05-13T08:30:33.597Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
