@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 파업",
-      "summary": "삼성전자 파업으로 인한 주식 할인과 여론조사에 대한 관심이 높다. 파업의 영향과 향후 전망에 대한 논의가 활발하다.",
+      "topic": "주식 시장",
+      "summary": "삼전 양전과 엔씨의 신작 발표 등 주식 시장 관련 뉴스가 많습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 뉴스와 논의가 많다. AI의 발전과 적용, 그리고 관련 기업들의 움직임에 대한 관심이 높다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "이재명 대통령과 여론조작용 가짜뉴스 관련 뉴스가 많습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제와 주식",
-      "summary": "경제와 주식 관련 뉴스와 논의가 많다. 반도체 산업과 관련 기업들의 움직임, 그리고 경제 전망에 대한 관심이 높다.",
-      "post_count": 12,
+      "topic": "기술",
+      "summary": "AI와 반도체 관련 뉴스가 많습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "파업과 주식 관련 논의"
+      "keyword": "삼전",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "주식 시장 관련 뉴스에서 자주 언급됩니다."
+    },
+    {
+      "keyword": "이재명",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "여론조작용 가짜뉴스 관련 뉴스에서 자주 언급됩니다."
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "기술 발전과 적용"
-    },
-    {
-      "keyword": "주식",
-      "count": 10,
+      "count": 4,
       "sentiment": "neutral",
-      "context": "경제와 주식 관련 논의"
+      "context": "기술 관련 뉴스에서 자주 언급됩니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 파업의 영향",
-      "action": "파업의 여론조사와 향후 전망을 분석",
+      "insight": "주식 시장의 변동성에 대비해야 합니다.",
+      "action": "주식 투자 전략을 재검토하세요.",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술의 발전",
-      "action": "AI와 기술 관련 뉴스와 논의를 분석",
+      "insight": "정치 뉴스에 대한 관심이 높습니다.",
+      "action": "정치 뉴스를 모니터링하세요.",
       "priority": "medium"
     },
     {
-      "insight": "경제와 주식의 동향",
-      "action": "경제와 주식 관련 뉴스와 논의를 분석",
-      "priority": "medium"
+      "insight": "기술 관련 뉴스가 많습니다.",
+      "action": "기술 관련 뉴스를 모니터링하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 파업과 AI 및 기술 관련 뉴스가 많이 обсужд되고 있습니다. 또한, 경제와 주식 관련 뉴스도 많이 обсужд되고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업과 마케터는 자신의 비즈니스 전략을 수립하고, 고객의 관심과需求을 파악할 수 있습니다. 또한, 이러한 분석 결과를 통해, 새로운 비즈니스 기회를 발굴하고, 경쟁사와의 차별화를 구축할 수 있습니다.",
-  "analyzed_at": "2026-05-13T02:30:33.736Z",
+  "narrative": "최근의 트렌드는 주식 시장과 정치 뉴스에 대한 관심이 높습니다. 삼전 양전과 엔씨의 신작 발표 등 주식 시장 관련 뉴스가 많습니다. 또한, 이재명 대통령과 여론조작용 가짜뉴스 관련 뉴스가 많습니다. 기술 관련 뉴스도 많으며, AI와 반도체 관련 뉴스가 주를 이루고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-13T04:00:33.731Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
