@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조의 성과급 요구와 관련된 논의가 활발하게 진행 중입니다. 일부 사용자는 노조의 요구를 지지하며, 다른 사용자는 노조의 요구를 비판하고 있습니다.",
+      "topic": "삼성전자 주가",
+      "summary": "삼성전자 주가가 오르면서 주주들이 언플을 해주고 있다. 또한, 삼전 노조의 파업 가능성이 논의되고 있다.",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 논의가 진행 중입니다. 일부 사용자는 AI 기술의 잠재적 활용 가능성을 강조하며, 다른 사용자는 AI 기술의 보안 취약점을 우려하고 있습니다.",
-      "post_count": 10,
+      "topic": "미토스",
+      "summary": "미토스 관련 뉴스가 여러 개 출현하고 있다. 미토스의 보안 취약점과 한국형 미토스 개발 가능성 등이 논의되고 있다.",
+      "post_count": 4,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "주식 시장",
+      "summary": "주식 시장 관련 뉴스가 여러 개 출현하고 있다. 나스닥과 S&P 500의 사상 최고치 갱신과 하닉의 주가 상승 등이 논의되고 있다.",
+      "post_count": 6,
       "sentiment": "positive",
       "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스가 다수 게시되고 있습니다. 일부 사용자는 경제 성장과 관련된 뉴스를 공유하며, 다른 사용자는 금융 관련 문제를 논의하고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "삼성전자 관련 뉴스와 논의"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 논의"
+      "context": "주가 상승과 관련된 뉴스"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "미토스",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 논의"
+      "context": "보안 취약점과 한국형 미토스 개발 가능성"
+    },
+    {
+      "keyword": "주식",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "주식 시장 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조의 성과급 요구는 노동자와 기업의 관계를 재정의할 수 있습니다.",
-      "action": "노조와의 협상을 강화하고 노동자와의 관계를 개선해야 합니다.",
+      "insight": "삼성전자 주가 상승",
+      "action": "주식 투자",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 잠재적 활용 가능성을 연구하고 투자해야 합니다.",
+      "insight": "미토스 보안 취약점",
+      "action": "보안 강화",
       "priority": "medium"
+    },
+    {
+      "insight": "주식 시장 상승",
+      "action": "주식 투자",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 삼성전자 노조의 성과급 요구와 AI 기술의 발전이 주요 관심사로 떠올랐습니다. 또한, 경제 및 금융 관련 뉴스가 다수 게시되고 있습니다. 이러한 트렌드는 기업과 노동자, 기술과 경제의 관계를 재정의할 수 있는 중요한 기회를 제공합니다. 따라서, 기업과 정부는 이러한 트렌드를 주시하고 적극적으로 대응해야 합니다.",
-  "analyzed_at": "2026-05-13T22:00:34.707Z",
+  "narrative": "현재의 트렌드는 삼성전자 주가 상승과 미토스 관련 뉴스이다. 주식 시장도 상승하고 있다. 이러한 트렌드는 주식 투자와 보안 강화에 대한 관심을 높일 수 있다. 또한, 한국형 미토스 개발 가능성도 논의되고 있다. 이러한 트렌드는 기술과 경제 분야에서 중요한 역할을 할 수 있다.",
+  "analyzed_at": "2026-05-13T23:30:34.088Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
