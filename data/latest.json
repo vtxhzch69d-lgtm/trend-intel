@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 불안정성과 삼전의 타격에 대한 우려가 커지고 있다.",
-      "post_count": 10,
+      "topic": "삼전 노조",
+      "summary": "삼전 노조의 최근 상황과 관련된 글들이 많이 올라왔습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "빈부격차가 확대되고 있으며, 주식 불장으로 인한 영향이 논의되고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 최근 상황과 관련된 글들이 많이 올라왔습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 GPU의 발전이 속도감을 보이고 있으며, 미토스와 같은 기술이 도입되고 있다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 최근 발전과 관련된 글들이 많이 올라왔습니다.",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
+      "keyword": "삼전 노조",
       "count": 15,
       "sentiment": "negative",
-      "context": "주식 시장의 불안정성"
+      "context": "삼전 노조의 최근 상황"
     },
     {
-      "keyword": "AI",
-      "count": 8,
+      "keyword": "주식 시장",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "주식 시장의 최근 상황"
+    },
+    {
+      "keyword": "AI 기술",
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI의 발전과 미토스 도입"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "빈부격차와 주식 불장의 영향"
+      "context": "AI 기술의 최근 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 20,
-    "overall_mood": "부정적"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성에 대한 대응",
-      "action": "투자 전략의 재평가",
+      "insight": "삼전 노조의 최근 상황은 주식 시장에 영향을 줄 수 있습니다.",
+      "action": "주식 시장의 동향을 주시하십시오.",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술의 발전",
-      "action": "기술 투자와 연구 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 줄 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하십시오.",
       "priority": "medium"
     },
     {
-      "insight": "경제의 불균형",
-      "action": "경제 정책의 재평가",
-      "priority": "medium"
+      "insight": "주식 시장의 최근 상황은 투자 전략에 영향을 줄 수 있습니다.",
+      "action": "투자 전략을 재검토하십시오.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 주식 시장은 불안정한 상황이며, 삼전의 타격에 대한 우려가 커지고 있다. 빈부격차가 확대되고 있으며, 주식 불장으로 인한 영향이 논의되고 있다. 기술 분야에서는 AI와 GPU의 발전이 속도감을 보이고 있으며, 미토스와 같은 기술이 도입되고 있다. 이러한 상황에서 기업과 투자자는 주식 시장의 불안정성에 대한 대응과 기술 투자, 경제 정책의 재평가를 통해 대응해야 한다.",
-  "analyzed_at": "2026-05-14T15:00:34.693Z",
+  "narrative": "최근 삼전 노조의 상황과 주식 시장의 동향이 주목을 끌고 있습니다. 또한 AI 기술의 발전도 다양한 산업에 영향을 줄 수 있습니다. 이러한 상황을 고려하여 투자 전략을 재검토하고 주식 시장의 동향을 주시하는 것이 중요합니다. 또한 AI 기술의 발전을 주시하여 새로운 기회를 찾는 것도 중요합니다.",
+  "analyzed_at": "2026-05-14T16:30:34.249Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
