@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 주가",
-      "summary": "삼성전자 주가가 오르면서 주주들이 언플을 해주고 있다. 또한, 삼전 노조의 파업 가능성이 논의되고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상승과 하락에 대한 चर치가 많다. 삼성전자와 하이닉스의 주가 변동에 대한 관심이 높다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "미토스",
-      "summary": "미토스 관련 뉴스가 여러 개 출현하고 있다. 미토스의 보안 취약점과 한국형 미토스 개발 가능성 등이 논의되고 있다.",
-      "post_count": 4,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "광주 세모녀 살해사건",
+      "summary": "광주 세모녀 살해사건에 대한 관심이 높다. 피의자의 신상 공개와 사건의 진행에 대한 चर치가 많다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장 관련 뉴스가 여러 개 출현하고 있다. 나스닥과 S&P 500의 사상 최고치 갱신과 하닉의 주가 상승 등이 논의되고 있다.",
-      "post_count": 6,
+      "topic": "애플의 신고가",
+      "summary": "애플의 신고가에 대한 관심이 높다. 애플의 주가 변동과 관련된 뉴스에 대한 चर치가 많다.",
+      "post_count": 3,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "주가 상승과 관련된 뉴스"
-    },
-    {
-      "keyword": "미토스",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "보안 취약점과 한국형 미토스 개발 가능성"
-    },
-    {
       "keyword": "주식",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "주식 시장의 상승과 하락에 대한 चर치"
+    },
+    {
+      "keyword": "삼성전자",
       "count": 8,
       "sentiment": "positive",
-      "context": "주식 시장 관련 뉴스"
+      "context": "삼성전자의 주가 변동과 관련된 뉴스"
+    },
+    {
+      "keyword": "광주 세모녀 살해사건",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "광주 세모녀 살해사건에 대한 관심"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "긍정적"
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 주가 상승",
-      "action": "주식 투자",
+      "insight": "주식 시장의 상승과 하락에 대한 관심이 높다",
+      "action": "주식 시장의 동향을 주시하고 투자 전략을 조정한다",
       "priority": "high"
     },
     {
-      "insight": "미토스 보안 취약점",
-      "action": "보안 강화",
+      "insight": "광주 세모녀 살해사건에 대한 관심이 높다",
+      "action": "사건의 진행을 주시하고 관련된 뉴스를 제공한다",
       "priority": "medium"
     },
     {
-      "insight": "주식 시장 상승",
-      "action": "주식 투자",
-      "priority": "high"
+      "insight": "애플의 신고가에 대한 관심이 높다",
+      "action": "애플의 주가 변동과 관련된 뉴스를 제공한다",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 삼성전자 주가 상승과 미토스 관련 뉴스이다. 주식 시장도 상승하고 있다. 이러한 트렌드는 주식 투자와 보안 강화에 대한 관심을 높일 수 있다. 또한, 한국형 미토스 개발 가능성도 논의되고 있다. 이러한 트렌드는 기술과 경제 분야에서 중요한 역할을 할 수 있다.",
-  "analyzed_at": "2026-05-13T23:30:34.088Z",
+  "narrative": "最近의 트렌드 분석 결과, 주식 시장의 상승과 하락에 대한 관심이 높다. 삼성전자와 하이닉스의 주가 변동에 대한 관심이 특히 높다. 또한, 광주 세모녀 살해사건에 대한 관심이 높다. 애플의 신고가에 대한 관심도 높다. 이러한 트렌드에 대한 분석 결과를 바탕으로, 주식 시장의 동향을 주시하고 투자 전략을 조정하는 것이 중요하다. 또한, 사건의 진행을 주시하고 관련된 뉴스를 제공하는 것이 필요하다.",
+  "analyzed_at": "2026-05-14T01:00:34.183Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
