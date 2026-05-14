@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성 노조위원장 정부 향해 헛소리",
-      "summary": "삼성 노조위원장이 정부를 향해 헛소리라고 말해 논란이 되고 있습니다. 이는 최근의 노동 환경과 정부의 정책에 대한 반발로 보입니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "경제 및 정치",
+      "summary": "금융투자소득세 도입과 노동·시민단체의 요구, 미국과 중국의 반도체 수출 규제 등",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장의 변동",
-      "summary": "주식 시장의 변동이 최근에 많이 논의되고 있습니다. 이는 경제적 불안정성과 투자자들의 관심을 끌고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "기술 및 과학",
+      "summary": "AI 기술의 발전과 우주 산업의 성장, 반도체 산업의 동향 등",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "로봇과 AI의 발전",
-      "summary": "로봇과 AI의 발전이 최근에 많이 논의되고 있습니다. 이는 기술적 진보와 미래의 가능성에 대한 관심을 끌고 있습니다.",
+      "topic": "사회 및 문화",
+      "summary": "여수 섬 박람회 배수시설 논란, BTS로 교감한 한-멕시코 정상 등",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "negative",
-      "context": "노조위원장의 발언과 관련된 논란"
-    },
-    {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "주식 시장의 변동과 투자자들의 관심"
-    },
-    {
-      "keyword": "로봇",
-      "count": 8,
       "sentiment": "positive",
-      "context": "로봇과 AI의 발전과 미래의 가능성"
+      "context": "AI 기술의 발전과 우주 산업의 성장"
+    },
+    {
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "반도체 산업의 동향과 미국과 중국의 반도체 수출 규제"
+    },
+    {
+      "keyword": "경제",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "금융투자소득세 도입과 노동·시민단체의 요구"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만 일부에서는 부정적인 감정도 존재합니다."
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "노동 환경과 정부의 정책에 대한 반발이 증가하고 있습니다.",
-      "action": "노동 환경과 정부의 정책에 대한 관심을 높이고 대응책을 마련해야 합니다.",
+      "insight": "AI 기술의 발전은 우주 산업의 성장과 관련이 있다",
+      "action": "AI 기술의 발전을 주시하고 우주 산업의 성장에 대비한다",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동이 최근에 많이 논의되고 있습니다.",
-      "action": "주식 시장의 변동에 대한 분석과 예측을 통해 투자자들의 관심을 끌어야 합니다.",
+      "insight": "반도체 산업의 동향은 미국과 중국의 반도체 수출 규제와 관련이 있다",
+      "action": "반도체 산업의 동향을 주시하고 미국과 중국의 반도체 수출 규제에 대비한다",
       "priority": "medium"
-    },
-    {
-      "insight": "로봇과 AI의 발전이 최근에 많이 논의되고 있습니다.",
-      "action": "로봇과 AI의 발전에 대한 연구와 개발을 통해 미래의 가능성을 열어야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "最近のオンラインコミュニティでは、サムスンの労働組合委員長が政府に向けて『ヘタレ』と言ったことが話題になっています。これは最近の労働環境と政府の政策に対する反発として見られます。また、株式市場の変動も多く議論されており、経済的不安定性と投資家の関心を引き付けているようです。ロボットとAIの進歩も多く議論されており、技術的進歩と将来の可能性に対する関心を引き付けているようです。",
-  "analyzed_at": "2026-05-14T02:30:34.428Z",
+  "narrative": "최근의 트렌드는 경제 및 정치, 기술 및 과학, 사회 및 문화 등 다양한 분야에서 나타나고 있다. AI 기술의 발전과 우주 산업의 성장은 긍정적인 반응을 보이고 있지만, 금융투자소득세 도입과 노동·시민단체의 요구는 혼합된 반응을 보이고 있다. 반도체 산업의 동향은 중립적인 반응을 보이고 있다. 이러한 트렌드를 분석하여 사업 전략을 수립하고 시장의 동향에 대비하는 것이 중요하다.",
+  "analyzed_at": "2026-05-14T04:00:34.401Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
