@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "금융투자소득세 도입과 노동·시민단체의 요구, 미국과 중국의 반도체 수출 규제 등",
-      "post_count": 15,
+      "topic": "정치",
+      "summary": "조국과 민주당의 정치 활동이 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI 기술의 발전과 우주 산업의 성장, 반도체 산업의 동향 등",
-      "post_count": 12,
+      "topic": "기술",
+      "summary": "미토스와 AI 기술이 주목을 받고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "여수 섬 박람회 배수시설 논란, BTS로 교감한 한-멕시코 정상 등",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "경제",
+      "summary": "삼성과 현대차의 경제 활동이 주목을 받고 있습니다.",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "조국",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 우주 산업의 성장"
-    },
-    {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "반도체 산업의 동향과 미국과 중국의 반도체 수출 규제"
-    },
-    {
-      "keyword": "경제",
-      "count": 12,
       "sentiment": "mixed",
-      "context": "금융투자소득세 도입과 노동·시민단체의 요구"
+      "context": "정치 활동"
+    },
+    {
+      "keyword": "미토스",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "AI 기술"
+    },
+    {
+      "keyword": "삼성",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "경제 활동"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 우주 산업의 성장과 관련이 있다",
-      "action": "AI 기술의 발전을 주시하고 우주 산업의 성장에 대비한다",
+      "insight": "정치와 기술이 경제에 미치는 영향",
+      "action": "정치와 기술 동향을 주시하여 경제 활동에 활용",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 동향은 미국과 중국의 반도체 수출 규제와 관련이 있다",
-      "action": "반도체 산업의 동향을 주시하고 미국과 중국의 반도체 수출 규제에 대비한다",
+      "insight": "미토스와 AI 기술의 발전",
+      "action": "미토스와 AI 기술을 활용하여 비즈니스 모델을 개선",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 경제 및 정치, 기술 및 과학, 사회 및 문화 등 다양한 분야에서 나타나고 있다. AI 기술의 발전과 우주 산업의 성장은 긍정적인 반응을 보이고 있지만, 금융투자소득세 도입과 노동·시민단체의 요구는 혼합된 반응을 보이고 있다. 반도체 산업의 동향은 중립적인 반응을 보이고 있다. 이러한 트렌드를 분석하여 사업 전략을 수립하고 시장의 동향에 대비하는 것이 중요하다.",
-  "analyzed_at": "2026-05-14T04:00:34.401Z",
+  "narrative": "최근의 정치와 기술 동향은 경제에 큰 영향을 미치고 있습니다. 조국과 민주당의 정치 활동이 주목을 받고 있으며, 미토스와 AI 기술의 발전도 주목을 받고 있습니다. 이러한 동향을 주시하여 비즈니스 모델을 개선하고, 경제 활동에 활용할 수 있습니다. 또한, 삼성과 현대차의 경제 활동도 주목을 받고 있으며, 이러한 활동을 주시하여 비즈니스 기회를 찾을 수 있습니다.",
+  "analyzed_at": "2026-05-14T05:30:34.052Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
