@@ -2,66 +2,72 @@
   "trending_topics": [
     {
       "topic": "경제 및 금융",
-      "summary": "대기업의 책임과 직원들의 인센티브에 대한 논의가 활발합니다. 또한, 삼성전자와 현대차의 새로운 제품 출시 소식이 관심을 끌고 있습니다.",
+      "summary": "주식시장과 경제에 대한 관심이 높아지고 있으며, 다양한 경제 관련 뉴스와 주식 투자에 대한 이야기가 활발하게 обсужд되고 있다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "남북 여자축구 아챔 공동응원단 출범 소식에 대한 반발과 진보당 현수막의 철거 등 정치 및 사회 관련된 주제가 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "기술 및 우주",
+      "summary": "최신 기술과 우주 개발에 대한 관심이 높아지고 있으며, 다양한 기술 관련 뉴스와 우주 개발에 대한 이야기가 활발하게 обсужд되고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "미토스와 같은 AI 기술의 개발과 적용에 대한 관심이 높습니다. 또한, 한국의 우주 기술 개발과 자율주행汽车의 실증 사업 등이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회에 대한 관심이 높아지고 있으며, 다양한 정치와 사회 관련 뉴스와 논평이 활발하게 обсужд되고 있다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
+      "keyword": "주식",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "주식시장과 투자에 대한 관심"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "경제 관련 뉴스와 논평"
+    },
+    {
+      "keyword": "기술",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술과 개발에 대한 관심"
+    },
+    {
+      "keyword": "우주",
       "count": 5,
       "sentiment": "positive",
-      "context": "새로운 제품 출시와 기술 개발에 대한 관심"
-    },
-    {
-      "keyword": "현대차",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "새로운 제품 출시와 자율주행汽车의 실증 사업"
-    },
-    {
-      "keyword": "미토스",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "AI 기술의 개발과 적용에 대한 관심"
+      "context": "우주 개발과 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "대기업의 책임과 직원들의 인센티브에 대한 논의가 활발합니다.",
-      "action": "대기업의 책임과 직원들의 인센티브에 대한 정책을 재검토할 필요가 있습니다.",
+      "insight": "주식시장과 경제에 대한 관심이 높아지고 있다.",
+      "action": "주식과 경제 관련 콘텐츠를 제공하여 사용자의 관심을 끌어들이는 마케팅 전략을 수립할 수 있다.",
       "priority": "high"
     },
     {
-      "insight": "한국의 우주 기술 개발과 자율주행汽车의 실증 사업 등이 논의되고 있습니다.",
-      "action": "한국의 우주 기술 개발과 자율주행汽车의 실증 사업에 대한 투자와 지원을 강화할 필요가 있습니다.",
+      "insight": "최신 기술과 우주 개발에 대한 관심이 높아지고 있다.",
+      "action": "기술과 우주 개발 관련 뉴스와 콘텐츠를 제공하여 사용자의 관심을 끌어들이는 마케팅 전략을 수립할 수 있다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융, 정치 및 사회, 기술 및 과학 등 다양한 주제가 논의되고 있습니다. 대기업의 책임과 직원들의 인센티브에 대한 논의가 활발합니다. 또한, 한국의 우주 기술 개발과 자율주행汽车의 실증 사업 등이 논의되고 있습니다. 이러한 트렌드에 대한 분석과洞察은 기업과 정부의 정책 결정에 도움이 될 수 있습니다.",
-  "analyzed_at": "2026-05-14T08:30:34.062Z",
+  "narrative": "최근의 트렌드 분석 결과, 사용자들은 주식시장과 경제, 기술 및 우주 개발에 대한 관심이 높아지고 있다. 이러한 관심을 바탕으로 주식과 경제, 기술 및 우주 개발 관련 콘텐츠를 제공하여 사용자의 관심을 끌어들이는 마케팅 전략을 수립할 수 있다. 또한, 사용자의 감정과 기분을 분석하여 중립적이고 긍정적인 콘텐츠를 제공하여 사용자의 만족도를 높일 수 있다.",
+  "analyzed_at": "2026-05-14T10:30:34.596Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
