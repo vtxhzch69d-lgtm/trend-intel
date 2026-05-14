@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼전 노조",
-      "summary": "삼전 노조의 상황과 관련된 다양한 의견과 논란",
+      "topic": "삼성전자 주식",
+      "summary": "삼성전자 주식이 외국인 투자자들로부터 많은 관심을 받고 있다. 특히, 미국에서 뜨거운 반응을 보이고 있다.",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 상황과 관련된 다양한 의견과 분석",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있다. 특히, 자율주행汽车와 반도체 산업에서 큰 영향을 미치고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 의견과 분석",
-      "post_count": 6,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많이 올라오고 있다. 특히, 대통령과 관련된 게시글이 많은 관심을 받고 있다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼전 노조",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "삼전 노조의 상황과 관련된 논란"
-    },
-    {
-      "keyword": "주식 시장",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "주식 시장의 상황과 관련된 분석"
-    },
-    {
-      "keyword": "AI 기술",
-      "count": 8,
+      "keyword": "삼성전자",
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 의견"
+      "context": "삼성전자 주식과 관련된 게시글에서 많이 언급되고 있다."
+    },
+    {
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술과 관련된 게시글에서 많이 언급되고 있다."
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "정치 관련된 게시글에서 많이 언급되고 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "부정적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼전 노조의 상황은 주식 시장에 영향을 미칠 수 있다",
-      "action": "주식 시장의 상황을 주시하고 노조의 상황에 대한 대응을 준비한다",
+      "insight": "삼성전자 주식에 대한 관심이 높아지고 있다.",
+      "action": "삼성전자 주식에 대한 투자 전략을 수립해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다",
-      "action": "AI 기술의 발전을 주시하고 새로운 기회를 찾는다",
+      "insight": "AI 기술이 다양한 분야에서 적용되고 있다.",
+      "action": "AI 기술에 대한 투자와 연구를 강화해야 한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련된 게시글이 많이 올라오고 있다.",
+      "action": "정치 관련된 뉴스와 분석을 제공해야 한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼전 노조의 상황과 주식 시장의 상황이 주요 관심사로 나타났다. 또한, AI 기술의 발전과 관련된 의견과 분석도 많이 나타났다. 이러한 트렌드의 분석 결과를 바탕으로, 삼전 노조의 상황과 주식 시장의 상황에 대한 대응을 준비하고, AI 기술의 발전을 주시하여 새로운 기회를 찾는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-05-14T21:00:33.605Z",
+  "narrative": "현재의 트렌드는 삼성전자 주식과 AI 기술에 대한 관심이 높아지고 있다. 또한, 정치 관련된 게시글이 많이 올라오고 있다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 투자와 연구를 강화해야 한다. 또한, 정치 관련된 뉴스와 분석을 제공하여 사용자들의 관심을 끌어야 한다.",
+  "analyzed_at": "2026-05-14T22:30:33.923Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
