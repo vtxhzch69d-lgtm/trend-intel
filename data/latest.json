@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼전 노조",
-      "summary": "삼전 노조의 최근 상황과 관련된 글들이 많이 올라왔습니다.",
+      "topic": "삼성전자 노조",
+      "summary": "삼성전자 노조의 활동과 관련된 논란이 커뮤니티에서 논의되고 있습니다.",
       "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 최근 상황과 관련된 글들이 많이 올라왔습니다.",
-      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 최근 발전과 관련된 글들이 많이 올라왔습니다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상황과 관련된 글들이 커뮤니티에서 많이 올라오고 있습니다.",
       "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 관련된 글들이 커뮤니티에서 많이 올라오고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼전 노조",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "삼전 노조의 최근 상황"
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "삼성전자 노조와 관련된 논란"
     },
     {
-      "keyword": "주식 시장",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "주식 시장의 최근 상황"
-    },
-    {
-      "keyword": "AI 기술",
+      "keyword": "주식",
       "count": 12,
+      "sentiment": "negative",
+      "context": "주식 시장의 상황"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 최근 발전"
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 20,
+    "negative": 25,
     "neutral": 30,
-    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼전 노조의 최근 상황은 주식 시장에 영향을 줄 수 있습니다.",
-      "action": "주식 시장의 동향을 주시하십시오.",
+      "insight": "삼성전자 노조와 관련된 논란은 회사 이미지에 부정적인 영향을 미칠 수 있습니다.",
+      "action": "노조와의 대화와 협상을 통해 문제를 해결해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 줄 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하십시오.",
+      "insight": "주식 시장의 상황은 투자자들에게 큰 영향을 미칩니다.",
+      "action": "투자자들에게 시장 상황에 대한 정보를 제공하고, 투자 전략을 조정해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "주식 시장의 최근 상황은 투자 전략에 영향을 줄 수 있습니다.",
-      "action": "투자 전략을 재검토하십시오.",
-      "priority": "low"
+      "insight": "최신 기술 뉴스는 새로운 비즈니스 기회를 제공할 수 있습니다.",
+      "action": "최신 기술 뉴스를 모니터링하고, 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 삼전 노조의 상황과 주식 시장의 동향이 주목을 끌고 있습니다. 또한 AI 기술의 발전도 다양한 산업에 영향을 줄 수 있습니다. 이러한 상황을 고려하여 투자 전략을 재검토하고 주식 시장의 동향을 주시하는 것이 중요합니다. 또한 AI 기술의 발전을 주시하여 새로운 기회를 찾는 것도 중요합니다.",
-  "analyzed_at": "2026-05-14T16:30:34.249Z",
+  "narrative": "커뮤니티에서는 삼성전자 노조와 관련된 논란, 주식 시장의 상황, 최신 기술 뉴스 등 다양한 주제가 논의되고 있습니다. 이러한 주제들은 회사 이미지, 투자자들의 결정, 새로운 비즈니스 기회 등에 큰 영향을 미칠 수 있습니다. 따라서 이러한 주제를 모니터링하고, 적절한 대응을 하는 것이 중요합니다. 또한, 최신 기술 뉴스를 모니터링하고, 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
+  "analyzed_at": "2026-05-14T18:00:34.640Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
