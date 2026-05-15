@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "코스피 8000선 돌파",
-      "summary": "코스피가 사상 첫 8000선에 돌파했다. 이는 한국 주식시장의 새로운 역사를 열었다.",
+      "topic": "삼성전자 노조 협상",
+      "summary": "삼성전자 노조가 6월 7일 이후 협상을 제안하고, 주주단체가 노조의 성과급 요구를 위법이라고 주장하며, 파업시 전원 손배소장을 제기할 예정입니다.",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "삼전 파업사태",
-      "summary": "삼성전자 파업사태가 산업계에 큰 영향을 미치고 있다.",
+      "topic": "코스피 8천 기념 세일",
+      "summary": "코스피가 8천을 돌파하면서 세일이 시작되었으며, 주식호황으로 격차가 더 벌어지는 느낌입니다.",
       "post_count": 3,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "미국 주식 투자",
-      "summary": "한국 주식뿐만 아니라 미국 주식도 고려해야 한다는 의견이 제기되었다.",
-      "post_count": 2,
+      "topic": "반도체 산업 동향",
+      "summary": "반도체 산업의 미래와 관련된 다양한 뉴스와 의견이 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "코스피 8000선 돌파"
-    },
-    {
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 10,
       "sentiment": "negative",
-      "context": "삼전 파업사태"
+      "context": "노조 협상과 관련된 뉴스"
     },
     {
-      "keyword": "주식",
+      "keyword": "코스피",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "8천 기념 세일과 관련된 뉴스"
+    },
+    {
+      "keyword": "반도체",
       "count": 8,
       "sentiment": "neutral",
-      "context": "한국 주식과 미국 주식"
+      "context": "산업 동향과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "부정적인 기조가 강하지만, 중립적인 의견도 많습니다."
   },
   "business_insights": [
     {
-      "insight": "코스피 8000선 돌파는 한국 주식시장의 새로운 기회를 열어주었다.",
-      "action": "주식 투자 전략을 재검토해야 한다.",
+      "insight": "삼성전자 노조 협상에 주목해야 합니다.",
+      "action": "노조 협상과 관련된 뉴스를 지속적으로 모니터링해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 파업사태는 산업계에 큰 영향을 미치고 있다.",
-      "action": "산업계의 상황을 주시해야 한다.",
+      "insight": "코스피 8천 기념 세일을 이용할 수 있습니다.",
+      "action": "주식 투자와 관련된 정보를 수집해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "미국 주식 투자는 한국 주식뿐만 아니라 고려해야 한다.",
-      "action": "다양한 투자 옵션을 고려해야 한다.",
+      "insight": "반도체 산업의 미래를 예측할 수 있습니다.",
+      "action": "산업 동향과 관련된 뉴스를 분석해야 합니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근 한국 주식시장은 코스피 8000선 돌파와 삼성전자 파업사태 등 다양한 이슈로 인해 큰 변화를 겪고 있다. 이러한 상황에서 주식 투자 전략을 재검토하고 산업계의 상황을 주시하는 것이 중요하다. 또한 미국 주식 투자도 고려해야 하는데, 이는 한국 주식뿐만 아니라 다양한 투자 옵션을 고려해야 하는 이유이다. 이러한 상황에서 중립적인 태도를 유지하고 다양한 정보를 수집하여 올바른 투자 결정을 내릴 수 있어야 한다.",
-  "analyzed_at": "2026-05-15T00:30:33.928Z",
+  "narrative": "현재 삼성전자 노조 협상과 코스피 8천 기념 세일이 주목을 끌고 있습니다. 반도체 산업의 미래와 관련된 다양한 뉴스와 의견이 있습니다. 부정적인 기조가 강하지만, 중립적인 의견도 많습니다. 따라서 노조 협상과 관련된 뉴스를 지속적으로 모니터링하고, 주식 투자와 관련된 정보를 수집해야 합니다. 또한, 산업 동향과 관련된 뉴스를 분석하여 반도체 산업의 미래를 예측할 수 있습니다.",
+  "analyzed_at": "2026-05-15T02:00:34.719Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
