@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조가 강성으로 나오는 현상에 대한 논의",
+      "topic": "삼성전자 파업",
+      "summary": "삼성전자 노조의 파업과 관련된 논의가 활발합니다. 파업의 이유와 영향에 대한 다양한 의견이 있습니다.",
       "post_count": 5,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스 및 논의",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "국내 정치",
-      "summary": "국내 정치 관련 뉴스 및 논의",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 잠재적 활용과 위험성에 대한 의견이 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "국제 관계",
+      "summary": "한일 정상회담과 관련된 주제가 논의되고 있습니다. 국제 관계와 외교에 대한 다양한 의견이 있습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
@@ -26,42 +26,47 @@
     {
       "keyword": "삼성전자",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "삼성전자 관련 뉴스 및 논의"
+      "sentiment": "mixed",
+      "context": "노조 파업과 관련된 논의"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스 및 논의"
+      "context": "기술 발전과 잠재적 활용"
     },
     {
-      "keyword": "노조",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "노조 관련 뉴스 및 논의"
+      "keyword": "한일 정상회담",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "국제 관계와 외교"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조의 강성으로 나오는 현상은 기업의 이미지를 악화시킬 수 있다",
-      "action": "노조와의 협상을 통해 문제를 해결하는 것",
+      "insight": "삼성전자 파업의 영향",
+      "action": "노조와의 협상을 강화",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다",
-      "action": "AI 기술을 활용하여 새로운 제품이나 서비스를 개발하는 것",
+      "insight": "AI 기술의 잠재적 활용",
+      "action": "AI 기술의 연구와 개발을 강화",
+      "priority": "medium"
+    },
+    {
+      "insight": "국제 관계의 중요성",
+      "action": "외교와 국제 협력을 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성전자 노조와 AI 기술의 발전에 대한 논의가 주를 이루고 있다. 삼성전자 노조의 강성으로 나오는 현상은 기업의 이미지를 악화시킬 수 있으므로 노조와의 협상을 통해 문제를 해결하는 것이 필요하다. 또한, AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있으므로 AI 기술을 활용하여 새로운 제품이나 서비스를 개발하는 것이 중요하다. 이러한 트렌드를 통해 기업은 새로운 기회를 창출하고 문제를 해결하는 데 도움을 받을 수 있다.",
-  "analyzed_at": "2026-05-15T19:00:35.063Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자 파업과 관련된 논의가 활발합니다. 또한, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 국제 관계와 외교에 대한 의견도 있습니다. 이러한 트렌드에 따라, 기업과 정부는 노조와의 협상을 강화하고, AI 기술의 연구와 개발을 강화하며, 외교와 국제 협력을 강화해야 할 필요가 있습니다.",
+  "analyzed_at": "2026-05-15T20:30:34.571Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
