@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 급락과 개인 투자자들의 반응",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자 파업",
-      "summary": "삼성전자 노조의 파업과 그 영향",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 의견",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
+      "topic": "기술 및 과학",
+      "summary": "신기술 및 과학 관련 뉴스와 의견",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "주식 시장의 급락"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "삼성전자 노조의 파업"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 20,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 30,
     "negative": 20,
-    "neutral": 25,
-    "overall_mood": "부정적인 감정"
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 급락은 개인 투자자들의 관심을 끌고 있다",
-      "action": "주식 시장의 동향을 주시하고 투자 전략을 조정한다",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 파업은 노조와 회사 간의 협상을 필요로 한다",
-      "action": "노조와 회사 간의 협상을 지원한다",
+      "insight": "경제 및 정치의 변화",
+      "action": "경제 및 정치의 변화에 대응하는 비즈니스 전략 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 뉴스는 새로운 기회를 제공한다",
-      "action": "최신 기술 뉴스를 주시하고 새로운 기회를 탐색한다",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 주식 시장의 급락과 삼성전자 파업은 많은 사람들의 관심을 끌고 있다. 주식 시장의 동향을 주시하고 투자 전략을 조정하는 것이 중요하다. 또한, 노조와 회사 간의 협상을 지원하는 것이 필요하다. 최신 기술 뉴스는 새로운 기회를 제공한다. 따라서, 최신 기술 뉴스를 주시하고 새로운 기회를 탐색하는 것이 중요하다. 이러한 트렌드와 인사이트를 통해 비즈니스 전략을 조정하고 새로운 기회를 탐색할 수 있다.",
-  "analyzed_at": "2026-05-15T06:30:33.885Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 경제 및 정치의 변화입니다. AI 기술의 발전은 산업의 변화를 가져올 수 있으며, 경제 및 정치의 변화는 비즈니스 전략에 영향을 미칠 수 있습니다. 따라서, AI 기술을 활용한 비즈니스 모델 개발과 경제 및 정치의 변화에 대응하는 비즈니스 전략 개발이 필요합니다.",
+  "analyzed_at": "2026-05-15T08:00:33.385Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
