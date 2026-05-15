@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조 파업",
-      "summary": "삼성전자 노조 파업 관련 논의가 활발합니다. 노조의 강성 대응과 회사 측의 제안 수준이 논쟁의 중심입니다.",
+      "topic": "삼성전자 노조",
+      "summary": "삼성전자 노조가 강성으로 나오는 현상에 대한 논의",
       "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술 발전",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있습니다. AI의 잠재력과 위험성에 대한 논의가 진행 중입니다.",
-      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "국내외 경제 동향",
-      "summary": "국내외 경제 동향과 기업들의 động향이 관심을 끌고 있습니다. 특히, 현대차와 기아의 로봇 서비스 개시와 현대차그룹의 제주서 일반 고객 대상 V2G 시범서비스 개시가 주목됩니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스 및 논의",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "국내 정치",
+      "summary": "국내 정치 관련 뉴스 및 논의",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "노조 파업 관련"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "삼성전자 관련 뉴스 및 논의"
     },
     {
       "keyword": "AI",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "기술 발전과 산업 적용"
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 뉴스 및 논의"
     },
     {
-      "keyword": "현대차",
+      "keyword": "노조",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "로봇 서비스와 V2G 시범서비스"
+      "sentiment": "negative",
+      "context": "노조 관련 뉴스 및 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "노조 파업과 기업의 제안 수준은 중요한 논쟁 点입니다.",
-      "action": "노조와의 협상을 통해 파업을 해결하고, 제안 수준을 개선해야 합니다.",
+      "insight": "삼성전자 노조의 강성으로 나오는 현상은 기업의 이미지를 악화시킬 수 있다",
+      "action": "노조와의 협상을 통해 문제를 해결하는 것",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 기회와 위협을 동시에 가지고 있습니다.",
-      "action": "AI 기술을 적극적으로 연구하고, 산업 적용을 위한 투자를 고려해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다",
+      "action": "AI 기술을 활용하여 새로운 제품이나 서비스를 개발하는 것",
       "priority": "medium"
-    },
-    {
-      "insight": "국내외 경제 동향은 기업들의 경영 전략에 영향을 미칩니다.",
-      "action": "경제 동향을 주시하고, 기업들의 경영 전략을 조정해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조 파업과 AI 기술 발전이 주목을 받고 있습니다. 특히, 노조 파업과 기업의 제안 수준은 중요한 논쟁 点입니다. 또한, AI 기술의 발전은 다양한 산업에서 기회와 위협을 동시에 가지고 있습니다. 따라서, 노조와의 협상을 통해 파업을 해결하고, 제안 수준을 개선해야 하며, AI 기술을 적극적으로 연구하고, 산업 적용을 위한 투자를 고려해야 합니다. 또한, 국내외 경제 동향을 주시하고, 기업들의 경영 전략을 조정해야 합니다.",
-  "analyzed_at": "2026-05-15T17:30:34.733Z",
+  "narrative": "최근의 트렌드는 삼성전자 노조와 AI 기술의 발전에 대한 논의가 주를 이루고 있다. 삼성전자 노조의 강성으로 나오는 현상은 기업의 이미지를 악화시킬 수 있으므로 노조와의 협상을 통해 문제를 해결하는 것이 필요하다. 또한, AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있으므로 AI 기술을 활용하여 새로운 제품이나 서비스를 개발하는 것이 중요하다. 이러한 트렌드를 통해 기업은 새로운 기회를 창출하고 문제를 해결하는 데 도움을 받을 수 있다.",
+  "analyzed_at": "2026-05-15T19:00:35.063Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
