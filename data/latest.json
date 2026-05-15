@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조의 파업과 정부의 중재에 대한 논의가 활발합니다. 노조의 요구와 정부의 대응이 주목됩니다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 급락과 개인 투자자들의 반응",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 변동과 투자 전략에 대한 논의가 활발합니다. 투자자들의 관심과 우려가 집중됩니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "삼성전자 파업",
+      "summary": "삼성전자 노조의 파업과 그 영향",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 ứng용에 대한 논의가 활발합니다. 기술의 잠재력과 도전이 주목됩니다.",
-      "post_count": 8,
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
+      "keyword": "주식",
       "count": 20,
-      "sentiment": "mixed",
-      "context": "노조와 정부의 중재에 대한 논의"
+      "sentiment": "negative",
+      "context": "주식 시장의 급락"
     },
     {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "주식 시장의 변동과 투자 전략"
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "삼성전자 노조의 파업"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng용"
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조의 파업이 주식 시장에 미치는 영향",
-      "action": "투자 전략의 조정",
+      "insight": "주식 시장의 급락은 개인 투자자들의 관심을 끌고 있다",
+      "action": "주식 시장의 동향을 주시하고 투자 전략을 조정한다",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 산업에 미치는 영향",
-      "action": "AI 기술의 도입과 응용",
+      "insight": "삼성전자 파업은 노조와 회사 간의 협상을 필요로 한다",
+      "action": "노조와 회사 간의 협상을 지원한다",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 뉴스는 새로운 기회를 제공한다",
+      "action": "최신 기술 뉴스를 주시하고 새로운 기회를 탐색한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조의 파업과 주식 시장의 변동이 주목됩니다. 투자자들은 노조의 요구와 정부의 대응을 주시하고, 투자 전략을 조정해야 합니다. 또한, AI 기술의 발전이 산업에 미치는 영향에 대한 논의가 활발합니다. 기업들은 AI 기술의 도입과 응용을 통해 경쟁력을 강화할 수 있습니다. 그러나, 부정적인 감정의 우세로 인해 투자자들의 우려가 높아지고 있습니다. 따라서, 투자자들은 신중한 투자 전략을 수립하고, 시장의 변동에 대응해야 합니다.",
-  "analyzed_at": "2026-05-15T05:00:33.916Z",
+  "narrative": "최근 주식 시장의 급락과 삼성전자 파업은 많은 사람들의 관심을 끌고 있다. 주식 시장의 동향을 주시하고 투자 전략을 조정하는 것이 중요하다. 또한, 노조와 회사 간의 협상을 지원하는 것이 필요하다. 최신 기술 뉴스는 새로운 기회를 제공한다. 따라서, 최신 기술 뉴스를 주시하고 새로운 기회를 탐색하는 것이 중요하다. 이러한 트렌드와 인사이트를 통해 비즈니스 전략을 조정하고 새로운 기회를 탐색할 수 있다.",
+  "analyzed_at": "2026-05-15T06:30:33.885Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
