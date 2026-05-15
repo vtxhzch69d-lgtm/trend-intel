@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 대통령과 정치인들의 활동이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "정치 및 경제",
+      "summary": "이재명 대통령의 공유한 사적 보복대행 수사 근황과 삼성의 노사문제 등 정치 및 경제 관련 주제가热議되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "주식 시드가 부족한 경우 소형주에서 승부를 보는 것이 좋다는 의견이 있습니다. 또한, 건설 비용이 오르고 있는 TK 신공항이 논란이 되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "기술 및 과학",
+      "summary": "AI와 관련된 기술 및 과학 주제가 인기 있으며, 현대차그룹의 V2G 시범서비스 개시와 삼성 헬스 데이터 러닝 강화 등이 포함됩니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술이 발전하고 있으며, 현대차그룹과 기아가 로봇 서비스를 개시했습니다. 또한, 네이버에서 멤버십 할인 쿠폰을 다운 받을 수 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "사회 및 문화",
+      "summary": "한식 대신 평생 다른 나라 음식 한가지만 먹어야 한다면과 같은 사회 및 문화 관련 주제가 обсужд되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI와 관련된 기술이 발전하고 있습니다."
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다."
-    },
-    {
-      "keyword": "경제",
+      "keyword": "이재명",
       "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 주제에서 자주 언급됩니다."
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 및 과학 관련 주제에서 자주 언급됩니다."
+    },
+    {
+      "keyword": "삼성",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "주식 시드가 부족한 경우 소형주에서 승부를 보는 것이 좋다는 의견이 있습니다."
+      "context": "경제 및 기술 관련 주제에서 언급됩니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI와 관련된 기술을 개발하고 투자하는 것이 좋습니다.",
-      "action": "AI 기술 개발 투자",
+      "insight": "기술 및 과학 관련 주제가 인기",
+      "action": "기술 및 과학 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 논란을 주의해야 합니다.",
-      "action": "정치 관련 뉴스 모니터링",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스와 논란을 주의해야 합니다.",
-      "action": "경제 관련 뉴스 모니터링",
+      "insight": "정치 및 경제 관련 주제가熱議",
+      "action": "정치 및 경제 관련 콘텐츠 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 대통령과 정치인들의 활동이 주목을 받고 있습니다. 또한, AI와 관련된 기술이 발전하고 있으며, 현대차그룹과 기아가 로봇 서비스를 개시했습니다. 경제 관련 뉴스와 논란도 주목을 받고 있습니다. 주식 시드가 부족한 경우 소형주에서 승부를 보는 것이 좋다는 의견이 있습니다. 또한, 건설 비용이 오르고 있는 TK 신공항이 논란이 되고 있습니다. 이러한 트렌드와 뉴스를 고려하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-15T11:00:34.998Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, 기술 및 과학 관련 주제가 인기이며, 정치 및 경제 관련 주제도熱議되고 있습니다. 이러한 트렌드에 따라 기술 및 과학 관련 콘텐츠 개발과 정치 및 경제 관련 콘텐츠 개발이 필요합니다. 또한, 중립적인 분위기를 유지하는 것이 중요하며, 다양한 주제에 대한 콘텐츠 개발이 필요합니다.",
+  "analyzed_at": "2026-05-15T12:30:34.118Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
