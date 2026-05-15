@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 주식",
-      "summary": "삼성전자 주식이 외국인 투자자들로부터 많은 관심을 받고 있다. 특히, 미국에서 뜨거운 반응을 보이고 있다.",
+      "topic": "코스피 8000선 돌파",
+      "summary": "코스피가 사상 첫 8000선에 돌파했다. 이는 한국 주식시장의 새로운 역사를 열었다.",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있다. 특히, 자율주행汽车와 반도체 산업에서 큰 영향을 미치고 있다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "삼전 파업사태",
+      "summary": "삼성전자 파업사태가 산업계에 큰 영향을 미치고 있다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많이 올라오고 있다. 특히, 대통령과 관련된 게시글이 많은 관심을 받고 있다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "미국 주식 투자",
+      "summary": "한국 주식뿐만 아니라 미국 주식도 고려해야 한다는 의견이 제기되었다.",
+      "post_count": 2,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 15,
+      "keyword": "코스피",
+      "count": 10,
       "sentiment": "positive",
-      "context": "삼성전자 주식과 관련된 게시글에서 많이 언급되고 있다."
+      "context": "코스피 8000선 돌파"
     },
     {
-      "keyword": "AI",
-      "count": 20,
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "삼전 파업사태"
+    },
+    {
+      "keyword": "주식",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "AI 기술과 관련된 게시글에서 많이 언급되고 있다."
-    },
-    {
-      "keyword": "정치",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "정치 관련된 게시글에서 많이 언급되고 있다."
+      "context": "한국 주식과 미국 주식"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 주식에 대한 관심이 높아지고 있다.",
-      "action": "삼성전자 주식에 대한 투자 전략을 수립해야 한다.",
+      "insight": "코스피 8000선 돌파는 한국 주식시장의 새로운 기회를 열어주었다.",
+      "action": "주식 투자 전략을 재검토해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 다양한 분야에서 적용되고 있다.",
-      "action": "AI 기술에 대한 투자와 연구를 강화해야 한다.",
+      "insight": "삼성전자 파업사태는 산업계에 큰 영향을 미치고 있다.",
+      "action": "산업계의 상황을 주시해야 한다.",
       "priority": "medium"
     },
     {
-      "insight": "정치 관련된 게시글이 많이 올라오고 있다.",
-      "action": "정치 관련된 뉴스와 분석을 제공해야 한다.",
+      "insight": "미국 주식 투자는 한국 주식뿐만 아니라 고려해야 한다.",
+      "action": "다양한 투자 옵션을 고려해야 한다.",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 삼성전자 주식과 AI 기술에 대한 관심이 높아지고 있다. 또한, 정치 관련된 게시글이 많이 올라오고 있다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 투자와 연구를 강화해야 한다. 또한, 정치 관련된 뉴스와 분석을 제공하여 사용자들의 관심을 끌어야 한다.",
-  "analyzed_at": "2026-05-14T22:30:33.923Z",
+  "narrative": "최근 한국 주식시장은 코스피 8000선 돌파와 삼성전자 파업사태 등 다양한 이슈로 인해 큰 변화를 겪고 있다. 이러한 상황에서 주식 투자 전략을 재검토하고 산업계의 상황을 주시하는 것이 중요하다. 또한 미국 주식 투자도 고려해야 하는데, 이는 한국 주식뿐만 아니라 다양한 투자 옵션을 고려해야 하는 이유이다. 이러한 상황에서 중립적인 태도를 유지하고 다양한 정보를 수집하여 올바른 투자 결정을 내릴 수 있어야 한다.",
+  "analyzed_at": "2026-05-15T00:30:33.928Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
