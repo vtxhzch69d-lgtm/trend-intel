@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조 협상",
-      "summary": "삼성전자 노조가 6월 7일 이후 협상을 제안하고, 주주단체가 노조의 성과급 요구를 위법이라고 주장하며, 파업시 전원 손배소장을 제기할 예정입니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "코스피 8천 기념 세일",
-      "summary": "코스피가 8천을 돌파하면서 세일이 시작되었으며, 주식호황으로 격차가 더 벌어지는 느낌입니다.",
-      "post_count": 3,
-      "sentiment": "positive",
+      "topic": "주식 시장",
+      "summary": "코스피 8000~!!!, 삼전 노조원들 이러시면 징역 2년입니다, 주식장으로 사람들이 긴장을 좀했으면 하네요",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "반도체 산업 동향",
-      "summary": "반도체 산업의 미래와 관련된 다양한 뉴스와 의견이 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 에이전트 일 많이 하면 마르크스 주의자가 된다네요, AI와 인간이 함께 싸우는 공군",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "박형준 '장애인 비하' 유튜브 출연 논란, 장동혁 “문재인 시즌2인줄.‘뉴 이재명’ 더 끔찍”",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "노조 협상과 관련된 뉴스"
-    },
-    {
-      "keyword": "코스피",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "8천 기념 세일과 관련된 뉴스"
-    },
-    {
-      "keyword": "반도체",
-      "count": 8,
+      "keyword": "주식",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "산업 동향과 관련된 뉴스"
+      "context": "주식 시장 관련 게시물"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술 관련 게시물"
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "정치 및 사회 관련 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 25,
-    "overall_mood": "부정적인 기조가 강하지만, 중립적인 의견도 많습니다."
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 게시물이 많지만 중립적인 게시물도 많음"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조 협상에 주목해야 합니다.",
-      "action": "노조 협상과 관련된 뉴스를 지속적으로 모니터링해야 합니다.",
+      "insight": "주식 시장의 변동성",
+      "action": "주식 투자 전략 조정",
       "priority": "high"
     },
     {
-      "insight": "코스피 8천 기념 세일을 이용할 수 있습니다.",
-      "action": "주식 투자와 관련된 정보를 수집해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술 투자 및 연구",
       "priority": "medium"
     },
     {
-      "insight": "반도체 산업의 미래를 예측할 수 있습니다.",
-      "action": "산업 동향과 관련된 뉴스를 분석해야 합니다.",
-      "priority": "low"
+      "insight": "정치 및 사회의 불안정성",
+      "action": "정책 및 사회적 문제에 대한 대응",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 삼성전자 노조 협상과 코스피 8천 기념 세일이 주목을 끌고 있습니다. 반도체 산업의 미래와 관련된 다양한 뉴스와 의견이 있습니다. 부정적인 기조가 강하지만, 중립적인 의견도 많습니다. 따라서 노조 협상과 관련된 뉴스를 지속적으로 모니터링하고, 주식 투자와 관련된 정보를 수집해야 합니다. 또한, 산업 동향과 관련된 뉴스를 분석하여 반도체 산업의 미래를 예측할 수 있습니다.",
-  "analyzed_at": "2026-05-15T02:00:34.719Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 변동성과 AI 기술의 발전이 주목을 끌고 있습니다. 또한, 정치 및 사회의 불안정성도 큰 문제로 나타나고 있습니다. 이러한 트렌드에 대한 분석과 대응은 기업 및 개인의 투자 전략과 정책 결정에 큰 영향을 미칠 수 있습니다. 따라서, 이러한 트렌드에 대한 지속적인 모니터링과 분석이 필요합니다.",
+  "analyzed_at": "2026-05-15T03:30:34.331Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
