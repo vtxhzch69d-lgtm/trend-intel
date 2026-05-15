@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피 8000~!!!, 삼전 노조원들 이러시면 징역 2년입니다, 주식장으로 사람들이 긴장을 좀했으면 하네요",
-      "post_count": 10,
+      "topic": "삼성전자 노조",
+      "summary": "삼성전자 노조의 파업과 정부의 중재에 대한 논의가 활발합니다. 노조의 요구와 정부의 대응이 주목됩니다.",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "주식 시장",
+      "summary": "주식 시장의 변동과 투자 전략에 대한 논의가 활발합니다. 투자자들의 관심과 우려가 집중됩니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 에이전트 일 많이 하면 마르크스 주의자가 된다네요, AI와 인간이 함께 싸우는 공군",
+      "summary": "AI 기술의 발전과 ứng용에 대한 논의가 활발합니다. 기술의 잠재력과 도전이 주목됩니다.",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "박형준 '장애인 비하' 유튜브 출연 논란, 장동혁 “문재인 시즌2인줄.‘뉴 이재명’ 더 끔찍”",
-      "post_count": 12,
-      "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "삼성전자",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "노조와 정부의 중재에 대한 논의"
+    },
+    {
       "keyword": "주식",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "주식 시장 관련 게시물"
+      "sentiment": "negative",
+      "context": "주식 시장의 변동과 투자 전략"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술 관련 게시물"
-    },
-    {
-      "keyword": "정치",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "정치 및 사회 관련 게시물"
+      "context": "AI 기술의 발전과 ứng용"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 게시물이 많지만 중립적인 게시물도 많음"
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 변동성",
-      "action": "주식 투자 전략 조정",
+      "insight": "삼성전자 노조의 파업이 주식 시장에 미치는 영향",
+      "action": "투자 전략의 조정",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술 투자 및 연구",
+      "insight": "AI 기술의 발전이 산업에 미치는 영향",
+      "action": "AI 기술의 도입과 응용",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 및 사회의 불안정성",
-      "action": "정책 및 사회적 문제에 대한 대응",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 변동성과 AI 기술의 발전이 주목을 끌고 있습니다. 또한, 정치 및 사회의 불안정성도 큰 문제로 나타나고 있습니다. 이러한 트렌드에 대한 분석과 대응은 기업 및 개인의 투자 전략과 정책 결정에 큰 영향을 미칠 수 있습니다. 따라서, 이러한 트렌드에 대한 지속적인 모니터링과 분석이 필요합니다.",
-  "analyzed_at": "2026-05-15T03:30:34.331Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조의 파업과 주식 시장의 변동이 주목됩니다. 투자자들은 노조의 요구와 정부의 대응을 주시하고, 투자 전략을 조정해야 합니다. 또한, AI 기술의 발전이 산업에 미치는 영향에 대한 논의가 활발합니다. 기업들은 AI 기술의 도입과 응용을 통해 경쟁력을 강화할 수 있습니다. 그러나, 부정적인 감정의 우세로 인해 투자자들의 우려가 높아지고 있습니다. 따라서, 투자자들은 신중한 투자 전략을 수립하고, 시장의 변동에 대응해야 합니다.",
+  "analyzed_at": "2026-05-15T05:00:33.916Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
