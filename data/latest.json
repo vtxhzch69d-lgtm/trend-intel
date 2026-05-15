@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 파업",
-      "summary": "삼성전자 노조가 파업을 진행 중이며, 파업의 이유와 영향에 대한 논의가 활발하다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "삼성전자 노조",
+      "summary": "삼성전자 노조의 파업과 강성으로 나오는 모습이 논란이 되고 있습니다. 일부 사용자들은 노조의 행동을 비판하며, 다른 사용자들은 노조의 요구를 지지하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 적용에 대한 관심이 높다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "조국",
+      "summary": "조국에 대한 논란이 계속되고 있습니다. 일부 사용자들은 조국을 지지하며, 다른 사용자들은 조국을 비판하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스와 논의가 많으며, 특히 조국과 김민석에 대한 관심이 높다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있습니다. 일부 사용자들은 AI의 잠재력을 높이 평가하며, 다른 사용자들은 AI의 위험성을 우려하고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 7,
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "삼성전자 노조와 관련된 게시물에서 자주 언급됩니다."
+    },
+    {
+      "keyword": "조국",
+      "count": 10,
       "sentiment": "negative",
-      "context": "파업과 노조 관련 논의"
+      "context": "조국에 대한 비판과 논란에서 자주 언급됩니다."
     },
     {
       "keyword": "AI",
       "count": 12,
       "sentiment": "positive",
-      "context": "기술 발전과 산업 적용"
-    },
-    {
-      "keyword": "조국",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "정치 관련 논의"
+      "context": "AI 기술의 발전과 ứng dụng에 대한 관심에서 자주 언급됩니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부 사용자들은 강한 의견을 가지고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "삼성전자 파업의 영향",
-      "action": "노조와의 협상을 통해 파업을 해결하는 방안을 모색",
+      "insight": "삼성전자 노조의 파업은 회사에 부정적인 영향을 미칠 수 있습니다.",
+      "action": "노조와의 협상을 통해 파업을 방지하는 것이 중요합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 산업 적용을 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다.",
+      "action": "AI 기술의 개발과 적용을 통해 경쟁력을 높이는 것이 중요합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 삼성전자 파업과 AI 기술의 발전에 대한 관심이 높다. 삼성전자 파업은 노조와의 협상을 통해 해결해야 할 문제이며, AI 기술의 발전은 새로운 산업 적용을 개발할 수 있는 기회이다. 또한, 경제 및 정치 관련 뉴스와 논의가 많으며, 특히 조국과 김민석에 대한 관심이 높다. 이러한 트렌드를 통해 기업과 정부는 새로운 기회와 도전을 찾을 수 있을 것이다.",
-  "analyzed_at": "2026-05-15T22:00:34.112Z",
+  "narrative": "최근의 트렌드에서는 삼성전자 노조의 파업과 조국에 대한 논란이 주목을 받고 있습니다. 일부 사용자들은 노조의 행동을 비판하며, 다른 사용자들은 노조의 요구를 지지하고 있습니다. 또한, AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있습니다. 이러한 트렌드는 회사와 산업에 대한 이해를 높이고, 새로운 기회를 창출할 수 있습니다. 그러나, 일부 사용자들은 강한 의견을 가지고 있기 때문에, 회사와 산업은 이러한 트렌드에 주목하고, 적절한 대응을 해야 합니다.",
+  "analyzed_at": "2026-05-15T23:30:33.826Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
