@@ -1,23 +1,37 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성 성과금",
-      "summary": "삼성전자 노조와의 대화 재개 합의, 성과금 관련 논의",
+      "topic": "삼성 노조 문제",
+      "summary": "삼성 노조의 노동 조건과 권利에 대한 논의",
       "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 ứng dụng, 오픈AI와 애플의 소송",
-      "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "노동 문제",
-      "summary": "노동의 양극화와 자산 불평등, 노조의 활동",
-      "post_count": 8,
+      "topic": "조국과 민주진보 연대",
+      "summary": "조국의 당선 후 민주진보 연대 통합 주도에 대한 논의",
+      "post_count": 3,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "고유가 지원금",
+      "summary": "고유가 지원금에 대한 논의와 선별 지원 찬성",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "엔트로픽 AI",
+      "summary": "엔트로픽 AI의 발전과 애플과의 관계에 대한 논의",
+      "post_count": 4,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "현대차와 자율주행",
+      "summary": "현대차의 자율주행 역량평가와 스타트업과의 비교",
+      "post_count": 2,
       "sentiment": "negative",
       "urgency": "medium"
     }
@@ -26,42 +40,69 @@
     {
       "keyword": "삼성",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "삼성전자 노조와의 대화 재개 합의"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng"
-    },
-    {
-      "keyword": "노동",
-      "count": 8,
       "sentiment": "negative",
-      "context": "노동의 양극화와 자산 불평등"
+      "context": "노조 문제와 노동 조건"
+    },
+    {
+      "keyword": "조국",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "당선 후 민주진보 연대 통합 주도"
+    },
+    {
+      "keyword": "고유가",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "지원금과 선별 지원 찬성"
+    },
+    {
+      "keyword": "엔트로픽 AI",
+      "count": 6,
+      "sentiment": "neutral",
+      "context": "발전과 애플과의 관계"
+    },
+    {
+      "keyword": "현대차",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "자율주행 역량평가와 스타트업과의 비교"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 기분이 강하지만, 일부에서는 긍정적 또는 부정적인 감정도 존재"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있다",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발",
+      "insight": "삼성 노조 문제는 노동 조건과 권리 개선에 대한 논의가 필요하다",
+      "action": "노동 조건과 권리 개선에 대한 대책 마련",
       "priority": "high"
     },
     {
-      "insight": "노동 문제는 사회적으로 중요한 문제로 대두되고 있다",
-      "action": "노동 문제를 해결하기 위한 대책을 마련",
+      "insight": "조국과 민주진보 연대 통합 주도는 정치적 논의가 필요하다",
+      "action": "정치적 논의와 대화",
+      "priority": "medium"
+    },
+    {
+      "insight": "고유가 지원금은 선별 지원 찬성이 필요하다",
+      "action": "선별 지원 찬성에 대한 대책 마련",
+      "priority": "medium"
+    },
+    {
+      "insight": "엔트로픽 AI는 발전과 애플과의 관계에 대한 논의가 필요하다",
+      "action": "엔트로픽 AI의 발전과 애플과의 관계에 대한 연구",
+      "priority": "low"
+    },
+    {
+      "insight": "현대차의 자율주행 역량평가는 스타트업과의 비교가 필요하다",
+      "action": "스타트업과의 비교와 자율주행 역량평가 개선",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조와의 대화 재개 합의, AI 기술의 발전과 ứng dụng, 노동 문제 등이 주요한 주제로 나타났습니다. 이러한 주제는 사회적으로 중요한 문제로 대두되고 있으며, 기업과 정부는 이러한 문제를 해결하기 위한 대책을 마련해야 할 것입니다. 또한, AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있으므로, 기업은 AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 할 것입니다.",
-  "analyzed_at": "2026-05-16T10:30:34.453Z",
+  "narrative": "최근의 트렌드는 삼성 노조 문제, 조국과 민주진보 연대, 고유가 지원금, 엔트로픽 AI, 현대차의 자율주행 역량평가 등이다. 이러한 트렌드는 노동 조건과 권리, 정치적 논의, 선별 지원 찬성, 엔트로픽 AI의 발전과 애플과의 관계, 자율주행 역량평가 등 다양한 주제를 포함한다. 이러한 트렌드는 중립적인 분위기를 보이고 있으며, 기업과 정부는 이러한 트렌드에 대한 대책 마련과 연구가 필요하다.",
+  "analyzed_at": "2026-05-16T12:00:35.298Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
