@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조의 주장을 배제하더라도 파업이 무슨 문제인지에 대한 논의",
-      "post_count": 5,
+      "topic": "삼성전자 파업",
+      "summary": "삼성전자 노조와 경영진이 교섭을 재개하고, 파업의 원인이 무엇인지에 대한 논의가 진행 중입니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "트럼프의 대만 방문",
-      "summary": "트럼프의 대만 방문과 관련된 논의",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 논의",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련된 다양한 주제가 논의되고 있으며, 특히 김용남 후보와 관련된 주제가 많이 등장하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 10,
+      "count": 20,
       "sentiment": "negative",
-      "context": "노조와 관련된 논의"
-    },
-    {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "대만 방문과 관련된 논의"
+      "context": "파업과 관련된 주제"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "기술 발전과 관련된 논의"
+      "context": "기술 발전과 산업 발전"
+    },
+    {
+      "keyword": "김용남",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "정치 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 10,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 감정"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조의 주장이 기업의 이미지를 악화시킬 수 있다",
-      "action": "노조와의 협상을 통해 문제를 해결해야 한다",
+      "insight": "삼성전자 파업의 원인은 무엇인지에 대한 논의가 필요합니다.",
+      "action": "삼성전자와 노조의 교섭을 주시하고, 파업의 원인을 분석합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 활용될 수 있다",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 한다",
+      "insight": "AI 기술의 발전은 다양한 산업의 발전을 가져올 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용한 산업의 발전을 분석합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조와 트럼프의 대만 방문이 주요 논제로 부각되고 있다. 또한, AI 기술의 발전이 다양한 산업에서 활용될 수 있는 기회를 제공하고 있다. 이러한 트렌드를 통해 기업은 노조와의 협상을 통해 문제를 해결하고, AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 한다. 또한, 기업은 소비자의 감성을 이해하고, 이를 통해 마케팅 전략을 개발해야 한다.",
-  "analyzed_at": "2026-05-16T05:30:33.662Z",
+  "narrative": "최근의 트렌드는 삼성전자 파업과 AI 기술의 발전이 주를 이루고 있습니다. 삼성전자 파업의 원인은 무엇인지에 대한 논의가 필요하며, AI 기술의 발전은 다양한 산업의 발전을 가져올 수 있습니다. 또한, 정치 관련된 주제도 많이 등장하고 있으며, 특히 김용남 후보와 관련된 주제가 많이 등장하고 있습니다. 이러한 트렌드를 분석하여, 산업의 발전과 정치적인 상황을 이해하는 데 도움이 될 수 있습니다.",
+  "analyzed_at": "2026-05-16T07:30:33.688Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
