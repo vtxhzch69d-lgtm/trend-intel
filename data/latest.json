@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 주제가 많이 обсужд되고 있습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목받고 있습니다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제도 많은 관심을 받고 있습니다. 특히, 현대차그룹의 V2G 시범서비스 개시와 삼성 헬스의 데이터 러닝 강화 등이 주목받고 있습니다.",
+      "summary": "경제 및 금융 관련 뉴스와 분석",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제도 обсужд되고 있습니다. 특히, 조국 관련 주제와 최저시급자에게 세금을 신고하게 하여야 한다는 주제가 논쟁이 되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "스포츠",
+      "summary": "스포츠 뉴스와 경기 결과",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 산업의 발전"
+      "context": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장"
     },
     {
-      "keyword": "현대차그룹",
-      "count": 5,
+      "keyword": "경제",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "현대차그룹의 V2G 시범서비스 개시"
+      "context": "경제 및 금융 관련 뉴스와 분석"
     },
     {
-      "keyword": "조국",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "조국 관련 주제와 논쟁"
+      "keyword": "스포츠",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "스포츠 뉴스와 경기 결과"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 산업의 발전을 주목",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융의 안정",
-      "action": "경제 및 금융 관련 주제를 주목",
+      "insight": "경제 및 금융 관련 뉴스와 분석은 중요한 비즈니스 정보이다",
+      "action": "경제 및 금융 관련 뉴스와 분석을 주기적으로 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "사회 및 정치의 논쟁",
-      "action": "사회 및 정치 관련 주제를 주목",
-      "priority": "medium"
+      "insight": "스포츠 뉴스와 경기 결과는 마케팅과 브랜딩에 활용할 수 있다",
+      "action": "스포츠 뉴스와 경기 결과를 활용한 마케팅과 브랜딩 전략 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 주제가 많이 обсужд되고 있습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목받고 있습니다. 또한, 경제 및 금융 관련 주제도 많은 관심을 받고 있습니다. 특히, 현대차그룹의 V2G 시범서비스 개시와 삼성 헬스의 데이터 러닝 강화 등이 주목받고 있습니다. 그러나, 사회 및 정치 관련 주제도 논쟁이 되고 있습니다. 따라서, 마케터는 이러한 트렌드를 주목하고, 관련 산업의 발전을 주목해야 합니다.",
-  "analyzed_at": "2026-05-16T20:30:34.547Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 또한, 경제 및 금융 관련 뉴스와 분석은 중요한 비즈니스 정보이며, 스포츠 뉴스와 경기 결과는 마케팅과 브랜딩에 활용할 수 있다. 이러한 트렌드와 키워드를 활용하여 새로운 비즈니스 모델 개발, 마케팅과 브랜딩 전략 개발 등 다양한 비즈니스 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-05-16T22:00:33.856Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
