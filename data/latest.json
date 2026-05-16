@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 주제가 많이 обсужд되고 있습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목받고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 분석",
+      "summary": "경제 및 금융 관련 주제도 많은 관심을 받고 있습니다. 특히, 현대차그룹의 V2G 시범서비스 개시와 삼성 헬스의 데이터 러닝 강화 등이 주목받고 있습니다.",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스와 논평",
+      "summary": "사회 및 정치 관련 주제도 обсужд되고 있습니다. 특히, 조국 관련 주제와 최저시급자에게 세금을 신고하게 하여야 한다는 주제가 논쟁이 되고 있습니다.",
       "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
@@ -27,41 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 이를 활용한 산업의 발전"
     },
     {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "현대차그룹",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
+      "context": "현대차그룹의 V2G 시범서비스 개시"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스"
+      "keyword": "조국",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "조국 관련 주제와 논쟁"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 15,
-    "neutral": 40,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 산업의 발전을 주목",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스와 분석은 비즈니스 의사 결정에 중요한 역할을 한다",
-      "action": "경제 및 금융 관련 뉴스와 분석을 주기적으로 모니터링",
+      "insight": "경제 및 금융의 안정",
+      "action": "경제 및 금융 관련 주제를 주목",
+      "priority": "medium"
+    },
+    {
+      "insight": "사회 및 정치의 논쟁",
+      "action": "사회 및 정치 관련 주제를 주목",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 경제 및 금융 관련 뉴스와 분석, 사회 및 정치 관련 뉴스와 논평 등이 주요한 주제로 나타났다. 이러한 트렌드들은 비즈니스 의사 결정과 마케팅 전략에 중요한 역할을 할 수 있다. 특히, AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있으므로, AI 기술을 활용한 비즈니스 모델 개발을 우선적으로 고려해야 한다. 또한, 경제 및 금융 관련 뉴스와 분석을 주기적으로 모니터링하여 비즈니스 의사 결정에 중요한 역할을 할 수 있다.",
-  "analyzed_at": "2026-05-16T19:00:34.166Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 주제가 많이 обсужд되고 있습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목받고 있습니다. 또한, 경제 및 금융 관련 주제도 많은 관심을 받고 있습니다. 특히, 현대차그룹의 V2G 시범서비스 개시와 삼성 헬스의 데이터 러닝 강화 등이 주목받고 있습니다. 그러나, 사회 및 정치 관련 주제도 논쟁이 되고 있습니다. 따라서, 마케터는 이러한 트렌드를 주목하고, 관련 산업의 발전을 주목해야 합니다.",
+  "analyzed_at": "2026-05-16T20:30:34.547Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
