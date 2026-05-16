@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있습니다. 특히, 챗GPT와 같은 대화형 AI 모델의 등장으로 인해 인간과 기계 간의 상호작용이更加 깊어지고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 분석",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련된 게시글이 많은 것으로 나타났습니다. 특히, 최근의 선거와 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "스포츠 뉴스와 경기 결과",
-      "post_count": 5,
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련된 게시글이 많습니다. 특히, 로봇 기술과 우주 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,21 +25,21 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장"
+      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
     },
     {
       "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스와 분석"
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "경제 및 정치 관련된 주제"
     },
     {
-      "keyword": "스포츠",
+      "keyword": "로봇",
       "count": 5,
       "sentiment": "positive",
-      "context": "스포츠 뉴스와 경기 결과"
+      "context": "로봇 기술의 발전"
     }
   ],
   "sentiment_overview": {
@@ -50,23 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스와 분석은 중요한 비즈니스 정보이다",
-      "action": "경제 및 금융 관련 뉴스와 분석을 주기적으로 모니터링",
+      "insight": "경제 및 정치 관련된 주제",
+      "action": "경제 및 정치 관련된 주제에 대한 분석과 보고서 작성",
       "priority": "medium"
     },
     {
-      "insight": "스포츠 뉴스와 경기 결과는 마케팅과 브랜딩에 활용할 수 있다",
-      "action": "스포츠 뉴스와 경기 결과를 활용한 마케팅과 브랜딩 전략 개발",
+      "insight": "로봇 기술의 발전",
+      "action": "로봇 기술을 활용하여 새로운 비즈니스 모델을 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 또한, 경제 및 금융 관련 뉴스와 분석은 중요한 비즈니스 정보이며, 스포츠 뉴스와 경기 결과는 마케팅과 브랜딩에 활용할 수 있다. 이러한 트렌드와 키워드를 활용하여 새로운 비즈니스 모델 개발, 마케팅과 브랜딩 전략 개발 등 다양한 비즈니스 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-05-16T22:00:33.856Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있습니다. 또한, 경제 및 정치 관련된 주제가 많이 обсужд되고 있습니다. 이러한 트렌드에 따라, 비즈니스 인사이트를 도출하여 새로운 비즈니스 모델을 개발하고, 경제 및 정치 관련된 주제에 대한 분석과 보고서 작성이 필요합니다. 또한, 로봇 기술의 발전을 활용하여 새로운 비즈니스 모델을 개발할 수 있습니다.",
+  "analyzed_at": "2026-05-16T23:30:33.975Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
