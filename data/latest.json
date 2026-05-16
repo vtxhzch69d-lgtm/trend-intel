@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조의 파업과 강성으로 나오는 모습이 논란이 되고 있습니다. 일부 사용자들은 노조의 행동을 비판하며, 다른 사용자들은 노조의 요구를 지지하고 있습니다.",
+      "topic": "정치",
+      "summary": "김용남과 조국의 당선 문제, 윤석열과 한동훈의 검사본색, 이미지 정치인들의 위선을 끝내야 합니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "조국",
-      "summary": "조국에 대한 논란이 계속되고 있습니다. 일부 사용자들은 조국을 지지하며, 다른 사용자들은 조국을 비판하고 있습니다.",
+      "topic": "기술",
+      "summary": "AI와 인간이 함께 싸우는 공군, 현대차그룹의 V2G 시범서비스, SKT-국방부의 AI 협력",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있습니다. 일부 사용자들은 AI의 잠재력을 높이 평가하며, 다른 사용자들은 AI의 위험성을 우려하고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제",
+      "summary": "삼성전자와 현대차그룹의 주식 소득에 세금 더 물리기, 고액 성과급에 더 높은 소득세율 적용",
+      "post_count": 6,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "삼성전자 노조와 관련된 게시물에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "조국",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "조국에 대한 비판과 논란에서 자주 언급됩니다."
-    },
-    {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng에 대한 관심에서 자주 언급됩니다."
+      "context": "AI와 인간이 함께 싸우는 공군, AI 반도체, AI 반도체 검증 인프라"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "김용남과 조국의 당선 문제, 윤석열과 한동훈의 검사본색"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "삼성전자와 현대차그룹의 주식 소득에 세금 더 물리기"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부 사용자들은 강한 의견을 가지고 있습니다."
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조의 파업은 회사에 부정적인 영향을 미칠 수 있습니다.",
-      "action": "노조와의 협상을 통해 파업을 방지하는 것이 중요합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다.",
-      "action": "AI 기술의 개발과 적용을 통해 경쟁력을 높이는 것이 중요합니다.",
+      "insight": "경제적 불안정성",
+      "action": "경제적 불안정성에 대비한 비즈니스 전략 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "정치적 불안정성",
+      "action": "정치적 불안정성에 대비한 비즈니스 전략 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드에서는 삼성전자 노조의 파업과 조국에 대한 논란이 주목을 받고 있습니다. 일부 사용자들은 노조의 행동을 비판하며, 다른 사용자들은 노조의 요구를 지지하고 있습니다. 또한, AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있습니다. 이러한 트렌드는 회사와 산업에 대한 이해를 높이고, 새로운 기회를 창출할 수 있습니다. 그러나, 일부 사용자들은 강한 의견을 가지고 있기 때문에, 회사와 산업은 이러한 트렌드에 주목하고, 적절한 대응을 해야 합니다.",
-  "analyzed_at": "2026-05-15T23:30:33.826Z",
+  "narrative": "최근의 정치적 상황과 경제적 불안정성은 많은 사람들의 관심을 끌고 있습니다. AI 기술의 발전은 새로운 비즈니스 모델의 개발을 가능하게 할 수 있습니다. 그러나 정치적 불안정성과 경제적 불안정성은 비즈니스에 대한 불확실성을 증가시킬 수 있습니다. 따라서 비즈니스 전략을 개발하여 이러한 상황에 대비해야 합니다. 또한, AI 기술을 활용한 새로운 비즈니스 모델의 개발은 높은 우선순위를 가질 수 있습니다.",
+  "analyzed_at": "2026-05-16T01:00:34.441Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
