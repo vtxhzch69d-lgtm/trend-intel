@@ -2,38 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 обсужд되고 있습니다. AI의 응용 분야와 관련된 뉴스 및 기사들이 많이 올라오고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 분석",
+      "summary": "경제 및 금융 관련 주제가 많이 обсужд되고 있습니다. 주식 시세와 관련된 뉴스 및 기사들이 많이 올라오고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 분석",
-      "post_count": 8,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 뉴스와 분석",
-      "post_count": 7,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠 및 엔터테인먼트",
-      "summary": "스포츠 및 엔터테인먼트 관련 뉴스와 분석",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 주제가 많이 обсужд되고 있습니다. 정치 관련 뉴스 및 기사들이 많이 올라오고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -41,68 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스"
+      "keyword": "주식",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "주식 시세와 관련된 뉴스 및 기사"
     },
     {
       "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 관련 뉴스"
-    },
-    {
-      "keyword": "기술",
       "count": 8,
-      "sentiment": "positive",
-      "context": "기술 및 과학 관련 뉴스"
-    },
-    {
-      "keyword": "스포츠",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "스포츠 및 엔터테인먼트 관련 뉴스"
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스 및 기사"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "적극적이고 낙관적인 분위기"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "insight": "AI 기술의 발전",
       "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스는 시장의 동향을 파악하는 데 중요하다",
-      "action": "경제 및 금융 관련 뉴스 모니터링",
+      "insight": "경제 및 금융의 불안정성",
+      "action": "경제 및 금융 관련 리스크 관리",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 관련 뉴스는 기업의 사회적 책임을 강화하는 데 중요하다",
-      "action": "정치 및 사회 관련 뉴스 모니터링",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술 및 과학 관련 뉴스는 미래의 비즈니스 기회를 창출하는 데 중요하다",
-      "action": "기술 및 과학 관련 뉴스 모니터링",
-      "priority": "medium"
-    },
-    {
-      "insight": "스포츠 및 엔터테인먼트 관련 뉴스는 고객의 관심을 끌기 위한 마케팅 전략을 개발하는 데 중요하다",
-      "action": "스포츠 및 엔터테인먼트 관련 뉴스 모니터링",
-      "priority": "low"
+      "insight": "사회 및 정치의 불안정성",
+      "action": "사회 및 정치 관련 리스크 관리",
+      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장을 중심으로 형성되고 있다. 경제 및 금융 관련 뉴스와 정치 및 사회 관련 뉴스도 중요한 역할을 하고 있으며, 기술 및 과학 관련 뉴스는 미래의 비즈니스 기회를 창출하는 데 중요하다. 스포츠 및 엔터테인먼트 관련 뉴스는 고객의 관심을 끌기 위한 마케팅 전략을 개발하는 데 중요하다. 따라서 기업은 이러한 트렌드를 파악하고, 적절한 비즈니스 전략을 개발하여 시장의 동향을 주도적으로 대응해야 한다.",
-  "analyzed_at": "2026-05-16T14:00:34.199Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 많이 обсужд되고 있습니다. 또한, 경제 및 금융 관련 주제와 사회 및 정치 관련 주제도 많이 обсужд되고 있습니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개발하고 리스크를 관리하는 것이 중요합니다. 또한, AI 기술의 발전을 활용하여 비즈니스 모델을 개발하고, 경제 및 금융의 불안정성과 사회 및 정치의 불안정성을 관리하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-16T15:30:34.547Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
