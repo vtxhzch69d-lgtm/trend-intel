@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "김용남과 조국의 당선 문제, 윤석열과 한동훈의 검사본색, 이미지 정치인들의 위선을 끝내야 합니다.",
-      "post_count": 10,
+      "topic": "삼성전자 노조 파업",
+      "summary": "삼성전자 노조 파업이 정치권에서도 예민할 수 있는 상황입니다. 노조 파업의 영향이 기업과 산업에 미치는 영향이 크다고 할 수 있습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 인간이 함께 싸우는 공군, 현대차그룹의 V2G 시범서비스, SKT-국방부의 AI 협력",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "비만 치료제",
+      "summary": "비만 치료제의 시장 확대와 식료업계의 영향에 대한 논의가 있습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자와 현대차그룹의 주식 소득에 세금 더 물리기, 고액 성과급에 더 높은 소득세율 적용",
-      "post_count": 6,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "트럼프와 대만",
+      "summary": "트럼프의 대만 관련 발언이 논란이 되고 있습니다.",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "삼성전자",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI와 인간이 함께 싸우는 공군, AI 반도체, AI 반도체 검증 인프라"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
       "sentiment": "negative",
-      "context": "김용남과 조국의 당선 문제, 윤석열과 한동훈의 검사본색"
+      "context": "노조 파업과 관련된 논의"
     },
     {
-      "keyword": "경제",
-      "count": 8,
+      "keyword": "비만 치료제",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "삼성전자와 현대차그룹의 주식 소득에 세금 더 물리기"
+      "context": "시장 확대와 식료업계의 영향"
+    },
+    {
+      "keyword": "트럼프",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "대만 관련 발언"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 5,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높은 것으로 나타남"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "삼성전자 노조 파업의 영향",
+      "action": "기업과 산업에 미치는 영향 분석",
       "priority": "high"
     },
     {
-      "insight": "경제적 불안정성",
-      "action": "경제적 불안정성에 대비한 비즈니스 전략 개발",
+      "insight": "비만 치료제 시장 확대",
+      "action": "식료업계의 영향 분석",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적 불안정성",
-      "action": "정치적 불안정성에 대비한 비즈니스 전략 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 정치적 상황과 경제적 불안정성은 많은 사람들의 관심을 끌고 있습니다. AI 기술의 발전은 새로운 비즈니스 모델의 개발을 가능하게 할 수 있습니다. 그러나 정치적 불안정성과 경제적 불안정성은 비즈니스에 대한 불확실성을 증가시킬 수 있습니다. 따라서 비즈니스 전략을 개발하여 이러한 상황에 대비해야 합니다. 또한, AI 기술을 활용한 새로운 비즈니스 모델의 개발은 높은 우선순위를 가질 수 있습니다.",
-  "analyzed_at": "2026-05-16T01:00:34.441Z",
+  "narrative": "최근의 트렌드는 삼성전자 노조 파업과 비만 치료제 시장 확대, 트럼프의 대만 관련 발언 등이 주를 이루고 있습니다. 이러한 트렌드들은 기업과 산업, 정치권에 미치는 영향이 크므로 마케터들은 이러한 트렌드들을 주시하고 분석하여 사업 전략을 수립해야 합니다. 또한, 이러한 트렌드들은 소비자들의 관심과 요구를 반영하고 있으므로 마케터들은 이러한 트렌드들을 고려하여 소비자들의 니즈를 충족시키는 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-05-16T02:30:34.096Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
