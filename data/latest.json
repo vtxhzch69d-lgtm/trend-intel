@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
+      "topic": "삼성 성과금",
+      "summary": "삼성전자 노조와의 대화 재개 합의, 성과금 관련 논의",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 ứng dụng, 오픈AI와 애플의 소송",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 관련 뉴스와 분석이 많은 관심을 받고 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "스포츠",
-      "summary": "야구와 축구 등 스포츠 관련 뉴스와 분석이 많은 관심을 받고 있다.",
+      "topic": "노동 문제",
+      "summary": "노동의 양극화와 자산 불평등, 노조의 활동",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 응용"
-    },
-    {
-      "keyword": "주식",
+      "keyword": "삼성",
       "count": 10,
       "sentiment": "neutral",
-      "context": "주식 시장의 분석과 전망"
+      "context": "삼성전자 노조와의 대화 재개 합의"
     },
     {
-      "keyword": "야구",
-      "count": 8,
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "야구 경기와 선수에 대한 관심"
+      "context": "AI 기술의 발전과 ứng dụng"
+    },
+    {
+      "keyword": "노동",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "노동의 양극화와 자산 불평등"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 기분이 강하지만, 일부에서는 긍정적 또는 부정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고 그 응용을 연구한다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있다",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 주식 시장의 분석은 중요하다.",
-      "action": "주식 시장의 분석과 전망을 연구한다.",
+      "insight": "노동 문제는 사회적으로 중요한 문제로 대두되고 있다",
+      "action": "노동 문제를 해결하기 위한 대책을 마련",
       "priority": "medium"
-    },
-    {
-      "insight": "스포츠는 많은 사람들의 관심을 받고 있다.",
-      "action": "스포츠 관련 뉴스와 분석을 제공한다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 또한, 경제 및 주식 관련 뉴스와 분석이 많은 관심을 받고 있다. 스포츠 또한 많은 사람들의 관심을 받고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으므로, 그 응용을 연구하고 주시하는 것이 중요하다. 또한, 주식 시장의 분석과 전망을 연구하여 투자자들에게 유용한 정보를 제공할 수 있다. 마지막으로, 스포츠 관련 뉴스와 분석을 제공하여 많은 사람들의 관심을 끌 수 있다.",
-  "analyzed_at": "2026-05-16T09:00:33.830Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조와의 대화 재개 합의, AI 기술의 발전과 ứng dụng, 노동 문제 등이 주요한 주제로 나타났습니다. 이러한 주제는 사회적으로 중요한 문제로 대두되고 있으며, 기업과 정부는 이러한 문제를 해결하기 위한 대책을 마련해야 할 것입니다. 또한, AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있으므로, 기업은 AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 할 것입니다.",
+  "analyzed_at": "2026-05-16T10:30:34.453Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
