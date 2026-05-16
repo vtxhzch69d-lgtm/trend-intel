@@ -1,108 +1,108 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성 노조 문제",
-      "summary": "삼성 노조의 노동 조건과 권利에 대한 논의",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "조국과 민주진보 연대",
-      "summary": "조국의 당선 후 민주진보 연대 통합 주도에 대한 논의",
-      "post_count": 3,
-      "sentiment": "mixed",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "고유가 지원금",
-      "summary": "고유가 지원금에 대한 논의와 선별 지원 찬성",
-      "post_count": 2,
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 분석",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련 뉴스와 분석",
+      "post_count": 7,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "엔트로픽 AI",
-      "summary": "엔트로픽 AI의 발전과 애플과의 관계에 대한 논의",
-      "post_count": 4,
-      "sentiment": "neutral",
+      "topic": "스포츠 및 엔터테인먼트",
+      "summary": "스포츠 및 엔터테인먼트 관련 뉴스와 분석",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
-    },
-    {
-      "topic": "현대차와 자율주행",
-      "summary": "현대차의 자율주행 역량평가와 스타트업과의 비교",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "노조 문제와 노동 조건"
-    },
-    {
-      "keyword": "조국",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "당선 후 민주진보 연대 통합 주도"
-    },
-    {
-      "keyword": "고유가",
-      "count": 3,
+      "keyword": "AI",
+      "count": 20,
       "sentiment": "positive",
-      "context": "지원금과 선별 지원 찬성"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "엔트로픽 AI",
-      "count": 6,
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "발전과 애플과의 관계"
+      "context": "경제 및 금융 관련 뉴스"
     },
     {
-      "keyword": "현대차",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "자율주행 역량평가와 스타트업과의 비교"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 및 사회 관련 뉴스"
+    },
+    {
+      "keyword": "기술",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 및 과학 관련 뉴스"
+    },
+    {
+      "keyword": "스포츠",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "스포츠 및 엔터테인먼트 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "적극적이고 낙관적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성 노조 문제는 노동 조건과 권리 개선에 대한 논의가 필요하다",
-      "action": "노동 조건과 권리 개선에 대한 대책 마련",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "조국과 민주진보 연대 통합 주도는 정치적 논의가 필요하다",
-      "action": "정치적 논의와 대화",
+      "insight": "경제 및 금융 관련 뉴스는 시장의 동향을 파악하는 데 중요하다",
+      "action": "경제 및 금융 관련 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "고유가 지원금은 선별 지원 찬성이 필요하다",
-      "action": "선별 지원 찬성에 대한 대책 마련",
+      "insight": "정치 및 사회 관련 뉴스는 기업의 사회적 책임을 강화하는 데 중요하다",
+      "action": "정치 및 사회 관련 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "엔트로픽 AI는 발전과 애플과의 관계에 대한 논의가 필요하다",
-      "action": "엔트로픽 AI의 발전과 애플과의 관계에 대한 연구",
+      "insight": "기술 및 과학 관련 뉴스는 미래의 비즈니스 기회를 창출하는 데 중요하다",
+      "action": "기술 및 과학 관련 뉴스 모니터링",
+      "priority": "medium"
+    },
+    {
+      "insight": "스포츠 및 엔터테인먼트 관련 뉴스는 고객의 관심을 끌기 위한 마케팅 전략을 개발하는 데 중요하다",
+      "action": "스포츠 및 엔터테인먼트 관련 뉴스 모니터링",
       "priority": "low"
-    },
-    {
-      "insight": "현대차의 자율주행 역량평가는 스타트업과의 비교가 필요하다",
-      "action": "스타트업과의 비교와 자율주행 역량평가 개선",
-      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성 노조 문제, 조국과 민주진보 연대, 고유가 지원금, 엔트로픽 AI, 현대차의 자율주행 역량평가 등이다. 이러한 트렌드는 노동 조건과 권리, 정치적 논의, 선별 지원 찬성, 엔트로픽 AI의 발전과 애플과의 관계, 자율주행 역량평가 등 다양한 주제를 포함한다. 이러한 트렌드는 중립적인 분위기를 보이고 있으며, 기업과 정부는 이러한 트렌드에 대한 대책 마련과 연구가 필요하다.",
-  "analyzed_at": "2026-05-16T12:00:35.298Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장을 중심으로 형성되고 있다. 경제 및 금융 관련 뉴스와 정치 및 사회 관련 뉴스도 중요한 역할을 하고 있으며, 기술 및 과학 관련 뉴스는 미래의 비즈니스 기회를 창출하는 데 중요하다. 스포츠 및 엔터테인먼트 관련 뉴스는 고객의 관심을 끌기 위한 마케팅 전략을 개발하는 데 중요하다. 따라서 기업은 이러한 트렌드를 파악하고, 적절한 비즈니스 전략을 개발하여 시장의 동향을 주도적으로 대응해야 한다.",
+  "analyzed_at": "2026-05-16T14:00:34.199Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
