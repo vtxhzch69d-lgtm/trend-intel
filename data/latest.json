@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 보안과 안정성, 그리고 미래의 가능성에 대한 관심이 집중되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "삼성노조",
+      "summary": "삼성노조의 현황과 정부의 관여에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련 주제가 논의되고 있습니다. 최근의 정치적 사건과 사회적인 문제에 대한 관심이 집중되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "최두호",
+      "summary": "최두호의 최근 경기와 그의 인기",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술과 과학 관련 주제가 논의되고 있습니다. 새로운 기술의 개발과 과학적인 발견에 대한 관심이 집중되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "삼성",
+      "count": 7,
       "sentiment": "negative",
-      "context": "정치 관련 주제"
+      "context": "삼성노조와 정부의 관계"
     },
     {
-      "keyword": "기술",
-      "count": 8,
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 산업의 변화"
+    },
+    {
+      "keyword": "최두호",
+      "count": 3,
       "sentiment": "positive",
-      "context": "기술 관련 주제"
+      "context": "최두호의 최근 경기"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
+    "positive": 10,
+    "negative": 15,
     "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "삼성노조의 현황을 주시해야 한다",
+      "action": "삼성노조의 최근 동향을 분석",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회의 변화",
-      "action": "정치와 사회의变化에 대응한 비즈니스 전략 개발",
+      "insight": "AI 기술의 발전을 주시해야 한다",
+      "action": "AI 기술의 최근 동향을 분석",
       "priority": "medium"
-    },
-    {
-      "insight": "기술과 과학의 발전",
-      "action": "기술과 과학의 발전을 활용한 비즈니스 모델 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있습니다. AI 기술의 보안과 안정성, 그리고 미래의 가능성에 대한 관심이 집중되고 있습니다. 또한, 정치와 사회 관련 주제도 논의되고 있습니다. 기술과 과학 관련 주제도 관심을 집중하고 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 개발할 수 있습니다. AI 기술의 발전을 활용한 비즈니스 모델 개발, 정치와 사회의 변화에 대응한 비즈니스 전략 개발, 기술과 과학의 발전을 활용한 비즈니스 모델 개발 등이 가능합니다.",
-  "analyzed_at": "2026-05-17T02:30:34.726Z",
+  "narrative": "최근의 트렌드는 삼성노조와 AI 기술의 발전에 대한 관심이 높아지고 있다. 삼성노조의 현황은 정부의 관여에 대한 논의가 있으며, AI 기술의 발전은 다양한 산업의 변화를 가져올 것으로 예상된다. 이러한 트렌드를 주시하고 분석하여 사업 전략을 수립하는 것이 중요하다. 또한, 최두호의 인기와 관련된 콘텐츠를 제작하여 마케팅에 활용할 수 있을 것이다.",
+  "analyzed_at": "2026-05-17T04:00:33.930Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
