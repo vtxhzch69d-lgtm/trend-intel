@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 파업",
-      "summary": "삼성전자 파업으로 인한 긴급조정권 발동 가능성에 대한 논의가 활발하다. 정부의 결정이 관건이다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "삼성전자 노조 파업",
+      "summary": "삼성전자 노조 파업이 예정되어 있으며, 이에 따른 피해 규모와 노동의 가치에 대한 논의가 진행 중이다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "트럼프와 대만",
-      "summary": "트럼프와 대만의 관계에 대한 논의가 있다. 대만은 독립적인 민주 국가라고 주장한다.",
-      "post_count": 3,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 변화에 대한 관심이 높다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 발전에 대한 논의가 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 논평이 많으며, 긴급조정권과 관련된 논의가 진행 중이다.",
+      "post_count": 20,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "파업과 긴급조정권 발동 가능성"
-    },
-    {
-      "keyword": "트럼프",
-      "count": 3,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "대만과의 관계"
+      "context": "노조 파업과 관련된 뉴스"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 발전과 산업 활용"
+      "context": "기술 발전과 산업 변화"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "경기 침체와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지된다."
   },
   "business_insights": [
     {
-      "insight": "삼성전자 파업의 영향",
-      "action": "긴급조정권 발동 가능성에 대한 대비",
+      "insight": "삼성전자 노조 파업은 산업계에 큰 영향을 미칠 수 있다.",
+      "action": "노조 파업에 대한 대비와 대응을 준비해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "산업 활용과 투자",
+      "insight": "AI 기술의 발전은 다양한 산업의 변화를 가져올 수 있다.",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발을 고려해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드는 삼성전자 파업과 트럼프와 대만의 관계, AI 기술의 발전에 대한 논의가 활발하다. 정부의 결정과 산업의 활용이 중요하다. 중립적인 분위기이지만, 일부에서는 부정적인 감정도 나타난다. 기업들은 이러한 트렌드에 대한 대비와 투자가 필요하다.",
-  "analyzed_at": "2026-05-17T08:30:34.259Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조 파업과 AI 기술의 발전이 주요 관심사로 나타났다. 또한, 경제 및 정치 관련 뉴스와 논평이 많으며, 긴급조정권과 관련된 논의가 진행 중이다. 이러한 트렌드에 대한 분석과 이해를 통해, 기업과 개인은 미래의 비즈니스 기회와 도전을 준비할 수 있을 것이다. 특히, 삼성전자 노조 파업과 AI 기술의 발전은 산업계에 큰 영향을 미칠 수 있으므로, 관련된 대비와 대응을 준비하는 것이 중요하다.",
+  "analyzed_at": "2026-05-17T10:30:34.006Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
