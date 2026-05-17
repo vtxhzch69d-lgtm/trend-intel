@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있습니다. 특히, 챗GPT와 같은 대화형 AI 모델의 등장으로 인해 인간과 기계 간의 상호작용이更加 깊어지고 있습니다.",
+      "summary": "AI 기술의 발전과 적용이 다양한 분야에서 논의되고 있습니다. AI의 보안과 안정성에 대한 우려도 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련된 게시글이 많은 것으로 나타났습니다. 특히, 최근의 선거와 관련된 주제가 많이 обсужд되고 있습니다.",
-      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련된 게시글이 많습니다. 특히, 로봇 기술과 우주 관련된 주제가 많이 обсужд되고 있습니다.",
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융 관련 뉴스가 많이 обсужд되고 있습니다. 금리 인상과 경제 성장에 대한 우려가 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 뉴스가 많이 논의되고 있습니다. 정치인들의 발언과 행동에 대한 비판이 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 적용"
     },
     {
       "keyword": "경제",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "경제 및 정치 관련된 주제"
+      "sentiment": "negative",
+      "context": "경제 성장과 금리 인상"
     },
     {
-      "keyword": "로봇",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "로봇 기술의 발전"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치인들의 발언과 행동"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 10,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발",
+      "insight": "AI 기술의 발전과 적용",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련된 주제",
-      "action": "경제 및 정치 관련된 주제에 대한 분석과 보고서 작성",
+      "insight": "경제와 금융의 불안정성",
+      "action": "경제와 금융의 불안정성에 대한 대비",
       "priority": "medium"
     },
     {
-      "insight": "로봇 기술의 발전",
-      "action": "로봇 기술을 활용하여 새로운 비즈니스 모델을 개발",
+      "insight": "정치와 사회의 불안정성",
+      "action": "정치와 사회의 불안정성에 대한 대비",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있습니다. 또한, 경제 및 정치 관련된 주제가 많이 обсужд되고 있습니다. 이러한 트렌드에 따라, 비즈니스 인사이트를 도출하여 새로운 비즈니스 모델을 개발하고, 경제 및 정치 관련된 주제에 대한 분석과 보고서 작성이 필요합니다. 또한, 로봇 기술의 발전을 활용하여 새로운 비즈니스 모델을 개발할 수 있습니다.",
-  "analyzed_at": "2026-05-16T23:30:33.975Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 적용, 경제와 금융의 불안정성, 정치와 사회의 불안정성이 주요한 주제로 나타났습니다. 이러한 트렌드와 키워드를 활용하여 비즈니스 모델을 개발하고, 경제와 금융의 불안정성에 대한 대비를 하고, 정치와 사회의 불안정성에 대한 대비를 하는 것이 중요합니다. 또한, 부정적인 감정과 중립적인 감정이 혼재하는 현재의 상황에서, 긍정적인 마케팅 전략을 개발하여 소비자들의 감정을 긍정적으로 변화시키는 것이 중요합니다.",
+  "analyzed_at": "2026-05-17T01:00:34.336Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
