@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성노조",
-      "summary": "삼성노조의 현황과 정부의 관여에 대한 논의",
+      "topic": "고용유연화",
+      "summary": "고용유연화에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 고용유연화의 필요성과 문제점에 대한 다양한 의견이 있습니다.",
       "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "최두호",
-      "summary": "최두호의 최근 경기와 그의 인기",
-      "post_count": 3,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
+      "summary": "AI 기술에 대한 관심이 클리앙 커뮤니티에서 높아지고 있습니다. AI 기술의 발전과 이를 활용한 다양한 서비스에 대한 논의가 진행되고 있습니다.",
       "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 경제 성장과 금융 정책에 대한 다양한 의견이 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "삼성노조와 정부의 관계"
-    },
-    {
       "keyword": "AI",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 산업의 변화"
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 이를 활용한 다양한 서비스"
     },
     {
-      "keyword": "최두호",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "최두호의 최근 경기"
+      "keyword": "고용유연화",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "고용유연화에 대한 논의"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제 성장과 금융 정책"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "삼성노조의 현황을 주시해야 한다",
-      "action": "삼성노조의 최근 동향을 분석",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다.",
+      "action": "AI 기술을 활용한 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전을 주시해야 한다",
-      "action": "AI 기술의 최근 동향을 분석",
+      "insight": "고용유연화는 경제 성장과 직결되는 중요한 문제입니다.",
+      "action": "고용유연화 정책 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 성장은 다양한 요인에 의해 영향을 받습니다.",
+      "action": "경제 성장 요인 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성노조와 AI 기술의 발전에 대한 관심이 높아지고 있다. 삼성노조의 현황은 정부의 관여에 대한 논의가 있으며, AI 기술의 발전은 다양한 산업의 변화를 가져올 것으로 예상된다. 이러한 트렌드를 주시하고 분석하여 사업 전략을 수립하는 것이 중요하다. 또한, 최두호의 인기와 관련된 콘텐츠를 제작하여 마케팅에 활용할 수 있을 것이다.",
-  "analyzed_at": "2026-05-17T04:00:33.930Z",
+  "narrative": "클리앙 커뮤니티에서 활발하게 진행되는 논의는 고용유연화, AI 기술, 경제 및 금융 등입니다. 이러한 주제는 다양한 산업과 직결되는 중요한 문제입니다. AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다. 고용유연화는 경제 성장과 직결되는 중요한 문제입니다. 경제 성장은 다양한 요인에 의해 영향을 받습니다. 이러한 주제에 대한 논의는 클리앙 커뮤니티에서 계속 진행될 것입니다.",
+  "analyzed_at": "2026-05-17T05:30:33.762Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
