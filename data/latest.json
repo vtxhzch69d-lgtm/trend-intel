@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "청와대의 걱정, 한미 정상회담, 노무현 대통령 등 정치 관련 글들이 인기 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "5.18 광주 민주화운동",
+      "summary": "5.18 광주 민주화운동 기념일을 맞아 관련된 게시글이 많습니다. 클리앙 커뮤니티에서는 5.18 광주 민주화운동의 의미와 중요성을 논의하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "테크",
-      "summary": "AI, 수학, 스페이스X, 애플 시리 등 기술 관련 글들이 인기 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "삼성전자 파업",
+      "summary": "삼성전자 파업과 관련된 게시글이 많습니다. 클리앙 커뮤니티에서는 파업의 이유와 영향에 대해 논의하고 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자, 현대자동차, 한화오션 등 경제 관련 글들이 인기 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 게시글이 많습니다. 클리언 커뮤니티에서는 AI 기술의 발전과 ứng dụng에 대해 논의하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 5,
+      "keyword": "5.18",
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "5.18 광주 민주화운동"
     },
     {
       "keyword": "삼성전자",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "삼성전자 관련 뉴스와 논란"
+      "count": 5,
+      "sentiment": "negative",
+      "context": "삼성전자 파업"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논란"
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "삼성전자 관련 논란",
-      "action": "삼성전자 관련 뉴스와 논란을 주의 깊게 모니터링",
+      "insight": "5.18 광주 민주화운동은 한국의 민주화 운동의 중요한 부분입니다.",
+      "action": "5.18 광주 민주화운동의 의미와 중요성을 강조하는 마케팅 캠페인을开展합니다.",
       "priority": "medium"
     },
     {
-      "insight": "정치 관련 뉴스",
-      "action": "정치 관련 뉴스를 주의 깊게 모니터링",
-      "priority": "low"
+      "insight": "삼성전자 파업은 한국의 경제에 영향을 미칠 수 있습니다.",
+      "action": "삼성전자 파업의 이유와 영향에 대해 분석하고 대응책을 마련합니다.",
+      "priority": "high"
+    },
+    {
+      "insight": "AI 기술은 다양한 산업에서 ứng용될 수 있습니다.",
+      "action": "AI 기술의 발전과 ứng dụng에 대해 연구하고 투자합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치, 테크, 경제 관련 글들이 인기 있습니다. AI 기술의 발전과 적용, 삼성전자 관련 뉴스와 논란, 정치 관련 뉴스 등이 주목할 만한 주제입니다. 비즈니스 인사이트로는 AI 기술의 발전을 활용한 비즈니스 모델 개발, 삼성전자 관련 뉴스와 논란을 주의 깊게 모니터링, 정치 관련 뉴스를 주의 깊게 모니터링 등이 있습니다. 전체적으로 중립적인 분위기이며, 기업과 마케터는 이러한 트렌드와 인사이트를 활용하여 비즈니스 전략을 개발할 수 있습니다.",
-  "analyzed_at": "2026-05-17T15:00:34.649Z",
+  "narrative": "클리앙 커뮤니티에서는 5.18 광주 민주화운동, 삼성전자 파업, AI 기술 등 다양한 주제에 대해 논의하고 있습니다. 5.18 광주 민주화운동은 한국의 민주화 운동의 중요한 부분이며, 삼성전자 파업은 한국의 경제에 영향을 미칠 수 있습니다. AI 기술은 다양한 산업에서 ứng용될 수 있으며, 클리앙 커뮤니티에서는 AI 기술의 발전과 ứng용에 대해 논의하고 있습니다. 이러한 주제에 대해 분석하고 대응책을 마련하면 마케팅 캠페인과 비즈니스 전략을 효과적으로开展할 수 있습니다.",
+  "analyzed_at": "2026-05-17T16:30:36.551Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
