@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "고용유연화",
-      "summary": "고용유연화에 대한 논의가 활발하게 진행되고 있으며, 일부 사용자는 완전한 고용유연화를 주장하는 반면, 다른 사용자는 이를 비판하고 있다.",
+      "topic": "삼성전자 파업",
+      "summary": "삼성전자 파업으로 인한 긴급조정권 발동 가능성에 대한 논의가 활발하다. 정부의 결정이 관건이다.",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "트럼프와 대만",
+      "summary": "트럼프와 대만의 관계에 대한 논의가 있다. 대만은 독립적인 민주 국가라고 주장한다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 관심이 높아지고 있다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 발전에 대한 논의가 있다.",
       "post_count": 10,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 분석이 활발하게 진행되고 있으며, 일부 사용자는 투자와 관련된 정보를 공유하고 있다.",
-      "post_count": 8,
-      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장"
+      "keyword": "삼성전자",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "파업과 긴급조정권 발동 가능성"
     },
     {
-      "keyword": "고용유연화",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "고용유연화에 대한 논의"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
+      "keyword": "트럼프",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스와 분석"
+      "context": "대만과의 관계"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 발전과 산업 활용"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 15,
     "negative": 10,
-    "neutral": 30,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발한다.",
+      "insight": "삼성전자 파업의 영향",
+      "action": "긴급조정권 발동 가능성에 대한 대비",
       "priority": "high"
     },
     {
-      "insight": "고용유연화에 대한 논의는 계속해서 진행될 것이다.",
-      "action": "고용유연화에 대한 정책과 법적 제안을 개발한다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 관련 뉴스와 분석은 계속해서 중요할 것이다.",
-      "action": "경제 및 금융 관련 뉴스와 분석을 제공한다.",
+      "insight": "AI 기술의 발전",
+      "action": "산업 활용과 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 또한, 고용유연화에 대한 논의가 활발하게 진행되고 있으며, 경제 및 금융 관련 뉴스와 분석은 계속해서 중요할 것이다. 이러한 트렌드를 반영하여, AI 기술을 활용한 새로운 비즈니스 모델을 개발하고, 고용유연화에 대한 정책과 법적 제안을 개발하며, 경제 및 금융 관련 뉴스와 분석을 제공하는 것이 중요할 것이다.",
-  "analyzed_at": "2026-05-17T07:00:33.931Z",
+  "narrative": "最近의 트렌드는 삼성전자 파업과 트럼프와 대만의 관계, AI 기술의 발전에 대한 논의가 활발하다. 정부의 결정과 산업의 활용이 중요하다. 중립적인 분위기이지만, 일부에서는 부정적인 감정도 나타난다. 기업들은 이러한 트렌드에 대한 대비와 투자가 필요하다.",
+  "analyzed_at": "2026-05-17T08:30:34.259Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
