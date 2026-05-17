@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용이 다양한 분야에서 논의되고 있습니다. AI의 보안과 안정성에 대한 우려도 있습니다.",
+      "summary": "최근 AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 보안과 안정성, 그리고 미래의 가능성에 대한 관심이 집중되고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융 관련 뉴스가 많이 обсужд되고 있습니다. 금리 인상과 경제 성장에 대한 우려가 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스가 많이 논의되고 있습니다. 정치인들의 발언과 행동에 대한 비판이 있습니다.",
-      "post_count": 8,
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련 주제가 논의되고 있습니다. 최근의 정치적 사건과 사회적인 문제에 대한 관심이 집중되고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "기술과 과학 관련 주제가 논의되고 있습니다. 새로운 기술의 개발과 과학적인 발견에 대한 관심이 집중되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "neutral",
-      "context": "AI 기술의 발전과 적용"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "경제 성장과 금리 인상"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "정치",
       "count": 10,
       "sentiment": "negative",
-      "context": "정치인들의 발언과 행동"
+      "context": "정치 관련 주제"
+    },
+    {
+      "keyword": "기술",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용",
+      "insight": "AI 기술의 발전",
       "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제와 금융의 불안정성",
-      "action": "경제와 금융의 불안정성에 대한 대비",
+      "insight": "정치와 사회의 변화",
+      "action": "정치와 사회의变化에 대응한 비즈니스 전략 개발",
       "priority": "medium"
     },
     {
-      "insight": "정치와 사회의 불안정성",
-      "action": "정치와 사회의 불안정성에 대한 대비",
+      "insight": "기술과 과학의 발전",
+      "action": "기술과 과학의 발전을 활용한 비즈니스 모델 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 적용, 경제와 금융의 불안정성, 정치와 사회의 불안정성이 주요한 주제로 나타났습니다. 이러한 트렌드와 키워드를 활용하여 비즈니스 모델을 개발하고, 경제와 금융의 불안정성에 대한 대비를 하고, 정치와 사회의 불안정성에 대한 대비를 하는 것이 중요합니다. 또한, 부정적인 감정과 중립적인 감정이 혼재하는 현재의 상황에서, 긍정적인 마케팅 전략을 개발하여 소비자들의 감정을 긍정적으로 변화시키는 것이 중요합니다.",
-  "analyzed_at": "2026-05-17T01:00:34.336Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있습니다. AI 기술의 보안과 안정성, 그리고 미래의 가능성에 대한 관심이 집중되고 있습니다. 또한, 정치와 사회 관련 주제도 논의되고 있습니다. 기술과 과학 관련 주제도 관심을 집중하고 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 개발할 수 있습니다. AI 기술의 발전을 활용한 비즈니스 모델 개발, 정치와 사회의 변화에 대응한 비즈니스 전략 개발, 기술과 과학의 발전을 활용한 비즈니스 모델 개발 등이 가능합니다.",
+  "analyzed_at": "2026-05-17T02:30:34.726Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
