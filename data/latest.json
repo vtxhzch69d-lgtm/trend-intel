@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "스타벅스 사과문",
-      "summary": "스타벅스 사과문에 대한 반응이 뜨겁다. 일부 고객은 사과문을 받아들이지 않는다.",
+      "summary": "스타벅스 사과문에 대한 반응이 뜨겁다. 일부 고객들은 사과문을 받아들이지 않고 있다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정용진 격노",
-      "summary": "정용진 회장이 스타벅스 대표 해임 및 관계자 전원 징계에 대한 반응이다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "김용남",
+      "summary": "김용남에 대한 관심이 높다. 일부 고객들은 김용남을 지지한다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스벅 회원탈퇴",
-      "summary": "스타벅스 회원탈퇴에 대한 반응이다. 일부 고객은 회원탈퇴를 고려한다.",
-      "post_count": 5,
+      "topic": "조선-메트리스",
+      "summary": "조선-메트리스에 대한 관심이 높다. 일부 고객들은 조선-메트리스를 비판한다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "low"
     }
@@ -25,43 +25,43 @@
   "keywords": [
     {
       "keyword": "스타벅스",
-      "count": 20,
+      "count": 15,
       "sentiment": "negative",
-      "context": "스타벅스 사과문 및 회원탈퇴에 대한 반응"
+      "context": "스타벅스 사과문에 대한 반응"
     },
     {
-      "keyword": "정용진",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정용진 회장이 스타벅스 대표 해임 및 관계자 전원 징계"
-    },
-    {
-      "keyword": "회원탈퇴",
+      "keyword": "김용남",
       "count": 5,
+      "sentiment": "positive",
+      "context": "김용남에 대한 지지"
+    },
+    {
+      "keyword": "조선-메트리스",
+      "count": 3,
       "sentiment": "negative",
-      "context": "스타벅스 회원탈퇴에 대한 반응"
+      "context": "조선-메트리스에 대한 비판"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 30,
-    "neutral": 20,
+    "negative": 20,
+    "neutral": 10,
     "overall_mood": "부정적인 반응이 많다"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 사과문에 대한 반응이 부정적이다",
-      "action": "스타벅스 측에서 추가적인 사과 또는 보상을 고려해야 한다",
+      "insight": "스타벅스 사과문에 대한 반응을 분석하여 고객의 불만을 이해한다",
+      "action": "고객의 불만을 해결하기 위한 대책을 마련한다",
       "priority": "high"
     },
     {
-      "insight": "정용진 회장이 스타벅스 대표 해임 및 관계자 전원 징계에 대한 반응이 복합적이다",
-      "action": "정용진 회장이 스타벅스 대표 해임 및 관계자 전원 징계에 대한 추가적인 설명이 필요하다",
+      "insight": "김용남에 대한 관심을 분석하여 고객의 니즈를 이해한다",
+      "action": "김용남을 지지하는 고객을 타겟으로 하는 마케팅 전략을 수립한다",
       "priority": "medium"
     }
   ],
-  "narrative": "스타벅스 사과문에 대한 반응이 뜨겁다. 일부 고객은 사과문을 받아들이지 않는다. 정용진 회장이 스타벅스 대표 해임 및 관계자 전원 징계에 대한 반응도 복합적이다. 스타벅스 측에서 추가적인 사과 또는 보상을 고려해야 한다. 또한, 정용진 회장이 스타벅스 대표 해임 및 관계자 전원 징계에 대한 추가적인 설명이 필요하다. 이러한 반응은 스타벅스 브랜드 이미지를 악화시키고 있다. 따라서, 스타벅스 측에서 즉각적인 조치를 취해야 한다.",
-  "analyzed_at": "2026-05-18T19:00:33.954Z",
+  "narrative": "스타벅스 사과문에 대한 반응이 뜨겁다. 일부 고객들은 사과문을 받아들이지 않고 있다. 김용남에 대한 관심도 높다. 일부 고객들은 김용남을 지지한다. 조선-메트리스에 대한 관심도 높다. 일부 고객들은 조선-메트리스를 비판한다. 이러한 반응을 분석하여 고객의 불만을 이해하고 고객의 니즈를 이해하여 마케팅 전략을 수립해야 한다.",
+  "analyzed_at": "2026-05-18T20:30:33.733Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
