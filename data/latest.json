@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조의 무리한 요구와 파업에 대한 논란",
-      "post_count": 5,
+      "summary": "삼성전자 노조의 파업과 관련된 논란이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 애플, 오픈AI 등 기업들의 동향",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "코스피",
+      "summary": "코스피의 급등과 관련된 논란이 클리앙 커뮤니티에서 활발하게讨論되고 있다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "5.18 광주 민주화운동",
-      "summary": "5.18 광주 민주화운동 기념일과 관련된 논란",
-      "post_count": 3,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 논란이 클리언 커뮤니티에서 활발하게讨論되고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 10,
+      "count": 20,
       "sentiment": "negative",
-      "context": "노조와 파업에 대한 논란"
+      "context": "노조 파업과 관련된 논란"
+    },
+    {
+      "keyword": "코스피",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "급등과 관련된 논란"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "기술 발전과 기업들의 동향"
-    },
-    {
-      "keyword": "5.18",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "기념일과 관련된 논란"
+      "context": "기술 발전과 관련된 논란"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 일부 논란이 존재"
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조의 무리한 요구는 기업의 이미지를 손상시킬 수 있다",
-      "action": "노조와의 협상을 통해 해결해야 한다",
+      "insight": "삼성전자 노조의 파업이 기업의 이미지를 악화시킬 수 있다.",
+      "action": "노조와의 협상을 통해 파업을 해결해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 기업들의 경쟁력을 높일 수 있다",
-      "action": "AI 기술을 도입하고 개발해야 한다",
+      "insight": "코스피의 급등은 투자자들에게 기회를 제공할 수 있다.",
+      "action": "투자 전략을 조정하여 기회를 활용해야 한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전은 기업의 경쟁력을 높일 수 있다.",
+      "action": "AI 기술을 도입하여 경쟁력을 높여야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성전자 노조의 무리한 요구와 파업에 대한 논란, AI 기술의 발전과 애플, 오픈AI 등 기업들의 동향, 5.18 광주 민주화운동 기념일과 관련된 논란 등이다. 이러한 트렌드는 기업들의 이미지를 손상시킬 수 있거나, 경쟁력을 높일 수 있는 기회가 될 수 있다. 따라서 기업들은 이러한 트렌드를 주시하고, 노조와의 협상을 통해 해결하고, AI 기술을 도입하고 개발해야 한다.",
-  "analyzed_at": "2026-05-17T23:30:36.832Z",
+  "narrative": "클리앙 커뮤니티에서 활발하게讨論되고 있는 주제는 삼성전자 노조, 코스피, AI 기술 등이다. 삼성전자 노조의 파업과 관련된 논란은 기업의 이미지를 악화시킬 수 있으므로 노조와의 협상을 통해 파업을 해결해야 한다. 코스피의 급등은 투자자들에게 기회를 제공할 수 있으므로 투자 전략을 조정하여 기회를 활용해야 한다. AI 기술의 발전은 기업의 경쟁력을 높일 수 있으므로 AI 기술을 도입하여 경쟁력을 높여야 한다.",
+  "analyzed_at": "2026-05-18T01:00:34.185Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
