@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "삼성전자 노조 파업",
-      "summary": "삼성전자 노조의 파업이 진행 중이며, 법원은 노조의 파업 범위를 위반시 하루 1억 원의 배상 명령을 내렸습니다. 이에 대해 노조는 강하게 반발하고 있습니다.",
+      "summary": "삼성전자 노조의 파업과 관련된 논란",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "스타벅스 5.18 탱크데이",
-      "summary": "스타벅스가 5.18 탱크데이를 진행 중이며, 많은 고객들이 이벤트에 참여하고 있습니다.",
-      "post_count": 2,
-      "sentiment": "positive",
+      "topic": "스타벅스 환불 논란",
+      "summary": "스타벅스의 환불 정책과 관련된 논란",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 관련 뉴스와 기사들이 많이 올라오고 있습니다.",
-      "post_count": 15,
+      "topic": "중국 경제 성장",
+      "summary": "중국 경제의 성장과 관련된 뉴스",
+      "post_count": 2,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,41 +27,46 @@
       "keyword": "삼성전자",
       "count": 15,
       "sentiment": "negative",
-      "context": "노조 파업 관련 뉴스"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "기술 관련 뉴스"
+      "context": "노조 파업과 관련된 논란"
     },
     {
       "keyword": "스타벅스",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "이벤트 관련 뉴스"
+      "count": 5,
+      "sentiment": "negative",
+      "context": "환불 정책과 관련된 논란"
+    },
+    {
+      "keyword": "중국",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 성장과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 5,
     "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조 파업이 장기화할 경우, 기업의 이미지와 판매에 부정적인 영향을 미칠 수 있습니다.",
-      "action": "노조와의 협상을 통해 파업을 조정하는 것이 필요합니다.",
+      "insight": "노조 파업과 관련된 논란은 기업의 이미지를 악화시킬 수 있다",
+      "action": "노조와의 협상을 강화하고 파업을 방지하는 대책을 마련한다",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 긍정적인 영향을 미칠 수 있습니다.",
-      "action": "AI 기술을 적용하여 비즈니스 모델을 개선하는 것이 필요합니다.",
+      "insight": "환불 정책과 관련된 논란은 고객의 신뢰를 잃을 수 있다",
+      "action": "환불 정책을 개선하고 고객의 불만을 해결한다",
       "priority": "medium"
+    },
+    {
+      "insight": "중국 경제의 성장은 새로운 비즈니스 기회를 제공할 수 있다",
+      "action": "중국 시장에 대한 연구와 투자를 강화한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성전자 노조 파업과 AI 기술의 발전이 주를 이루고 있습니다. 노조 파업은 기업의 이미지와 판매에 부정적인 영향을 미칠 수 있으므로, 노조와의 협상을 통해 파업을 조정하는 것이 필요합니다. 또한, AI 기술의 발전은 다양한 산업에 긍정적인 영향을 미칠 수 있으므로, AI 기술을 적용하여 비즈니스 모델을 개선하는 것이 필요합니다. 이러한 트렌드를 분석하여 기업의 비즈니스 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-18T04:00:35.308Z",
+  "narrative": "최근의 트렌드는 노조 파업과 환불 정책과 관련된 논란이 주를 이루고 있다. 이러한 논란은 기업의 이미지를 악화시키고 고객의 신뢰를 잃을 수 있다. 따라서 노조와의 협상을 강화하고 파업을 방지하는 대책을 마련하며, 환불 정책을 개선하고 고객의 불만을 해결하는 것이 중요하다. 또한, 중국 경제의 성장은 새로운 비즈니스 기회를 제공할 수 있으므로 중국 시장에 대한 연구와 투자를 강화하는 것이 필요하다.",
+  "analyzed_at": "2026-05-18T05:30:34.106Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
