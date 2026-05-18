@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 탱크데이 논란",
-      "summary": "스타벅스 탱크데이 이벤트가 논란이 되고 있습니다. 일부 고객들이 이벤트를 악용하여 스타벅스 매장에서 문제를 일으키고 있습니다.",
-      "post_count": 10,
+      "topic": "스타벅스 대표 해임",
+      "summary": "정용진이 스타벅스 대표를 해임했다. 스타벅스의 결재라인이 다 통과되었다는 소식도 전해졌다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "5.18 광주 민주화 운동",
-      "summary": "5.18 광주 민주화 운동에 대한 논의가 활발하게 진행되고 있습니다. 일부 정치인들이 5.18 광주 민주화 운동을 왜곡하고 있습니다.",
-      "post_count": 8,
+      "topic": "5.18 탱크데이",
+      "summary": "5.18 탱크데이에 대한 기록이 과장되었다는 의견이 있다. 스타벅스 대표의 해임과 관련이 있는지에 대한 의견도 있다.",
+      "post_count": 4,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "챗GPT와 AI 기술",
-      "summary": "챗GPT와 AI 기술에 대한 관심이 높아지고 있습니다. 일부 기업들이 챗GPT와 AI 기술을 활용하여 새로운 서비스를 제공하고 있습니다.",
-      "post_count": 12,
+      "topic": "AI 기술",
+      "summary": "AI 기술이 빠르게 발전하고 있다. 오픈AI의 코덱스와 앤트로픽의 미토스 악용방지 연합체에 대한 소식이 있다.",
+      "post_count": 6,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "스타벅스",
-      "count": 15,
+      "count": 7,
       "sentiment": "negative",
-      "context": "탱크데이 이벤트 논란"
+      "context": "스타벅스 대표 해임과 관련된 게시물"
     },
     {
       "keyword": "5.18",
-      "count": 10,
+      "count": 4,
       "sentiment": "mixed",
-      "context": "광주 민주화 운동"
+      "context": "5.18 탱크데이에 대한 기록과 관련된 게시물"
     },
     {
-      "keyword": "챗GPT",
-      "count": 12,
+      "keyword": "AI",
+      "count": 6,
       "sentiment": "positive",
-      "context": "AI 기술 활용"
+      "context": "AI 기술의 발전과 관련된 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 12,
+    "neutral": 18,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 탱크데이 이벤트는 고객들의 반응을 잘 관리해야 합니다.",
-      "action": "이벤트 운영을 개선하여 고객들의 불만을 최소화합니다.",
+      "insight": "스타벅스의 대표 해임은 브랜드 이미지를 악화시킬 수 있다.",
+      "action": "스타벅스의 대표 해임에 대한 대응책을 마련한다.",
       "priority": "high"
     },
     {
-      "insight": "5.18 광주 민주화 운동은 중요한 역사적 사건입니다.",
-      "action": "5.18 광주 민주화 운동에 대한 올바른 교육과 홍보를 실시합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "챗GPT와 AI 기술은 새로운 비즈니스 기회를 제공할 수 있습니다.",
-      "action": "챗GPT와 AI 기술을 활용하여 새로운 서비스를 개발합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 이를 활용한 비즈니스 모델을 개발한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 스타벅스 탱크데이 이벤트는 고객들의 반응을 잘 관리해야 합니다. 5.18 광주 민주화 운동은 중요한 역사적 사건입니다. 챗GPT와 AI 기술은 새로운 비즈니스 기회를 제공할 수 있습니다. 이러한 트렌드와 인사이트를 잘 분석하여 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
-  "analyzed_at": "2026-05-18T10:00:34.434Z",
+  "narrative": "최근 스타벅스의 대표 해임과 5.18 탱크데이에 대한 기록이 과장되었다는 의견이 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다. 스타벅스의 대표 해임은 브랜드 이미지를 악화시킬 수 있으므로 대응책을 마련해야 한다. AI 기술의 발전을 주시하고 이를 활용한 비즈니스 모델을 개발해야 한다. 중립적인 분위기가 지속되고 있으므로 이를 고려한 마케팅 전략을 개발해야 한다.",
+  "analyzed_at": "2026-05-18T11:30:33.995Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
