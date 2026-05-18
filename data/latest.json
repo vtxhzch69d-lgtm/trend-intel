@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 사과문",
-      "summary": "스타벅스 사과문이 올라왔으며, 많은 사람들이 반응하고 있습니다. 스타벅스 사과문은 최근의 사건에 대한 공식적인 입장을 표명했습니다.",
-      "post_count": 10,
+      "topic": "스타벅스 탱크데이",
+      "summary": "스타벅스의 탱크데이 사고로 인해 많은 논란이 일고 있습니다. 스타벅스의 대응이 부족하다는 의견이 많습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조의 파업과 관련된 뉴스가 있습니다. 노조는 법원의 결정에 대한 입장을 표명했습니다.",
-      "post_count": 5,
+      "topic": "노조와 노동 문제",
+      "summary": "노조와 노동 문제가 최근에 많이 논의되고 있습니다. 노조의 파업과 노동자의 권익이 주요한 vấn입니다.",
+      "post_count": 4,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "MC몽 불법도박",
-      "summary": "MC몽이 불법도박에 대한 연루 의혹이 있습니다. 이에 대한 반응이 많습니다.",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "AI와 기술",
+      "summary": "AI와 기술이 최근에 많이 논의되고 있습니다. AI의 발전과 기술의 진보가 주요한 vấn입니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "스타벅스",
-      "count": 15,
+      "count": 7,
       "sentiment": "negative",
-      "context": "스타벅스 사과문과 관련된 게시글"
+      "context": "스타벅스의 탱크데이 사고"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
+      "keyword": "노조",
+      "count": 4,
       "sentiment": "neutral",
-      "context": "삼성전자 노조와 관련된 뉴스"
+      "context": "노조와 노동 문제"
     },
     {
-      "keyword": "MC몽",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "MC몽 불법도박 의혹과 관련된 게시글"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI와 기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 30,
+    "positive": 15,
+    "negative": 10,
     "neutral": 20,
-    "overall_mood": "부정적인 반응이 많습니다."
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 사과문은 고객들의 반응을 고려하여 작성해야 합니다.",
-      "action": "스타벅스 사과문을 분석하여 고객들의 반응을 이해합니다.",
+      "insight": "스타벅스의 탱크데이 사고로 인해 브랜드 이미지가 손상될 수 있습니다.",
+      "action": "스타벅스에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 노조의 파업은 회사에 영향을 미칠 수 있습니다.",
-      "action": "삼성전자 노조의 파업에 대한 뉴스를 모니터링합니다.",
+      "insight": "노조와 노동 문제가 최근에 많이 논의되고 있습니다.",
+      "action": "노조와 노동 문제에 대한 대응을 준비해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "MC몽 불법도박 의혹은 그의 이미지를 손상시킬 수 있습니다.",
-      "action": "MC몽 불법도박 의혹에 대한 반응을 분석합니다.",
-      "priority": "high"
+      "insight": "AI와 기술이 최근에 많이 논의되고 있습니다.",
+      "action": "AI와 기술에 대한 투자를 고려해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近のスターバックス事件は、多くの人々の反応を引き起こしています。スターバックスの公式な謝罪文は、事件に対する公式な立場を表明しています。また、サムスン電子の労働組合のストライキもニュースになっています。MCモンによる違法賭博疑惑もあり、多くの人々の反応を引き起こしています。スターバックスの謝罪文は、顧客の反応を考慮して書かれるべきです。サムスン電子の労働組合のストライキは、会社に影響を与える可能性があります。MCモンによる違法賭博疑惑は、彼のイメージを損なう可能性があります。",
-  "analyzed_at": "2026-05-18T07:00:34.758Z",
+  "narrative": "最近のオンラインコミュニティのトレンドを分析した結果、スターバックスのタンクデイ事件、ノ조と労働問題、AIと技術が主要なトピックであることがわかりました。スターバックスのタンクデイ事件はブランドイメージに悪影響を与える可能性があります。ノ조と労働問題は最近よく議論されています。AIと技術は最近よく議論されており、投資を検討する価値があります。",
+  "analyzed_at": "2026-05-18T08:30:34.220Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
