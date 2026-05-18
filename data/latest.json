@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 불매 운동",
-      "summary": "스타벅스 불매 운동이 클리앙 커뮤니티에서 인기 있는 주제입니다. 사용자들은 스타벅스의 마케팅 전략과 고객 서비스에 대한 불만을 표현하고 있습니다.",
+      "topic": "스타벅스",
+      "summary": "스타벅스 관련된 여러 게시글이 존재하며, 일부에서는 스타벅스를 불매하자는 의견도 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "조국과 정치",
-      "summary": "조국과 관련된 정치 뉴스가 클리앙 커뮤니티에서 인기 있는 주제입니다. 사용자들은 조국의 정치적 입장과 정책에 대한 의견을 나누고 있습니다.",
-      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술과 과학",
-      "summary": "기술과 과학 관련 뉴스가 클리언 커뮤니티에서 인기 있는 주제입니다. 사용자들은 최신 기술과 과학적 발견에 대한 의견을 나누고 있습니다.",
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많으며, 민주당과 관련된 여러 뉴스가 있습니다.",
       "post_count": 15,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 관련된 게시글이 많으며, AI와 관련된 여러 뉴스가 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "스타벅스",
-      "count": 12,
+      "count": 10,
       "sentiment": "negative",
-      "context": "불매 운동과 마케팅 전략에 대한 불만"
+      "context": "불매 운동"
     },
     {
-      "keyword": "조국",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치적 입장과 정책에 대한 의견"
+      "keyword": "민주당",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 뉴스"
     },
     {
-      "keyword": "기술",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술과 과학적 발견에 대한 의견"
+      "context": "기술 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
+    "negative": 30,
     "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감돕니다."
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 불매 운동은 고객 서비스와 마케팅 전략에 대한 불만을 나타냅니다.",
-      "action": "스타벅스 고객 서비스와 마케팅 전략을 개선해야 합니다.",
+      "insight": "스타벅스 불매 운동",
+      "action": "스타벅스에 대한 고객 불만 사항을 조사하여 개선 방안을 마련",
       "priority": "high"
     },
     {
-      "insight": "기술과 과학 관련 뉴스는 클리언 커뮤니티에서 인기 있는 주제입니다.",
-      "action": "기술과 과학 관련 뉴스를 더 많이 제공해야 합니다.",
+      "insight": "정치 뉴스",
+      "action": "정치 뉴스에 대한 고객 관심도를 조사하여 관련된 콘텐츠를 제공",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 뉴스",
+      "action": "최신 기술 뉴스에 대한 고객 관심도를 조사하여 관련된 콘텐츠를 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 스타벅스 불매 운동과 조국과 관련된 정치 뉴스가 인기 있는 주제입니다. 사용자들은 스타벅스의 마케팅 전략과 고객 서비스에 대한 불만을 표현하고 있으며, 조국의 정치적 입장과 정책에 대한 의견을 나누고 있습니다. 또한, 기술과 과학 관련 뉴스는 클리언 커뮤니티에서 인기 있는 주제입니다. 사용자들은 최신 기술과 과학적 발견에 대한 의견을 나누고 있습니다. 이러한 트렌드를 분석하여, 스타벅스 고객 서비스와 마케팅 전략을 개선하고, 기술과 과학 관련 뉴스를 더 많이 제공하는 등 비즈니스 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-18T22:00:34.499Z",
+  "narrative": "최근 스타벅스와 정치, 기술 뉴스에 대한 고객 관심도가 높아지고 있습니다. 스타벅스 불매 운동과 관련된 게시글이 많으며, 민주당과 관련된 여러 뉴스가 있습니다. 또한, 최신 기술 뉴스에 대한 고객 관심도가 높아지고 있습니다. 이러한 고객 관심도를 조사하여 관련된 콘텐츠를 제공하고, 스타벅스에 대한 고객 불만 사항을 조사하여 개선 방안을 마련할 필요가 있습니다.",
+  "analyzed_at": "2026-05-18T23:30:34.351Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
