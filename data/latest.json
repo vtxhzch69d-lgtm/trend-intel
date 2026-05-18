@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 대표 해임",
-      "summary": "정용진이 스타벅스 대표를 해임했다. 스타벅스의 결재라인이 다 통과되었다는 소식도 전해졌다.",
-      "post_count": 5,
+      "topic": "스타벅스 논란",
+      "summary": "스타벅스에서 발생한 논란에 대한 게시글이 많습니다. 스타벅스 대표의 해임과 관련된 게시글도 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "5.18 탱크데이",
-      "summary": "5.18 탱크데이에 대한 기록이 과장되었다는 의견이 있다. 스타벅스 대표의 해임과 관련이 있는지에 대한 의견도 있다.",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련된 게시글이 많습니다. AI, 클라우드, 전기차 등 다양한 주제가 포함되어 있습니다.",
+      "post_count": 20,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 빠르게 발전하고 있다. 오픈AI의 코덱스와 앤트로픽의 미토스 악용방지 연합체에 대한 소식이 있다.",
-      "post_count": 6,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련된 게시글이 많습니다. 지방선거, 후보자 전과 현황 등 다양한 주제가 포함되어 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "스타벅스",
-      "count": 7,
+      "count": 12,
       "sentiment": "negative",
-      "context": "스타벅스 대표 해임과 관련된 게시물"
-    },
-    {
-      "keyword": "5.18",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "5.18 탱크데이에 대한 기록과 관련된 게시물"
+      "context": "스타벅스 논란"
     },
     {
       "keyword": "AI",
-      "count": 6,
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "기술 및 과학"
+    },
+    {
+      "keyword": "전기차",
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 게시물"
+      "context": "기술 및 과학"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 12,
-    "neutral": 18,
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "스타벅스의 대표 해임은 브랜드 이미지를 악화시킬 수 있다.",
-      "action": "스타벅스의 대표 해임에 대한 대응책을 마련한다.",
+      "insight": "스타벅스 논란에 대한 대응",
+      "action": "스타벅스 대표의 해임과 관련된 대응",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고 이를 활용한 비즈니스 모델을 개발한다.",
+      "insight": "기술 및 과학 분야의 투자",
+      "action": "AI, 클라우드, 전기차 등 다양한 기술 분야에 대한 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 스타벅스의 대표 해임과 5.18 탱크데이에 대한 기록이 과장되었다는 의견이 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다. 스타벅스의 대표 해임은 브랜드 이미지를 악화시킬 수 있으므로 대응책을 마련해야 한다. AI 기술의 발전을 주시하고 이를 활용한 비즈니스 모델을 개발해야 한다. 중립적인 분위기가 지속되고 있으므로 이를 고려한 마케팅 전략을 개발해야 한다.",
-  "analyzed_at": "2026-05-18T11:30:33.995Z",
+  "narrative": "최근의 트렌드는 스타벅스 논란과 기술 및 과학 분야의 발전에 대한 관심이 높습니다. 스타벅스 대표의 해임과 관련된 대응이 필요하며, 기술 및 과학 분야의 투자가 필요합니다. 또한, 정치 및 사회 분야의 다양한 주제가 포함되어 있습니다. 중립적인 분위기가 유지되고 있지만, 스타벅스 논란에 대한 부정적인 감정이 강합니다.",
+  "analyzed_at": "2026-05-18T13:00:34.280Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
