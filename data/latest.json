@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 탱크데이",
-      "summary": "스타벅스의 탱크데이 사고로 인해 많은 논란이 일고 있습니다. 스타벅스의 대응이 부족하다는 의견이 많습니다.",
-      "post_count": 5,
+      "topic": "스타벅스 탱크데이 논란",
+      "summary": "스타벅스 탱크데이 이벤트가 논란이 되고 있습니다. 일부 고객들이 이벤트를 악용하여 스타벅스 매장에서 문제를 일으키고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "노조와 노동 문제",
-      "summary": "노조와 노동 문제가 최근에 많이 논의되고 있습니다. 노조의 파업과 노동자의 권익이 주요한 vấn입니다.",
-      "post_count": 4,
-      "sentiment": "neutral",
+      "topic": "5.18 광주 민주화 운동",
+      "summary": "5.18 광주 민주화 운동에 대한 논의가 활발하게 진행되고 있습니다. 일부 정치인들이 5.18 광주 민주화 운동을 왜곡하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술이 최근에 많이 논의되고 있습니다. AI의 발전과 기술의 진보가 주요한 vấn입니다.",
-      "post_count": 10,
+      "topic": "챗GPT와 AI 기술",
+      "summary": "챗GPT와 AI 기술에 대한 관심이 높아지고 있습니다. 일부 기업들이 챗GPT와 AI 기술을 활용하여 새로운 서비스를 제공하고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "스타벅스",
-      "count": 7,
+      "count": 15,
       "sentiment": "negative",
-      "context": "스타벅스의 탱크데이 사고"
+      "context": "탱크데이 이벤트 논란"
     },
     {
-      "keyword": "노조",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "노조와 노동 문제"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "5.18",
       "count": 10,
+      "sentiment": "mixed",
+      "context": "광주 민주화 운동"
+    },
+    {
+      "keyword": "챗GPT",
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI와 기술"
+      "context": "AI 기술 활용"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스타벅스의 탱크데이 사고로 인해 브랜드 이미지가 손상될 수 있습니다.",
-      "action": "스타벅스에 대한 대응을 준비해야 합니다.",
+      "insight": "스타벅스 탱크데이 이벤트는 고객들의 반응을 잘 관리해야 합니다.",
+      "action": "이벤트 운영을 개선하여 고객들의 불만을 최소화합니다.",
       "priority": "high"
     },
     {
-      "insight": "노조와 노동 문제가 최근에 많이 논의되고 있습니다.",
-      "action": "노조와 노동 문제에 대한 대응을 준비해야 합니다.",
+      "insight": "5.18 광주 민주화 운동은 중요한 역사적 사건입니다.",
+      "action": "5.18 광주 민주화 운동에 대한 올바른 교육과 홍보를 실시합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI와 기술이 최근에 많이 논의되고 있습니다.",
-      "action": "AI와 기술에 대한 투자를 고려해야 합니다.",
-      "priority": "low"
+      "insight": "챗GPT와 AI 기술은 새로운 비즈니스 기회를 제공할 수 있습니다.",
+      "action": "챗GPT와 AI 기술을 활용하여 새로운 서비스를 개발합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "最近のオンラインコミュニティのトレンドを分析した結果、スターバックスのタンクデイ事件、ノ조と労働問題、AIと技術が主要なトピックであることがわかりました。スターバックスのタンクデイ事件はブランドイメージに悪影響を与える可能性があります。ノ조と労働問題は最近よく議論されています。AIと技術は最近よく議論されており、投資を検討する価値があります。",
-  "analyzed_at": "2026-05-18T08:30:34.220Z",
+  "narrative": "최근 스타벅스 탱크데이 이벤트는 고객들의 반응을 잘 관리해야 합니다. 5.18 광주 민주화 운동은 중요한 역사적 사건입니다. 챗GPT와 AI 기술은 새로운 비즈니스 기회를 제공할 수 있습니다. 이러한 트렌드와 인사이트를 잘 분석하여 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
+  "analyzed_at": "2026-05-18T10:00:34.434Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
