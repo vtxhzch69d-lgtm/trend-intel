@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 논란",
-      "summary": "스타벅스 대표 해임 및 관계자 전원 징계 착수, 스타벅스 상품권 선물받은게 있는데",
+      "topic": "스타벅스 사과문",
+      "summary": "스타벅스 사과문이 발표되었습니다. 스타벅스 대표가 해임되고 관계자들이 징계를 받았습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "정용진 격노",
+      "summary": "정용진 회장이 스타벅스 대표를 해임하고 관계자들을 징계했습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "보스턴 다이내믹스",
-      "summary": "보스턴 다이내믹스의 답변에서 얻은 힌트, 보스턴 다이나믹스 아틀라스 새로운 영상",
-      "post_count": 2,
+      "topic": "김용남",
+      "summary": "김용남이 민주당의 후보로 나서서 관심을 모으고 있습니다.",
+      "post_count": 3,
       "sentiment": "neutral",
       "urgency": "medium"
-    },
-    {
-      "topic": "5.18 민주항쟁",
-      "summary": "5.18 민주항쟁이 이렇게 희화화되다니... 정말 눈물 나는 날 입니다..",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "스타벅스",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "스타벅스 사과문과 관련된 게시글"
+    },
+    {
+      "keyword": "정용진",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정용진의 스타벅스 대표 해임과 관련된 게시글"
+    },
+    {
+      "keyword": "김용남",
       "count": 5,
-      "sentiment": "negative",
-      "context": "스타벅스 대표 해임 및 관계자 전원 징계 착수"
-    },
-    {
-      "keyword": "보스턴 다이내믹스",
-      "count": 2,
       "sentiment": "neutral",
-      "context": "보스턴 다이내믹스의 답변에서 얻은 힌트"
-    },
-    {
-      "keyword": "5.18 민주항쟁",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "5.18 민주항쟁이 이렇게 희화화되다니... 정말 눈물 나는 날 입니다.."
+      "context": "김용남의 민주당 후보 출마와 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 0,
-    "negative": 10,
-    "neutral": 5,
-    "overall_mood": "부정적인 감정들이 대부분을 차지하고 있습니다."
+    "positive": 10,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 대표 해임 및 관계자 전원 징계 착수",
-      "action": "스타벅스에 대한 고객의 신뢰를 회복하기 위한 전략 수립",
+      "insight": "스타벅스 사과문이 발표되었습니다.",
+      "action": "스타벅스에 대한 고객의 신뢰를 회복하기 위한 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "보스턴 다이내믹스의 답변에서 얻은 힌트",
-      "action": "보스턴 다이내믹스의 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "정용진의 스타벅스 대표 해임이 발표되었습니다.",
+      "action": "스타벅스에 대한 고객의 반응을 모니터링하고 대응해야 합니다.",
+      "priority": "high"
+    },
+    {
+      "insight": "김용남이 민주당의 후보로 나서서 관심을 모으고 있습니다.",
+      "action": "김용남의 후보 출마와 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 스타벅스 논란과 보스턴 다이내믹스, 5.18 민주항쟁이 주요 주제로 등장했습니다. 스타벅스 대표 해임 및 관계자 전원 징계 착수와 관련된 게시글이 많았으며, 보스턴 다이내믹스의 기술과 관련된 게시글도 존재했습니다. 5.18 민주항쟁에 대한 게시글도 있었으며, 대부분의 감정은 부정적인 것으로 나타났습니다. 이러한 트렌드를 분석하여, 스타벅스에 대한 고객의 신뢰를 회복하기 위한 전략 수립과 보스턴 다이내믹스의 기술을 활용한 새로운 비즈니스 모델 개발이 필요할 것으로 보입니다.",
-  "analyzed_at": "2026-05-18T14:30:34.324Z",
+  "narrative": "최근 스타벅스 사과문과 정용진의 스타벅스 대표 해임이 발표되었습니다. 스타벅스에 대한 고객의 신뢰를 회복하기 위한 마케팅 전략을 수립해야 합니다. 또한 김용남의 민주당 후보 출마와 관련된 마케팅 전략을 수립해야 합니다. 스타벅스와 관련된 게시글이 많은 것으로 보아 스타벅스에 대한 고객의 관심이 높습니다. 따라서 스타벅스에 대한 마케팅 전략을 수립하고 고객의 반응을 모니터링해야 합니다.",
+  "analyzed_at": "2026-05-18T16:00:35.705Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
