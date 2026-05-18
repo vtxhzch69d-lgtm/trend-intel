@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "스타벅스 논란",
-      "summary": "스타벅스에서 발생한 논란에 대한 게시글이 많습니다. 스타벅스 대표의 해임과 관련된 게시글도 있습니다.",
-      "post_count": 10,
+      "summary": "스타벅스 대표 해임 및 관계자 전원 징계 착수, 스타벅스 상품권 선물받은게 있는데",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련된 게시글이 많습니다. AI, 클라우드, 전기차 등 다양한 주제가 포함되어 있습니다.",
-      "post_count": 20,
+      "topic": "보스턴 다이내믹스",
+      "summary": "보스턴 다이내믹스의 답변에서 얻은 힌트, 보스턴 다이나믹스 아틀라스 새로운 영상",
+      "post_count": 2,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련된 게시글이 많습니다. 지방선거, 후보자 전과 현황 등 다양한 주제가 포함되어 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "5.18 민주항쟁",
+      "summary": "5.18 민주항쟁이 이렇게 희화화되다니... 정말 눈물 나는 날 입니다..",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "스타벅스",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "스타벅스 논란"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "기술 및 과학"
-    },
-    {
-      "keyword": "전기차",
       "count": 5,
-      "sentiment": "positive",
-      "context": "기술 및 과학"
+      "sentiment": "negative",
+      "context": "스타벅스 대표 해임 및 관계자 전원 징계 착수"
+    },
+    {
+      "keyword": "보스턴 다이내믹스",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "보스턴 다이내믹스의 답변에서 얻은 힌트"
+    },
+    {
+      "keyword": "5.18 민주항쟁",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "5.18 민주항쟁이 이렇게 희화화되다니... 정말 눈물 나는 날 입니다.."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기"
+    "positive": 0,
+    "negative": 10,
+    "neutral": 5,
+    "overall_mood": "부정적인 감정들이 대부분을 차지하고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "스타벅스 논란에 대한 대응",
-      "action": "스타벅스 대표의 해임과 관련된 대응",
+      "insight": "스타벅스 대표 해임 및 관계자 전원 징계 착수",
+      "action": "스타벅스에 대한 고객의 신뢰를 회복하기 위한 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "기술 및 과학 분야의 투자",
-      "action": "AI, 클라우드, 전기차 등 다양한 기술 분야에 대한 투자",
+      "insight": "보스턴 다이내믹스의 답변에서 얻은 힌트",
+      "action": "보스턴 다이내믹스의 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 스타벅스 논란과 기술 및 과학 분야의 발전에 대한 관심이 높습니다. 스타벅스 대표의 해임과 관련된 대응이 필요하며, 기술 및 과학 분야의 투자가 필요합니다. 또한, 정치 및 사회 분야의 다양한 주제가 포함되어 있습니다. 중립적인 분위기가 유지되고 있지만, 스타벅스 논란에 대한 부정적인 감정이 강합니다.",
-  "analyzed_at": "2026-05-18T13:00:34.280Z",
+  "narrative": "최근의 트렌드 분석 결과, 스타벅스 논란과 보스턴 다이내믹스, 5.18 민주항쟁이 주요 주제로 등장했습니다. 스타벅스 대표 해임 및 관계자 전원 징계 착수와 관련된 게시글이 많았으며, 보스턴 다이내믹스의 기술과 관련된 게시글도 존재했습니다. 5.18 민주항쟁에 대한 게시글도 있었으며, 대부분의 감정은 부정적인 것으로 나타났습니다. 이러한 트렌드를 분석하여, 스타벅스에 대한 고객의 신뢰를 회복하기 위한 전략 수립과 보스턴 다이내믹스의 기술을 활용한 새로운 비즈니스 모델 개발이 필요할 것으로 보입니다.",
+  "analyzed_at": "2026-05-18T14:30:34.324Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
