@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "고유가 지원금",
-      "summary": "고유가 지원금에 대한 논의와 탈락에 대한 안타까움",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "삼성전자 총파업",
-      "summary": "삼성전자 총파업에 대한 논의와 영향",
-      "post_count": 4,
+      "topic": "경제 및 금융",
+      "summary": "고유가 지원금 탈락, 코스피 7천이 깨지면 공포일거같아요, 삼성전자 총파업",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용에 대한 논의",
-      "post_count": 6,
+      "topic": "기술 및 산업",
+      "summary": "AI 기술, 우주 산업, 반도체 산업의 발전",
+      "post_count": 15,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "노무현 대통령 조롱, 래퍼 리치이기 사과문, 유니클로 재입점",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "고유가 지원금",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "탈락에 대한 안타까움"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "총파업과 영향"
-    },
-    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술의 발전과 적용"
+      "context": "AI 기술의 발전과 적용"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "삼성전자 총파업과 경제적 영향"
+    },
+    {
+      "keyword": "고유가 지원금",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "고유가 지원금 탈락과 경제적 영향"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
+    "positive": 20,
+    "negative": 30,
     "neutral": 10,
-    "overall_mood": "부정적인 감정의 우세"
+    "overall_mood": "부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "고유가 지원금에 대한 논의가 증가하고 있습니다.",
-      "action": "고유가 지원금에 대한 정책을 검토해야 합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "삼성전자 총파업이 경제에 미치는 영향이 크습니다.",
-      "action": "삼성전자 총파업에 대한 대책을 마련해야 합니다.",
+      "insight": "AI 기술의 발전은 산업의 발전을 가속화할 수 있다",
+      "action": "AI 기술에 투자하고 적용하기",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 빠르게 진행되고 있습니다.",
-      "action": "AI 기술을 활용한 비즈니스 모델을 개발해야 합니다.",
+      "insight": "고유가 지원금 탈락은 경제적 영향을 미칠 수 있다",
+      "action": "경제적 영향에 대비하기",
       "priority": "medium"
+    },
+    {
+      "insight": "삼성전자 총파업은 경제적 영향을 미칠 수 있다",
+      "action": "삼성전자 총파업에 대비하기",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 고유가 지원금, 삼성전자 총파업, AI 기술의 발전 등입니다. 고유가 지원금에 대한 논의는 탈락에 대한 안타까움을 중심으로 진행되고 있으며, 삼성전자 총파업은 경제에 미치는 영향이 크습니다. AI 기술의 발전은 빠르게 진행되고 있으며, 비즈니스 모델을 개발하기 위한 기회입니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-19T18:00:34.026Z",
+  "narrative": "최근의 트렌드는 경제 및 금융, 기술 및 산업, 사회 및 정치 등 다양한 분야에서 이루어지고 있다. AI 기술의 발전은 산업의 발전을 가속화할 수 있으며, 고유가 지원금 탈락과 삼성전자 총파업은 경제적 영향을 미칠 수 있다. 이러한 트렌드에 대비하고 ứng용하기 위해 AI 기술에 투자하고 적용하며, 경제적 영향에 대비하는 것이 중요하다. 또한, 사회 및 정치적인 트렌드에 주목하고, 노무현 대통령 조롱과 래퍼 리치이기 사과문 등에 대한 관심이 필요하다.",
+  "analyzed_at": "2026-05-19T19:30:34.499Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
