@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "한국의 경제 상황과 관련된 다양한 뉴스와 의견이 나오고 있습니다. 거래소 증권시장 결제주기 단축과 가계빚 증가 등이 주요 관심사입니다.",
-      "post_count": 10,
+      "topic": "스타벅스 불매 운동",
+      "summary": "스타벅스 불매 운동이 확산되고 있으며, 많은 사람들이 스타벅스에 대한 불만을 표현하고 있습니다. 스타벅스의 사과에도 불구하고, 불매 운동은 계속되고 있습니다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 나오고 있습니다. 법원 판결과 정치인들의 발언이 주요 관심사입니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "삼성전자 총파업",
+      "summary": "삼성전자 노조의 총파업이 예정되어 있으며, 이는 한국 경제에 큰 영향을 미칠 수 있습니다. 총파업의 결과는まだ 불확실합니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 의견이 나오고 있습니다. AI와 로보틱스 기술이 주요 관심사입니다.",
-      "post_count": 12,
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 이를 통해 새로운 기회와 도전이 생기고 있습니다. AI 기술의 발전은 계속되고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "스타벅스",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "불매 운동"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "총파업"
+    },
+    {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 의견에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "한국의 경제 상황과 관련된 뉴스와 의견에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견에서 자주 언급됩니다."
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "한국의 경제 상황과 정치 관련 뉴스에 대한 부정적인 감정과 최신 기술 뉴스에 대한 긍정적인 감정이 혼재합니다."
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국의 경제 상황은 안정적이지 않습니다.",
-      "action": "경제 상황을 주시하고 대응策을 마련해야 합니다.",
+      "insight": "스타벅스 불매 운동은 기업의 사회적 책임에 대한 관심을 높이는 계기가 될 수 있습니다.",
+      "action": "사회적 책임을 강화하는 전략을 개발해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술은 사업의 기회를 창출할 수 있습니다.",
-      "action": "최신 기술을 활용하여 사업을 발전시켜야 합니다.",
+      "insight": "삼성전자 총파업은 한국 경제에 큰 영향을 미칠 수 있습니다.",
+      "action": "노조와의 협상을 강화해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전은 새로운 기회를 창출할 수 있습니다.",
+      "action": "AI 기술을 활용하는 전략을 개발해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "한국의 온라인 커뮤니티에서는 경제와 정치 관련 뉴스와 의견이 많이 나오고 있습니다. 특히, 거래소 증권시장 결제주기 단축과 가계빚 증가 등이 주요 관심사입니다. 또한, 최신 기술 뉴스와 의견도 많이 나오고 있습니다. AI와 로보틱스 기술이 주요 관심사입니다. 이러한 상황을 고려하여 사업을 발전시켜야 합니다. 최신 기술을 활용하여 사업을 발전시켜야 하며, 경제 상황을 주시하고 대응책을 마련해야 합니다. 또한, 정치 관련 뉴스와 의견을 주시하여 사업에 영향을 미치는 요인을 파악해야 합니다.",
-  "analyzed_at": "2026-05-19T07:00:34.162Z",
+  "narrative": "최근의 트렌드는 스타벅스 불매 운동과 삼성전자 총파업, AI 기술의 발전에 대한 관심이 집중되고 있습니다. 이러한 트렌드는 기업의 사회적 책임, 노조와의 협상, 기술 발전에 대한 관심을 높이는 계기가 될 수 있습니다. 따라서 기업은 이러한 트렌드를 주시하고, 사회적 책임을 강화하는 전략을 개발하며, 노조와의 협상을 강화하고, AI 기술을 활용하는 전략을 개발해야 합니다.",
+  "analyzed_at": "2026-05-19T09:00:35.852Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
