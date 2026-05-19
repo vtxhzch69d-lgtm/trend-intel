@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "고유가 지원금 탈락, 코스피 7천이 깨지면 공포일거같아요, 삼성전자 총파업",
-      "post_count": 10,
+      "topic": "삼성전자 노조 총파업",
+      "summary": "삼성전자 노조의 총파업이 예정대로 진행되며, 성장률에 최대 0.5%P 하락할 수 있다는 우려가 제기되고 있습니다. ",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "AI 기술, 우주 산업, 반도체 산업의 발전",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "래퍼 리치이기 사과문",
+      "summary": "래퍼 리치이기가 노무현 대통령을 조롱한 힙합 가수로 논란이 되며, 사과문을 통해 반성의 뜻을 밝혔습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "노무현 대통령 조롱, 래퍼 리치이기 사과문, 유니클로 재입점",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "고유가 지원금 탈락",
+      "summary": "고유가 지원금 탈락에 대한 우려가 제기되며, 경제적인 어려움을 겪는 사람들이 증가할 수 있습니다.",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "삼성전자",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "sentiment": "negative",
+      "context": "노조 총파업과 성장률 하락"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
+      "keyword": "래퍼 리치이기",
+      "count": 5,
       "sentiment": "negative",
-      "context": "삼성전자 총파업과 경제적 영향"
+      "context": "노무현 대통령 조롱"
     },
     {
       "keyword": "고유가 지원금",
-      "count": 5,
+      "count": 3,
       "sentiment": "negative",
-      "context": "고유가 지원금 탈락과 경제적 영향"
+      "context": "탈락에 대한 우려"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
+    "positive": 5,
+    "negative": 20,
     "neutral": 10,
-    "overall_mood": "부정적인 분위기"
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 발전을 가속화할 수 있다",
-      "action": "AI 기술에 투자하고 적용하기",
+      "insight": "삼성전자 노조 총파업",
+      "action": "노조와의 협상을 강화",
       "priority": "high"
     },
     {
-      "insight": "고유가 지원금 탈락은 경제적 영향을 미칠 수 있다",
-      "action": "경제적 영향에 대비하기",
+      "insight": "래퍼 리치이기 사과문",
+      "action": "사회적인 책임을 강조",
       "priority": "medium"
     },
     {
-      "insight": "삼성전자 총파업은 경제적 영향을 미칠 수 있다",
-      "action": "삼성전자 총파업에 대비하기",
-      "priority": "high"
+      "insight": "고유가 지원금 탈락",
+      "action": "경제적인 어려움을 겪는 사람들을 지원",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 경제 및 금융, 기술 및 산업, 사회 및 정치 등 다양한 분야에서 이루어지고 있다. AI 기술의 발전은 산업의 발전을 가속화할 수 있으며, 고유가 지원금 탈락과 삼성전자 총파업은 경제적 영향을 미칠 수 있다. 이러한 트렌드에 대비하고 ứng용하기 위해 AI 기술에 투자하고 적용하며, 경제적 영향에 대비하는 것이 중요하다. 또한, 사회 및 정치적인 트렌드에 주목하고, 노무현 대통령 조롱과 래퍼 리치이기 사과문 등에 대한 관심이 필요하다.",
-  "analyzed_at": "2026-05-19T19:30:34.499Z",
+  "narrative": "최근의 트렌드는 삼성전자 노조 총파업과 래퍼 리치이기 사과문, 고유가 지원금 탈락 등 부정적인 감정으로 가득 차 있습니다. 이러한 트렌드는 경제적인 어려움과 사회적인 책임에 대한 우려를 나타내며, 기업과 정부는 이러한 문제에 대한 대책을 강화해야 합니다. 또한, 래퍼 리치이기 사과문은 사회적인 책임을 강조하며, 기업과 개인은 이러한 문제에 대한 책임을 지고 대처해야 합니다.",
+  "analyzed_at": "2026-05-19T21:00:34.929Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
