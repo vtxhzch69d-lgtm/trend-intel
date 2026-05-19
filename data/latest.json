@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조 총파업",
-      "summary": "삼성전자 노조의 총파업이 예정대로 진행되며, 성장률에 최대 0.5%P 하락할 수 있다는 우려가 제기되고 있습니다. ",
-      "post_count": 5,
+      "topic": "삼성전자 총파업",
+      "summary": "삼성전자 노조의 총파업이 예정대로 진행될 예정이며, 이는 한국 경제에 큰 영향을 미칠 수 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "래퍼 리치이기 사과문",
-      "summary": "래퍼 리치이기가 노무현 대통령을 조롱한 힙합 가수로 논란이 되며, 사과문을 통해 반성의 뜻을 밝혔습니다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "구글 I/O 2026",
+      "summary": "구글 I/O 2026에서 새로운 기술과 제품이 발표되었습니다. 이는 기술 산업에 큰 영향을 미칠 수 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "고유가 지원금 탈락",
-      "summary": "고유가 지원금 탈락에 대한 우려가 제기되며, 경제적인 어려움을 겪는 사람들이 증가할 수 있습니다.",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "한일 관계",
+      "summary": "한일 관계가 개선되고 있으며, 이는 경제와 정치에 큰 영향을 미칠 수 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "총파업과 관련된 게시글에서 많이 언급되었습니다."
+    },
+    {
+      "keyword": "구글",
       "count": 10,
-      "sentiment": "negative",
-      "context": "노조 총파업과 성장률 하락"
+      "sentiment": "positive",
+      "context": "구글 I/O 2026에서 발표된 기술과 제품에 대한 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "래퍼 리치이기",
+      "keyword": "한일 관계",
       "count": 5,
-      "sentiment": "negative",
-      "context": "노무현 대통령 조롱"
-    },
-    {
-      "keyword": "고유가 지원금",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "탈락에 대한 우려"
+      "sentiment": "positive",
+      "context": "한일 관계 개선과 관련된 게시글에서 많이 언급되었습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 20,
+    "positive": 20,
+    "negative": 15,
     "neutral": 10,
-    "overall_mood": "부정적인 감정"
+    "overall_mood": "한국 경제와 기술 산업에 대한 관심이 높아지고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조 총파업",
-      "action": "노조와의 협상을 강화",
+      "insight": "삼성전자 총파업의 경제적 영향",
+      "action": "삼성전자와 관련된 사업에 대한 재평가",
       "priority": "high"
     },
     {
-      "insight": "래퍼 리치이기 사과문",
-      "action": "사회적인 책임을 강조",
+      "insight": "구글 I/O 2026의 기술적 영향",
+      "action": "구글의 새로운 기술과 제품에 대한 연구와 개발",
       "priority": "medium"
     },
     {
-      "insight": "고유가 지원금 탈락",
-      "action": "경제적인 어려움을 겪는 사람들을 지원",
+      "insight": "한일 관계의 경제적 영향",
+      "action": "한일 관계 개선에 대한 투자와 협력",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성전자 노조 총파업과 래퍼 리치이기 사과문, 고유가 지원금 탈락 등 부정적인 감정으로 가득 차 있습니다. 이러한 트렌드는 경제적인 어려움과 사회적인 책임에 대한 우려를 나타내며, 기업과 정부는 이러한 문제에 대한 대책을 강화해야 합니다. 또한, 래퍼 리치이기 사과문은 사회적인 책임을 강조하며, 기업과 개인은 이러한 문제에 대한 책임을 지고 대처해야 합니다.",
-  "analyzed_at": "2026-05-19T21:00:34.929Z",
+  "narrative": "한국 온라인 커뮤니티에서 삼성전자 총파업, 구글 I/O 2026, 한일 관계 등이 주목을 받고 있습니다. 이러한 주제들은 한국 경제와 기술 산업에 큰 영향을 미칠 수 있으며, 사업가와 투자자는 이러한 주제에 대한 관심을 가지고 있어야 합니다. 특히, 삼성전자 총파업의 경제적 영향과 구글 I/O 2026의 기술적 영향은 사업가와 투자자가 주목해야 할 주제입니다. 또한, 한일 관계의 경제적 영향도 중요한 주제이며, 사업가와 투자자는 이러한 주제에 대한 투자와 협력을 고려해야 합니다.",
+  "analyzed_at": "2026-05-19T22:30:34.099Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
