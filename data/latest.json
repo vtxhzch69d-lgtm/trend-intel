@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스",
-      "summary": "스타벅스 관련된 여러 게시글이 존재하며, 일부에서는 스타벅스를 불매하자는 의견도 있습니다.",
+      "topic": "스타벅스 불매 운동",
+      "summary": "스타벅스 불매 운동이 클리앙 커뮤니티에서热한 관심을 받고 있습니다. 사용자들은 스타벅스의 일베벅스 관련 사과문을 올렸으며, 일부 사용자들은 불매 운동을 주장하고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많으며, 민주당과 관련된 여러 뉴스가 있습니다.",
-      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련된 게시글이 많으며, AI와 관련된 여러 뉴스가 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "삼성전자 노조",
+      "summary": "삼성전자 노조가 지지 못받는 이유에 대해 클리앙 커뮤니티 사용자들이 토론을 하고 있습니다. 일부 사용자들은 노조의 활동이 회사에 부정적인 영향을 미친다고 주장하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "정용진 사과문",
+      "summary": "신세계 정용진 회장이 일베벅스 관련 사과문을 올렸습니다. 클리언 커뮤니티 사용자들은 이 사과문을 긍정적으로 평가하고 있습니다.",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "스타벅스",
-      "count": 10,
+      "count": 15,
       "sentiment": "negative",
       "context": "불매 운동"
     },
     {
-      "keyword": "민주당",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 뉴스"
+      "keyword": "삼성전자",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "노조 활동"
     },
     {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "정용진",
+      "count": 5,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "사과문"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정"
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 불매 운동",
-      "action": "스타벅스에 대한 고객 불만 사항을 조사하여 개선 방안을 마련",
+      "insight": "스타벅스 불매 운동이 클리앙 커뮤니티에서热한 관심을 받고 있습니다.",
+      "action": "스타벅스에 대한 마케팅 전략을 재검토해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스",
-      "action": "정치 뉴스에 대한 고객 관심도를 조사하여 관련된 콘텐츠를 제공",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술 뉴스",
-      "action": "최신 기술 뉴스에 대한 고객 관심도를 조사하여 관련된 콘텐츠를 제공",
+      "insight": "삼성전자 노조의 활동이 회사에 부정적인 영향을 미칠 수 있습니다.",
+      "action": "노조의 활동을 모니터링하고 대응 전략을 수립해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 스타벅스와 정치, 기술 뉴스에 대한 고객 관심도가 높아지고 있습니다. 스타벅스 불매 운동과 관련된 게시글이 많으며, 민주당과 관련된 여러 뉴스가 있습니다. 또한, 최신 기술 뉴스에 대한 고객 관심도가 높아지고 있습니다. 이러한 고객 관심도를 조사하여 관련된 콘텐츠를 제공하고, 스타벅스에 대한 고객 불만 사항을 조사하여 개선 방안을 마련할 필요가 있습니다.",
-  "analyzed_at": "2026-05-18T23:30:34.351Z",
+  "narrative": "클리앙 커뮤니티에서 스타벅스 불매 운동이热한 관심을 받고 있습니다. 사용자들은 스타벅스의 일베벅스 관련 사과문을 올렸으며, 일부 사용자들은 불매 운동을 주장하고 있습니다. 또한, 삼성전자 노조의 활동이 회사에 부정적인 영향을 미칠 수 있습니다. 따라서, 스타벅스와 삼성전자에 대한 마케팅 전략을 재검토하고 노조의 활동을 모니터링해야 합니다.",
+  "analyzed_at": "2026-05-19T01:00:34.468Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
