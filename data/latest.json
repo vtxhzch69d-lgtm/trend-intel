@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "조국, 전두환 후배, 518 민간인 사살 등 정치 관련 주제가热",
-      "post_count": 10,
+      "topic": "다카이치 일본 총리 방한",
+      "summary": "다카이치 일본 총리가 한국을 방문하여 안동을 다녀갔으며, 다양한 일정들을 수행했다. 이 방문은 양국 간의 관계 강화와 경제 협력 증진을 위한 중요한 계기가 될 것으로 보인다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "스타벅스 논란",
+      "summary": "스타벅스에서 발생한 콜옵션 논란과 관련된 게시글이 많은 관심을 받고 있다. 이 사건은 소비자들의 권익 보호와 기업의 사회적 책임에 대한 논의를 재점화시켰다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "주식, 환율, 금리 등 경제 관련 주제가热",
-      "post_count": 15,
+      "topic": "정치 및 사회 현안",
+      "summary": "조국과 김용남의 단일화 가능성, 노조와 노조 활동에 대한 논의, 세금과 경제 정책 등 다양한 정치 및 사회 현안에 대한 게시글이 나타나고 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI, 로봇, 전기차 등 기술 관련 주제가热",
-      "post_count": 12,
-      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "스벅",
+      "keyword": "다카이치",
       "count": 5,
+      "sentiment": "neutral",
+      "context": "일본 총리 방한"
+    },
+    {
+      "keyword": "스타벅스",
+      "count": 3,
       "sentiment": "negative",
-      "context": "스벅 환불 문제 등"
+      "context": "콜옵션 논란"
     },
     {
-      "keyword": "주식",
-      "count": 8,
+      "keyword": "조국",
+      "count": 2,
       "sentiment": "mixed",
-      "context": "주식 시장 등"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술 등"
+      "context": "정치 현안"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적이지만 약간 부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "스벅 환불 문제 등으로 인한 소비자 불만",
-      "action": "스벅 환불 정책 개선",
+      "insight": "소비자들의 권익 보호와 기업의 사회적 책임에 대한 관심이 높아지고 있다.",
+      "action": "기업의 사회적 책임과 소비자 권익 보호를 강화하는 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "주식 시장 안정화 대책 마련",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신제품 개발",
+      "insight": "정치 및 사회 현안에 대한 관심이 높아지고 있다.",
+      "action": "정책과 사회 현안에 대한 분석과 전략 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 정치, 경제, 기술 관련 주제가热을 보이고 있습니다. 특히 스벅 환불 문제 등으로 인한 소비자 불만이 크게 증가하고 있으며, 주식 시장의 불안정성도 문제가 되고 있습니다. 반면에 AI 기술의 발전은 새로운 기회를 제공하고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-19T03:00:34.153Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, 다카이치 일본 총리 방한과 스타벅스 논란이 주요 관심사로 나타났다. 또한, 정치 및 사회 현안에 대한 논의가 활발히 진행되고 있다. 이러한 트렌드 분석 결과를 통해 기업과 정책 입안자들은 소비자들의 권익 보호와 기업의 사회적 책임, 그리고 정치 및 사회 현안에 대한 전략을 수립할 수 있을 것이다. 특히, 소비자들의 권익 보호와 기업의 사회적 책임에 대한 관심이 높아지고 있으므로, 기업들은 이러한 요구에 부응하는 전략을 수립해야 할 것이다. 또한, 정치 및 사회 현안에 대한 분석과 전략 수립을 통해 기업과 정책 입안자들은 미래의 도전과 기회에 대비할 수 있을 것이다.",
+  "analyzed_at": "2026-05-19T04:30:34.958Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
