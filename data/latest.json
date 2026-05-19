@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 총파업",
-      "summary": "삼성전자 노조가 총파업을 예고하며 경영진과 노조 간의 갈등이 고조되고 있다. 총파업이 진행될 경우 한국 경제에 큰 영향을 미칠 수 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "래퍼 리치이기",
-      "summary": "래퍼 리치이기가 노무현 대통령을 조롱하는 힙합 가수로 논란이 되고 있다. 이에 대한 반응이 클리앙 커뮤니티에서 뜨겁다.",
-      "post_count": 5,
+      "topic": "고유가 지원금",
+      "summary": "고유가 지원금에 대한 논의와 탈락에 대한 안타까움",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "한국 경제",
-      "summary": "한국 경제에 대한 우려가 클리앙 커뮤니티에서 증가하고 있다. 고유가, 환율, 실업 등 다양한 문제가 논의되고 있다.",
-      "post_count": 15,
+      "topic": "삼성전자 총파업",
+      "summary": "삼성전자 총파업에 대한 논의와 영향",
+      "post_count": 4,
       "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용에 대한 논의",
+      "post_count": 6,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "고유가 지원금",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "탈락에 대한 안타까움"
+    },
+    {
       "keyword": "삼성전자",
-      "count": 20,
+      "count": 7,
       "sentiment": "negative",
-      "context": "총파업과 경영진의 책임에 대한 논의"
+      "context": "총파업과 영향"
     },
     {
-      "keyword": "래퍼 리치이기",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "negative",
-      "context": "노무현 대통령을 조롱하는 힙합 가수로 논란"
-    },
-    {
-      "keyword": "한국 경제",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "고유가, 환율, 실업 등 다양한 문제에 대한 우려"
+      "sentiment": "positive",
+      "context": "기술의 발전과 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 40,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정이 우세하다"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 총파업이 한국 경제에 미칠 영향",
-      "action": "경영진과 노조 간의 협상을 촉구한다",
+      "insight": "고유가 지원금에 대한 논의가 증가하고 있습니다.",
+      "action": "고유가 지원금에 대한 정책을 검토해야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "삼성전자 총파업이 경제에 미치는 영향이 크습니다.",
+      "action": "삼성전자 총파업에 대한 대책을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "래퍼 리치이기 논란이 한국 사회에 미칠 영향",
-      "action": "사회적 논의를 통해 해결 방안을 모색한다",
-      "priority": "medium"
-    },
-    {
-      "insight": "한국 경제의 불안정성이 소비자 행동에 미칠 영향",
-      "action": "경제 안정화 정책을 시행한다",
+      "insight": "AI 기술의 발전이 빠르게 진행되고 있습니다.",
+      "action": "AI 기술을 활용한 비즈니스 모델을 개발해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 뜨거운 논제는 삼성전자 총파업과 래퍼 리치이기 논란이다. 이러한 논제는 한국 경제와 사회에 큰 영향을 미칠 수 있다. 따라서 경영진과 노조 간의 협상을 촉구하고, 사회적 논의를 통해 해결 방안을 모색하는 것이 중요하다. 또한, 한국 경제의 불안정성이 소비자 행동에 미칠 영향을 고려하여 경제 안정화 정책을 시행하는 것이 필요하다.",
-  "analyzed_at": "2026-05-19T16:30:36.096Z",
+  "narrative": "최근의 트렌드는 고유가 지원금, 삼성전자 총파업, AI 기술의 발전 등입니다. 고유가 지원금에 대한 논의는 탈락에 대한 안타까움을 중심으로 진행되고 있으며, 삼성전자 총파업은 경제에 미치는 영향이 크습니다. AI 기술의 발전은 빠르게 진행되고 있으며, 비즈니스 모델을 개발하기 위한 기회입니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-19T18:00:34.026Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
