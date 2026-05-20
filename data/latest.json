@@ -2,72 +2,72 @@
   "trending_topics": [
     {
       "topic": "삼성전자 파업",
-      "summary": "삼성전자 노조의 파업과 관련된 논란",
+      "summary": "삼성전자 노조의 파업과 관련된 게시글이 많습니다. 파업의 영향과 해결 방안에 대한 논의가 진행 중입니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련된 뉴스 및 논란",
+      "topic": "경제 및 정치",
+      "summary": "경제와 정치 관련된 게시글이 많습니다. 고유가, 세제 변경, 노동 정책 등 다양한 주제에 대한 논의가 진행 중입니다.",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스 및 논란",
+      "topic": "기술 및 과학",
+      "summary": "기술과 과학 관련된 게시글이 많습니다. 구글 I/O, AI, 반도체 등 다양한 주제에 대한 논의가 진행 중입니다.",
       "post_count": 12,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 20,
+      "count": 15,
       "sentiment": "negative",
-      "context": "파업과 관련된 논란"
+      "context": "파업과 관련된 논의"
     },
     {
       "keyword": "AI",
-      "count": 25,
-      "sentiment": "neutral",
-      "context": "최신 기술과 관련된 뉴스"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술과 과학 관련된 논의"
     },
     {
-      "keyword": "경제",
-      "count": 18,
-      "sentiment": "mixed",
-      "context": "경제 및 금융 관련 뉴스"
+      "keyword": "고유가",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "경제와 정치 관련된 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 25,
-    "neutral": 30,
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 파업은 기업의 이미지를 악화시킬 수 있다",
-      "action": "기업의 이미지를 회복하기 위한 대책 마련",
+      "insight": "삼성전자 파업의 해결 방안을 모색해야 합니다.",
+      "action": "노조와의 협상을 통해 파업을 해결해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 활용될 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI와 기술에 대한 투자가 필요합니다.",
+      "action": "AI와 기술에 대한 연구와 개발을 투자해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스는 계속해서 주목할 필요가 있다",
-      "action": "경제 및 금융 관련 뉴스를 지속적으로 모니터링",
-      "priority": "medium"
+      "insight": "고유가와 경제 정책에 대한 논의가 필요합니다.",
+      "action": "고유가와 경제 정책에 대한 연구와 분석을 통해 해결 방안을 모색해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 파업과 관련된 논란이 많은 관심을 받고 있습니다. 또한, AI 기술과 관련된 뉴스 및 논란도 많은 주목을 받고 있습니다. 경제 및 금융 관련 뉴스도 계속해서 주목할 필요가 있습니다. 이러한 트렌드를 분석하여 기업의 이미지를 회복하고 새로운 비즈니스 모델을 개발하는 등 다양한 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-20T05:30:34.587Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 삼성전자 파업과 관련된 논의가 많습니다. 파업의 영향과 해결 방안에 대한 논의가 진행 중입니다. 또한, 경제와 정치 관련된 주제에 대한 논의도 많습니다. 기술과 과학 관련된 주제도 관심을 끌고 있습니다. 이러한 트렌드를 통해 사업에 대한 인사이트를 얻을 수 있습니다. 예를 들어, 삼성전자 파업의 해결 방안을 모색해야 합니다. 또한, AI와 기술에 대한 투자가 필요합니다. 고유가와 경제 정책에 대한 논의도 필요합니다. 이러한 인사이트를 통해 사업을 발전시킬 수 있습니다.",
+  "analyzed_at": "2026-05-20T07:00:34.859Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
