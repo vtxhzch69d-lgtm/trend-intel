@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조 파업",
-      "summary": "삼성전자 노조 파업으로 인한 산업계 영향과 노동법 개정 논의",
-      "post_count": 15,
+      "topic": "삼성전자 파업",
+      "summary": "삼성전자 노조의 파업과 관련된 논란",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "구글 I/O 2026",
-      "summary": "구글 I/O 2026에서 발표된 새로운 기술과 제품",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 관련된 뉴스 및 논란",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "스벅 사태",
-      "summary": "스타벅스 환불 및 탈퇴 사태와 관련된 논의",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스 및 논란",
+      "post_count": 12,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
@@ -27,46 +27,46 @@
       "keyword": "삼성전자",
       "count": 20,
       "sentiment": "negative",
-      "context": "노조 파업과 산업계 영향"
+      "context": "파업과 관련된 논란"
     },
     {
-      "keyword": "구글",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "구글 I/O 2026과 새로운 기술"
+      "keyword": "AI",
+      "count": 25,
+      "sentiment": "neutral",
+      "context": "최신 기술과 관련된 뉴스"
     },
     {
-      "keyword": "스벅",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "스타벅스 환불 및 탈퇴 사태"
+      "keyword": "경제",
+      "count": 18,
+      "sentiment": "mixed",
+      "context": "경제 및 금융 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 10,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조 파업은 산업계에 큰 영향을 미칠 수 있다",
-      "action": "산업계와 노조 간의 협상을 촉진",
+      "insight": "삼성전자 파업은 기업의 이미지를 악화시킬 수 있다",
+      "action": "기업의 이미지를 회복하기 위한 대책 마련",
       "priority": "high"
     },
     {
-      "insight": "구글 I/O 2026에서 발표된 기술은 새로운 비즈니스 기회를 창출할 수 있다",
-      "action": "구글의 새로운 기술을 활용한 비즈니스 개발",
+      "insight": "AI 기술은 다양한 산업에서 활용될 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
     },
     {
-      "insight": "스벅 사태는 소비자의 불만을 이해하고 해결하는 것이 중요하다",
-      "action": "소비자 불만을 해결하고 고객 서비스를 개선",
+      "insight": "경제 및 금융 관련 뉴스는 계속해서 주목할 필요가 있다",
+      "action": "경제 및 금융 관련 뉴스를 지속적으로 모니터링",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성전자 노조 파업과 구글 I/O 2026, 그리고 스벅 사태를 중심으로 형성되고 있다. 이러한 트렌드는 산업계와 소비자 간의 협력을 강화하고, 새로운 기술을 활용한 비즈니스 개발, 그리고 고객 서비스의 개선을 통해 해결할 수 있다. 이러한 트렌드에 대한 분석과 이해는 비즈니스와 마케팅 전략을 수립하고, 소비자의需求을 충족하는 데 중요한 역할을 한다.",
-  "analyzed_at": "2026-05-20T04:00:34.790Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자 파업과 관련된 논란이 많은 관심을 받고 있습니다. 또한, AI 기술과 관련된 뉴스 및 논란도 많은 주목을 받고 있습니다. 경제 및 금융 관련 뉴스도 계속해서 주목할 필요가 있습니다. 이러한 트렌드를 분석하여 기업의 이미지를 회복하고 새로운 비즈니스 모델을 개발하는 등 다양한 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-20T05:30:34.587Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
