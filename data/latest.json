@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조와 사측의 갈등이 계속되고 있으며, 정부의 태도도 관심을 끌고 있습니다.",
+      "topic": "정치",
+      "summary": "국민의힘 전 대변인, 5·18 당일 '광주 계엄군' 옹호 등 정치 관련 글들이 많이 올라왔습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "구글 I/O 2026에서 새로운 AI 기술이 발표되었으며, 이를 활용한 다양한 서비스가 등장하고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "삼성전자, 업계 최초 6K 게이밍 모니터 ‘오디세이 G8’ 출시 등 경제 관련 글들이 많이 올라왔습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 성향은 서로 다르지만, 공통된 관심사인 경제와 산업 발전에 대한 논의가 활발히 진행되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "기술",
+      "summary": "구글, ‘제미나이 3.5’를 소개합니다 등 기술 관련 글들이 많이 올라왔습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 20,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "negative",
-      "context": "노조와 사측의 갈등"
+      "context": "국민의힘 전 대변인, 5·18 당일 '광주 계엄군' 옹호"
     },
     {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "신규 기술과 서비스"
-    },
-    {
-      "keyword": "정부",
+      "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "정책과 태도"
+      "context": "삼성전자, 업계 최초 6K 게이밍 모니터 ‘오디세이 G8’ 출시"
+    },
+    {
+      "keyword": "기술",
+      "count": 18,
+      "sentiment": "positive",
+      "context": "구글, ‘제미나이 3.5’를 소개합니다"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 부정적인 감정이 약간 더 많습니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조와 사측의 갈등은 산업 발전에 영향을 미칠 수 있습니다.",
-      "action": "산업 발전을 위한 대책 마련",
+      "insight": "기술 관련 글들이 많이 올라오고 있습니다.",
+      "action": "기술 관련 글을 더 많이 올려야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 활용될 수 있습니다.",
-      "action": "AI 기술을 활용한 서비스 개발",
-      "priority": "medium"
-    },
-    {
-      "insight": "정부의 태도는 산업 발전과 경제에 영향을 미칠 수 있습니다.",
-      "action": "정부의 정책과 태도에 대한 분석",
+      "insight": "경제 관련 글들이 많이 올라오고 있습니다.",
+      "action": "경제 관련 글을 더 많이 올려야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성전자 노조와 사측의 갈등, AI 기술의 발전, 그리고 정부의 태도에 대한 관심이 집중되고 있습니다. 이러한 트렌드는 산업 발전과 경제에 영향을 미칠 수 있습니다. 따라서 산업 발전을 위한 대책 마련, AI 기술을 활용한 서비스 개발, 그리고 정부의 정책과 태도에 대한 분석이 필요합니다. 또한, 이러한 트렌드에 대한 지속적인 모니터링과 분석이 필요하여 미래의 트렌드를 예측하고 대응할 수 있습니다.",
-  "analyzed_at": "2026-05-20T11:30:34.562Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치, 경제, 기술 관련 글들이 많이 올라왔습니다. 특히 기술 관련 글들이 많이 올라오고 있으며, 긍정적인 기운을 보이고 있습니다. 반면, 정치 관련 글들은 부정적인 기운을 보이고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 기술 관련 글을 더 많이 올려서 긍정적인 기운을 활용하고, 정치 관련 글을 올릴 때는 부정적인 기운을 고려하여 올려야 합니다.",
+  "analyzed_at": "2026-05-20T13:00:35.928Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
