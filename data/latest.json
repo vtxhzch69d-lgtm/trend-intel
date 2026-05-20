@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조 총파업",
-      "summary": "삼성전자 노조의 총파업이 유보되었습니다. 임금협상 잠정합의 투표가 진행되었습니다.",
+      "topic": "삼성전자 성과급",
+      "summary": "삼성전자 성과급에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 성과급의 합의안과 관련된 뉴스가 속속들이 나오고 있습니다.",
       "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "노란봉투법",
+      "summary": "노란봉투법에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 법의 적용과 관련된 문제점들이 논의되고 있습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "구글, 애플, 삼성전자 등이 AI 기술 개발에 적극적으로 참여하고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 뉴스가 클리앙 커뮤니티에서 많이 나오고 있습니다. 구글의 AI 기술과 관련된 뉴스가 주를 이루고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "대구시장 지지도, 지방선거 투표율, 정부의 경제 정책 등이 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
       "count": 12,
+      "sentiment": "neutral",
+      "context": "성과급과 관련된 뉴스"
+    },
+    {
+      "keyword": "노란봉투법",
+      "count": 5,
       "sentiment": "negative",
-      "context": "노조 총파업 관련"
+      "context": "법의 적용과 관련된 문제점"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술 개발 및 적용"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정부 정책 및 시장 동향"
+      "context": "구글의 AI 기술과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 비중이 높지만, AI 기술 개발 등에 대한 긍정적인 반응도 존재"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "노조 총파업이 기업의 이미지를 악화시킬 수 있음",
-      "action": "노조와의 협상을 강화하고, 직원들의 불만을 해결해야 함",
+      "insight": "삼성전자 성과급에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있습니다.",
+      "action": "삼성전자 성과급에 대한 정보를 제공하고, 커뮤니티의 논의에 참여합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "노란봉투법에 대한 논의가 클리언 커뮤니티에서 진행되고 있습니다.",
+      "action": "노란봉투법에 대한 정보를 제공하고, 커뮤니티의 논의에 참여합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 개발이 기업의 경쟁력을 높일 수 있음",
-      "action": "AI 기술 개발에 투자하고, 적용 사례를 확대해야 함",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 정치적 불안정이 기업의 운영에 영향을 줄 수 있음",
-      "action": "정부의 정책을 주시하고, 경제적 불안정성에 대비해야 함",
-      "priority": "medium"
+      "insight": "AI 기술에 대한 뉴스가 클리앙 커뮤니티에서 많이 나오고 있습니다.",
+      "action": "AI 기술에 대한 정보를 제공하고, 커뮤니티의 논의에 참여합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 노조 총파업과 AI 기술 개발이 주요 관심사로 나타났습니다. 노조 총파업은 기업의 이미지를 악화시킬 수 있으므로, 노조와의 협상을 강화하고, 직원들의 불만을 해결해야 합니다. 반면, AI 기술 개발은 기업의 경쟁력을 높일 수 있으므로, 투자하고, 적용 사례를 확대해야 합니다. 또한, 경제 및 정치적 불안정성에 대비하고, 정부의 정책을 주시해야 합니다.",
-  "analyzed_at": "2026-05-20T14:30:34.704Z",
+  "narrative": "클리앙 커뮤니티에서 삼성전자 성과급, 노란봉투법, AI 기술에 대한 논의가 활발하게 진행되고 있습니다. 이러한 주제에 대한 정보를 제공하고, 커뮤니티의 논의에 참여하는 것이 중요합니다. 또한, 노란봉투법에 대한 문제점들이 논의되고 있으므로, 법의 적용과 관련된 정보를 제공하는 것이 필요합니다. AI 기술에 대한 뉴스가 많이 나오고 있으므로, AI 기술에 대한 정보를 제공하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-20T16:00:34.570Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
