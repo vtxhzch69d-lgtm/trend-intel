@@ -1,73 +1,99 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 파업",
-      "summary": "삼성전자 노조의 파업과 관련된 게시글이 많습니다. 파업의 영향과 해결 방안에 대한 논의가 진행 중입니다.",
-      "post_count": 10,
+      "topic": "스벅 사과문과 대응",
+      "summary": "스벅의 사과문과 대응에 대한 논란",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제와 정치 관련된 게시글이 많습니다. 고유가, 세제 변경, 노동 정책 등 다양한 주제에 대한 논의가 진행 중입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "삼전 노조 파업",
+      "summary": "삼성전자 노조의 파업과 관련된 논란",
+      "post_count": 4,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술과 과학 관련된 게시글이 많습니다. 구글 I/O, AI, 반도체 등 다양한 주제에 대한 논의가 진행 중입니다.",
-      "post_count": 12,
+      "topic": "이재명 대통령 국무회의",
+      "summary": "이재명 대통령의 국무회의 영상과 관련된 논란",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "GTX-A 철근누락",
+      "summary": "GTX-A 철근누락과 관련된 논란",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술 발전",
+      "summary": "AI 기술의 발전과 관련된 논란",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 15,
+      "keyword": "스벅",
+      "count": 10,
       "sentiment": "negative",
-      "context": "파업과 관련된 논의"
+      "context": "스벅의 사과문과 대응에 대한 논란"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "삼성전자 노조의 파업과 관련된 논란"
+    },
+    {
+      "keyword": "이재명",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "이재명 대통령의 국무회의 영상과 관련된 논란"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술과 과학 관련된 논의"
+      "context": "AI 기술의 발전과 관련된 논란"
     },
     {
-      "keyword": "고유가",
-      "count": 5,
+      "keyword": "노조",
+      "count": 3,
       "sentiment": "negative",
-      "context": "경제와 정치 관련된 논의"
+      "context": "삼성전자 노조의 파업과 관련된 논란"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 파업의 해결 방안을 모색해야 합니다.",
-      "action": "노조와의 협상을 통해 파업을 해결해야 합니다.",
+      "insight": "스벅의 사과문과 대응에 대한 논란은 브랜드 이미지를 악화시킬 수 있다.",
+      "action": "스벅의 사과문과 대응을 개선해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술에 대한 투자가 필요합니다.",
-      "action": "AI와 기술에 대한 연구와 개발을 투자해야 합니다.",
+      "insight": "삼성전자 노조의 파업은 생산성을 저하할 수 있다.",
+      "action": "삼성전자 노조와의 협상을 통해 파업을 해결해야 한다.",
       "priority": "medium"
     },
     {
-      "insight": "고유가와 경제 정책에 대한 논의가 필요합니다.",
-      "action": "고유가와 경제 정책에 대한 연구와 분석을 통해 해결 방안을 모색해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 적용될 수 있다.",
+      "action": "AI 기술의 발전을 주도해야 한다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 삼성전자 파업과 관련된 논의가 많습니다. 파업의 영향과 해결 방안에 대한 논의가 진행 중입니다. 또한, 경제와 정치 관련된 주제에 대한 논의도 많습니다. 기술과 과학 관련된 주제도 관심을 끌고 있습니다. 이러한 트렌드를 통해 사업에 대한 인사이트를 얻을 수 있습니다. 예를 들어, 삼성전자 파업의 해결 방안을 모색해야 합니다. 또한, AI와 기술에 대한 투자가 필요합니다. 고유가와 경제 정책에 대한 논의도 필요합니다. 이러한 인사이트를 통해 사업을 발전시킬 수 있습니다.",
-  "analyzed_at": "2026-05-20T07:00:34.859Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 스벅의 사과문과 대응에 대한 논란과 삼성전자 노조의 파업이 주목을 끌고 있다. 또한, AI 기술의 발전은 다양한 산업에 적용될 수 있는 가능성이 있다. 이러한 트렌드에 대한 분석과 이해는 사업적 의사결정을 위한 중요한 정보를 제공할 수 있다. 따라서, 이러한 트렌드에 대한 지속적인 모니터링과 분석이 필요하다.",
+  "analyzed_at": "2026-05-20T08:30:34.373Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
