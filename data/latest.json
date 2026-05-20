@@ -1,75 +1,62 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조",
-      "summary": "삼성전자 노조의 파업과 관련된 논란이 커뮤니티에서 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "제미나이",
-      "summary": "제미나이의 사용량 제한과 관련된 문제가 커뮤니티에서 논의되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "구글 I/O 2026",
-      "summary": "구글 I/O 2026에서 발표된 새로운 기술과 제품에 대한 논의가 커뮤니티에서 진행되고 있습니다.",
-      "post_count": 8,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다.",
+      "post_count": 100,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 정치나 사회적인 이슈에 대한 토론입니다.",
+      "post_count": 50,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "노조 파업과 관련된 논란"
-    },
-    {
-      "keyword": "제미나이",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "사용량 제한과 관련된 문제"
-    },
-    {
-      "keyword": "구글",
-      "count": 10,
+      "keyword": "무료",
+      "count": 20,
       "sentiment": "positive",
-      "context": "구글 I/O 2026에서 발표된 새로운 기술과 제품"
+      "context": "무료 상품에 대한 정보"
+    },
+    {
+      "keyword": "할인",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "할인된 상품에 대한 정보"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치적인 이슈에 대한 토론"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 60,
+    "negative": 20,
+    "neutral": 20,
+    "overall_mood": "대체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조의 파업이 기업의 이미지에 부정적인 영향을 미칠 수 있습니다.",
-      "action": "노조와의 협상을 통해 파업을 해결하는 것이 필요합니다.",
+      "insight": "무료나 할인된 상품에 대한 정보는 뽐뿌 커뮤니티에서 인기 있습니다.",
+      "action": "무료나 할인된 상품을 제공하여 고객을 유혹합니다.",
       "priority": "high"
     },
     {
-      "insight": "제미나이의 사용량 제한과 관련된 문제를 해결하는 것이 필요합니다.",
-      "action": "제미나이의 사용량 제한을 명확하게 규정하고 사용자에게 알리는 것이 필요합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "구글 I/O 2026에서 발표된 새로운 기술과 제품을 활용하여 사업을 확장할 수 있습니다.",
-      "action": "구글의 새로운 기술과 제품을 연구하여 사업에 적용하는 것이 필요합니다.",
+      "insight": "클리앙 커뮤니티에서는 정치적인 이슈에 대한 토론이 활발합니다.",
+      "action": "정치적인 이슈에 대한 토론을 통해 고객의 관심을 끌어냅니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 커뮤니티에서 논의되고 있는 주제는 삼성전자 노조, 제미나이, 구글 I/O 2026 등입니다. 삼성전자 노조의 파업과 관련된 논란이 커뮤니티에서 논의되고 있으며, 제미나이의 사용량 제한과 관련된 문제도 논의되고 있습니다. 구글 I/O 2026에서 발표된 새로운 기술과 제품에 대한 논의도 진행되고 있습니다. 이러한 주제를 분석하여 사업을 확장하고 고객의 만족도를 높이는 전략을 수립하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-20T00:00:34.074Z",
-  "post_count": 62,
+  "narrative": "뽐뿌와 클리앙 커뮤니티는 한국의 대표적인 온라인 커뮤니티입니다. 뽐뿌에서는 무료나 할인된 상품에 대한 정보가 인기 있으며, 클리앙에서는 정치적인 이슈에 대한 토론이 활발합니다. 이러한 트렌드를 분석하여 사업 전략을 수립할 수 있습니다. 무료나 할인된 상품을 제공하여 고객을 유혹하거나, 정치적인 이슈에 대한 토론을 통해 고객의 관심을 끌어내는 등 다양한 전략을 수립할 수 있습니다. 또한, 이러한 트렌드를 분석하여 마케팅 캠페인을 진행할 수 있습니다. 예를 들어, 무료나 할인된 상품을 제공하는 마케팅 캠페인을 진행하거나, 정치적인 이슈에 대한 토론을 통해 고객의 관심을 끌어내는 마케팅 캠페인을 진행할 수 있습니다.",
+  "analyzed_at": "2026-05-20T01:30:34.729Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
