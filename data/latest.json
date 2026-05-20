@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 성과급",
-      "summary": "삼성전자와 노조가 성과급 합의를 맺었다. 10년간 적용되는 제도로, 사측과 노조 모두 만족한다.",
+      "topic": "삼성전자 노사 합의",
+      "summary": "삼성전자와 노조가 성과급 합의를 맺었다. 성과급은 12%로 결정되었으며, 자사주 지급도 포함되었다. 이 합의는 삼전 파업을 막는 데 중요한 역할을 했다.",
       "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술 개발",
+      "summary": "구글, 애플, 삼성전자 등 주요 기술 기업들이 AI 기술 개발에 집중하고 있다. 새로운 AI 모델과 서비스가不断 발표되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "노란봉투법",
-      "summary": "노란봉투법이 문제라고 생각하는 사람들이 많다. 약자를 위한 법이 아니라는 의견도 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 발전하고 있다. 구글, 삼성전자 등이 새로운 AI 기술을 개발하고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "국내 경제 및 산업 동향",
+      "summary": "국내 경제 및 산업 동향에 대한 다양한 의견과 분석이 나타났다. 일부에서는 경제 성장에 대한 우려를 나타내고 있으며, 다른 일부에서는 산업 발전을 위한 노력의 필요성을 강조했다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "삼성전자",
-      "count": 20,
+      "count": 12,
       "sentiment": "positive",
-      "context": "성과급 합의"
-    },
-    {
-      "keyword": "노란봉투법",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "문제점"
+      "context": "노사 합의와 성과급 관련 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "신규 기술 개발과 서비스 출시"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "국내 경제 동향과 산업 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자와 노조의 성과급 합의는 양측 모두에게 만족스러운 결과이다.",
-      "action": "노사 관계 개선",
+      "insight": "삼성전자와 노조의 성과급 합의는 산업계에 긍정적인 영향을 미칠 수 있다.",
+      "action": "산업계의 노사 관계 개선에 대한 관심을 높이자",
       "priority": "high"
     },
     {
-      "insight": "노란봉투법은 문제점이 많다. 약자를 위한 법이 아니라는 의견도 있다.",
-      "action": "법 개정",
+      "insight": "AI 기술 개발은 주요 기술 기업들의 핵심 전략이다.",
+      "action": "AI 기술 개발에 대한 투자를 증가시키자",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술은 발전하고 있다. 구글, 삼성전자 등이 새로운 AI 기술을 개발하고 있다.",
-      "action": "AI 기술 투자",
-      "priority": "high"
+      "insight": "국내 경제 및 산업 동향에 대한 다양한 의견과 분석이 필요하다.",
+      "action": "국내 경제 및 산업 동향에 대한 연구와 분석을 수행하자",
+      "priority": "low"
     }
   ],
-  "narrative": "最近のオンラインコミュニティのトレンドを分析した結果、삼성전자 성과급과 노란봉투법が主要なトピックであることがわかった。さらに、AI技術の発展も注目されている。企業はこれらのトレンドを考慮して、ノサ関係の改善、法の改正、AI技術への投資などを行うことが必要である。",
-  "analyzed_at": "2026-05-20T19:00:35.633Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드와 분석 결과를 바탕으로, 산업계와 기술 기업들은 노사 관계 개선과 AI 기술 개발에 대한 관심을 높이고 있다. 이러한 동향은 국내 경제 및 산업 발전에 긍정적인 영향을 미칠 수 있다. 그러나 국내 경제 및 산업 동향에 대한 다양한 의견과 분석이 필요하며, 이를 통해 산업계와 기술 기업들은 더 나은 전략을 수립할 수 있을 것이다.",
+  "analyzed_at": "2026-05-20T20:30:34.870Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
