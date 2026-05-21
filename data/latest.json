@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히, 구글 I/O 2026에서 새롭게 선보인 구글 AI 구독과 삼성전자 AI 글라스 등이 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 관련 주제도 많이 обсужд되고 있습니다. 특히, 코스피 7777과 삼전 하이닉스 성과급 등이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "스벅",
+      "summary": "스벅의 최근 근황과 비공개 영상에 대한 논의",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제도 많이 обсужд되고 있습니다. 특히, 윤석열 대통령의 친일 행보와 박덕흠 국힘의 서울시 안전 점검 문제 등이 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "주식",
+      "summary": "주식 시장의 상승과 하락에 대한 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "high"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 활용에 대한 논의",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "최근 클리앙 커뮤니티에서 AI 관련 주제가 많이 обсужд되고 있습니다."
-    },
-    {
-      "keyword": "삼성전자",
+      "keyword": "스벅",
       "count": 10,
-      "sentiment": "positive",
-      "context": "삼성전자가 구글 I/O 2026에서 AI 글라스를 최초로 선보였습니다."
+      "sentiment": "neutral",
+      "context": "스벅의 최근 근황과 비공개 영상"
     },
     {
       "keyword": "주식",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "경제 및 주식 관련 주제가 많이 обсужд되고 있습니다."
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "주식 시장의 상승과 하락"
+    },
+    {
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 활용"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "클리앙 커뮤니티의 전체적인 분위기는 긍정적입니다."
+    "negative": 10,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 및 기술 관련 주제가 많이 обсужд되고 있습니다.",
-      "action": "AI 및 기술 관련 제품이나 서비스를 개발하여 시장에 출시하는 것을 고려해 볼 수 있습니다.",
+      "insight": "스벅의 마케팅 전략",
+      "action": "스벅의 최근 근황과 비공개 영상에 대한 분석",
+      "priority": "medium"
+    },
+    {
+      "insight": "주식 시장의 동향",
+      "action": "주식 시장의 상승과 하락에 대한 분석",
       "priority": "high"
     },
     {
-      "insight": "경제 및 주식 관련 주제가 많이 обсужд되고 있습니다.",
-      "action": "경제 및 주식 관련 정보를 제공하거나, 관련 제품이나 서비스를 개발하여 시장에 출시하는 것을 고려해 볼 수 있습니다.",
+      "insight": "AI 기술의 활용",
+      "action": "AI 기술의 발전과 활용에 대한 논의",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서最近 많이 обсужд되고 있는 주제는 AI 및 기술, 경제 및 주식, 정치 및 사회 등입니다. 특히, AI 및 기술 관련 주제가 많이 обсужд되고 있으며, 삼성전자가 구글 I/O 2026에서 AI 글라스를 최초로 선보였습니다. 또한, 경제 및 주식 관련 주제도 많이 обсужд되고 있으며, 코스피 7777과 삼전 하이닉스 성과급 등이 주목을 받고 있습니다. 클리앙 커뮤니티의 전체적인 분위기는 긍정적입니다. 따라서, AI 및 기술 관련 제품이나 서비스를 개발하여 시장에 출시하는 것을 고려해 볼 수 있습니다. 또한, 경제 및 주식 관련 정보를 제공하거나, 관련 제품이나 서비스를 개발하여 시장에 출시하는 것을 고려해 볼 수 있습니다.",
-  "analyzed_at": "2026-05-21T05:30:34.684Z",
+  "narrative": "최근 스벅의 비공개 영상과 주식 시장의 동향이 많은 관심을 받고 있습니다. 또한 AI 기술의 발전과 활용에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드에 대한 분석과洞察은 기업의 마케팅 전략과 비즈니스 의사 결정에 중요한 역할을 할 수 있습니다. 따라서 이러한 트렌드에 대한 지속적인 모니터링과 분석이 필요합니다.",
+  "analyzed_at": "2026-05-21T07:00:33.507Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
