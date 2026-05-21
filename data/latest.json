@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 최근 활동과 언론 보도가 주목을 받고 있습니다. 익선동 방문과 박지원의 발언 등이 논란이 되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
       "topic": "삼성전자 성과급",
-      "summary": "삼성전자 성과급이 6억원에 달하는 것으로 보도되었다. 이는 업계에서 큰 관심을 끌고 있다.",
-      "post_count": 2,
-      "sentiment": "neutral",
+      "summary": "삼성전자의 성과급 지급이 논란이 되고 있습니다. 직원들의 반응과 경제적 영향 등이 चर्च되고 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "마이클 잭슨 내한 공연",
-      "summary": "마이클 잭슨의 내한 공연 비화가 유튜브에서 공개되었다. 이는 많은 사람들이 관심을 보이고 있다.",
-      "post_count": 1,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용이 주목을 받고 있습니다. 다양한 산업 분야에서 AI의 활용이 증가하고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "정청래의 5·18 모욕·조롱 처벌법",
-      "summary": "정청래가 5·18 모욕·조롱 처벌법을 내일 제출할 예정이다. 이는 많은 논란을 빚고 있다.",
-      "post_count": 1,
-      "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "이재명",
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 최근 활동과 언론 보도"
+    },
+    {
       "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "성과급과 관련된 키워드"
-    },
-    {
-      "keyword": "마이클 잭슨",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "내한 공연과 관련된 키워드"
-    },
-    {
-      "keyword": "정청래",
-      "count": 1,
+      "count": 5,
       "sentiment": "negative",
-      "context": "5·18 모욕·조롱 처벌법과 관련된 키워드"
+      "context": "삼성전자의 성과급 지급과 경제적 영향"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 다양한 산업 분야에서의 활용"
     }
   ],
   "sentiment_overview": {
-    "positive": 2,
-    "negative": 1,
-    "neutral": 3,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 성과급이 높은 관심을 끌고 있다.",
-      "action": "삼성전자와 관련된 마케팅 전략을 수립해야 한다.",
+      "insight": "이재명 대통령의 최근 활동과 언론 보도가 기업의 브랜드 이미지에 영향을 줄 수 있습니다.",
+      "action": "기업의 브랜드 이미지 관리에 주목할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "마이클 잭슨의 내한 공연이 많은 사람들의 관심을 끌고 있다.",
-      "action": "마이클 잭슨과 관련된 마케팅 전략을 수립해야 한다.",
+      "insight": "삼성전자의 성과급 지급이 직원들의 만족도와 기업의 경쟁력에 영향을 줄 수 있습니다.",
+      "action": "직원들의 만족도와 기업의 경쟁력을 고려한 성과급 지급 방안을 마련할 필요가 있습니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전과 적용이 다양한 산업 분야에서 새로운 기회를 창출할 수 있습니다.",
+      "action": "AI 기술의 발전과 적용을 주목하고, 새로운 기회를 창출하기 위한 전략을 마련할 필요가 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자 성과급과 마이클 잭슨의 내한 공연이 많은 사람들의 관심을 끌고 있다. 또한, 정청래의 5·18 모욕·조롱 처벌법이 많은 논란을 빚고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요하다. 특히, 삼성전자와 마이클 잭슨과 관련된 마케팅 전략을 수립해야 한다. 또한, 정청래의 5·18 모욕·조롱 처벌법과 관련된 마케팅 전략을 수립해야 한다. 이러한 전략을 수립하여 성공적인 마케팅을 할 수 있을 것이다.",
-  "analyzed_at": "2026-05-21T13:00:34.814Z",
+  "narrative": "최근 이재명 대통령의 활동과 언론 보도가 주목을 받고 있습니다. 익선동 방문과 박지원의 발언 등이 논란이 되고 있습니다. 또한, 삼성전자의 성과급 지급이 논란이 되고 있습니다. 직원들의 반응과 경제적 영향 등이 चर्च되고 있습니다. 반면, AI 기술의 발전과 적용이 다양한 산업 분야에서 새로운 기회를 창출할 수 있습니다. 기업들은 이러한 트렌드와 인사이트를 주목하고, 브랜드 이미지 관리, 직원들의 만족도와 경쟁력, 새로운 기회 창출을 위한 전략을 마련할 필요가 있습니다.",
+  "analyzed_at": "2026-05-21T14:30:36.683Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
