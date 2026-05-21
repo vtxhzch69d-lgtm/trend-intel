@@ -1,75 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "고유가 지원금 광탈, 대기업 성과급 잔치, 씁쓸한 양극화",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식 및 투자",
-      "summary": "코스피, 개장 직후 7500 돌파.4%대 급등",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 의견을 나누고 있습니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "이르면 11월부터 전국민 AI 무료사용",
-      "post_count": 6,
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 다양한 기술에 대해 의견을 나누고 있습니다.",
+      "post_count": 50,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "고유가",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "고유가 지원금 광탈"
+      "keyword": "일상생활",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "사용자들이 일상생활과 관련된 주제에 대해 의견을 나눕니다."
     },
     {
-      "keyword": "주식",
-      "count": 8,
+      "keyword": "기술",
+      "count": 30,
       "sentiment": "positive",
-      "context": "코스피, 개장 직후 7500 돌파"
-    },
-    {
-      "keyword": "AI",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "이르면 11월부터 전국민 AI 무료사용"
+      "context": "사용자들이 기술에 대해 의견을 나눕니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 비중이 높지만, 긍정적인 감정도 존재"
+    "positive": 40,
+    "negative": 20,
+    "neutral": 40,
+    "overall_mood": "사용자들은 다양한 주제에 대해 의견을 나누고 있으며, 전반적으로 중립적인 분위기입니다."
   },
   "business_insights": [
     {
-      "insight": "고유가 지원금의 부족은 소비자들의 불만을 높이고 있다",
-      "action": "정부의 경제 정책을 재검토할 필요가 있다",
+      "insight": "사용자들은 다양한 주제에 대해 의견을 나누고 있습니다.",
+      "action": "마케팅 전략을 개발하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 상승은 투자자들의 기대감을 높이고 있다",
-      "action": "투자자들에게 주식 시장의 동향을 제공할 필요가 있다",
+      "insight": "기술에 관련된 주제가 인기 있습니다.",
+      "action": "기술에 관련된 콘텐츠를 개발하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미치고 있다",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용할 수 있는 방법을 찾을 필요가 있다",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 고유가 지원금의 부족과 주식 시장의 상승이 주요 관심사로 나타났습니다. 또한, AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다. 이러한 트렌드에 따라, 정부의 경제 정책을 재검토하고, 투자자들에게 주식 시장의 동향을 제공하며, AI 기술의 발전을 주시할 필요가 있습니다. 이러한 노력으로, 소비자들의 불만을 줄이고, 투자자들의 기대감을 높이며, 산업의 발전을 도모할 수 있을 것입니다.",
-  "analyzed_at": "2026-05-21T01:00:33.731Z",
-  "post_count": 62,
+  "narrative": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 기술에 관련된 주제입니다. 사용자들은 다양한 주제에 대해 의견을 나누고 있으며, 전반적으로 중립적인 분위기입니다. 마케팅 전략을 개발하여 사용자들의 관심을 끌어야 하며, 기술에 관련된 콘텐츠를 개발하여 사용자들의 관심을 끌어야 합니다. 또한, 사용자들의 의견을 분석하여 더 나은 서비스를 제공해야 합니다.",
+  "analyzed_at": "2026-05-21T02:30:33.691Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
