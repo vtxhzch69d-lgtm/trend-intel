@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자 관련 뉴스와 논란",
+      "topic": "경제 및 금융",
+      "summary": "고유가 지원금 광탈, 대기업 성과급 잔치, 씁쓸한 양극화",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "주식 및 투자",
+      "summary": "코스피, 개장 직후 7500 돌파.4%대 급등",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용",
-      "post_count": 15,
+      "topic": "기술 및 AI",
+      "summary": "이르면 11월부터 전국민 AI 무료사용",
+      "post_count": 6,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치 및 선거",
-      "summary": "정치와 선거 관련 뉴스와 논란",
-      "post_count": 12,
-      "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "기업 뉴스"
+      "keyword": "고유가",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "고유가 지원금 광탈"
+    },
+    {
+      "keyword": "주식",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "코스피, 개장 직후 7500 돌파"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 6,
       "sentiment": "positive",
-      "context": "기술 발전"
-    },
-    {
-      "keyword": "유시민",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 논란"
+      "context": "이르면 11월부터 전국민 AI 무료사용"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 비중이 높지만, 긍정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "고유가 지원금의 부족은 소비자들의 불만을 높이고 있다",
+      "action": "정부의 경제 정책을 재검토할 필요가 있다",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 관련 뉴스와 논란",
-      "action": "삼성전자와의 파트너십 강화",
+      "insight": "주식 시장의 상승은 투자자들의 기대감을 높이고 있다",
+      "action": "투자자들에게 주식 시장의 동향을 제공할 필요가 있다",
       "priority": "medium"
     },
     {
-      "insight": "정치와 선거 관련 뉴스와 논란",
-      "action": "정치와 선거 관련된 마케팅 캠페인 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미치고 있다",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용할 수 있는 방법을 찾을 필요가 있다",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 적용이 가장 많이 논의되고 있습니다. 또한, 삼성전자와 관련된 뉴스와 논란이 많으며, 정치와 선거 관련된 뉴스와 논란도 많습니다. 이러한 트렌드를 고려하여, AI 기술을 활용한 비즈니스 모델 개발과 삼성전자와의 파트너십 강화가 중요할 것으로 보입니다. 또한, 정치와 선거 관련된 마케팅 캠페인 개발도 고려할 수 있습니다.",
-  "analyzed_at": "2026-05-20T23:30:33.506Z",
+  "narrative": "최근의 트렌드 분석 결과, 고유가 지원금의 부족과 주식 시장의 상승이 주요 관심사로 나타났습니다. 또한, AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다. 이러한 트렌드에 따라, 정부의 경제 정책을 재검토하고, 투자자들에게 주식 시장의 동향을 제공하며, AI 기술의 발전을 주시할 필요가 있습니다. 이러한 노력으로, 소비자들의 불만을 줄이고, 투자자들의 기대감을 높이며, 산업의 발전을 도모할 수 있을 것입니다.",
+  "analyzed_at": "2026-05-21T01:00:33.731Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
