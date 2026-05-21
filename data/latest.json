@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령의 최근 활동과 언론 보도가 주목을 받고 있습니다. 익선동 방문과 박지원의 발언 등이 논란이 되고 있습니다.",
+      "topic": "삼성전자 성과급",
+      "summary": "삼성전자 성과급 문제로 인해 직원들의 불만이 높아지고 있다. 일부 직원들은 성과급 지급이 부당하다고 주장하며 불만을 표현하고 있다.",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자 성과급",
-      "summary": "삼성전자의 성과급 지급이 논란이 되고 있습니다. 직원들의 반응과 경제적 영향 등이 चर्च되고 있습니다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 최근 활동이 클리앙 커뮤니티에서 논란이 되고 있다. 일부 이용자들은 대통령의 행동이 적절하지 않다고 주장하며 비판하고 있다.",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용이 주목을 받고 있습니다. 다양한 산업 분야에서 AI의 활용이 증가하고 있습니다.",
+      "summary": "AI 기술이 최근 클리앙 커뮤니티에서 많이 논의되고 있다. 일부 이용자들은 AI 기술의 발전이 인간의 일자리를 대체할 수 있다고 우려하고 있다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 7,
-      "sentiment": "mixed",
-      "context": "이재명 대통령의 최근 활동과 언론 보도"
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "성과급 문제로 인한 불만"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "negative",
-      "context": "삼성전자의 성과급 지급과 경제적 영향"
+      "sentiment": "mixed",
+      "context": "대통령의 행동에 대한 비판"
     },
     {
       "keyword": "AI",
       "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업 분야에서의 활용"
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 우려"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령의 최근 활동과 언론 보도가 기업의 브랜드 이미지에 영향을 줄 수 있습니다.",
-      "action": "기업의 브랜드 이미지 관리에 주목할 필요가 있습니다.",
+      "insight": "삼성전자 성과급 문제는 직원들의 불만을 높이고 있다.",
+      "action": "성과급 지급 방식을 개선해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 성과급 지급이 직원들의 만족도와 기업의 경쟁력에 영향을 줄 수 있습니다.",
-      "action": "직원들의 만족도와 기업의 경쟁력을 고려한 성과급 지급 방안을 마련할 필요가 있습니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전과 적용이 다양한 산업 분야에서 새로운 기회를 창출할 수 있습니다.",
-      "action": "AI 기술의 발전과 적용을 주목하고, 새로운 기회를 창출하기 위한 전략을 마련할 필요가 있습니다.",
+      "insight": "AI 기술의 발전은 인간의 일자리를 대체할 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 대책을 마련해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 이재명 대통령의 활동과 언론 보도가 주목을 받고 있습니다. 익선동 방문과 박지원의 발언 등이 논란이 되고 있습니다. 또한, 삼성전자의 성과급 지급이 논란이 되고 있습니다. 직원들의 반응과 경제적 영향 등이 चर्च되고 있습니다. 반면, AI 기술의 발전과 적용이 다양한 산업 분야에서 새로운 기회를 창출할 수 있습니다. 기업들은 이러한 트렌드와 인사이트를 주목하고, 브랜드 이미지 관리, 직원들의 만족도와 경쟁력, 새로운 기회 창출을 위한 전략을 마련할 필요가 있습니다.",
-  "analyzed_at": "2026-05-21T14:30:36.683Z",
+  "narrative": "클리앙 커뮤니티에서는 최근 삼성전자 성과급 문제와 이재명 대통령의 행동이 논란이 되고 있다. 또한 AI 기술의 발전이 인간의 일자리를 대체할 수 있다는 우려도 존재한다. 이러한 문제들에 대한 대책을 마련하고 직원들의 불만을 해소해야 한다. 또한 AI 기술의 발전을 주시하고 대책을 마련해야 한다.",
+  "analyzed_at": "2026-05-21T16:00:35.863Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
