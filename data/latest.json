@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스벅",
-      "summary": "스벅의 최근 상황과 고객들의 반응",
-      "post_count": 10,
+      "topic": "정치 및 사회",
+      "summary": "최근 정치 및 사회 관련 게시물이 많은 것으로 나타났습니다. 특히, 박민식, 한동훈, 조국 등 정치인 관련 게시물과 노동자 권익, 경제 정책 등 사회 관련 게시물이 많았습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 게임",
+      "summary": "최근 기술 및 게임 관련 게시물이 많은 것으로 나타났습니다. 특히, AI, OLED, 게이밍 모니터 등 기술 관련 게시물과 게임 수익순위, 게임 관련 뉴스 등 게임 관련 게시물이 많았습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치적인 이슈와 사건",
+      "topic": "경제 및 산업",
+      "summary": "최근 경제 및 산업 관련 게시물이 많은 것으로 나타났습니다. 특히, 재벌, 기업, 경제 정책 등 경제 관련 게시물과 산업 관련 뉴스 등 산업 관련 게시물이 많았습니다.",
       "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "스벅",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "스벅의 최근 상황과 고객들의 반응"
-    },
-    {
       "keyword": "AI",
-      "count": 20,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+      "context": "AI 기술의 발전과 적용에 대한 관심이 높습니다."
     },
     {
       "keyword": "정치",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치적인 이슈와 사건"
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 관련 게시물이 많았으며, 다양한 정치적 의견이 나타났습니다."
+    },
+    {
+      "keyword": "게임",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "게임 관련 게시물이 많았으며, 게임에 대한 관심이 높습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적인 분위기이지만, 일부 긍정적인 게시물이 있습니다."
   },
   "business_insights": [
     {
-      "insight": "스벅의 최근 상황과 고객들의 반응",
-      "action": "마케팅 전략의 조정",
+      "insight": "AI 기술의 발전과 적용에 대한 관심이 높습니다.",
+      "action": "AI 기술을 활용한 서비스 개발을 고려해야 합니다.",
+      "priority": "high"
+    },
+    {
+      "insight": "게임 관련 게시물이 많았으며, 게임에 대한 관심이 높습니다.",
+      "action": "게임 관련 서비스 개발을 고려해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전과 다양한 산업에서의 적용",
-      "action": "AI 기술의 도입과 활용",
-      "priority": "high"
-    },
-    {
-      "insight": "정치적인 이슈와 사건",
-      "action": "정책적인 대응과 준비",
-      "priority": "high"
+      "insight": "재벌, 기업, 경제 정책 등 경제 관련 게시물이 많았습니다.",
+      "action": "경제 정책과 산업 동향을 주시해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드는 스벅, AI, 정치 등으로 나타났습니다. 스벅의 최근 상황과 고객들의 반응은 중립적인 반응을 보였으며, AI 기술의 발전과 다양한 산업에서의 적용은 긍정적인 반응을 보였습니다. 정치적인 이슈와 사건은 부정적인 반응을 보였습니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 조정하고, AI 기술의 도입과 활용, 정책적인 대응과 준비를 통해 사업을 발전시킬 수 있습니다.",
-  "analyzed_at": "2026-05-21T08:30:33.660Z",
+  "narrative": "최근 정치 및 사회 관련 게시물이 많은 것으로 나타났습니다. 특히, 박민식, 한동훈, 조국 등 정치인 관련 게시물과 노동자 권익, 경제 정책 등 사회 관련 게시물이 많았습니다. 또한, 기술 및 게임 관련 게시물이 많았으며, AI, OLED, 게이밍 모니터 등 기술 관련 게시물과 게임 수익순위, 게임 관련 뉴스 등 게임 관련 게시물이 많았습니다. 이러한 게시물은 중립적인 분위기이지만, 일부 긍정적인 게시물이 있습니다. 따라서, AI 기술의 발전과 적용에 대한 관심이 높으며, 게임 관련 서비스 개발을 고려해야 합니다. 또한, 경제 정책과 산업 동향을 주시해야 합니다.",
+  "analyzed_at": "2026-05-21T10:00:34.516Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
