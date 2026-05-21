@@ -1,56 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 обсужд하고 의견을 공유합니다.",
-      "post_count": 1000,
-      "sentiment": "mixed",
+      "topic": "노동법 및 노조",
+      "summary": "대법원은 노란봉투법이 소급 적용되지 않는다는 판결을 내렸으며, 삼성전자와 노조 간의 갈등이 지속되고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목받고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 최신 기술 트렌드와 관련된 주제에 대해 обсужд하고 의견을 공유합니다.",
-      "post_count": 500,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "경제 및 주식",
+      "summary": "주식 시장의 상승과 하락, 경제적 불안정성에 대한 우려가 계속되고 있다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "일상생활",
-      "count": 500,
-      "sentiment": "neutral",
-      "context": "사용자들이 일상생활과 관련된 주제에 대해 обсужд합니다."
+      "keyword": "노동법",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "노동법과 관련된 논란"
     },
     {
-      "keyword": "기술",
-      "count": 300,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "사용자들이 최신 기술 트렌드와 관련된 주제에 대해 обсужд합니다."
+      "context": "AI 기술의 발전과 산업적 적용"
+    },
+    {
+      "keyword": "주식",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "주식 시장의 변동성"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "사용자들은 다양한 주제에 대해 обсражд하고 의견을 공유하며, 전반적으로 중립적인 분위기입니다."
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적이지만 약간 부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 일상생활과 기술에 대한 주제에 대해 관심이 많습니다.",
-      "action": "마케팅 전략을 개발하여 이러한 주제에 대한 사용자의 관심을滿足시키는 콘텐츠를 제공합니다.",
+      "insight": "노동법과 노조 간의 갈등은 기업의 경영 안정성에 영향을 미칠 수 있다.",
+      "action": "노동법과 노조 간의 관계를 주시하고, 경영 안정성을 위한 대책을 마련해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 다양한 주제에 대해 обс쟁하고 의견을 공유합니다.",
-      "action": "커뮤니티 기능을 강화하여 사용자들이 더 쉽게 의견을 공유할 수 있도록 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용한 새로운 비즈니스 모델을 개발해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌와 클리앙 커뮤니티는 사용자들이 다양한 주제에 대해 обс쟁하고 의견을 공유하는 플랫폼입니다. 사용자들은 일상생활과 기술에 대한 주제에 대해 관심이 많으며, 이러한 주제에 대한 콘텐츠를 제공하는 마케팅 전략을 개발하는 것이 중요합니다. 또한, 커뮤니티 기능을 강화하여 사용자들이 더 쉽게 의견을 공유할 수 있도록 하는 것이 필요합니다. 이러한 전략을 통해 사용자들의 관심을滿足시키고, 커뮤니티의 활성화를 도모할 수 있습니다.",
-  "analyzed_at": "2026-05-21T21:30:34.280Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드 분석 결과, 노동법과 노조 간의 갈등, AI 기술의 발전, 경제 및 주식 시장의 변동성 등이 주요 관심사로 나타났다. 이러한 트렌드들은 기업의 경영 안정성과 비즈니스 모델에 영향을 미칠 수 있으므로, 이를 주시하고 대책을 마련하는 것이 중요하다. 또한, AI 기술의 발전을 주시하고, 이를 활용한 새로운 비즈니스 모델을 개발하는 것이 필요하다.",
+  "analyzed_at": "2026-05-21T23:00:34.349Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
