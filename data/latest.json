@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스벅 불매 운동",
-      "summary": "스벅 불매 운동이 클리앙 커뮤니티에서 논의되고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "삼성전자 쟁의행위",
-      "summary": "삼성전자 쟁의행위에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다.",
-      "post_count": 3,
+      "topic": "삼성전자 성과급",
+      "summary": "삼성전자 성과급이 6억원에 달하는 것으로 보도되었다. 이는 업계에서 큰 관심을 끌고 있다.",
+      "post_count": 2,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "AI 기술 개발에 대한 뉴스와 논의가 클리앙 커뮤니티에서 진행되고 있다.",
-      "post_count": 10,
+      "topic": "마이클 잭슨 내한 공연",
+      "summary": "마이클 잭슨의 내한 공연 비화가 유튜브에서 공개되었다. 이는 많은 사람들이 관심을 보이고 있다.",
+      "post_count": 1,
       "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "정청래의 5·18 모욕·조롱 처벌법",
+      "summary": "정청래가 5·18 모욕·조롱 처벌법을 내일 제출할 예정이다. 이는 많은 논란을 빚고 있다.",
+      "post_count": 1,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "스벅",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "불매 운동"
-    },
-    {
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 3,
       "sentiment": "neutral",
-      "context": "쟁의행위"
+      "context": "성과급과 관련된 키워드"
     },
     {
-      "keyword": "AI",
-      "count": 15,
+      "keyword": "마이클 잭슨",
+      "count": 2,
       "sentiment": "positive",
-      "context": "기술 개발"
+      "context": "내한 공연과 관련된 키워드"
+    },
+    {
+      "keyword": "정청래",
+      "count": 1,
+      "sentiment": "negative",
+      "context": "5·18 모욕·조롱 처벌법과 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
+    "positive": 2,
+    "negative": 1,
+    "neutral": 3,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "스벅 불매 운동에 대한 대응 필요",
-      "action": "마케팅 전략 수정",
+      "insight": "삼성전자 성과급이 높은 관심을 끌고 있다.",
+      "action": "삼성전자와 관련된 마케팅 전략을 수립해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 쟁의행위에 대한 관심 증가",
-      "action": "사내 커뮤니케이션 강화",
+      "insight": "마이클 잭슨의 내한 공연이 많은 사람들의 관심을 끌고 있다.",
+      "action": "마이클 잭슨과 관련된 마케팅 전략을 수립해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 기술 개발에 대한 투자 필요",
-      "action": "연구 개발 투자 증가",
-      "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 스벅 불매 운동과 삼성전자 쟁의행위에 대한 논의가 진행되고 있다. 또한, AI 기술 개발에 대한 뉴스와 논의가 많은 관심을 받고 있다. 이러한 트렌드에 대한 분석을 통해 마케터는 자신의 브랜드와 제품에 대한 전략을 수정하고, 새로운 기회를 찾을 수 있을 것이다. 특히, 스벅 불매 운동에 대한 대응과 AI 기술 개발에 대한 투자는 높은 우선순위를 갖는다고 할 수 있다.",
-  "analyzed_at": "2026-05-21T11:30:34.010Z",
+  "narrative": "최근의 트렌드 분석 결과, 삼성전자 성과급과 마이클 잭슨의 내한 공연이 많은 사람들의 관심을 끌고 있다. 또한, 정청래의 5·18 모욕·조롱 처벌법이 많은 논란을 빚고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요하다. 특히, 삼성전자와 마이클 잭슨과 관련된 마케팅 전략을 수립해야 한다. 또한, 정청래의 5·18 모욕·조롱 처벌법과 관련된 마케팅 전략을 수립해야 한다. 이러한 전략을 수립하여 성공적인 마케팅을 할 수 있을 것이다.",
+  "analyzed_at": "2026-05-21T13:00:34.814Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
