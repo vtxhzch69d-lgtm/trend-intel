@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "최근 정치 및 사회 관련 게시물이 많은 것으로 나타났습니다. 특히, 박민식, 한동훈, 조국 등 정치인 관련 게시물과 노동자 권익, 경제 정책 등 사회 관련 게시물이 많았습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 게임",
-      "summary": "최근 기술 및 게임 관련 게시물이 많은 것으로 나타났습니다. 특히, AI, OLED, 게이밍 모니터 등 기술 관련 게시물과 게임 수익순위, 게임 관련 뉴스 등 게임 관련 게시물이 많았습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "스벅 불매 운동",
+      "summary": "스벅 불매 운동이 클리앙 커뮤니티에서 논의되고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "최근 경제 및 산업 관련 게시물이 많은 것으로 나타났습니다. 특히, 재벌, 기업, 경제 정책 등 경제 관련 게시물과 산업 관련 뉴스 등 산업 관련 게시물이 많았습니다.",
-      "post_count": 8,
+      "topic": "삼성전자 쟁의행위",
+      "summary": "삼성전자 쟁의행위에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다.",
+      "post_count": 3,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술 개발",
+      "summary": "AI 기술 개발에 대한 뉴스와 논의가 클리앙 커뮤니티에서 진행되고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용에 대한 관심이 높습니다."
+      "keyword": "스벅",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "불매 운동"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 관련 게시물이 많았으며, 다양한 정치적 의견이 나타났습니다."
-    },
-    {
-      "keyword": "게임",
+      "keyword": "삼성전자",
       "count": 5,
+      "sentiment": "neutral",
+      "context": "쟁의행위"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "게임 관련 게시물이 많았으며, 게임에 대한 관심이 높습니다."
+      "context": "기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적인 분위기이지만, 일부 긍정적인 게시물이 있습니다."
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용에 대한 관심이 높습니다.",
-      "action": "AI 기술을 활용한 서비스 개발을 고려해야 합니다.",
+      "insight": "스벅 불매 운동에 대한 대응 필요",
+      "action": "마케팅 전략 수정",
       "priority": "high"
     },
     {
-      "insight": "게임 관련 게시물이 많았으며, 게임에 대한 관심이 높습니다.",
-      "action": "게임 관련 서비스 개발을 고려해야 합니다.",
+      "insight": "삼성전자 쟁의행위에 대한 관심 증가",
+      "action": "사내 커뮤니케이션 강화",
       "priority": "medium"
     },
     {
-      "insight": "재벌, 기업, 경제 정책 등 경제 관련 게시물이 많았습니다.",
-      "action": "경제 정책과 산업 동향을 주시해야 합니다.",
-      "priority": "low"
+      "insight": "AI 기술 개발에 대한 투자 필요",
+      "action": "연구 개발 투자 증가",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 정치 및 사회 관련 게시물이 많은 것으로 나타났습니다. 특히, 박민식, 한동훈, 조국 등 정치인 관련 게시물과 노동자 권익, 경제 정책 등 사회 관련 게시물이 많았습니다. 또한, 기술 및 게임 관련 게시물이 많았으며, AI, OLED, 게이밍 모니터 등 기술 관련 게시물과 게임 수익순위, 게임 관련 뉴스 등 게임 관련 게시물이 많았습니다. 이러한 게시물은 중립적인 분위기이지만, 일부 긍정적인 게시물이 있습니다. 따라서, AI 기술의 발전과 적용에 대한 관심이 높으며, 게임 관련 서비스 개발을 고려해야 합니다. 또한, 경제 정책과 산업 동향을 주시해야 합니다.",
-  "analyzed_at": "2026-05-21T10:00:34.516Z",
+  "narrative": "클리앙 커뮤니티에서 스벅 불매 운동과 삼성전자 쟁의행위에 대한 논의가 진행되고 있다. 또한, AI 기술 개발에 대한 뉴스와 논의가 많은 관심을 받고 있다. 이러한 트렌드에 대한 분석을 통해 마케터는 자신의 브랜드와 제품에 대한 전략을 수정하고, 새로운 기회를 찾을 수 있을 것이다. 특히, 스벅 불매 운동에 대한 대응과 AI 기술 개발에 대한 투자는 높은 우선순위를 갖는다고 할 수 있다.",
+  "analyzed_at": "2026-05-21T11:30:34.010Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
