@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남 대부업체 운영 의혹",
-      "summary": "김용남 후보의 대부업체 운영 의혹이 제기되었습니다. 녹취록이 공개되어 논란이 되고 있습니다.",
-      "post_count": 5,
+      "topic": "김용남",
+      "summary": "김용남 관련 의혹과 논란",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "스벅 사태",
-      "summary": "스타벅스에서 발생한 사태가 논란이 되고 있습니다. 커머스팀의 잘못된 마케팅 전략이 문제가 되고 있습니다.",
-      "post_count": 4,
+      "summary": "스타벅스 관련 논란과 사과",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있습니다. 가짜 뉴스와의 전쟁, AI칩 개발 등이 주요 주제입니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 논란",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "김용남",
-      "count": 7,
+      "count": 15,
       "sentiment": "negative",
-      "context": "대부업체 운영 의혹"
+      "context": "의혹과 논란"
     },
     {
       "keyword": "스벅",
-      "count": 4,
+      "count": 10,
       "sentiment": "negative",
-      "context": "사태"
+      "context": "사태와 논란"
     },
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 개발"
+      "keyword": "경제",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "뉴스와 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
+    "positive": 10,
+    "negative": 30,
+    "neutral": 40,
     "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "김용남 대부업체 운영 의혹은 정치적 문제입니다.",
-      "action": "정치적 문제에 대한 대응",
+      "insight": "김용남 관련 의혹과 논란",
+      "action": "브랜드 이미지 관리",
       "priority": "high"
     },
     {
-      "insight": "스벅 사태는 마케팅 전략의 문제입니다.",
-      "action": "마케팅 전략의 개선",
+      "insight": "스벅 사태와 논란",
+      "action": "고객 서비스 개선",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술은 다양한 분야에서 적용되고 있습니다.",
-      "action": "AI 기술의 개발과 적용",
-      "priority": "low"
+      "insight": "경제 관련 뉴스와 논란",
+      "action": "경제 동향 분석",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 김용남 대부업체 운영 의혹과 스벅 사태가 주요 주제입니다. AI 기술은 다양한 분야에서 적용되고 있습니다. 정치적 문제와 마케팅 전략의 개선이 필요합니다. 또한, AI 기술의 개발과 적용이 중요합니다. 이러한 트렌드는 기업과 마케터에게 중요한 인사이트를 제공합니다.",
-  "analyzed_at": "2026-05-22T20:30:34.929Z",
+  "narrative": "최근 클리앙 커뮤니티에서 김용남 관련 의혹과 논란, 스타벅스 사태와 논란, 경제 관련 뉴스와 논란이 주목을 받았습니다. 김용남 관련 의혹과 논란은 브랜드 이미지 관리가 필요하며, 스타벅스 사태와 논란은 고객 서비스 개선이 필요합니다. 또한, 경제 관련 뉴스와 논란은 경제 동향 분석이 필요합니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-22T22:00:33.506Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
