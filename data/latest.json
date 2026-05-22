@@ -1,72 +1,85 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제에 대한 논의와 의견",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "스페이스X",
+      "summary": "스페이스X가 전세계 시총 1위 할거란 주장까지도 나오는군요.",
+      "post_count": 1,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업의 동향과 발전",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "김용남, 멍든 조국에 '파란색 얼마나 부러우면'…혁신당 '조롱 그만'",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "외환당국, 환율 구두개입…“필요시 단호 조치”",
+      "post_count": 2,
       "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "웨이모, 해커와 DIY 애호가를 위한 리눅스 기반 네트워킹 기기 공개",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "keyword": "스페이스X",
+      "count": 1,
+      "sentiment": "neutral",
+      "context": "스페이스X가 전세계 시총 1위 할거란 주장까지도 나오는군요."
     },
     {
       "keyword": "정치",
-      "count": 15,
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치 및 사회 문제"
+      "context": "김용남, 멍든 조국에 '파란색 얼마나 부러우면'…혁신당 '조롱 그만'"
     },
     {
       "keyword": "경제",
-      "count": 10,
+      "count": 4,
       "sentiment": "neutral",
-      "context": "경제 및 산업의 동향"
+      "context": "외환당국, 환율 구두개입…“필요시 단호 조치”"
+    },
+    {
+      "keyword": "기술",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "웨이모, 해커와 DIY 애호가를 위한 리눅스 기반 네트워킹 기기 공개"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
+    "positive": 10,
+    "negative": 5,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
-      "action": "AI 기술의 연구와 개발에 투자",
+      "insight": "스페이스X의 성장 가능성",
+      "action": "투자",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 문제는 소비자의 의견과 행동에 영향을 줄 수 있다",
-      "action": "소비자의 의견과 행동을 분석하고 대응",
+      "insight": "정치적 불안정성",
+      "action": "위험 관리",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 산업의 동향은 기업의 전략과 계획에 영향을 줄 수 있다",
-      "action": "경제 및 산업의 동향을 분석하고 전략을 수립",
+      "insight": "기술의 발전",
+      "action": "연구 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 정치 및 사회 문제, 경제 및 산업의 동향이 주요한 주제로 나타났다. 이러한 트렌드와 키워드는 기업의 전략과 계획에 영향을 줄 수 있으며, 소비자의 의견과 행동을 분석하고 대응하는 것이 중요하다. 또한, AI 기술의 연구와 개발에 투자하고, 경제 및 산업의 동향을 분석하고 전략을 수립하는 것이 필요하다.",
-  "analyzed_at": "2026-05-22T08:00:34.163Z",
+  "narrative": "최근의 트렌드는 스페이스X, 정치, 경제, 기술 등 다양한 주제로 구성되어 있습니다. 스페이스X는 전세계 시총 1위 할거란 주장까지도 나오는군요. 정치적으로는 김용남, 멍든 조국에 '파란색 얼마나 부러우면'…혁신당 '조롱 그만' 등의 뉴스가 있습니다. 경제적으로는 외환당국, 환율 구두개입…“필요시 단호 조치” 등의 뉴스가 있습니다. 기술적으로는 웨이모, 해커와 DIY 애호가를 위한 리눅스 기반 네트워킹 기기 공개 등의 뉴스가 있습니다. 이러한 트렌드들은 기업의 투자, 위험 관리, 연구 개발 등 다양한 비즈니스 인사이트를 제공합니다.",
+  "analyzed_at": "2026-05-22T09:30:34.597Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
