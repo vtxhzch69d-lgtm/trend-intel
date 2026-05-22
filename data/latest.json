@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남",
-      "summary": "김용남 관련 의혹과 논란",
-      "post_count": 10,
+      "topic": "김용남 관련 논란",
+      "summary": "김용남의 직업과 대부업체 운영에 대한 논란이 클리앙 커뮤니티에서 논의되고 있다. 일부 사용자는 김용남의 행동을 비판하며, 다른 사용자는 그의 행동을 옹호하고 있다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "스타벅스 사태",
+      "summary": "스타벅스에서 발생한 사태에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다. 일부 사용자는 스타벅스의 행동을 비판하며, 다른 사용자는 사태의 원인을 분석하고 있다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "스벅 사태",
-      "summary": "스타벅스 관련 논란과 사과",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 논란",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "기술 및 산업 동향",
+      "summary": "최신 기술 및 산업 동향에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다. 일부 사용자는 새로운 기술의 개발과 산업의 미래에 대해 논의하고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "김용남",
-      "count": 15,
+      "count": 7,
       "sentiment": "negative",
-      "context": "의혹과 논란"
+      "context": "김용남의 직업과 대부업체 운영에 대한 논란"
     },
     {
-      "keyword": "스벅",
-      "count": 10,
+      "keyword": "스타벅스",
+      "count": 3,
       "sentiment": "negative",
-      "context": "사태와 논란"
+      "context": "스타벅스에서 발생한 사태"
     },
     {
-      "keyword": "경제",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "뉴스와 논란"
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 및 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "부정적인 감정"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "김용남 관련 의혹과 논란",
-      "action": "브랜드 이미지 관리",
+      "insight": "김용남 관련 논란은 정치 및 사회적인 문제로 확대될 수 있다.",
+      "action": "관련 주제에 대한 감시 및 분석",
       "priority": "high"
     },
     {
-      "insight": "스벅 사태와 논란",
-      "action": "고객 서비스 개선",
+      "insight": "스타벅스 사태는 소비자들의 신뢰를 잃을 수 있다.",
+      "action": "스타벅스의 대응 및 소비자들의 반응 분석",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 뉴스와 논란",
-      "action": "경제 동향 분석",
-      "priority": "medium"
+      "insight": "최신 기술 및 산업 동향은 새로운 기회를 창출할 수 있다.",
+      "action": "최신 기술 및 산업 동향에 대한 연구 및 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 김용남 관련 의혹과 논란, 스타벅스 사태와 논란, 경제 관련 뉴스와 논란이 주목을 받았습니다. 김용남 관련 의혹과 논란은 브랜드 이미지 관리가 필요하며, 스타벅스 사태와 논란은 고객 서비스 개선이 필요합니다. 또한, 경제 관련 뉴스와 논란은 경제 동향 분석이 필요합니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-22T22:00:33.506Z",
+  "narrative": "클리앙 커뮤니티에서 논의되는 주제는 김용남 관련 논란, 스타벅스 사태, 최신 기술 및 산업 동향 등이다. 이러한 주제는 정치, 사회, 경제적인 측면에서 분석될 수 있다. 마케터들은 이러한 주제에 대한 감시 및 분석을 통해 소비자들의 반응을 이해하고, 새로운 기회를 창출할 수 있다. 또한, 최신 기술 및 산업 동향에 대한 연구 및 분석을 통해 미래의 시장 동향을 예측할 수 있다.",
+  "analyzed_at": "2026-05-22T23:30:34.739Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
