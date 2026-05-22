@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "김용남 대부업체 운영 의혹",
-      "summary": "김용남 후보의 대부업체 운영 의혹이 논란이 되고 있습니다. 녹취록이 공개되어 논란이 커지고 있습니다.",
+      "summary": "김용남 후보의 대부업체 운영 의혹이 제기되었습니다. 녹취록이 공개되어 논란이 되고 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "스벅 사태",
-      "summary": "스타벅스에서 발생한 사태가 논란이 되고 있습니다. 커머스팀이 조직도에서 삭제되었습니다.",
-      "post_count": 3,
+      "summary": "스타벅스에서 발생한 사태가 논란이 되고 있습니다. 커머스팀의 잘못된 마케팅 전략이 문제가 되고 있습니다.",
+      "post_count": 4,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술이 발전하고 있습니다. 다양한 분야에서 적용되고 있습니다.",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있습니다. 가짜 뉴스와의 전쟁, AI칩 개발 등이 주요 주제입니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
@@ -31,7 +31,7 @@
     },
     {
       "keyword": "스벅",
-      "count": 3,
+      "count": 4,
       "sentiment": "negative",
       "context": "사태"
     },
@@ -39,34 +39,34 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
     "negative": 20,
     "neutral": 10,
-    "overall_mood": "부정적인 기분이 우세합니다."
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "김용남 대부업체 운영 의혹은 정치적인 문제로 보입니다.",
-      "action": "정치적인 문제에 대한 대응을 준비해야 합니다.",
+      "insight": "김용남 대부업체 운영 의혹은 정치적 문제입니다.",
+      "action": "정치적 문제에 대한 대응",
       "priority": "high"
     },
     {
-      "insight": "스벅 사태는 고객 서비스에 대한 문제입니다.",
-      "action": "고객 서비스를 개선해야 합니다.",
+      "insight": "스벅 사태는 마케팅 전략의 문제입니다.",
+      "action": "마케팅 전략의 개선",
       "priority": "medium"
     },
     {
       "insight": "AI 기술은 다양한 분야에서 적용되고 있습니다.",
-      "action": "AI 기술을 활용하여 비즈니스 모델을 개선해야 합니다.",
+      "action": "AI 기술의 개발과 적용",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 김용남 대부업체 운영 의혹과 스벅 사태가 주를 이루고 있습니다. 이러한 문제는 정치적인 문제와 고객 서비스에 대한 문제입니다. 또한, AI 기술은 다양한 분야에서 적용되고 있습니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개선하고 고객 서비스를 향상시키는 방안을 모색해야 합니다. 또한, 정치적인 문제에 대한 대응을 준비해야 합니다.",
-  "analyzed_at": "2026-05-22T19:00:34.149Z",
+  "narrative": "최근의 트렌드는 김용남 대부업체 운영 의혹과 스벅 사태가 주요 주제입니다. AI 기술은 다양한 분야에서 적용되고 있습니다. 정치적 문제와 마케팅 전략의 개선이 필요합니다. 또한, AI 기술의 개발과 적용이 중요합니다. 이러한 트렌드는 기업과 마케터에게 중요한 인사이트를 제공합니다.",
+  "analyzed_at": "2026-05-22T20:30:34.929Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
