@@ -1,75 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 충전금 환불",
-      "summary": "스타벅스 충전금 환불 실패 사례가 논란이 되고 있습니다. 일부 고객들은 환불을 받지 못하고 있습니다.",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "삼성역 철근 누락",
-      "summary": "삼성역 철근 누락 사건이 논란이 되고 있습니다. 일부 네티즌들은 안전 문제를 우려하고 있습니다.",
-      "post_count": 3,
+      "topic": "경제",
+      "summary": "최근 경제 상황에 대한 우려와 불안감이 증가하고 있습니다.",
+      "post_count": 500,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있습니다. 일부 네티즌들은 AI 기술의 발전에 관심을 보이고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치적 불안정과 사회적 분열이 증가하고 있습니다.",
+      "post_count": 300,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "스타벅스",
-      "count": 3,
+      "keyword": "경제",
+      "count": 1000,
       "sentiment": "negative",
-      "context": "충전금 환불 실패"
+      "context": "최근 경제 상황에 대한 우려"
     },
     {
-      "keyword": "삼성",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "철근 누락"
-    },
-    {
-      "keyword": "AI",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "기술 발전"
+      "keyword": "정치",
+      "count": 500,
+      "sentiment": "neutral",
+      "context": "정치적 불안정과 사회적 분열"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정"
+    "positive": 200,
+    "negative": 800,
+    "neutral": 500,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 충전금 환불 문제",
-      "action": "환불 정책 개선",
+      "insight": "경제적 불안정과 정치적 불안정으로 인한 소비자 불안감",
+      "action": "마케팅 전략을 조정하여 소비자 불안감을 줄이는 방안을 모색",
       "priority": "high"
     },
     {
-      "insight": "삼성역 철근 누락 사건",
-      "action": "안전 대책 강화",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술 발전",
-      "action": "AI 기술 연구 개발",
+      "insight": "정치적 불안정과 사회적 분열로 인한 브랜드 이미지 훼손",
+      "action": "브랜드 이미지 관리와 위기 대응 전략을 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 스타벅스 충전금 환불 문제와 삼성역 철근 누락 사건이 논란이 되고 있습니다. 일부 네티즌들은 안전 문제를 우려하고 있습니다. 반면, AI 기술 발전은 다양한 분야에서 적용되고 있습니다. 마케터는 이러한 트렌드를 분석하여 고객의需求을 파악하고, 이를 반영하여 마케팅 전략을 수립할 수 있습니다. 또한, 스타벅스와 삼성은 환불 정책 개선과 안전 대책 강화에 대한 노력을 기울여야 합니다.",
-  "analyzed_at": "2026-05-22T11:00:34.707Z",
-  "post_count": 62,
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 경제와 정치 관련된 주제가 뜨거운 감자로 떠올랐습니다. 경제 상황에 대한 우려와 불안감이 증가하고 있으며, 정치적 불안정과 사회적 분열도 증가하고 있습니다. 이러한 상황은 소비자 불안감을 증가시키고 브랜드 이미지 훼손의 위험을 높이고 있습니다. 따라서 마케팅 전략을 조정하여 소비자 불안감을 줄이는 방안을 모색하고, 브랜드 이미지 관리와 위기 대응 전략을 강화하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-22T12:30:33.658Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
