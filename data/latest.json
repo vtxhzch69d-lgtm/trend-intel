@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자 노조 투표",
-      "summary": "삼성전자 노조가 성과급 6억에 주택대출 5억을 제안한 잠정합의안에 대한 찬반투표를 시작했다. 이 투표는 노조와 회사 간의 협상을 결정짓는 중요한 행사이다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "스타벅스 논란",
+      "summary": "스타벅스에서 발생한 논란과 그에 대한 반응",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "한국은 AI 기술 개발에 주력하고 있다. KAIST는 탄소를 연료로 바꾸는 촉매의 핵심 한계를 밝혀내었고, 민관 합동으로 한국형 인공지능 인간형 로봇을 개발하고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 동향과 투자자들의 반응",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장은 최근에 상승세를 보이고 있다. 그러나 일부 투자자들은 주식이 올랐다한들 그게 다 내 부로 이어지는 건 아니다라는 생각을 가지고 있다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 그에 대한 기대",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "노조 투표와 관련된 뉴스"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "스타벅스",
       "count": 15,
-      "sentiment": "positive",
-      "context": "기술 개발과 관련된 뉴스"
+      "sentiment": "negative",
+      "context": "스타벅스에서 발생한 논란"
     },
     {
       "keyword": "주식",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "시장 동향과 관련된 뉴스"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "주식 시장의 동향"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "최신 AI 기술"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자 노조 투표는 회사와 노조 간의 협상을 결정짓는 중요한 행사이다.",
-      "action": "노조와 회사 간의 협상을 주시하고, 잠정합의안에 대한 찬반투표 결과를 분석한다.",
+      "insight": "스타벅스 논란은 브랜드 이미지를 악화시킬 수 있다",
+      "action": "브랜드 이미지를 회복하기 위한 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 개발은 한국의 주요 산업으로 성장하고 있다.",
-      "action": "AI 기술 개발에 투자하고, 관련 산업의 동향을 주시한다.",
+      "insight": "주식 시장의 동향은 투자자들의 관심을 끌 수 있다",
+      "action": "주식 시장의 동향을 분석하고 투자자들에게 정보 제공",
       "priority": "medium"
     },
     {
-      "insight": "주식 시장은 최근에 상승세를 보이고 있다.",
-      "action": "주식 시장의 동향을 주시하고, 투자 전략을 조정한다.",
-      "priority": "low"
+      "insight": "AI 기술은 다양한 산업에서 활용될 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "priority": "medium"
     }
   ],
-  "narrative": "最近の韓国オンラインコミュニティのトレンド分析によると、삼성전자 노조 투표、AI 技術開発、주식 시장などのトピックが注目を集めている。삼성전자 노조 투표は会社と노조間の協상을決定짓는重要な行事であり、AI 技術開発は韓国の主要産業として成長している。주식 시장は最近上昇세を보이고 있지만、投資家の中には主張が異なるものもいる。企業はこれらのトレンドを注意深く分析し、適切な戦略を立てる必要がある。",
-  "analyzed_at": "2026-05-22T00:30:35.149Z",
+  "narrative": "최근 온라인 커뮤니티에서는 스타벅스 논란과 주식 시장의 동향, AI 기술이 주목을 받고 있다. 스타벅스 논란은 브랜드 이미지를 악화시킬 수 있으므로 브랜드 이미지를 회복하기 위한 전략 수립이 필요하다. 주식 시장의 동향은 투자자들의 관심을 끌 수 있으므로 주식 시장의 동향을 분석하고 투자자들에게 정보 제공이 필요하다. AI 기술은 다양한 산업에서 활용될 수 있으므로 AI 기술을 활용한 새로운 비즈니스 모델 개발이 필요하다. 이러한 트렌드를 분석하고 활용하면 비즈니스에 도움이 될 수 있다.",
+  "analyzed_at": "2026-05-22T02:00:34.776Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
