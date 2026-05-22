@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 논란",
-      "summary": "스타벅스에서 발생한 논란과 그에 대한 반응",
+      "topic": "스타벅스 충전카드 환불 문제",
+      "summary": "스타벅스 충전카드 환불 문제가 클리앙 커뮤니티에서 논란이 되고 있습니다. 일부 사용자들은 환불이 어려워진다고 주장하고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 동향과 투자자들의 반응",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "주택 시장이 확대되고 있습니다",
+      "summary": "서울 아파트 상승폭이 2주째 확대되고 있습니다. 구윤철은 시장교란을 묵과하지 않겠다고 밝혔습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 그에 대한 기대",
-      "post_count": 12,
+      "topic": "AI 기술 개발",
+      "summary": "KAIST는 탄소를 연료로 바꾸는 촉매의 핵심 한계를 밝혀냈습니다. 또한, 민관 한 팀으로 한국형 인공지능 인간형 로봇 개발을 본격 착수했습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -27,46 +27,46 @@
       "keyword": "스타벅스",
       "count": 15,
       "sentiment": "negative",
-      "context": "스타벅스에서 발생한 논란"
+      "context": "충전카드 환불 문제"
     },
     {
-      "keyword": "주식",
-      "count": 10,
+      "keyword": "주택",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "주식 시장의 동향"
+      "context": "시장 확대"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 AI 기술"
+      "context": "기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 논란은 브랜드 이미지를 악화시킬 수 있다",
-      "action": "브랜드 이미지를 회복하기 위한 전략 수립",
+      "insight": "스타벅스 충전카드 환불 문제는 고객 만족도에 영향을 미칠 수 있습니다.",
+      "action": "스타벅스 측에서 환불 문제를 해결하기 위한 조치를 취해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 동향은 투자자들의 관심을 끌 수 있다",
-      "action": "주식 시장의 동향을 분석하고 투자자들에게 정보 제공",
+      "insight": "주택 시장이 확대되고 있습니다.",
+      "action": "주택 관련 산업에 투자할 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 활용될 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술 개발은 미래 산업의 핵심 기술입니다.",
+      "action": "AI 기술 개발에 투자할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 온라인 커뮤니티에서는 스타벅스 논란과 주식 시장의 동향, AI 기술이 주목을 받고 있다. 스타벅스 논란은 브랜드 이미지를 악화시킬 수 있으므로 브랜드 이미지를 회복하기 위한 전략 수립이 필요하다. 주식 시장의 동향은 투자자들의 관심을 끌 수 있으므로 주식 시장의 동향을 분석하고 투자자들에게 정보 제공이 필요하다. AI 기술은 다양한 산업에서 활용될 수 있으므로 AI 기술을 활용한 새로운 비즈니스 모델 개발이 필요하다. 이러한 트렌드를 분석하고 활용하면 비즈니스에 도움이 될 수 있다.",
-  "analyzed_at": "2026-05-22T02:00:34.776Z",
+  "narrative": "클리앙 커뮤니티에서 스타벅스 충전카드 환불 문제, 주택 시장이 확대되고 있는 추세, AI 기술 개발 등이 주요하게 논란이 되고 있습니다. 스타벅스 측에서 환불 문제를 해결하기 위한 조치를 취해야 하며, 주택 관련 산업에 투자할 수 있습니다. 또한, AI 기술 개발은 미래 산업의 핵심 기술이므로 투자할 수 있습니다. 이러한 추세를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-22T03:30:34.116Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
