@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 충전카드 환불 문제",
-      "summary": "스타벅스 충전카드 환불 문제가 클리앙 커뮤니티에서 논란이 되고 있습니다. 일부 사용자들은 환불이 어려워진다고 주장하고 있습니다.",
+      "topic": "부동산 정책",
+      "summary": "이재명 정부의 부동산 정책으로 집값이 안정되었습니다. 그러나 일부에서는 집값을 잡는다는 것이 내 집 가격도 내려가는 것이라는 의견도 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전으로 다양한 산업에서 활용되고 있습니다. 특히, 한국은 글로벌 AI 허브를 출범하여 AI 기술을 더욱 발전시키고자 합니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "주택 시장이 확대되고 있습니다",
-      "summary": "서울 아파트 상승폭이 2주째 확대되고 있습니다. 구윤철은 시장교란을 묵과하지 않겠다고 밝혔습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술 개발",
-      "summary": "KAIST는 탄소를 연료로 바꾸는 촉매의 핵심 한계를 밝혀냈습니다. 또한, 민관 한 팀으로 한국형 인공지능 인간형 로봇 개발을 본격 착수했습니다.",
+      "topic": "경제 상황",
+      "summary": "한국의 경제 상황은 안정적이지만, 일부에서는 기름값과 집값이 문제라는 의견도 있습니다.",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "스타벅스",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "충전카드 환불 문제"
-    },
-    {
-      "keyword": "주택",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "시장 확대"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술 개발"
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "부동산",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "부동산 정책과 집값"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "한국의 경제 상황"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 충전카드 환불 문제는 고객 만족도에 영향을 미칠 수 있습니다.",
-      "action": "스타벅스 측에서 환불 문제를 해결하기 위한 조치를 취해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용하여 산업을 발전시키는 방안을 모색",
       "priority": "high"
     },
     {
-      "insight": "주택 시장이 확대되고 있습니다.",
-      "action": "주택 관련 산업에 투자할 수 있습니다.",
+      "insight": "부동산 정책",
+      "action": "부동산 정책을 재검토하여 집값을 안정시키는 방안을 모색",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술 개발은 미래 산업의 핵심 기술입니다.",
-      "action": "AI 기술 개발에 투자할 수 있습니다.",
-      "priority": "medium"
+      "insight": "경제 상황",
+      "action": "경제 상황을 지속적으로 모니터링하여 안정적인 경제 환경을 유지",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 스타벅스 충전카드 환불 문제, 주택 시장이 확대되고 있는 추세, AI 기술 개발 등이 주요하게 논란이 되고 있습니다. 스타벅스 측에서 환불 문제를 해결하기 위한 조치를 취해야 하며, 주택 관련 산업에 투자할 수 있습니다. 또한, AI 기술 개발은 미래 산업의 핵심 기술이므로 투자할 수 있습니다. 이러한 추세를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-22T03:30:34.116Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 부동산 정책이 주요 관심사로 나타났습니다. 특히, AI 기술의 발전은 다양한 산업에서 활용되고 있으며, 한국은 글로벌 AI 허브를 출범하여 AI 기술을 더욱 발전시키고자 합니다. 그러나, 일부에서는 집값을 잡는다는 것이 내 집 가격도 내려가는 것이라는 의견도 있습니다. 따라서, 부동산 정책을 재검토하여 집값을 안정시키는 방안을 모색해야 합니다. 또한, 경제 상황은 안정적이지만, 일부에서는 기름값과 집값이 문제라는 의견도 있습니다. 따라서, 경제 상황을 지속적으로 모니터링하여 안정적인 경제 환경을 유지해야 합니다.",
+  "analyzed_at": "2026-05-22T05:00:34.106Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
