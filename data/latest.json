@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "노동법 및 노조",
-      "summary": "대법원은 노란봉투법이 소급 적용되지 않는다는 판결을 내렸으며, 삼성전자와 노조 간의 갈등이 지속되고 있다.",
+      "topic": "삼성전자 노조 투표",
+      "summary": "삼성전자 노조가 성과급 6억에 주택대출 5억을 제안한 잠정합의안에 대한 찬반투표를 시작했다. 이 투표는 노조와 회사 간의 협상을 결정짓는 중요한 행사이다.",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목받고 있다.",
+      "topic": "AI 기술 개발",
+      "summary": "한국은 AI 기술 개발에 주력하고 있다. KAIST는 탄소를 연료로 바꾸는 촉매의 핵심 한계를 밝혀내었고, 민관 합동으로 한국형 인공지능 인간형 로봇을 개발하고 있다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "주식 시장의 상승과 하락, 경제적 불안정성에 대한 우려가 계속되고 있다.",
-      "post_count": 8,
+      "topic": "주식 시장",
+      "summary": "주식 시장은 최근에 상승세를 보이고 있다. 그러나 일부 투자자들은 주식이 올랐다한들 그게 다 내 부로 이어지는 건 아니다라는 생각을 가지고 있다.",
+      "post_count": 5,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "노동법",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "노동법과 관련된 논란"
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "노조 투표와 관련된 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업적 적용"
+      "context": "기술 개발과 관련된 뉴스"
     },
     {
       "keyword": "주식",
-      "count": 8,
+      "count": 5,
       "sentiment": "mixed",
-      "context": "주식 시장의 변동성"
+      "context": "시장 동향과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "노동법과 노조 간의 갈등은 기업의 경영 안정성에 영향을 미칠 수 있다.",
-      "action": "노동법과 노조 간의 관계를 주시하고, 경영 안정성을 위한 대책을 마련해야 한다.",
+      "insight": "삼성전자 노조 투표는 회사와 노조 간의 협상을 결정짓는 중요한 행사이다.",
+      "action": "노조와 회사 간의 협상을 주시하고, 잠정합의안에 대한 찬반투표 결과를 분석한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용한 새로운 비즈니스 모델을 개발해야 한다.",
+      "insight": "AI 기술 개발은 한국의 주요 산업으로 성장하고 있다.",
+      "action": "AI 기술 개발에 투자하고, 관련 산업의 동향을 주시한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "주식 시장은 최근에 상승세를 보이고 있다.",
+      "action": "주식 시장의 동향을 주시하고, 투자 전략을 조정한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 노동법과 노조 간의 갈등, AI 기술의 발전, 경제 및 주식 시장의 변동성 등이 주요 관심사로 나타났다. 이러한 트렌드들은 기업의 경영 안정성과 비즈니스 모델에 영향을 미칠 수 있으므로, 이를 주시하고 대책을 마련하는 것이 중요하다. 또한, AI 기술의 발전을 주시하고, 이를 활용한 새로운 비즈니스 모델을 개발하는 것이 필요하다.",
-  "analyzed_at": "2026-05-21T23:00:34.349Z",
+  "narrative": "最近の韓国オンラインコミュニティのトレンド分析によると、삼성전자 노조 투표、AI 技術開発、주식 시장などのトピックが注目を集めている。삼성전자 노조 투표は会社と노조間の協상을決定짓는重要な行事であり、AI 技術開発は韓国の主要産業として成長している。주식 시장は最近上昇세を보이고 있지만、投資家の中には主張が異なるものもいる。企業はこれらのトレンドを注意深く分析し、適切な戦略を立てる必要がある。",
+  "analyzed_at": "2026-05-22T00:30:35.149Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
