@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남 후보",
-      "summary": "김용남 후보 관련 논란이 클리앙 커뮤니티에서 논의되고 있습니다.",
+      "topic": "김용남 대부업체 운영 의혹",
+      "summary": "김용남 후보의 대부업체 운영 의혹이 논란이 되고 있습니다. 녹취록이 공개되어 논란이 커지고 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "스벅 사태",
-      "summary": "스타벅스 관련 사태가 클리앙 커뮤니티에서 논의되고 있습니다.",
-      "post_count": 4,
+      "summary": "스타벅스에서 발생한 사태가 논란이 되고 있습니다. 커머스팀이 조직도에서 삭제되었습니다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스가 클리앙 커뮤니티에서 논의되고 있습니다.",
+      "summary": "AI 기술이 발전하고 있습니다. 다양한 분야에서 적용되고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -27,41 +27,46 @@
       "keyword": "김용남",
       "count": 7,
       "sentiment": "negative",
-      "context": "김용남 후보 관련 논란"
+      "context": "대부업체 운영 의혹"
     },
     {
       "keyword": "스벅",
-      "count": 5,
+      "count": 3,
       "sentiment": "negative",
-      "context": "스타벅스 관련 사태"
+      "context": "사태"
     },
     {
       "keyword": "AI",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "AI 기술 관련 뉴스"
+      "sentiment": "positive",
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 기분이 우세합니다."
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 논의되는 주제는 정치와 사회 문제가 많습니다.",
-      "action": "마케팅 전략을 조정하여 이러한 주제에 대한 대응을 강화해야 합니다.",
+      "insight": "김용남 대부업체 운영 의혹은 정치적인 문제로 보입니다.",
+      "action": "정치적인 문제에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 관련 뉴스가 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
-      "action": "AI 기술 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에서 홍보할 수 있습니다.",
+      "insight": "스벅 사태는 고객 서비스에 대한 문제입니다.",
+      "action": "고객 서비스를 개선해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술은 다양한 분야에서 적용되고 있습니다.",
+      "action": "AI 기술을 활용하여 비즈니스 모델을 개선해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 논의되는 주제는 정치와 사회 문제가 많습니다. 이러한 주제에 대한 대응을 강화하여 마케팅 전략을 조정해야 합니다. 또한, AI 기술 관련 뉴스가 많이 논의되고 있으므로 AI 기술 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에서 홍보할 수 있습니다. 클리앙 커뮤니티의 전체적인 분위기는 중립적이며, 긍정적인 의견과 부정적인 의견이 모두 존재합니다. 따라서, 마케팅 전략을 조정하여 이러한 분위기에 대응해야 합니다.",
-  "analyzed_at": "2026-05-22T17:30:34.177Z",
+  "narrative": "최근의 트렌드는 김용남 대부업체 운영 의혹과 스벅 사태가 주를 이루고 있습니다. 이러한 문제는 정치적인 문제와 고객 서비스에 대한 문제입니다. 또한, AI 기술은 다양한 분야에서 적용되고 있습니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개선하고 고객 서비스를 향상시키는 방안을 모색해야 합니다. 또한, 정치적인 문제에 대한 대응을 준비해야 합니다.",
+  "analyzed_at": "2026-05-22T19:00:34.149Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
