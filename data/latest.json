@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 사태",
-      "summary": "스타벅스에서 발생한 사태와 관련된 게시글이 많습니다. 스타벅스의 커머스팀이 해체되고, 경품에 투썸 커피가 포함되는 등 다양한 상황이 언급되고 있습니다.",
+      "topic": "김용남 후보",
+      "summary": "김용남 후보 관련 논란이 클리앙 커뮤니티에서 논의되고 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "김용남 대부업체 운영 의혹",
-      "summary": "김용남씨가 대부업체를 운영했다는 의혹과 관련된 게시글이 많습니다. 김용남씨 측은 사실이 아니라고 반박하고 있습니다.",
+      "topic": "스벅 사태",
+      "summary": "스타벅스 관련 사태가 클리앙 커뮤니티에서 논의되고 있습니다.",
       "post_count": 4,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제와 정치 관련된 게시글이 많습니다. 달러당 1500원은 뉴노멀이고, 교육교부금이 내년엔 100조가 될 예정입니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 뉴스가 클리앙 커뮤니티에서 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "스타벅스",
+      "keyword": "김용남",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "김용남 후보 관련 논란"
+    },
+    {
+      "keyword": "스벅",
       "count": 5,
       "sentiment": "negative",
-      "context": "스타벅스 사태와 관련된 게시글"
+      "context": "스타벅스 관련 사태"
     },
     {
-      "keyword": "김용남",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "김용남씨가 대부업체를 운영했다는 의혹"
-    },
-    {
-      "keyword": "경제",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "neutral",
-      "context": "경제 관련된 게시글"
+      "context": "AI 기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 5,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정이 강합니다."
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 사태는 브랜드 이미지를 손상시킬 수 있습니다.",
-      "action": "브랜드 이미지를 회복하기 위한 마케팅 전략을 수립해야 합니다.",
+      "insight": "클리앙 커뮤니티에서 논의되는 주제는 정치와 사회 문제가 많습니다.",
+      "action": "마케팅 전략을 조정하여 이러한 주제에 대한 대응을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "김용남 대부업체 운영 의혹은 금융 산업에 영향을 미칠 수 있습니다.",
-      "action": "금융 산업의 안정성을 유지하기 위한 대책을 마련해야 합니다.",
+      "insight": "AI 기술 관련 뉴스가 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "AI 기술 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에서 홍보할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 스타벅스 사태와 김용남 대부업체 운영 의혹이 주를 이루고 있습니다. 이러한 상황은 브랜드 이미지를 손상시키고 금융 산업에 영향을 미칠 수 있습니다. 따라서 브랜드 이미지를 회복하기 위한 마케팅 전략을 수립하고 금융 산업의 안정성을 유지하기 위한 대책을 마련해야 합니다. 또한, 경제와 정치 관련된 게시글이 많기 때문에 이러한 주제에 대한 관심이 높습니다.",
-  "analyzed_at": "2026-05-22T15:30:34.674Z",
+  "narrative": "클리앙 커뮤니티에서 논의되는 주제는 정치와 사회 문제가 많습니다. 이러한 주제에 대한 대응을 강화하여 마케팅 전략을 조정해야 합니다. 또한, AI 기술 관련 뉴스가 많이 논의되고 있으므로 AI 기술 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에서 홍보할 수 있습니다. 클리앙 커뮤니티의 전체적인 분위기는 중립적이며, 긍정적인 의견과 부정적인 의견이 모두 존재합니다. 따라서, 마케팅 전략을 조정하여 이러한 분위기에 대응해야 합니다.",
+  "analyzed_at": "2026-05-22T17:30:34.177Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
