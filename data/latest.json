@@ -2,67 +2,72 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 영향에 대한 논의가 많습니다. AI의 의존도가 높아지고 있으며, 다양한 산업에서 AI의 적용이 증가하고 있습니다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 사회 문제",
+      "summary": "정치 및 사회 문제에 대한 논의와 의견",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 관련된 게시글이 많습니다. 주식 캡쳐하고 싶은 때가 또 왔네요, 내가 쿠팡을 엄청 썼네 등 다양한 주제의 게시글이 있습니다.",
-      "post_count": 8,
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업의 동향과 발전",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
-    },
-    {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련된 게시글이 있습니다. 정용진은 지금이라도 언론앞에서 머리 숙여야죠, 공무원 노조/기아차 노조 스벅 불매 선언 등 다양한 주제의 게시글이 있습니다.",
-      "post_count": 7,
-      "sentiment": "negative",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 그 영향에 대한 논의"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "주식 관련된 게시글"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치 및 사회 문제"
     },
     {
       "keyword": "경제",
-      "count": 3,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "경제 관련된 게시글"
+      "context": "경제 및 산업의 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 적용이 증가하고 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 필요합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
+      "action": "AI 기술의 연구와 개발에 투자",
       "priority": "high"
     },
     {
-      "insight": "경제 및 주식 관련된 게시글이 많습니다.",
-      "action": "경제 및 주식 관련된 정보를 제공하여 고객의 관심을 끌어들이는 것이 필요합니다.",
+      "insight": "정치 및 사회 문제는 소비자의 의견과 행동에 영향을 줄 수 있다",
+      "action": "소비자의 의견과 행동을 분석하고 대응",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 산업의 동향은 기업의 전략과 계획에 영향을 줄 수 있다",
+      "action": "경제 및 산업의 동향을 분석하고 전략을 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드는 AI 기술의 발전과 그 영향에 대한 논의가 많습니다. 또한, 경제 및 주식 관련된 게시글이 많습니다. 이러한 트렌드를 분석하여, 비즈니스 모델을 개선하고, 고객의 관심을 끌어들이는 전략을 수립하는 것이 필요합니다. 또한, AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-22T06:30:34.202Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 정치 및 사회 문제, 경제 및 산업의 동향이 주요한 주제로 나타났다. 이러한 트렌드와 키워드는 기업의 전략과 계획에 영향을 줄 수 있으며, 소비자의 의견과 행동을 분석하고 대응하는 것이 중요하다. 또한, AI 기술의 연구와 개발에 투자하고, 경제 및 산업의 동향을 분석하고 전략을 수립하는 것이 필요하다.",
+  "analyzed_at": "2026-05-22T08:00:34.163Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
