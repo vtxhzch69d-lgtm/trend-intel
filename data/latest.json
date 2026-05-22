@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 정책",
-      "summary": "이재명 정부의 부동산 정책으로 집값이 안정되었습니다. 그러나 일부에서는 집값을 잡는다는 것이 내 집 가격도 내려가는 것이라는 의견도 있습니다.",
-      "post_count": 10,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 영향에 대한 논의가 많습니다. AI의 의존도가 높아지고 있으며, 다양한 산업에서 AI의 적용이 증가하고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전으로 다양한 산업에서 활용되고 있습니다. 특히, 한국은 글로벌 AI 허브를 출범하여 AI 기술을 더욱 발전시키고자 합니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 상황",
-      "summary": "한국의 경제 상황은 안정적이지만, 일부에서는 기름값과 집값이 문제라는 의견도 있습니다.",
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련된 게시글이 많습니다. 주식 캡쳐하고 싶은 때가 또 왔네요, 내가 쿠팡을 엄청 썼네 등 다양한 주제의 게시글이 있습니다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련된 게시글이 있습니다. 정용진은 지금이라도 언론앞에서 머리 숙여야죠, 공무원 노조/기아차 노조 스벅 불매 선언 등 다양한 주제의 게시글이 있습니다.",
+      "post_count": 7,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 그 영향에 대한 논의"
     },
     {
-      "keyword": "부동산",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "부동산 정책과 집값"
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "주식 관련된 게시글"
     },
     {
       "keyword": "경제",
-      "count": 10,
+      "count": 3,
       "sentiment": "neutral",
-      "context": "한국의 경제 상황"
+      "context": "경제 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용하여 산업을 발전시키는 방안을 모색",
+      "insight": "AI 기술의 발전은 다양한 산업에서 적용이 증가하고 있습니다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 필요합니다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 정책",
-      "action": "부동산 정책을 재검토하여 집값을 안정시키는 방안을 모색",
+      "insight": "경제 및 주식 관련된 게시글이 많습니다.",
+      "action": "경제 및 주식 관련된 정보를 제공하여 고객의 관심을 끌어들이는 것이 필요합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 상황",
-      "action": "경제 상황을 지속적으로 모니터링하여 안정적인 경제 환경을 유지",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 부동산 정책이 주요 관심사로 나타났습니다. 특히, AI 기술의 발전은 다양한 산업에서 활용되고 있으며, 한국은 글로벌 AI 허브를 출범하여 AI 기술을 더욱 발전시키고자 합니다. 그러나, 일부에서는 집값을 잡는다는 것이 내 집 가격도 내려가는 것이라는 의견도 있습니다. 따라서, 부동산 정책을 재검토하여 집값을 안정시키는 방안을 모색해야 합니다. 또한, 경제 상황은 안정적이지만, 일부에서는 기름값과 집값이 문제라는 의견도 있습니다. 따라서, 경제 상황을 지속적으로 모니터링하여 안정적인 경제 환경을 유지해야 합니다.",
-  "analyzed_at": "2026-05-22T05:00:34.106Z",
+  "narrative": "最近의 트렌드는 AI 기술의 발전과 그 영향에 대한 논의가 많습니다. 또한, 경제 및 주식 관련된 게시글이 많습니다. 이러한 트렌드를 분석하여, 비즈니스 모델을 개선하고, 고객의 관심을 끌어들이는 전략을 수립하는 것이 필요합니다. 또한, AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-22T06:30:34.202Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
