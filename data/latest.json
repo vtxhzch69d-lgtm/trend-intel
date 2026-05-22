@@ -1,86 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "스페이스X",
-      "summary": "스페이스X가 전세계 시총 1위 할거란 주장까지도 나오는군요.",
-      "post_count": 1,
-      "sentiment": "neutral",
+      "topic": "스타벅스 충전금 환불",
+      "summary": "스타벅스 충전금 환불 실패 사례가 논란이 되고 있습니다. 일부 고객들은 환불을 받지 못하고 있습니다.",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "김용남, 멍든 조국에 '파란색 얼마나 부러우면'…혁신당 '조롱 그만'",
-      "post_count": 2,
+      "topic": "삼성역 철근 누락",
+      "summary": "삼성역 철근 누락 사건이 논란이 되고 있습니다. 일부 네티즌들은 안전 문제를 우려하고 있습니다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "외환당국, 환율 구두개입…“필요시 단호 조치”",
-      "post_count": 2,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "웨이모, 해커와 DIY 애호가를 위한 리눅스 기반 네트워킹 기기 공개",
-      "post_count": 3,
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있습니다. 일부 네티즌들은 AI 기술의 발전에 관심을 보이고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "스페이스X",
-      "count": 1,
-      "sentiment": "neutral",
-      "context": "스페이스X가 전세계 시총 1위 할거란 주장까지도 나오는군요."
-    },
-    {
-      "keyword": "정치",
-      "count": 5,
+      "keyword": "스타벅스",
+      "count": 3,
       "sentiment": "negative",
-      "context": "김용남, 멍든 조국에 '파란색 얼마나 부러우면'…혁신당 '조롱 그만'"
+      "context": "충전금 환불 실패"
     },
     {
-      "keyword": "경제",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "외환당국, 환율 구두개입…“필요시 단호 조치”"
+      "keyword": "삼성",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "철근 누락"
     },
     {
-      "keyword": "기술",
-      "count": 10,
+      "keyword": "AI",
+      "count": 5,
       "sentiment": "positive",
-      "context": "웨이모, 해커와 DIY 애호가를 위한 리눅스 기반 네트워킹 기기 공개"
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 5,
+    "negative": 15,
     "neutral": 20,
-    "overall_mood": "중립적"
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "스페이스X의 성장 가능성",
-      "action": "투자",
+      "insight": "스타벅스 충전금 환불 문제",
+      "action": "환불 정책 개선",
       "priority": "high"
     },
     {
-      "insight": "정치적 불안정성",
-      "action": "위험 관리",
-      "priority": "medium"
+      "insight": "삼성역 철근 누락 사건",
+      "action": "안전 대책 강화",
+      "priority": "high"
     },
     {
-      "insight": "기술의 발전",
-      "action": "연구 개발",
-      "priority": "low"
+      "insight": "AI 기술 발전",
+      "action": "AI 기술 연구 개발",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 스페이스X, 정치, 경제, 기술 등 다양한 주제로 구성되어 있습니다. 스페이스X는 전세계 시총 1위 할거란 주장까지도 나오는군요. 정치적으로는 김용남, 멍든 조국에 '파란색 얼마나 부러우면'…혁신당 '조롱 그만' 등의 뉴스가 있습니다. 경제적으로는 외환당국, 환율 구두개입…“필요시 단호 조치” 등의 뉴스가 있습니다. 기술적으로는 웨이모, 해커와 DIY 애호가를 위한 리눅스 기반 네트워킹 기기 공개 등의 뉴스가 있습니다. 이러한 트렌드들은 기업의 투자, 위험 관리, 연구 개발 등 다양한 비즈니스 인사이트를 제공합니다.",
-  "analyzed_at": "2026-05-22T09:30:34.597Z",
-  "post_count": 61,
+  "narrative": "최근 스타벅스 충전금 환불 문제와 삼성역 철근 누락 사건이 논란이 되고 있습니다. 일부 네티즌들은 안전 문제를 우려하고 있습니다. 반면, AI 기술 발전은 다양한 분야에서 적용되고 있습니다. 마케터는 이러한 트렌드를 분석하여 고객의需求을 파악하고, 이를 반영하여 마케팅 전략을 수립할 수 있습니다. 또한, 스타벅스와 삼성은 환불 정책 개선과 안전 대책 강화에 대한 노력을 기울여야 합니다.",
+  "analyzed_at": "2026-05-22T11:00:34.707Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
