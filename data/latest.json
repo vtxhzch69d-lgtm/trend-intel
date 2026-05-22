@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 토론이 많으며, 특히 평택을 후보자 토론회와 관련된 게시글이 많습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "스타벅스 사태",
+      "summary": "스타벅스에서 발생한 사태와 관련된 게시글이 많습니다. 스타벅스의 커머스팀이 해체되고, 경품에 투썸 커피가 포함되는 등 다양한 상황이 언급되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 관련된 게시글이 많으며, 특히 AI와 관련된 뉴스가 많습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "김용남 대부업체 운영 의혹",
+      "summary": "김용남씨가 대부업체를 운영했다는 의혹과 관련된 게시글이 많습니다. 김용남씨 측은 사실이 아니라고 반박하고 있습니다.",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "high"
     },
     {
-      "topic": "스포츠",
-      "summary": "최근 스포츠 뉴스와 관련된 게시글이 많으며, 특히 야구와 축구 관련된 뉴스가 많습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제 및 정치",
+      "summary": "경제와 정치 관련된 게시글이 많습니다. 달러당 1500원은 뉴노멀이고, 교육교부금이 내년엔 100조가 될 예정입니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스와 관련된 키워드입니다."
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "최근 정치 관련 뉴스와 토론과 관련된 키워드입니다."
-    },
-    {
-      "keyword": "스포츠",
+      "keyword": "스타벅스",
       "count": 5,
-      "sentiment": "positive",
-      "context": "최근 스포츠 뉴스와 관련된 키워드입니다."
+      "sentiment": "negative",
+      "context": "스타벅스 사태와 관련된 게시글"
+    },
+    {
+      "keyword": "김용남",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "김용남씨가 대부업체를 운영했다는 의혹"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적인 분위기이지만, 일부 긍정적인 뉴스와 토론이 있습니다."
+    "positive": 5,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정이 강합니다."
   },
   "business_insights": [
     {
-      "insight": "최근 기술 뉴스와 관련된 게시글이 많으며, 특히 AI와 관련된 뉴스가 많습니다.",
-      "action": "최신 기술 뉴스와 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "스타벅스 사태는 브랜드 이미지를 손상시킬 수 있습니다.",
+      "action": "브랜드 이미지를 회복하기 위한 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "최근 정치 관련 뉴스와 토론이 많으며, 특히 평택을 후보자 토론회와 관련된 게시글이 많습니다.",
-      "action": "정치 관련 뉴스와 토론을 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "김용남 대부업체 운영 의혹은 금융 산업에 영향을 미칠 수 있습니다.",
+      "action": "금융 산업의 안정성을 유지하기 위한 대책을 마련해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 정치와 기술 관련 뉴스와 토론이 많습니다. 특히 AI와 관련된 뉴스가 많으며, 평택을 후보자 토론회와 관련된 게시글이 많습니다. 이러한 트렌드를 반영하여 최신 기술 뉴스와 정치 관련 뉴스를 제공하여 사용자들의 관심을 끌 수 있습니다. 또한, 사용자들의 관심을 끌기 위해 스포츠와 관련된 뉴스를 제공할 수 있습니다.",
-  "analyzed_at": "2026-05-22T14:00:34.144Z",
+  "narrative": "최근의 트렌드는 스타벅스 사태와 김용남 대부업체 운영 의혹이 주를 이루고 있습니다. 이러한 상황은 브랜드 이미지를 손상시키고 금융 산업에 영향을 미칠 수 있습니다. 따라서 브랜드 이미지를 회복하기 위한 마케팅 전략을 수립하고 금융 산업의 안정성을 유지하기 위한 대책을 마련해야 합니다. 또한, 경제와 정치 관련된 게시글이 많기 때문에 이러한 주제에 대한 관심이 높습니다.",
+  "analyzed_at": "2026-05-22T15:30:34.674Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
