@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스",
-      "summary": "스타벅스 관련된 게시글이 많이 올라왔습니다. 선불카드 환불받기 꿀팁, 스타벅스 텀블러에 대한 의문 등 다양한 주제가 обсужд되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 관련된 게시글이 많이 올라왔습니다. AI의 미래에 대한 고민, AI의 발전, AI 관련된 뉴스 등 다양한 주제가 обсужд되고 있습니다.",
-      "post_count": 10,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "월드컵",
-      "summary": "월드컵 관련된 게시글이 올라왔습니다. 월드컵 보기 위한 필살기, 월드컵 관련된 뉴스 등 다양한 주제가 обсужд되고 있습니다.",
-      "post_count": 2,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "스타벅스",
+      "summary": "스타벅스 관련된 다양한 논란과 소비자들의 반응",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련된 다양한 뉴스와 논란",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "스타벅스",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "스타벅스 관련된 게시글"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 관련된 게시글"
+      "context": "AI 기술의 발전과 그에 따른 다양한 산업의 변화"
     },
     {
-      "keyword": "월드컵",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "월드컵 관련된 게시글"
+      "keyword": "스타벅스",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "스타벅스 관련된 다양한 논란과 소비자들의 반응"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 관련된 다양한 뉴스와 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
+    "positive": 25,
+    "negative": 15,
     "neutral": 10,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 관련된 게시글이 많이 올라오고 있습니다. 스타벅스 브랜드에 대한 관심이 높아지고 있습니다.",
-      "action": "스타벅스 관련된 마케팅 캠페인을 실행할 수 있습니다.",
-      "priority": "medium"
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있다",
+      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾기",
+      "priority": "high"
     },
     {
-      "insight": "AI 관련된 게시글이 많이 올라오고 있습니다. AI에 대한 관심이 높아지고 있습니다.",
-      "action": "AI 관련된 마케팅 캠페인을 실행할 수 있습니다.",
-      "priority": "high"
+      "insight": "스타벅스 관련된 논란은 소비자들의 반응을 주시해야 한다",
+      "action": "스타벅스 관련된 뉴스와 소비자들의 반응을 주시하기",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 스타벅스와 AI 관련된 주제가 많이 обсужд되고 있습니다. 스타벅스 관련된 게시글은 선불카드 환불받기 꿀팁, 스타벅스 텀블러에 대한 의문 등 다양한 주제가 обсужд되고 있습니다. AI 관련된 게시글은 AI의 미래에 대한 고민, AI의 발전, AI 관련된 뉴스 등 다양한 주제가 обсужд되고 있습니다. 이러한 트렌드를 고려하여 마케팅 캠페인을 실행할 수 있습니다. 또한, 스타벅스와 AI 관련된 키워드를 사용하여 마케팅 캠페인을 실행할 수 있습니다.",
-  "analyzed_at": "2026-05-23T18:00:36.560Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 다양한 산업의 변화가 주목을 받고 있다. 또한, 스타벅스 관련된 다양한 논란과 소비자들의 반응이 주목을 받고 있다. 이러한 트렌드들은 다양한 산업과 기업들에게 기회와 도전을 제공할 수 있다. 따라서, 이러한 트렌드들을 주시하고 그에 따른 기회를 찾는 것이 중요하다.",
+  "analyzed_at": "2026-05-23T19:30:33.742Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
