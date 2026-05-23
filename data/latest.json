@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "스타벅스",
-      "summary": "스타벅스 관련된 다양한 논란과 소비자들의 반응",
-      "post_count": 4,
+      "topic": "스타벅스 환불",
+      "summary": "스타벅스 선불카드 환불받기 꿀팁이랍니다. 매장가서 쓰지말고 전액 환불받으세요",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 다양한 뉴스와 논란",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "월드컵",
+      "summary": "월드컵 보기위한 필살기 있나요...",
+      "post_count": 2,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "AI",
+      "summary": "오픈AI 80년 수학난제 해결…'AI 자율로 핵심 난제 푼 첫 사례'",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 다양한 산업의 변화"
-    },
-    {
       "keyword": "스타벅스",
-      "count": 4,
+      "count": 5,
       "sentiment": "negative",
-      "context": "스타벅스 관련된 다양한 논란과 소비자들의 반응"
+      "context": "스타벅스 환불 관련 글"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 관련된 다양한 뉴스와 논란"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술 개발과 적용 관련 글"
+    },
+    {
+      "keyword": "월드컵",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "월드컵 보기와 관련된 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 10,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있다",
-      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾기",
+      "insight": "스타벅스 환불 관련 문제가 많이 발생하고 있습니다.",
+      "action": "스타벅스 환불 정책을 개선해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "스타벅스 관련된 논란은 소비자들의 반응을 주시해야 한다",
-      "action": "스타벅스 관련된 뉴스와 소비자들의 반응을 주시하기",
+      "insight": "AI 기술이 빠르게 발전하고 있습니다.",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 다양한 산업의 변화가 주목을 받고 있다. 또한, 스타벅스 관련된 다양한 논란과 소비자들의 반응이 주목을 받고 있다. 이러한 트렌드들은 다양한 산업과 기업들에게 기회와 도전을 제공할 수 있다. 따라서, 이러한 트렌드들을 주시하고 그에 따른 기회를 찾는 것이 중요하다.",
-  "analyzed_at": "2026-05-23T19:30:33.742Z",
+  "narrative": "최근 클리앙 커뮤니티에서는 스타벅스 환불 관련 문제가 많이 발생하고 있습니다. 이는 스타벅스 환불 정책의 개선이 필요함을 나타냅니다. 또한, AI 기술이 빠르게 발전하고 있으며, 이는 새로운 비즈니스 모델을 개발하는 기회가 될 수 있습니다. 따라서, 스타벅스 환불 정책을 개선하고 AI 기술을 활용하여 새로운 비즈니스 모델을 개발하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-23T21:00:33.732Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
