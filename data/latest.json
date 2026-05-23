@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 ứng dụng에 대한 관심이 증가하고 있습니다. 다양한 산업에서 AI를 활용하여 효율성을 높이고 있습니다.",
-      "post_count": 15,
+      "topic": "스타벅스",
+      "summary": "스타벅스 관련된 게시글이 많이 올라왔습니다. 선불카드 환불받기 꿀팁, 스타벅스 텀블러에 대한 의문 등 다양한 주제가 обсужд되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 관련된 게시글이 많이 올라왔습니다. AI의 미래에 대한 고민, AI의 발전, AI 관련된 뉴스 등 다양한 주제가 обсужд되고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "스마트폰 시장",
-      "summary": "스마트폰 시장에서 다양한 기업들이 경쟁을 벌이고 있습니다. 특히, 애플과 삼성의 경쟁이 두드러지고 있습니다.",
-      "post_count": 8,
+      "topic": "월드컵",
+      "summary": "월드컵 관련된 게시글이 올라왔습니다. 월드컵 보기 위한 필살기, 월드컵 관련된 뉴스 등 다양한 주제가 обсужд되고 있습니다.",
+      "post_count": 2,
       "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "우주 산업",
-      "summary": "우주 산업에서 다양한 기업들이 활동을 하고 있습니다. 특히, 스페이스X의 IPO 서류가 관심을 끌고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng"
-    },
-    {
-      "keyword": "스마트폰",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "스마트폰 시장의 경쟁"
-    },
-    {
-      "keyword": "우주",
+      "keyword": "스타벅스",
       "count": 5,
+      "sentiment": "mixed",
+      "context": "스타벅스 관련된 게시글"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "우주 산업의 발전"
+      "context": "AI 관련된 게시글"
+    },
+    {
+      "keyword": "월드컵",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "월드컵 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 15,
     "negative": 5,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용하여 효율성을 높이는 방안을 모색",
-      "priority": "high"
-    },
-    {
-      "insight": "스마트폰 시장의 경쟁",
-      "action": "스마트폰 시장에서 경쟁력을 높이는 방안을 모색",
+      "insight": "스타벅스 관련된 게시글이 많이 올라오고 있습니다. 스타벅스 브랜드에 대한 관심이 높아지고 있습니다.",
+      "action": "스타벅스 관련된 마케팅 캠페인을 실행할 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "우주 산업의 발전",
-      "action": "우주 산업에서 기회를 찾는 방안을 모색",
-      "priority": "low"
+      "insight": "AI 관련된 게시글이 많이 올라오고 있습니다. AI에 대한 관심이 높아지고 있습니다.",
+      "action": "AI 관련된 마케팅 캠페인을 실행할 수 있습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 ứng dụng에 대한 관심이 증가하고 있습니다. 다양한 산업에서 AI를 활용하여 효율성을 높이고 있습니다. 또한, 스마트폰 시장에서 다양한 기업들이 경쟁을 벌이고 있습니다. 특히, 애플과 삼성의 경쟁이 두드러지고 있습니다. 우주 산업에서도 다양한 기업들이 활동을 하고 있습니다. 특히, 스페이스X의 IPO 서류가 관심을 끌고 있습니다. 이러한 트렌드에 따라, 기업들은 AI 기술을 활용하여 효율성을 높이는 방안을 모색하고, 스마트폰 시장에서 경쟁력을 높이는 방안을 모색해야 합니다. 또한, 우주 산업에서 기회를 찾는 방안을 모색해야 합니다.",
-  "analyzed_at": "2026-05-23T16:30:33.923Z",
+  "narrative": "최근의 트렌드는 스타벅스와 AI 관련된 주제가 많이 обсужд되고 있습니다. 스타벅스 관련된 게시글은 선불카드 환불받기 꿀팁, 스타벅스 텀블러에 대한 의문 등 다양한 주제가 обсужд되고 있습니다. AI 관련된 게시글은 AI의 미래에 대한 고민, AI의 발전, AI 관련된 뉴스 등 다양한 주제가 обсужд되고 있습니다. 이러한 트렌드를 고려하여 마케팅 캠페인을 실행할 수 있습니다. 또한, 스타벅스와 AI 관련된 키워드를 사용하여 마케팅 캠페인을 실행할 수 있습니다.",
+  "analyzed_at": "2026-05-23T18:00:36.560Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
