@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남 후보",
-      "summary": "김용남 후보의 장점과 자질, 대부업체 운영 녹취록 등에 대한 논의",
+      "topic": "스타벅스",
+      "summary": "스타벅스 관련 논란과 사건",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "민주당과 정치 관련 논란",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "환율",
-      "summary": "환율이 잡히는 듯 하더니 또 다시 올랐으며, 체감이 심하다는 의견",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "삼성전자",
-      "summary": "삼성전자에 대한 애증, 스마트폰 원가 절감, 갤럭시Z폴드8 등에 대한 논의",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 관련 뉴스",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김용남",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "김용남 후보의 장점과 자질, 대부업체 운영 녹취록 등"
-    },
-    {
-      "keyword": "환율",
-      "count": 5,
+      "keyword": "스타벅스",
+      "count": 7,
       "sentiment": "negative",
-      "context": "환율이 잡히는 듯 하더니 또 다시 올랐으며, 체감이 심하다는 의견"
+      "context": "스타벅스 관련 논란"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "삼성전자에 대한 애증, 스마트폰 원가 절감, 갤럭시Z폴드8 등"
+      "keyword": "민주당",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "민주당과 정치 관련 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 AI 기술과 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 15,
     "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 10,
+    "overall_mood": "부정적인 감정과 혼합된 감정이 많음"
   },
   "business_insights": [
     {
-      "insight": "김용남 후보의 인기",
-      "action": "김용남 후보의 장점과 자질을 강조하는 마케팅 전략",
-      "priority": "medium"
-    },
-    {
-      "insight": "환율의 불안정성",
-      "action": "환율의 변동에 대비하는 금융 상품 개발",
+      "insight": "스타벅스 관련 논란이 많아 브랜드 이미지가 손상될 수 있음",
+      "action": "스타벅스 브랜드 이미지를 회복하기 위한 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 기술 개발",
-      "action": "삼성전자의 기술 개발을 지원하는 마케팅 전략",
-      "priority": "low"
+      "insight": "AI 기술이 빠르게 발전하고 있어 관련 산업에 투자할 기회가 많음",
+      "action": "AI 기술 관련 산업에 투자하고 연구 개발에 집중",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 인기 있는 주제는 김용남 후보, 환율, 삼성전자 등입니다. 김용남 후보의 장점과 자질, 대부업체 운영 녹취록 등에 대한 논의가 활발하게 진행되고 있습니다. 환율은 잡히는 듯 하더니 또 다시 올랐으며, 체감이 심하다는 의견이 있습니다. 삼성전자에 대한 애증, 스마트폰 원가 절감, 갤럭시Z폴드8 등에 대한 논의도 진행되고 있습니다. 이러한 주제를 중심으로 마케팅 전략을 개발할 수 있습니다. 예를 들어, 김용남 후보의 장점과 자질을 강조하는 마케팅 전략, 환율의 변동에 대비하는 금융 상품 개발, 삼성전자의 기술 개발을 지원하는 마케팅 전략 등입니다.",
-  "analyzed_at": "2026-05-23T01:00:35.017Z",
-  "post_count": 61,
+  "narrative": "최근 스타벅스와 정치 관련 논란이 많아 부정적인 감정이 많습니다. 그러나 AI 기술과 관련 뉴스가 많아 긍정적인 기회도 있습니다. 스타벅스 브랜드 이미지를 회복하기 위한 마케팅 전략을 수립하고, AI 기술 관련 산업에 투자할 기회를 찾는 것이 중요합니다. 또한, 민주당과 정치 관련 논란이 많아 정치 관련 마케팅 전략을 수립하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-23T02:30:33.849Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
