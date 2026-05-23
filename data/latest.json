@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스벅 불매운동",
-      "summary": "스벅 불매운동 관련 게시글이 많아지고 있습니다. 일부 사용자들은 정부의 불매운동 참여를 비판하고 있습니다.",
+      "topic": "김용남 후보 이슈",
+      "summary": "김용남 후보의 대부업체 운영 의혹과 관련된 논란이 클리앙 커뮤니티에서热한 논쟁이 되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "스벅 사태",
+      "summary": "스타벅스에서 발생한 사고와 관련된 논란이 클리앙 커뮤니티에서 논쟁이 되고 있습니다.",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스가 많이 보도되고 있습니다. 사용자들은 AI 기술의 발전과 그로 인한 사회적 영향에 대해 관심을 보이고 있습니다.",
-      "post_count": 10,
+      "summary": "AI 기술과 관련된 뉴스와 정보가 클리앙 커뮤니티에서 관심을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "선거 관련",
-      "summary": "선거 관련 게시글이 많아지고 있습니다. 일부 사용자들은 후보자에 대한 의견을 공유하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "스벅",
-      "count": 5,
+      "keyword": "김용남",
+      "count": 20,
       "sentiment": "negative",
-      "context": "불매운동 관련"
+      "context": "대부업체 운영 의혹"
+    },
+    {
+      "keyword": "스벅",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "사고와 관련된 논란"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 25,
       "sentiment": "positive",
-      "context": "기술 발전과 사회적 영향"
-    },
-    {
-      "keyword": "선거",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "후보자에 대한 의견"
+      "context": "기술과 관련된 뉴스와 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적인 분위기이지만 일부 사용자들은 강한 의견을 가지고 있습니다."
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "스벅 불매운동은 일부 사용자들의 강한 반발을 불러일으킬 수 있습니다.",
-      "action": "마케팅 전략을 조정하여 사용자들의 반발을 최소화할 필요가 있습니다.",
+      "insight": "클리앙 커뮤니티에서 정치와 사회 문제가 많은 관심을 받고 있습니다.",
+      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 사용자들의 관심을 끌어모으는 주제입니다.",
-      "action": "AI 기술 관련 콘텐츠를 개발하여 사용자들의 관심을 끌어모으는 마케팅 전략을 수립할 필요가 있습니다.",
+      "insight": "AI 기술과 관련된 뉴스와 정보가 클리앙 커뮤니티에서 관심을 받고 있습니다.",
+      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 스벅 불매운동과 AI 기술 관련 게시글이 많아지고 있습니다. 일부 사용자들은 정부의 불매운동 참여를 비판하고 있으며, AI 기술의 발전과 그로 인한 사회적 영향에 대해 관심을 보이고 있습니다. 선거 관련 게시글도 많아지고 있습니다. 마케터들은 이러한 트렌드를 고려하여 마케팅 전략을 조정하고, 사용자들의 관심을 끌어모으는 콘텐츠를 개발할 필요가 있습니다. 또한, 일부 사용자들의 강한 반발을 최소화하기 위해 마케팅 전략을 조정할 필요가 있습니다.",
-  "analyzed_at": "2026-05-23T09:00:34.774Z",
+  "narrative": "클리앙 커뮤니티에서는 정치와 사회 문제가 많은 관심을 받고 있습니다. 특히 김용남 후보의 대부업체 운영 의혹과 관련된 논란이热한 논쟁이 되고 있습니다. 또한 스타벅스에서 발생한 사고와 관련된 논란도 관심을 받고 있습니다. 반면 AI 기술과 관련된 뉴스와 정보가 클리앙 커뮤니티에서 관심을 받고 있습니다. 이러한 트렌드를 분석하여 관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-05-23T10:30:34.252Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
