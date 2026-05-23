@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남 대부업체 논란",
-      "summary": "김용남 후보의 대부업체 소유 논란이 클리앙 커뮤니티에서 큰 이슈가 되고 있습니다. 많은 이용자들이 김용남 후보의 자격에 대해 의문을 제기하고 있습니다.",
-      "post_count": 15,
+      "topic": "김용남",
+      "summary": "김용남 관련 논란과 여론의 반응",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "조국 관련 논란",
-      "summary": "조국 관련 논란이 클리앙 커뮤니티에서 계속해서 이슈가 되고 있습니다. 많은 이용자들이 조국에 대한 의견을 나누고 있습니다.",
-      "post_count": 8,
+      "topic": "조국",
+      "summary": "조국 관련 논란과 여론의 반응",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "스타벅스 논란",
-      "summary": "스타벅스 관련 논란이 클리앙 커뮤니티에서 이슈가 되고 있습니다. 많은 이용자들이 스타벅스에 대한 의견을 나누고 있습니다.",
+      "topic": "스타벅스",
+      "summary": "스타벅스 관련 논란과 여론의 반응",
       "post_count": 3,
       "sentiment": "negative",
       "urgency": "low"
@@ -25,43 +25,48 @@
   "keywords": [
     {
       "keyword": "김용남",
-      "count": 20,
+      "count": 15,
       "sentiment": "negative",
-      "context": "대부업체 소유 논란"
+      "context": "김용남 관련 논란"
     },
     {
       "keyword": "조국",
-      "count": 10,
+      "count": 8,
       "sentiment": "mixed",
-      "context": "관련 논란"
+      "context": "조국 관련 논란"
     },
     {
       "keyword": "스타벅스",
       "count": 5,
       "sentiment": "negative",
-      "context": "관련 논란"
+      "context": "스타벅스 관련 논란"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
     "negative": 30,
     "neutral": 20,
-    "overall_mood": "부정적인 분위기"
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "김용남 대부업체 논란은 정치적인 이슈로 클리앙 커뮤니티에서 큰 관심을 받고 있습니다.",
-      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
+      "insight": "김용남 관련 논란이 여론에 큰 영향을 미치고 있다",
+      "action": "김용남 관련 논란에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "조국 관련 논란은 클리앙 커뮤니티에서 계속해서 이슈가 되고 있습니다.",
-      "action": "조국 관련 논란에 대한 대응을 준비해야 합니다.",
+      "insight": "조국 관련 논란이 여론에 혼재된 반응을 보이고 있다",
+      "action": "조국 관련 논란에 대한 중립적인 입장 취하기",
       "priority": "medium"
+    },
+    {
+      "insight": "스타벅스 관련 논란이 여론에 부정적인 영향을 미치고 있다",
+      "action": "스타벅스 관련 논란에 대한 사과와 보상 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 김용남 대부업체 논란과 조국 관련 논란이 큰 이슈가 되고 있습니다. 많은 이용자들이 이에 대한 의견을 나누고 있습니다. 정치적인 이슈에 대한 대응을 준비해야 합니다. 또한, 스타벅스 관련 논란도 이슈가 되고 있습니다. 클리앙 커뮤니티의 이용자들은 다양한 주제에 대해 열띤 의견을 나누고 있습니다.",
-  "analyzed_at": "2026-05-23T04:00:33.710Z",
+  "narrative": "최근 클리앙 커뮤니티에서 김용남, 조국, 스타벅스 관련 논란이 큰 이슈로 떠올랐다. 김용남 관련 논란은 여론에 큰 영향을 미치고 있으며, 조국 관련 논란은 여론에 혼재된 반응을 보이고 있다. 스타벅스 관련 논란은 여론에 부정적인 영향을 미치고 있다. 이러한 이슈에 대한 대응 전략을 수립하여 여론에 긍정적인 영향을 미칠 수 있도록 해야 한다. 또한, 이러한 이슈를 통해 클리앙 커뮤니티의 여론과 관심사를 파악할 수 있으며, 이를 통해 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-05-23T05:30:34.882Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
