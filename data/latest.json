@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "노무현 대통령 서거 17주기 추도식 및 이재명 대통령의 추도사",
+      "topic": "스벅 불매운동",
+      "summary": "스벅 불매운동 관련 게시글이 많아지고 있습니다. 일부 사용자들은 정부의 불매운동 참여를 비판하고 있습니다.",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 개발 동향",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 뉴스가 많이 보도되고 있습니다. 사용자들은 AI 기술의 발전과 그로 인한 사회적 영향에 대해 관심을 보이고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
     },
     {
-      "topic": "사회",
-      "summary": "한국 사회 및 문화 관련 뉴스",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "선거 관련",
+      "summary": "선거 관련 게시글이 많아지고 있습니다. 일부 사용자들은 후보자에 대한 의견을 공유하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "스벅",
       "count": 5,
-      "sentiment": "positive",
-      "context": "노무현 대통령 서거 17주기 추도사"
-    },
-    {
-      "keyword": "노무현",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "서거 17주기 추도식"
+      "sentiment": "negative",
+      "context": "불매운동 관련"
     },
     {
       "keyword": "AI",
       "count": 10,
+      "sentiment": "positive",
+      "context": "기술 발전과 사회적 영향"
+    },
+    {
+      "keyword": "선거",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "최신 기술 뉴스"
+      "context": "후보자에 대한 의견"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
     "negative": 5,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기이지만 일부 사용자들은 강한 의견을 가지고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술 개발 동향을 주시하여 사업 기회를 찾을 수 있다",
-      "action": "기술 개발 투자",
+      "insight": "스벅 불매운동은 일부 사용자들의 강한 반발을 불러일으킬 수 있습니다.",
+      "action": "마케팅 전략을 조정하여 사용자들의 반발을 최소화할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "한국 사회 및 문화 관련 뉴스를 분석하여 마케팅 전략을 수립할 수 있다",
-      "action": "마케팅 전략 수립",
+      "insight": "AI 기술은 사용자들의 관심을 끌어모으는 주제입니다.",
+      "action": "AI 기술 관련 콘텐츠를 개발하여 사용자들의 관심을 끌어모으는 마케팅 전략을 수립할 필요가 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서 정치 및 기술 관련 주제가 많이 обсужд되고 있습니다. 노무현 대통령 서거 17주기 추도식 및 이재명 대통령의 추도사 등 정치 관련 뉴스가 주목을 받고 있으며, 최신 기술 개발 동향도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 사업 기회를 찾거나 마케팅 전략을 수립할 수 있습니다. 또한, 한국 사회 및 문화 관련 뉴스를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-23T07:00:33.921Z",
+  "narrative": "최근 클리앙 커뮤니티에서는 스벅 불매운동과 AI 기술 관련 게시글이 많아지고 있습니다. 일부 사용자들은 정부의 불매운동 참여를 비판하고 있으며, AI 기술의 발전과 그로 인한 사회적 영향에 대해 관심을 보이고 있습니다. 선거 관련 게시글도 많아지고 있습니다. 마케터들은 이러한 트렌드를 고려하여 마케팅 전략을 조정하고, 사용자들의 관심을 끌어모으는 콘텐츠를 개발할 필요가 있습니다. 또한, 일부 사용자들의 강한 반발을 최소화하기 위해 마케팅 전략을 조정할 필요가 있습니다.",
+  "analyzed_at": "2026-05-23T09:00:34.774Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
