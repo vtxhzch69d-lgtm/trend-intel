@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스",
-      "summary": "스타벅스 관련 논란과 사건",
-      "post_count": 5,
+      "topic": "김용남 대부업체 논란",
+      "summary": "김용남 후보의 대부업체 소유 논란이 클리앙 커뮤니티에서 큰 이슈가 되고 있습니다. 많은 이용자들이 김용남 후보의 자격에 대해 의문을 제기하고 있습니다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "민주당과 정치 관련 논란",
-      "post_count": 10,
+      "topic": "조국 관련 논란",
+      "summary": "조국 관련 논란이 클리앙 커뮤니티에서 계속해서 이슈가 되고 있습니다. 많은 이용자들이 조국에 대한 의견을 나누고 있습니다.",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련 뉴스",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "스타벅스 논란",
+      "summary": "스타벅스 관련 논란이 클리앙 커뮤니티에서 이슈가 되고 있습니다. 많은 이용자들이 스타벅스에 대한 의견을 나누고 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "스타벅스",
-      "count": 7,
+      "keyword": "김용남",
+      "count": 20,
       "sentiment": "negative",
-      "context": "스타벅스 관련 논란"
+      "context": "대부업체 소유 논란"
     },
     {
-      "keyword": "민주당",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "민주당과 정치 관련 논란"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "조국",
       "count": 10,
-      "sentiment": "positive",
-      "context": "최신 AI 기술과 관련 뉴스"
+      "sentiment": "mixed",
+      "context": "관련 논란"
+    },
+    {
+      "keyword": "스타벅스",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "관련 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정과 혼합된 감정이 많음"
+    "positive": 10,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 관련 논란이 많아 브랜드 이미지가 손상될 수 있음",
-      "action": "스타벅스 브랜드 이미지를 회복하기 위한 마케팅 전략 수립",
+      "insight": "김용남 대부업체 논란은 정치적인 이슈로 클리앙 커뮤니티에서 큰 관심을 받고 있습니다.",
+      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 빠르게 발전하고 있어 관련 산업에 투자할 기회가 많음",
-      "action": "AI 기술 관련 산업에 투자하고 연구 개발에 집중",
+      "insight": "조국 관련 논란은 클리앙 커뮤니티에서 계속해서 이슈가 되고 있습니다.",
+      "action": "조국 관련 논란에 대한 대응을 준비해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 스타벅스와 정치 관련 논란이 많아 부정적인 감정이 많습니다. 그러나 AI 기술과 관련 뉴스가 많아 긍정적인 기회도 있습니다. 스타벅스 브랜드 이미지를 회복하기 위한 마케팅 전략을 수립하고, AI 기술 관련 산업에 투자할 기회를 찾는 것이 중요합니다. 또한, 민주당과 정치 관련 논란이 많아 정치 관련 마케팅 전략을 수립하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-23T02:30:33.849Z",
+  "narrative": "클리앙 커뮤니티에서 김용남 대부업체 논란과 조국 관련 논란이 큰 이슈가 되고 있습니다. 많은 이용자들이 이에 대한 의견을 나누고 있습니다. 정치적인 이슈에 대한 대응을 준비해야 합니다. 또한, 스타벅스 관련 논란도 이슈가 되고 있습니다. 클리앙 커뮤니티의 이용자들은 다양한 주제에 대해 열띤 의견을 나누고 있습니다.",
+  "analyzed_at": "2026-05-23T04:00:33.710Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
