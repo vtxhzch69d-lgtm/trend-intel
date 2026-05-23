@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그로 인한 다양한 산업의 변화",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "스포츠토토",
-      "summary": "스포츠토토의 인기와 관련된 다양한 뉴스",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치적인 이슈와 관련된 다양한 뉴스",
+      "topic": "김용남 대부업 논란",
+      "summary": "김용남의 대부업 논란이 클리앙 커뮤니티에서 큰 이슈가 되고 있습니다. 사용자들은 김용남의 행동을 비판하며 민주당의 대응을 요구하고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령에 대한 논란이 클리앙 커뮤니티에서 계속되고 있습니다. 사용자들은 이재명 대통령의 정책과 행동을 비판하며 그의 리더십을 의심하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 관심이 클리앙 커뮤니티에서 증가하고 있습니다. 사용자들은 AI 기술의 발전과 그에 따른 사회적 영향에 대해 논의하고 있습니다.",
+      "post_count": 12,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "keyword": "김용남",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "대부업 논란"
     },
     {
-      "keyword": "스포츠토",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "스포츠토의 인기"
-    },
-    {
-      "keyword": "정치",
+      "keyword": "이재명",
       "count": 10,
       "sentiment": "negative",
-      "context": "정치적인 이슈"
+      "context": "대통령에 대한 비판"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "기술 발전과 사회적 영향"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "positive": 10,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "김용남 대부업 논란은 민주당의 이미지를 악화시킬 수 있습니다.",
+      "action": "민주당은 김용남의 행동에 대한 대응을 즉시 취해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "스포츠토의 인기",
-      "action": "스포츠토 관련 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있습니다.",
+      "action": "기업들은 AI 기술의 발전을 주시하고 그에 따른 기회와 위협을 분석해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적인 이슈",
-      "action": "정치적인 이슈에 대한 비즈니스 대응 전략 개발",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 스포츠토의 인기, 정치적인 이슈가 주요한 주제로 나타났습니다. AI 기술의 발전은 다양한 산업의 변화를 가져올 것으로 예상되며, 스포츠토의 인기와 정치적인 이슈는 비즈니스 모델 개발과 대응 전략 개발의 필요성을 강조합니다. 이러한 트렌드에 대한 분석과 이해는 비즈니스에 대한 새로운 기회와 도전을 제공할 수 있습니다.",
-  "analyzed_at": "2026-05-23T12:00:33.651Z",
+  "narrative": "클리앙 커뮤니티에서는 김용남 대부업 논란과 이재명 대통령에 대한 비판이 큰 이슈가 되고 있습니다. 사용자들은 이러한 문제에 대한 대응을 요구하며 민주당의 이미지를 악화시킬 수 있습니다. 또한, AI 기술의 발전에 대한 관심이 증가하고 있습니다. 기업들은 이러한 트렌드를 주시하고 그에 따른 기회와 위협을 분석해야 합니다. 부정적인 감정의 우세로 인해 기업들은 소비자들의 감정을 이해하고 그에 따른 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-05-23T13:30:34.226Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
