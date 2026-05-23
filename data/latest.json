@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남 후보 이슈",
-      "summary": "김용남 후보의 대부업체 운영 의혹과 관련된 논란이 클리앙 커뮤니티에서热한 논쟁이 되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그로 인한 다양한 산업의 변화",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "스벅 사태",
-      "summary": "스타벅스에서 발생한 사고와 관련된 논란이 클리앙 커뮤니티에서 논쟁이 되고 있습니다.",
+      "topic": "스포츠토토",
+      "summary": "스포츠토토의 인기와 관련된 다양한 뉴스",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 뉴스와 정보가 클리앙 커뮤니티에서 관심을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치적인 이슈와 관련된 다양한 뉴스",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "김용남",
+      "keyword": "AI",
       "count": 20,
-      "sentiment": "negative",
-      "context": "대부업체 운영 의혹"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "스벅",
+      "keyword": "스포츠토",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "스포츠토의 인기"
+    },
+    {
+      "keyword": "정치",
       "count": 10,
       "sentiment": "negative",
-      "context": "사고와 관련된 논란"
-    },
-    {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "기술과 관련된 뉴스와 정보"
+      "context": "정치적인 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 정치와 사회 문제가 많은 관심을 받고 있습니다.",
-      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술과 관련된 뉴스와 정보가 클리앙 커뮤니티에서 관심을 받고 있습니다.",
-      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
+      "insight": "스포츠토의 인기",
+      "action": "스포츠토 관련 비즈니스 모델 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "정치적인 이슈",
+      "action": "정치적인 이슈에 대한 비즈니스 대응 전략 개발",
+      "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 정치와 사회 문제가 많은 관심을 받고 있습니다. 특히 김용남 후보의 대부업체 운영 의혹과 관련된 논란이热한 논쟁이 되고 있습니다. 또한 스타벅스에서 발생한 사고와 관련된 논란도 관심을 받고 있습니다. 반면 AI 기술과 관련된 뉴스와 정보가 클리앙 커뮤니티에서 관심을 받고 있습니다. 이러한 트렌드를 분석하여 관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-05-23T10:30:34.252Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 스포츠토의 인기, 정치적인 이슈가 주요한 주제로 나타났습니다. AI 기술의 발전은 다양한 산업의 변화를 가져올 것으로 예상되며, 스포츠토의 인기와 정치적인 이슈는 비즈니스 모델 개발과 대응 전략 개발의 필요성을 강조합니다. 이러한 트렌드에 대한 분석과 이해는 비즈니스에 대한 새로운 기회와 도전을 제공할 수 있습니다.",
+  "analyzed_at": "2026-05-23T12:00:33.651Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
