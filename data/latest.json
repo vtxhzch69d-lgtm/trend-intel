@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남",
-      "summary": "김용남 관련 논란과 여론의 반응",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "조국",
-      "summary": "조국 관련 논란과 여론의 반응",
+      "topic": "정치",
+      "summary": "노무현 대통령 서거 17주기 추도식 및 이재명 대통령의 추도사",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스타벅스",
-      "summary": "스타벅스 관련 논란과 여론의 반응",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스 및 개발 동향",
+      "post_count": 20,
+      "sentiment": "neutral",
       "urgency": "low"
+    },
+    {
+      "topic": "사회",
+      "summary": "한국 사회 및 문화 관련 뉴스",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "김용남",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "김용남 관련 논란"
-    },
-    {
-      "keyword": "조국",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "조국 관련 논란"
-    },
-    {
-      "keyword": "스타벅스",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "negative",
-      "context": "스타벅스 관련 논란"
+      "sentiment": "positive",
+      "context": "노무현 대통령 서거 17주기 추도사"
+    },
+    {
+      "keyword": "노무현",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "서거 17주기 추도식"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 30,
-    "neutral": 20,
-    "overall_mood": "부정적"
+    "positive": 15,
+    "negative": 5,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "김용남 관련 논란이 여론에 큰 영향을 미치고 있다",
-      "action": "김용남 관련 논란에 대한 대응 전략 수립",
+      "insight": "최신 기술 개발 동향을 주시하여 사업 기회를 찾을 수 있다",
+      "action": "기술 개발 투자",
       "priority": "high"
     },
     {
-      "insight": "조국 관련 논란이 여론에 혼재된 반응을 보이고 있다",
-      "action": "조국 관련 논란에 대한 중립적인 입장 취하기",
+      "insight": "한국 사회 및 문화 관련 뉴스를 분석하여 마케팅 전략을 수립할 수 있다",
+      "action": "마케팅 전략 수립",
       "priority": "medium"
-    },
-    {
-      "insight": "스타벅스 관련 논란이 여론에 부정적인 영향을 미치고 있다",
-      "action": "스타벅스 관련 논란에 대한 사과와 보상 전략 수립",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 김용남, 조국, 스타벅스 관련 논란이 큰 이슈로 떠올랐다. 김용남 관련 논란은 여론에 큰 영향을 미치고 있으며, 조국 관련 논란은 여론에 혼재된 반응을 보이고 있다. 스타벅스 관련 논란은 여론에 부정적인 영향을 미치고 있다. 이러한 이슈에 대한 대응 전략을 수립하여 여론에 긍정적인 영향을 미칠 수 있도록 해야 한다. 또한, 이러한 이슈를 통해 클리앙 커뮤니티의 여론과 관심사를 파악할 수 있으며, 이를 통해 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-05-23T05:30:34.882Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서 정치 및 기술 관련 주제가 많이 обсужд되고 있습니다. 노무현 대통령 서거 17주기 추도식 및 이재명 대통령의 추도사 등 정치 관련 뉴스가 주목을 받고 있으며, 최신 기술 개발 동향도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 사업 기회를 찾거나 마케팅 전략을 수립할 수 있습니다. 또한, 한국 사회 및 문화 관련 뉴스를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-23T07:00:33.921Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
