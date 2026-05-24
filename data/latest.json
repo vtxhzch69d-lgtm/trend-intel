@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 불매",
-      "summary": "스타벅스 불매 여파에 카톡 선물하기 순위 급락, 스타벅스 선불금 지급명령 신청",
-      "post_count": 5,
+      "topic": "일베 폐쇄 논란",
+      "summary": "일베 폐쇄 논란이 커뮤니티에서 뜨거운 감자로 떠올랐다. 일베의 폐쇄 여부와 관련된 게시글이 많다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "일베 폐쇄",
-      "summary": "이 대통령 '일베 등 사이트 폐쇄·처벌 검토 지시', 경찰 '5·18 허위사실 게시' 온라인 계정 내사 착수",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "AI 기술 발전",
+      "summary": "AI 기술의 발전이 다양한 분야에서 활용되고 있다. 관련된 게시글이 많다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "오픈AI 80년 수학난제 해결, 앤트로픽, 일부 모델 오류율 급증, 베이조스, AI 거품론 일축",
-      "post_count": 6,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "삼성전자 뉴스",
+      "summary": "삼성전자의 최신 뉴스가 커뮤니티에서 많이 обсужд되고 있다. 관련된 게시글이 많다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "스타벅스",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "불매 여파에 카톡 선물하기 순위 급락"
-    },
-    {
       "keyword": "일베",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "이 대통령 '일베 등 사이트 폐쇄·처벌 검토 지시'"
+      "count": 20,
+      "sentiment": "negative",
+      "context": "일베 폐쇄 논란"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 25,
       "sentiment": "positive",
-      "context": "오픈AI 80년 수학난제 해결, 앤트로픽, 일부 모델 오류율 급증"
+      "context": "AI 기술 발전"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "삼성전자 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 불매 여파에 카톡 선물하기 순위 급락",
-      "action": "스타벅스에 대한 마케팅 전략 재검토",
+      "insight": "일베 폐쇄 논란이 커뮤니티에서 뜨거운 감자로 떠올랐다.",
+      "action": "일베 폐쇄 논란에 대한 대응을 준비해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전이 다양한 분야에서 활용되고 있다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발해야 한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "삼성전자의 최신 뉴스가 커뮤니티에서 많이 обсужд되고 있다.",
+      "action": "삼성전자 뉴스에 대한 모니터링을 강화해야 한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 스타벅스 불매 여파에 카톡 선물하기 순위가 급락하였으며, 이 대통령은 일베 등 사이트 폐쇄·처벌 검토 지시를 하였습니다. 또한, AI 기술의 발전이 속속들이 나타나고 있습니다. 이러한 트렌드에 따라 마케팅 전략을 재검토하고, AI 기술을 활용한 새로운 비즈니스 모델을 개발하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-24T14:30:33.511Z",
+  "narrative": "커뮤니티에서 일베 폐쇄 논란이 뜨거운 감자로 떠올랐다. 일베의 폐쇄 여부와 관련된 게시글이 많다. 또한, AI 기술의 발전이 다양한 분야에서 활용되고 있다. 관련된 게시글이 많다. 삼성전자의 최신 뉴스가 커뮤니티에서 많이 обсужд되고 있다. 관련된 게시글이 많다. 이러한 트렌드를 분석하여 비즈니스 인사이트를 도출하고, 적절한 액션을 취해야 한다.",
+  "analyzed_at": "2026-05-24T16:00:34.004Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
