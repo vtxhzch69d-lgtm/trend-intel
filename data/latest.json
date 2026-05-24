@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "일베 폐쇄",
-      "summary": "일베 폐쇄에 대한 찬반 논란이 커뮤니티에서 진행 중입니다. 일부 사용자는 일베 폐쇄를 찬성하며, 혐오 커뮤니티 폐쇄를 주장합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 반도체 사업과 관련된 뉴스가 여러 개あり, 사용자들은 이를 주목하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "한국 정치 상황과 후보자들의 공약",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 뉴스가 여러 개あり, 사용자들은 이를 주목하고 있습니다.",
+      "topic": "경제",
+      "summary": "한국 경제 상황과 기업들의 성과",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일베",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "일베 폐쇄에 대한 논란"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "한국",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "한국 정치와 경제 상황"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "삼성전자의 반도체 사업"
-    },
-    {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스"
+      "context": "한국 경제 상황"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 25,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "일베 폐쇄에 대한 논란이 커뮤니티에서 진행 중입니다.",
-      "action": "일베 폐쇄에 대한 찬반 논란을 주목하고, 사용자들의 의견을 수렴하여 대응해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "action": "AI 기술을 활용한 산업 투자",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 반도체 사업과 관련된 뉴스가 여러 개あり, 사용자들은 이를 주목하고 있습니다.",
-      "action": "삼성전자의 반도체 사업과 관련된 뉴스를 주목하고, 사용자들의 관심을 유도하는 마케팅 전략을 수립해야 합니다.",
+      "insight": "한국 정치 상황은 경제에 영향을 미칠 수 있다",
+      "action": "한국 정치 상황을 주시하고 경제에 대한 영향 분석",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술과 관련된 뉴스가 여러 개あり, 사용자들은 이를 주목하고 있습니다.",
-      "action": "AI 기술과 관련된 뉴스를 주목하고, 사용자들의 관심을 유도하는 마케팅 전략을 수립해야 합니다.",
-      "priority": "high"
+      "insight": "한국 경제 상황은 기업들의 성과에 영향을 미칠 수 있다",
+      "action": "한국 경제 상황을 주시하고 기업들의 성과 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "커뮤니티에서는 일베 폐쇄에 대한 논란이 진행 중입니다. 일부 사용자는 일베 폐쇄를 찬성하며, 혐오 커뮤니티 폐쇄를 주장합니다. 또한, 삼성전자의 반도체 사업과 관련된 뉴스가 여러 개あり, 사용자들은 이를 주목하고 있습니다. AI 기술과 관련된 뉴스도 여러 개あり, 사용자들은 이를 주목하고 있습니다. 이러한 트렌드를 주목하고, 사용자들의 의견을 수렴하여 대응하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-24T05:00:34.814Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 또한, 한국 정치 상황과 후보자들의 공약이 논의되고 있으며, 한국 경제 상황과 기업들의 성과도 주시되고 있다. 이러한 상황은 기업들에게 새로운 기회와 도전을 제공하고 있으며, 기업들은 이러한 상황을 주시하고 적절한 전략을 수립해야 한다. 특히, AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있으므로, 기업들은 AI 기술을 활용한 산업 투자를 고려해야 한다. 또한, 한국 정치 상황과 경제 상황을 주시하고 이러한 상황에 대한 영향 분석을 통해 기업들은 자신의 성과를 향상시킬 수 있다.",
+  "analyzed_at": "2026-05-24T06:30:34.661Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
