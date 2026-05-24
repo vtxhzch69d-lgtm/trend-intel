@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
+      "topic": "토트넘 프리미어리그 잔류",
+      "summary": "토트넘 핫스퍼가 프리미어리그 잔류를 확정했다. 이에 관련된 게시글이 많다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
       "topic": "일베 척결",
-      "summary": "일베의 폐쇄와 척결에 대한 논의가 진행되고 있습니다. 일부 사용자들은 일베의 폐쇄를 주장하며, 다른 사용자들은 일베의 존재가 필요한 이유를 설명하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "summary": "일베에 대한 척결과 관련된 게시글이 많다. 이 대통령의 일베 척결이 중요한 이유를 설명하는 게시글도 있다.",
+      "post_count": 7,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 사회적 영향에 대한 논의가 진행되고 있습니다. 일부 사용자들은 AI 기술의 잠재적 위험성을 경고하며, 다른 사용자들은 AI 기술의 혜택을 강조하고 있습니다.",
-      "post_count": 15,
+      "summary": "AI 기술과 관련된 게시글이 많다. AI 기술의 발전과 관련된 뉴스와 분석이 포함되어 있다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
-    },
-    {
-      "topic": "토트넘 핫스퍼",
-      "summary": "토트넘 핫스퍼의 최근 경기 결과와 선수 이적에 대한 논의가 진행되고 있습니다. 일부 사용자들은 팀의 성적을 비판하며, 다른 사용자들은 선수들의 활약을 칭찬하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "토트넘",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "토트넘 핫스퍼의 프리미어리그 잔류"
+    },
+    {
       "keyword": "일베",
-      "count": 20,
+      "count": 7,
       "sentiment": "negative",
-      "context": "일베의 폐쇄와 척결에 대한 논의"
+      "context": "일베 척결과 관련된 게시글"
     },
     {
       "keyword": "AI",
-      "count": 30,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 그에 따른 사회적 영향"
-    },
-    {
-      "keyword": "토트넘 핫스퍼",
       "count": 10,
-      "sentiment": "positive",
-      "context": "토트넘 핫스퍼의 최근 경기 결과와 선수 이적"
+      "sentiment": "neutral",
+      "context": "AI 기술과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기이지만, 일베 척결과 관련된 게시글이 많아 부정적인 분위기도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "일베의 폐쇄와 척결에 대한 논의는 사회적 문제 해결을 위한 기회입니다.",
-      "action": "일베의 폐쇄와 척결을 위한 캠페인을 진행합니다.",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술의 발전은 새로운 비즈니스 기회를 제공할 수 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발합니다.",
+      "insight": "토트넘 핫스퍼의 프리미어리그 잔류는 영국과 한국의 스포츠 팬들에게 큰 관심을 끌고 있다.",
+      "action": "토트넘 핫스퍼와 관련된 마케팅 캠페인을 진행할 수 있다.",
       "priority": "medium"
     },
     {
-      "insight": "토트넘 핫스퍼의 최근 경기 결과와 선수 이적은 스포츠 마케팅의 기회입니다.",
-      "action": "토트넘 핫스퍼와의 협력을 통해 스포츠 마케팅 캠페인을 진행합니다.",
-      "priority": "low"
+      "insight": "일베 척결은 한국 사회에서 중요한 문제로 인식되고 있다.",
+      "action": "일베 척결과 관련된 사회 공헌 활동을 진행할 수 있다.",
+      "priority": "high"
+    },
+    {
+      "insight": "AI 기술은 다양한 산업에서 중요한 역할을 하고 있다.",
+      "action": "AI 기술과 관련된 연구와 개발을 진행할 수 있다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 일베의 폐쇄와 척결, AI 기술의 발전, 토트넘 핫스퍼의 최근 경기 결과와 선수 이적이 주요한 주제로 나타났습니다. 일베의 폐쇄와 척결에 대한 논의는 사회적 문제 해결을 위한 기회입니다. AI 기술의 발전은 새로운 비즈니스 기회를 제공할 수 있습니다. 토트넘 핫스퍼의 최근 경기 결과와 선수 이적은 스포츠 마케팅의 기회입니다. 이러한 트렌드를 분석하여 비즈니스 기회를 찾고, 사회적 문제 해결을 위한 캠페인을 진행할 수 있습니다.",
-  "analyzed_at": "2026-05-24T19:00:33.832Z",
+  "narrative": "최근의 트렌드는 토트넘 핫스퍼의 프리미어리그 잔류와 일베 척결, AI 기술과 관련된 게시글이 많다. 토트넘 핫스퍼의 프리미어리그 잔류는 영국과 한국의 스포츠 팬들에게 큰 관심을 끌고 있다. 일베 척결은 한국 사회에서 중요한 문제로 인식되고 있다. AI 기술은 다양한 산업에서 중요한 역할을 하고 있다. 이러한 트렌드를 바탕으로 마케팅 캠페인과 사회 공헌 활동, 연구와 개발을 진행할 수 있다.",
+  "analyzed_at": "2026-05-24T20:30:35.016Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
