@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "일베 폐쇄",
-      "summary": "일베 폐쇄에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다. 일부 사용자들은 일베 폐쇄를 주장하며, 다른 사용자들은 일베의 폐쇄가 표현의 자유를 침해한다고 주장한다.",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "정치 관련 게시물이 많은 것으로 나타났습니다. 특히, 대통령과 정치인에 대한 논의가 많았습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술에 대한 관심이 클리앙 커뮤니티에서 증가하고 있다. 사용자들은 AI 기술의 발전과 이를 활용한 다양한 응용 분야에 대해 논의하고 있다.",
-      "post_count": 15,
+      "topic": "기술",
+      "summary": "기술 관련 게시물이 많았습니다. 특히, AI와 전기차에 대한 논의가 많았습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스마트폰",
-      "summary": "스마트폰 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있다. 사용자들은 새로운 스마트폰 모델과 기술에 대해 논의하고 있다.",
+      "topic": "경제",
+      "summary": "경제 관련 게시물이 많았습니다. 특히, 기업과 경제 정책에 대한 논의가 많았습니다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,49 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "일베",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "일베 폐쇄에 대한 논의"
-    },
-    {
       "keyword": "AI",
-      "count": 30,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용 분야"
+      "context": "AI 기술의 발전과 적용에 대한 논의"
     },
     {
-      "keyword": "스마트폰",
+      "keyword": "정치",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "새로운 스마트폰 모델과 기술"
+      "sentiment": "mixed",
+      "context": "정치 관련 게시물과 논의"
+    },
+    {
+      "keyword": "전기차",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "전기차의 발전과 적용에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "일베 폐쇄에 대한 논의가 증가하고 있다.",
-      "action": "일베 폐쇄에 대한 정책을 검토하고 대응해야 한다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술의 적용과 투자",
       "priority": "high"
     },
     {
-      "insight": "AI 기술에 대한 관심이 증가하고 있다.",
-      "action": "AI 기술을 활용한 새로운 서비스와 제품을 개발해야 한다.",
+      "insight": "전기차의 발전",
+      "action": "전기차의 개발과 판매",
       "priority": "medium"
     },
     {
-      "insight": "스마트폰 관련 뉴스가 많이 обсужд되고 있다.",
-      "action": "새로운 스마트폰 모델과 기술에 대한 정보를 제공해야 한다.",
+      "insight": "경제 정책의 영향",
+      "action": "경제 정책의 분석과 대응",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 일베 폐쇄에 대한 논의가 증가하고 있으며, AI 기술에 대한 관심도 증가하고 있다. 스마트폰 관련 뉴스도 많이 обсужд되고 있다. 이러한 트렌드를 분석하여 일베 폐쇄에 대한 정책을 검토하고, AI 기술을 활용한 새로운 서비스와 제품을 개발하며, 새로운 스마트폰 모델과 기술에 대한 정보를 제공해야 한다. 이러한 노력으로 클리앙 커뮤니티 사용자들의 관심과 참여를 높일 수 있을 것이다.",
-  "analyzed_at": "2026-05-24T11:30:34.528Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 게시물이 많았습니다. 특히, AI와 전기차에 대한 논의가 많았습니다. 이러한 트렌드는 기업과 정부의 정책과 결정에 영향을 미칠 수 있습니다. 따라서, 이러한 트렌드를 분석하고 대응하는 것이 중요합니다. 또한, AI 기술의 발전과 전기차의 발전은 미래의 산업과 경제에 큰 영향을 미칠 수 있습니다. 따라서, 이러한 기술의 발전과 적용에 대한 투자와 개발이 필요합니다.",
+  "analyzed_at": "2026-05-24T13:00:34.549Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
