@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련 게시물이 많은 것으로 나타났습니다. 특히, 대통령과 정치인에 대한 논의가 많았습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "스타벅스 불매",
+      "summary": "스타벅스 불매 여파에 카톡 선물하기 순위 급락, 스타벅스 선불금 지급명령 신청",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 게시물이 많았습니다. 특히, AI와 전기차에 대한 논의가 많았습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "일베 폐쇄",
+      "summary": "이 대통령 '일베 등 사이트 폐쇄·처벌 검토 지시', 경찰 '5·18 허위사실 게시' 온라인 계정 내사 착수",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 게시물이 많았습니다. 특히, 기업과 경제 정책에 대한 논의가 많았습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "오픈AI 80년 수학난제 해결, 앤트로픽, 일부 모델 오류율 급증, 베이조스, AI 거품론 일축",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용에 대한 논의"
+      "keyword": "스타벅스",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "불매 여파에 카톡 선물하기 순위 급락"
     },
     {
-      "keyword": "정치",
-      "count": 15,
+      "keyword": "일베",
+      "count": 4,
       "sentiment": "mixed",
-      "context": "정치 관련 게시물과 논의"
+      "context": "이 대통령 '일베 등 사이트 폐쇄·처벌 검토 지시'"
     },
     {
-      "keyword": "전기차",
-      "count": 5,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "전기차의 발전과 적용에 대한 논의"
+      "context": "오픈AI 80년 수학난제 해결, 앤트로픽, 일부 모델 오류율 급증"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 15,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술의 적용과 투자",
+      "insight": "스타벅스 불매 여파에 카톡 선물하기 순위 급락",
+      "action": "스타벅스에 대한 마케팅 전략 재검토",
       "priority": "high"
     },
     {
-      "insight": "전기차의 발전",
-      "action": "전기차의 개발과 판매",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 정책의 영향",
-      "action": "경제 정책의 분석과 대응",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 게시물이 많았습니다. 특히, AI와 전기차에 대한 논의가 많았습니다. 이러한 트렌드는 기업과 정부의 정책과 결정에 영향을 미칠 수 있습니다. 따라서, 이러한 트렌드를 분석하고 대응하는 것이 중요합니다. 또한, AI 기술의 발전과 전기차의 발전은 미래의 산업과 경제에 큰 영향을 미칠 수 있습니다. 따라서, 이러한 기술의 발전과 적용에 대한 투자와 개발이 필요합니다.",
-  "analyzed_at": "2026-05-24T13:00:34.549Z",
+  "narrative": "최근 스타벅스 불매 여파에 카톡 선물하기 순위가 급락하였으며, 이 대통령은 일베 등 사이트 폐쇄·처벌 검토 지시를 하였습니다. 또한, AI 기술의 발전이 속속들이 나타나고 있습니다. 이러한 트렌드에 따라 마케팅 전략을 재검토하고, AI 기술을 활용한 새로운 비즈니스 모델을 개발하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-24T14:30:33.511Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
