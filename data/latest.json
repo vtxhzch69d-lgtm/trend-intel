@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 쿠폰 환불",
-      "summary": "스타벅스 쿠폰 환불 신청 성공 사례가出现, 관련 게시물이 많은 관심을 받고 있다.",
+      "topic": "일베 폐쇄",
+      "summary": "일베 폐쇄에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다.",
       "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "이재명 SNS",
-      "summary": "이재명 의원의 SNS 활동이 논란이 되고 있다. 일부 네티즌들은 그의 발언을 비판하고 있다.",
-      "post_count": 4,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "울산 시장 선거",
-      "summary": "울산 시장 선거에서 민주당과 진보당의 단일화 여론조사가 논란이 되고 있다.",
-      "post_count": 3,
+      "topic": "김용남",
+      "summary": "김용남에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다.",
+      "post_count": 4,
       "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "스타벅스",
+      "keyword": "일베",
       "count": 10,
-      "sentiment": "positive",
-      "context": "스타벅스 쿠폰 환불 관련 게시물"
-    },
-    {
-      "keyword": "이재명",
-      "count": 8,
       "sentiment": "negative",
-      "context": "이재명 의원의 SNS 활동 관련 게시물"
+      "context": "일베 폐쇄에 대한 논의"
     },
     {
-      "keyword": "울산 시장",
+      "keyword": "김용남",
       "count": 5,
       "sentiment": "neutral",
-      "context": "울산 시장 선거 관련 게시물"
+      "context": "김용남에 대한 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 쿠폰 환불 정책이 고객 만족도에 긍정적인 영향을 미칠 수 있다.",
-      "action": "스타벅스 쿠폰 환불 정책을 검토하고 개선한다.",
+      "insight": "일베 폐쇄에 대한 논의가 클리언 커뮤니티에서 활발히 진행되고 있다.",
+      "action": "일베 폐쇄에 대한 논의를 주시하고 대응할 필요가 있다.",
       "priority": "high"
     },
     {
-      "insight": "이재명 의원의 SNS 활동이 그의 이미지에 부정적인 영향을 미칠 수 있다.",
-      "action": "이재명 의원의 SNS 활동을 검토하고 개선한다.",
+      "insight": "AI 기술에 대한 논의가 클리언 커뮤니티에서 진행되고 있다.",
+      "action": "AI 기술에 대한 투자를 고려할 필요가 있다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 스타벅스 쿠폰 환불, 이재명 SNS, 울산 시장 선거 등이 주요 관심사로 등장했다. 스타벅스 쿠폰 환불 관련 게시물은 많은 관심을 받고 있으며, 일부 네티즌들은 스타벅스 쿠폰 환불 정책을 긍정적으로 평가하고 있다. 반면, 이재명 의원의 SNS 활동은 일부 네티즌들의 비판을 받고 있다. 울산 시장 선거 관련 게시물은 중립적인 분위기를 보이고 있다. 이러한 분석 결과를 바탕으로, 스타벅스 쿠폰 환불 정책을 검토하고 개선하는 것이 중요할 것으로 보인다. 또한, 이재명 의원의 SNS 활동을 검토하고 개선하는 것이 필요할 수 있다.",
-  "analyzed_at": "2026-05-24T08:00:34.053Z",
+  "narrative": "클리앙 커뮤니티에서 일베 폐쇄에 대한 논의가 활발히 진행되고 있다. 김용남에 대한 논의도 진행되고 있다. AI 기술에 대한 논의도 진행되고 있다. 이러한 논의를 주시하고 대응할 필요가 있다. 또한, AI 기술에 대한 투자를 고려할 필요가 있다.",
+  "analyzed_at": "2026-05-24T10:00:33.207Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
