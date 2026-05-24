@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
+      "topic": "스타벅스 쿠폰 환불",
+      "summary": "스타벅스 쿠폰 환불 신청 성공 사례가出现, 관련 게시물이 많은 관심을 받고 있다.",
+      "post_count": 5,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "한국 정치 상황과 후보자들의 공약",
-      "post_count": 10,
-      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "한국 경제 상황과 기업들의 성과",
-      "post_count": 8,
+      "topic": "이재명 SNS",
+      "summary": "이재명 의원의 SNS 활동이 논란이 되고 있다. 일부 네티즌들은 그의 발언을 비판하고 있다.",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "울산 시장 선거",
+      "summary": "울산 시장 선거에서 민주당과 진보당의 단일화 여론조사가 논란이 되고 있다.",
+      "post_count": 3,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "한국",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "한국 정치와 경제 상황"
-    },
-    {
-      "keyword": "경제",
+      "keyword": "스타벅스",
       "count": 10,
+      "sentiment": "positive",
+      "context": "스타벅스 쿠폰 환불 관련 게시물"
+    },
+    {
+      "keyword": "이재명",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "이재명 의원의 SNS 활동 관련 게시물"
+    },
+    {
+      "keyword": "울산 시장",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "한국 경제 상황"
+      "context": "울산 시장 선거 관련 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
-      "action": "AI 기술을 활용한 산업 투자",
+      "insight": "스타벅스 쿠폰 환불 정책이 고객 만족도에 긍정적인 영향을 미칠 수 있다.",
+      "action": "스타벅스 쿠폰 환불 정책을 검토하고 개선한다.",
       "priority": "high"
     },
     {
-      "insight": "한국 정치 상황은 경제에 영향을 미칠 수 있다",
-      "action": "한국 정치 상황을 주시하고 경제에 대한 영향 분석",
+      "insight": "이재명 의원의 SNS 활동이 그의 이미지에 부정적인 영향을 미칠 수 있다.",
+      "action": "이재명 의원의 SNS 활동을 검토하고 개선한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "한국 경제 상황은 기업들의 성과에 영향을 미칠 수 있다",
-      "action": "한국 경제 상황을 주시하고 기업들의 성과 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 또한, 한국 정치 상황과 후보자들의 공약이 논의되고 있으며, 한국 경제 상황과 기업들의 성과도 주시되고 있다. 이러한 상황은 기업들에게 새로운 기회와 도전을 제공하고 있으며, 기업들은 이러한 상황을 주시하고 적절한 전략을 수립해야 한다. 특히, AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있으므로, 기업들은 AI 기술을 활용한 산업 투자를 고려해야 한다. 또한, 한국 정치 상황과 경제 상황을 주시하고 이러한 상황에 대한 영향 분석을 통해 기업들은 자신의 성과를 향상시킬 수 있다.",
-  "analyzed_at": "2026-05-24T06:30:34.661Z",
+  "narrative": "최근 클리앙 커뮤니티에서 스타벅스 쿠폰 환불, 이재명 SNS, 울산 시장 선거 등이 주요 관심사로 등장했다. 스타벅스 쿠폰 환불 관련 게시물은 많은 관심을 받고 있으며, 일부 네티즌들은 스타벅스 쿠폰 환불 정책을 긍정적으로 평가하고 있다. 반면, 이재명 의원의 SNS 활동은 일부 네티즌들의 비판을 받고 있다. 울산 시장 선거 관련 게시물은 중립적인 분위기를 보이고 있다. 이러한 분석 결과를 바탕으로, 스타벅스 쿠폰 환불 정책을 검토하고 개선하는 것이 중요할 것으로 보인다. 또한, 이재명 의원의 SNS 활동을 검토하고 개선하는 것이 필요할 수 있다.",
+  "analyzed_at": "2026-05-24T08:00:34.053Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
