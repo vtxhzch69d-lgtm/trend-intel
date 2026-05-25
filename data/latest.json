@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아지고 있습니다. 특히 조국과 관련된 게시글이 많이 올라오고 있습니다.",
+      "summary": "最近의 정치 뉴스와 이슈",
       "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련 게시글이 많이 올라오고 있습니다. 특히 AI와 관련된 게시글이 많아지고 있습니다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 게시글이 많이 올라오고 있습니다. 특히 전기차 보조금과 관련된 게시글이 많아지고 있습니다.",
-      "post_count": 10,
+      "summary": "경제 뉴스와 트렌드",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "조국과 관련된 정치적인 게시글"
-    },
-    {
       "keyword": "AI",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "최신 기술과 관련된 게시글"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "전기차",
-      "count": 5,
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "最近의 정치 뉴스와 이슈"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "경제와 관련된 게시글"
+      "context": "경제 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 30,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높습니다."
   },
   "business_insights": [
     {
-      "insight": "정치적인 이슈가 많아지고 있습니다.",
-      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "최신 기술에 대한 관심이 많아지고 있습니다.",
-      "action": "최신 기술에 대한 정보를 제공해야 합니다.",
+      "insight": "경제 뉴스와 트렌드",
+      "action": "경제 뉴스와 트렌드를 분석하여 비즈니스 전략 개발",
       "priority": "medium"
     },
     {
-      "insight": "경제적인 이슈가 많아지고 있습니다.",
-      "action": "경제적인 이슈에 대한 정보를 제공해야 합니다.",
+      "insight": "정치 뉴스와 이슈",
+      "action": "정치 뉴스와 이슈를 분석하여 비즈니스 전략 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근 정치적인 이슈가 많아지고 있습니다. 특히 조국과 관련된 게시글이 많이 올라오고 있습니다. 또한 최신 기술에 대한 관심이 많아지고 있습니다. 경제적인 이슈도 많아지고 있지만, 전체적인 감정은 부정적인 것으로 나타났습니다. 따라서 정치적인 이슈에 대한 대응을 준비해야 하며, 최신 기술에 대한 정보를 제공해야 합니다. 또한 경제적인 이슈에 대한 정보를 제공해야 합니다.",
-  "analyzed_at": "2026-05-25T15:00:33.764Z",
+  "narrative": "最近의 정치 뉴스와 이슈가 많은 사람들의 관심을 끌고 있습니다. AI 기술의 발전도 많은 사람들의 관심을 끌고 있으며, 경제 뉴스와 트렌드도 중요한 비즈니스 전략 개발의 요소입니다. 이러한 트렌드와 이슈를 분석하여 비즈니스 전략을 개발하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-25T16:30:33.297Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
