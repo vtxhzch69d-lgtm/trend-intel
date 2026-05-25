@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명, 김용남, 이준석 등 정치인 관련 뉴스와 논란",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "GTX 삼성역 철근 누락",
+      "summary": "삼성역 GTX 공사에서 철근 누락이 발생하여 안전성에 대한 우려가 제기되고 있습니다. 재시공이 필요한 상황입니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 드론, 우주산업 등 기술 관련 뉴스",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "일베와 관련된 사회적 문제",
+      "summary": "일베와 관련된 사회적 문제가 논의되고 있습니다. 일베의 폐쇄 필요성과 관련된 논의가 진행 중입니다.",
+      "post_count": 4,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자, LG전자, 현대차그룹 등 경제 관련 뉴스",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술과 관련된 뉴스",
+      "summary": "AI 기술과 관련된 뉴스가 많이 등장하고 있습니다. AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "GTX",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치인 관련 논란"
+      "context": "삼성역 철근 누락과 관련된 키워드"
+    },
+    {
+      "keyword": "일베",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "일베와 관련된 사회적 문제와 관련된 키워드"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
+      "context": "AI 기술과 관련된 뉴스와 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 5,
+    "overall_mood": "중립적인 분위기이지만, 일부 주제에서는 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스와 논란이 많아 정치인과 기업의 이미지를 관리해야 한다",
-      "action": "PR 및 커뮤니케이션 전략 수립",
+      "insight": "안전성과 관련된 문제는 즉시 해결해야 합니다.",
+      "action": "재시공과 같은 즉각적인 조치를 취해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 뉴스가 증가하고 있어 기술 개발과 투자를 고려해야 한다",
-      "action": "기술 개발 및 투자 계획 수립",
+      "insight": "AI 기술은 다양한 산업에서 활용될 수 있습니다.",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스가 많아 경제 동향을 주시하고 대응해야 한다",
-      "action": "경제 동향 분석 및 대응 계획 수립",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 뉴스와 논란이 많아 정치인과 기업의 이미지를 관리하고 기술 개발 및 투자를 고려해야 한다. 또한 경제 동향을 주시하고 대응해야 한다. 이러한 트렌드를 분석하여 적절한 전략을 수립하고 실행해야 한다.",
-  "analyzed_at": "2026-05-25T09:00:34.738Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, GTX 삼성역 철근 누락과 일베와 관련된 사회적 문제가 논의되고 있습니다. 또한, AI 기술과 관련된 뉴스가 많이 등장하고 있습니다. 이러한 주제들은 중립적인 분위기이지만, 일부 주제에서는 부정적인 감정도 존재합니다. 따라서, 안전성과 관련된 문제는 즉시 해결해야 하며, AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 합니다.",
+  "analyzed_at": "2026-05-25T10:30:34.472Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
