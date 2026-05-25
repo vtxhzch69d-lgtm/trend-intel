@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "GTX 삼성역 철근 누락",
-      "summary": "삼성역 GTX 공사에서 철근 누락이 발생하여 안전성에 대한 우려가 제기되고 있습니다. 재시공이 필요한 상황입니다.",
+      "topic": "일베와 클리앙의 비교",
+      "summary": "일베와 클리앙의 동접자수가 비슷하다는 주제가 논의되고 있으며, 일베의 문제점과 클리앙의 특징이 비교되고 있다.",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI와 기술 발전",
+      "summary": "AI와 기술 발전이 빠르게 진행되고 있으며, 이를 통해 다양한 산업이 발전하고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "일베와 관련된 사회적 문제",
-      "summary": "일베와 관련된 사회적 문제가 논의되고 있습니다. 일베의 폐쇄 필요성과 관련된 논의가 진행 중입니다.",
-      "post_count": 4,
+      "topic": "정치와 사회 문제",
+      "summary": "정치와 사회 문제가 논의되고 있으며, 다양한 주제가 논의되고 있다.",
+      "post_count": 8,
       "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술과 관련된 뉴스",
-      "summary": "AI 기술과 관련된 뉴스가 많이 등장하고 있습니다. AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "GTX",
+      "keyword": "일베",
       "count": 5,
       "sentiment": "negative",
-      "context": "삼성역 철근 누락과 관련된 키워드"
-    },
-    {
-      "keyword": "일베",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "일베와 관련된 사회적 문제와 관련된 키워드"
+      "context": "일베의 문제점과 클리앙의 비교"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스와 관련된 키워드"
+      "context": "AI와 기술 발전"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치와 사회 문제"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
-    "negative": 10,
-    "neutral": 5,
-    "overall_mood": "중립적인 분위기이지만, 일부 주제에서는 부정적인 감정도 존재합니다."
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정과 긍정적인 감정이 혼재되어 있다."
   },
   "business_insights": [
     {
-      "insight": "안전성과 관련된 문제는 즉시 해결해야 합니다.",
-      "action": "재시공과 같은 즉각적인 조치를 취해야 합니다.",
+      "insight": "일베와 클리앙의 비교를 통해 소셜 미디어의 특징을 이해할 수 있다.",
+      "action": "소셜 미디어 마케팅 전략을 수립할 때 일베와 클리앙의 특징을 고려한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI와 기술 발전이 빠르게 진행되고 있다.",
+      "action": "AI와 기술 발전을 활용하여 비즈니스 모델을 발전시킨다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 활용될 수 있습니다.",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 합니다.",
-      "priority": "medium"
+      "insight": "정치와 사회 문제가 논의되고 있다.",
+      "action": "정치와 사회 문제를 고려하여 비즈니스 전략을 수립한다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, GTX 삼성역 철근 누락과 일베와 관련된 사회적 문제가 논의되고 있습니다. 또한, AI 기술과 관련된 뉴스가 많이 등장하고 있습니다. 이러한 주제들은 중립적인 분위기이지만, 일부 주제에서는 부정적인 감정도 존재합니다. 따라서, 안전성과 관련된 문제는 즉시 해결해야 하며, AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 합니다.",
-  "analyzed_at": "2026-05-25T10:30:34.472Z",
+  "narrative": "최근의 트렌드는 일베와 클리앙의 비교, AI와 기술 발전, 정치와 사회 문제를 중심으로 이루어지고 있다. 일베와 클리앙의 비교를 통해 소셜 미디어의 특징을 이해할 수 있으며, AI와 기술 발전을 활용하여 비즈니스 모델을 발전시킬 수 있다. 또한, 정치와 사회 문제를 고려하여 비즈니스 전략을 수립할 수 있다. 이러한 트렌드를 통해 마케터는 소셜 미디어 마케팅 전략을 수립하고, 비즈니스 모델을 발전시킬 수 있으며, 정치와 사회 문제를 고려하여 비즈니스 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-05-25T12:00:35.606Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
