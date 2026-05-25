@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "지방선거",
-      "summary": "지방선거 관련된 다양한 의견과 분석이 나타나고 있습니다. 후보자들의 행보와 정책에 대한 논의가 활발합니다.",
+      "topic": "정치",
+      "summary": "최근 정치 관련 게시글이 많아지고 있습니다. 특히 조국과 관련된 게시글이 많이 올라오고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 논의되고 있습니다. AI의 잠재력과 위험성에 대한 의견이 분분합니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "최신 기술 관련 게시글이 많이 올라오고 있습니다. 특히 AI와 관련된 게시글이 많아지고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제와 산업 관련된 뉴스와 분석이 나타나고 있습니다. 기업들의 성과와 기술 개발에 대한 논의가 활발합니다.",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "경제 관련 게시글이 많이 올라오고 있습니다. 특히 전기차 보조금과 관련된 게시글이 많아지고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "지방선거",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "지방선거 관련된 다양한 의견과 분석"
+      "keyword": "조국",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "조국과 관련된 정치적인 게시글"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
+      "context": "최신 기술과 관련된 게시글"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "전기차",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "경제와 산업 관련된 뉴스와 분석"
+      "context": "경제와 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 25,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "지방선거와 관련된 마케팅 전략을 수립해야 합니다.",
-      "action": "지방선거 관련된 콘텐츠를 생성하고, 후보자들의 정책에 대한 분석을 제공해야 합니다.",
+      "insight": "정치적인 이슈가 많아지고 있습니다.",
+      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전을 이용한 새로운 비즈니스 모델을 개발해야 합니다.",
-      "action": "AI 기술을 이용한 새로운 제품이나 서비스를 개발하고, 그에 따른 마케팅 전략을 수립해야 합니다.",
+      "insight": "최신 기술에 대한 관심이 많아지고 있습니다.",
+      "action": "최신 기술에 대한 정보를 제공해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제적인 이슈가 많아지고 있습니다.",
+      "action": "경제적인 이슈에 대한 정보를 제공해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "지방선거와 AI 기술의 발전이 주요 트렌드입니다. 지방선거 관련된 다양한 의견과 분석이 나타나고 있으며, AI 기술의 발전을 이용한 새로운 비즈니스 모델을 개발해야 합니다. 경제와 산업 관련된 뉴스와 분석도 중요합니다. 중립적인 분위기이지만, 지방선거와 AI 기술의 발전을 이용한 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-05-25T13:30:34.159Z",
+  "narrative": "최근 정치적인 이슈가 많아지고 있습니다. 특히 조국과 관련된 게시글이 많이 올라오고 있습니다. 또한 최신 기술에 대한 관심이 많아지고 있습니다. 경제적인 이슈도 많아지고 있지만, 전체적인 감정은 부정적인 것으로 나타났습니다. 따라서 정치적인 이슈에 대한 대응을 준비해야 하며, 최신 기술에 대한 정보를 제공해야 합니다. 또한 경제적인 이슈에 대한 정보를 제공해야 합니다.",
+  "analyzed_at": "2026-05-25T15:00:33.764Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
