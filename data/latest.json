@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "일베 폐쇄 논란",
-      "summary": "일베 폐쇄에 대한 논란이 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 사용자는 일베 폐쇄를 주장하는 반면, 다른 사용자는 표현의 자유를 옹호했다.",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "最近의 정치 상황과 선거 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 성장률",
-      "summary": "한국의 경제 성장률이 상향 조정되었다. 일부 사용자는 이에 대해 긍정적인 반응을 보였지만, 다른 사용자는 불안정한 경제 상황에 대해 우려를 표했다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "AI, 로봇, 우주 산업 등 기술 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전이 다양한 산업에 미치는 영향에 대한 논의가 있었다. 일부 사용자는 AI 기술의 잠재적 가능성을 강조했지만, 다른 사용자는 직업의 변화와 관련된 우려를 표했다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "사회",
+      "summary": "사회 문제와 사건 사고 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일베",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "일베 폐쇄 논란"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 성장률 상향 조정"
-    },
-    {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 적용에 대한 관심이 높습니다."
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 상황과 선거 관련된 주제가 많이 обсужд되고 있습니다."
+    },
+    {
+      "keyword": "우주",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "우주 산업과 기술에 대한 관심이 높습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 10,
+    "overall_mood": "복합적인 감정들이 혼재되어 있습니다."
   },
   "business_insights": [
     {
-      "insight": "일베 폐쇄 논란은 표현의 자유와 사회적 책임에 대한 논의를 재점화시켰다.",
-      "action": "사회적 책임을 강조하는 캠페인을 진행할 수 있다.",
+      "insight": "기술 산업의 발전",
+      "action": "기술 산업에 대한 투자와 연구를 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 성장률의 상향 조정은 소비자들의 구매력을 증가시킬 수 있다.",
-      "action": "소비자들의 구매력을 증가시키는 마케팅 전략을 수립할 수 있다.",
+      "insight": "정치 상황의 불안정성",
+      "action": "정치 상황을 주시하고 대응책을 마련해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 미치는 영향이 크다.",
-      "action": "AI 기술을 활용하는 새로운 비즈니스 모델을 개발할 수 있다.",
+      "insight": "사회 문제의 해결",
+      "action": "사회 문제를 해결하기 위한 노력을 강화해야 합니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근 커뮤니티에서는 일베 폐쇄 논란, 경제 성장률, AI 기술의 발전 등 다양한 주제가 논의되고 있다. 일베 폐쇄 논란은 표현의 자유와 사회적 책임에 대한 논의를 재점화시켰으며, 경제 성장률의 상향 조정은 소비자들의 구매력을 증가시킬 수 있다. 또한, AI 기술의 발전은 다양한 산업에 미치는 영향이 크다. 이러한 트렌드를 고려하여, 기업은 사회적 책임을 강조하는 캠페인을 진행하거나, 소비자들의 구매력을 증가시키는 마케팅 전략을 수립할 수 있다. 또한, AI 기술을 활용하는 새로운 비즈니스 모델을 개발할 수 있다.",
-  "analyzed_at": "2026-05-25T06:00:35.455Z",
+  "narrative": "最近의 정치 상황과 선거 관련된 주제가 많이 обсужд되고 있습니다. 기술 산업의 발전과 우주 산업에 대한 관심도 높습니다. 그러나 사회 문제와 사건 사고 관련된 주제도 많이 обсужд되고 있습니다. 이러한 상황을 고려하여 기술 산업에 대한 투자와 연구를 강화하고, 정치 상황을 주시하고 대응책을 마련해야 합니다. 또한 사회 문제를 해결하기 위한 노력을 강화해야 합니다.",
+  "analyzed_at": "2026-05-25T07:30:34.099Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
