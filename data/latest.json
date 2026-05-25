@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 뉴스와 이슈",
+      "summary": "최근 정치 관련 게시글이 많아졌습니다. 특히 민주당과 관련된 게시글이 많습니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용",
+      "topic": "AI",
+      "summary": "AI 관련 기술과 뉴스가 많이 등장하고 있습니다. 특히 삼성전자와 관련된 게시글이 많습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 뉴스와 트렌드",
+      "summary": "경제 관련 뉴스가 많이 등장하고 있습니다. 특히 하이브리드 차와 관련된 게시글이 많습니다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,49 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
+      "keyword": "민주당",
+      "count": 10,
       "sentiment": "negative",
-      "context": "最近의 정치 뉴스와 이슈"
+      "context": "민주당과 관련된 게시글이 많습니다."
     },
     {
-      "keyword": "경제",
+      "keyword": "AI",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 뉴스와 트렌드"
+      "sentiment": "positive",
+      "context": "AI 관련 기술과 뉴스가 많이 등장하고 있습니다."
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "삼성전자와 관련된 게시글이 많습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정의 비중이 높습니다."
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술이 빠르게 발전하고 있습니다.",
+      "action": "AI 기술을 활용한 비즈니스 모델을 개발해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스와 트렌드",
-      "action": "경제 뉴스와 트렌드를 분석하여 비즈니스 전략 개발",
+      "insight": "경제 관련 뉴스가 많이 등장하고 있습니다.",
+      "action": "경제 관련 뉴스를 주시하고 비즈니스 전략을 조정해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 뉴스와 이슈",
-      "action": "정치 뉴스와 이슈를 분석하여 비즈니스 전략 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 이슈가 많은 사람들의 관심을 끌고 있습니다. AI 기술의 발전도 많은 사람들의 관심을 끌고 있으며, 경제 뉴스와 트렌드도 중요한 비즈니스 전략 개발의 요소입니다. 이러한 트렌드와 이슈를 분석하여 비즈니스 전략을 개발하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-25T16:30:33.297Z",
+  "narrative": "최근 정치 관련 게시글이 많아졌습니다. 특히 민주당과 관련된 게시글이 많습니다. 또한 AI 관련 기술과 뉴스가 많이 등장하고 있습니다. 특히 삼성전자와 관련된 게시글이 많습니다. 이러한 추세는 비즈니스 전략을 조정하고 새로운 기회를 찾는 데 도움이 될 수 있습니다. 또한 경제 관련 뉴스를 주시하고 비즈니스 전략을 조정해야 합니다.",
+  "analyzed_at": "2026-05-25T18:00:34.132Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
