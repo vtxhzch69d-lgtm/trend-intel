@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "AI와 반도체 관련된 기술 뉴스가 많이 등장하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치 및 선거",
+      "summary": "정치 및 선거 관련 뉴스와 의견",
+      "post_count": 20,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 관련된 게시글이 있습니다.",
-      "post_count": 8,
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 뉴스와 분석",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -25,27 +25,27 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "정치",
+      "keyword": "선거",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 뉴스와 선거 관련된 게시글"
+      "sentiment": "negative",
+      "context": "정치 및 선거 관련 뉴스"
     },
     {
-      "keyword": "반도체",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "반도체 산업의 성장과 관련된 뉴스"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 및 산업 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 30,
+    "negative": 30,
+    "neutral": 50,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
@@ -55,13 +55,18 @@
       "priority": "high"
     },
     {
-      "insight": "정치와 경제의 상관관계",
-      "action": "정치와 경제의 상관관계를 분석하여 비즈니스 전략 수립",
+      "insight": "정치 및 선거의 영향",
+      "action": "정치 및 선거 관련 뉴스와 의견을 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 산업의 동향",
+      "action": "경제 및 산업 관련 뉴스와 분석을 모니터링",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다. AI와 반도체 관련된 기술 뉴스가 많이 등장하고 있습니다. 경제 뉴스와 관련된 게시글도 있습니다. AI 기술의 발전과 관련된 뉴스가 많이 등장하고 있습니다. 정치와 경제의 상관관계를 분석하여 비즈니스 전략을 수립할 필요가 있습니다.",
-  "analyzed_at": "2026-05-25T19:30:33.852Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 그에 따른 사회적 영향, 정치 및 선거 관련 뉴스와 의견, 경제 및 산업 관련 뉴스와 분석을 중심으로 형성되고 있습니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개발하고, 정치 및 선거 관련 뉴스와 의견을 모니터링하며, 경제 및 산업 관련 뉴스와 분석을 모니터링하는 것이 중요합니다. 또한, 중립적인 분위기를 유지하며, 다양한 의견과 뉴스를 고려하여 비즈니스 전략을 수립하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-25T21:00:34.084Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
