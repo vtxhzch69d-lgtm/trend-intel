@@ -1,62 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다.",
-      "post_count": 100,
+      "topic": "스타벅스 논란",
+      "summary": "스타벅스 로고 지우기 운동 확산, 5·18 모욕 논란",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술 발전, 다양한 산업 분야에서 적용",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 커뮤니티 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술 및 경제 관련 뉴스입니다. 사용자들은 이러한 게시글을 통해 최신 정보를 얻을 수 있습니다.",
-      "post_count": 50,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "이재명 정부 맹비난, 조국당 유통기한 논란",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "무료",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "무료 상품에 대한 정보"
+      "keyword": "스타벅스",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "5·18 모욕 논란"
     },
     {
-      "keyword": "할인",
-      "count": 15,
+      "keyword": "AI",
+      "count": 12,
       "sentiment": "positive",
-      "context": "할인된 상품에 대한 정보"
+      "context": "기술 발전"
     },
     {
-      "keyword": "기술",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "기술 관련 뉴스"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정부 맹비난"
     }
   ],
   "sentiment_overview": {
-    "positive": 60,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "무료나 할인된 상품에 대한 정보는 사용자들에게 큰 관심을 끌 수 있습니다.",
-      "action": "마케팅 캠페인에서 무료나 할인된 상품을 강조합니다.",
+      "insight": "스타벅스 논란으로 인한 브랜드 이미지 하락",
+      "action": "브랜드 이미지 회복을 위한 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "기술 및 경제 관련 뉴스는 사용자들에게 중요한 정보를 제공할 수 있습니다.",
-      "action": "기술 및 경제 관련 뉴스를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 빠른 발전",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 및 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 사용자들은 무료나 할인된 상품에 대한 정보에 큰 관심을 보이는 것으로 나타났습니다. 또한 기술 및 경제 관련 뉴스도 사용자들에게 중요한 정보를 제공할 수 있습니다. 이러한 결과를 바탕으로 마케팅 캠페인에서 무료나 할인된 상품을 강조하고 기술 및 경제 관련 뉴스를 제공하여 사용자들의 관심을 끌 수 있습니다. 이러한 전략을 통해 사용자들의 참여도를 높이고 마케팅 캠페인의 효과를 극대화할 수 있습니다.",
-  "analyzed_at": "2026-05-25T00:00:34.480Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드 분석 결과, 스타벅스 논란과 AI 기술의 발전이 주목을 받고 있습니다. 스타벅스 논란은 브랜드 이미지 하락으로 이어질 수 있으므로, 브랜드 이미지 회복을 위한 마케팅 전략 수립이 필요합니다. 또한, AI 기술의 빠른 발전은 새로운 비즈니스 모델 개발의 기회를 제공합니다. 따라서, 기업들은 이러한 트렌드에 주목하고, 적절한 전략을 수립하여 시장의 기회를 잡아야 합니다.",
+  "analyzed_at": "2026-05-25T01:30:34.448Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
