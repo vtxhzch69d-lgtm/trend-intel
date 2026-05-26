@@ -1,67 +1,85 @@
 {
   "trending_topics": [
     {
-      "topic": "하이닉스",
-      "summary": "하이닉스 주가 상승과 관련된 게시글이 많습니다. 하이닉스에 대한 투자와 관련된 게시글도 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "스벅 사태",
-      "summary": "스벅 사태와 관련된 게시글이 많습니다. 스벅의 환불 정책과 관련된 게시글도 있습니다.",
-      "post_count": 3,
+      "topic": "정치",
+      "summary": "김용남, 김세의 구속 등 정치 관련 뉴스",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "김부겸 후보",
-      "summary": "김부겸 후보와 관련된 게시글이 많습니다. 김부겸 후보의 선거 운동과 관련된 게시글도 있습니다.",
-      "post_count": 2,
-      "sentiment": "neutral",
+      "topic": "경제",
+      "summary": "하이닉스, 삼성전자 등 경제 관련 뉴스",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI, 자율주행 등 기술 관련 뉴스",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "사회",
+      "summary": "스벅 환불, 발코니 없는 원룸 등 사회 관련 뉴스",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "하이닉스",
-      "count": 10,
+      "keyword": "김용남",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "하이닉스 주가 상승과 관련된 게시글"
+      "context": "기술 관련 뉴스"
+    },
+    {
+      "keyword": "하이닉스",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "경제 관련 뉴스"
     },
     {
       "keyword": "스벅",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "스벅 사태와 관련된 게시글"
-    },
-    {
-      "keyword": "김부겸",
-      "count": 3,
+      "count": 2,
       "sentiment": "neutral",
-      "context": "김부겸 후보와 관련된 게시글"
+      "context": "사회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "하이닉스 주가 상승과 관련된 투자 기회",
-      "action": "하이닉스 주식을 매수하는 것을 고려",
+      "insight": "기술 관련 뉴스가 증가하고 있다",
+      "action": "기술 관련 뉴스에 대한 관심을 높이자",
+      "priority": "high"
+    },
+    {
+      "insight": "경제 관련 뉴스가 증가하고 있다",
+      "action": "경제 관련 뉴스에 대한 관심을 높이자",
       "priority": "medium"
     },
     {
-      "insight": "스벅 사태와 관련된 고객 불만",
-      "action": "스벅의 환불 정책을 개선하는 것을 고려",
+      "insight": "정치 관련 뉴스가 증가하고 있다",
+      "action": "정치 관련 뉴스에 대한 관심을 높이자",
       "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 하이닉스 주가 상승과 관련된 게시글이 많습니다. 스벅 사태와 관련된 게시글도 많습니다. 김부겸 후보와 관련된 게시글도 있습니다. 이러한 트렌드는 투자 기회와 고객 불만을 나타내고 있습니다. 따라서 하이닉스 주식을 매수하는 것을 고려하고, 스벅의 환불 정책을 개선하는 것을 고려해야 합니다.",
-  "analyzed_at": "2026-05-26T12:30:33.791Z",
+  "narrative": "최근의 트렌드는 기술, 경제, 정치 관련 뉴스가 증가하고 있다. 기술 관련 뉴스는 AI, 자율주행 등이 주를 이루고 있으며, 경제 관련 뉴스는 하이닉스, 삼성전자 등이 주를 이루고 있다. 정치 관련 뉴스는 김용남, 김세의 구속 등이 주를 이루고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-05-26T14:00:34.045Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
