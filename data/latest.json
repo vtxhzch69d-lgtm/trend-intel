@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "김용남과 정명근의 후보 지명, 민주당의 지도부와 관련된 논란",
-      "post_count": 10,
+      "topic": "스벅 사태",
+      "summary": "스벅에 대한 논란과 반응이 커뮤니티에서 뜨거운 감자로 떠올랐다. 사용자들은 스타벅스 앱의 계정 탈퇴 방법을 찾고 있으며, 일부 사용자는 스타벅스의 매출이 18% 줄었다는 보고서를 공유했다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "한국의 경제 성장과 관련된 뉴스, 삼성전자와 LG전자 등 기업의 동향",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "대선 후보와 관련된 게시글이 많이 올라왔으며, 사용자들은 정치에 대한 관심이 높아 보인다. 일부 사용자는 정치인에 대한 비판적인 의견을 공유했다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 개발, 삼성전자와 애플의 기술 경쟁",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련된 게시글이 많이 올라왔으며, 사용자들은 AI의 발전에 대한 관심이 높아 보인다. 일부 사용자는 AI의 발전이 인간에게 미칠 영향에 대한 우려를 공유했다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김용남",
-      "count": 5,
+      "keyword": "스벅",
+      "count": 7,
       "sentiment": "negative",
-      "context": "정치 관련된 논란"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "경제와 기술 관련된 뉴스"
+      "context": "스벅에 대한 논란과 반응"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 개발과 관련된 뉴스"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "AI의 발전과 관련된 게시글"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "대선 후보와 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 감정"
   },
   "business_insights": [
     {
-      "insight": "한국의 정치와 경제는 밀접한 관련이 있다",
-      "action": "정치와 경제 관련된 뉴스를 지속적으로 모니터링할 것",
+      "insight": "스벅 사태는 소비자들의 반응을 예측하기 어렵다",
+      "action": "소비자들의 반응을 주시하고, 적절한 대응을 준비해야 한다",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술 개발은 미래의 성장 동력이 될 수 있다",
-      "action": "AI와 관련된 기술 개발을 투자할 것",
+      "insight": "AI와 기술은 사용자들의 관심을 끌고 있다",
+      "action": "AI와 기술 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치와 경제 관련된 뉴스는 한국의 미래를 예측하는 데 중요한 역할을 한다. 특히, 김용남과 정명근의 후보 지명과 관련된 논란은 한국의 정치를 이해하는 데 중요한 키워드이다. 또한, 삼성전자와 애플의 기술 경쟁은 미래의 성장 동력을 예측하는 데 중요한 역할을 한다. 따라서, 이러한 뉴스를 지속적으로 모니터링하고, 관련된 기술 개발을 투자하는 것이 중요하다.",
-  "analyzed_at": "2026-05-26T15:30:34.171Z",
+  "narrative": "최근 커뮤니티에서는 스벅 사태와 관련된 게시글이 많이 올라왔으며, 사용자들은 스타벅스 앱의 계정 탈퇴 방법을 찾고 있다. 또한, 대선 후보와 관련된 게시글도 많이 올라왔으며, 사용자들은 정치에 대한 관심이 높아 보인다. AI와 기술 관련된 게시글도 많이 올라왔으며, 사용자들은 AI의 발전에 대한 관심이 높아 보인다. 이러한 트렌드를 분석하여, 마케터는 사용자들의 관심을 끌 수 있는 콘텐츠를 제공하고, 소비자들의 반응을 주시하고, 적절한 대응을 준비해야 한다.",
+  "analyzed_at": "2026-05-26T17:00:35.251Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
