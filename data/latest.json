@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "서소문 고가 붕괴 사고",
-      "summary": "서소문 고가차도 붕괴로 2명 사망, 부상자 발생",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "서울시장 선거",
+      "summary": "서울시장 선거 관련 논란과 후보자 평가가 활발하게讨論되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "서울시장 선거",
-      "summary": "서울시장 선거는 이제 생존의 문제가 된 것 같습니다.",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "김용남 대부업 논란",
+      "summary": "김용남의 대부업 관련 논란이 커져가고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "김용남",
-      "summary": "김용남의 해명과 속사정, 김용남은 민주당에 입당한 후, 대부업을 폐업할 시간은 차고 넘쳤는데",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "AI 기술 개발",
+      "summary": "국내외에서 AI 기술 개발이 활발하게 진행되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "서소문 고가 붕괴",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "서소문 고가차도 붕괴로 2명 사망, 부상자 발생"
-    },
-    {
       "keyword": "서울시장 선거",
-      "count": 4,
+      "count": 20,
       "sentiment": "mixed",
-      "context": "서울시장 선거는 이제 생존의 문제가 된 것 같습니다."
+      "context": "서울시장 선거 관련 논란과 후보자 평가"
     },
     {
       "keyword": "김용남",
-      "count": 3,
+      "count": 10,
       "sentiment": "negative",
-      "context": "김용남의 해명과 속사정, 김용남은 민주당에 입당한 후, 대부업을 폐업할 시간은 차고 넘쳤는데"
+      "context": "김용남의 대부업 관련 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 25,
+      "sentiment": "positive",
+      "context": "AI 기술 개발과 관련된 뉴스와 논문"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
+    "positive": 30,
     "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 비중이 높습니다."
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "서소문 고가 붕괴 사고는 서울시장 선거에 영향을 미칠 수 있습니다.",
-      "action": "서울시장 선거에 대한 대응 전략을 수립해야 합니다.",
+      "insight": "서울시장 선거 관련 논란이 커져가고 있습니다.",
+      "action": "서울시장 선거 관련 뉴스와 논란을 주시하여 대응策을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "김용남의 해명과 속사정은 민주당에 대한 부정적인 인식을 조성할 수 있습니다.",
-      "action": "민주당의 이미지 회복을 위한 대응 전략을 수립해야 합니다.",
+      "insight": "AI 기술 개발이 활발하게 진행되고 있습니다.",
+      "action": "AI 기술 개발과 관련된 뉴스와 논문을 주시하여 기술 개발을 지원해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 서소문 고가 붕괴 사고와 서울시장 선거가 주요 관심사로 나타났습니다. 서소문 고가 붕괴 사고는 2명이 사망하고 부상자가 발생하여 큰 충격을 주었습니다. 서울시장 선거는 이제 생존의 문제가 된 것 같습니다. 김용남의 해명과 속사정은 민주당에 대한 부정적인 인식을 조성할 수 있습니다. 이러한 트렌드에 대한 대응 전략을 수립하여 이미지 회복과 선거에 대한 대응을 해야 합니다.",
-  "analyzed_at": "2026-05-26T09:30:34.209Z",
-  "post_count": 61,
+  "narrative": "최근 서울시장 선거 관련 논란이 커져가고 있습니다. 김용남의 대부업 관련 논란이 특히 큰 이슈로 부상하고 있습니다. 또한, AI 기술 개발이 활발하게 진행되고 있으며, 관련된 뉴스와 논문이 많이 등장하고 있습니다. 이러한 트렌드와 키워드를 주시하여 대응策을 마련하고, 기술 개발을 지원해야 합니다. 중립적인 분위기에서 양립할 수 있는 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-05-26T11:00:34.309Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
