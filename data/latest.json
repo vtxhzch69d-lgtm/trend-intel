@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정용진 사과",
-      "summary": "정용진의 사과에 대한 논의와 반응",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "스벅 탱크데이",
-      "summary": "스벅 탱크데이 사과에 대한 논의",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 제품 출시가 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장 동향과 분석",
-      "post_count": 5,
+      "topic": "경제",
+      "summary": "경제 뉴스와 시장 동향이 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정용진",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "사과와 관련된 논의"
-    },
-    {
-      "keyword": "스벅",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "negative",
-      "context": "탱크데이 사과와 관련된 논의"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "주식",
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 뉴스와 논란"
+    },
+    {
+      "keyword": "삼성전자",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "주식 시장 동향과 분석"
+      "sentiment": "positive",
+      "context": "삼성전자 제품과 기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정용진 사과에 대한 반응",
-      "action": "사과와 관련된 마케팅 전략 수립",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 제품 개발",
       "priority": "high"
     },
     {
-      "insight": "스벅 탱크데이 사과에 대한 반응",
-      "action": "사과와 관련된 마케팅 전략 수립",
+      "insight": "정치 뉴스와 논란",
+      "action": "정치 뉴스와 논란에 대한 대응",
       "priority": "medium"
     },
     {
-      "insight": "주식 시장 동향과 분석",
-      "action": "주식 시장 관련된 마케팅 전략 수립",
+      "insight": "경제 뉴스와 시장 동향",
+      "action": "경제 뉴스와 시장 동향에 대한 분석",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정용진 사과와 관련된 논의와 스타벅스 탱크데이 사과에 대한 반응이 주를 이루고 있습니다. 주식 시장 동향과 분석도 일부 논의되고 있습니다. 이러한 트렌드는 마케팅 전략 수립에 중요한 참고자료가 될 수 있습니다. 특히, 정용진 사과와 관련된 논의는 높은 우선순위를 가지고 있으며, 스타벅스 탱크데이 사과에 대한 반응도 중간 우선순위를 가지고 있습니다. 주식 시장 동향과 분석은 낮은 우선순위를 가지고 있습니다.",
-  "analyzed_at": "2026-05-26T05:00:34.553Z",
+  "narrative": "最近의 커뮤니티 트렌드는 정치, 테크, 경제 뉴스와 논란이 중심입니다. AI 기술의 발전과 적용, 정치 뉴스와 논란, 경제 뉴스와 시장 동향이 많이 обсужд되고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 또한, AI 기술을 활용한 제품 개발, 정치 뉴스와 논란에 대한 대응, 경제 뉴스와 시장 동향에 대한 분석이 필요합니다.",
+  "analyzed_at": "2026-05-26T06:30:33.709Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
