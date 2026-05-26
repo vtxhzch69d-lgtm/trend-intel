@@ -2,31 +2,24 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "김용남, 김세의 구속 등 정치 관련 뉴스",
+      "summary": "김용남과 정명근의 후보 지명, 민주당의 지도부와 관련된 논란",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "하이닉스, 삼성전자 등 경제 관련 뉴스",
-      "post_count": 8,
-      "sentiment": "positive",
+      "summary": "한국의 경제 성장과 관련된 뉴스, 삼성전자와 LG전자 등 기업의 동향",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "AI, 자율주행 등 기술 관련 뉴스",
+      "summary": "AI와 관련된 기술 개발, 삼성전자와 애플의 기술 경쟁",
       "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "사회",
-      "summary": "스벅 환불, 발코니 없는 원룸 등 사회 관련 뉴스",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "low"
     }
   ],
   "keywords": [
@@ -34,52 +27,41 @@
       "keyword": "김용남",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스"
+      "context": "정치 관련된 논란"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제와 기술 관련된 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 뉴스"
-    },
-    {
-      "keyword": "하이닉스",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "경제 관련 뉴스"
-    },
-    {
-      "keyword": "스벅",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "사회 관련 뉴스"
+      "context": "기술 개발과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 관련 뉴스가 증가하고 있다",
-      "action": "기술 관련 뉴스에 대한 관심을 높이자",
+      "insight": "한국의 정치와 경제는 밀접한 관련이 있다",
+      "action": "정치와 경제 관련된 뉴스를 지속적으로 모니터링할 것",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스가 증가하고 있다",
-      "action": "경제 관련 뉴스에 대한 관심을 높이자",
+      "insight": "AI와 관련된 기술 개발은 미래의 성장 동력이 될 수 있다",
+      "action": "AI와 관련된 기술 개발을 투자할 것",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 뉴스가 증가하고 있다",
-      "action": "정치 관련 뉴스에 대한 관심을 높이자",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 기술, 경제, 정치 관련 뉴스가 증가하고 있다. 기술 관련 뉴스는 AI, 자율주행 등이 주를 이루고 있으며, 경제 관련 뉴스는 하이닉스, 삼성전자 등이 주를 이루고 있다. 정치 관련 뉴스는 김용남, 김세의 구속 등이 주를 이루고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-05-26T14:00:34.045Z",
+  "narrative": "최근의 정치와 경제 관련된 뉴스는 한국의 미래를 예측하는 데 중요한 역할을 한다. 특히, 김용남과 정명근의 후보 지명과 관련된 논란은 한국의 정치를 이해하는 데 중요한 키워드이다. 또한, 삼성전자와 애플의 기술 경쟁은 미래의 성장 동력을 예측하는 데 중요한 역할을 한다. 따라서, 이러한 뉴스를 지속적으로 모니터링하고, 관련된 기술 개발을 투자하는 것이 중요하다.",
+  "analyzed_at": "2026-05-26T15:30:34.171Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
