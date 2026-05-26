@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "스벅 사태",
-      "summary": "스벅 사태에 대한 논의와 분노가 커뮤니티에서 활발하게 진행되고 있습니다. 사용자들은 스타벅스 앱의 계정 탈퇴 방법을 찾고 있습니다.",
+      "summary": "스벅 사태에 대한 논의와 분노가 커뮤니티에서 확산되고 있다. 사용자들은 스타벅스 앱의 계정 탈퇴 방법을 찾고 있다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 상황에 대한 논의가 진행되고 있습니다. 사용자들은 주식 시장의 변동성에 대한 우려를 나타내고 있습니다.",
-      "post_count": 3,
+      "topic": "정치",
+      "summary": "정치 관련된 주제가 많이 논의되고 있다. 대선 후보와 관련된 주제가 특히 많이 논의되고 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술에 대한 논의가 진행되고 있습니다. 사용자들은 AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심을 나타내고 있습니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "기술 관련된 주제가 많이 논의되고 있다. AI와 관련된 주제가 특히 많이 논의되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -30,43 +30,38 @@
       "context": "스벅 사태에 대한 논의"
     },
     {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "주식 시장의 상황에 대한 논의"
-    },
-    {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 사회적 영향"
+      "context": "기술 관련된 주제"
+    },
+    {
+      "keyword": "대선",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 10,
-    "overall_mood": "중립적이며 약간 부정적인 분위기"
+    "overall_mood": "중립적인 분위기지만 부정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "스벅 사태에 대한 대응",
-      "action": "스벅의 고객 서비스 개선",
+      "insight": "스벅 사태에 대한 논의가 커뮤니티에서 확산되고 있다.",
+      "action": "스벅 사태에 대한 대응을 준비해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동성",
-      "action": "주식 투자에 대한 교육 및 정보 제공",
+      "insight": "AI와 관련된 주제가 많이 논의되고 있다.",
+      "action": "AI와 관련된 기술을 개발하고 투자해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술의 연구 및 개발 투자",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 커뮤니티 트렌드 분석 결과, 스벅 사태에 대한 논의와 분노가 커뮤니티에서 활발하게 진행되고 있습니다. 또한, 주식 시장의 상황에 대한 논의가 진행되고 있으며, AI 기술에 대한 논의도 진행되고 있습니다. 이러한 트렌드에 대한 분석을 통해, 마케터들은 고객의 관심과 우려를 이해하고, 이를 반영한 마케팅 전략을 수립할 수 있습니다. 또한, 비즈니스 인사이트를 통해, 기업들은 고객의需求을 충족시키고, 경쟁력을 강화할 수 있습니다.",
-  "analyzed_at": "2026-05-26T18:30:35.107Z",
+  "narrative": "최근 커뮤니티에서 논의되고 있는 주제는 스벅 사태와 정치, 기술 관련된 주제이다. 스벅 사태에 대한 논의가 커뮤니티에서 확산되고 있으며, 사용자들은 스타벅스 앱의 계정 탈퇴 방법을 찾고 있다. 또한, AI와 관련된 주제가 많이 논의되고 있으며, 기술 관련된 주제가 특히 많이 논의되고 있다. 이러한 주제에 대한 논의는 기업과 마케터들에게 중요한 인사이트를 제공하며, 이를 통해 사업 전략을 수립하고 고객의需求을 이해할 수 있다.",
+  "analyzed_at": "2026-05-26T20:00:33.822Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
