@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스타벅스 논란",
-      "summary": "스타벅스 논란은 '2030' 때문이며, 정용진의 사과문과 관련된 주제입니다. 스타벅스 마케팅 직원의 부적절한 언행과 대화, 탱크데이 네이밍 실무자의 정신 이상함 등이 논란이 되고 있습니다.",
+      "topic": "정용진 사과",
+      "summary": "정용진의 사과에 대한 논의와 반응",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "박근혜, 이재명 정부 1주년 성과자료집, 지방선거와 관련된 주제입니다. 박근혜의 탄핵, 정용진의 사과문, 이재명 정부의 성과 등이 논란이 되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "스벅 탱크데이",
+      "summary": "스벅 탱크데이 사과에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "엔비디아 베라-루빈, AI 기술, 반도체 산업과 관련된 주제입니다. 엔비디아의 베라-루빈 가격, AI 기술의 발전, 반도체 산업의 동향 등이 논란이 되고 있습니다.",
-      "post_count": 6,
-      "sentiment": "positive",
+      "topic": "주식 시장",
+      "summary": "주식 시장 동향과 분석",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "스타벅스",
+      "keyword": "정용진",
       "count": 15,
       "sentiment": "negative",
-      "context": "스타벅스 논란과 관련된 키워드입니다."
+      "context": "사과와 관련된 논의"
     },
     {
-      "keyword": "정용진",
-      "count": 5,
+      "keyword": "스벅",
+      "count": 10,
       "sentiment": "negative",
-      "context": "정용진의 사과문과 관련된 키워드입니다."
+      "context": "탱크데이 사과와 관련된 논의"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 키워드입니다."
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "주식 시장 동향과 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "스타벅스 논란은 브랜드 이미지에 악영향을 미칠 수 있습니다.",
-      "action": "스타벅스에 대한 마케팅 전략을 재검토해야 합니다.",
+      "insight": "정용진 사과에 대한 반응",
+      "action": "사과와 관련된 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 산업의 발전을 이끌 수 있습니다.",
-      "action": "AI 기술에 대한 투자를 증가시켜야 합니다.",
+      "insight": "스벅 탱크데이 사과에 대한 반응",
+      "action": "사과와 관련된 마케팅 전략 수립",
       "priority": "medium"
+    },
+    {
+      "insight": "주식 시장 동향과 분석",
+      "action": "주식 시장 관련된 마케팅 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 스타벅스 논란과 정치, 기술과 관련된 주제가 주를 이루고 있습니다. 스타벅스 논란은 브랜드 이미지에 악영향을 미칠 수 있으며, 정치와 기술은 산업의 발전을 이끌 수 있습니다. 따라서, 스타벅스에 대한 마케팅 전략을 재검토하고, AI 기술에 대한 투자를 증가시켜야 합니다. 또한, 정치와 기술에 대한 관심을 높여야 합니다.",
-  "analyzed_at": "2026-05-26T03:30:34.574Z",
+  "narrative": "최근의 트렌드는 정용진 사과와 관련된 논의와 스타벅스 탱크데이 사과에 대한 반응이 주를 이루고 있습니다. 주식 시장 동향과 분석도 일부 논의되고 있습니다. 이러한 트렌드는 마케팅 전략 수립에 중요한 참고자료가 될 수 있습니다. 특히, 정용진 사과와 관련된 논의는 높은 우선순위를 가지고 있으며, 스타벅스 탱크데이 사과에 대한 반응도 중간 우선순위를 가지고 있습니다. 주식 시장 동향과 분석은 낮은 우선순위를 가지고 있습니다.",
+  "analyzed_at": "2026-05-26T05:00:34.553Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
