@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "서울시장 선거",
-      "summary": "서울시장 선거 관련 논란과 후보자 평가가 활발하게讨論되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "김용남 대부업 논란",
-      "summary": "김용남의 대부업 관련 논란이 커져가고 있습니다.",
+      "topic": "하이닉스",
+      "summary": "하이닉스 주가 상승과 관련된 게시글이 많습니다. 하이닉스에 대한 투자와 관련된 게시글도 있습니다.",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "국내외에서 AI 기술 개발이 활발하게 진행되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "스벅 사태",
+      "summary": "스벅 사태와 관련된 게시글이 많습니다. 스벅의 환불 정책과 관련된 게시글도 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "김부겸 후보",
+      "summary": "김부겸 후보와 관련된 게시글이 많습니다. 김부겸 후보의 선거 운동과 관련된 게시글도 있습니다.",
+      "post_count": 2,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "서울시장 선거",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "서울시장 선거 관련 논란과 후보자 평가"
-    },
-    {
-      "keyword": "김용남",
+      "keyword": "하이닉스",
       "count": 10,
-      "sentiment": "negative",
-      "context": "김용남의 대부업 관련 논란"
+      "sentiment": "positive",
+      "context": "하이닉스 주가 상승과 관련된 게시글"
     },
     {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술 개발과 관련된 뉴스와 논문"
+      "keyword": "스벅",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "스벅 사태와 관련된 게시글"
+    },
+    {
+      "keyword": "김부겸",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "김부겸 후보와 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "서울시장 선거 관련 논란이 커져가고 있습니다.",
-      "action": "서울시장 선거 관련 뉴스와 논란을 주시하여 대응策을 마련해야 합니다.",
-      "priority": "high"
+      "insight": "하이닉스 주가 상승과 관련된 투자 기회",
+      "action": "하이닉스 주식을 매수하는 것을 고려",
+      "priority": "medium"
     },
     {
-      "insight": "AI 기술 개발이 활발하게 진행되고 있습니다.",
-      "action": "AI 기술 개발과 관련된 뉴스와 논문을 주시하여 기술 개발을 지원해야 합니다.",
-      "priority": "medium"
+      "insight": "스벅 사태와 관련된 고객 불만",
+      "action": "스벅의 환불 정책을 개선하는 것을 고려",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 서울시장 선거 관련 논란이 커져가고 있습니다. 김용남의 대부업 관련 논란이 특히 큰 이슈로 부상하고 있습니다. 또한, AI 기술 개발이 활발하게 진행되고 있으며, 관련된 뉴스와 논문이 많이 등장하고 있습니다. 이러한 트렌드와 키워드를 주시하여 대응策을 마련하고, 기술 개발을 지원해야 합니다. 중립적인 분위기에서 양립할 수 있는 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-05-26T11:00:34.309Z",
+  "narrative": "최근의 트렌드는 하이닉스 주가 상승과 관련된 게시글이 많습니다. 스벅 사태와 관련된 게시글도 많습니다. 김부겸 후보와 관련된 게시글도 있습니다. 이러한 트렌드는 투자 기회와 고객 불만을 나타내고 있습니다. 따라서 하이닉스 주식을 매수하는 것을 고려하고, 스벅의 환불 정책을 개선하는 것을 고려해야 합니다.",
+  "analyzed_at": "2026-05-26T12:30:33.791Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
