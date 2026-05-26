@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "이란-미국 관계",
-      "summary": "이란과 미국의 관계가緊張하고 있으며, 이에 따른 군사적 충돌 가능성이 논의되고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "스타벅스 논란",
+      "summary": "스타벅스 관련 논란이 클리앙 커뮤니티에서热한 관심을 받고 있습니다. 사용자들은 스타벅스의 계약 해지 사유와 본사 콜옵션 행사 요건에 대한 의견을 나누고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "한국 경제",
-      "summary": "한국의 경제 성장률이 OECD 국가 중 1위이며, 주요 기업들의 투자와 성과가 언급되고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치 및 경제",
+      "summary": "클리앙 커뮤니티에서는 정치 및 경제 관련 주제가 많이 논의되고 있습니다. 사용자들은 대통령의 발언과 경제 정책에 대한 의견을 나누고 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업들의 성과가 논의되고 있다.",
-      "post_count": 8,
+      "topic": "테크 및 IT",
+      "summary": "클리엔 커뮤니티에서는 테크 및 IT 관련 주제가 많이 논의되고 있습니다. 사용자들은 새로운 기술과 제품에 대한 의견을 나누고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 7,
+      "keyword": "스타벅스",
+      "count": 15,
       "sentiment": "negative",
-      "context": "이란-미국 관계에 대한 논의"
+      "context": "스타벅스 관련 논란"
     },
     {
-      "keyword": "한국 경제",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "한국의 경제 성장률과 주요 기업들의 투자"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 논의"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업적 활용"
+      "context": "테크 및 IT 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "한국 경제와 AI 기술에 대한 긍정적인 논의가 주를 이루고 있지만, 이란-미국 관계에 대한 부정적인 논의도 존재한다."
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국 경제의 성장률이 OECD 국가 중 1위임을 고려하여, 관련 산업에 대한 투자가 필요하다.",
-      "action": "관련 산업에 대한 투자 증가",
+      "insight": "스타벅스 관련 논란이 클리앙 커뮤니티에서 많은 관심을 받고 있습니다.",
+      "action": "스타벅스 관련 논란에 대한 대응 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 긍정적인 영향을 미치고 있으므로, 관련 기술에 대한 투자가 필요하다.",
-      "action": "AI 기술에 대한 투자 증가",
+      "insight": "클리앙 커뮤니티에서는 정치 및 경제 관련 주제가 많이 논의되고 있습니다.",
+      "action": "정치 및 경제 관련 주제에 대한 의견을 수렴하고 대응 전략을 수립해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "테크 및 IT 관련 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "테크 및 IT 관련 주제에 대한 의견을 수렴하고 대응 전략을 수립해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 이란-미국 관계, 한국 경제, 그리고 AI 기술에 대한 논의가 주를 이루고 있다. 한국 경제의 성장률이 OECD 국가 중 1위이며, 주요 기업들의 투자와 성과가 언급되고 있다. 또한, AI 기술의 발전이 다양한 산업에 긍정적인 영향을 미치고 있으므로, 관련 기술에 대한 투자가 필요하다. 그러나, 이란-미국 관계에 대한 부정적인 논의도 존재하므로, 관련 위험을 관리하는 것이 중요하다. 이러한 트렌드를 고려하여, 관련 산업에 대한 투자와 기술 개발을 통해 경쟁력을 높일 수 있을 것이다.",
-  "analyzed_at": "2026-05-26T00:01:23.025Z",
-  "post_count": 61,
+  "narrative": "클리앙 커뮤니티에서는 스타벅스 관련 논란, 정치 및 경제, 테크 및 IT 관련 주제가 많이 논의되고 있습니다. 사용자들은 이러한 주제에 대한 의견을 나누고 있습니다. 스타벅스 관련 논란에 대한 대응 전략을 수립하고, 정치 및 경제 관련 주제에 대한 의견을 수렴하여 대응 전략을 수립해야 합니다. 또한, 테크 및 IT 관련 주제에 대한 의견을 수렴하여 대응 전략을 수립해야 합니다. 클리앙 커뮤니티의 사용자들은 중립적인 태도를 보이고 있습니다. 따라서, 이러한 주제에 대한 의견을 수렴하고 대응 전략을 수립하여 사용자들의 관심을 끌어야 합니다.",
+  "analyzed_at": "2026-05-26T02:00:34.308Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
