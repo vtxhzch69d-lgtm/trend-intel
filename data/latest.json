@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "스벅 사태",
-      "summary": "스벅 탈퇴와 관련된 게시글이 많으며, 사용자들의 불만과 분노가 표출되고 있다.",
+      "summary": "스벅에 대한 불만과 사과 요구가 이어지고 있습니다. 일부 고객은 스벅을 불매하겠다고 밝혔습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "주식 시장",
-      "summary": "주식 관련 게시글이 많으며, 사용자들은 주식 시장의 상황과 전망에 대해 논의하고 있다.",
+      "summary": "주식 시장의 변동과 관련된 게시글이 많습니다. 일부 사용자는 주식 투자에 대한 조언을 구하고 있습니다.",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스와 게시글이 많으며, 사용자들은 AI 기술의 발전과 적용에 대해 관심을 보이고 있다.",
-      "post_count": 5,
+      "summary": "AI 기술의 발전과 관련된 게시글이 많습니다. 일부 사용자는 AI 기술의 잠재적 활용에 대해 논의하고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -27,46 +27,46 @@
       "keyword": "스벅",
       "count": 15,
       "sentiment": "negative",
-      "context": "스벅 탈퇴와 관련된 게시글"
+      "context": "스벅에 대한 불만"
     },
     {
       "keyword": "주식",
       "count": 10,
       "sentiment": "neutral",
-      "context": "주식 시장과 전망에 대한 논의"
+      "context": "주식 시장의 변동"
     },
     {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 30,
-    "neutral": 40,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "스벅 사태는 사용자들의 불만과 분노를 표출하고 있다.",
-      "action": "스벅의 마케팅 전략과 고객 서비스를 개선해야 한다.",
+      "insight": "스벅 사태에 대한 대응",
+      "action": "스벅에 대한 불만을 해결하기 위한 대응책을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장은 사용자들의 관심과 논의를 끌고 있다.",
-      "action": "주식 관련 콘텐츠와 서비스를 제공해야 한다.",
+      "insight": "주식 시장의 변동",
+      "action": "주식 시장의 변동에 대한 정보를 제공하고 투자자들에게 조언해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술은 사용자들의 관심과 호감을 끌고 있다.",
-      "action": "AI 기술을 적용한 서비스와 제품을 개발해야 한다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술의 잠재적 활용을 연구하고 개발해야 합니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 스벅 사태와 주식 시장, AI 기술이 주를 이루고 있다. 스벅 사태는 사용자들의 불만과 분노를 표출하고 있으며, 주식 시장은 사용자들의 관심과 논의를 끌고 있다. AI 기술은 사용자들의 관심과 호감을 끌고 있으며, 이를 적용한 서비스와 제품을 개발해야 한다. 이러한 트렌드를 고려하여 마케팅 전략과 고객 서비스를 개선하고, 주식 관련 콘텐츠와 서비스를 제공하며, AI 기술을 적용한 서비스와 제품을 개발해야 한다.",
-  "analyzed_at": "2026-05-26T21:30:34.368Z",
+  "narrative": "최근의 트렌드는 스벅 사태와 주식 시장의 변동, AI 기술의 발전을 중심으로 형성되고 있습니다. 스벅 사태에 대한 불만과 사과 요구가 이어지고 있으며, 일부 고객은 스벅을 불매하겠다고 밝혔습니다. 주식 시장의 변동과 관련된 게시글이 많으며, 일부 사용자는 주식 투자에 대한 조언을 구하고 있습니다. AI 기술의 발전과 관련된 게시글도 많으며, 일부 사용자는 AI 기술의 잠재적 활용에 대해 논의하고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고 대응책을 마련하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-26T23:00:34.323Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
