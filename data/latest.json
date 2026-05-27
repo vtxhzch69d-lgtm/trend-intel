@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 경제",
-      "summary": "정치 및 경제 관련된 주제가 많은 관심을 받고 있습니다. 특히, 정부의 정책과 경제 상황에 대한 논의가 활발합니다.",
-      "post_count": 20,
+      "topic": "삼전 로또 성과급",
+      "summary": "삼성전자 로또 성과급에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자는 성과급이 양극화를 심화시킬 수 있다고 우려합니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련된 주제가 많은 관심을 받고 있습니다. 특히, AI와 관련된 기술 개발 및 적용에 대한 논의가 활발합니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "카카오톡 개편",
+      "summary": "카카오톡의 최근 개편에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 일부 사용자는 개편이 사용자 경험을 저하시킨다고 주장합니다.",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 관련된 주제가 많은 관심을 받고 있습니다. 특히, 인구 절벽과 관련된 문제에 대한 논의가 활발합니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "초과이윤 세수",
+      "summary": "초과이윤 세수에 대한 논의가 클리언 커뮤니티에서 진행되고 있습니다. 일부 사용자는 초과이윤 세수가 경제 성장에 부정적인 영향을 미칠 수 있다고 우려합니다.",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "삼전",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술 개발 및 적용에 대한 논의"
+      "sentiment": "neutral",
+      "context": "삼성전자 관련 뉴스 및 논의"
     },
     {
-      "keyword": "정부",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정부의 정책과 경제 상황에 대한 논의"
-    },
-    {
-      "keyword": "경제",
-      "count": 6,
+      "keyword": "카카오톡",
+      "count": 5,
       "sentiment": "negative",
-      "context": "경제 상황에 대한 논의"
+      "context": "카카오톡의 최근 개편에 대한 논의"
+    },
+    {
+      "keyword": "초과이윤",
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "초과이윤 세수에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발 및 적용에 대한 투자",
-      "action": "AI 기술 개발 및 적용에 대한 투자 증가",
-      "priority": "high"
-    },
-    {
-      "insight": "정부의 정책과 경제 상황에 대한 분석",
-      "action": "정부의 정책과 경제 상황에 대한 분석 증가",
+      "insight": "삼성전자의 로또 성과급이 양극화를 심화시킬 수 있는 가능성이 있습니다.",
+      "action": "사내 성과급 제도에 대한 재검토",
       "priority": "medium"
     },
     {
-      "insight": "인구 절벽과 관련된 문제에 대한 해결",
-      "action": "인구 절벽과 관련된 문제에 대한 해결책 개발",
-      "priority": "low"
+      "insight": "카카오톡의 최근 개편이 사용자 경험을 저하시킨 것으로 보입니다.",
+      "action": "사용자 피드백을 수집하여 개편을 재검토",
+      "priority": "high"
+    },
+    {
+      "insight": "초과이윤 세수가 경제 성장에 부정적인 영향을 미칠 수 있는 가능성이 있습니다.",
+      "action": "초과이윤 세수에 대한 추가 연구 및 분석",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치 및 경제, 기술 및 과학, 사회 및 문화 관련된 주제가 많은 관심을 받고 있습니다. 특히, AI 기술 개발 및 적용에 대한 논의가 활발합니다. 정부의 정책과 경제 상황에 대한 논의도 활발합니다. 그러나, 인구 절벽과 관련된 문제에 대한 해결책 개발이 필요합니다. 이러한 트렌드를 분석하여, AI 기술 개발 및 적용에 대한 투자, 정부의 정책과 경제 상황에 대한 분석, 인구 절벽과 관련된 문제에 대한 해결책 개발 등의 비즈니스 인사이트를 도출할 수 있습니다.",
-  "analyzed_at": "2026-05-27T06:30:33.782Z",
-  "post_count": 61,
+  "narrative": "클리앙 커뮤니티의 최근 트렌드는 삼전 로또 성과급, 카카오톡 개편, 초과이윤 세수 등 다양한 주제를 포함하고 있습니다. 사용자들은 이러한 주제에 대해 다양한 의견을 제시하고 있으며, 일부 주제는 양극화나 사용자 경험의 저하와 관련이 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 데 도움이 될 수 있습니다. 또한, 사용자 피드백을 수집하여 서비스 개선에 활용할 수 있습니다.",
+  "analyzed_at": "2026-05-27T08:00:34.664Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
