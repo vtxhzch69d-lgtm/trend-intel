@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명과 민주당에 대한 가짜뉴스와 왜곡, 박근혜의 부산 선거 지원 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 인기와 반도체 산업의 성장",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 개발, 오픈AI 보안 동맹 합류, SK하이닉스의 시총 1조달러 클럽 진입 등 기술 관련 주제가 관심을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련된 게시글들이 많이 올라왔습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "주식시장, 경제 성장, 초과세수 등 경제 관련 주제가 관심을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "최신 기술 관련된 게시글들이 많이 올라왔습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI와 관련된 기술 개발"
-    },
-    {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "이재명과 민주당에 대한 가짜뉴스와 왜곡"
-    },
-    {
       "keyword": "주식",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "주식 시장의 성장"
+    },
+    {
+      "keyword": "반도체",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "주식시장"
+      "sentiment": "positive",
+      "context": "반도체 산업의 성장"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI와 관련된 기술 개발이 중요",
-      "action": "AI 기술 개발에 투자",
+      "insight": "주식 시장의 성장",
+      "action": "주식 시장에 대한 투자",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제가 관심을 받고 있음",
-      "action": "정치 관련 주제에 대한 분석",
-      "priority": "medium"
+      "insight": "반도체 산업의 성장",
+      "action": "반도체 산업에 대한 투자",
+      "priority": "high"
     },
     {
-      "insight": "경제 성장과 관련된 주제가 관심을 받고 있음",
-      "action": "경제 성장과 관련된 주제에 대한 분석",
-      "priority": "low"
+      "insight": "정치 관련된 게시글",
+      "action": "정치 관련된 게시글에 대한 분석",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 주제가 관심을 받고 있습니다. AI와 관련된 기술 개발, 오픈AI 보안 동맹 합류, SK하이닉스의 시총 1조달러 클럽 진입 등 기술 관련 주제가 특히 관심을 받고 있습니다. 또한, 이재명과 민주당에 대한 가짜뉴스와 왜곡, 박근혜의 부산 선거 지원 등 정치 관련 주제도 관심을 받고 있습니다. 경제 성장과 관련된 주제도 관심을 받고 있지만, 중립적인 분위기입니다. 이러한 트렌드를 분석하여, AI 기술 개발에 투자하고, 정치 관련 주제에 대한 분석을 수행하는 것이 중요합니다.",
-  "analyzed_at": "2026-05-27T11:00:35.076Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장과 반도체 산업이 성장하고 있는 것으로 나타났습니다. 주식 시장의 성장은 투자 기회를 제공하고, 반도체 산업의 성장은 기술 발전에 기여하고 있습니다. 또한, 정치 관련된 게시글들이 많이 올라왔습니다. 이러한 트렌드 분석 결과를 통해, 투자 기회와 기술 발전에 대한 정보를 얻을 수 있습니다.",
+  "analyzed_at": "2026-05-27T12:30:34.531Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
