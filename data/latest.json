@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "코스피 8400선 돌파, 주식 창을 보니 좀 이상하네요",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "선거",
-      "summary": "선거 원래 이렇게 하는 겁니까??, 박근혜 등판",
-      "post_count": 5,
+      "summary": "주식 시장의 상승과 하락에 대한 논의가 많았으며, 일부 사용자는 주식 투자에 대한 성공을 공유했습니다. 그러나 일부 사용자는 주식 투자에 대한 우려를 나타내기도 했습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 도입, AI 음성제어 공개, 한국형 보안 AI",
-      "post_count": 8,
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 논의가 많았습니다. 일부 사용자는 AI 기술의 잠재적 위험에 대한 우려를 나타내기도 했습니다.",
+      "post_count": 10,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 논평이 많았으며, 일부 사용자는 정치적 견해를 공유했습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "코스피 8400선 돌파"
-    },
-    {
-      "keyword": "선거",
-      "count": 5,
+      "count": 20,
       "sentiment": "mixed",
-      "context": "선거 원래 이렇게 하는 겁니까??"
+      "context": "주식 시장의 상승과 하락에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 도입, AI 음성제어 공개"
+      "context": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "주식 시장과 AI 기술에 대한 긍정적인 반응"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 20,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승",
-      "action": "주식 투자",
+      "insight": "주식 시장의 상승과 하락에 대한 논의가 많았으므로, 주식 투자 관련 서비스나 제품을 제공하는 기업은 이를 고려하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "주식 투자 관련 서비스나 제품의 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술 도입",
+      "insight": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 논의가 많았으므로, AI 기술 관련 서비스나 제품을 제공하는 기업은 이를 고려하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "AI 기술 관련 서비스나 제품의 마케팅 전략 수립",
       "priority": "medium"
-    },
-    {
-      "insight": "선거의 영향",
-      "action": "선거 결과 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 주식 시장은 상승세를 보이고 있으며, 코스피 8400선 돌파 등 주식 관련 게시물이 많이 올라왔습니다. 또한, AI 기술에 대한 관심이 높아지고 있으며, 한국형 보안 AI 등 관련 게시물이 많이 올라왔습니다. 선거 관련 게시물도 일부 존재하지만, 전체적으로 주식 시장과 AI 기술에 대한 긍정적인 반응이 많습니다. 따라서, 주식 투자와 AI 기술 도입을 고려할 수 있습니다.",
-  "analyzed_at": "2026-05-27T00:30:33.857Z",
+  "narrative": "본 분석 보고서는 클리앙 커뮤니티의 인기 게시글을 분석하여 트렌드와 감정을 파악했습니다. 주식 시장, AI 기술, 정치 등 다양한 주제에 대한 논의가 있었으며, 일부 사용자는 주식 투자에 대한 성공을 공유했습니다. 그러나 일부 사용자는 주식 투자에 대한 우려를 나타내기도 했습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 논의도 많았습니다. 이러한 트렌드와 감정을 고려하여 마케팅 전략을 수립하는 것이 중요할 것입니다.",
+  "analyzed_at": "2026-05-27T02:00:34.292Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
