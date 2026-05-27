@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그로 인한 산업의 변화",
+      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "최근의 정치 및 선거 관련 뉴스와 의견",
+      "topic": "정치",
+      "summary": "한국 정치 상황과 선거 관련 뉴스",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업 동향",
-      "summary": "최신 기술 및 산업 동향과 그로 인한 변화",
+      "topic": "경제",
+      "summary": "한국 경제 상황과 기업 뉴스",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -26,47 +26,42 @@
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "선거",
-      "count": 10,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "mixed",
-      "context": "정치 및 선거 관련 뉴스"
+      "context": "한국 정치 상황"
     },
     {
-      "keyword": "기술",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "최신 기술 및 산업 동향"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "한국 경제 상황"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
-      "action": "AI 기술의 발전을 주시하고 그로 인한 기회를 찾기",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾는다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 선거 관련 뉴스는 계속해서 주목할 필요가 있다",
-      "action": "정치 및 선거 관련 뉴스를 계속해서 주시하기",
+      "insight": "한국 정치 상황은 경제에 영향을 미칠 수 있다.",
+      "action": "한국 정치 상황을 주시하고 그에 따른リス크를 관리한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 및 산업 동향은 산업의 변화를 가져올 수 있다",
-      "action": "최신 기술 및 산업 동향을 주시하고 그로 인한 기회를 찾기",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 정치 및 선거 관련 뉴스가 주목할 필요가 있는 것으로 나타났다. 또한 최신 기술 및 산업 동향은 산업의 변화를 가져올 수 있으므로 주시하고 그로 인한 기회를 찾는 것이 중요하다. 이러한 트렌드와 키워드를 분석하여 사업 전략을 수립하고 기회를 찾는 것이 중요하다.",
-  "analyzed_at": "2026-05-27T18:30:34.246Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서는 AI 기술의 발전과 그에 따른 사회적 영향, 한국 정치 상황과 선거 관련 뉴스, 한국 경제 상황과 기업 뉴스가 주목을 받고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 한국 정치 상황은 경제에 영향을 미칠 수 있다. 이러한 트렌드를 주시하고 그에 따른 기회와 리스크를 관리하는 것이 중요하다. 또한, AI 기술의 발전과 한국 정치 상황을 주시하는 것은 기업과 개인 모두에게 중요한 과제이다.",
+  "analyzed_at": "2026-05-27T20:00:35.122Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
