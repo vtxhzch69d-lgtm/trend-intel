@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "코스피 8천선 깨질것인가, 초과세수 및 초과이윤 논란, 주식 시장 동향",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "인공지능, AI 칩, 로봇 기술, 5G 및 6G 통신 기술",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "일베와 펨코의 문제",
+      "summary": "일베와 펨코의 문제가 사회적으로 논란이 되고 있다. 일베는 펨코보다 더 큰 문제라고 전문가들이 말하고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "대통령 및 정치인에 대한 논란, 정치적 이슈, 사회적 문제",
-      "post_count": 10,
+      "topic": "김용남의 녹취록",
+      "summary": "김용남의 녹취록이 또 다시 논란이 되고 있다. 녹취록의 내용이 사실인지 여부가 논란이 되고 있다.",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "윤석열의 위증 무죄",
+      "summary": "윤석열의 위증 무죄가 파문이 되고 있다. 위증죄의 대상이 아니라고 판결이 나왔지만, 여전히 논란이 되고 있다.",
+      "post_count": 2,
       "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장 동향"
-    },
-    {
-      "keyword": "인공지능",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술 및 응용"
-    },
-    {
-      "keyword": "코스피",
+      "keyword": "일베",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "코스피 8천선 깨질것인가"
+      "sentiment": "negative",
+      "context": "일베의 문제가 사회적으로 논란이 되고 있다."
+    },
+    {
+      "keyword": "펨코",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "펨코의 문제가 일베보다 더 크다고 전문가들이 말하고 있다."
+    },
+    {
+      "keyword": "김용남",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "김용남의 녹취록이 또 다시 논란이 되고 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 5,
     "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "부정적인 감정이 대부분이다."
   },
   "business_insights": [
     {
-      "insight": "인공지능 기술은 빠르게 발전하고 있으며, 다양한 산업에서 응용되고 있다.",
-      "action": "인공지능 기술을 활용하여 새로운 비즈니스 모델을 개발하자.",
+      "insight": "일베와 펨코의 문제는 사회적으로 큰 논란이 되고 있다.",
+      "action": "일베와 펨코의 문제를 해결하기 위한 대책을 마련해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장은 변동성이 크며, 투자자들은 주의해야 한다.",
-      "action": "주식 투자에 대한 교육 및 정보 제공을 강화하자.",
+      "insight": "김용남의 녹취록은 여전히 논란이 되고 있다.",
+      "action": "김용남의 녹취록의 내용을 확인하고 사실 여부를 조사해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드分析 결과, 인공지능 기술 및 주식 시장 동향이 주목을 받고 있다. 인공지능 기술은 빠르게 발전하고 있으며, 다양한 산업에서 응용되고 있다. 주식 시장은 변동성이 크며, 투자자들은 주의해야 한다. 이러한 트렌드를 고려하여, 인공지능 기술을 활용하여 새로운 비즈니스 모델을 개발하고, 주식 투자에 대한 교육 및 정보 제공을 강화하는 것이 중요하다.",
-  "analyzed_at": "2026-05-28T03:30:34.270Z",
+  "narrative": "현재 일베와 펨코의 문제가 사회적으로 큰 논란이 되고 있다. 일베는 펨코보다 더 큰 문제라고 전문가들이 말하고 있다. 또한 김용남의 녹취록이 또 다시 논란이 되고 있다. 이러한 문제들을 해결하기 위한 대책을 마련해야 한다. 일베와 펨코의 문제를 해결하기 위한 대책을 마련하고, 김용남의 녹취록의 내용을 확인하고 사실 여부를 조사해야 한다. 이러한 문제들을 해결하기 위해 노력해야 한다.",
+  "analyzed_at": "2026-05-28T05:00:34.470Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
