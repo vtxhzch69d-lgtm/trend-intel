@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "인천시교육감 후보 도성훈과 하정우 유튜브의 인기",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "테크",
-      "summary": "AI와 반도체의 발전",
+      "topic": "한국 정치",
+      "summary": "한국의 정치 상황과 선거 관련된 주제가 많이 обсужд되고 있습니다. 특히, 서울시장 선거와 국회의원 선거에 대한 관심이 높습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자와 한화의 사업 확대",
-      "post_count": 8,
+      "topic": "기술 및 과학",
+      "summary": "최신 기술과 과학 관련된 주제가 많이 обсужд되고 있습니다. 특히, AI와 전기차 관련된 주제가 인기 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "한국의 경제 상황과 기업 관련된 주제가 많이 обсужд되고 있습니다. 특히, 삼성전자와 한화의 사업 관련된 주제가 인기 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI의 발전과 적용"
+      "keyword": "서울시장",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "서울시장 선거 관련된 주제"
     },
     {
-      "keyword": "반도체",
+      "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "반도체 산업의 성장"
+      "context": "최신 기술과 과학 관련된 주제"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
+      "keyword": "삼성전자",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "한국의 경제 상황과 기업 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적이지만 약간 긍정적인 기조"
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI와 반도체 산업의 성장",
-      "action": "투자와 연구 개발",
+      "insight": "한국의 정치 상황과 선거 관련된 주제가 많이 обсужд되고 있습니다.",
+      "action": "정치 관련된 주제에 대한 광고와 마케팅을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제의 상관관계",
-      "action": "정책과 법안 분석",
+      "insight": "최신 기술과 과학 관련된 주제가 많이 обсужд되고 있습니다.",
+      "action": "최신 기술과 과학 관련된 주제에 대한 콘텐츠를 개발해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "소비자들의 기술에 대한 관심",
-      "action": "마케팅과 홍보",
+      "insight": "한국의 경제 상황과 기업 관련된 주제가 많이 обсужд되고 있습니다.",
+      "action": "한국의 경제 상황과 기업 관련된 주제에 대한 분석과 리포트를 개발해야 합니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI와 반도체 산업의 성장이 두드러지는 것으로 나타났습니다. 또한, 정치와 경제의 상관관계가 강조되며, 소비자들의 기술에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 반영하여, 기업들은 투자와 연구 개발, 정책과 법안 분석, 마케팅과 홍보 등에 대한 전략을 수립해야 할 것입니다. 특히, AI와 반도체 산업의 성장은 미래의 기술 발전에 큰 영향을 미칠 것으로 예상되므로, 관련 기업들은 이를 주목하고 준비해야 할 것입니다.",
-  "analyzed_at": "2026-05-28T14:30:34.740Z",
+  "narrative": "한국의 정치 상황과 선거 관련된 주제가 많이 обсужд되고 있습니다. 특히, 서울시장 선거와 국회의원 선거에 대한 관심이 높습니다. 또한, 최신 기술과 과학 관련된 주제가 많이 обсужд되고 있습니다. 특히, AI와 전기차 관련된 주제가 인기 있습니다. 한국의 경제 상황과 기업 관련된 주제도 많이 обсужд되고 있습니다. 특히, 삼성전자와 한화의 사업 관련된 주제가 인기 있습니다. 이러한 주제에 대한 분석과 리포트를 개발하여 마케팅과 광고에 활용할 수 있습니다.",
+  "analyzed_at": "2026-05-28T16:00:33.929Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
