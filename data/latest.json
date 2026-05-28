@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아졌으며, 선거와 관련된 토론이 활발히 진행되고 있습니다.",
+      "summary": "최근의 정치 뉴스와 선거 관련된 주제가 많은 관심을 받고 있습니다. 특히, 5·18 단체와 정용진 회장의 명예훼손·모욕 혐의 고소, 검찰의 군기밀유출 논란 수사 착수 등이 주목을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "인공지능, 5G, LTE와 관련된 게시글이 많이 올라왔으며, 기술 발전에 대한 관심이 높아졌습니다.",
+      "summary": "인공지능, 반도체, 디스플레이 등 기술 관련된 주제가 많은 관심을 받고 있습니다. 특히, AI 기술의 발전, 반도체 호황, 디스플레이 기술의 진보 등이 주목을 받고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 게시글이 많아졌으며, 반도체 호황과 관련된 뉴스가 많이 올라왔습니다.",
+      "summary": "경제 관련된 주제가 많은 관심을 받고 있습니다. 특히, 정부의 경제 정책, 기업의 매각 및 투자, 경제 성장 등이 주목을 받고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "인공지능",
-      "count": 25,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "인공지능 기술 발전에 대한 관심이 높아졌습니다."
-    },
-    {
-      "keyword": "5G",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "5G 기술과 관련된 뉴스가 많이 올라왔습니다."
+      "context": "인공지능 기술의 발전"
     },
     {
       "keyword": "반도체",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "반도체 호황과 관련된 뉴스가 많이 올라왔습니다."
+      "context": "반도체 호황"
+    },
+    {
+      "keyword": "디스플레이",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "디스플레이 기술의 진보"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
+    "negative": 15,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기입니다."
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "인공지능 기술 발전",
+      "insight": "인공지능 기술의 발전",
       "action": "인공지능 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "5G 기술 적용",
-      "action": "5G 기술을 활용한 비즈니스 모델 개발",
+      "insight": "반도체 호황",
+      "action": "반도체 관련된 비즈니스 모델 개발",
       "priority": "medium"
     },
     {
-      "insight": "반도체 산업 성장",
-      "action": "반도체 산업에 대한 투자 증가",
-      "priority": "medium"
+      "insight": "디스플레이 기술의 진보",
+      "action": "디스플레이 관련된 비즈니스 모델 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 정치, 기술, 경제와 관련된 게시글이 많아졌으며, 인공지능, 5G, 반도체와 관련된 관심이 높아졌습니다. 이러한 트렌드를 반영하여 비즈니스 모델을 개발하고, 투자를 증가시킬 수 있습니다. 또한, 전체적으로 긍정적인 분위기이므로, 마케팅 전략을 개발하여 고객을 유치할 수 있습니다.",
-  "analyzed_at": "2026-05-28T06:30:34.292Z",
+  "narrative": "최근의 정치 뉴스와 선거 관련된 주제가 많은 관심을 받고 있습니다. 특히, 5·18 단체와 정용진 회장의 명예훼손·모욕 혐의 고소, 검찰의 군기밀유출 논란 수사 착수 등이 주목을 받고 있습니다. 또한, 인공지능, 반도체, 디스플레이 등 기술 관련된 주제가 많은 관심을 받고 있습니다. 특히, AI 기술의 발전, 반도체 호황, 디스플레이 기술의 진보 등이 주목을 받고 있습니다. 이러한 트렌드에 따라, 인공지능 기술을 활용한 비즈니스 모델 개발, 반도체 관련된 비즈니스 모델 개발, 디스플레이 관련된 비즈니스 모델 개발 등이 중요한 비즈니스 인사이트로 나타납니다.",
+  "analyzed_at": "2026-05-28T08:01:24.371Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
