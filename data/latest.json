@@ -1,72 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "국내 정치",
-      "summary": "국내 정치 관련 글들이 많은 것으로 나타났습니다. 특히 조국과 관련된 글들이 많이 등장했습니다.",
-      "post_count": 15,
+      "topic": "정치 및 선거",
+      "summary": "클리앙 커뮤니티에서 정치 및 선거 관련 게시글이 많은 것으로 나타났습니다. 특히, 지방선거와 관련된 게시글이 많았으며, 일부 게시글에서는 특정 후보자에 대한 비판이나 지지가 나타났습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 글들이 많이 등장했습니다. 특히 AI와 관련된 글들이 많이 나타났습니다.",
-      "post_count": 20,
+      "topic": "테크 및 IT",
+      "summary": "클리앙 커뮤니티에서 테크 및 IT 관련 게시글이 많은 것으로 나타났습니다. 특히, AI, 스페이스X, 테슬라 등과 관련된 게시글이 많았으며, 일부 게시글에서는 이러한 기술의 발전과 미래에 대한 전망이 나타났습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 글들이 많이 등장했습니다. 특히 국내 기업과 관련된 글들이 많이 나타났습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "경제 및 금융",
+      "summary": "클리앙 커뮤니티에서 경제 및 금융 관련 게시글이 많은 것으로 나타났습니다. 특히, 주식, 경제 성장, 기업 동향 등과 관련된 게시글이 많았으며, 일부 게시글에서는 경제적 불안정성과 위기에 대한 우려가 나타났습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "국내 정치 관련 글에서 많이 등장했습니다."
-    },
-    {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 및 과학 관련 글에서 많이 등장했습니다."
+      "context": "AI 기술의 발전과 미래에 대한 전망"
     },
     {
-      "keyword": "국내 기업",
+      "keyword": "스페이스X",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "스페이스X의 발전과 미래에 대한 전망"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "테슬라의 발전과 미래에 대한 전망"
+    },
+    {
+      "keyword": "경제",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 관련 글에서 많이 등장했습니다."
+      "sentiment": "negative",
+      "context": "경제적 불안정성과 위기에 대한 우려"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "국내 정치 관련 글들이 많은 것으로 나타났습니다.",
-      "action": "정치 관련 글에 대한 모니터링을 강화해야 합니다.",
+      "insight": "테크 및 IT 분야의 발전이 계속될 것으로 예상됩니다.",
+      "action": "테크 및 IT 분야에 대한 투자와 연구를 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 및 과학 관련 글들이 많이 등장했습니다.",
-      "action": "기술 및 과학 관련 글에 대한 투자를 고려해야 합니다.",
+      "insight": "경제적 불안정성이 계속될 것으로 예상됩니다.",
+      "action": "경제적 위험을 관리하고 대비해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 글들이 많이 등장했습니다.",
-      "action": "경제 관련 글에 대한 분석을 강화해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "국내 정치, 기술 및 과학, 경제 관련 글들이 많이 등장했습니다. 특히 조국과 관련된 글들이 많이 등장했습니다. 기술 및 과학 관련 글들은 대부분 긍정적인 분위기였습니다. 경제 관련 글들은 중립적인 분위기였습니다. 국내 기업과 관련된 글들은 중립적인 분위기였습니다. 이러한 분석 결과를 바탕으로 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-05-28T11:30:33.969Z",
+  "narrative": "클리앙 커뮤니티의 게시글을 분석한 결과, 정치 및 선거, 테크 및 IT, 경제 및 금융 등이 주요 주제로 나타났습니다. 테크 및 IT 분야의 발전이 계속될 것으로 예상되며, 경제적 불안정성이 계속될 것으로 예상됩니다. 이러한 결과를 바탕으로, 테크 및 IT 분야에 대한 투자와 연구를 강화하고, 경제적 위험을 관리하고 대비해야 합니다. 또한, 클리앙 커뮤니티의 게시글을 통해 나타나는 중립적이지만 약간 부정적인 기운을 고려하여, 마케팅 전략을 세우고 실행해야 합니다.",
+  "analyzed_at": "2026-05-28T13:00:35.164Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
