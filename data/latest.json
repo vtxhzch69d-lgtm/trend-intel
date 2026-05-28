@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "사전투표",
-      "summary": "사전투표 시작과 관련된 게시글이 많이 올라왔습니다. 사전투표 근무하러 출발하는 게시글도 있었습니다.",
-      "post_count": 3,
-      "sentiment": "neutral",
+      "topic": "지방선거",
+      "summary": "지방선거 관련 게시물이 많은 것으로 나타났습니다. 사전투표와 선거 결과에 대한 관심이 높습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "핵잠수함",
+      "summary": "핵잠수함 사업과 관련된 게시물이 많습니다. 정부의 지원과 사업 수주에 대한 관심이 높습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "하정우",
-      "summary": "하정우와 관련된 게시글이 많이 올라왔습니다. 하정우의 토론 영상과 관련된 게시글도 있었습니다.",
-      "post_count": 4,
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 게시물이 많습니다. AI의 발전과 산업 적용에 대한 관심이 높습니다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "선거",
-      "summary": "선거와 관련된 게시글이 많이 올라왔습니다. 선거 관련 예상과 관련된 게시글도 있었습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "사전투표",
-      "count": 3,
+      "keyword": "지방선거",
+      "count": 20,
       "sentiment": "neutral",
-      "context": "사전투표 시작과 관련된 게시글"
+      "context": "사전투표와 선거 결과에 대한 관심"
     },
     {
-      "keyword": "하정우",
-      "count": 4,
+      "keyword": "핵잠수함",
+      "count": 10,
       "sentiment": "positive",
-      "context": "하정우의 토론 영상과 관련된 게시글"
+      "context": "정부의 지원과 사업 수주"
     },
     {
-      "keyword": "선거",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "선거 관련 예상과 관련된 게시글"
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI의 발전과 산업 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "사전투표와 관련된 게시글이 많이 올라왔습니다.",
-      "action": "사전투표와 관련된 마케팅 전략을 수립하세요.",
+      "insight": "지방선거와 핵잠수함 사업은 중요한 이슈입니다.",
+      "action": "관련된 게시물에 주목하고, 관심을 가지고 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "하정우와 관련된 게시글이 많이 올라왔습니다.",
-      "action": "하정우와 관련된 마케팅 전략을 수립하세요.",
+      "insight": "AI 기술은 산업 적용이 증가하고 있습니다.",
+      "action": "AI 기술을 활용하여 산업을 발전시킬 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 사전투표와 관련된 게시글이 많이 올라왔습니다. 사전투표 시작과 관련된 게시글도 있었습니다. 또한, 하정우와 관련된 게시글이 많이 올라왔습니다. 하정우의 토론 영상과 관련된 게시글도 있었습니다. 선거와 관련된 게시글도 많이 올라왔습니다. 선거 관련 예상과 관련된 게시글도 있었습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-28T19:00:33.609Z",
+  "narrative": "지방선거와 핵잠수함 사업은 현재 중요한 이슈입니다. 사전투표와 선거 결과에 대한 관심이 높으며, 정부의 지원과 사업 수주에 대한 관심도 높습니다. 또한, AI 기술은 산업 적용이 증가하고 있으며, 관련된 게시물이 많습니다. 이러한 트렌드와 키워드를 분석하여, 마케팅 전략을 수립할 수 있습니다. 지방선거와 핵잠수함 사업에 대한 관심을 활용하여, 관련된 제품이나 서비스를 홍보할 수 있습니다. 또한, AI 기술을 활용하여 산업을 발전시킬 수 있습니다. 이러한 분석을 통해, 마케팅 전략을 수립하고, 비즈니스 목표를 달성할 수 있습니다.",
+  "analyzed_at": "2026-05-28T20:30:34.841Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
