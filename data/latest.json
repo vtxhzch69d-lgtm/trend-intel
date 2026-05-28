@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 정치",
-      "summary": "한국 정치 관련 주제가 많은 관심을 받고 있습니다. 특히, 선거와 관련된 주제가 많이 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 관련된 주제가 많이 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "사전투표",
+      "summary": "사전투표 시작과 관련된 게시글이 많이 올라왔습니다. 사전투표 근무하러 출발하는 게시글도 있었습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 주제가 많은 관심을 받고 있습니다. 특히, 기업과 산업 관련 주제가 많이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "하정우",
+      "summary": "하정우와 관련된 게시글이 많이 올라왔습니다. 하정우의 토론 영상과 관련된 게시글도 있었습니다.",
+      "post_count": 4,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "선거",
+      "summary": "선거와 관련된 게시글이 많이 올라왔습니다. 선거 관련 예상과 관련된 게시글도 있었습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "사전투표",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "사전투표 시작과 관련된 게시글"
+    },
+    {
+      "keyword": "하정우",
+      "count": 4,
       "sentiment": "positive",
-      "context": "기술 및 과학 관련 주제에서 많이 언급되고 있습니다."
+      "context": "하정우의 토론 영상과 관련된 게시글"
     },
     {
       "keyword": "선거",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "한국 정치 관련 주제에서 많이 언급되고 있습니다."
-    },
-    {
-      "keyword": "기업",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 관련 주제에서 많이 언급되고 있습니다."
+      "sentiment": "mixed",
+      "context": "선거 관련 예상과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
+    "positive": 10,
+    "negative": 5,
+    "neutral": 15,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국 정치 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "한국 정치 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "사전투표와 관련된 게시글이 많이 올라왔습니다.",
+      "action": "사전투표와 관련된 마케팅 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "기술 및 과학 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "기술 및 과학 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "하정우와 관련된 게시글이 많이 올라왔습니다.",
+      "action": "하정우와 관련된 마케팅 전략을 수립하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "경제 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "한국 온라인 커뮤니티에서 많은 관심을 받고 있는 주제는 한국 정치, 기술 및 과학, 경제 등입니다. 특히, 선거와 관련된 주제가 많이 논의되고 있습니다. 기술 및 과학 관련 주제에서도 AI와 관련된 주제가 많이 논의되고 있습니다. 경제 관련 주제에서는 기업과 산업 관련 주제가 많이 논의되고 있습니다. 이러한 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한, 이러한 주제에 대한 분석을 통해 사업적 인사이트를 얻을 수 있습니다.",
-  "analyzed_at": "2026-05-28T17:30:34.115Z",
+  "narrative": "최근 클리앙 커뮤니티에서 사전투표와 관련된 게시글이 많이 올라왔습니다. 사전투표 시작과 관련된 게시글도 있었습니다. 또한, 하정우와 관련된 게시글이 많이 올라왔습니다. 하정우의 토론 영상과 관련된 게시글도 있었습니다. 선거와 관련된 게시글도 많이 올라왔습니다. 선거 관련 예상과 관련된 게시글도 있었습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-28T19:00:33.609Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
