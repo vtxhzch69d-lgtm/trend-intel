@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "일베와 펨코의 문제",
-      "summary": "일베와 펨코의 문제가 사회적으로 논란이 되고 있다. 일베는 펨코보다 더 큰 문제라고 전문가들이 말하고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "최근 정치 관련 게시글이 많아졌으며, 선거와 관련된 토론이 활발히 진행되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "김용남의 녹취록",
-      "summary": "김용남의 녹취록이 또 다시 논란이 되고 있다. 녹취록의 내용이 사실인지 여부가 논란이 되고 있다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "인공지능, 5G, LTE와 관련된 게시글이 많이 올라왔으며, 기술 발전에 대한 관심이 높아졌습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "윤석열의 위증 무죄",
-      "summary": "윤석열의 위증 무죄가 파문이 되고 있다. 위증죄의 대상이 아니라고 판결이 나왔지만, 여전히 논란이 되고 있다.",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 관련 게시글이 많아졌으며, 반도체 호황과 관련된 뉴스가 많이 올라왔습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "일베",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "일베의 문제가 사회적으로 논란이 되고 있다."
+      "keyword": "인공지능",
+      "count": 25,
+      "sentiment": "positive",
+      "context": "인공지능 기술 발전에 대한 관심이 높아졌습니다."
     },
     {
-      "keyword": "펨코",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "펨코의 문제가 일베보다 더 크다고 전문가들이 말하고 있다."
+      "keyword": "5G",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "5G 기술과 관련된 뉴스가 많이 올라왔습니다."
     },
     {
-      "keyword": "김용남",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "김용남의 녹취록이 또 다시 논란이 되고 있다."
+      "keyword": "반도체",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "반도체 호황과 관련된 뉴스가 많이 올라왔습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 대부분이다."
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기입니다."
   },
   "business_insights": [
     {
-      "insight": "일베와 펨코의 문제는 사회적으로 큰 논란이 되고 있다.",
-      "action": "일베와 펨코의 문제를 해결하기 위한 대책을 마련해야 한다.",
+      "insight": "인공지능 기술 발전",
+      "action": "인공지능 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "김용남의 녹취록은 여전히 논란이 되고 있다.",
-      "action": "김용남의 녹취록의 내용을 확인하고 사실 여부를 조사해야 한다.",
+      "insight": "5G 기술 적용",
+      "action": "5G 기술을 활용한 비즈니스 모델 개발",
+      "priority": "medium"
+    },
+    {
+      "insight": "반도체 산업 성장",
+      "action": "반도체 산업에 대한 투자 증가",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 일베와 펨코의 문제가 사회적으로 큰 논란이 되고 있다. 일베는 펨코보다 더 큰 문제라고 전문가들이 말하고 있다. 또한 김용남의 녹취록이 또 다시 논란이 되고 있다. 이러한 문제들을 해결하기 위한 대책을 마련해야 한다. 일베와 펨코의 문제를 해결하기 위한 대책을 마련하고, 김용남의 녹취록의 내용을 확인하고 사실 여부를 조사해야 한다. 이러한 문제들을 해결하기 위해 노력해야 한다.",
-  "analyzed_at": "2026-05-28T05:00:34.470Z",
+  "narrative": "최근 정치, 기술, 경제와 관련된 게시글이 많아졌으며, 인공지능, 5G, 반도체와 관련된 관심이 높아졌습니다. 이러한 트렌드를 반영하여 비즈니스 모델을 개발하고, 투자를 증가시킬 수 있습니다. 또한, 전체적으로 긍정적인 분위기이므로, 마케팅 전략을 개발하여 고객을 유치할 수 있습니다.",
+  "analyzed_at": "2026-05-28T06:30:34.292Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
