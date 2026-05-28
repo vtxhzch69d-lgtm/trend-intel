@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "테슬라 FSD 환불 소송",
-      "summary": "테슬라의 자율주행 기술인 FSD에 대한 환불 소송이 진행 중이며, 법원에서 정면충돌이 발생했다.",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "서울시 서소문 고가 철거",
-      "summary": "서울시가 서소문 고가를 철거할 계획이지만, 안전 설비 예산이 삭감되어 논란이 되고 있다.",
-      "post_count": 1,
-      "sentiment": "negative",
+      "topic": "국내 정치",
+      "summary": "국내 정치 관련 글들이 많은 것으로 나타났습니다. 특히 조국과 관련된 글들이 많이 등장했습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "국민연금의 국내주식 투자",
-      "summary": "국민연금이 국내주식에 대한 투자 비중을 확대할 계획이다.",
-      "post_count": 2,
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련 글들이 많이 등장했습니다. 특히 AI와 관련된 글들이 많이 나타났습니다.",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 글들이 많이 등장했습니다. 특히 국내 기업과 관련된 글들이 많이 나타났습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "테슬라",
-      "count": 2,
+      "keyword": "조국",
+      "count": 10,
       "sentiment": "negative",
-      "context": "테슬라의 자율주행 기술인 FSD에 대한 환불 소송"
+      "context": "국내 정치 관련 글에서 많이 등장했습니다."
     },
     {
-      "keyword": "서울시",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "서울시의 서소문 고가 철거 계획"
-    },
-    {
-      "keyword": "국민연금",
-      "count": 2,
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "국민연금의 국내주식 투자 비중 확대"
+      "context": "기술 및 과학 관련 글에서 많이 등장했습니다."
+    },
+    {
+      "keyword": "국내 기업",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제 관련 글에서 많이 등장했습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 3,
-    "negative": 4,
-    "neutral": 1,
-    "overall_mood": "부정적인 감정이 강한 편이다."
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "테슬라의 자율주행 기술인 FSD에 대한 환불 소송이 진행 중이다.",
-      "action": "테슬라의 자율주행 기술에 대한 투자와 개발을 주의 깊게 관찰해야 한다.",
+      "insight": "국내 정치 관련 글들이 많은 것으로 나타났습니다.",
+      "action": "정치 관련 글에 대한 모니터링을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "국민연금이 국내주식에 대한 투자 비중을 확대할 계획이다.",
-      "action": "국내주식 시장에 대한 투자 기회를 찾는 것이 좋다.",
+      "insight": "기술 및 과학 관련 글들이 많이 등장했습니다.",
+      "action": "기술 및 과학 관련 글에 대한 투자를 고려해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 글들이 많이 등장했습니다.",
+      "action": "경제 관련 글에 대한 분석을 강화해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 테슬라의 자율주행 기술인 FSD에 대한 환불 소송과 서울시의 서소문 고가 철거 계획이 주목을 받고 있다. 또한, 국민연금이 국내주식에 대한 투자 비중을 확대할 계획이어서 국내주식 시장에 대한 투자 기회를 찾는 것이 좋다. 그러나, 테슬라의 자율주행 기술에 대한 투자와 개발을 주의 깊게 관찰해야 한다. 전체적으로 부정적인 감정이 강한 편이지만, 국내주식 시장에 대한 투자 기회는 존재한다.",
-  "analyzed_at": "2026-05-28T10:00:34.524Z",
+  "narrative": "국내 정치, 기술 및 과학, 경제 관련 글들이 많이 등장했습니다. 특히 조국과 관련된 글들이 많이 등장했습니다. 기술 및 과학 관련 글들은 대부분 긍정적인 분위기였습니다. 경제 관련 글들은 중립적인 분위기였습니다. 국내 기업과 관련된 글들은 중립적인 분위기였습니다. 이러한 분석 결과를 바탕으로 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-05-28T11:30:33.969Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
