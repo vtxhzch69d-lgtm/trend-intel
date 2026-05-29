@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "사전투표",
-      "summary": "사전투표율이 역대 최고치로 나타남. 많은 사람들이 투표에 참여하고 있음.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "제9회 전국동시지방선거",
+      "summary": "사전투표율 11.60%로 역대 지선 최고치 기록, 투표장 행위에 대한 논란",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 발전하고 있음. 기업들이 AI 기술에 투자하고 있음.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "서소문 사고",
+      "summary": "서소문 사고 관련 보강 안한 것으로 밝혀져 논란, 최소안전율 밑돌아도 보강 안했다는 의혹",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스가 많음. 기업들의 성과와 정부의 경제 정책 등이 논의되고 있음.",
-      "post_count": 12,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 투표장 행위에 대한 논란, 최애 시장 상품 등",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "사전투표",
-      "count": 10,
+      "keyword": "제9회 전국동시지방선거",
+      "count": 20,
       "sentiment": "neutral",
-      "context": "사전투표율이 역대 최고치로 나타남"
+      "context": "사전투표율, 투표장 행위 등"
     },
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술이 다양한 분야에서 발전하고 있음"
+      "keyword": "서소문 사고",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "보강 안한 것으로 밝혀져 논란"
     },
     {
-      "keyword": "경제",
-      "count": 12,
+      "keyword": "이재명 대통령",
+      "count": 10,
       "sentiment": "mixed",
-      "context": "경제 관련 뉴스가 많음"
+      "context": "투표장 행위, 최애 시장 상품 등"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
+    "positive": 10,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적이지만 서소문 사고 등에 대한 부정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "사전투표에 대한 관심이 높아짐",
-      "action": "사전투표 관련 콘텐츠를 제작하여 관심을 끌기",
+      "insight": "제9회 전국동시지방선거 사전투표율이 높아짐에 따라 정치 관련 콘텐츠의 수요가 증가할 수 있음",
+      "action": "정치 관련 콘텐츠 제작 및 마케팅 강화",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 다양한 분야에서 발전하고 있음",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발하기",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스가 많음",
-      "action": "경제 관련 뉴스를 분석하여 새로운 비즈니스 기회를 찾기",
+      "insight": "서소문 사고 등에 대한 논란이 확대됨에 따라 안전 및 보안 관련 콘텐츠의 수요가 증가할 수 있음",
+      "action": "안전 및 보안 관련 콘텐츠 제작 및 마케팅 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드는 사전투표와 AI 기술이 주목을 받고 있습니다. 사전투표에 대한 관심이 높아지고 있으며, AI 기술이 다양한 분야에서 발전하고 있습니다. 또한, 경제 관련 뉴스가 많으며, 기업들의 성과와 정부의 경제 정책 등이 논의되고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 찾고, 관심을 끌기 위한 전략을 개발할 수 있습니다.",
-  "analyzed_at": "2026-05-29T10:30:33.860Z",
+  "narrative": "제9회 전국동시지방선거 사전투표율이 높아짐에 따라 정치 관련 콘텐츠의 수요가 증가할 수 있습니다. 또한, 서소문 사고 등에 대한 논란이 확대됨에 따라 안전 및 보안 관련 콘텐츠의 수요가 증가할 수 있습니다. 이러한 트렌드를 반영하여 콘텐츠 제작 및 마케팅 전략을 수립하는 것이 중요합니다. 특히, 정치 관련 콘텐츠의 경우, 사전투표율이 높아짐에 따라 투표장 행위 등에 대한 관심이 높아질 수 있습니다. 따라서, 이러한 주제에 대한 콘텐츠를 제작하여 수요를 충족시키는 것이 중요합니다. 또한, 안전 및 보안 관련 콘텐츠의 경우, 서소문 사고 등에 대한 논란이 확대됨에 따라 안전 및 보안 관련 콘텐츠의 수요가 증가할 수 있습니다. 따라서, 이러한 주제에 대한 콘텐츠를 제작하여 수요를 충족시키는 것이 중요합니다.",
+  "analyzed_at": "2026-05-29T12:00:34.927Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
