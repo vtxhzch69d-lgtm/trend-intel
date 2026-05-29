@@ -1,75 +1,62 @@
 {
   "trending_topics": [
     {
-      "topic": "사전투표",
-      "summary": "사전투표 관련 게시글이 많이 올라왔으며, 투표율과 결과에 대한 관심이 높다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 게시글이 많이 올라왔으며, 긍정적인 반응이 많다.",
-      "post_count": 8,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다.",
+      "post_count": 100,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 게시글이 많이 올라왔으며, 시장 동향과 투자에 대한 관심이 높다.",
-      "post_count": 12,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 최신 기술이나 제품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 새로운 기술이나 제품에 대한 정보를 얻을 수 있습니다.",
+      "post_count": 50,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "사전투표",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "사전투표 관련 게시글"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "무료",
+      "count": 50,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "무료 상품에 대한 정보"
     },
     {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "경제 및 금융 관련 게시글"
+      "keyword": "할인",
+      "count": 30,
+      "sentiment": "positive",
+      "context": "할인된 상품에 대한 정보"
+    },
+    {
+      "keyword": "최신 기술",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "최신 기술에 대한 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 60,
     "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "사전투표 관련 게시글의 증가",
-      "action": "사전투표 관련 캠페인 실행",
+      "insight": "무료나 할인된 상품에 대한 정보를 제공하면 사용자의 관심을 끌 수 있습니다.",
+      "action": "무료나 할인된 상품에 대한 정보를 제공하는 마케팅 캠페인을 실행합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술의 적용",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 관련 게시글의 증가",
-      "action": "경제 및 금융 관련 콘텐츠 제공",
+      "insight": "최신 기술이나 제품에 대한 정보를 제공하면 사용자의 관심을 끌 수 있습니다.",
+      "action": "최신 기술이나 제품에 대한 정보를 제공하는 마케팅 캠페인을 실행합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드는 사전투표, AI 기술, 경제 및 금융 관련 게시글의 증가이다. 사전투표 관련 게시글은 중립적인 분위기를 보이고 있으며, AI 기술의 발전은 긍정적인 반응을 보이고 있다. 경제 및 금융 관련 게시글은 혼합된 반응을 보이고 있다. 이러한 트렌드를 통해 사전투표 관련 캠페인, AI 기술의 적용, 경제 및 금융 관련 콘텐츠 제공 등의 비즈니스 인사이트를 얻을 수 있다.",
-  "analyzed_at": "2026-05-29T01:00:34.349Z",
-  "post_count": 62,
+  "narrative": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다. 또한 최신 기술이나 제품에 대한 정보도 인기 있습니다. 이러한 정보를 제공하는 마케팅 캠페인을 실행하면 사용자의 관심을 끌 수 있습니다. 전체적으로 긍정적인 분위기이므로 마케팅 캠페인을 실행할 때 긍정적인 메시지를 전달하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-29T03:00:37.324Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
