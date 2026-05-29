@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "선거 및 정치",
-      "summary": "사전투표와 선거 관련 게시물이 많이 올라왔습니다. 정치 관련 뉴스와 후보자에 대한 의견이 분분합니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "사전투표",
+      "summary": "사전투표율이 역대 최고치로 나타남. 많은 사람들이 투표에 참여하고 있음.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술과 산업 동향에 대한 게시물이 많이 올라왔습니다. AI, 반도체, 전기차 등 다양한 주제가 다루어졌습니다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 발전하고 있음. 기업들이 AI 기술에 투자하고 있음.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융 관련 게시물이 많이 올라왔습니다. 기업의 실적과 투자 동향 등이 다루어졌습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "경제",
+      "summary": "경제 관련 뉴스가 많음. 기업들의 성과와 정부의 경제 정책 등이 논의되고 있음.",
+      "post_count": 12,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "선거",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "사전투표와 선거 관련 게시물"
+      "keyword": "사전투표",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "사전투표율이 역대 최고치로 나타남"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술과 산업 동향"
+      "context": "AI 기술이 다양한 분야에서 발전하고 있음"
     },
     {
-      "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기업의 실적과 투자 동향"
+      "keyword": "경제",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "경제 관련 뉴스가 많음"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술과 산업 동향을 주시하여 사업 기회를 찾을 수 있습니다.",
-      "action": "최신 기술과 산업 동향을 분석하여 사업 기회를 찾기",
+      "insight": "사전투표에 대한 관심이 높아짐",
+      "action": "사전투표 관련 콘텐츠를 제작하여 관심을 끌기",
       "priority": "high"
     },
     {
-      "insight": "경제와 금융 관련 뉴스를 주시하여 투자 기회를 찾을 수 있습니다.",
-      "action": "경제와 금융 관련 뉴스를 분석하여 투자 기회를 찾기",
+      "insight": "AI 기술이 다양한 분야에서 발전하고 있음",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발하기",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스가 많음",
+      "action": "경제 관련 뉴스를 분석하여 새로운 비즈니스 기회를 찾기",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 선거 및 정치, 기술 및 산업, 경제 및 금융 등 다양한 주제가 다루어졌습니다. 최신 기술과 산업 동향을 주시하여 사업 기회를 찾을 수 있습니다. 또한, 경제와 금융 관련 뉴스를 주시하여 투자 기회를 찾을 수 있습니다. 중립적인 분위기에서 다양한 의견이 분분합니다.",
-  "analyzed_at": "2026-05-29T09:00:33.928Z",
+  "narrative": "最近의 트렌드는 사전투표와 AI 기술이 주목을 받고 있습니다. 사전투표에 대한 관심이 높아지고 있으며, AI 기술이 다양한 분야에서 발전하고 있습니다. 또한, 경제 관련 뉴스가 많으며, 기업들의 성과와 정부의 경제 정책 등이 논의되고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 찾고, 관심을 끌기 위한 전략을 개발할 수 있습니다.",
+  "analyzed_at": "2026-05-29T10:30:33.860Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
