@@ -1,45 +1,45 @@
 {
   "trending_topics": [
     {
-      "topic": "대선",
-      "summary": "대선 관련 뉴스와 의견이 많습니다. 후보자들의 정책과 토론이 주목을 받고 있습니다.",
+      "topic": "선거",
+      "summary": "사전투표 완료와 선거 관련된 게시글이 많습니다. 정치인들의 활동과 정책에 대한 논의가 활발합니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술의 발전과 산업에서의 적용이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "AI, 반도체, 전기차 충전 등 기술 관련된 게시글이 많습니다. 새로운 기술의 개발과 적용에 대한 관심이 높습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 관련 뉴스와 의견이 많습니다. 기업들의 성과와 정부의 정책이 주목을 받고 있습니다.",
-      "post_count": 8,
+      "summary": "경제 관련된 게시글이 많습니다. 기업의 활동과 정부의 정책에 대한 논의가 활발합니다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "대선",
+      "keyword": "선거",
       "count": 20,
       "sentiment": "mixed",
-      "context": "대선 관련 뉴스와 의견"
+      "context": "사전투표 완료와 선거 관련된 게시글"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업에서의 적용"
+      "context": "신규 기술 개발과 적용"
     },
     {
-      "keyword": "경제",
+      "keyword": "반도체",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 의견"
+      "sentiment": "positive",
+      "context": "신규 기술 개발과 적용"
     }
   ],
   "sentiment_overview": {
@@ -50,18 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "대선 관련 뉴스와 의견을 분석하여 후보자들의 정책과 토론을 이해할 수 있습니다.",
-      "action": "대선 관련 뉴스와 의견을 모니터링하고 분석하여 후보자들의 정책과 토론을 이해합니다.",
+      "insight": "신규 기술 개발과 적용",
+      "action": "기술 개발 투자",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 산업에서의 적용을 분석하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
-      "action": "AI 기술의 발전과 산업에서의 적용을 모니터링하고 분석하여 새로운 비즈니스 기회를 찾습니다.",
+      "insight": "기업의 활동과 정부의 정책",
+      "action": "경영 전략 수립",
       "priority": "medium"
+    },
+    {
+      "insight": "소비자들의 관심과 선호도",
+      "action": "마케팅 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "대선 관련 뉴스와 의견이 많습니다. 후보자들의 정책과 토론이 주목을 받고 있습니다. 또한, AI 기술의 발전과 산업에서의 적용이 주목을 받고 있습니다. 경제 관련 뉴스와 의견도 많습니다. 기업들의 성과와 정부의 정책이 주목을 받고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
-  "analyzed_at": "2026-05-29T21:00:33.989Z",
+  "narrative": "최근의 트렌드는 선거와 기술, 경제 관련된 주제가 중심입니다. 선거 관련된 게시글은 사전투표 완료와 선거 정책에 대한 논의가 활발합니다. 기술 관련된 게시글은 AI, 반도체, 전기차 충전 등 새로운 기술의 개발과 적용에 대한 관심이 높습니다. 경제 관련된 게시글은 기업의 활동과 정부의 정책에 대한 논의가 활발합니다. 이러한 트렌드를 분석하여 기업은 기술 개발 투자, 경영 전략 수립, 마케팅 전략 수립 등에 활용할 수 있습니다.",
+  "analyzed_at": "2026-05-29T22:30:34.007Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
