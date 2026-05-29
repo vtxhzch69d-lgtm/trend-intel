@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "사전 투표",
-      "summary": "사전 투표가 시작되었습니다. 많은 사람들이 투표에 참여하고 있습니다.",
+      "topic": "사전투표",
+      "summary": "사전투표 관련 게시글이 많이 올라왔으며, 투표율과 결과에 대한 관심이 높다.",
       "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "GTX-A 철근 누락",
-      "summary": "GTX-A 철근 누락 문제가 발생했습니다. 이 문제는 건설 현장에서 발생한 안전 사고입니다.",
-      "post_count": 3,
-      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술이 발전하고 있습니다. 다양한 기업들이 AI 기술을 연구하고 개발 중입니다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 관련된 게시글이 많이 올라왔으며, 긍정적인 반응이 많다.",
+      "post_count": 8,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 게시글이 많이 올라왔으며, 시장 동향과 투자에 대한 관심이 높다.",
+      "post_count": 12,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "사전 투표",
-      "count": 10,
+      "keyword": "사전투표",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "사전 투표가 시작되었습니다."
-    },
-    {
-      "keyword": "GTX-A",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "GTX-A 철근 누락 문제가 발생했습니다."
+      "context": "사전투표 관련 게시글"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술이 발전하고 있습니다."
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "경제 및 금융 관련 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "사전 투표는 많은 사람들의 관심을 끌고 있습니다.",
-      "action": "사전 투표를 활용한 마케팅 전략을 개발하세요.",
-      "priority": "medium"
-    },
-    {
-      "insight": "GTX-A 철근 누락 문제는 건설 현장의 안전 사고입니다.",
-      "action": "건설 현장의 안전을 강화하기 위한 대책을 마련하세요.",
+      "insight": "사전투표 관련 게시글의 증가",
+      "action": "사전투표 관련 캠페인 실행",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 활용되고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발하세요.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술의 적용",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 및 금융 관련 게시글의 증가",
+      "action": "경제 및 금융 관련 콘텐츠 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드에 따르면, 사전 투표와 GTX-A 철근 누락 문제가 많은 사람들의 관심을 끌고 있습니다. 또한, AI 기술은 다양한 산업에서 활용되고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 찾고, 건설 현장의 안전을 강화하기 위한 대책을 마련하는 것이 중요합니다. 또한, 사전 투표를 활용한 마케팅 전략을 개발하여 고객과의 소통을 강화할 수 있습니다.",
-  "analyzed_at": "2026-05-28T23:30:33.663Z",
+  "narrative": "最近의 트렌드는 사전투표, AI 기술, 경제 및 금융 관련 게시글의 증가이다. 사전투표 관련 게시글은 중립적인 분위기를 보이고 있으며, AI 기술의 발전은 긍정적인 반응을 보이고 있다. 경제 및 금융 관련 게시글은 혼합된 반응을 보이고 있다. 이러한 트렌드를 통해 사전투표 관련 캠페인, AI 기술의 적용, 경제 및 금융 관련 콘텐츠 제공 등의 비즈니스 인사이트를 얻을 수 있다.",
+  "analyzed_at": "2026-05-29T01:00:34.349Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
