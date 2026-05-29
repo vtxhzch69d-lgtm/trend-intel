@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많아졌습니다. 특히, 선거와 관련된 게시글이 많습니다.",
+      "topic": "선거 및 정치",
+      "summary": "사전투표와 선거 관련 게시물이 많이 올라왔습니다. 정치 관련 뉴스와 후보자에 대한 의견이 분분합니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 게시글도 많아졌습니다. 특히, 삼성전자와 관련된 게시글이 많습니다.",
-      "post_count": 10,
+      "topic": "기술 및 산업",
+      "summary": "최신 기술과 산업 동향에 대한 게시물이 많이 올라왔습니다. AI, 반도체, 전기차 등 다양한 주제가 다루어졌습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 게시글도 많아졌습니다. 특히, AI와 관련된 게시글이 많습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융 관련 게시물이 많이 올라왔습니다. 기업의 실적과 투자 동향 등이 다루어졌습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "삼성전자가 최근 여러 가지 뉴스를 만들어내고 있습니다."
+      "keyword": "선거",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "사전투표와 선거 관련 게시물"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 관련 기술이 최근 많이 발전하고 있습니다."
+      "context": "최신 기술과 산업 동향"
     },
     {
-      "keyword": "선거",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "최근 선거와 관련된 게시글이 많아졌습니다."
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기업의 실적과 투자 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 15,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최근 기술 관련 게시글이 많아졌습니다.",
-      "action": "기술 관련 제품을 개발하거나 투자할 수 있습니다.",
+      "insight": "최신 기술과 산업 동향을 주시하여 사업 기회를 찾을 수 있습니다.",
+      "action": "최신 기술과 산업 동향을 분석하여 사업 기회를 찾기",
       "priority": "high"
     },
     {
-      "insight": "최근 정치 관련 게시글이 많아졌습니다.",
-      "action": "정치 관련 뉴스나 분석을 제공할 수 있습니다.",
+      "insight": "경제와 금융 관련 뉴스를 주시하여 투자 기회를 찾을 수 있습니다.",
+      "action": "경제와 금융 관련 뉴스를 분석하여 투자 기회를 찾기",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치와 경제, 기술 관련 게시글이 많아졌습니다. 특히, 삼성전자와 AI 관련 게시글이 많습니다. 이러한 트렌드를 분석하여 사업을 진행할 수 있습니다. 또한, 기술 관련 제품을 개발하거나 투자할 수 있습니다. 정치 관련 뉴스나 분석을 제공할 수 있습니다.",
-  "analyzed_at": "2026-05-29T07:30:34.582Z",
+  "narrative": "최근의 트렌드 분석 결과, 선거 및 정치, 기술 및 산업, 경제 및 금융 등 다양한 주제가 다루어졌습니다. 최신 기술과 산업 동향을 주시하여 사업 기회를 찾을 수 있습니다. 또한, 경제와 금융 관련 뉴스를 주시하여 투자 기회를 찾을 수 있습니다. 중립적인 분위기에서 다양한 의견이 분분합니다.",
+  "analyzed_at": "2026-05-29T09:00:33.928Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
