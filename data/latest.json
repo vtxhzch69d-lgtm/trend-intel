@@ -1,73 +1,86 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "서울 비거주1주택 공격, 정권이 위험해 질 수 있는 이유",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "투자할 종목 선정하는 것도 재미가 쏠쏠하네요",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 동향과 투자 전략",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "기술",
+      "summary": "넷플릭스 더 스파이 추천드립니다",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "low"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제에 대한 논의와 의견",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "사회",
+      "summary": "여론조사 꽃 - 서울 20대 남성: 오세훈 지지율 74.2%",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전"
+      "keyword": "오세훈",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "서울시장"
+    },
+    {
+      "keyword": "넷플릭스",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "OTT 서비스"
     },
     {
       "keyword": "주식",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "주식 시장의 동향"
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "투자"
     },
     {
-      "keyword": "정치",
-      "count": 12,
+      "keyword": "대구",
+      "count": 2,
       "sentiment": "negative",
-      "context": "정치 및 사회 문제"
+      "context": "지역 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
+    "positive": 10,
+    "negative": 8,
+    "neutral": 5,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "서울시장 오세훈의 지지율이 높아지고 있다",
+      "action": "서울시장 선거에 대한 분석을 심화시킨다",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 동향을 분석하여 투자 전략을 수립할 수 있다.",
-      "action": "주식 시장 분석 및 투자 전략 개발",
+      "insight": "넷플릭스의 인기가 높아지고 있다",
+      "action": "OTT 서비스에 대한 분석을 심화시킨다",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 문제에 대한 의견을 수렴하여 고객의 니즈를 이해할 수 있다.",
-      "action": "고객 의견 수렴 및 니즈 분석",
+      "insight": "주식 투자에 대한 관심이 높아지고 있다",
+      "action": "주식 투자에 대한 분석을 심화시킨다",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 주식 시장의 동향이 주요 관심사로 나타났습니다. 또한, 정치 및 사회 문제에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하고, 고객의 니즈를 이해하는 것이 중요합니다. 특히, AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으므로, 이를 활용한 비즈니스 모델 개발이 필요합니다. 또한, 주식 시장의 동향을 분석하여 투자 전략을 수립하는 것도 중요합니다. 마지막으로, 정치 및 사회 문제에 대한 의견을 수렴하여 고객의 니즈를 이해하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-30T16:00:34.236Z",
-  "post_count": 60,
+  "narrative": "최근의 트렌드 분석 결과, 서울시장 오세훈의 지지율이 높아지고 있으며, 넷플릭스의 인기가 높아지고 있다. 또한, 주식 투자에 대한 관심이 높아지고 있다. 이러한 트렌드에 대한 심화된 분석이 필요하다. 특히, 서울시장 선거에 대한 분석이 필요하며, OTT 서비스와 주식 투자에 대한 분석도 필요하다. 이러한 분석을 통해, 사업에 대한 새로운 인사이트를 얻을 수 있을 것이다.",
+  "analyzed_at": "2026-05-30T17:30:33.750Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
