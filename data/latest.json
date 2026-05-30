@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다.",
-      "post_count": 15,
+      "topic": "선거",
+      "summary": "최근 선거 관련 게시물이 많이 올라왔으며, 사전투표와 본투표에 대한 이야기가 많았습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시 관련된 게시글이 많습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "경제 관련 게시물이 많이 올라왔으며, 주식과 투자에 대한 이야기가 많았습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "사회 문제와 사건 관련된 게시글이 많습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술",
+      "summary": "기술 관련 게시물이 많이 올라왔으며, AI와 로봇기술에 대한 이야기가 많았습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "선거",
-      "count": 10,
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "사전투표와 본투표에 대한 이야기가 많았습니다."
+    },
+    {
+      "keyword": "주식",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "정치 뉴스와 선거 관련된 게시글"
+      "context": "주식과 투자에 대한 이야기가 많았습니다."
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시 관련된 게시글"
-    },
-    {
-      "keyword": "사건",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "사회 문제와 사건 관련된 게시글"
+      "context": "AI와 로봇기술에 대한 이야기가 많았습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 감정이 많았습니다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술 뉴스와 제품 출시 관련된 게시글이 많습니다.",
-      "action": "새로운 기술과 제품을 개발하고 출시하는 것을 고려해야 합니다.",
+      "insight": "선거 관련 게시물이 많이 올라왔습니다.",
+      "action": "선거 관련 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스와 선거 관련된 게시글이 많습니다.",
-      "action": "정치와 선거 관련된 마케팅 전략을 개발해야 합니다.",
+      "insight": "경제 관련 게시물이 많이 올라왔습니다.",
+      "action": "경제 관련 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "기술 관련 게시물이 많이 올라왔습니다.",
+      "action": "기술 관련 마케팅 전략을 수립해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다. 최신 기술 뉴스와 제품 출시 관련된 게시글도 많습니다. 이러한 트렌드를 고려하여 새로운 기술과 제품을 개발하고 출시하는 것을 고려해야 합니다. 또한 정치와 선거 관련된 마케팅 전략을 개발해야 합니다. 이러한 전략을 통해 사업을 성장시키고 고객의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-05-30T03:00:33.719Z",
+  "narrative": "최근 선거 관련 게시물이 많이 올라왔으며, 사전투표와 본투표에 대한 이야기가 많았습니다. 또한, 경제 관련 게시물이 많이 올라왔으며, 주식과 투자에 대한 이야기가 많았습니다. 기술 관련 게시물도 많이 올라왔으며, AI와 로봇기술에 대한 이야기가 많았습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-05-30T04:30:33.511Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
