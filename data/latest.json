@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "사전투표",
-      "summary": "사전투표 관련 게시글이 많습니다. 투표소 대기 시간과 투표 완료 후의 감상 등 다양한 주제가 обсужд되고 있습니다.",
+      "topic": "재보선 사전투표율",
+      "summary": "재보선 사전투표율이 24.12%로 역대 지선 최고치를 기록했다. 부산 북구갑과 경기 평택을의 투표율이 특히 높았다.",
       "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "민주당",
-      "summary": "민주당 관련 게시글이 많습니다. 후보자와 당의 활동 및 정책 등 다양한 주제가 обсужд되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련 게시글이 많습니다. AI, 로봇, 전기차 등 다양한 주제가 обсужд되고 있습니다.",
-      "post_count": 15,
+      "topic": "민주당의 13가지 중도 확장 원칙",
+      "summary": "민주당의 13가지 중도 확장 원칙이 논란이 되고 있다. 일부 사용자는 이를 보수적인 정책이라고 비판했다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "사전투표 인증",
+      "summary": "사전투표를 마친 사용자들이 인증샷을 올리고 있다. 일부 사용자는 투표의 중요성을 강조했다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "재보선",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "재보선 관련 뉴스와 논평"
+    },
+    {
       "keyword": "사전투표",
       "count": 12,
-      "sentiment": "neutral",
-      "context": "사전투표 관련 게시글"
+      "sentiment": "positive",
+      "context": "사전투표 인증과 투표의 중요성"
     },
     {
       "keyword": "민주당",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "민주당 관련 게시글"
-    },
-    {
-      "keyword": "AI",
       "count": 8,
-      "sentiment": "positive",
-      "context": "최신 기술 관련 게시글"
+      "sentiment": "negative",
+      "context": "민주당의 정책과 행보에 대한 비판"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적이고 정보적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "사전투표와 민주당 관련 주제가 인기 있습니다.",
-      "action": "관련 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "재보선 사전투표율이 높아짐에 따라 정치적인 이슈가 더욱 뜨거워질 수 있다.",
+      "action": "정치적인 이슈에 대한 모니터링을 강화한다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 관련 주제가 인기 있습니다.",
-      "action": "최신 기술 관련 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "사전투표 인증샷이 인기 EXISTS, 투표의 중요성을 강조하는 캠페인이 효과적일 수 있다.",
+      "action": "투표의 중요성을 강조하는 캠페인을 진행한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 사전투표와 민주당 관련 주제가 인기 있습니다. 또한 최신 기술 관련 주제도 많은 관심을 받고 있습니다. 이러한 트렌드를 이용하여 관련 콘텐츠를 생성하여 관심을 끌 수 있습니다. 중립적인 분위기가 유지되고 있으나, 민주당 관련 주제에서는 혼재된 감정이 나타나고 있습니다. 이러한 트렌드와 감정을 고려하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-05-30T09:00:34.096Z",
+  "narrative": "최근의 트렌드는 재보선 사전투표율과 관련된 이슈가 주를 이루고 있다. 사전투표를 마친 사용자들이 인증샷을 올리고 있으며, 일부 사용자는 투표의 중요성을 강조했다. 그러나 민주당의 정책과 행보에 대한 비판도 존재한다. 이러한 트렌드를 분석하여 정치적인 이슈에 대한 모니터링을 강화하고, 투표의 중요성을 강조하는 캠페인을 진행할 수 있다.",
+  "analyzed_at": "2026-05-30T10:30:34.060Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
