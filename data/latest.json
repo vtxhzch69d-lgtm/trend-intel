@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "투표 및 선거",
-      "summary": "최근의 선거와 투표에 대한 관심이 높아지고 있습니다. 다양한 정치적 이슈와 후보자에 대한 논의가 진행되고 있습니다.",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술과 과학적인 발전에 대한 관심이 높아지고 있습니다. AI, 로봇, 전기차 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시 관련된 게시글이 많습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제와 산업에 대한 관심이 높아지고 있습니다. 다양한 기업과 산업에 대한 뉴스와 분석이 진행되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "사회",
+      "summary": "사회 문제와 사건 관련된 게시글이 많습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "투표",
-      "count": 8,
+      "keyword": "선거",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "最近의 선거와 투표에 대한 관심이 높아지고 있습니다."
+      "context": "정치 뉴스와 선거 관련된 게시글"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술과 과학적인 발전에 대한 관심이 높아지고 있습니다."
+      "context": "최신 기술 뉴스와 제품 출시 관련된 게시글"
     },
     {
-      "keyword": "삼성전자",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "다양한 기업과 산업에 대한 뉴스와 분석이 진행되고 있습니다."
+      "keyword": "사건",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "사회 문제와 사건 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
+    "positive": 25,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최근의 선거와 투표에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 마케팅 캠페인을 진행할 수 있습니다.",
+      "insight": "최신 기술 뉴스와 제품 출시 관련된 게시글이 많습니다.",
+      "action": "새로운 기술과 제품을 개발하고 출시하는 것을 고려해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술과 과학적인 발전에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 제품이나 서비스를 개발할 수 있습니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "다양한 기업과 산업에 대한 뉴스와 분석이 진행되고 있습니다.",
-      "action": "관련된 기업이나 산업에 대한 연구를 진행할 수 있습니다.",
+      "insight": "정치 뉴스와 선거 관련된 게시글이 많습니다.",
+      "action": "정치와 선거 관련된 마케팅 전략을 개발해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 선거와 투표에 대한 관심이 높아지고 있습니다. 다양한 정치적 이슈와 후보자에 대한 논의가 진행되고 있습니다. 또한, 최신 기술과 과학적인 발전에 대한 관심이 높아지고 있습니다. AI, 로봇, 전기차 등 다양한 주제가 논의되고 있습니다. 이러한 트렌드에 따라 관련된 마케팅 캠페인을 진행하거나, 관련된 제품이나 서비스를 개발할 수 있습니다. 또한, 다양한 기업과 산업에 대한 뉴스와 분석이 진행되고 있습니다. 이러한 정보를 통해 관련된 기업이나 산업에 대한 연구를 진행할 수 있습니다.",
-  "analyzed_at": "2026-05-30T01:30:33.980Z",
+  "narrative": "最近의 정치 뉴스와 선거 관련된 게시글이 많습니다. 최신 기술 뉴스와 제품 출시 관련된 게시글도 많습니다. 이러한 트렌드를 고려하여 새로운 기술과 제품을 개발하고 출시하는 것을 고려해야 합니다. 또한 정치와 선거 관련된 마케팅 전략을 개발해야 합니다. 이러한 전략을 통해 사업을 성장시키고 고객의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-05-30T03:00:33.719Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
