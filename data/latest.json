@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "재보선 사전투표율",
-      "summary": "재보선 사전투표율이 24.12%로 역대 지선 최고치를 기록했다. 부산 북구갑과 경기 평택을의 투표율이 특히 높았다.",
+      "topic": "재보선",
+      "summary": "재보선 사전투표율 24.12%…부산 북갑 25.57%·평택을 18.39%",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "민주당의 13가지 중도 확장 원칙",
-      "summary": "민주당의 13가지 중도 확장 원칙이 논란이 되고 있다. 일부 사용자는 이를 보수적인 정책이라고 비판했다.",
+      "topic": "AI 기술",
+      "summary": "미국·영국·호주, 오커스 수중드론 공동 개발한다",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사전투표 인증",
-      "summary": "사전투표를 마친 사용자들이 인증샷을 올리고 있다. 일부 사용자는 투표의 중요성을 강조했다.",
-      "post_count": 8,
+      "topic": "자동차 산업",
+      "summary": "현대차, … 아틀라스의 축구 도전기 담은 캠페인 공개",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -27,41 +27,46 @@
       "keyword": "재보선",
       "count": 15,
       "sentiment": "neutral",
-      "context": "재보선 관련 뉴스와 논평"
+      "context": "사전투표율과 관련된 게시글"
     },
     {
-      "keyword": "사전투표",
-      "count": 12,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "사전투표 인증과 투표의 중요성"
+      "context": "최신 기술 개발과 관련된 게시글"
     },
     {
-      "keyword": "민주당",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "민주당의 정책과 행보에 대한 비판"
+      "keyword": "현대차",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "자동차 산업과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
+    "negative": 5,
     "neutral": 30,
-    "overall_mood": "중립적이고 정보적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "재보선 사전투표율이 높아짐에 따라 정치적인 이슈가 더욱 뜨거워질 수 있다.",
-      "action": "정치적인 이슈에 대한 모니터링을 강화한다.",
+      "insight": "재보선 사전투표율이 높은 지역에서 정치 관련 게시글이 많다",
+      "action": "지역별 정치 관련 게시글을 분석하여 선거 전략을 수립한다",
       "priority": "high"
     },
     {
-      "insight": "사전투표 인증샷이 인기 EXISTS, 투표의 중요성을 강조하는 캠페인이 효과적일 수 있다.",
-      "action": "투표의 중요성을 강조하는 캠페인을 진행한다.",
+      "insight": "AI 기술 관련 게시글이 증가하고 있다",
+      "action": "AI 기술 관련 게시글을 분석하여 최신 기술 개발을 위한 전략을 수립한다",
       "priority": "medium"
+    },
+    {
+      "insight": "자동차 산업 관련 게시글이 증가하고 있다",
+      "action": "자동차 산업 관련 게시글을 분석하여 시장 동향을 파악한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 재보선 사전투표율과 관련된 이슈가 주를 이루고 있다. 사전투표를 마친 사용자들이 인증샷을 올리고 있으며, 일부 사용자는 투표의 중요성을 강조했다. 그러나 민주당의 정책과 행보에 대한 비판도 존재한다. 이러한 트렌드를 분석하여 정치적인 이슈에 대한 모니터링을 강화하고, 투표의 중요성을 강조하는 캠페인을 진행할 수 있다.",
-  "analyzed_at": "2026-05-30T10:30:34.060Z",
+  "narrative": "최근의 트렌드는 재보선과 관련된 게시글이 많으며, 사전투표율이 높은 지역에서 정치 관련 게시글이 많다. 또한, AI 기술 관련 게시글이 증가하고 있으며, 자동차 산업 관련 게시글도 증가하고 있다. 이러한 트렌드를 분석하여 정치, 기술, 산업 분야의 전략을 수립할 수 있다. 재보선 사전투표율이 높은 지역에서 정치 관련 게시글을 분석하여 선거 전략을 수립하고, AI 기술 관련 게시글을 분석하여 최신 기술 개발을 위한 전략을 수립할 수 있다. 또한, 자동차 산업 관련 게시글을 분석하여 시장 동향을 파악하고, 산업 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-05-30T12:00:34.608Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
