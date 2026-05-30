@@ -1,75 +1,62 @@
 {
   "trending_topics": [
     {
-      "topic": "재보선",
-      "summary": "재보선 사전투표율 24.12%…부산 북갑 25.57%·평택을 18.39%",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "미국·영국·호주, 오커스 수중드론 공동 개발한다",
-      "post_count": 5,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다.",
+      "post_count": 100,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "자동차 산업",
-      "summary": "현대차, … 아틀라스의 축구 도전기 담은 캠페인 공개",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술 및 가전제품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 새로운 기술 및 제품에 대한 정보를 얻을 수 있습니다.",
+      "post_count": 50,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "재보선",
-      "count": 15,
+      "keyword": "무료",
+      "count": 50,
+      "sentiment": "positive",
+      "context": "무료 상품에 대한 정보"
+    },
+    {
+      "keyword": "할인",
+      "count": 30,
+      "sentiment": "positive",
+      "context": "할인된 상품에 대한 정보"
+    },
+    {
+      "keyword": "기술",
+      "count": 20,
       "sentiment": "neutral",
-      "context": "사전투표율과 관련된 게시글"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 개발과 관련된 게시글"
-    },
-    {
-      "keyword": "현대차",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "자동차 산업과 관련된 게시글"
+      "context": "새로운 기술에 대한 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
+    "positive": 60,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "사용자들은 주로 긍정적인 감정을 가지고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "재보선 사전투표율이 높은 지역에서 정치 관련 게시글이 많다",
-      "action": "지역별 정치 관련 게시글을 분석하여 선거 전략을 수립한다",
+      "insight": "무료 및 할인된 상품에 대한 정보는 사용자들에게 큰 관심을 끌고 있습니다.",
+      "action": "무료 및 할인된 상품을 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 관련 게시글이 증가하고 있다",
-      "action": "AI 기술 관련 게시글을 분석하여 최신 기술 개발을 위한 전략을 수립한다",
+      "insight": "새로운 기술 및 제품에 대한 정보는 사용자들에게 큰 관심을 끌고 있습니다.",
+      "action": "새로운 기술 및 제품에 대한 정보를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "자동차 산업 관련 게시글이 증가하고 있다",
-      "action": "자동차 산업 관련 게시글을 분석하여 시장 동향을 파악한다",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 재보선과 관련된 게시글이 많으며, 사전투표율이 높은 지역에서 정치 관련 게시글이 많다. 또한, AI 기술 관련 게시글이 증가하고 있으며, 자동차 산업 관련 게시글도 증가하고 있다. 이러한 트렌드를 분석하여 정치, 기술, 산업 분야의 전략을 수립할 수 있다. 재보선 사전투표율이 높은 지역에서 정치 관련 게시글을 분석하여 선거 전략을 수립하고, AI 기술 관련 게시글을 분석하여 최신 기술 개발을 위한 전략을 수립할 수 있다. 또한, 자동차 산업 관련 게시글을 분석하여 시장 동향을 파악하고, 산업 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-05-30T12:00:34.608Z",
-  "post_count": 61,
+  "narrative": "뽐뿌 및 클리앙 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다. 또한 새로운 기술 및 제품에 대한 정보도 큰 관심을 끌고 있습니다. 이러한 정보를 제공하여 사용자들의 관심을 끌 수 있습니다. 사용자들은 주로 긍정적인 감정을 가지고 있으며, 무료 및 할인된 상품에 대한 정보는 큰 관심을 끌고 있습니다. 따라서 이러한 정보를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-05-30T13:30:34.056Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
