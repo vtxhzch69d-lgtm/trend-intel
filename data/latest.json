@@ -1,70 +1,50 @@
 {
   "trending_topics": [
     {
-      "topic": "선거와 정치",
-      "summary": "클리앙 커뮤니티에서 선거와 정치 관련 게시글이 많이 올라왔습니다. 사전투표와 본투표 관련 글, 정치인과 정당에 대한 의견이 많았습니다.",
-      "post_count": 15,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 [freeboard]와 [issue] 카테고리에 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술과 산업",
-      "summary": "클리앙 뉴스 섹션에서 기술과 산업 관련 기사가 많이 올라왔습니다. AI, 로봇기술, 전기차 충전 등 다양한 주제가 다루어졌습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제와 금융",
-      "summary": "클리앙 뉴스 섹션에서 경제와 금융 관련 기사가 올라왔습니다. 수소경제, 핵추진 잠수함 프로그램 등 다양한 주제가 다루어졌습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "선거",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "사전투표와 본투표 관련 글"
-    },
-    {
-      "keyword": "AI",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "로봇기술과 전기차 충전 등 다양한 주제"
-    },
-    {
-      "keyword": "수소경제",
-      "count": 2,
+      "keyword": "뽐뿌",
+      "count": 50,
       "sentiment": "neutral",
-      "context": "수소경제와 핵추진 잠수함 프로그램"
+      "context": "커뮤니티 이름"
+    },
+    {
+      "keyword": "[freeboard]",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "카테고리 이름"
+    },
+    {
+      "keyword": "[issue]",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "카테고리 이름"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술과 산업 관련 기사가 많이 올라왔습니다.",
-      "action": "기술과 산업 관련 콘텐츠를 제작하여 클리앙 커뮤니티에 공유합니다.",
+      "insight": "뽐뿌 커뮤니티에서 인기 있는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
-    },
-    {
-      "insight": "경제와 금융 관련 기사가 올라왔습니다.",
-      "action": "경제와 금융 관련 콘텐츠를 제작하여 클리앙 커뮤니티에 공유합니다.",
-      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 선거와 정치, 기술과 산업, 경제와 금융 관련 주제가 많이 다루어졌습니다. 기술과 산업 관련 기사가 많이 올라왔으며, 경제와 금융 관련 기사도 올라왔습니다. 클리앙 커뮤니티의 사용자들은 다양한 주제에 관심을 가지고 있으며, 기술과 산업 관련 콘텐츠를 제작하여 공유하는 것이 좋을 것입니다. 또한, 경제와 금융 관련 콘텐츠를 제작하여 공유하는 것도 좋을 것입니다.",
-  "analyzed_at": "2026-05-30T06:01:24.323Z",
-  "post_count": 61,
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제의 게시글이 존재하며, [freeboard]와 [issue] 카테고리가 인기 있습니다. 마케터는 이러한 분석 결과를 바탕으로 타겟 고객을 이해하고, 효과적인 마케팅 전략을 수립할 수 있습니다. 또한, 키워드 분석을 통해 브랜드 이름이나 제품 이름을 포함한 게시글을 모니터링하여 고객의 반응을 파악할 수 있습니다. 이러한 분석 결과를 통해 마케터는 고객의 니즈를 충족시키는 제품이나 서비스를 개발하여 시장에서 경쟁력을 확보할 수 있습니다.",
+  "analyzed_at": "2026-05-30T07:30:33.725Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
