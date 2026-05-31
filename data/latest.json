@@ -1,23 +1,30 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 선거",
-      "summary": "최근 선거와 정치 관련된 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 응용",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "AI와 기술 관련된 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 15,
+      "topic": "선거와 정치",
+      "summary": "最近의 선거와 정치 관련 뉴스",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제와 산업 관련된 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 8,
+      "topic": "경제와 산업",
+      "summary": "경제와 산업 관련 뉴스",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -27,41 +34,52 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "선거",
-      "count": 15,
+      "count": 8,
       "sentiment": "mixed",
-      "context": "최근 선거와 정치 관련된 주제"
+      "context": "最近의 선거와 정치 관련 뉴스"
+    },
+    {
+      "keyword": "기술",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 트렌드"
     },
     {
       "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "경제와 산업 관련된 주제"
+      "context": "경제와 산업 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 활용될 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제와 산업의 동향",
-      "action": "경제와 산업의 동향을 분석하고 비즈니스 전략에 반영",
+      "insight": "最近의 선거와 정치 관련 뉴스는 소셜 미디어에서 큰 반향을 일으켰다",
+      "action": "소셜 미디어를 통해 선거와 정치 관련 뉴스를 전달",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 뉴스는 다양한 산업에서 중요한 역할을 한다",
+      "action": "최신 기술 뉴스를 따라가고 그 응용을 연구",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 및 선거 관련된 주제가 많은 관심을 받고 있습니다. 또한, AI와 기술 관련된 주제도 많은 관심을 받고 있습니다. 경제와 산업 관련된 주제는 중립적인 반응을 보이고 있습니다. 비즈니스 관점에서 볼 때, AI 기술의 발전과 적용을 활용한 비즈니스 모델 개발이 중요합니다. 또한, 경제와 산업의 동향을 분석하고 비즈니스 전략에 반영하는 것도 중요합니다.",
-  "analyzed_at": "2026-05-31T13:00:33.444Z",
+  "narrative": "最近의 트렌드는 AI 기술의 발전과 그 응용, 최근의 선거와 정치 관련 뉴스, 최신 기술 뉴스와 트렌드, 경제와 산업 관련 뉴스 등이다. 이러한 트렌드는 다양한 산업에서 활용될 수 있으며, 소셜 미디어를 통해 선거와 정치 관련 뉴스를 전달하고 최신 기술 뉴스를 따라가고 그 응용을 연구하는 것이 중요하다. 또한, AI 기술의 발전은 다양한 산업에서 새로운 비즈니스 모델을 개발할 수 있는 기회를 제공한다.",
+  "analyzed_at": "2026-05-31T14:30:34.106Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
