@@ -2,30 +2,30 @@
   "trending_topics": [
     {
       "topic": "김용남",
-      "summary": "김용남 후보에 대한 논란과 관련된 게시글이 많습니다.",
+      "summary": "김용남 후보에 대한 논란과 관련된 게시글",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "일베",
-      "summary": "일베 용어와 관련된 게시글이 많습니다.",
+      "summary": "일베 용어와 관련된 게시글",
       "post_count": 4,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "AI",
-      "summary": "AI 기술과 관련된 뉴스와 게시글이 많습니다.",
+      "summary": "AI 기술과 관련된 뉴스 및 게시글",
       "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "김용남",
-      "count": 10,
+      "count": 7,
       "sentiment": "negative",
       "context": "김용남 후보에 대한 논란"
     },
@@ -39,34 +39,34 @@
       "keyword": "AI",
       "count": 15,
       "sentiment": "neutral",
-      "context": "AI 기술과 관련된 뉴스와 게시글"
+      "context": "AI 기술과 관련된 뉴스 및 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
     "negative": 20,
     "neutral": 30,
-    "overall_mood": "부정적인 감정의 게시글이 많습니다."
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "김용남 후보에 대한 논란이 확대되고 있습니다.",
-      "action": "관련된 게시글을 주시하고 대응할 필요가 있습니다.",
+      "insight": "김용남 후보에 대한 논란은 정치적으로 민감한 주제",
+      "action": "정치적인 주제에 대한 게시글을 주의 깊게 모니터링",
       "priority": "high"
     },
     {
-      "insight": "일베 용어와 관련된 게시글이 많습니다.",
-      "action": "관련된 게시글을 주시하고 대응할 필요가 있습니다.",
+      "insight": "일베 용어와 관련된 게시글은 부정적인 반응을 일으킬 수 있음",
+      "action": "일베 용어와 관련된 게시글을 주의 깊게 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술과 관련된 뉴스와 게시글이 많습니다.",
-      "action": "관련된 뉴스와 게시글을 주시하고 기회를 찾을 필요가 있습니다.",
+      "insight": "AI 기술과 관련된 뉴스 및 게시글은 중립적인 반응을 일으킴",
+      "action": "AI 기술과 관련된 뉴스 및 게시글을 계속 모니터링",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 김용남 후보에 대한 논란과 일베 용어와 관련된 게시글이 많습니다. 또한, AI 기술과 관련된 뉴스와 게시글이 많습니다. 이러한 트렌드를 주시하고 대응할 필요가 있습니다. 특히, 김용남 후보에 대한 논란은 확대되고 있으므로 관련된 게시글을 주시하고 대응할 필요가 있습니다. 또한, 일베 용어와 관련된 게시글은 주시하고 대응할 필요가 있습니다. 반면, AI 기술과 관련된 뉴스와 게시글은 기회를 찾을 필요가 있습니다.",
-  "analyzed_at": "2026-05-31T19:00:33.797Z",
+  "narrative": "최근 클리앙 커뮤니티에서 김용남 후보에 대한 논란과 일베 용어와 관련된 게시글이 많이 올라왔습니다. 이러한 게시글은 부정적인 반응을 일으키고 있으며, 정치적으로 민감한 주제입니다. 또한, AI 기술과 관련된 뉴스 및 게시글이 중립적인 반응을 일으키고 있습니다. 이러한 트렌드를 고려하여, 정치적인 주제에 대한 게시글을 주의 깊게 모니터링하고, 일베 용어와 관련된 게시글을 주의 깊게 모니터링하는 것이 중요합니다. 또한, AI 기술과 관련된 뉴스 및 게시글을 계속 모니터링하여 새로운 트렌드를 파악하는 것이 필요합니다.",
+  "analyzed_at": "2026-05-31T20:30:34.388Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
