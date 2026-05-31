@@ -1,72 +1,108 @@
 {
   "trending_topics": [
     {
-      "topic": "김용남",
-      "summary": "김용남 후보에 대한 논란과 관련된 게시글",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "일베",
-      "summary": "일베 용어와 관련된 게시글",
-      "post_count": 4,
+      "topic": "스벅 환불",
+      "summary": "스타벅스 고객들의 환불 신청에 대한 논의",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 뉴스 및 게시글",
+      "topic": "김용남",
+      "summary": "김용남에 대한 논의와 그의 어머니 간병비에 대한 의견",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 관련된 뉴스 및 논의",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "일베 용어",
+      "summary": "일베 용어가 젊은이들 사이에서 유행한 것에 대한 논의",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "low"
+    },
+    {
+      "topic": "삼성전자",
+      "summary": "삼성전자의 최신 기술과 사업 동향에 대한 논의",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "김용남",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "김용남 후보에 대한 논란"
-    },
-    {
-      "keyword": "일베",
+      "keyword": "스벅",
       "count": 5,
       "sentiment": "negative",
-      "context": "일베 용어와 관련된 게시글"
+      "context": "스타벅스 환불 관련"
+    },
+    {
+      "keyword": "김용남",
+      "count": 6,
+      "sentiment": "mixed",
+      "context": "김용남에 대한 논의"
     },
     {
       "keyword": "AI",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술과 관련된 뉴스 및 게시글"
+      "sentiment": "positive",
+      "context": "최신 AI 기술과 관련된 뉴스"
+    },
+    {
+      "keyword": "일베",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "일베 용어가 젊은이들 사이에서 유행한 것에 대한 논의"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "삼성전자의 최신 기술과 사업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "김용남 후보에 대한 논란은 정치적으로 민감한 주제",
-      "action": "정치적인 주제에 대한 게시글을 주의 깊게 모니터링",
+      "insight": "스타벅스 환불 관련 논의가 많아 고객 만족도 향상을 위한 대책이 필요함",
+      "action": "고객 서비스 개선",
       "priority": "high"
     },
     {
-      "insight": "일베 용어와 관련된 게시글은 부정적인 반응을 일으킬 수 있음",
-      "action": "일베 용어와 관련된 게시글을 주의 깊게 모니터링",
+      "insight": "김용남에 대한 논의가 많아 그의 어머니 간병비에 대한 명확한 정보가 필요함",
+      "action": "명확한 정보 제공",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술과 관련된 뉴스 및 게시글은 중립적인 반응을 일으킴",
-      "action": "AI 기술과 관련된 뉴스 및 게시글을 계속 모니터링",
+      "insight": "최신 AI 기술과 관련된 뉴스가 많아 관련 기술 개발에 투자할 필요가 있음",
+      "action": "AI 기술 개발 투자",
+      "priority": "high"
+    },
+    {
+      "insight": "일베 용어가 젊은이들 사이에서 유행한 것에 대한 논의가 많아 관련 용어에 대한 교육이 필요함",
+      "action": "관련 용어 교육",
       "priority": "low"
+    },
+    {
+      "insight": "삼성전자의 최신 기술과 사업 동향에 대한 논의가 많아 관련 기술 개발에 투자할 필요가 있음",
+      "action": "삼성전자 기술 개발 투자",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 김용남 후보에 대한 논란과 일베 용어와 관련된 게시글이 많이 올라왔습니다. 이러한 게시글은 부정적인 반응을 일으키고 있으며, 정치적으로 민감한 주제입니다. 또한, AI 기술과 관련된 뉴스 및 게시글이 중립적인 반응을 일으키고 있습니다. 이러한 트렌드를 고려하여, 정치적인 주제에 대한 게시글을 주의 깊게 모니터링하고, 일베 용어와 관련된 게시글을 주의 깊게 모니터링하는 것이 중요합니다. 또한, AI 기술과 관련된 뉴스 및 게시글을 계속 모니터링하여 새로운 트렌드를 파악하는 것이 필요합니다.",
-  "analyzed_at": "2026-05-31T20:30:34.388Z",
+  "narrative": "최근 클리앙 커뮤니티에서 스타벅스 환불, 김용남, AI 기술, 일베 용어, 삼성전자 등 다양한 주제에 대한 논의가 많았습니다. 이러한 논의는 고객 만족도 향상, 명확한 정보 제공, 기술 개발 투자 등 다양한 비즈니스 인사이트를 제공합니다. 특히, 최신 AI 기술과 관련된 뉴스가 많아 관련 기술 개발에 투자할 필요가 있으며, 스타벅스 환불 관련 논의가 많아 고객 서비스 개선을 위한 대책이 필요합니다. 또한, 일베 용어가 젊은이들 사이에서 유행한 것에 대한 논의가 많아 관련 용어에 대한 교육이 필요합니다. 이러한 인사이트를 통해 비즈니스 전략을 수립하고, 고객 만족도 향상을 위한 대책을 마련할 수 있습니다.",
+  "analyzed_at": "2026-05-31T22:00:34.133Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
