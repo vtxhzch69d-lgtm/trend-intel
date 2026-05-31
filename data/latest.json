@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "조국과 김용남에 대한 논쟁",
-      "post_count": 10,
+      "summary": "조국, 김용남, 이재명 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "수소경제와 전기차 충전 편의 개선",
-      "post_count": 5,
+      "topic": "기술",
+      "summary": "AI, 로봇, 전기차 등 기술 관련 주제가 관심을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "월드컵 대표팀과 축구 평기전",
-      "post_count": 3,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "경제 관련 주제가 관심을 받고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "조국",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 주제"
+    },
+    {
+      "keyword": "AI",
       "count": 5,
-      "sentiment": "negative",
-      "context": "정치 논쟁"
-    },
-    {
-      "keyword": "김용남",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "정치 논쟁"
-    },
-    {
-      "keyword": "수소경제",
-      "count": 2,
       "sentiment": "positive",
-      "context": "경제 뉴스"
+      "context": "기술 관련 주제"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 논쟁이 커뮤니티에서 많이 обсужд되고 있다",
-      "action": "정치 관련 콘텐츠 생성",
+      "insight": "정치 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "정치 관련 주제에 대한 분석을 강화합니다.",
       "priority": "high"
     },
     {
-      "insight": "수소경제와 전기차 충전 편의 개선이 경제 뉴스에서 중요한 주제이다",
-      "action": "관련 산업에 대한 연구 및 투자",
+      "insight": "기술 관련 주제가 관심을 받고 있습니다.",
+      "action": "기술 관련 주제에 대한 분석을 강화합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "커뮤니티에서는 정치 논쟁이 많이 обсужд되고 있으며, 수소경제와 전기차 충전 편의 개선이 경제 뉴스에서 중요한 주제이다. 이러한 트렌드를 분석하여 관련 콘텐츠 생성 및 산업에 대한 연구 및 투자를 통해 비즈니스 기회를 찾을 수 있을 것이다. 또한, 커뮤니티의 부정적인 감정의 우세를 고려하여 콘텐츠 생성 및 마케팅 전략을 조정할 필요가 있다.",
-  "analyzed_at": "2026-05-31T04:00:33.630Z",
+  "narrative": "최근 정치 관련 주제가 많은 관심을 받고 있습니다. 조국, 김용남, 이재명 등 정치 관련 주제가熱한 관심을 받고 있습니다. 또한 기술 관련 주제도 관심을 받고 있습니다. AI, 로봇, 전기차 등 기술 관련 주제가 관심을 받고 있습니다. 경제 관련 주제도 관심을 받고 있습니다. 이러한 주제에 대한 분석을 강화하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-31T05:30:33.210Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
