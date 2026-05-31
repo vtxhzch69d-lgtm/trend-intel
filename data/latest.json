@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아졌습니다.",
-      "post_count": 15,
+      "topic": "한국 정치",
+      "summary": "한국 정치와 관련된 다양한 주제가 논의되고 있습니다. 조국, 문재인, 이재명 등 정치인에 대한 의견과 선거에 대한 예측 등이 포함됩니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련 뉴스가 많이 게시되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많이 게시되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술과 과학에 대한 주제가 논의되고 있습니다. AI, 로봇, 전기차 등이 포함됩니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "축구와 같은 스포츠에 대한 주제가 논의되고 있습니다. 월드컵과 같은 국제 대회에 대한 예측과 분석 등이 포함됩니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술"
+      "context": "최신 기술과 과학에 대한 주제"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "최근 정치 관련"
+      "keyword": "조국",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "한국 정치와 관련된 주제"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
+      "keyword": "전기차",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "최신 기술과 과학에 대한 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 15,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 관련 콘텐츠 개발",
+      "insight": "최신 기술과 과학에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술과 과학에 대한 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 게시글이 많아졌습니다.",
-      "action": "정치 관련 콘텐츠 개발",
+      "insight": "한국 정치와 관련된 주제에 대한 관심이 높아지고 있습니다.",
+      "action": "한국 정치와 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스와 분석이 많이 게시되고 있습니다.",
-      "action": "경제 관련 콘텐츠 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 정치 관련 게시글이 많아졌습니다. 최신 기술에 대한 관심도 높아지고 있습니다. 경제 관련 뉴스와 분석도 많이 게시되고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 개발하면 효과적인 마케팅이 가능할 것입니다. 최신 기술 관련 콘텐츠 개발은 높은 우선순위를 가지고 있습니다. 정치 관련 콘텐츠 개발은 중간 우선순위를 가지고 있습니다. 경제 관련 콘텐츠 개발은 낮은 우선순위를 가지고 있습니다.",
-  "analyzed_at": "2026-05-30T23:30:33.258Z",
+  "narrative": "최신 기술과 과학에 대한 관심이 높아지고 있습니다. AI, 로봇, 전기차 등이 포함되는 최신 기술과 과학에 대한 주제는 많은 사람들이 관심을 가지고 있습니다. 또한 한국 정치와 관련된 주제도 많은 사람들이 관심을 가지고 있습니다. 조국, 문재인, 이재명 등 정치인에 대한 의견과 선거에 대한 예측 등이 포함됩니다. 이러한 관심을 이용하여 최신 기술과 과학에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한 한국 정치와 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-05-31T01:00:34.479Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
