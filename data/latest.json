@@ -1,67 +1,108 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 선거유세와 관련된 논란이 커지고 있습니다.",
-      "post_count": 15,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "삼성전자와 현대차의 경영 현황과 기술 개발이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "케데헌",
+      "summary": "케데헌의 인기와 감독의 오스카 국악 무대",
+      "post_count": 3,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "인터넷 극우화와 관련된 문제가 사회적으로 논란이 되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "그랜저",
+      "summary": "그랜저의 디자인과 페이스리프트",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI의 발전과 적용",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "high"
+    },
+    {
+      "topic": "선거",
+      "summary": "선거의 영향과 후보자",
+      "post_count": 2,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제의 상황과 기업의 동향",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "이재명 대통령의 선거유세와 관련된 논란"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 8,
+      "keyword": "케데헌",
+      "count": 3,
       "sentiment": "positive",
-      "context": "삼성전자의 기술 개발과 경영 현황"
+      "context": "영화"
     },
     {
-      "keyword": "인터넷 극우화",
-      "count": 6,
+      "keyword": "그랜저",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "자동차"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "기술"
+    },
+    {
+      "keyword": "선거",
+      "count": 2,
+      "sentiment": "mixed",
+      "context": "정치"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
       "sentiment": "negative",
-      "context": "인터넷 극우화와 관련된 문제"
+      "context": "금융"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "부정적인 감정의 비중이 높습니다."
+    "positive": 5,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제의 상관관계를 분석하여 사업 전략을 수립할 필요가 있습니다.",
-      "action": "정치와 경제의 동향을 지속적으로 모니터링하고, 사업 전략을 조정할 필요가 있습니다.",
+      "insight": "케데헌의 인기",
+      "action": "영화 산업에 투자",
+      "priority": "medium"
+    },
+    {
+      "insight": "그랜저의 디자인",
+      "action": "자동차 산업에 투자",
+      "priority": "low"
+    },
+    {
+      "insight": "AI의 발전",
+      "action": "AI 기술에 투자",
       "priority": "high"
     },
     {
-      "insight": "인터넷 극우화와 관련된 문제를 해결하기 위해 사회적 대책을 마련할 필요가 있습니다.",
-      "action": "인터넷 극우화와 관련된 문제를 해결하기 위해 사회적 대책을 마련하고, 사업 전략을 조정할 필요가 있습니다.",
+      "insight": "선거의 영향",
+      "action": "정치적인 마케팅 전략",
+      "priority": "high"
+    },
+    {
+      "insight": "경제의 상황",
+      "action": "경제적인 마케팅 전략",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치와 경제의 동향이 사회적으로 큰 영향을 미치고 있습니다. 이재명 대통령의 선거유세와 관련된 논란이 커지고 있으며, 삼성전자와 현대차의 경영 현황과 기술 개발이 주목을 받고 있습니다. 또한, 인터넷 극우화와 관련된 문제가 사회적으로 논란이 되고 있습니다. 이러한 동향을 분석하여 사업 전략을 수립하고, 사회적 대책을 마련할 필요가 있습니다. 또한, 정치와 경제의 상관관계를 분석하여 사업 전략을 조정할 필요가 있습니다.",
-  "analyzed_at": "2026-05-31T10:00:33.804Z",
+  "narrative": "최근의 트렌드는 케데헌, 그랜저, AI, 선거, 경제 등 다양한 주제를 다루고 있습니다. 케데헌의 인기와 그랜저의 디자인은 각각 영화 산업과 자동차 산업에 투자할 수 있는 기회를 제공합니다. AI의 발전은 기술 산업에 투자할 수 있는 기회를 제공합니다. 선거의 영향과 경제의 상황은 각각 정치적인 마케팅 전략과 경제적인 마케팅 전략을 수립할 수 있는 기회를 제공합니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-05-31T11:30:33.689Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
