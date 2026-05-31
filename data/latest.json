@@ -1,98 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "선거와 정치",
-      "summary": "最近의 선거와 정치 관련 뉴스",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "사회 문제",
-      "summary": "현재의 사회 문제와 논란",
+      "topic": "김용남",
+      "summary": "김용남 후보에 대한 논란과 의혹",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 뉴스",
-      "summary": "최신 경제 뉴스와 트렌드",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "일베",
+      "summary": "일베 용어와 관련된 논란",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 뉴스와 개발",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "keyword": "김용남",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "김용남 후보에 대한 논란"
     },
     {
-      "keyword": "선거",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "最近의 선거와 정치 관련 뉴스"
-    },
-    {
-      "keyword": "기술",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드"
-    },
-    {
-      "keyword": "사회 문제",
+      "keyword": "일베",
       "count": 5,
       "sentiment": "negative",
-      "context": "현재의 사회 문제와 논란"
+      "context": "일베 용어와 관련된 논란"
     },
     {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "최신 경제 뉴스와 트렌드"
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 뉴스와 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기지만 일부 부정적인 감정도 존재"
+    "neutral": 10,
+    "overall_mood": "중립적이지만 일부 논란이 존재"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 적용 가능",
-      "action": "AI 기술의 적용을 위한 투자와 연구",
+      "insight": "AI 기술은 빠르게 발전하고 있으며, 다양한 산업에서 적용되고 있다.",
+      "action": "AI 기술을 활용하여 비즈니스 모델을 개선하고 새로운 기회를 찾는다.",
       "priority": "high"
     },
     {
-      "insight": "最近의 선거와 정치 관련 뉴스는 사회 문제와 경제 뉴스에 영향을 미침",
-      "action": "사회 문제와 경제 뉴스를 주시",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 뉴스와 트렌드는 기업의 경쟁력에 영향을 미침",
-      "action": "최신 기술 뉴스와 트렌드를 주시",
+      "insight": "일베 용어와 관련된 논란은 여전히 존재하며, 기업들은 이러한 문제에 대한 대응을 준비해야 한다.",
+      "action": "일베 용어와 관련된 문제에 대한 대응을 준비하고, 고객과의 소통을 강화한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 온라인 커뮤니티 트렌드 분석 결과, AI 기술의 발전과 적용, 최근의 선거와 정치 관련 뉴스, 최신 기술 뉴스와 트렌드, 사회 문제와 경제 뉴스가 주요 주제로 나타남. 이러한 트렌드는 기업의 경쟁력과 사회 문제에 영향을 미칠 수 있으므로, 이러한 트렌드를 주시하고 대응하는 것이 중요함. 또한, AI 기술의 발전은 다양한 산업에서 적용 가능하므로, AI 기술의 적용을 위한 투자와 연구가 필요함.",
-  "analyzed_at": "2026-05-31T16:00:35.486Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 김용남 후보에 대한 논란과 일베 용어와 관련된 문제가 일부 존재하는 것으로 나타났다. 그러나 AI 기술과 관련된 뉴스와 개발은 빠르게 발전하고 있으며, 다양한 산업에서 적용되고 있다. 이러한 트렌드와 키워드를 고려하여, 기업들은 AI 기술을 활용하여 비즈니스 모델을 개선하고 새로운 기회를 찾는 동시에, 일베 용어와 관련된 문제에 대한 대응을 준비해야 한다. 또한, 고객과의 소통을 강화하고, 기업의 이미지를 개선하는 것이 중요하다.",
+  "analyzed_at": "2026-05-31T17:30:33.671Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
