@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구 대표팀의 최근 경기 결과와 향후 경기 일정에 대한 관심이 높다.",
+      "topic": "정치",
+      "summary": "조국과 김용남에 대한 논쟁",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스와 논평이 활발하게讨論되고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "수소경제와 전기차 충전 편의 개선",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 대한 관심이 높다.",
-      "post_count": 12,
+      "topic": "스포츠",
+      "summary": "월드컵 대표팀과 축구 평기전",
+      "post_count": 3,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국 축구",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "한국 축구 대표팀의 경기 결과와 향후 경기 일정"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "조국",
+      "count": 5,
       "sentiment": "negative",
-      "context": "경제 상황과 정책에 대한 논평"
+      "context": "정치 논쟁"
     },
     {
-      "keyword": "기술",
-      "count": 10,
+      "keyword": "김용남",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "정치 논쟁"
+    },
+    {
+      "keyword": "수소경제",
+      "count": 2,
       "sentiment": "positive",
-      "context": "최신 기술 및 산업 동향"
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 15,
     "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "한국 축구 대표팀의 경기 결과와 향후 경기 일정에 대한 관심이 높다.",
-      "action": "한국 축구 관련 콘텐츠를 개발하여 마케팅에 활용한다.",
+      "insight": "정치 논쟁이 커뮤니티에서 많이 обсужд되고 있다",
+      "action": "정치 관련 콘텐츠 생성",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스와 논평이 활발하게讨論되고 있다.",
-      "action": "경제 및 정치 관련 콘텐츠를 개발하여 마케팅에 활용한다.",
+      "insight": "수소경제와 전기차 충전 편의 개선이 경제 뉴스에서 중요한 주제이다",
+      "action": "관련 산업에 대한 연구 및 투자",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 및 산업 동향에 대한 관심이 높다.",
-      "action": "최신 기술 및 산업 동향에 대한 콘텐츠를 개발하여 마케팅에 활용한다.",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 한국 온라인 커뮤니티 트렌드 분석 결과, 한국 축구 대표팀의 경기 결과와 향후 경기 일정에 대한 관심이 높다. 또한, 경제 및 정치 관련 뉴스와 논평이 활발하게讨論되고 있다. 최신 기술 및 산업 동향에 대한 관심도 높다. 이러한 트렌드를 반영하여 마케팅 전략을 개발하여 고객과의 소통을 강화할 수 있다. 또한, 최신 기술 및 산업 동향에 대한 콘텐츠를 개발하여 마케팅에 활용할 수 있다.",
-  "analyzed_at": "2026-05-31T02:30:34.352Z",
+  "narrative": "커뮤니티에서는 정치 논쟁이 많이 обсужд되고 있으며, 수소경제와 전기차 충전 편의 개선이 경제 뉴스에서 중요한 주제이다. 이러한 트렌드를 분석하여 관련 콘텐츠 생성 및 산업에 대한 연구 및 투자를 통해 비즈니스 기회를 찾을 수 있을 것이다. 또한, 커뮤니티의 부정적인 감정의 우세를 고려하여 콘텐츠 생성 및 마케팅 전략을 조정할 필요가 있다.",
+  "analyzed_at": "2026-05-31T04:00:33.630Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
