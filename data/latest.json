@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "topic": "정치",
+      "summary": "이재명 대통령의 선거유세와 관련된 논란이 커지고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
+      "topic": "경제",
+      "summary": "삼성전자와 현대차의 경영 현황과 기술 개발이 주목을 받고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석",
+      "topic": "사회",
+      "summary": "인터넷 극우화와 관련된 문제가 사회적으로 논란이 되고 있습니다.",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
+      "keyword": "이재명",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "이재명 대통령의 선거유세와 관련된 논란"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "삼성전자의 기술 개발과 경영 현황"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 분석"
+      "keyword": "인터넷 극우화",
+      "count": 6,
+      "sentiment": "negative",
+      "context": "인터넷 극우화와 관련된 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
+    "positive": 20,
+    "negative": 30,
     "neutral": 50,
-    "overall_mood": "중립적"
+    "overall_mood": "부정적인 감정의 비중이 높습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "정치와 경제의 상관관계를 분석하여 사업 전략을 수립할 필요가 있습니다.",
+      "action": "정치와 경제의 동향을 지속적으로 모니터링하고, 사업 전략을 조정할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제는 밀접한 관련이 있다",
-      "action": "정치와 경제의 동향을 주시하고 대응策을 마련한다",
+      "insight": "인터넷 극우화와 관련된 문제를 해결하기 위해 사회적 대책을 마련할 필요가 있습니다.",
+      "action": "인터넷 극우화와 관련된 문제를 해결하기 위해 사회적 대책을 마련하고, 사업 전략을 조정할 필요가 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 또한, 정치와 경제는 밀접한 관련이 있어 이를 주시하고 대응策을 마련하는 것이 중요하다. 이러한 트렌드와 인사이트를 바탕으로 새로운 비즈니스 모델을 개발하고, 정치와 경제의 동향을 주시하여 성공을 도모할 수 있을 것이다.",
-  "analyzed_at": "2026-05-31T08:30:33.577Z",
+  "narrative": "최근 정치와 경제의 동향이 사회적으로 큰 영향을 미치고 있습니다. 이재명 대통령의 선거유세와 관련된 논란이 커지고 있으며, 삼성전자와 현대차의 경영 현황과 기술 개발이 주목을 받고 있습니다. 또한, 인터넷 극우화와 관련된 문제가 사회적으로 논란이 되고 있습니다. 이러한 동향을 분석하여 사업 전략을 수립하고, 사회적 대책을 마련할 필요가 있습니다. 또한, 정치와 경제의 상관관계를 분석하여 사업 전략을 조정할 필요가 있습니다.",
+  "analyzed_at": "2026-05-31T10:00:33.804Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
