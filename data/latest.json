@@ -1,67 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스와 이슈가 클리앙 커뮤니티에서热議되고 있습니다.",
-      "post_count": 15,
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상승과 하락에 대한 논의",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 주식 시장의 동향이 클리앙 커뮤니티에서 관심을 끌고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용에 대한 논의",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 클리앙 커뮤니티에서 논의되고 있습니다.",
-      "post_count": 8,
+      "topic": "경제 성장",
+      "summary": "한국 경제의 성장과 전망에 대한 논의",
+      "post_count": 6,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부동산 시장",
+      "summary": "부동산 시장의 상황과 전망에 대한 논의",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "low"
+    },
+    {
+      "topic": "정치 상황",
+      "summary": "한국 정치 상황에 대한 논의",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 뉴스와 관련된 키워드"
-    },
-    {
       "keyword": "주식",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "경제 뉴스와 관련된 키워드"
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "주식 시장의 상승과 하락"
     },
     {
       "keyword": "AI",
-      "count": 3,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 뉴스와 관련된 키워드"
+      "context": "AI 기술의 발전과 적용"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "한국 경제의 성장과 전망"
+    },
+    {
+      "keyword": "부동산",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "부동산 시장의 상황과 전망"
+    },
+    {
+      "keyword": "정치",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "한국 정치 상황"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 12,
-    "neutral": 18,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "한국 온라인 커뮤니티에서는 주식 시장과 AI 기술에 대한 논의가 활발하게 이루어지고 있으며, 경제 성장과 부동산 시장에 대한 관심도 높습니다. 그러나 정치 상황에 대한 논의는 부정적인 감정으로 이루어지고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서는 정치 뉴스가 가장 많이 논의되고 있습니다.",
-      "action": "정치 뉴스와 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "주식 시장의 상승과 하락에 대한 논의가 활발하게 이루어지고 있습니다.",
+      "action": "주식 시장의 동향을 주시하고 투자 전략을 조정해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스와 주식 시장의 동향이 클리앙 커뮤니티에서 관심을 끌고 있습니다.",
-      "action": "경제 뉴스와 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 발전과 적용에 대한 논의가 활발하게 이루어지고 있습니다.",
+      "action": "AI 기술의 적용을 위한 투자와 연구를 진행해야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 성장과 부동산 시장에 대한 관심이 높습니다.",
+      "action": "경제 성장과 부동산 시장의 동향을 주시하고 투자 전략을 조정해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 정치 뉴스와 경제 뉴스가 가장 많이 논의되고 있습니다. 사용자들은 최신 뉴스와 동향에 대해 관심을 가지고 있으며, 관련된 키워드와 주제를 통해 콘텐츠를 제공할 수 있습니다. 또한, 기술 뉴스와 관련된 키워드도 관심을 끌고 있으므로, 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-01T06:01:24.749Z",
+  "narrative": "한국 온라인 커뮤니티에서는 주식 시장과 AI 기술에 대한 논의가 활발하게 이루어지고 있으며, 경제 성장과 부동산 시장에 대한 관심도 높습니다. 그러나 정치 상황에 대한 논의는 부정적인 감정으로 이루어지고 있습니다. 이러한 동향을 고려하여, 주식 시장의 동향을 주시하고 투자 전략을 조정해야 하며, AI 기술의 적용을 위한 투자와 연구를 진행해야 합니다. 또한, 경제 성장과 부동산 시장의 동향을 주시하고 투자 전략을 조정해야 합니다. 이러한 전략을 통해, 기업과 투자자는 한국 온라인 커뮤니티의 동향을 이해하고, 이를 통해 사업을 성공적으로 진행할 수 있습니다.",
+  "analyzed_at": "2026-06-01T07:30:34.313Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
