@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자가 시총 2000조를 돌파하고, 주가가 상승하고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "한화에어로스페이스 화재",
+      "summary": "한화에어로스페이스에서 발생한 화재로 인한 피해와 사고의 원인에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "반도체",
-      "summary": "반도체 산업이 한국 경제에 미치는 영향과 중요성이 논의되고 있다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "스타벅스 환불",
+      "summary": "스타벅스에서 발생한 환불 문제와 고객들의 불만에 대한 논의",
+      "post_count": 2,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술의 발전과 그에 따른 사회적, 경제적 영향이 चर्च되고 있다.",
-      "post_count": 12,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술의 발전과 이를 활용한 다양한 산업의 적용에 대한 논의",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "주가 상승"
+      "keyword": "한화에어로스페이스",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "화재 사고와 관련된 논의"
     },
     {
-      "keyword": "반도체",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "산업 중요성"
+      "keyword": "스타벅스",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "환불 문제와 관련된 논의"
     },
     {
       "keyword": "AI",
-      "count": 18,
-      "sentiment": "mixed",
-      "context": "기술 발전과 사회적 영향"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술의 발전과 산업 적용에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 15,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "삼성전자의 주가 상승은 한국 경제에 긍정적인 영향을 미칠 수 있다.",
-      "action": "투자 증가",
+      "insight": "한화에어로스페이스 화재 사고의 원인과 책임에 대한 명확한 조사와 대책이 필요하다",
+      "action": "조사와 대책 마련",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 중요성은 한국 경제의 미래를 결정하는 요소 중 하나이다.",
-      "action": "산업 지원",
+      "insight": "스타벅스 환불 문제의 원인과 해결책에 대한 명확한 조사와 대책이 필요하다",
+      "action": "조사와 대책 마련",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "기술 개발",
-      "priority": "high"
+      "insight": "최신 AI 기술의 발전과 이를 활용한 산업 적용에 대한 투자가 필요하다",
+      "action": "투자와 연구 개발",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 삼성전자의 주가 상승과 반도체 산업의 중요성이 논의되고 있다. 또한, AI 기술의 발전과 그에 따른 사회적, 경제적 영향이 चर्च되고 있다. 이러한 트렌드는 한국 경제와 산업에 미치는 영향을 이해하는 데 중요하다. 따라서, 투자자와 기업은 이러한 트렌드를 주시하고, 산업 지원과 기술 개발에 대한 투자를 고려해야 한다.",
-  "analyzed_at": "2026-06-01T03:00:33.951Z",
+  "narrative": "최근 한화에어로스페이스 화재 사고와 스타벅스 환불 문제가 발생하여 많은 논의가 이루어지고 있다. 또한, 최신 AI 기술의 발전과 이를 활용한 산업 적용에 대한 논의도 활발하게 진행되고 있다. 이러한 트렌드와 키워드를 분석하여 사업적 통찰과 행동 계획을 수립할 수 있다. 한화에어로스페이스 화재 사고와 스타벅스 환불 문제의 원인과 책임에 대한 명확한 조사와 대책이 필요하다. 또한, 최신 AI 기술의 발전과 이를 활용한 산업 적용에 대한 투자가 필요하다. 이러한 사업적 통찰과 행동 계획을 수립하여 기업의 경쟁력을 강화할 수 있다.",
+  "analyzed_at": "2026-06-01T04:30:34.909Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
