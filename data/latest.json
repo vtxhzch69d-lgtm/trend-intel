@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "코스피와 경제 상황에 대한 분석",
-      "post_count": 10,
+      "topic": "코스피",
+      "summary": "코스피가 10000을 넘나들 것으로 예상된다. 일부 전문가들은 코스피가 9000을 돌파하고 10000을 향해 가고 있다고 분석한다.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "지방선거와 정치 상황에 대한 분석",
+      "topic": "AI",
+      "summary": "AI 기술이 빠르게 발전하고 있으며, 이를 통해 다양한 산업 분야에서 혁신이 일어나고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "지방선거",
+      "summary": "지방선거가 임박하고 있으며, 각 후보자의 공약과 정책이 주목을 받고 있다.",
       "post_count": 8,
       "sentiment": "mixed",
       "urgency": "high"
@@ -24,44 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
       "keyword": "코스피",
       "count": 10,
       "sentiment": "neutral",
-      "context": "코스피와 경제 상황"
+      "context": "코스피 관련 뉴스와 분석이 주목을 받고 있다."
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 이를 활용한 산업 분야의 혁신이 주목을 받고 있다."
     },
     {
       "keyword": "지방선거",
-      "count": 8,
+      "count": 12,
       "sentiment": "mixed",
-      "context": "지방선거와 정치 상황"
+      "context": "지방선거 관련 뉴스와 후보자의 공약이 주목을 받고 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부에서는 긍정적인 기대감이 존재한다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
-      "action": "AI 기술에 대한 투자와 연구",
+      "insight": "코스피의 상승세를 이용한 투자 기회",
+      "action": "투자 기회를 모색한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전을 이용한 산업 혁신",
+      "action": "AI 기술을 활용한 산업 혁신을 모색한다.",
       "priority": "high"
     },
     {
-      "insight": "코스피와 경제 상황은 정치 상황과 관련이 있다",
-      "action": "정치 상황과 경제 상황에 대한 분석",
-      "priority": "medium"
+      "insight": "지방선거의 결과를 예측하고 대응한다.",
+      "action": "지방선거의 결과를 예측하고 대응한다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술과 경제 및 금융, 정치 등 다양한 주제에 대한 관심이 집중되어 있다. AI 기술의 발전은 산업의 변화를 가져올 수 있으며, 코스피와 경제 상황은 정치 상황과 관련이 있다. 이러한 트렌드를 분석하여 사업적으로 활용할 수 있는 기회를 찾는 것이 중요하다. 또한, 정치 상황과 경제 상황에 대한 분석을 통해 미래의 트렌드를 예측할 수 있다.",
-  "analyzed_at": "2026-06-01T16:30:34.269Z",
+  "narrative": "현재의 트렌드는 코스피의 상승세와 AI 기술의 발전, 지방선거의 결과를 예측하고 대응하는 것에 대한 관심이 집중되고 있다. 이러한 트렌드를 분석하여 투자 기회를 모색하고, AI 기술을 활용한 산업 혁신을 모색하며, 지방선거의 결과를 예측하고 대응하는 것이 중요하다. 또한, 이러한 트렌드에 대한 중립적인 분위기이지만, 일부에서는 긍정적인 기대감이 존재한다는 점을 고려하여 마케팅 전략을 수립하는 것이 필요하다.",
+  "analyzed_at": "2026-06-01T18:01:34.593Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
