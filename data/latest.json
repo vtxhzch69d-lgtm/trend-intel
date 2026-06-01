@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "반도체 산업",
-      "summary": "반도체 산업이 한국 경제에 미치는 영향이 크다. 최근 반도체 수출이 증가하면서 한국의 무역수지 흑자가 증가했다.",
-      "post_count": 10,
+      "summary": "삼성전자와 LG전자가 반도체 시장에서 경쟁하고 있으며, 젠슨 황이 관련된 뉴스가 많다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스가 클리앙 커뮤니티에서 많이 обс luận되고 있다. 특히, 선거와 관련된 뉴스가 많다.",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 관련된 뉴스와 논란이 많다.",
+      "post_count": 12,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스가 클리앙 커뮤니티에서 많이 обс luận되고 있다. 특히, AI와 관련된 뉴스가 많다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융 관련된 뉴스가 많으며, 메모리 가격의 폭등과 관련된 논란이 있다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 20,
+      "keyword": "삼성전자",
+      "count": 8,
       "sentiment": "positive",
-      "context": "한국의 반도체 산업이 세계적으로 경쟁력을 가지고 있다."
+      "context": "반도체 산업과 관련된 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술이 다양한 산업에서 적용되고 있다."
+      "count": 6,
+      "sentiment": "neutral",
+      "context": "AI 기술과 관련된 뉴스"
     },
     {
-      "keyword": "선거",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "最近의 선거와 관련된 뉴스가 많다."
+      "keyword": "메모리",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "메모리 가격의 폭등과 관련된 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "한국의 경제와 기술 산업이 발전하고 있다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국의 반도체 산업이 세계적으로 경쟁력을 가지고 있다.",
-      "action": "반도체 산업에 대한 투자를 증가시킨다.",
+      "insight": "반도체 산업은 경쟁이 심화되고 있다.",
+      "action": "신제품 개발과 마케팅에 집중해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 다양한 산업에서 적용되고 있다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발한다.",
+      "insight": "AI 기술은 다양한 분야에서 적용되고 있다.",
+      "action": "AI 기술을 활용한 신제품 개발에 투자해야 한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제와 금융 관련된 뉴스는 많다.",
+      "action": "경제와 금융 관련된 뉴스를 주시해야 한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 클리앙 커뮤니티의 트렌드는 반도체 산업과 기술 뉴스가 많다. 특히, 반도체 산업이 한국 경제에 미치는 영향이 크다. 또한, AI 기술이 다양한 산업에서 적용되고 있다. 이러한 트렌드를 분석하여, 반도체 산업과 AI 기술을 활용한 새로운 비즈니스 모델을 개발할 수 있다. 또한, 최근의 선거와 관련된 뉴스가 많기 때문에, 정치와 관련된 비즈니스 기회를 찾을 수 있다.",
-  "analyzed_at": "2026-06-01T12:00:35.131Z",
+  "narrative": "현재 반도체 산업은 경쟁이 심화되고 있으며, 젠슨 황이 관련된 뉴스가 많다. AI 기술은 다양한 분야에서 적용되고 있으며, 관련된 뉴스와 논란이 많다. 경제와 금융 관련된 뉴스는 많으며, 메모리 가격의 폭등과 관련된 논란이 있다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 한다. 특히, 반도체 산업과 AI 기술은 경쟁이 심화되고 있으므로, 신제품 개발과 마케팅에 집중해야 한다. 또한, 경제와 금융 관련된 뉴스를 주시하여 시장의 변화를 예측해야 한다.",
+  "analyzed_at": "2026-06-01T13:30:33.998Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
