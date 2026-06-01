@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "한화에어로스페이스 화재",
-      "summary": "한화에어로스페이스에서 발생한 화재로 인한 피해와 사고의 원인에 대한 논의",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 이슈가 클리앙 커뮤니티에서热議되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "스타벅스 환불",
-      "summary": "스타벅스에서 발생한 환불 문제와 고객들의 불만에 대한 논의",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "경제",
+      "summary": "경제 뉴스와 주식 시장의 동향이 클리앙 커뮤니티에서 관심을 끌고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술의 발전과 이를 활용한 다양한 산업의 적용에 대한 논의",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시가 클리앙 커뮤니티에서 논의되고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "한화에어로스페이스",
+      "keyword": "조국",
       "count": 5,
       "sentiment": "negative",
-      "context": "화재 사고와 관련된 논의"
+      "context": "정치 뉴스와 관련된 키워드"
     },
     {
-      "keyword": "스타벅스",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "환불 문제와 관련된 논의"
+      "keyword": "주식",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "경제 뉴스와 관련된 키워드"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 3,
       "sentiment": "positive",
-      "context": "최신 기술의 발전과 산업 적용에 대한 논의"
+      "context": "기술 뉴스와 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 10,
+    "negative": 12,
+    "neutral": 18,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한화에어로스페이스 화재 사고의 원인과 책임에 대한 명확한 조사와 대책이 필요하다",
-      "action": "조사와 대책 마련",
+      "insight": "클리앙 커뮤니티에서는 정치 뉴스가 가장 많이 논의되고 있습니다.",
+      "action": "정치 뉴스와 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "스타벅스 환불 문제의 원인과 해결책에 대한 명확한 조사와 대책이 필요하다",
-      "action": "조사와 대책 마련",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 AI 기술의 발전과 이를 활용한 산업 적용에 대한 투자가 필요하다",
-      "action": "투자와 연구 개발",
+      "insight": "경제 뉴스와 주식 시장의 동향이 클리앙 커뮤니티에서 관심을 끌고 있습니다.",
+      "action": "경제 뉴스와 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 한화에어로스페이스 화재 사고와 스타벅스 환불 문제가 발생하여 많은 논의가 이루어지고 있다. 또한, 최신 AI 기술의 발전과 이를 활용한 산업 적용에 대한 논의도 활발하게 진행되고 있다. 이러한 트렌드와 키워드를 분석하여 사업적 통찰과 행동 계획을 수립할 수 있다. 한화에어로스페이스 화재 사고와 스타벅스 환불 문제의 원인과 책임에 대한 명확한 조사와 대책이 필요하다. 또한, 최신 AI 기술의 발전과 이를 활용한 산업 적용에 대한 투자가 필요하다. 이러한 사업적 통찰과 행동 계획을 수립하여 기업의 경쟁력을 강화할 수 있다.",
-  "analyzed_at": "2026-06-01T04:30:34.909Z",
+  "narrative": "클리앙 커뮤니티에서는 정치 뉴스와 경제 뉴스가 가장 많이 논의되고 있습니다. 사용자들은 최신 뉴스와 동향에 대해 관심을 가지고 있으며, 관련된 키워드와 주제를 통해 콘텐츠를 제공할 수 있습니다. 또한, 기술 뉴스와 관련된 키워드도 관심을 끌고 있으므로, 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-01T06:01:24.749Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
