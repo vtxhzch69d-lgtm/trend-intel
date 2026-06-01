@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 관련 기술과 제품이 다양한 분야에서 적용되고 있으며, 이를 둘러싼 논의와 전망이 활발하다.",
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 금융",
-      "summary": "코스피와 주식 시장의 동향, 경제 정책 및 기업의 성과가 주목을 받고 있다.",
-      "post_count": 12,
-      "sentiment": "mixed",
+      "summary": "코스피와 경제 상황에 대한 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "신기술과 산업의 발전, 특히 반도체와 디스플레이 분야에서 경쟁이 치열하다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "지방선거와 정치 상황에 대한 분석",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "기술과 제품 개발"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "코스피",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "주식 시장 동향"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "코스피와 경제 상황"
     },
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "기업 성과와 기술 개발"
+      "keyword": "지방선거",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "지방선거와 정치 상황"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "기대와 관심이 높은 분위기"
+    "negative": 15,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용",
-      "action": "투자와 연구 개발",
+      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
+      "action": "AI 기술에 대한 투자와 연구",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 시장의 동향",
-      "action": "투자와 재무 계획",
+      "insight": "코스피와 경제 상황은 정치 상황과 관련이 있다",
+      "action": "정치 상황과 경제 상황에 대한 분석",
       "priority": "medium"
-    },
-    {
-      "insight": "기술 및 산업의 발전",
-      "action": "연구 개발과 시장 분석",
-      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술과 경제 및 금융, 기술 및 산업의 발전을 중심으로 형성되고 있다. 이러한 트렌드는 기업과 개인에게 기회와 도전을 제공하며, 적절한 대응과 전략이 필요하다. 특히 AI 기술의 발전과 적용은 다양한 산업과 분야에서 큰 영향을 미칠 것으로 예상되며, 이를 위한 투자와 연구 개발이 필요하다. 또한, 경제 및 금융 시장의 동향을 주시하고, 기술 및 산업의 발전을 분석하여 시장의 기회를 잡는 것이 중요하다.",
-  "analyzed_at": "2026-06-01T15:00:34.825Z",
+  "narrative": "최근의 트렌드는 AI 기술과 경제 및 금융, 정치 등 다양한 주제에 대한 관심이 집중되어 있다. AI 기술의 발전은 산업의 변화를 가져올 수 있으며, 코스피와 경제 상황은 정치 상황과 관련이 있다. 이러한 트렌드를 분석하여 사업적으로 활용할 수 있는 기회를 찾는 것이 중요하다. 또한, 정치 상황과 경제 상황에 대한 분석을 통해 미래의 트렌드를 예측할 수 있다.",
+  "analyzed_at": "2026-06-01T16:30:34.269Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
