@@ -1,49 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글들입니다. 사용자들은 다양한 주제에 대해 обсужд하고 의견을 나눕니다.",
-      "post_count": 1000,
+      "topic": "경제 및 금융",
+      "summary": "코스피 사상 최고가 마감, 삼성전자 및 LG전자 관련 뉴스",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "이재명 대통령 및 조국 후보 관련 뉴스, 법기술자들의 폐해",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "AI 및 반도체 관련 뉴스, NVIDIA 및 AMD 제품 출시",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 500,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "코스피",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "사상 최고가 마감"
     },
     {
-      "keyword": "이슈",
-      "count": 200,
-      "sentiment": "negative",
-      "context": "문제나 논란이 있는 주제"
+      "keyword": "삼성전자",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "반도체 및 OLED 관련 뉴스"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "관련 기술 및 제품 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 300,
-    "negative": 400,
-    "neutral": 300,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 다양한 주제에 대해 관심이 많습니다.",
-      "action": "다양한 주제에 대한 콘텐츠를 제공합니다.",
+      "insight": "코스피의 상승은 경제 성장의 기대감을 반영한다",
+      "action": "투자 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 이슈에 대해敏感합니다.",
-      "action": "이슈에 대한 대응을 신속하게 합니다.",
+      "insight": "AI 및 반도체 기술은 미래 산업의 핵심이 될 것이다",
+      "action": "관련 기술 개발 및 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 обсужд과 의견 나눔이 활발하게 이루어지는 공간입니다. 사용자들은 자유게시판과 이슈게시판에서 다양한 주제에 대해 글을 올리고 댓글을 남깁니다. 사용자들의 관심사와 이슈에 대한 대응을 신속하게 하여 사용자들의 만족도를 높일 수 있습니다. 또한, 다양한 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-02T06:30:34.096Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융, 정치 및 사회, 기술 및 과학 분야에서 다양한 주제가 논의되고 있습니다. 코스피의 사상 최고가 마감은 경제 성장의 기대감을 반영하며, 삼성전자 및 LG전자 관련 뉴스는 기술 및 산업의 발전에 대한 관심을 보여줍니다. 또한, AI 및 반도체 기술은 미래 산업의 핵심이 될 것으로 예상되며, 관련 기술 개발 및 투자는 중요하다고 할 수 있습니다. 이러한 트렌드 분석 결과는 마케터 및 비즈니스 리더들에게 중요한 인사이트를 제공하며, 향후의 전략 수립 및 투자 결정에 도움이 될 것입니다.",
+  "analyzed_at": "2026-06-02T08:00:33.885Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
