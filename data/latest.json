@@ -2,71 +2,59 @@
   "trending_topics": [
     {
       "topic": "지방선거",
-      "summary": "지방선거 관련 게시글이 많아졌습니다. 다양한 후보자와 정책에 대한 논의가 이루어지고 있습니다.",
-      "post_count": 10,
+      "summary": "지방선거 관련 게시글이 많으며, 다양한 후보자와 정당에 대한 의견이 교환되고 있습니다. 투표율과 선거 결과에 대한 관심이 높은 것으로 보입니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "테크 뉴스",
-      "summary": "최신 테크 뉴스에 대한 게시글이 많아졌습니다. 다양한 테크 관련 주제에 대한 논의가 이루어지고 있습니다.",
+      "summary": "테크 관련 뉴스가 많이 등장하며, 특히 삼성전자와 LG전자에 대한 소식이 많습니다. 새로운 기술과 제품에 대한 관심이 높은 것으로 보입니다.",
       "post_count": 20,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 게시글이 많아졌습니다. 다양한 경제 주제에 대한 논의가 이루어지고 있습니다.",
-      "post_count": 15,
-      "sentiment": "negative",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "지방선거",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "지방선거 관련 게시글"
-    },
-    {
-      "keyword": "테크 뉴스",
-      "count": 30,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "최신 테크 뉴스"
+      "context": "투표와 선거 결과에 대한 관심"
     },
     {
-      "keyword": "경제",
-      "count": 25,
-      "sentiment": "negative",
-      "context": "경제 관련 게시글"
+      "keyword": "삼성전자",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "신제품과 기술 개발에 대한 소식"
+    },
+    {
+      "keyword": "LG전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "신제품과 기술 개발에 대한 소식"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "지방선거 관련 마케팅 캠페인",
-      "action": "지방선거 관련 게시글에 대한 분석",
+      "insight": "테크 산업은 지속적으로 성장할 것으로 예상됩니다.",
+      "action": "테크 산업에 대한 투자와 연구 개발에 집중할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "테크 뉴스 관련 콘텐츠 제작",
-      "action": "최신 테크 뉴스에 대한 콘텐츠 제작",
+      "insight": "지방선거 결과는 정치와 경제에 큰 영향을 미칠 것입니다.",
+      "action": "선거 결과를 주시하고 이를 반영한 전략을 수립할 필요가 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 마케팅 캠페인",
-      "action": "경제 관련 게시글에 대한 분석",
-      "priority": "high"
     }
   ],
-  "narrative": "지방선거와 테크 뉴스, 경제 관련 주제가 현재의 트렌드입니다. 다양한 후보자와 정책에 대한 논의가 이루어지고 있으며, 최신 테크 뉴스에 대한 게시글도 많아졌습니다. 경제 관련 주제에 대한 논의도 이루어지고 있지만, 전체적인 분위기는 중립적인 편입니다. 이러한 트렌드를 분석하여 마케팅 캠페인과 콘텐츠 제작에 활용할 수 있습니다.",
-  "analyzed_at": "2026-06-02T22:00:33.553Z",
+  "narrative": "지방선거와 테크 뉴스가 주를 이루는 이번 분석 결과에서는 정치와 경제에 대한 관심이 높은 것으로 보입니다. 테크 산업은 지속적으로 성장할 것으로 예상되며, 지방선거 결과는 정치와 경제에 큰 영향을 미칠 것입니다. 따라서 테크 산업에 대한 투자와 연구 개발에 집중하고, 선거 결과를 주시하여 이를 반영한 전략을 수립하는 것이 중요할 것으로 보입니다. 또한, 지방선거와 테크 뉴스에 대한 관심이 높아지는 추세를 반영하여 마케팅 전략을 수립하는 것이 필요할 것입니다.",
+  "analyzed_at": "2026-06-02T23:30:34.039Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
