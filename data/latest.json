@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "코스피 사상 최고가 마감, 삼성전자 및 LG전자 관련 뉴스",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "경제 및 정치",
+      "summary": "경제와 정치 관련된 주제가 많은 관심을 받고 있습니다. 특히, 선거와 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "이재명 대통령 및 조국 후보 관련 뉴스, 법기술자들의 폐해",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "기술 및 산업",
+      "summary": "기술과 산업 관련된 주제가 많이 обсужд되고 있습니다. 특히, 반도체와 AI 관련된 주제가 많은 관심을 받고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI 및 반도체 관련 뉴스, NVIDIA 및 AMD 제품 출시",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "사회 및 문화",
+      "summary": "사회와 문화 관련된 주제가 일부 обсужд되고 있습니다. 특히, 교육과 환경 관련된 주제가 관심을 받고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "사상 최고가 마감"
+      "keyword": "선거",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "선거와 관련된 주제가 많이 обсужд되고 있습니다."
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "반도체",
       "count": 8,
       "sentiment": "positive",
-      "context": "반도체 및 OLED 관련 뉴스"
+      "context": "반도체 관련된 주제가 많은 관심을 받고 있습니다."
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 6,
       "sentiment": "positive",
-      "context": "관련 기술 및 제품 출시"
+      "context": "AI 관련된 주제가 많이 обсужд되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "긍정적"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기이지만, 일부 주제에서는 긍정적인 반응을 보이고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "코스피의 상승은 경제 성장의 기대감을 반영한다",
-      "action": "투자 전략 수립",
+      "insight": "기술과 산업 관련된 주제가 많은 관심을 받고 있습니다.",
+      "action": "기술과 산업 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 및 반도체 기술은 미래 산업의 핵심이 될 것이다",
-      "action": "관련 기술 개발 및 투자",
+      "insight": "경제와 정치 관련된 주제가 많은 관심을 받고 있습니다.",
+      "action": "경제와 정치 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융, 정치 및 사회, 기술 및 과학 분야에서 다양한 주제가 논의되고 있습니다. 코스피의 사상 최고가 마감은 경제 성장의 기대감을 반영하며, 삼성전자 및 LG전자 관련 뉴스는 기술 및 산업의 발전에 대한 관심을 보여줍니다. 또한, AI 및 반도체 기술은 미래 산업의 핵심이 될 것으로 예상되며, 관련 기술 개발 및 투자는 중요하다고 할 수 있습니다. 이러한 트렌드 분석 결과는 마케터 및 비즈니스 리더들에게 중요한 인사이트를 제공하며, 향후의 전략 수립 및 투자 결정에 도움이 될 것입니다.",
-  "analyzed_at": "2026-06-02T08:00:33.885Z",
+  "narrative": "현재의 트렌드는 기술과 산업, 경제와 정치 관련된 주제가 많은 관심을 받고 있습니다. 특히, 선거와 관련된 주제가 많이 обсужд되고 있습니다. 기술과 산업 관련된 주제에서는 반도체와 AI 관련된 주제가 많은 관심을 받고 있습니다. 이러한 트렌드를 이용하여 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한, 경제와 정치 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 중립적인 분위기이지만, 일부 주제에서는 긍정적인 반응을 보이고 있습니다. 따라서, 콘텐츠를 생성할 때에는 이러한 트렌드와 분위기를 고려하여 생성하는 것이 좋습니다.",
+  "analyzed_at": "2026-06-02T09:30:33.738Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
