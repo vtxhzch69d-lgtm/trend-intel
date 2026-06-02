@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "젠슨 황",
-      "summary": "젠슨 황이 다양한 분야에서 활약하고 있으며, 그의 활동이 주목을 받고 있다. 그는 젠슨 황 리딩방 방장, 전 세계 최초로 예능출연, 엔씨 김택진과 만남 등 다양한 활동을 하고 있다.",
+      "summary": "젠슨 황의 다양한 활동과 뉴스에 대한 관심이 집중되고 있습니다. 젠슨 황의 비공개 만찬 초대와 AI 판도에 대한 영향이 논의되고 있습니다.",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "주식",
-      "summary": "주식 시장의 변동이 주목을 받고 있다. 코스피가 다시 마 3 가깝고, 주식장 급락이 예상된다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심이 증가하고 있습니다. AI의 경제적 영향과 윤리적 문제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술이 다양한 분야에서 활용되고 있다. AI로 세금 요금 체납자도 털고 있으며, AI로 진료기록을 만들어 전원·협진한다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련 뉴스에 대한 관심이 집중되고 있습니다. 주식 시장의 변동과 경제적 영향에 대한 분석이 이루어지고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "젠슨 황",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "젠슨 황의 활동이 주목을 받고 있다."
+      "count": 7,
+      "sentiment": "neutral",
+      "context": "젠슨 황의 활동과 뉴스에 대한 관심"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "AI 기술의 발전과 사회적 영향"
     },
     {
       "keyword": "주식",
       "count": 5,
       "sentiment": "neutral",
-      "context": "주식 시장의 변동이 주목을 받고 있다."
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술이 다양한 분야에서 활용되고 있다."
+      "context": "주식 시장의 변동과 경제적 영향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "긍정적인 기분이 주를 이루고 있다."
+    "positive": 10,
+    "negative": 8,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "젠슨 황의 활동이 주목을 받고 있다.",
-      "action": "젠슨 황의 활동을 주시하고, 그의 활동이 기업에 미치는 영향을 분석한다.",
+      "insight": "AI 기술의 발전은 경제적 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고 준비합니다.",
+      "priority": "high"
+    },
+    {
+      "insight": "주식 시장의 변동은 경제적 영향을 미칠 수 있습니다.",
+      "action": "주식 시장의 변동을 주시하고 준비합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "주식 시장의 변동이 주목을 받고 있다.",
-      "action": "주식 시장의 변동을 주시하고, 기업의 주식에 미치는 영향을 분석한다.",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술이 다양한 분야에서 활용되고 있다.",
-      "action": "AI 기술을 활용하여 기업의 경쟁력을 높인다.",
-      "priority": "high"
     }
   ],
-  "narrative": "최근 젠슨 황의 활동이 주목을 받고 있으며, 그의 활동이 기업에 미치는 영향을 분석할 필요가 있다. 또한, 주식 시장의 변동이 주목을 받고 있으며, 기업의 주식에 미치는 영향을 분석할 필요가 있다. 마지막으로, AI 기술이 다양한 분야에서 활용되고 있으며, 기업이 AI 기술을 활용하여 경쟁력을 높일 수 있는 기회가 있다.",
-  "analyzed_at": "2026-06-02T02:01:23.276Z",
+  "narrative": "현재의 트렌드는 젠슨 황, AI 기술, 경제 및 주식 관련 뉴스에 대한 관심이 집중되고 있습니다. AI 기술의 발전은 경제적 영향을 미칠 수 있으며, 주식 시장의 변동은 경제적 영향을 미칠 수 있습니다. 이러한 트렌드를 주시하고 준비하면 미래의 비즈니스 기회를 잡을 수 있을 것입니다. 또한, 젠슨 황의 활동과 뉴스에 대한 관심은 그의 영향력과 중요성을 보여줍니다. 이러한 트렌드를 분석하고 이해하면 비즈니스 전략을 수립하고 미래의 기회를 잡을 수 있을 것입니다.",
+  "analyzed_at": "2026-06-02T03:30:33.645Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
