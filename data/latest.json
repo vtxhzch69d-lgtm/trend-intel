@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
+      "topic": "경제",
+      "summary": "最近의 경제 동향과 관련된 게시글이 많습니다.",
       "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI, 반도체, 로봇 등 기술 관련된 게시글이 많습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스와 의견",
-      "post_count": 20,
+      "topic": "정치",
+      "summary": "最近의 정치 동향과 관련된 게시글이 많습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 산업",
-      "summary": "기술 및 산업 관련 뉴스와 개발",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 관련된 게시글"
+    },
+    {
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "반도체 산업의 동향과 관련된 게시글"
     },
     {
       "keyword": "경제",
-      "count": 15,
+      "count": 12,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
-    },
-    {
-      "keyword": "기술",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 관련 뉴스"
+      "context": "最近의 경제 동향과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "긍정적"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 40,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
-      "action": "AI 기술의 발전을 주시하고 산업의 변화를 준비한다",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스는 계속해서 주목할 필요가 있다",
-      "action": "경제 및 정치 관련 뉴스를 계속해서 모니터링한다",
+      "insight": "반도체 산업의 성장",
+      "action": "반도체 산업에 투자하기",
       "priority": "medium"
     },
     {
-      "insight": "기술 및 산업 관련 뉴스는 산업의 발전에 기여할 수 있다",
-      "action": "기술 및 산업 관련 뉴스를 주시하고 산업의 발전에 기여한다",
-      "priority": "low"
+      "insight": "경제 동향의 변화",
+      "action": "경제 동향을 주시하고 대응하기",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 산업의 변화가 주목할 필요가 있다. 또한, 경제 및 정치 관련 뉴스와 기술 및 산업 관련 뉴스도 계속해서 주시할 필요가 있다. 이러한 트렌드 분석 결과를 바탕으로, 산업의 발전에 기여하고 고객의需求을 이해하는 데 도움이 될 수 있다.",
-  "analyzed_at": "2026-06-01T21:00:34.702Z",
+  "narrative": "最近의 온라인 커뮤니티 동향을 분석한 결과, 경제, 기술, 정치 등 다양한 주제의 게시글이 많습니다. AI 기술의 발전과 반도체 산업의 성장은 긍정적인 분위기를 보이고 있습니다. 그러나 정치 관련된 게시글은 혼합된 분위기를 보이고 있습니다. 이러한 동향을 고려하여 비즈니스 모델을 개발하고 투자하기 위한 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-02T00:01:31.520Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
