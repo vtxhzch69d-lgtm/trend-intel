@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "지방선거",
-      "summary": "지방선거 관련 게시글이 많습니다. 출구조사 신뢰도와 선거 결과에 대한 관심이 높습니다.",
-      "post_count": 5,
+      "summary": "지방선거 관련 게시글이 많아졌습니다. 다양한 후보자와 정책에 대한 논의가 이루어지고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "테크 뉴스",
+      "summary": "최신 테크 뉴스에 대한 게시글이 많아졌습니다. 다양한 테크 관련 주제에 대한 논의가 이루어지고 있습니다.",
+      "post_count": 20,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 게시글이 많습니다. 젠슨 황과 관련된 뉴스가 관심을 끌고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "경제 관련 게시글이 많아졌습니다. 다양한 경제 주제에 대한 논의가 이루어지고 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
-    },
-    {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업 관련 게시글이 많습니다. 삼성전자와 LG전자에 대한 뉴스가 관심을 끌고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "젠슨 황",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스에서 자주 언급됩니다."
+      "keyword": "지방선거",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "지방선거 관련 게시글"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "반도체 산업과 관련된 뉴스에서 자주 언급됩니다."
+      "keyword": "테크 뉴스",
+      "count": 30,
+      "sentiment": "neutral",
+      "context": "최신 테크 뉴스"
     },
     {
-      "keyword": "LG전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "반도체 산업과 관련된 뉴스에서 자주 언급됩니다."
+      "keyword": "경제",
+      "count": 25,
+      "sentiment": "negative",
+      "context": "경제 관련 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적이지만 약간 긍정적인 기조를 보입니다."
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 빠르게 발전하고 있습니다.",
-      "action": "AI 기술을 활용한 비즈니스 모델을 개발해야 합니다.",
+      "insight": "지방선거 관련 마케팅 캠페인",
+      "action": "지방선거 관련 게시글에 대한 분석",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업은 경쟁이 심화하고 있습니다.",
-      "action": "반도체 산업에 대한 투자를 늘려야 합니다.",
+      "insight": "테크 뉴스 관련 콘텐츠 제작",
+      "action": "최신 테크 뉴스에 대한 콘텐츠 제작",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 마케팅 캠페인",
+      "action": "경제 관련 게시글에 대한 분석",
+      "priority": "high"
     }
   ],
-  "narrative": "지방선거와 관련된 게시글이 많습니다. 출구조사 신뢰도와 선거 결과에 대한 관심이 높습니다. 또한, AI 기술과 관련된 뉴스가 관심을 끌고 있습니다. 젠슨 황과 관련된 뉴스가 특히 많은 관심을 받고 있습니다. 반도체 산업도 경쟁이 심화하고 있으며, 삼성전자와 LG전자에 대한 뉴스가 관심을 끌고 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립해야 합니다. AI 기술을 활용한 비즈니스 모델을 개발하고, 반도체 산업에 대한 투자를 늘려야 합니다. 또한, 지방선거와 관련된 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-02T20:30:35.223Z",
+  "narrative": "지방선거와 테크 뉴스, 경제 관련 주제가 현재의 트렌드입니다. 다양한 후보자와 정책에 대한 논의가 이루어지고 있으며, 최신 테크 뉴스에 대한 게시글도 많아졌습니다. 경제 관련 주제에 대한 논의도 이루어지고 있지만, 전체적인 분위기는 중립적인 편입니다. 이러한 트렌드를 분석하여 마케팅 캠페인과 콘텐츠 제작에 활용할 수 있습니다.",
+  "analyzed_at": "2026-06-02T22:00:33.553Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
