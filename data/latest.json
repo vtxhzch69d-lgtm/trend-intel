@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "젠슨 황과 삼성전자",
-      "summary": "젠슨 황이 삼성전자와의 협력을 강화하고, 8세대 HBM5를 공개하며 차세대 시장 선점을 선언했습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "정치 및 선거",
+      "summary": "최근 정치 및 선거 관련 게시글이 많아졌습니다. 특히, 대구 선거 예언과 관련된 게시글이 주목을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "이재명과 정치",
-      "summary": "이재명과 관련된 정치 뉴스와 의견이 많았습니다.",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "테크 및 IT",
+      "summary": "테크 및 IT 관련 뉴스가 많이 보도되고 있습니다. 특히, 젠슨 황과 관련된 뉴스가 주목을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술과 산업",
-      "summary": "최신 기술과 산업 동향에 대한 뉴스와 의견이 많았습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스가 많이 보도되고 있습니다. 특히, 월세 인상과 관련된 게시글이 주목을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "젠슨 황",
       "count": 5,
       "sentiment": "positive",
-      "context": "삼성전자와의 협력"
+      "context": "테크 및 IT 관련 뉴스에서 자주 언급되고 있습니다."
     },
     {
-      "keyword": "이재명",
-      "count": 4,
+      "keyword": "대구 선거",
+      "count": 3,
       "sentiment": "mixed",
-      "context": "정치 뉴스와 의견"
+      "context": "정치 및 선거 관련 게시글에서 자주 언급되고 있습니다."
     },
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술과 산업 동향"
+      "keyword": "월세 인상",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "경제 및 금융 관련 뉴스에서 자주 언급되고 있습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
+    "negative": 15,
     "neutral": 10,
-    "overall_mood": "긍정적"
+    "overall_mood": "복합적인 감정들이 공존하고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술과 산업 동향에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술과 산업 동향에 대한 정보를 제공하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
+      "insight": "테크 및 IT 관련 뉴스가 많이 보도되고 있습니다.",
+      "action": "테크 및 IT 관련 제품이나 서비스를 개발하거나 마케팅할 때 참고할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
-      "action": "정치와 경제에 대한 정보를 제공하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
+      "insight": "경제 및 금융 관련 뉴스가 많이 보도되고 있습니다.",
+      "action": "경제 및 금융 관련 제품이나 서비스를 개발하거나 마케팅할 때 참고할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최신 기술과 산업 동향에 대한 관심이 높아지고 있습니다. 젠슨 황과 삼성전자의 협력과 8세대 HBM5의 공개는 차세대 시장 선점을 선언하는 중요한 사건입니다. 또한, 정치와 경제에 대한 관심도 높아지고 있습니다. 이재명과 관련된 정치 뉴스와 의견이 많았습니다. 이러한 동향을 분석하여 비즈니스 기회를 찾는 것이 중요합니다. 최신 기술과 산업 동향에 대한 정보를 제공하고, 이를 활용하여 비즈니스 기회를 찾는 것이 필요합니다.",
-  "analyzed_at": "2026-06-02T14:30:34.115Z",
+  "narrative": "최근 정치 및 선거 관련 게시글이 많아졌습니다. 테크 및 IT 관련 뉴스도 많이 보도되고 있습니다. 경제 및 금융 관련 뉴스도 많이 보도되고 있습니다. 이러한 트렌드를 참고하여 마케팅 전략을 수립할 수 있습니다. 특히, 젠슨 황과 관련된 뉴스가 주목을 받고 있으므로, 테크 및 IT 관련 제품이나 서비스를 개발하거나 마케팅할 때 참고할 수 있습니다. 또한, 월세 인상과 관련된 게시글이 주목을 받고 있으므로, 경제 및 금융 관련 제품이나 서비스를 개발하거나 마케팅할 때 참고할 수 있습니다.",
+  "analyzed_at": "2026-06-02T16:00:34.796Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
