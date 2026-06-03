@@ -1,60 +1,60 @@
 {
   "trending_topics": [
     {
-      "topic": "2026 지방선거",
-      "summary": "2026 지방선거 관련 게시글이 많은 것으로 나타났습니다. 선거 결과와 투표 용지 부족 사태 등이 주요 관심사입니다.",
-      "post_count": 20,
+      "topic": "선거 및 정치",
+      "summary": "최근 선거와 관련된 다양한 주제가 논의되고 있습니다. 투표율, 선거 결과, 사전투표 등이 주요 관심사입니다.",
+      "post_count": 30,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "테크 관련 뉴스가 많이 등장했습니다. 새로운 기술과 제품 출시 등이 주요 내용입니다.",
-      "post_count": 15,
+      "topic": "기술 및 산업",
+      "summary": "최신 기술과 산업 동향이 논의되고 있습니다. 반도체, AI, OLED 등이 주요 관심사입니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "2026 지방선거",
+      "keyword": "선거",
       "count": 25,
       "sentiment": "neutral",
-      "context": "선거 결과와 관련된 게시글"
+      "context": "最近의 선거와 관련된 주제"
     },
     {
-      "keyword": "테크",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "새로운 기술과 제품 출시 등"
-    },
-    {
-      "keyword": "투표 용지 부족",
+      "keyword": "반도체",
       "count": 10,
-      "sentiment": "negative",
-      "context": "투표 용지 부족 사태 관련 게시글"
+      "sentiment": "positive",
+      "context": "최신 기술과 산업 동향"
+    },
+    {
+      "keyword": "OLED",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술과 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "2026 지방선거 관련 관심이 높아지고 있습니다.",
-      "action": "선거 결과와 관련된 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "최근 선거와 관련된 주제가 많은 관심을 받고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "테크 관련 뉴스가 많은 것으로 나타났습니다.",
-      "action": "새로운 기술과 제품 출시 등에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "최신 기술과 산업 동향이 많은 관심을 받고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "2026 지방선거 관련 게시글이 많은 것으로 나타났습니다. 선거 결과와 투표 용지 부족 사태 등이 주요 관심사입니다. 또한 테크 관련 뉴스가 많이 등장했습니다. 새로운 기술과 제품 출시 등이 주요 내용입니다. 중립적인 분위기이며, 선거 결과와 관련된 콘텐츠를 제공하여 관심을 끌 수 있습니다. 새로운 기술과 제품 출시 등에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-03T12:00:34.173Z",
+  "narrative": "최근 선거와 관련된 주제가 많은 관심을 받고 있습니다. 투표율, 선거 결과, 사전투표 등이 주요 관심사입니다. 또한, 최신 기술과 산업 동향이 많은 관심을 받고 있습니다. 반도체, AI, OLED 등이 주요 관심사입니다. 이러한 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 중립적인 분위기가 유지되고 있지만, 최근 선거와 관련된 주제에 대한 관심이 높아지고 있습니다. 따라서, 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-03T13:30:37.914Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
