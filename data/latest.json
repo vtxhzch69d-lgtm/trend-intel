@@ -2,59 +2,83 @@
   "trending_topics": [
     {
       "topic": "서울시장 선거",
-      "summary": "서울시장 선거 관련 게시글이 많으며, 선거 결과와 관련된 분석 및 예측이 주를 이루고 있습니다.",
+      "summary": "서울시장 선거 결과와 관련된 논의가 활발하게 진행 중입니다. 오세훈의 당선과 관련된 다양한 의견이 있습니다.",
       "post_count": 20,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "최신 테크 뉴스 관련 게시글이 많으며, 애플, 삼성, 구글 등의 기업과 관련된 소식이 주를 이루고 있습니다.",
-      "post_count": 30,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "정치 관련된 다양한 주제들이 논의되고 있습니다. 민주당과 국힘당에 대한 의견이 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 관련된 뉴스와 정보가 공유되고 있습니다. 애플, 삼성, 구글 등 다양한 기업의 소식이 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "서울시장",
-      "count": 25,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "서울시장 선거 관련 키워드"
+      "context": "서울시장 선거 결과와 관련된 논의"
+    },
+    {
+      "keyword": "오세훈",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "오세훈의 당선과 관련된 의견"
+    },
+    {
+      "keyword": "민주당",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "민주당에 대한 비판적인 의견"
+    },
+    {
+      "keyword": "국힘당",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "국힘당에 대한 비판적인 의견"
     },
     {
       "keyword": "애플",
-      "count": 10,
+      "count": 5,
       "sentiment": "positive",
-      "context": "애플 관련 뉴스 키워드"
-    },
-    {
-      "keyword": "삼성",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "삼성 관련 뉴스 키워드"
+      "context": "애플의 최신 기술과 제품에 대한 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
+    "positive": 20,
+    "negative": 30,
     "neutral": 40,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "서울시장 선거 결과는 정치적 및 경제적 영향을 미칠 수 있습니다.",
-      "action": "관련 뉴스와 분석을 주시하여 사업에 필요한 정보를 수집하세요.",
+      "insight": "서울시장 선거 결과가 정치와 경제에 미치는 영향",
+      "action": "정치와 경제에 대한 분석을 심화시키기",
       "priority": "high"
     },
     {
-      "insight": "테크 뉴스는 빠르게 변화하며, 최신 정보를 따라가기 위해 지속적인 모니터링이 필요합니다.",
-      "action": "테크 뉴스 관련 키워드를 설정하여 최신 정보를 수집하세요.",
+      "insight": "최신 기술의 발전이 산업에 미치는 영향",
+      "action": "최신 기술의 발전을 주시하고 산업에 적용하기",
       "priority": "medium"
+    },
+    {
+      "insight": "소비자의 관심과 선호도에 대한 분석",
+      "action": "소비자의 관심과 선호도에 대한 분석을 심화시키기",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 서울시장 선거와 테크 뉴스 관련 게시글이 주를 이루고 있습니다. 선거 결과는 정치적 및 경제적 영향을 미칠 수 있으며, 테크 뉴스는 빠르게 변화하는 분야입니다. 따라서 관련 뉴스와 분석을 주시하여 사업에 필요한 정보를 수집하는 것이 중요합니다. 또한, 테크 뉴스 관련 키워드를 설정하여 최신 정보를 수집하는 것이 필요합니다.",
-  "analyzed_at": "2026-06-03T21:00:33.985Z",
+  "narrative": "서울시장 선거 결과와 관련된 논의가 활발하게 진행 중입니다. 오세훈의 당선과 관련된 다양한 의견이 있습니다. 정치 관련된 다양한 주제들이 논의되고 있습니다. 민주당과 국힘당에 대한 의견이 있습니다. 최신 기술 관련된 뉴스와 정보가 공유되고 있습니다. 애플, 삼성, 구글 등 다양한 기업의 소식이 있습니다. 중립적인 분위기이며, 정치와 경제에 대한 분석을 심화시키는 것이 필요합니다. 최신 기술의 발전을 주시하고 산업에 적용하는 것이 중요합니다. 소비자의 관심과 선호도에 대한 분석을 심화시키는 것이 필요합니다.",
+  "analyzed_at": "2026-06-03T22:30:34.035Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
