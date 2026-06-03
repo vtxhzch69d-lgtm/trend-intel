@@ -2,15 +2,22 @@
   "trending_topics": [
     {
       "topic": "지방선거",
-      "summary": "지방선거 관련 게시글이 많으며, 다양한 후보자와 정당에 대한 의견이 교환되고 있습니다. 투표율과 선거 결과에 대한 관심이 높은 것으로 보입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "지방선거 관련 게시글이 많이 올라왔으며, 투표율과 후보자에 대한 관심이 높다.",
+      "post_count": 20,
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "테크 관련 뉴스가 많이 등장하며, 특히 삼성전자와 LG전자에 대한 소식이 많습니다. 새로운 기술과 제품에 대한 관심이 높은 것으로 보입니다.",
-      "post_count": 20,
+      "topic": "반도체 산업",
+      "summary": "반도체 산업 관련 뉴스가 많이 올라왔으며, 기술 개발과 시장 경쟁에 대한 관심이 높다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 뉴스가 많이 올라왔으며, 개발과 적용에 대한 관심이 높다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -18,43 +25,48 @@
   "keywords": [
     {
       "keyword": "지방선거",
-      "count": 15,
+      "count": 25,
       "sentiment": "neutral",
-      "context": "투표와 선거 결과에 대한 관심"
+      "context": "투표율과 후보자에 대한 관심"
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
+      "keyword": "반도체",
+      "count": 20,
       "sentiment": "positive",
-      "context": "신제품과 기술 개발에 대한 소식"
+      "context": "기술 개발과 시장 경쟁"
     },
     {
-      "keyword": "LG전자",
-      "count": 5,
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "신제품과 기술 개발에 대한 소식"
+      "context": "개발과 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 30,
     "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "neutral": 60,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 산업은 지속적으로 성장할 것으로 예상됩니다.",
-      "action": "테크 산업에 대한 투자와 연구 개발에 집중할 필요가 있습니다.",
+      "insight": "지방선거 관련 마케팅 기회",
+      "action": "지방선거 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "지방선거 결과는 정치와 경제에 큰 영향을 미칠 것입니다.",
-      "action": "선거 결과를 주시하고 이를 반영한 전략을 수립할 필요가 있습니다.",
+      "insight": "반도체 산업 관련 기술 개발",
+      "action": "반도체 산업 관련 기술 개발 투자",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술 관련 개발과 적용",
+      "action": "AI 기술 관련 개발과 적용 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "지방선거와 테크 뉴스가 주를 이루는 이번 분석 결과에서는 정치와 경제에 대한 관심이 높은 것으로 보입니다. 테크 산업은 지속적으로 성장할 것으로 예상되며, 지방선거 결과는 정치와 경제에 큰 영향을 미칠 것입니다. 따라서 테크 산업에 대한 투자와 연구 개발에 집중하고, 선거 결과를 주시하여 이를 반영한 전략을 수립하는 것이 중요할 것으로 보입니다. 또한, 지방선거와 테크 뉴스에 대한 관심이 높아지는 추세를 반영하여 마케팅 전략을 수립하는 것이 필요할 것입니다.",
-  "analyzed_at": "2026-06-02T23:30:34.039Z",
+  "narrative": "지방선거와 반도체 산업, AI 기술이 최근의 트렌드입니다. 지방선거 관련 게시글이 많이 올라왔으며, 투표율과 후보자에 대한 관심이 높습니다. 반도체 산업 관련 뉴스가 많이 올라왔으며, 기술 개발과 시장 경쟁에 대한 관심이 높습니다. AI 기술 관련 뉴스가 많이 올라왔으며, 개발과 적용에 대한 관심이 높습니다. 이러한 트렌드를 바탕으로 마케팅 기회를 찾고, 기술 개발과 투자를 고려해야 합니다.",
+  "analyzed_at": "2026-06-03T01:00:34.293Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
