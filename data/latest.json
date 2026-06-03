@@ -1,60 +1,60 @@
 {
   "trending_topics": [
     {
-      "topic": "지방선거 결과",
-      "summary": "지방선거 결과에 대한 분석과 의견이 많다. 일부 지역에서 민주당의 승리와 한동훈의 승리에 대한 반응이 나타난다.",
-      "post_count": 20,
+      "topic": "지방선거",
+      "summary": "지방선거 결과에 대한 분석과 반응",
+      "post_count": 30,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스에 대한 관심이 높다. 반도체, AI, OLED 등 다양한 기술 분야의 뉴스가 등장한다.",
-      "post_count": 15,
+      "topic": "테크 뉴스",
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 20,
       "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "한동훈",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "한동훈의 승리에 대한 비판적인 의견"
+      "keyword": "지방선거",
+      "count": 30,
+      "sentiment": "mixed",
+      "context": "지방선거 결과에 대한 분석과 반응"
     },
     {
-      "keyword": "민주당",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "민주당의 승리에 대한 긍정적인 의견"
-    },
-    {
-      "keyword": "OLED",
-      "count": 3,
+      "keyword": "테크",
+      "count": 20,
       "sentiment": "neutral",
-      "context": "OLED 기술에 대한 중립적인 의견"
+      "context": "최신 기술 뉴스와 트렌드"
+    },
+    {
+      "keyword": "애플",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "애플의 최신 제품과 기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "지방선거 결과에 대한 분석은 정치와 사회에 대한 이해를 높일 수 있다.",
-      "action": "정책과 사회 동향을 주시하여 사업 전략을 수립한다.",
+      "insight": "지방선거 결과에 대한 분석과 반응",
+      "action": "정치와 사회 문제에 대한 관심을 높여야 함",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스는 산업 동향과 미래 전략을 이해하는 데 도움이 된다.",
-      "action": "기술 개발과 투자를 위한 전략을 수립한다.",
+      "insight": "최신 기술 뉴스와 트렌드",
+      "action": "기술과 혁신에 대한 투자를 증가시켜야 함",
       "priority": "medium"
     }
   ],
-  "narrative": "지방선거 결과와 기술 뉴스에 대한 관심이 높다. 정치와 사회에 대한 분석은 사업 전략을 수립하는 데 도움이 되며, 최신 기술 뉴스는 산업 동향과 미래 전략을 이해하는 데 도움이 된다. 중립적인 분위기와 다양한 의견이 나타나고 있다. 따라서 정치와 사회, 기술 개발 등 다양한 분야에서 사업 전략을 수립하고, 산업 동향을 주시하여 미래를 준비하는 것이 중요하다.",
-  "analyzed_at": "2026-06-03T16:30:34.291Z",
+  "narrative": "지방선거 결과에 대한 분석과 반응이 온라인 커뮤니티에서 큰 관심을 끌고 있습니다. 정치와 사회 문제에 대한 관심이 높아지고 있으며, 최신 기술 뉴스와 트렌드도 많은 관심을 받고 있습니다. 애플의 최신 제품과 기술에 대한 긍정적인 반응도 나타나고 있습니다. 이러한 트렌드와 감정을 분석하여, 정치와 사회 문제에 대한 관심을 높이고, 기술과 혁신에 대한 투자를 증가시켜야 합니다.",
+  "analyzed_at": "2026-06-03T18:00:33.856Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
