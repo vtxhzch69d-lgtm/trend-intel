@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "투표율",
-      "summary": "투표율이 높은만큼 지는 곳은 타격이 있겠네요. 13시 투표율 46%",
-      "post_count": 10,
+      "topic": "투표",
+      "summary": "최근 클리앙 커뮤니티에서 투표 관련 게시글이 많이 올라왔습니다. 투표율과 관련된 게시글이 주를 이루고 있습니다.",
+      "post_count": 15,
       "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "환율",
+      "summary": "환율에 대한 게시글이 많이 올라왔습니다. 환율의 영향을 기업이 달러를 안가져와서 그렇다고 생각하는 게시글이 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "반도체",
-      "summary": "ASML을 대체할 기술이 나올 수도 있다네요. 삼성전자, 8세대 HBM5 실물모형 첫 공개",
-      "post_count": 8,
+      "summary": "반도체 관련 뉴스가 많이 올라왔습니다. 삼성전자, LG디스플레이 등 주요 기업의 반도체 관련 소식이 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "자산시장양극화와 그로 인한 불평등이 극심한데. S&P, LG전자 신용등급 12년만에 상향",
-      "post_count": 6,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "투표율",
-      "count": 12,
+      "keyword": "투표",
+      "count": 20,
       "sentiment": "neutral",
-      "context": "투표율 관련 게시글"
+      "context": "최근 클리앙 커뮤니티에서 투표 관련 게시글이 많이 올라왔습니다."
+    },
+    {
+      "keyword": "환율",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "환율에 대한 게시글이 많이 올라왔습니다."
     },
     {
       "keyword": "반도체",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "반도체 기술 및 산업 관련 게시글"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "경제 관련 게시글"
+      "context": "반도체 관련 뉴스가 많이 올라왔습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "투표율이 높은 지역에서는 정치 관련 게시글이 많을 수 있다.",
-      "action": "지역별 정치 관련 게시글 분석",
+      "insight": "투표 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "투표 관련 캠페인을 진행할 수 있습니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "환율에 대한 게시글이 많이 올라오고 있습니다.",
+      "action": "환율에 대한 정보를 제공할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "반도체 기술은 빠르게 발전하고 있다.",
-      "action": "반도체 기술 및 산업 동향 분석",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 게시글은 부정적인 감정이 많다.",
-      "action": "경제 관련 게시글 감성 분석",
-      "priority": "medium"
+      "insight": "반도체 관련 뉴스가 많이 올라오고 있습니다.",
+      "action": "반도체 관련 제품을 출시할 수 있습니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드는 투표율, 반도체, 경제 등이다. 투표율 관련 게시글은 중립적인 감정을 가지고 있으며, 반도체 기술은 빠르게 발전하고 있다. 경제 관련 게시글은 부정적인 감정이 많다. 이러한 트렌드를 분석하여 지역별 정치 관련 게시글, 반도체 기술 및 산업 동향, 경제 관련 게시글 감성 분석 등을 수행할 수 있다.",
-  "analyzed_at": "2026-06-03T05:30:33.757Z",
-  "post_count": 62,
+  "narrative": "최근 클리앙 커뮤니티에서 투표 관련 게시글이 많이 올라왔습니다. 투표율과 관련된 게시글이 주를 이루고 있습니다. 또한, 환율에 대한 게시글이 많이 올라왔습니다. 환율의 영향을 기업이 달러를 안가져와서 그렇다고 생각하는 게시글이 있습니다. 반도체 관련 뉴스가 많이 올라왔습니다. 삼성전자, LG디스플레이 등 주요 기업의 반도체 관련 소식이 있습니다. 이러한 트렌드를 분석하여 마케팅 캠페인을 진행할 수 있습니다.",
+  "analyzed_at": "2026-06-03T07:00:34.693Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
