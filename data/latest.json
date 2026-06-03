@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "재보궐 선거",
-      "summary": "재보궐 선거 관련 게시글이 많습니다. 투표율과 선거 결과에 대한 관심이 높습니다.",
-      "post_count": 15,
+      "topic": "대구 선거",
+      "summary": "대구 선거 관련 게시글이 많으며, 김부겸 후보에 대한 지지와 대구의 정치적 상황에 대한 논의가 활발하다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 가전",
-      "summary": "신제품 출시와 기술 발전에 대한 관심이 높습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "보수정당과 극우화",
+      "summary": "보수정당과 극우화에 대한 논의가 있으며, 일부 사용자는 보수정당의 정책에 대한 비판과 극우화에 대한 우려를 표명한다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "생활 및 문화",
-      "summary": "생활과 문화 관련 게시글이 많습니다. 음악과 영화에 대한 관심이 높습니다.",
-      "post_count": 10,
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 제품 출시에 대한 게시글이 있으며, 사용자들은 새로운 기술과 제품에 대한 관심을 보인다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "재보궐 선거",
+      "keyword": "대구",
       "count": 15,
       "sentiment": "neutral",
-      "context": "투표율과 선거 결과에 대한 관심"
+      "context": "대구 선거와 정치적 상황에 대한 논의"
     },
     {
-      "keyword": "갤럭시Z 폴드8",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "신제품 출시"
+      "keyword": "보수정당",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "보수정당의 정책에 대한 비판과 극우화에 대한 우려"
     },
     {
-      "keyword": "에어컨",
-      "count": 2,
+      "keyword": "기술",
+      "count": 25,
       "sentiment": "positive",
-      "context": "생활과 문화"
+      "context": "최신 기술 뉴스와 제품 출시에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 5,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적이며, 일부 사용자는 보수정당에 대한 비판과 극우화에 대한 우려를 표명한다."
   },
   "business_insights": [
     {
-      "insight": "재보궐 선거에 대한 관심이 높습니다.",
-      "action": "관련 콘텐츠 제공",
+      "insight": "대구 선거와 정치적 상황에 대한 관심이 높다.",
+      "action": "대구 선거와 정치적 상황에 대한 분석과 보고서를 제공한다.",
       "priority": "high"
     },
     {
-      "insight": "신제품 출시와 기술 발전에 대한 관심이 높습니다.",
-      "action": "신제품 정보 제공",
+      "insight": "보수정당의 정책에 대한 비판과 극우화에 대한 우려가 존재한다.",
+      "action": "보수정당의 정책에 대한 분석과 보고서를 제공한다.",
       "priority": "medium"
     },
     {
-      "insight": "생활과 문화 관련 콘텐츠 제공",
-      "action": "생활과 문화 관련 콘텐츠 제공",
+      "insight": "최신 기술 뉴스와 제품 출시에 대한 관심이 높다.",
+      "action": "최신 기술 뉴스와 제품 출시에 대한 분석과 보고서를 제공한다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근 재보궐 선거에 대한 관심이 높습니다. 투표율과 선거 결과에 대한 관심이 높으며, 관련 콘텐츠 제공이 필요합니다. 또한, 신제품 출시와 기술 발전에 대한 관심이 높습니다. 신제품 정보 제공과 기술 발전 관련 콘텐츠 제공이 필요합니다. 생활과 문화 관련 콘텐츠 제공도 필요합니다. 중립적인 감정으로 전체적인 분위기는 중립적입니다.",
-  "analyzed_at": "2026-06-03T08:30:33.839Z",
-  "post_count": 61,
+  "narrative": "대구 선거와 정치적 상황에 대한 관심이 높으며, 일부 사용자는 보수정당에 대한 비판과 극우화에 대한 우려를 표명한다. 또한, 최신 기술 뉴스와 제품 출시에 대한 관심이 높다. 이러한 분석 결과를 바탕으로, 마케터는 대구 선거와 정치적 상황, 보수정당의 정책, 최신 기술 뉴스와 제품 출시에 대한 분석과 보고서를 제공할 수 있다. 이러한 보고서를 통해, 마케터는 사용자의 관심과 우려를 이해하고, 이를 바탕으로 효과적인 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-06-03T10:30:35.752Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
