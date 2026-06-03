@@ -1,60 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "지방선거",
-      "summary": "지방선거 결과에 대한 분석과 반응",
-      "post_count": 30,
+      "topic": "서울 선거 결과",
+      "summary": "서울 선거 결과에 대한 논의가 활발히 진행 중입니다. 일부 지역에서 당선된 후보자와 패배한 후보자에 대한 분석이 이루어지고 있습니다.",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
-      "sentiment": "neutral",
+      "topic": "이재명 대통령의 선거 결과 반응",
+      "summary": "이재명 대통령의 선거 결과에 대한 반응이 주목을 받고 있습니다. 일부 사용자는 대통령의 반응을 긍정적으로 평가하는 반면, 일부 사용자는 부정적으로 평가하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "부동산 영향",
+      "summary": "부동산 가격과 선거 결과의 상관관계에 대한 논의가 진행 중입니다. 일부 사용자는 부동산 가격이 선거 결과에 영향을 미쳤다고 주장하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "지방선거",
+      "keyword": "서울",
       "count": 30,
-      "sentiment": "mixed",
-      "context": "지방선거 결과에 대한 분석과 반응"
-    },
-    {
-      "keyword": "테크",
-      "count": 20,
       "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 트렌드"
+      "context": "서울 선거 결과에 대한 논의"
     },
     {
-      "keyword": "애플",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "애플의 최신 제품과 기술"
+      "keyword": "이재명",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 선거 결과 반응"
+    },
+    {
+      "keyword": "부동산",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "부동산 가격과 선거 결과의 상관관계"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "복합적인 감정"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "지방선거 결과에 대한 분석과 반응",
-      "action": "정치와 사회 문제에 대한 관심을 높여야 함",
+      "insight": "서울 선거 결과에 대한 분석",
+      "action": "서울 지역의 선거 결과를 분석하여 향후 선거 전략을 수립하는 데 활용",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 트렌드",
-      "action": "기술과 혁신에 대한 투자를 증가시켜야 함",
+      "insight": "이재명 대통령의 선거 결과 반응",
+      "action": "이재명 대통령의 선거 결과 반응을 분석하여 향후 정치 전략을 수립하는 데 활용",
       "priority": "medium"
+    },
+    {
+      "insight": "부동산 영향",
+      "action": "부동산 가격과 선거 결과의 상관관계를 분석하여 향후 부동산 전략을 수립하는 데 활용",
+      "priority": "low"
     }
   ],
-  "narrative": "지방선거 결과에 대한 분석과 반응이 온라인 커뮤니티에서 큰 관심을 끌고 있습니다. 정치와 사회 문제에 대한 관심이 높아지고 있으며, 최신 기술 뉴스와 트렌드도 많은 관심을 받고 있습니다. 애플의 최신 제품과 기술에 대한 긍정적인 반응도 나타나고 있습니다. 이러한 트렌드와 감정을 분석하여, 정치와 사회 문제에 대한 관심을 높이고, 기술과 혁신에 대한 투자를 증가시켜야 합니다.",
-  "analyzed_at": "2026-06-03T18:00:33.856Z",
+  "narrative": "최근 서울 선거 결과에 대한 논의가 활발히 진행 중입니다. 일부 지역에서 당선된 후보자와 패배한 후보자에 대한 분석이 이루어지고 있습니다. 이재명 대통령의 선거 결과 반응도 주목을 받고 있습니다. 일부 사용자는 대통령의 반응을 긍정적으로 평가하는 반면, 일부 사용자는 부정적으로 평가하고 있습니다. 또한, 부동산 가격과 선거 결과의 상관관계에 대한 논의가 진행 중입니다. 일부 사용자는 부동산 가격이 선거 결과에 영향을 미쳤다고 주장하고 있습니다. 이러한 논의는 향후 선거 전략과 정치 전략을 수립하는 데 중요한 역할을 할 것입니다.",
+  "analyzed_at": "2026-06-03T19:30:34.823Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
