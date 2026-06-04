@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용에 대한 관심이 높아지고 있다. 특히, AI 이미지 검열과 관련된 뉴스가 많이 보도되고 있다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치",
-      "summary": "最近의 선거와 관련된 뉴스가 많다. 특히, 서울 시장 선거와 관련된 뉴스가 많이 보도되고 있다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "summary": "최근 선거 이후 민주당의 문제점과 서울 민심에 대한 논의가 활발하다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "신기술과 관련된 뉴스가 많다. 특히, OLED 모니터와 관련된 뉴스가 많이 보도되고 있다.",
-      "post_count": 6,
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "환율과 경제 상황에 대한 우려가 나타나고 있다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 적용에 대한 관심"
-    },
-    {
-      "keyword": "서울 시장",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "最近의 선거와 관련된 뉴스"
-    },
-    {
-      "keyword": "OLED",
-      "count": 5,
+      "count": 20,
       "sentiment": "positive",
-      "context": "신기술과 관련된 뉴스"
+      "context": "기술 발전과 응용"
+    },
+    {
+      "keyword": "서울",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "민심과 정치"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "환율과 상황"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 30,
+    "negative": 40,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "부정적인 감정과 우려가 많다"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용에 대한 관심이 높아지고 있다.",
-      "action": "AI 기술에 대한 투자와 연구를 강화해야 한다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 ứng용을 연구한다.",
       "priority": "high"
     },
     {
-      "insight": "最近의 선거와 관련된 뉴스가 많다.",
-      "action": "정치와 관련된 뉴스를 주시해야 한다.",
+      "insight": "경제 상황과 환율의 변동은 기업의 전략에 영향을 미칠 수 있다.",
+      "action": "경제 상황과 환율의 변동을 주시하고 전략을 조정한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "신기술과 관련된 뉴스가 많다.",
-      "action": "신기술에 대한 연구와 개발을 강화해야 한다.",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 뉴스 트렌드는 AI 기술, 정치, 기술 등 다양한 주제를 다루고 있다. 특히, AI 기술의 발전과 적용에 대한 관심이 높아지고 있으며, 최근의 선거와 관련된 뉴스가 많다. 또한, 신기술과 관련된 뉴스가 많아지고 있다. 이러한 트렌드를 분석하여, AI 기술에 대한 투자와 연구를 강화하고, 정치와 관련된 뉴스를 주시하며, 신기술에 대한 연구와 개발을 강화해야 한다.",
-  "analyzed_at": "2026-06-04T14:00:34.072Z",
+  "narrative": "최근 정치, 기술, 경제 등 다양한 주제에 대한 논의가 활발하다. 특히 AI 기술의 발전과 그 응용에 대한 관심이 높다. 그러나 경제 상황과 환율의 변동에 대한 우려도 나타나고 있다. 이러한 상황을 주시하고 전략을 조정하는 것이 중요하다. 또한 AI 기술의 발전을 주시하고 응용을 연구하는 것이 필요하다.",
+  "analyzed_at": "2026-06-04T15:30:34.064Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
