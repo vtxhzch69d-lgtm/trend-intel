@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련된 게시글이 많이 올라왔습니다. 특히 한동훈의 복당 가능성과 검열법에 대한 논의가 많았습니다.",
-      "post_count": 15,
-      "sentiment": "negative",
+      "topic": "정치 및 사회",
+      "summary": "최근의 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 선거와 관련된 뉴스 및 정치인에 대한 논란이 많습니다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련된 게시글도 많았습니다. 특히 환율과 주가의 변동, 기업의 뉴스 등이 주목을 받았습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 발전이 많은 관심을 받고 있습니다. 특히, AI 및 로봇 기술에 대한 논의가 많습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련된 게시글도 많았습니다. 특히 AI와 관련된 뉴스, OLED 모니터의 등장 등이 주목을 받았습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제 및 금융",
+      "summary": "최근의 경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 환율과 관련된 뉴스 및 경제 정책에 대한 논의가 많습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "한동훈",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "복당 가능성에 대한 논의"
-    },
-    {
-      "keyword": "검열법",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "검열법에 대한 논의"
+      "keyword": "선거",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "최근의 선거와 관련된 뉴스 및 논란"
     },
     {
       "keyword": "AI",
-      "count": 6,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI와 관련된 뉴스"
+      "context": "최신 AI 기술 및 발전"
+    },
+    {
+      "keyword": "환율",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "최근의 환율과 관련된 뉴스 및 경제 정책"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "정치 관련된 게시글이 많아 정치적인이슈에 대한 대응이 필요합니다.",
-      "action": "정치적인이슈에 대한 대응을 준비합니다.",
+      "insight": "최근의 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
+      "action": "관련 뉴스와 이슈를 모니터링하고, 이를 통해 고객의 관심과需求을 파악",
       "priority": "high"
     },
     {
-      "insight": "경제 관련된 게시글이 많아 경제적인이슈에 대한 대응이 필요합니다.",
-      "action": "경제적인이슈에 대한 대응을 준비합니다.",
+      "insight": "최신 기술 및 과학 관련 뉴스와 발전이 많은 관심을 받고 있습니다.",
+      "action": "관련 기술과 과학에 대한 연구와 개발을 진행",
       "priority": "medium"
+    },
+    {
+      "insight": "최근의 경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
+      "action": "관련 경제 정책과 금융 뉴스를 모니터링하고, 이를 통해 고객의 관심과需求을 파악",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 정치 관련된 게시글이 많이 올라왔습니다. 특히 한동훈의 복당 가능성과 검열법에 대한 논의가 많았습니다. 또한 경제 관련된 게시글도 많았습니다. 특히 환율과 주가의 변동, 기업의 뉴스 등이 주목을 받았습니다. 기술 관련된 게시글도 많았습니다. 특히 AI와 관련된 뉴스, OLED 모니터의 등장 등이 주목을 받았습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-04T09:30:33.746Z",
-  "post_count": 61,
+  "narrative": "최근의 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 선거와 관련된 뉴스 및 정치인에 대한 논란이 많습니다. 또한, 최신 기술 및 과학 관련 뉴스와 발전이 많은 관심을 받고 있습니다. 특히, AI 및 로봇 기술에 대한 논의가 많습니다. 그러나, 최근의 경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 환율과 관련된 뉴스 및 경제 정책에 대한 논의가 많습니다. 이러한 트렌드와 인사이트를 통해, 고객의 관심과需求을 파악하고, 이를 통해 비즈니스 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-04T11:00:33.796Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
