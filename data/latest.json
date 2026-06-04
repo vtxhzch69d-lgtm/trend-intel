@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "오세훈 서울시장 선거",
-      "summary": "오세훈이 서울시장 선거에서 승리한 것으로 나타났으며, 이는 많은 사람들이 예상하지 못한 결과였다. 선거 결과에 대한 다양한 반응과 분석이 나타나고 있다.",
-      "post_count": 20,
+      "topic": "서울시장 선거",
+      "summary": "서울시장 선거 결과에 대한 분석과 의견이 분분하다. 오세훈 캠프의 장동혁이 파산한 것으로 밝혀졌으며, 서울시장 선거 결과에 대한 다양한 의견이 나왔다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "정치 및 선거 관련 게시글이 많으며, 다양한 정치적 의견과 분석이 나타나고 있다. 특히, 오세훈의 선거 승리와 관련된 주제가 많이 обсужд되고 있다.",
-      "post_count": 30,
-      "sentiment": "mixed",
+      "topic": "부동산 가격",
+      "summary": "부동산 가격에 대한 논의가 많다. 서울시장 선거 결과와 부동산 가격의 상관관계에 대한 의견이 나왔다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "기술 및 산업 관련 게시글이 많으며, 다양한 기술적 발전과 산업 동향이 소개되고 있다. 특히, OLED 모니터와 관련된 주제가 많이 обсужд되고 있다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 뉴스와 개발이 많다. NVIDIA의 새로운 기술과 한국에서의 AI 총회가 열린다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "오세훈",
-      "count": 25,
+      "keyword": "서울시장 선거",
+      "count": 20,
       "sentiment": "mixed",
-      "context": "서울시장 선거 결과와 관련된 주제"
+      "context": "서울시장 선거 결과에 대한 분석과 의견"
     },
     {
-      "keyword": "서울시장",
+      "keyword": "부동산 가격",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "부동산 가격에 대한 논의"
+    },
+    {
+      "keyword": "AI 기술",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "서울시장 선거 결과와 관련된 주제"
-    },
-    {
-      "keyword": "OLED",
-      "count": 10,
       "sentiment": "positive",
-      "context": "기술 및 산업 관련 주제"
+      "context": "AI 기술에 대한 뉴스와 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
+    "negative": 25,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "오세훈의 선거 승리는 정치적 불확실성을 증가시킬 수 있다.",
-      "action": "정치적 불확실성에 대한 대응 전략 수립",
+      "insight": "서울시장 선거 결과에 대한 분석이 중요하다",
+      "action": "서울시장 선거 결과에 대한 분석을 진행한다",
       "priority": "high"
     },
     {
-      "insight": "OLED 기술은 산업에서 중요하게 부각되고 있다.",
-      "action": "OLED 기술에 대한 투자 및 연구 개발",
+      "insight": "부동산 가격에 대한 논의가 많다",
+      "action": "부동산 가격에 대한 분석을 진행한다",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술에 대한 개발이 중요하다",
+      "action": "AI 기술에 대한 개발을 지원한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 정치적 상황과 기술적 발전이 사회에 미치는 영향에 대한 분석이다. 오세훈의 선거 승리는 정치적 불확실성을 증가시킬 수 있으며, OLED 기술은 산업에서 중요하게 부각되고 있다. 이러한 상황에 대응하기 위한 전략 수립과 투자 및 연구 개발이 필요하다.",
-  "analyzed_at": "2026-06-04T01:30:34.090Z",
+  "narrative": "최근의 서울시장 선거 결과에 대한 분석과 의견이 분분하다. 오세훈 캠프의 장동혁이 파산한 것으로 밝혀졌으며, 서울시장 선거 결과에 대한 다양한 의견이 나왔다. 또한, 부동산 가격에 대한 논의가 많다. 서울시장 선거 결과와 부동산 가격의 상관관계에 대한 의견이 나왔다. 마지막으로, AI 기술에 대한 뉴스와 개발이 많다. NVIDIA의 새로운 기술과 한국에서의 AI 총회가 열린다. 이러한 트렌드와 키워드를 분석하여, 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-06-04T03:00:34.047Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
