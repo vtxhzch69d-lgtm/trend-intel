@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "투표용지 사태",
-      "summary": "투표용지 사태 관련 게시물이 많은 것으로 나타났습니다. 클리앙 커뮤니티에서 특히 많은 게시물이 작성되었습니다.",
-      "post_count": 15,
+      "topic": "주식 시장",
+      "summary": "최근 주식 시장의 폭락과 관련된 게시글이 많습니다. 투자자들이 주의해야 할 상황입니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "환율 문제",
-      "summary": "환율 문제 관련 게시물이 많이 작성되었습니다. 특히 경제적인 영향을 받을 수 있는 게시물이 많았습니다.",
+      "topic": "투표용지 사건",
+      "summary": "투표용지 사건과 관련된 게시글이 많습니다. 정치적인 상황이 불안정합니다.",
       "post_count": 8,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술 관련 게시물이 많이 작성되었습니다. 특히 기술적인 측면에서 많은 게시물이 작성되었습니다.",
-      "post_count": 10,
+      "summary": "AI 기술과 관련된 게시글이 많습니다. 기술 발전과 관련된 관심이 높습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "투표용지",
+      "keyword": "주식",
       "count": 20,
       "sentiment": "negative",
-      "context": "투표용지 사태 관련 게시물에서 많이 사용되었습니다."
+      "context": "주식 시장의 폭락과 관련된 게시글"
     },
     {
-      "keyword": "환율",
+      "keyword": "투표용지",
       "count": 15,
       "sentiment": "negative",
-      "context": "환율 문제 관련 게시물에서 많이 사용되었습니다."
+      "context": "투표용지 사건과 관련된 게시글"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술 관련 게시물에서 많이 사용되었습니다."
+      "context": "AI 기술과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 40,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정으로 나타났습니다."
+    "neutral": 30,
+    "overall_mood": "부정적인 기분이 강합니다."
   },
   "business_insights": [
     {
-      "insight": "투표용지 사태와 환율 문제는 소비자의 불안감을 높일 수 있습니다.",
-      "action": "마케팅 전략을 조정하여 소비자의 불안감을 줄일 수 있습니다.",
+      "insight": "주식 시장의 불안정성",
+      "action": "투자자들에게 주의를 권고합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 소비자의 관심을 끌 수 있습니다.",
-      "action": "AI 기술 관련 제품이나 서비스를 개발하여 소비자의 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 기회를 모색합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티와 뽐뿌 커뮤니티에서 투표용지 사태와 환율 문제가 많은 논란을 일으켰습니다. 특히 투표용지 사태는 소비자의 불안감을 높일 수 있습니다. 따라서 마케팅 전략을 조정하여 소비자의 불안감을 줄일 수 있습니다. 또한 AI 기술은 소비자의 관심을 끌 수 있습니다. 따라서 AI 기술 관련 제품이나 서비스를 개발하여 소비자의 관심을 끌 수 있습니다. 이러한 분석을 통해 마케터는 소비자의需求을 이해하고 효과적인 마케팅 전략을 개발할 수 있습니다.",
-  "analyzed_at": "2026-06-05T18:30:34.571Z",
+  "narrative": "최근의 트렌드는 주식 시장의 폭락과 투표용지 사건으로 인한 정치적인 불안정성입니다. 그러나 AI 기술의 발전은 비즈니스 기회를 모색할 수 있는 분야입니다. 따라서 투자자들에게 주의를 권고하고, AI 기술을 활용한 비즈니스 기회를 모색하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-05T20:00:33.504Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
