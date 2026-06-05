@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "부정선거 시위, 젠슨 황의 스마트폰 터치 방법, 안철수 이준석 한동훈의 활동 등 정치 및 사회 관련 주제가 트렌딩",
+      "topic": "서울 선거 결과",
+      "summary": "서울 선거 결과에 대한 다양한 의견과 분석이 나타나고 있습니다. 일부 사용자는 선거 결과를 긍정적으로 평가하는 반면, 다른 사용자는 부정적인 의견을 나타내고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI 기술, 반도체 성과, 디스플레이HDR 1000 트루 블랙 패널 등 기술 및 과학 관련 주제가 트렌딩",
-      "post_count": 20,
+      "topic": "젠슨 황의 방문",
+      "summary": "젠슨 황의 한국 방문과 관련된 다양한 뉴스와 의견이 나타나고 있습니다. 일부 사용자는 젠슨 황의 방문에 대한 긍정적인 의견을 나타내고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "삼성전자, 현대차그룹, 스페이스X 등 경제 및 산업 관련 주제가 트렌딩",
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 다양한 뉴스와 의견이 나타나고 있습니다. 일부 사용자는 AI 기술의 발전에 대한 긍정적인 의견을 나타내고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "keyword": "서울 선거",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "서울 선거 결과에 대한 다양한 의견과 분석"
     },
     {
       "keyword": "젠슨 황",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "젠슨 황의 스마트폰 터치 방법과 관련된 포스트"
+      "sentiment": "positive",
+      "context": "젠슨 황의 한국 방문과 관련된 뉴스와 의견"
     },
     {
-      "keyword": "부정선거",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "부정선거 시위와 관련된 포스트"
+      "keyword": "AI 기술",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "복합적인 감정"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "서울 선거 결과에 대한 다양한 의견과 분석이 나타나고 있습니다.",
+      "action": "서울 선거 결과에 대한 더 많은 분석과 의견을 수집하여 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": " 젠슨 황의 스마트폰 터치 방법",
-      "action": " 젠슨 황의 마케팅 전략 개발",
+      "insight": "젠슨 황의 한국 방문과 관련된 뉴스와 의견이 나타나고 있습니다.",
+      "action": "젠슨 황의 방문과 관련된 뉴스와 의견을 수집하여 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "부정선거 시위",
-      "action": "정치 및 사회 관련 비즈니스 모델 개발",
-      "priority": "low"
+      "insight": "AI 기술과 관련된 뉴스와 의견이 나타나고 있습니다.",
+      "action": "AI 기술과 관련된 뉴스와 의견을 수집하여 마케팅 전략을 수립해야 합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 및 사회, 기술 및 과학, 경제 및 산업 등 다양한 주제를 포함하고 있습니다. AI 기술의 발전과 적용, 젠슨 황의 스마트폰 터치 방법, 부정선거 시위 등이 주요 키워드로 나타나고 있습니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개발하고 마케팅 전략을 수립할 수 있습니다. 또한, AI 기술을 활용한 비즈니스 모델 개발, 젠슨 황의 마케팅 전략 개발, 정치 및 사회 관련 비즈니스 모델 개발 등이 주요 인사이트로 나타나고 있습니다.",
-  "analyzed_at": "2026-06-05T11:00:33.921Z",
-  "post_count": 62,
+  "narrative": "서울 선거 결과에 대한 다양한 의견과 분석이 나타나고 있습니다. 젠슨 황의 한국 방문과 관련된 뉴스와 의견도 나타나고 있습니다. AI 기술과 관련된 뉴스와 의견도 나타나고 있습니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립해야 합니다. 중립적인 분위기가 나타나고 있지만, 일부 사용자는 긍정적인 의견을 나타내고 있습니다. 따라서 마케팅 전략을 수립할 때 이러한 트렌드와 키워드를 고려해야 합니다.",
+  "analyzed_at": "2026-06-05T12:30:33.844Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
