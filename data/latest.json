@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "서울시장 선거",
-      "summary": "서울시장 선거 결과와 관련된 논의가 활발하게 진행 중이다. 오세훈의 당선과 관련된 다양한 의견이 존재한다.",
-      "post_count": 10,
+      "topic": "한국 정치",
+      "summary": "최근 한국의 정치 상황에 대한 논의가 활발하다. 선거 결과와 관련된 다양한 의견이 존재한다.",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 하락과 관련된 우려가 존재한다. 다양한 주식 관련 뉴스와 분석이 진행 중이다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "인공지능 기술의 발전과 관련된 뉴스와 논의가 증가하고 있다. 다양한 기업과 정부의 AI 관련 사업이 소개된다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련된 뉴스와 개발이 활발하게 진행 중이다. 다양한 기업과 기관이 AI 기술을 개발하고 적용하고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 산업",
+      "summary": "한국의 경제와 산업 동향에 대한 논의가 존재한다. 기업의 뉴스와 기술 개발이 소개된다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "오세훈",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "서울시장 선거 결과와 관련된 논의"
+      "keyword": "한국 정치",
+      "count": 25,
+      "sentiment": "mixed",
+      "context": "선거 결과와 관련된 논의"
     },
     {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "주식 시장의 하락과 관련된 우려"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "AI 기술",
+      "count": 20,
       "sentiment": "positive",
-      "context": "최신 AI 기술과 관련된 뉴스와 개발"
+      "context": "인공지능 기술의 발전"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "한국의 경제 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "서울시장 선거 결과는 다양한 산업과 시장에 영향을 미칠 수 있다.",
-      "action": "관련 산업과 시장의 동향을 주시하고 대응策을 마련한다.",
+      "insight": "한국 정치 상황의 불안정성",
+      "action": "정치 상황을 주시하고 대응 전략을 수립한다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 하락은 투자자와 기업에 영향을 미칠 수 있다.",
-      "action": "투자자와 기업은 주식 시장의 동향을 주시하고 투자 전략을 조정한다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 도입하고 적용한다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업과 시장에 기회를 제공할 수 있다.",
-      "action": "기업과 기관은 AI 기술을 개발하고 적용하여 경쟁력을 높인다.",
+      "insight": "경제 및 산업 동향",
+      "action": "경제 및 산업 동향을 분석하고 대응한다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 감정 분석 결과, 서울시장 선거와 주식 시장의 하락이 주요하게 논의되고 있다. 또한, AI 기술의 발전과 관련된 뉴스와 개발이 활발하게 진행 중이다. 이러한 트렌드와 감정은 다양한 산업과 시장에 영향을 미칠 수 있으므로, 관련 산업과 시장의 동향을 주시하고 대응策을 마련하는 것이 중요하다. 또한, 기업과 기관은 AI 기술을 개발하고 적용하여 경쟁력을 높이는 것을 고려해야 한다.",
-  "analyzed_at": "2026-06-05T00:30:34.460Z",
-  "post_count": 62,
+  "narrative": "최근 한국의 정치 상황은 불안정하다. 선거 결과와 관련된 다양한 의견이 존재한다. 인공지능 기술의 발전은 다양한 기업과 정부의 사업을 소개한다. 한국의 경제와 산업 동향에 대한 논의도 존재한다. 이러한 상황을 고려하여 기업은 정치 상황을 주시하고 대응 전략을 수립해야 하며, AI 기술을 도입하고 적용해야 한다. 또한 경제 및 산업 동향을 분석하고 대응해야 한다.",
+  "analyzed_at": "2026-06-05T02:00:33.909Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
