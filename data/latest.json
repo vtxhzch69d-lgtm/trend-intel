@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근의 선거 결과와 관련된 논의가 많습니다. 투표용지 부족과 선거 결과에 대한 분석이 주를 이루고 있습니다.",
+      "topic": "정치 및 선거",
+      "summary": "최근의 선거와 정치 관련된 주제가 많은 관심을 받고 있습니다. 부정선거 논란과 선거용지 부족 등의 문제가 논의되고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 뉴스가 많이 등장하고 있습니다. 엔비디아의 연구센터 설립과 AI 칩 개발이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "AI 및 기술",
+      "summary": "AI와 기술 관련된 주제가 많은 관심을 받고 있습니다. AI의 발전과 기술의 진보가 논의되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "주식 시장과 경제 관련 뉴스가 있습니다. 주식 가격의 변동과 기업의 뉴스가 주를 이루고 있습니다.",
-      "post_count": 8,
+      "topic": "경제 및 산업",
+      "summary": "경제와 산업 관련된 주제가 많은 관심을 받고 있습니다. 기업의 성과와 산업의 동향이 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 개발과 연구에 대한 관심"
+      "context": "AI의 발전과 기술의 진보"
     },
     {
       "keyword": "선거",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "투표용지 부족과 선거 결과에 대한 논의"
+      "count": 8,
+      "sentiment": "negative",
+      "context": "부정선거 논란과 선거용지 부족"
     },
     {
-      "keyword": "주식",
-      "count": 8,
+      "keyword": "경제",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "주식 시장의 변동과 경제 뉴스"
+      "context": "기업의 성과와 산업의 동향"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발에 대한 투자",
-      "action": "연구센터 설립과 기술 개발에 대한 투자",
+      "insight": "AI와 기술의 발전이 산업의 성장에 기여할 수 있습니다.",
+      "action": "AI와 기술의 발전을 지원하고 투자할 것",
       "priority": "high"
     },
     {
-      "insight": "경제와 주식 시장의 변동",
-      "action": "주식 시장의 변동과 경제 뉴스를 주시",
+      "insight": "부정선거 논란과 선거용지 부족 등의 문제가 사회적 안정을 위협할 수 있습니다.",
+      "action": "선거와 정치 관련된 문제를 해결하고 개선할 것",
       "priority": "medium"
+    },
+    {
+      "insight": "경제와 산업의 성과가 사회적 안정과 성장에 기여할 수 있습니다.",
+      "action": "경제와 산업의 성과를 지원하고 발전시킬 것",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치, 기술, 경제 등 다양한 주제를 다루고 있습니다. AI와 관련된 기술 뉴스가 많이 등장하고 있으며, 선거 결과와 관련된 논의도 많습니다. 주식 시장과 경제 관련 뉴스도 주를 이루고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-05T08:00:34.215Z",
+  "narrative": "최근의 정치 및 선거 관련된 주제가 많은 관심을 받고 있습니다. 부정선거 논란과 선거용지 부족 등의 문제가 논의되고 있습니다. 또한, AI와 기술 관련된 주제가 많은 관심을 받고 있습니다. AI의 발전과 기술의 진보가 논의되고 있습니다. 경제와 산업 관련된 주제도 많은 관심을 받고 있습니다. 기업의 성과와 산업의 동향이 논의되고 있습니다. 이러한 주제들은 사회적 안정과 성장에 기여할 수 있습니다. 따라서, 이러한 주제들을 지원하고 발전시킬 필요가 있습니다.",
+  "analyzed_at": "2026-06-05T09:30:33.804Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
