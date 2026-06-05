@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "최근 주식 시장의 폭락과 관련된 게시글이 많습니다. 투자자들이 주의해야 할 상황입니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "투표용지 사건",
-      "summary": "투표용지 사건과 관련된 게시글이 많습니다. 정치적인 상황이 불안정합니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 게시글이 많습니다. 기술 발전과 관련된 관심이 높습니다.",
+      "summary": "주식 시장의 폭락과 관련된 게시글이 많습니다. 투자자들의 우려와 함께 주식 시장의 상황을 분석하는 게시글이 많습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많습니다. 대통령 지지율과 관련된 게시글이 있으며, 정치적인 상황을 분석하는 게시글도 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "기술 관련된 게시글이 많습니다. AI와 관련된 게시글이 있으며, 기술적인 상황을 분석하는 게시글도 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -30,38 +30,43 @@
       "context": "주식 시장의 폭락과 관련된 게시글"
     },
     {
-      "keyword": "투표용지",
+      "keyword": "정치",
       "count": 15,
-      "sentiment": "negative",
-      "context": "투표용지 사건과 관련된 게시글"
+      "sentiment": "mixed",
+      "context": "정치 관련된 게시글"
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 게시글"
+      "context": "기술 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 기분이 강합니다."
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "부정적인 감정의 게시글이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "투자자들에게 주의를 권고합니다.",
+      "insight": "주식 시장의 폭락은 투자자들에게 큰 영향을 미칩니다.",
+      "action": "투자자들에게 주식 시장의 상황을 분석하고, 투자 전략을 조정하는 것이 필요합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 기회를 모색합니다.",
+      "insight": "정치적인 상황은 경제와 사회에 큰 영향을 미칩니다.",
+      "action": "정치적인 상황을 분석하고, 그에 따른 전략을 수립하는 것이 필요합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "기술의 발전은 새로운 기회를 창출합니다.",
+      "action": "기술의 발전을 분석하고, 그에 따른 기회를 활용하는 것이 필요합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 주식 시장의 폭락과 투표용지 사건으로 인한 정치적인 불안정성입니다. 그러나 AI 기술의 발전은 비즈니스 기회를 모색할 수 있는 분야입니다. 따라서 투자자들에게 주의를 권고하고, AI 기술을 활용한 비즈니스 기회를 모색하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-05T20:00:33.504Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 폭락과 정치적인 상황이 큰 영향을 미치고 있습니다. 투자자들에게 주식 시장의 상황을 분석하고, 투자 전략을 조정하는 것이 필요합니다. 또한, 정치적인 상황을 분석하고, 그에 따른 전략을 수립하는 것이 필요합니다. 기술의 발전은 새로운 기회를 창출하며, 그에 따른 기회를 활용하는 것이 필요합니다. 이러한 트렌드 분석 결과를 바탕으로, 마케터들은 효과적인 전략을 수립하고, 고객들의需求을 충족시킬 수 있습니다.",
+  "analyzed_at": "2026-06-05T21:30:33.866Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
