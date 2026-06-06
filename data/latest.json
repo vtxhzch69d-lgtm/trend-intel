@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "친석계",
-      "summary": "친석계에 대한 논란과 반응",
-      "post_count": 15,
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 선거 관련된 주제가 많은 관심을 받고 있습니다. 특히, 재선거와 관련된 시위 및 논란이 많습니다.",
+      "post_count": 20,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "서울시장 선거",
-      "summary": "서울시장 선거 결과와 반응",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 발표가 많은 관심을 받고 있습니다. 특히, AI와 관련된 기술이 주목을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발과 적용",
+      "topic": "경제",
+      "summary": "경제 뉴스와 금융 관련된 주제가 많은 관심을 받고 있습니다. 특히, 금리 인상과 관련된 논란이 많습니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "친석계",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "친석계에 대한 비판"
-    },
-    {
-      "keyword": "서울시장",
+      "keyword": "재선거",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "서울시장 선거 결과"
+      "sentiment": "negative",
+      "context": "재선거와 관련된 시위 및 논란"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 AI 기술 개발"
+      "context": "최신 기술 뉴스와 제품 발표"
+    },
+    {
+      "keyword": "금리 인상",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "경제 뉴스와 금융 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 30,
     "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "친석계에 대한 논란이 높아지고 있다",
-      "action": "친석계에 대한 대응 전략 수립",
+      "insight": "정치와 경제 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 개발이 활발하게 진행되고 있다",
-      "action": "AI 기술 개발에 대한 투자와 연구",
+      "insight": "최신 기술 뉴스와 제품 발표가 많은 관심을 받고 있습니다.",
+      "action": "최신 기술 트렌드에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 친석계에 대한 논란이 높아지고 있다. 친석계에 대한 비판과 반발이 많다. 또한, 서울시장 선거 결과와 관련된 게시글도 많다. 반면, AI 기술 개발과 관련된 게시글도 많으며, 최신 기술 개발과 적용에 대한 관심이 높다. 이러한 트렌드를 고려하여, 친석계에 대한 대응 전략을 수립하고, AI 기술 개발에 대한 투자와 연구를 진행할 필요가 있다.",
-  "analyzed_at": "2026-06-06T02:00:33.458Z",
+  "narrative": "最近의 정치 뉴스와 선거 관련된 주제가 많은 관심을 받고 있습니다. 특히, 재선거와 관련된 시위 및 논란이 많습니다. 또한, 최신 기술 뉴스와 제품 발표가 많은 관심을 받고 있습니다. 특히, AI와 관련된 기술이 주목을 받고 있습니다. 경제 뉴스와 금융 관련된 주제도 많은 관심을 받고 있습니다. 특히, 금리 인상과 관련된 논란이 많습니다. 이러한 트렌드를 고려하여 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-06T03:30:33.703Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
