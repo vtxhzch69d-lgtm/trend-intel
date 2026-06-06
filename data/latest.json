@@ -1,60 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "시위와 선거",
-      "summary": "최근 클리앙 커뮤니티에서 시위와 선거 관련 게시글이 많이 올라왔습니다. 사용자들은 선거 결과에 대한 불만과 시위의 적절성에 대해 논쟁을 벌이고 있습니다.",
+      "topic": "지방선거",
+      "summary": "지방선거 결과와 관련된 논쟁 및 분석",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술과 산업",
-      "summary": "클리앙 커뮤니티에서 기술과 산업 관련 게시글도 많이 올라왔습니다. 사용자들은 새로운 기술과 산업 동향에 대해 관심을 보이고 있습니다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스 및 논의",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "스페이스X",
+      "summary": "스페이스X의 상장 및 관련 뉴스",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "시위",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "시위와 선거 관련 게시글에서 많이 언급되었습니다."
-    },
-    {
-      "keyword": "선거",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "시위와 선거 관련 게시글에서 많이 언급되었습니다."
+      "keyword": "지방선거",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "지방선거 결과와 관련된 논쟁"
     },
     {
       "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 뉴스"
+    },
+    {
+      "keyword": "스페이스X",
       "count": 5,
       "sentiment": "positive",
-      "context": "기술과 산업 관련 게시글에서 많이 언급되었습니다."
+      "context": "스페이스X의 상장 및 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 강합니다."
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 논쟁적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "시위와 선거 관련 게시글이 많이 올라오고 있습니다.",
-      "action": "시위와 선거 관련된 마케팅 캠페인을 진행할 수 있습니다.",
+      "insight": "지방선거 결과는 정치 및 경제에 큰 영향을 미칠 수 있다",
+      "action": "관련 뉴스 및 분석을 주시하고 대응 전략을 수립해야 한다",
       "priority": "high"
     },
     {
-      "insight": "기술과 산업 관련 게시글이 많이 올라오고 있습니다.",
-      "action": "기술과 산업 관련된 마케팅 캠페인을 진행할 수 있습니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 기회를 제공할 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발하고 투자해야 한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 시위와 선거 관련 게시글이 많이 올라왔습니다. 사용자들은 선거 결과에 대한 불만과 시위의 적절성에 대해 논쟁을 벌이고 있습니다. 또한 기술과 산업 관련 게시글도 많이 올라왔습니다. 사용자들은 새로운 기술과 산업 동향에 대해 관심을 보이고 있습니다. 이러한 트렌드를 고려하여 마케팅 캠페인을 진행할 수 있습니다. 시위와 선거 관련된 마케팅 캠페인을 진행할 수 있습니다. 또한 기술과 산업 관련된 마케팅 캠페인을 진행할 수 있습니다. 그러나 부정적인 감정이 강하므로 마케팅 캠페인의 톤과 메시지를 신중하게 고려해야 합니다.",
-  "analyzed_at": "2026-06-06T22:00:33.655Z",
+  "narrative": "지방선거 결과와 관련된 논쟁 및 분석이 커뮤니티에서 큰 관심을 끌고 있다. 또한 AI 기술의 발전과 관련된 뉴스 및 논의도 많은 관심을 받고 있다. 이러한 트렌드에 따라 관련 뉴스 및 분석을 주시하고 대응 전략을 수립하는 것이 중요하다. 또한 AI 기술을 활용한 새로운 비즈니스 모델을 개발하고 투자하는 것이 미래의 성장 동력으로 작용할 수 있다.",
+  "analyzed_at": "2026-06-06T23:30:33.588Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
