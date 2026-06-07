@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "한성숙 국무총리 임명",
-      "summary": "최근 클리앙 커뮤니티에서 한성숙 국무총리 임명에 대한 논의가 활발히 진행되고 있습니다. 일부 사용자는 임명에 대한 지지와 비판을 나타내고 있습니다.",
+      "topic": "재선거",
+      "summary": "재선거 관련 게시물이 많이 올라왔으며, 일부 사용자는 재선거의 가능성을 높게 평가하고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "부실선거와 재선거",
-      "summary": "클리앙 커뮤니티에서 부실선거와 재선거에 대한 논의가 진행되고 있습니다. 일부 사용자는 재선거를 주장하며, 다른 사용자는 부실선거의 책임을 묻고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술과 산업",
-      "summary": "클리앙 커뮤니티에서 AI 기술과 산업에 대한 논의가 진행되고 있습니다. 일부 사용자는 AI 기술의 발전과 산업에서의 적용에 대한 관심을 나타내고 있습니다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 게시물이 많이 올라왔으며, 일부 사용자는 AI 기술의 발전을 긍정적으로 평가하고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 게시물이 많이 올라왔으며, 일부 사용자는 정치 현황을 비판적으로 평가하고 있습니다.",
+      "post_count": 20,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "한성숙",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "국무총리 임명"
-    },
-    {
-      "keyword": "부실선거",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "재선거 주장"
+      "keyword": "재선거",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "재선거 관련 게시물"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "AI 기술 관련 게시물"
+    },
+    {
+      "keyword": "정치",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "정치 관련 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "국무총리 임명과 정치적 논의",
-      "action": "정치적 상황을 주시",
+      "insight": "재선거 관련 게시물이 많이 올라오고 있습니다.",
+      "action": "재선거 관련 게시물에 대한 모니터링을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술과 산업의 발전",
-      "action": "AI 기술을 활용",
+      "insight": "AI 기술 관련 게시물이 많이 올라오고 있습니다.",
+      "action": "AI 기술 관련 게시물에 대한 분석을 수행해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 게시물이 많이 올라오고 있습니다.",
+      "action": "정치 관련 게시물에 대한 모니터링을 강화해야 합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치적 논의와 기술적 발전이 활발히 진행되고 있습니다. 국무총리 임명과 부실선거에 대한 논의는 사용자들의 관심을 끌고 있으며, AI 기술과 산업의 발전은 사용자들의 관심을 끌고 있습니다. 이러한 상황을 주시하고, 적절한 액션을 취하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-07T05:30:34.016Z",
+  "narrative": "최근 클리앙 커뮤니티에서 재선거, AI 기술, 정치 관련 게시물이 많이 올라왔습니다. 재선거 관련 게시물은 재선거의 가능성을 높게 평가하는 사용자와 낮게 평가하는 사용자 모두 존재합니다. AI 기술 관련 게시물은 AI 기술의 발전을 긍정적으로 평가하는 사용자가 많습니다. 정치 관련 게시물은 정치 현황을 비판적으로 평가하는 사용자가 많습니다. 이러한 게시물에 대한 모니터링과 분석을 수행하여 사업 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-06-07T07:00:34.284Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
