@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "재선거",
-      "summary": "재선거 관련 게시물이 많이 올라왔으며, 일부 사용자는 재선거의 가능성을 높게 평가하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 게시물이 많이 올라왔으며, 일부 사용자는 AI 기술의 발전을 긍정적으로 평가하고 있습니다.",
-      "post_count": 15,
+      "topic": "김민석 총리",
+      "summary": "김민석 총리가 잘하고 있는 것으로 평가되고 있으며, 총리직을 수행하면서 여러 가지 이슈를 다루고 있다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 게시물이 많이 올라왔으며, 일부 사용자는 정치 현황을 비판적으로 평가하고 있습니다.",
-      "post_count": 20,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 관련 뉴스와 논의가 활발하게 진행되고 있다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "high"
+    },
+    {
+      "topic": "젠슨 황",
+      "summary": "젠슨 황이 한국을 방문하여 다양한 활동을 하고 있으며, 관련 뉴스와 논의가 진행되고 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "재선거",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "재선거 관련 게시물"
+      "keyword": "김민석",
+      "count": 7,
+      "sentiment": "positive",
+      "context": "총리직 수행 평가"
     },
     {
       "keyword": "AI",
       "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술 관련 게시물"
+      "sentiment": "neutral",
+      "context": "기술 적용 및 개발"
     },
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "정치 관련 게시물"
+      "keyword": "젠슨 황",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "한국 방문 및 활동"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정"
+    "negative": 5,
+    "neutral": 25,
+    "overall_mood": "중립적이며 정보 중심"
   },
   "business_insights": [
     {
-      "insight": "재선거 관련 게시물이 많이 올라오고 있습니다.",
-      "action": "재선거 관련 게시물에 대한 모니터링을 강화해야 합니다.",
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 적용 및 개발을 위한 투자 및 연구를 진행할 필요가 있다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 관련 게시물이 많이 올라오고 있습니다.",
-      "action": "AI 기술 관련 게시물에 대한 분석을 수행해야 합니다.",
+      "insight": "김민석 총리의 총리직 수행이 정치 및 경제에 영향을 미칠 수 있다.",
+      "action": "정치 및 경제 동향을 주시하고, 관련 뉴스 및 분석을 진행할 필요가 있다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 게시물이 많이 올라오고 있습니다.",
-      "action": "정치 관련 게시물에 대한 모니터링을 강화해야 합니다.",
-      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 재선거, AI 기술, 정치 관련 게시물이 많이 올라왔습니다. 재선거 관련 게시물은 재선거의 가능성을 높게 평가하는 사용자와 낮게 평가하는 사용자 모두 존재합니다. AI 기술 관련 게시물은 AI 기술의 발전을 긍정적으로 평가하는 사용자가 많습니다. 정치 관련 게시물은 정치 현황을 비판적으로 평가하는 사용자가 많습니다. 이러한 게시물에 대한 모니터링과 분석을 수행하여 사업 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-07T07:00:34.284Z",
+  "narrative": "현재의 트렌드는 김민석 총리와 AI 기술이 주를 이루고 있으며, 젠슨 황의 한국 방문도 관련 뉴스와 논의가 진행되고 있다. 이러한 트렌드는 정치, 경제, 기술 등 다양한 분야에 영향을 미칠 수 있으며, 관련 분석과 연구를 진행할 필요가 있다. 또한, AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있으므로, 관련 투자 및 연구를 진행할 필요가 있다.",
+  "analyzed_at": "2026-06-07T08:30:34.089Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
