@@ -1,34 +1,28 @@
 {
   "trending_topics": [
     {
-      "topic": "지방선거",
-      "summary": "지방선거 결과와 관련된 논쟁 및 분석",
-      "post_count": 15,
+      "topic": "2030 세대와 진보",
+      "summary": "2030 세대가 진보를 혐오하는 이유에 대한 글과 관련된 반응",
+      "post_count": 5,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스 및 논의",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스페이스X",
-      "summary": "스페이스X의 상장 및 관련 뉴스",
-      "post_count": 3,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스 및 제품 출시",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
+    },
+    {
+      "topic": "선거와 정치",
+      "summary": "最近의 선거 결과와 관련된 반응 및 정치적인 주제",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
-    {
-      "keyword": "지방선거",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "지방선거 결과와 관련된 논쟁"
-    },
     {
       "keyword": "AI",
       "count": 15,
@@ -36,32 +30,38 @@
       "context": "AI 기술의 발전과 관련된 뉴스"
     },
     {
-      "keyword": "스페이스X",
+      "keyword": "2030",
       "count": 5,
-      "sentiment": "positive",
-      "context": "스페이스X의 상장 및 관련 뉴스"
+      "sentiment": "mixed",
+      "context": "2030 세대와 진보에 대한 글"
+    },
+    {
+      "keyword": "선거",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "最近의 선거 결과와 관련된 반응"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 논쟁적인 분위기"
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "지방선거 결과는 정치 및 경제에 큰 영향을 미칠 수 있다",
-      "action": "관련 뉴스 및 분석을 주시하고 대응 전략을 수립해야 한다",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다",
+      "action": "AI 기술을 활용한 제품 개발 및 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 기회를 제공할 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발하고 투자해야 한다",
+      "insight": "2030 세대와 진보에 대한 주제는 계속해서 논의될 수 있다",
+      "action": "관련된 콘텐츠 및 캠페인 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "지방선거 결과와 관련된 논쟁 및 분석이 커뮤니티에서 큰 관심을 끌고 있다. 또한 AI 기술의 발전과 관련된 뉴스 및 논의도 많은 관심을 받고 있다. 이러한 트렌드에 따라 관련 뉴스 및 분석을 주시하고 대응 전략을 수립하는 것이 중요하다. 또한 AI 기술을 활용한 새로운 비즈니스 모델을 개발하고 투자하는 것이 미래의 성장 동력으로 작용할 수 있다.",
-  "analyzed_at": "2026-06-06T23:30:33.588Z",
+  "narrative": "最近의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 2030 세대와 진보에 대한 주제가 주요하게 나타남을 확인할 수 있었다. 이러한 트렌드는 다양한 산업과 마케팅 전략에 영향을 미칠 수 있으며, 관련된 콘텐츠 및 캠페인 개발이 필요할 수 있다. 또한, 선거와 정치적인 주제에 대한 반응은 계속해서 논의될 수 있으므로, 관련된 콘텐츠와 캠페인을 개발하여 대응할 필요가 있다.",
+  "analyzed_at": "2026-06-07T01:00:33.900Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
