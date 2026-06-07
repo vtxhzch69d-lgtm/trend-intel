@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "투표용지 부족 사태",
-      "summary": "최근 선거에서 투표용지 부족 사태가 발생하여 논란이 되고 있다. 시민들의 시위가 이어지고 있으며, 재선거를 요구하는 목소리가 높아지고 있다.",
-      "post_count": 15,
+      "topic": "한성숙 국무총리 임명",
+      "summary": "최근 클리앙 커뮤니티에서 한성숙 국무총리 임명에 대한 논의가 활발히 진행되고 있습니다. 일부 사용자는 임명에 대한 지지와 비판을 나타내고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부실선거와 재선거",
+      "summary": "클리앙 커뮤니티에서 부실선거와 재선거에 대한 논의가 진행되고 있습니다. 일부 사용자는 재선거를 주장하며, 다른 사용자는 부실선거의 책임을 묻고 있습니다.",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 관련 뉴스와 기사들이 많이 올라오고 있다. AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심이 높아지고 있다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치성향",
-      "summary": "세대별 정치성향에 대한 논의가 이루어지고 있으며, 각 세대의 정치적 성향과 그에 따른 사회적 영향에 대한 관심이 높아지고 있다.",
+      "topic": "AI 기술과 산업",
+      "summary": "클리앙 커뮤니티에서 AI 기술과 산업에 대한 논의가 진행되고 있습니다. 일부 사용자는 AI 기술의 발전과 산업에서의 적용에 대한 관심을 나타내고 있습니다.",
       "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "투표용지",
-      "count": 20,
+      "keyword": "한성숙",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "국무총리 임명"
+    },
+    {
+      "keyword": "부실선거",
+      "count": 8,
       "sentiment": "negative",
-      "context": "투표용지 부족 사태와 관련된 키워드"
+      "context": "재선거 주장"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술과 관련된 키워드"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치성향과 관련된 키워드"
+      "count": 5,
+      "sentiment": "positive",
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 25,
+    "positive": 15,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재되어 있다."
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "투표용지 부족 사태는 사회적 문제로 대두되고 있으며, 관련된 기업과 기관은 이를 해결하기 위한 대책을 마련해야 한다.",
-      "action": "투표용지 부족 사태를 해결하기 위한 대책을 마련한다.",
+      "insight": "국무총리 임명과 정치적 논의",
+      "action": "정치적 상황을 주시",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 분야에서 적용되고 있으며, 관련된 기업과 기관은 이를 활용하여 새로운 비즈니스 모델을 개발해야 한다.",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발한다.",
+      "insight": "AI 기술과 산업의 발전",
+      "action": "AI 기술을 활용",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 투표용지 부족 사태와 관련된 논란이 사회적으로 대두되고 있으며, AI 기술은 다양한 분야에서 적용되고 있다. 이러한 트렌드는 기업과 기관이 이를 해결하기 위한 대책을 마련하고, 새로운 비즈니스 모델을 개발하기 위한 기회를 제공한다. 또한, 세대별 정치성향에 대한 논의가 이루어지고 있으며, 각 세대의 정치적 성향과 그에 따른 사회적 영향에 대한 관심이 높아지고 있다. 이러한 트렌드는 기업과 기관이 사회적 문제를 해결하고, 새로운 비즈니스 모델을 개발하기 위한 기회를 제공한다.",
-  "analyzed_at": "2026-06-07T04:00:34.615Z",
-  "post_count": 61,
+  "narrative": "최근 클리앙 커뮤니티에서 정치적 논의와 기술적 발전이 활발히 진행되고 있습니다. 국무총리 임명과 부실선거에 대한 논의는 사용자들의 관심을 끌고 있으며, AI 기술과 산업의 발전은 사용자들의 관심을 끌고 있습니다. 이러한 상황을 주시하고, 적절한 액션을 취하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-07T05:30:34.016Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
