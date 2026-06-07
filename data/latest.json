@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용에 대한 관심이 높아지고 있습니다. AI의 빠른 성장과 다양한 산업에서의 적용이 주목받고 있습니다.",
-      "post_count": 20,
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목받고 있다. 특히, AI의 상용화와 관련된 뉴스들이 많이 보도되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "서울시장선거",
-      "summary": "서울시장선거에 대한 관심이 높아지고 있습니다. 오세훈의 득표율과 선거 결과에 대한 논의가 활발합니다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스들이 주목받고 있다. 특히, 선거와 관련된 뉴스들이 많이 보도되고 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "갤럭시 대란",
-      "summary": "갤럭시 대란에 대한 관심이 높아지고 있습니다. 갤럭시 제품의 인기와 판매량에 대한 논의가 활발합니다.",
-      "post_count": 3,
+      "topic": "테크 뉴스",
+      "summary": "최신 테크 뉴스들이 주목받고 있다. 특히, 새로운 제품 출시와 관련된 뉴스들이 많이 보도되고 있다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 30,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
     },
     {
-      "keyword": "서울시장선거",
+      "keyword": "정치",
       "count": 10,
       "sentiment": "mixed",
-      "context": "서울시장선거에 대한 관심"
+      "context": "最近의 정치 뉴스"
     },
     {
-      "keyword": "갤럭시",
-      "count": 5,
+      "keyword": "테크",
+      "count": 8,
       "sentiment": "positive",
-      "context": "갤럭시 제품의 인기"
+      "context": "최신 테크 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
+    "positive": 30,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "긍정적"
+    "neutral": 20,
+    "overall_mood": "positive"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용",
+      "action": "AI 기술을 활용한 새로운 사업 개발",
       "priority": "high"
     },
     {
-      "insight": "서울시장선거의 결과",
-      "action": "서울시장선거의 결과에 대한 분석과 대응",
+      "insight": "정치 뉴스의 증가",
+      "action": "정치 뉴스에 대한 분석과 해석",
       "priority": "medium"
     },
     {
-      "insight": "갤럭시 제품의 인기",
-      "action": "갤럭시 제품의 마케팅과 판매 전략 개발",
+      "insight": "최신 테크 뉴스의 증가",
+      "action": "최신 테크 뉴스에 대한 분석과 해석",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 적용에 대한 관심이 높아지고 있습니다. AI의 빠른 성장과 다양한 산업에서의 적용이 주목받고 있습니다. 또한, 서울시장선거에 대한 관심이 높아지고 있습니다. 오세훈의 득표율과 선거 결과에 대한 논의가 활발합니다. 갤럭시 제품의 인기와 판매량에 대한 논의도 활발합니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-07T21:00:34.040Z",
+  "narrative": "最近의 트렌드는 AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목받고 있다. 특히, AI의 상용화와 관련된 뉴스들이 많이 보도되고 있다. 또한, 정치 뉴스들이 주목받고 있으며, 선거와 관련된 뉴스들이 많이 보도되고 있다. 최신 테크 뉴스들도 주목받고 있으며, 새로운 제품 출시와 관련된 뉴스들이 많이 보도되고 있다. 이러한 트렌드를 분석하여 AI 기술을 활용한 새로운 사업 개발과 정치 뉴스에 대한 분석과 해석, 최신 테크 뉴스에 대한 분석과 해석 등의 액션을 취할 수 있다.",
+  "analyzed_at": "2026-06-07T22:30:33.561Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
