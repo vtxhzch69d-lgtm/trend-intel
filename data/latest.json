@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "젠슨 황의 방한",
-      "summary": "젠슨 황의 방한과 관련된 다양한 뉴스와 반응이 나타나고 있습니다. 젠슨 황의 방한은 다양한 산업과 기술에 대한 관심을 끌고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "재선거와 관련된 시위 및 정치인에 대한 논의",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술에 대한 관심이 높아지고 있으며, 다양한 산업에서 AI 기술의 적용이 증가하고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 관련된 뉴스 및 논의",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치와 시위",
-      "summary": "정치와 시위 관련된 뉴스와 반응이 나타나고 있습니다. 시위와 정치에 대한 관심이 높아지고 있습니다.",
-      "post_count": 12,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술",
+      "summary": "최신 기술 제품 및 서비스에 대한 뉴스 및 논의",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "젠슨 황",
+      "keyword": "재선거",
       "count": 10,
-      "sentiment": "positive",
-      "context": "젠슨 황의 방한과 관련된 뉴스"
+      "sentiment": "negative",
+      "context": "정치적 논의"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술에 대한 관심"
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 발전"
     },
     {
-      "keyword": "시위",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "시위와 정치에 대한 관심"
+      "keyword": "갤럭시 폴드",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "최신 기술 제품"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "복합적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 적용이 증가하고 있습니다.",
-      "action": "AI 기술에 대한 투자와 연구를 강화해야 합니다.",
+      "insight": "정치적 논의가 증가하고 있다",
+      "action": "정치적 논의에 대한 모니터링 강화",
       "priority": "high"
     },
     {
-      "insight": "젠슨 황의 방한은 다양한 산업과 기술에 대한 관심을 끌고 있습니다.",
-      "action": "젠슨 황의 방한과 관련된 뉴스와 반응을 주시해야 합니다.",
+      "insight": "AI 기술의 발전이 가속화되고 있다",
+      "action": "AI 기술에 대한 투자 및 연구 강화",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 제품에 대한 관심이 증가하고 있다",
+      "action": "최신 기술 제품에 대한 마케팅 및 홍보 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 젠슨 황의 방한과 AI 기술에 대한 관심이 높아지고 있습니다. 젠슨 황의 방한은 다양한 산업과 기술에 대한 관심을 끌고 있으며, AI 기술의 적용이 증가하고 있습니다. 시위와 정치에 대한 관심도 높아지고 있습니다. 이러한 트렌드를 고려하여, AI 기술에 대한 투자와 연구를 강화하고, 젠슨 황의 방한과 관련된 뉴스와 반응을 주시해야 합니다. 또한, 시위와 정치에 대한 관심을 고려하여, 관련된 뉴스와 반응을 주시해야 합니다.",
-  "analyzed_at": "2026-06-07T14:30:33.897Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치적 논의가 증가하고 있으며, 재선거와 관련된 시위 및 정치인에 대한 논의가 많다. 또한, AI 기술의 발전과 관련된 뉴스 및 논의가 증가하고 있으며, 최신 기술 제품에 대한 관심도 증가하고 있다. 이러한 트렌드에 대한 모니터링과 분석을 통해, 기업 및 마케터는 최신 기술 및 정치적 논의에 대한 이해를 높이고, 이를 통해 비즈니스 기회를 찾을 수 있을 것이다.",
+  "analyzed_at": "2026-06-07T16:00:33.567Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
