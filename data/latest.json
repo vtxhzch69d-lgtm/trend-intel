@@ -1,67 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "2030 세대와 진보",
-      "summary": "2030 세대가 진보를 혐오하는 이유에 대한 글과 관련된 반응",
-      "post_count": 5,
+      "topic": "서울시장 선거",
+      "summary": "서울시장 선거와 관련된 다양한 의견과 분석이 나타나고 있습니다. 오세훈과 장동혁의 대결, 2030세대의 정치 참여, 재선거 요구 등이 주요 주제입니다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스 및 제품 출시",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "선거와 정치",
-      "summary": "最近의 선거 결과와 관련된 반응 및 정치적인 주제",
+      "topic": "재선거 요구",
+      "summary": "재선거 요구와 관련된 게시글이 많이 나타나고 있습니다. 시민들의 자발적인 시위와 경찰의 대응, 정치권의 반응 등이 주요 주제입니다.",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "테크 뉴스",
+      "summary": "최신 기술 뉴스와 관련된 게시글이 많이 나타나고 있습니다. AI, OLED, 게이밍, 스페이스X 등이 주요 주제입니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스"
-    },
-    {
-      "keyword": "2030",
+      "keyword": "오세훈",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "2030 세대와 진보에 대한 글"
+      "sentiment": "negative",
+      "context": "서울시장 선거와 관련된 게시글에서 많이 언급되고 있습니다."
     },
     {
-      "keyword": "선거",
+      "keyword": "장동혁",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "서울시장 선거와 관련된 게시글에서 많이 언급되고 있습니다."
+    },
+    {
+      "keyword": "재선거",
       "count": 8,
       "sentiment": "negative",
-      "context": "最近의 선거 결과와 관련된 반응"
+      "context": "재선거 요구와 관련된 게시글에서 많이 언급되고 있습니다."
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 관련된 게시글에서 많이 언급되고 있습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정이 강합니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다",
-      "action": "AI 기술을 활용한 제품 개발 및 마케팅 전략 수립",
+      "insight": "서울시장 선거와 관련된 마케팅 전략을 수립해야 합니다.",
+      "action": "서울시장 선거와 관련된 마케팅 캠페인을 실행해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "2030 세대와 진보에 대한 주제는 계속해서 논의될 수 있다",
-      "action": "관련된 콘텐츠 및 캠페인 개발",
+      "insight": "최신 기술 뉴스와 관련된 마케팅 전략을 수립해야 합니다.",
+      "action": "최신 기술 뉴스와 관련된 마케팅 캠페인을 실행해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 2030 세대와 진보에 대한 주제가 주요하게 나타남을 확인할 수 있었다. 이러한 트렌드는 다양한 산업과 마케팅 전략에 영향을 미칠 수 있으며, 관련된 콘텐츠 및 캠페인 개발이 필요할 수 있다. 또한, 선거와 정치적인 주제에 대한 반응은 계속해서 논의될 수 있으므로, 관련된 콘텐츠와 캠페인을 개발하여 대응할 필요가 있다.",
-  "analyzed_at": "2026-06-07T01:00:33.900Z",
+  "narrative": "서울시장 선거와 관련된 다양한 의견과 분석이 나타나고 있습니다. 오세훈과 장동혁의 대결, 2030세대의 정치 참여, 재선거 요구 등이 주요 주제입니다. 또한, 최신 기술 뉴스와 관련된 게시글이 많이 나타나고 있습니다. AI, OLED, 게이밍, 스페이스X 등이 주요 주제입니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하고 캠페인을 실행해야 합니다. 특히, 서울시장 선거와 관련된 마케팅 캠페인은 높은 우선순위를 갖고 실행해야 합니다.",
+  "analyzed_at": "2026-06-07T02:30:35.904Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
