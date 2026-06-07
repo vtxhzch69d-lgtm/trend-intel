@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "김민석 총리",
-      "summary": "김민석 총리가 잘하고 있는 것으로 평가되고 있으며, 총리직을 수행하면서 여러 가지 이슈를 다루고 있다.",
-      "post_count": 5,
+      "topic": "6·3 지방선거",
+      "summary": "6·3 지방선거 관련 논쟁과 분석이热을 뿜고 있습니다. 선거 결과와 투표 과정에서 발생한 문제점들에 대한讨论이 이루어지고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업들의 성장에 대한 논의가 진행 중입니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 관련 뉴스와 논의가 활발하게 진행되고 있다.",
-      "post_count": 10,
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석이 주목을 받고 있습니다. 국내외 경제 동향과 금융 정책에 대한 관심이 집중되고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "high"
-    },
-    {
-      "topic": "젠슨 황",
-      "summary": "젠슨 황이 한국을 방문하여 다양한 활동을 하고 있으며, 관련 뉴스와 논의가 진행되고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "김민석",
-      "count": 7,
-      "sentiment": "positive",
-      "context": "총리직 수행 평가"
+      "keyword": "6·3 지방선거",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "선거 결과와 투표 과정에서 발생한 문제점들에 대한讨论"
     },
     {
       "keyword": "AI",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "기술 적용 및 개발"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 이를 활용한 다양한 산업들의 성장"
     },
     {
-      "keyword": "젠슨 황",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "한국 방문 및 활동"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "국내외 경제 동향과 금융 정책"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 25,
-    "overall_mood": "중립적이며 정보 중심"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적이며 다양한 주제에 대한 관심이 집중됨"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 적용 및 개발을 위한 투자 및 연구를 진행할 필요가 있다.",
+      "insight": "AI 기술의 발전은 다양한 산업들의 성장을 촉진할 수 있습니다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "김민석 총리의 총리직 수행이 정치 및 경제에 영향을 미칠 수 있다.",
-      "action": "정치 및 경제 동향을 주시하고, 관련 뉴스 및 분석을 진행할 필요가 있다.",
+      "insight": "경제 및 금융 관련 뉴스와 분석은 기업들의 의사결정에 중요한 역할을 할 수 있습니다.",
+      "action": "경제 및 금융 관련 뉴스와 분석을 주기적으로 모니터링",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 김민석 총리와 AI 기술이 주를 이루고 있으며, 젠슨 황의 한국 방문도 관련 뉴스와 논의가 진행되고 있다. 이러한 트렌드는 정치, 경제, 기술 등 다양한 분야에 영향을 미칠 수 있으며, 관련 분석과 연구를 진행할 필요가 있다. 또한, AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있으므로, 관련 투자 및 연구를 진행할 필요가 있다.",
-  "analyzed_at": "2026-06-07T08:30:34.089Z",
+  "narrative": "최근의 트렌드 분석 결과, 6·3 지방선거와 AI 기술, 경제 및 금융 관련 주제가 주목을 받고 있습니다. 이러한 트렌드들은 기업들의 의사결정과 비즈니스 전략에 중요한 역할을 할 수 있습니다. 특히, AI 기술의 발전은 다양한 산업들의 성장을 촉진할 수 있으며, 경제 및 금융 관련 뉴스와 분석은 기업들의 의사결정에 중요한 역할을 할 수 있습니다. 따라서, 이러한 트렌드들을 주기적으로 모니터링하고, 이를 활용한 새로운 비즈니스 모델 개발을 고려하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-07T10:00:34.006Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
