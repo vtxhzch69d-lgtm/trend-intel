@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제들이 논의되고 있다. 젠슨 황의 방한과 AI 팩토리 구축이 주목을 받고 있다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 논의가 진행 중입니다. 엔비디아와의 협력, AI 팩토리 구축, AI 관련 기술 개발 등이 주요 주제입니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 주제들이 논의되고 있다. 선거와 관련된 다양한 의견들이 존재한다.",
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련된 다양한 뉴스와 논의가 진행 중입니다. 선관위, 노태악, 이재명 등이 주요 인물입니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련된 주제들이 논의되고 있다. 환율과 관련된 다양한 의견들이 존재한다.",
+      "topic": "경제 및 산업",
+      "summary": "경제와 산업 관련된 다양한 뉴스와 논의가 진행 중입니다. 환율, 주식, 기업 뉴스 등이 주요 주제입니다.",
       "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "context": "AI 기술의 발전과 관련된 뉴스와 논의"
     },
     {
-      "keyword": "젠슨 황",
-      "count": 5,
+      "keyword": "엔비디아",
+      "count": 10,
       "sentiment": "positive",
-      "context": "젠슨 황의 방한과 AI 팩토리 구축"
+      "context": "엔비디아와의 협력, AI 팩토리 구축 등"
     },
     {
-      "keyword": "선거",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 관련된 주제"
+      "keyword": "선관위",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "선관위와 관련된 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고 이를 활용할 수 있는 방안을 모색한다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제는 밀접한 관련이 있다.",
-      "action": "정치와 경제의 동향을 주시하고 이를 활용할 수 있는 방안을 모색한다.",
+      "insight": "경제 및 산업 동향",
+      "action": "경제 및 산업 동향을 주시하고 비즈니스 전략에 반영",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 주목을 받고 있다. 젠슨 황의 방한과 AI 팩토리 구축이 이러한 트렌드의 대표적인 예이다. 또한, 정치와 경제는 밀접한 관련이 있어 이러한 주제들 또한 주목을 받고 있다. 이러한 트렌드는 다양한 산업에 영향을 미칠 수 있으므로, 이를 주시하고 이를 활용할 수 있는 방안을 모색하는 것이 중요하다.",
-  "analyzed_at": "2026-06-08T11:00:33.622Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 뉴스와 논의가 주를 이루고 있습니다. 엔비디아와의 협력, AI 팩토리 구축, AI 관련 기술 개발 등이 주요 주제입니다. 또한, 정치 및 사회, 경제 및 산업 관련된 뉴스와 논의도 진행 중입니다. 이러한 트렌드를 반영한 비즈니스 전략을 개발하여 시장의 기회를 잡을 수 있을 것입니다.",
+  "analyzed_at": "2026-06-08T12:30:34.166Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
