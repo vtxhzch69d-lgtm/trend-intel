@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "올림픽공원 시위",
-      "summary": "올림픽공원에서 진행된 시위와 관련된 게시글이 많습니다. 시위의 이유와 진행 상황에 대한 관심이 높습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "최근 정치 관련 게시글이 많아 정치적인 관심이 높아지고 있다. 특히, 선거와 관련된 게시글이 많다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령의 최근 활동과 발언에 대한 관심이 높습니다. 대통령의 정책과 의도에 대한 논의가 진행 중입니다.",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "부동산",
+      "summary": "부동산 관련 게시글이 많아 부동산 시장이 변동하고 있다. 특히, 전세가와 매매가의 차이와 관련된 게시글이 많다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 뉴스와 업계 동향에 대한 관심이 높습니다. AI의 발전과 ứng용에 대한 기대가 있습니다.",
-      "post_count": 10,
+      "topic": "AI",
+      "summary": "AI 관련 게시글이 많아 AI 기술이 발전하고 있다. 특히, 엔비디아와 관련된 게시글이 많다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "올림픽공원",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "올림픽공원에서 진행된 시위"
-    },
-    {
-      "keyword": "이재명",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "이재명 대통령의 최근 활동과 발언"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "선거",
       "count": 10,
+      "sentiment": "mixed",
+      "context": "정치적인 관심이 높아지고 있다."
+    },
+    {
+      "keyword": "부동산",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "부동산 시장이 변동하고 있다."
+    },
+    {
+      "keyword": "엔비디아",
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스와 업계 동향"
+      "context": "AI 기술이 발전하고 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정이 많지만, 긍정적인 감정도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "올림픽공원 시위의 원인은 경제적 불만과 정치적 불만이 결합한 결과입니다.",
-      "action": "정부와 기업은 시위의 원인을 해결하기 위한 대책을 마련해야 합니다.",
+      "insight": "정치적인 관심이 높아지고 있다.",
+      "action": "정치적인이슈에 대한 대응을 준비해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 ứng용 가능성이 있습니다.",
-      "action": "기업은 AI 기술을 도입하여 경쟁력을 높여야 합니다.",
+      "insight": "부동산 시장이 변동하고 있다.",
+      "action": "부동산 시장의 변동에 대응해야 한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술이 발전하고 있다.",
+      "action": "AI 기술을 활용하여 비즈니스 모델을 발전시켜야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드는 올림픽공원 시위와 이재명 대통령의 활동, 그리고 AI 기술의 발전에 대한 관심이 높습니다. 시위의 원인은 경제적 불만과 정치적 불만이 결합한 결과이며, 정부와 기업은 시위의 원인을 해결하기 위한 대책을 마련해야 합니다. 또한, AI 기술은 다양한 산업에서 응용 가능성이 있으며, 기업은 AI 기술을 도입하여 경쟁력을 높여야 합니다. 중립적인 분위기에서 다양한 의견이 교류되고 있습니다.",
-  "analyzed_at": "2026-06-08T06:30:33.907Z",
-  "post_count": 60,
+  "narrative": "최근 정치적인 관심이 높아지고 있다. 특히, 선거와 관련된 게시글이 많다. 또한, 부동산 시장이 변동하고 있어 부동산 시장의 변동에 대응해야 한다. 그리고, AI 기술이 발전하고 있어 AI 기술을 활용하여 비즈니스 모델을 발전시켜야 한다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립해야 한다.",
+  "analyzed_at": "2026-06-08T08:00:37.202Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
