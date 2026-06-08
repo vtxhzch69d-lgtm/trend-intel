@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "부동산 정책",
+      "summary": "서울시장 선거와 관련된 부동산 정책에 대한 논의가 활발합니다. 일부에서는 정책의 실패를 지적하며, 다른 일부에서는 정책의 필요성을 강조합니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 변동과 투자 전략",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 이를 통해 새로운 비즈니스 기회와 기술적 발전이 예상됩니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "최근의 선거 결과와 정치적 상황",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 변동과 관련된 주제가 논의되고 있습니다. 일부에서는 시장의 불안정성을 지적하며, 다른 일부에서는 투자 기회를 찾고 있습니다.",
       "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "부동산",
       "count": 20,
+      "sentiment": "negative",
+      "context": "부동산 정책과 관련된 논의에서 자주 등장하는 키워드입니다."
+    },
+    {
+      "keyword": "AI",
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 관련된 주제에서 자주 등장하는 키워드입니다."
     },
     {
       "keyword": "주식",
       "count": 15,
       "sentiment": "neutral",
-      "context": "주식 시장의 변동"
-    },
-    {
-      "keyword": "선거",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "최근의 선거 결과"
+      "context": "주식 시장의 변동과 관련된 주제에서 자주 등장하는 키워드입니다."
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적인 분위기"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기이지만, 일부에서는 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있음",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "부동산 정책의 변화가 시장에 미치는 영향",
+      "action": "시장의 변동을 주시하고, 정책의 변화에 대응하는 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동은 투자 전략을 조정해야 함",
-      "action": "주식 시장의 변동을 주시하고 투자 전략을 조정",
+      "insight": "AI 기술의 발전이 비즈니스에 미치는 영향",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 기회를 찾고, 기술적 발전을 추구해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "주식 시장의 변동이 투자에 미치는 영향",
+      "action": "시장의 변동을 주시하고, 투자 전략을 수립해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 주식 시장의 변동, 정치 및 선거 등 다양한 주제를 포함하고 있습니다. AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있으며, 주식 시장의 변동은 투자 전략을 조정해야 합니다. 정치 및 선거의 경우, 최근의 선거 결과와 정치적 상황을 주시해야 합니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 투자 전략을 조정하며, 정치적 상황을 주시하는 등 다양한 액션을 취할 수 있습니다.",
-  "analyzed_at": "2026-06-08T00:00:34.275Z",
+  "narrative": "최근의 트렌드 분석 결과, 부동산 정책과 관련된 논의가 활발하게 진행되고 있습니다. 일부에서는 정책의 실패를 지적하며, 다른 일부에서는 정책의 필요성을 강조합니다. 또한, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 이를 통해 새로운 비즈니스 기회와 기술적 발전이 예상됩니다. 주식 시장의 변동과 관련된 주제도 논의되고 있습니다. 이러한 트렌드 분석 결과를 통해, 비즈니스 전략을 수립하고, 시장의 변동에 대응하는 전략을 개발할 수 있습니다.",
+  "analyzed_at": "2026-06-08T01:30:34.155Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
