@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다.",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "오창석 발언 논란",
+      "summary": "오창석의 발언이 논란이 되고 있으며, 황희두의 역할도 논의되고 있습니다. 오창석의 발언은 정치적인 문제로 여겨지고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 기술과 뉴스가 많이 등장하고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정의당의 거리",
+      "summary": "정의당의 거리와 관련된 문제가 논의되고 있습니다. 정의당의 거리는 정치적인 문제로 여겨지고 있습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 주식 시장에 대한 게시글이 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 뉴스가 많이 나오고 있습니다. AI 기술은 미래의 산업으로 여겨지고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "정치 관련 게시글에서 언급"
-    },
-    {
       "keyword": "오창석",
-      "count": 4,
+      "count": 15,
       "sentiment": "negative",
-      "context": "정치 관련 게시글에서 언급"
+      "context": "오창석의 발언이 논란이 되고 있습니다."
     },
     {
-      "keyword": "엔비디아",
-      "count": 8,
+      "keyword": "정의당",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정의당의 거리와 관련된 문제가 논의되고 있습니다."
+    },
+    {
+      "keyword": "AI",
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 관련 기술과 뉴스에서 언급"
+      "context": "AI 기술과 관련된 뉴스가 많이 나오고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 10,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술이 중요해지고 있습니다.",
-      "action": "AI 관련 기술에 투자",
+      "insight": "오창석의 발언이 논란이 되고 있습니다.",
+      "action": "정치적인 문제에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치적인 주제가 트렌드하고 있습니다.",
-      "action": "정치 관련 게시글에 참여",
+      "insight": "AI 기술과 관련된 뉴스가 많이 나오고 있습니다.",
+      "action": "AI 기술에 대한 투자를 고려해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스와 주식 시장에 대한 게시글이 있습니다.",
-      "action": "경제 관련 뉴스를 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다. AI 관련 기술과 뉴스가 많이 등장하고 있으며, 경제 관련 뉴스와 주식 시장에 대한 게시글도 있습니다. 중립적인 분위기이지만, AI 기술이 중요해지고 있습니다. 따라서 AI 관련 기술에 투자하고, 정치 관련 게시글에 참여하는 것이 좋을 것입니다. 또한, 경제 관련 뉴스를 분석하여 시장의 동향을 파악하는 것이 필요합니다.",
-  "analyzed_at": "2026-06-08T15:30:34.173Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 오창석의 발언 논란과 AI 기술의 발전에 대한 관심이 높아지고 있습니다. 오창석의 발언은 정치적인 문제로 여겨지고 있으며, AI 기술은 미래의 산업으로 여겨지고 있습니다. 이러한 트렌드를 고려하여 기업은 정치적인 문제에 대한 대응을 준비하고, AI 기술에 대한 투자를 고려해야 합니다.",
+  "analyzed_at": "2026-06-08T17:00:33.917Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
