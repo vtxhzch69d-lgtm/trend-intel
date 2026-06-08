@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 정책",
-      "summary": "서울시장 선거와 관련된 부동산 정책에 대한 논의가 활발합니다. 일부에서는 정책의 실패를 지적하며, 다른 일부에서는 정책의 필요성을 강조합니다.",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 최근 발언과 활동에 대한 논의",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 이를 통해 새로운 비즈니스 기회와 기술적 발전이 예상됩니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 최근 동향과 전망에 대한 논의",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 변동과 관련된 주제가 논의되고 있습니다. 일부에서는 시장의 불안정성을 지적하며, 다른 일부에서는 투자 기회를 찾고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용에 대한 논의",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "부동산 정책과 관련된 논의에서 자주 등장하는 키워드입니다."
-    },
-    {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제에서 자주 등장하는 키워드입니다."
+      "keyword": "이재명",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 최근 발언과 활동"
     },
     {
       "keyword": "주식",
-      "count": 15,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "주식 시장의 변동과 관련된 주제에서 자주 등장하는 키워드입니다."
+      "context": "주식 시장의 최근 동향과 전망"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기이지만, 일부에서는 부정적인 감정도 존재합니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 정책의 변화가 시장에 미치는 영향",
-      "action": "시장의 변동을 주시하고, 정책의 변화에 대응하는 전략을 수립해야 합니다.",
+      "insight": "이재명 대통령의 최근 발언과 활동은 정치적 논의를 주도하고 있다",
+      "action": "정치적 발언과 활동을 주시하고 대응한다",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 비즈니스에 미치는 영향",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 기회를 찾고, 기술적 발전을 추구해야 합니다.",
+      "insight": "주식 시장의 최근 동향과 전망은 투자자들의 관심을 끌고 있다",
+      "action": "주식 시장의 동향과 전망을 분석하고 투자 전략을 수립한다",
       "priority": "medium"
     },
     {
-      "insight": "주식 시장의 변동이 투자에 미치는 영향",
-      "action": "시장의 변동을 주시하고, 투자 전략을 수립해야 합니다.",
-      "priority": "low"
+      "insight": "AI 기술의 발전과 적용은 다양한 산업에서 혁신을 가져올 수 있다",
+      "action": "AI 기술의 발전과 적용을 주시하고 사업 전략을 수립한다",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 부동산 정책과 관련된 논의가 활발하게 진행되고 있습니다. 일부에서는 정책의 실패를 지적하며, 다른 일부에서는 정책의 필요성을 강조합니다. 또한, AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 이를 통해 새로운 비즈니스 기회와 기술적 발전이 예상됩니다. 주식 시장의 변동과 관련된 주제도 논의되고 있습니다. 이러한 트렌드 분석 결과를 통해, 비즈니스 전략을 수립하고, 시장의 변동에 대응하는 전략을 개발할 수 있습니다.",
-  "analyzed_at": "2026-06-08T01:30:34.155Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 이재명 대통령의 최근 발언과 활동, 주식 시장의 최근 동향과 전망, AI 기술의 발전과 적용이 주요한 논의 주제로 나타났다. 이러한 트렌드와 키워드를 분석하여 사업 전략을 수립하고 대응하는 것이 중요하다. 또한, 정치적 발언과 활동, 주식 시장의 동향과 전망, AI 기술의 발전과 적용에 대한 지속적인 모니터링과 분석이 필요하다.",
+  "analyzed_at": "2026-06-08T03:00:33.802Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
