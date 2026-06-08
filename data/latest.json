@@ -1,44 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글들입니다. 이 글들은 다양한 주제를 다루고 있으며, 사용자들의 관심을 끌고 있습니다.",
-      "post_count": 100,
-      "sentiment": "mixed",
+      "topic": "WWDC 및 애플 관련 소식",
+      "summary": "애플의 WWDC에서 새로운 자녀 보호 기능과 Siri AI가 발표되었습니다. 또한, 애플의 새로운 맥 OS 이름이 골든게이트로 결정되었습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "이재명 및 정치 관련 소식",
+      "summary": "이재명 대통령의 최근 발언과 행동이 논란이 되고 있습니다. 또한, 보유세 문제와 관련된 논의가 진행 중입니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
+    },
+    {
+      "topic": "AI 및 기술 관련 소식",
+      "summary": "엔비디아와 네이버의 AI 관련 협력과 기술 개발이 진행 중입니다. 또한, 젠슨 황의 피지컬 AI 생태계 관련 소식이 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "애플",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "WWDC 및 새로운 기능 관련 소식"
     },
     {
-      "keyword": "이슈",
-      "count": 20,
+      "keyword": "이재명",
+      "count": 10,
       "sentiment": "negative",
-      "context": "문제나 논란을 일으키는 주제"
+      "context": "정치 관련 소식과 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 25,
+      "sentiment": "positive",
+      "context": "기술 개발과 협력 관련 소식"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 40,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "사용자들의 관심을 끌기 위해서는 다양한 주제를 다루는 것이 중요합니다.",
-      "action": "다양한 주제의 콘텐츠를 생성하고, 사용자들의 관심을 끌기 위한 마케팅 전략을 수립합니다.",
+      "insight": "애플의 WWDC에서 발표된 새로운 기능과 기술은 향후 시장에 큰 영향을 미칠 수 있습니다.",
+      "action": "애플의 기술 개발과 시장 동향을 주시하여 사업 기회를 찾습니다.",
       "priority": "high"
+    },
+    {
+      "insight": "AI 기술의 발전과 협력은 향후 사업에 큰 기회를 제공할 수 있습니다.",
+      "action": "AI 기술 개발과 협력을 위한 투자와 연구를 진행합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글들입니다. 이 글들은 다양한 주제를 다루고 있으며, 사용자들의 관심을 끌고 있습니다. 그러나 사용자들의 감정은 중립적인 분위기이며, 일부 사용자들은 부정적인 감정을 표현하고 있습니다. 따라서, 사용자들의 관심을 끌기 위해서는 다양한 주제를 다루는 것이 중요하며, 사용자들의 감정을 고려한 마케팅 전략을 수립해야 합니다. 또한, 커뮤니티에서 논란을 일으키는 주제를 다루는 경우, 사용자들의 감정을 고려하여慎重하게 접근해야 합니다.",
-  "analyzed_at": "2026-06-08T21:00:35.272Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드와 소식은 애플의 WWDC와 AI 기술의 발전이 주를 이루고 있습니다. 애플의 새로운 기능과 기술은 향후 시장에 큰 영향을 미칠 수 있으며, AI 기술의 발전과 협력은 사업에 큰 기회를 제공할 수 있습니다. 따라서, 애플의 기술 개발과 시장 동향을 주시하여 사업 기회를 찾고, AI 기술 개발과 협력을 위한 투자와 연구를 진행하는 것이 중요합니다. 또한, 정치 관련 소식과 논란은 사업에 영향을 미칠 수 있으므로, 주시하여 대응하는 것이 필요합니다.",
+  "analyzed_at": "2026-06-08T22:30:34.610Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
