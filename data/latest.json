@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "오창석 발언 논란",
-      "summary": "오창석의 발언이 논란이 되고 있으며, 황희두의 역할도 논의되고 있습니다. 오창석의 발언은 정치적인 문제로 여겨지고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "정의당의 거리",
-      "summary": "정의당의 거리와 관련된 문제가 논의되고 있습니다. 정의당의 거리는 정치적인 문제로 여겨지고 있습니다.",
-      "post_count": 5,
+      "topic": "WWDC 및 애플 관련 소식",
+      "summary": "애플의 WWDC에서 새로운 시리 AI 기능이 공개되었으며, 사용자들의 반응은 다양하다. 일부 사용자는 시리 AI의 기능을 높이 평가하지만, 다른 일부 사용자는 지루하다고 느낀다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 뉴스가 많이 나오고 있습니다. AI 기술은 미래의 산업으로 여겨지고 있습니다.",
+      "topic": "정치 및 사회 관련 논쟁",
+      "summary": "정치 및 사회 관련된 다양한 주제가 논쟁을 일으키고 있다. 사용자들은 각자의 의견을 주장하며, 논쟁이 지속되고 있다.",
       "post_count": 20,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 및 기술 관련 뉴스",
+      "summary": "최근 AI 및 기술 관련된 다양한 뉴스가 발표되었다. 사용자들은 이러한 뉴스에 대해 관심을 보이고 있으며, 일부는 긍정적인 반응을 보인다.",
+      "post_count": 25,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "오창석",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "오창석의 발언이 논란이 되고 있습니다."
+      "keyword": "WWDC",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "애플의 WWDC 관련된 키워드"
     },
     {
-      "keyword": "정의당",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정의당의 거리와 관련된 문제가 논의되고 있습니다."
-    },
-    {
-      "keyword": "AI",
-      "count": 20,
+      "keyword": "시리 AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스가 많이 나오고 있습니다."
+      "context": "애플의 시리 AI 관련된 키워드"
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "정치 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 10,
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "오창석의 발언이 논란이 되고 있습니다.",
-      "action": "정치적인 문제에 대한 대응을 준비해야 합니다.",
+      "insight": "애플의 WWDC는 사용자들의 관심을 끌었다.",
+      "action": "애플의 WWDC 관련된 마케팅 전략을 수립해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술과 관련된 뉴스가 많이 나오고 있습니다.",
-      "action": "AI 기술에 대한 투자를 고려해야 합니다.",
+      "insight": "AI 및 기술 관련된 뉴스는 사용자들의 관심을 끌었다.",
+      "action": "AI 및 기술 관련된 뉴스를 활용한 마케팅 전략을 수립해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 오창석의 발언 논란과 AI 기술의 발전에 대한 관심이 높아지고 있습니다. 오창석의 발언은 정치적인 문제로 여겨지고 있으며, AI 기술은 미래의 산업으로 여겨지고 있습니다. 이러한 트렌드를 고려하여 기업은 정치적인 문제에 대한 대응을 준비하고, AI 기술에 대한 투자를 고려해야 합니다.",
-  "analyzed_at": "2026-06-08T17:00:33.917Z",
-  "post_count": 61,
+  "narrative": "최근 애플의 WWDC에서 새로운 시리 AI 기능이 공개되어 사용자들의 관심을 끌었다. 그러나 일부 사용자는 지루하다고 느낀다. 정치 및 사회 관련된 다양한 주제가 논쟁을 일으키고 있다. AI 및 기술 관련된 뉴스는 사용자들의 관심을 끌었으며, 마케팅 전략을 수립해야 한다. 전체적으로 중립적인 분위기이지만, 일부 사용자들은 긍정적인 반응을 보인다.",
+  "analyzed_at": "2026-06-08T18:30:34.437Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
