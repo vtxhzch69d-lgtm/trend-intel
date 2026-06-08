@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령의 최근 발언과 활동에 대한 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "부동산",
+      "summary": "부동산 가격이 계속 상승하고 있으며, 정부의 정책이 효과적으로 작동하지 않는 것으로 보인다. 시민들은 부동산 가격에 대한 우려를 나타내고 있다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 최근 동향과 전망에 대한 논의",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "정치적인 이슈가 많으며, 대통령과 정부의 정책에 대한 논란이 있다. 시민들은 정치적인 상황에 대한 관심을 보이고 있다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용에 대한 논의",
-      "post_count": 12,
+      "topic": "기술",
+      "summary": "최신 기술에 대한 관심이 많으며, AI와 관련된 뉴스가 많이 보도되고 있다. 시민들은 기술의 발전에 대한 관심을 보이고 있다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "이재명 대통령의 최근 발언과 활동"
+      "keyword": "부동산",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "부동산 가격 상승"
     },
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장의 최근 동향과 전망"
+      "keyword": "정치",
+      "count": 25,
+      "sentiment": "mixed",
+      "context": "정치적인 이슈"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "최신 기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 25,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정이 강한 것으로 보인다."
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령의 최근 발언과 활동은 정치적 논의를 주도하고 있다",
-      "action": "정치적 발언과 활동을 주시하고 대응한다",
+      "insight": "부동산 가격 상승에 대한 우려",
+      "action": "부동산 정책에 대한 검토",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 최근 동향과 전망은 투자자들의 관심을 끌고 있다",
-      "action": "주식 시장의 동향과 전망을 분석하고 투자 전략을 수립한다",
+      "insight": "정치적인 이슈에 대한 관심",
+      "action": "정치적인 상황에 대한 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전과 적용은 다양한 산업에서 혁신을 가져올 수 있다",
-      "action": "AI 기술의 발전과 적용을 주시하고 사업 전략을 수립한다",
-      "priority": "high"
+      "insight": "최신 기술에 대한 관심",
+      "action": "기술 발전에 대한 투자",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 이재명 대통령의 최근 발언과 활동, 주식 시장의 최근 동향과 전망, AI 기술의 발전과 적용이 주요한 논의 주제로 나타났다. 이러한 트렌드와 키워드를 분석하여 사업 전략을 수립하고 대응하는 것이 중요하다. 또한, 정치적 발언과 활동, 주식 시장의 동향과 전망, AI 기술의 발전과 적용에 대한 지속적인 모니터링과 분석이 필요하다.",
-  "analyzed_at": "2026-06-08T03:00:33.802Z",
+  "narrative": "최근의 트렌드 분석 결과, 부동산 가격 상승에 대한 우려와 정치적인 이슈에 대한 관심이 많으며, 최신 기술에 대한 관심도 많다. 이러한 트렌드는 사업적인 기회와 도전을 제공할 수 있으며, 기업과 정부는 이러한 트렌드에 대한 대응을 준비해야 한다. 특히, 부동산 가격 상승에 대한 우려는 정부의 정책에 대한 검토를 필요로 하며, 정치적인 이슈에 대한 관심은 정치적인 상황에 대한 모니터링을 필요로 한다. 또한, 최신 기술에 대한 관심은 기술 발전에 대한 투자를 필요로 한다.",
+  "analyzed_at": "2026-06-08T05:00:34.224Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
