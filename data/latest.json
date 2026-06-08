@@ -1,45 +1,45 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "最近의 선거와 정치 관련 뉴스",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI",
+      "summary": "AI 관련 기술과 뉴스가 많이 등장하고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 주식 시장에 대한 게시글이 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
+      "keyword": "이재명",
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "정치 관련 게시글에서 언급"
     },
     {
-      "keyword": "선거",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "最近의 선거"
+      "keyword": "오창석",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "정치 관련 게시글에서 언급"
     },
     {
-      "keyword": "경제",
+      "keyword": "엔비디아",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스"
+      "sentiment": "positive",
+      "context": "AI 관련 기술과 뉴스에서 언급"
     }
   ],
   "sentiment_overview": {
@@ -50,23 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 산업의 성장",
+      "insight": "AI 기술이 중요해지고 있습니다.",
+      "action": "AI 관련 기술에 투자",
       "priority": "high"
     },
     {
-      "insight": "最近의 선거",
-      "action": "정치 관련 뉴스의 분석",
+      "insight": "정치적인 주제가 트렌드하고 있습니다.",
+      "action": "정치 관련 게시글에 참여",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융",
-      "action": "경제 및 금융 관련 뉴스의 분석",
+      "insight": "경제 관련 뉴스와 주식 시장에 대한 게시글이 있습니다.",
+      "action": "경제 관련 뉴스를 분석",
       "priority": "low"
     }
   ],
-  "narrative": "最近의 온라인 커뮤니티 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 정치 및 선거, 경제 및 금융 관련 뉴스가 주를 이루고 있습니다. AI 기술의 발전은 많은 관심을 받고 있으며, 이를 활용한 산업의 성장은 많은 기대를 모으고 있습니다. 정치 및 선거 관련 뉴스는 최근의 선거를 중심으로 많은 논의가 이루어지고 있으며, 경제 및 금융 관련 뉴스는 안정적인 분위기를 보이고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-08T14:00:34.085Z",
+  "narrative": "클리앙 커뮤니티에서 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다. AI 관련 기술과 뉴스가 많이 등장하고 있으며, 경제 관련 뉴스와 주식 시장에 대한 게시글도 있습니다. 중립적인 분위기이지만, AI 기술이 중요해지고 있습니다. 따라서 AI 관련 기술에 투자하고, 정치 관련 게시글에 참여하는 것이 좋을 것입니다. 또한, 경제 관련 뉴스를 분석하여 시장의 동향을 파악하는 것이 필요합니다.",
+  "analyzed_at": "2026-06-08T15:30:34.173Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
