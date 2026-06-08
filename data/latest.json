@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목받고 있다. 특히, AI의 상용화와 관련된 뉴스들이 많이 보도되고 있다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스들이 주목받고 있다. 특히, 선거와 관련된 뉴스들이 많이 보도되고 있다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 변동과 투자 전략",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "최신 테크 뉴스들이 주목받고 있다. 특히, 새로운 제품 출시와 관련된 뉴스들이 많이 보도되고 있다.",
+      "topic": "정치 및 선거",
+      "summary": "최근의 선거 결과와 정치적 상황",
       "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "정치",
+      "keyword": "주식",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "주식 시장의 변동"
+    },
+    {
+      "keyword": "선거",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "最近의 정치 뉴스"
-    },
-    {
-      "keyword": "테크",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 테크 뉴스"
+      "sentiment": "negative",
+      "context": "최근의 선거 결과"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "positive"
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용",
-      "action": "AI 기술을 활용한 새로운 사업 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있음",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스의 증가",
-      "action": "정치 뉴스에 대한 분석과 해석",
+      "insight": "주식 시장의 변동은 투자 전략을 조정해야 함",
+      "action": "주식 시장의 변동을 주시하고 투자 전략을 조정",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 테크 뉴스의 증가",
-      "action": "최신 테크 뉴스에 대한 분석과 해석",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드는 AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목받고 있다. 특히, AI의 상용화와 관련된 뉴스들이 많이 보도되고 있다. 또한, 정치 뉴스들이 주목받고 있으며, 선거와 관련된 뉴스들이 많이 보도되고 있다. 최신 테크 뉴스들도 주목받고 있으며, 새로운 제품 출시와 관련된 뉴스들이 많이 보도되고 있다. 이러한 트렌드를 분석하여 AI 기술을 활용한 새로운 사업 개발과 정치 뉴스에 대한 분석과 해석, 최신 테크 뉴스에 대한 분석과 해석 등의 액션을 취할 수 있다.",
-  "analyzed_at": "2026-06-07T22:30:33.561Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 주식 시장의 변동, 정치 및 선거 등 다양한 주제를 포함하고 있습니다. AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있으며, 주식 시장의 변동은 투자 전략을 조정해야 합니다. 정치 및 선거의 경우, 최근의 선거 결과와 정치적 상황을 주시해야 합니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 투자 전략을 조정하며, 정치적 상황을 주시하는 등 다양한 액션을 취할 수 있습니다.",
+  "analyzed_at": "2026-06-08T00:00:34.275Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
