@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래, 대통령 순방 환송회 불참과 재선거 주장 등 정치 관련 뉴스가热한 관심을 받고 있습니다.",
+      "summary": "정치 관련된 다양한 주제가 논의되고 있습니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 뉴스와 기술 개발이 활발하게 진행되고 있으며, 기업들의 AI 투자와 협력이 증가하고 있습니다.",
+      "topic": "기술",
+      "summary": "최신 기술 관련된 뉴스와 제품이 소개되고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "부동산 정책과 재계 관련 뉴스가 관심을 받고 있으며, 경제 상황에 대한 우려가 있습니다.",
+      "summary": "경제 관련된 뉴스와 분석이 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술 개발과 기업들의 AI 투자"
+      "context": "최신 기술"
     },
     {
       "keyword": "정치",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "정청래, 대통령 순방 환송회 불참과 재선거 주장"
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련된 주제"
     },
     {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "부동산 정책과 재계 관련 뉴스"
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "부정적인 감정의 비중이 높습니다."
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 투자가 증가하고 있습니다.",
-      "action": "AI 기술 개발에 투자하고, 기업들의 협력을 강화하세요.",
+      "insight": "최신 기술을 활용한 제품 개발",
+      "action": "최신 기술을 연구하고 개발에 활용",
       "priority": "high"
     },
     {
-      "insight": "부동산 정책과 재계 관련 뉴스가 관심을 받고 있습니다.",
-      "action": "부동산 정책과 재계 관련 뉴스를 주시하고, 기업들의 대응을 준비하세요.",
+      "insight": "정치 관련된 주제에 대한 이해",
+      "action": "정치 관련된 뉴스와 분석을 연구",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련된 뉴스와 분석",
+      "action": "경제 관련된 뉴스와 분석을 연구",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 정치, AI, 경제 등 다양한 주제가 온라인 커뮤니티에서热한 관심을 받고 있습니다. 특히 AI 기술 개발과 기업들의 AI 투자가 증가하고 있으며, 부동산 정책과 재계 관련 뉴스가 관심을 받고 있습니다. 이러한 트렌드를 분석하여, 기업들은 AI 기술 개발에 투자하고, 부동산 정책과 재계 관련 뉴스를 주시하여 대응을 준비해야 합니다. 또한, 부정적인 감정의 비중이 높으므로, 기업들은 고객들의 우려를 lắng청하고, 적절한 대응을 준비해야 합니다.",
-  "analyzed_at": "2026-06-09T01:30:34.047Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 기술 관련된 주제가 많이 논의되고 있습니다. 특히 AI와 관련된 기술이 많은 관심을 받고 있습니다. 또한 경제 관련된 뉴스와 분석도 중요하게 다루어지고 있습니다. 이러한 트렌드를 이해하고 활용하면 최신 기술을 개발하고 정치와 경제에 대한 이해를 높일 수 있습니다.",
+  "analyzed_at": "2026-06-09T03:00:33.992Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
