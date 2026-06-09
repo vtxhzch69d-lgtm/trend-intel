@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 트윗과 교육감 선거에 대한 논의가 활발합니다.",
-      "post_count": 10,
+      "summary": "최근 정치 관련된 게시글이 많으며, 김민석과 이재명에 대한 논의가 활발합니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 발표에 대한 관심이 집중되고 있습니다.",
+      "summary": "최신 기술 관련된 뉴스와 제품 출시가 많은 것으로 나타났습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "코스피와 아파트 월세에 대한 우려가 나타나고 있습니다.",
+      "summary": "코스피와 아파트 월세에 대한 논의가 있었습니다.",
       "post_count": 5,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "김민석",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 관련 논의"
+      "sentiment": "positive",
+      "context": "김민석에 대한 찬양이 많았습니다."
     },
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "keyword": "이재명",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "이재명에 대한 비판이 있었습니다."
     },
     {
       "keyword": "코스피",
-      "count": 3,
+      "count": 2,
       "sentiment": "negative",
-      "context": "경제 관련 우려"
+      "context": "코스피 하한가에 대한 우려가 있었습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 뉴스에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 뉴스에 대한 콘텐츠를 제공하세요.",
+      "insight": "최근 정치 관련된 논의가 많아 정치 관련된 제품이나 서비스에 대한 수요가 증가할 수 있습니다.",
+      "action": "정치 관련된 제품이나 서비스를 개발하거나 마케팅을 강화합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 우려가 나타나고 있습니다.",
-      "action": "경제 관련 정보를 제공하고 안정적인 메시지를 전달하세요.",
+      "insight": "최신 기술 관련된 뉴스와 제품 출시가 많아 기술 관련된 제품이나 서비스에 대한 수요가 증가할 수 있습니다.",
+      "action": "최신 기술 관련된 제품이나 서비스를 개발하거나 마케팅을 강화합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 주제에 대한 관심이 집중되고 있습니다. 특히 최신 기술 뉴스에 대한 관심이 높아지고 있으며, 경제 관련 우려도 나타나고 있습니다. 이러한 트렌드를 고려하여 최신 기술 뉴스에 대한 콘텐츠를 제공하고, 경제 관련 정보를 제공하여 안정적인 메시지를 전달하는 것이 중요할 것입니다. 또한, 중립적인 분위기를 유지하고 다양한 주제에 대한 관심을 고려하여 콘텐츠를 제공하는 것이 효과적일 것입니다.",
-  "analyzed_at": "2026-06-09T18:30:33.785Z",
+  "narrative": "최근 정치 관련된 논의가 많아 정치 관련된 제품이나 서비스에 대한 수요가 증가할 수 있습니다. 또한, 최신 기술 관련된 뉴스와 제품 출시가 많아 기술 관련된 제품이나 서비스에 대한 수요가 증가할 수 있습니다. 따라서, 이러한 트렌드에 따라 제품이나 서비스를 개발하거나 마케팅을 강화하는 것이 중요합니다. 또한, 정치와 기술 관련된 키워드에 대한 분석을 통해 더욱 세분화된 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-09T20:00:34.168Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
