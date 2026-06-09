@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "topic": "정치",
+      "summary": "정청래, 대통령 순방 환송회 불참과 재선거 주장 등 정치 관련 뉴스가热한 관심을 받고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "부동산 시장의 안정화와 정부의 정책",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "AI",
+      "summary": "AI 관련 뉴스와 기술 개발이 활발하게 진행되고 있으며, 기업들의 AI 투자와 협력이 증가하고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치적인 이슈와 선거",
+      "topic": "경제",
+      "summary": "부동산 정책과 재계 관련 뉴스가 관심을 받고 있으며, 경제 상황에 대한 우려가 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술 개발과 기업들의 AI 투자"
+    },
+    {
+      "keyword": "정치",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "정청래, 대통령 순방 환송회 불참과 재선거 주장"
     },
     {
       "keyword": "부동산",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "부동산 시장의 안정화"
-    },
-    {
-      "keyword": "선거",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치적인 이슈"
+      "sentiment": "negative",
+      "context": "부동산 정책과 재계 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 비중이 높습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술 개발과 투자가 증가하고 있습니다.",
+      "action": "AI 기술 개발에 투자하고, 기업들의 협력을 강화하세요.",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 안정화는 정부의 정책에 따라 달라질 수",
-      "action": "부동산 시장의 동향을 주시",
+      "insight": "부동산 정책과 재계 관련 뉴스가 관심을 받고 있습니다.",
+      "action": "부동산 정책과 재계 관련 뉴스를 주시하고, 기업들의 대응을 준비하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적인 이슈는 시장의 동향을影响",
-      "action": "정치적인 이슈를 주시",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장입니다. 부동산 시장의 안정화와 정부의 정책도 중요한 이슈입니다. 정치적인 이슈도 시장의 동향을影响합니다. 이러한 트렌드를 고려하여 비즈니스 모델을 개발하고 시장의 동향을 주시하는 것이 중요합니다. AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있으므로, AI 기술을 활용한 비즈니스 모델 개발을 우선적으로 고려해야 합니다. 또한, 부동산 시장의 동향을 주시하고 정치적인 이슈를 주시하여 시장의 변화를 예측할 수 있어야 합니다.",
-  "analyzed_at": "2026-06-09T00:01:29.750Z",
+  "narrative": "현재 정치, AI, 경제 등 다양한 주제가 온라인 커뮤니티에서热한 관심을 받고 있습니다. 특히 AI 기술 개발과 기업들의 AI 투자가 증가하고 있으며, 부동산 정책과 재계 관련 뉴스가 관심을 받고 있습니다. 이러한 트렌드를 분석하여, 기업들은 AI 기술 개발에 투자하고, 부동산 정책과 재계 관련 뉴스를 주시하여 대응을 준비해야 합니다. 또한, 부정적인 감정의 비중이 높으므로, 기업들은 고객들의 우려를 lắng청하고, 적절한 대응을 준비해야 합니다.",
+  "analyzed_at": "2026-06-09T01:30:34.047Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
