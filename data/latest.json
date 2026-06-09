@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "최근의 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 선거, 정책, 법안 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "AI 및 데이터 센터",
+      "summary": "SKT와 오픈AI의 데이터 센터 사업 및 AI 기술 개발에 대한 관심이 높다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "신기술, 과학적 발견, 기술 발전 등이 많은 관심을 받고 있습니다. AI, 양자컴퓨터, 데이터센터 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "정치 및 선거",
+      "summary": "서울시장 선거와 관련된 논란 및 정치인들의 발언에 대한 관심이 높다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 주식, 대출, 경제 정책 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 10,
+      "topic": "기술 및 산업",
+      "summary": "신기술 및 산업 동향에 대한 관심이 높다.",
+      "post_count": 15,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng용"
+      "context": "AI 기술 개발 및 데이터 센터 사업"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 이슈"
+      "keyword": "선거",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "서울시장 선거와 관련된 논란"
     },
     {
-      "keyword": "경제",
-      "count": 5,
+      "keyword": "기술",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 이슈"
+      "context": "신기술 및 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다.",
-      "action": "AI 기술의 발전을 주시하고, ứng용 가능성을 탐색합니다.",
+      "insight": "AI 및 데이터 센터 사업에 대한 수요가 높아지고 있다.",
+      "action": "AI 및 데이터 센터 사업에 대한 투자 및 개발을 강화해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 이슈는 많은 관심을 받고 있습니다.",
-      "action": "정치 및 사회 관련 뉴스와 이슈를 주시하고, 대응 전략을 수립합니다.",
+      "insight": "정치 및 선거와 관련된 논란에 대한 관심이 높아지고 있다.",
+      "action": "정치 및 선거와 관련된 논란에 대한 대응을 강화해야 한다.",
+      "priority": "high"
+    },
+    {
+      "insight": "신기술 및 산업 동향에 대한 관심이 높아지고 있다.",
+      "action": "신기술 및 산업 동향에 대한 연구 및 개발을 강화해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 기술 및 과학 분야에서도 신기술과 과학적 발견이 많은 관심을 받고 있습니다. 경제 및 금융 분야에서는 주식, 대출, 경제 정책 등 다양한 주제가 논의되고 있습니다. 이러한 트렌드를 분석하여, 기업은 자신의 비즈니스 전략을 수립하고, 시장의 변화를 대응할 수 있습니다.",
-  "analyzed_at": "2026-06-09T09:01:24.464Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, AI 및 데이터 센터 사업에 대한 수요가 높아지고 있으며, 정치 및 선거와 관련된 논란에 대한 관심도 높아지고 있다. 또한, 신기술 및 산업 동향에 대한 관심도 높아지고 있다. 이러한 트렌드에 대한 분석을 통해, 기업 및 기관은 자신의 사업 및 전략에 대한 방향을 설정할 수 있을 것이다. 특히, AI 및 데이터 센터 사업에 대한 투자 및 개발을 강화해야 하며, 정치 및 선거와 관련된 논란에 대한 대응을 강화해야 한다. 또한, 신기술 및 산업 동향에 대한 연구 및 개발을 강화해야 한다.",
+  "analyzed_at": "2026-06-09T11:00:34.073Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
