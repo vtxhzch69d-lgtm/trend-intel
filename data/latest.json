@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근의 정치 관련 뉴스와 선거 결과에 대한 논의가 활발합니다.",
+      "topic": "정치 및 사회",
+      "summary": "최근의 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 선거, 정책, 법안 등 다양한 주제가 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "새로운 기술 개발과 제품 출시에 대한 소식이 많습니다.",
+      "topic": "기술 및 과학",
+      "summary": "신기술, 과학적 발견, 기술 발전 등이 많은 관심을 받고 있습니다. AI, 양자컴퓨터, 데이터센터 등 다양한 주제가 논의되고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "주식 시장과 경제 동향에 대한 관심이 있습니다.",
-      "post_count": 8,
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 주식, 대출, 경제 정책 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -27,47 +27,42 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "새로운 기술 개발"
+      "context": "AI 기술의 발전과 ứng용"
     },
     {
-      "keyword": "선거",
+      "keyword": "정치",
       "count": 8,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스"
+      "context": "정치 관련 뉴스와 이슈"
     },
     {
-      "keyword": "주식",
+      "keyword": "경제",
       "count": 5,
       "sentiment": "neutral",
-      "context": "경제 동향"
+      "context": "경제 관련 뉴스와 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "새로운 기술 개발에 대한 관심이 높습니다.",
-      "action": "새로운 기술 개발에 투자",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다.",
+      "action": "AI 기술의 발전을 주시하고, ứng용 가능성을 탐색합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스에 대한 관심이 있습니다.",
-      "action": "정치 관련 뉴스에 대한 분석",
+      "insight": "정치 및 사회 관련 이슈는 많은 관심을 받고 있습니다.",
+      "action": "정치 및 사회 관련 뉴스와 이슈를 주시하고, 대응 전략을 수립합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 동향에 대한 관심이 있습니다.",
-      "action": "경제 동향에 대한 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 테크, 경제 등 다양한 주제에 대한 관심이 있습니다. 새로운 기술 개발에 대한 관심이 높으며, 정치 관련 뉴스에 대한 논의가 활발합니다. 경제 동향에 대한 관심도 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 찾을 수 있습니다. 특히, 새로운 기술 개발에 대한 투자가 필요하며, 정치 관련 뉴스에 대한 분석이 필요합니다. 또한, 경제 동향에 대한 분석을 통해 새로운 비즈니스 기회를 찾을 수 있습니다.",
-  "analyzed_at": "2026-06-09T07:30:33.856Z",
-  "post_count": 62,
+  "narrative": "최근의 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 기술 및 과학 분야에서도 신기술과 과학적 발견이 많은 관심을 받고 있습니다. 경제 및 금융 분야에서는 주식, 대출, 경제 정책 등 다양한 주제가 논의되고 있습니다. 이러한 트렌드를 분석하여, 기업은 자신의 비즈니스 전략을 수립하고, 시장의 변화를 대응할 수 있습니다.",
+  "analyzed_at": "2026-06-09T09:01:24.464Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
