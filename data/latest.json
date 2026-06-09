@@ -1,72 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 데이터 센터",
-      "summary": "SKT와 오픈AI의 데이터 센터 사업 및 AI 기술 개발에 대한 관심이 높다.",
+      "topic": "정치",
+      "summary": "김민석과 이재명 대통령의 정치 활동이 논의되고 있으며, 올림픽공원 시위와 관련된 경제 효과도 चर्च되고 있습니다.",
       "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 제품 출시 정보가 공유되고 있으며, AI와 관련된 기술 개발도 चर्च되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
-    },
-    {
-      "topic": "정치 및 선거",
-      "summary": "서울시장 선거와 관련된 논란 및 정치인들의 발언에 대한 관심이 높다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 산업",
-      "summary": "신기술 및 산업 동향에 대한 관심이 높다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술 개발 및 데이터 센터 사업"
-    },
-    {
-      "keyword": "선거",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "서울시장 선거와 관련된 논란"
-    },
-    {
-      "keyword": "기술",
-      "count": 15,
+      "keyword": "김민석",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "신기술 및 산업 동향"
+      "context": "정치 활동과 관련된 키워드"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술 개발과 관련된 키워드"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 및 데이터 센터 사업에 대한 수요가 높아지고 있다.",
-      "action": "AI 및 데이터 센터 사업에 대한 투자 및 개발을 강화해야 한다.",
+      "insight": "최신 기술 개발과 관련된 뉴스와 정보가 중요합니다.",
+      "action": "최신 기술 개발을 주시하고, 관련된 뉴스와 정보를 공유하세요.",
       "priority": "high"
-    },
-    {
-      "insight": "정치 및 선거와 관련된 논란에 대한 관심이 높아지고 있다.",
-      "action": "정치 및 선거와 관련된 논란에 대한 대응을 강화해야 한다.",
-      "priority": "high"
-    },
-    {
-      "insight": "신기술 및 산업 동향에 대한 관심이 높아지고 있다.",
-      "action": "신기술 및 산업 동향에 대한 연구 및 개발을 강화해야 한다.",
-      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 및 데이터 센터 사업에 대한 수요가 높아지고 있으며, 정치 및 선거와 관련된 논란에 대한 관심도 높아지고 있다. 또한, 신기술 및 산업 동향에 대한 관심도 높아지고 있다. 이러한 트렌드에 대한 분석을 통해, 기업 및 기관은 자신의 사업 및 전략에 대한 방향을 설정할 수 있을 것이다. 특히, AI 및 데이터 센터 사업에 대한 투자 및 개발을 강화해야 하며, 정치 및 선거와 관련된 논란에 대한 대응을 강화해야 한다. 또한, 신기술 및 산업 동향에 대한 연구 및 개발을 강화해야 한다.",
-  "analyzed_at": "2026-06-09T11:00:34.073Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 테크 관련된 주제가 많이 논의되고 있습니다. 특히, 김민석과 이재명 대통령의 정치 활동이 논의되고 있으며, 올림픽공원 시위와 관련된 경제 효과도 चर्च되고 있습니다. 또한, 최신 기술 뉴스와 제품 출시 정보가 공유되고 있으며, AI와 관련된 기술 개발도 चरچ되고 있습니다. 이러한 트렌드에 따라, 최신 기술 개발을 주시하고, 관련된 뉴스와 정보를 공유하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-09T12:30:33.364Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
