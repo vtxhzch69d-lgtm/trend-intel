@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련된 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "코스피",
+      "summary": "코스피가 급등해 '8천피' 회복했다. 투자자들의 관심이 높아지고 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련된 뉴스와 제품이 소개되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "민주당의 상황과 대통령의 지지 등 정치 관련된 주제가热하다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련된 뉴스와 분석이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "최신 기술 관련된 주제가 많이 등장하고 있다. AI, 반도체 등이热하다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "코스피",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술"
+      "context": "코스피가 급등했다."
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련된 주제"
+      "keyword": "민주당",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "민주당의 상황이 좋지 않다."
     },
     {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 관련된 뉴스"
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술이 발전하고 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술을 활용한 제품 개발",
-      "action": "최신 기술을 연구하고 개발에 활용",
+      "insight": "코스피의 급등은 투자자들의 관심을 높일 수 있다.",
+      "action": "투자자들에게 정보를 제공하고 투자 기회를 제시한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 주제에 대한 이해",
-      "action": "정치 관련된 뉴스와 분석을 연구",
+      "insight": "최신 기술은 사업의 기회를 제공할 수 있다.",
+      "action": "최신 기술을 연구하고 사업에 적용한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련된 뉴스와 분석",
-      "action": "경제 관련된 뉴스와 분석을 연구",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 기술 관련된 주제가 많이 논의되고 있습니다. 특히 AI와 관련된 기술이 많은 관심을 받고 있습니다. 또한 경제 관련된 뉴스와 분석도 중요하게 다루어지고 있습니다. 이러한 트렌드를 이해하고 활용하면 최신 기술을 개발하고 정치와 경제에 대한 이해를 높일 수 있습니다.",
-  "analyzed_at": "2026-06-09T03:00:33.992Z",
+  "narrative": "현재의 트렌드는 코스피의 급등과 정치, 기술 관련된 주제가中心이다. 투자자들은 코스피의 급등에 관심을 가지고 있고, 정치 관련된 주제는 다양한 의견이 존재한다. 최신 기술은 사업의 기회를 제공할 수 있다. 따라서, 투자자들에게 정보를 제공하고 투자 기회를 제시하는 것이 중요하다. 또한, 최신 기술을 연구하고 사업에 적용하는 것이 필요하다.",
+  "analyzed_at": "2026-06-09T04:30:33.935Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
