@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "코스피",
-      "summary": "코스피가 급등해 '8천피' 회복했다. 투자자들의 관심이 높아지고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 오창석과 이동형 관련 뉴스가 많이 보도되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "민주당의 상황과 대통령의 지지 등 정치 관련된 주제가热하다.",
-      "post_count": 10,
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 주식시장과 부동산 관련 뉴스가 많이 보도되고 있습니다.",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 관련된 주제가 많이 등장하고 있다. AI, 반도체 등이热하다.",
-      "post_count": 15,
+      "summary": "기술 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, AI와 반도체 관련 뉴스가 많이 보도되고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "코스피가 급등했다."
+      "keyword": "오창석",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "오창석 관련 뉴스와 이슈"
     },
     {
-      "keyword": "민주당",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "민주당의 상황이 좋지 않다."
+      "keyword": "주식",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "주식시장 관련 뉴스와 이슈"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 6,
       "sentiment": "positive",
-      "context": "AI 기술이 발전하고 있다."
+      "context": "AI 관련 뉴스와 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "코스피의 급등은 투자자들의 관심을 높일 수 있다.",
-      "action": "투자자들에게 정보를 제공하고 투자 기회를 제시한다.",
+      "insight": "정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
+      "action": "정치 관련 뉴스와 이슈를 주시하고, 이를 활용하여 마케팅 전략을 수립합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술은 사업의 기회를 제공할 수 있다.",
-      "action": "최신 기술을 연구하고 사업에 적용한다.",
+      "insight": "경제 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
+      "action": "경제 관련 뉴스와 이슈를 주시하고, 이를 활용하여 마케팅 전략을 수립합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "기술 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
+      "action": "기술 관련 뉴스와 이슈를 주시하고, 이를 활용하여 마케팅 전략을 수립합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 코스피의 급등과 정치, 기술 관련된 주제가中心이다. 투자자들은 코스피의 급등에 관심을 가지고 있고, 정치 관련된 주제는 다양한 의견이 존재한다. 최신 기술은 사업의 기회를 제공할 수 있다. 따라서, 투자자들에게 정보를 제공하고 투자 기회를 제시하는 것이 중요하다. 또한, 최신 기술을 연구하고 사업에 적용하는 것이 필요하다.",
-  "analyzed_at": "2026-06-09T04:30:33.935Z",
-  "post_count": 62,
+  "narrative": "최근 정치, 경제, 기술 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 오창석과 이동형 관련 뉴스가 많이 보도되고 있습니다. 또한, 주식시장과 부동산 관련 뉴스가 많이 보도되고 있습니다. 기술 관련 뉴스와 이슈도 많은 관심을 받고 있습니다. 이러한 뉴스와 이슈를 주시하고, 이를 활용하여 마케팅 전략을 수립하는 것이 중요합니다. 또한, 감정 분석 결과, 복합적인 감정이 나타나고 있습니다. 따라서, 마케팅 전략을 수립할 때 이러한 감정을 고려하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-09T06:00:34.172Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
