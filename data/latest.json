@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련된 게시글이 많으며, 김민석과 이재명에 대한 논의가 활발합니다.",
-      "post_count": 15,
+      "summary": "정청래 대표의 딜레마와 김민석 팬분들에 대한 찬양이 지나치다는 의견이 있습니다. 또한, 선관위의 꼬라지와 부정선거 주장에 대한 의견이 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련된 뉴스와 제품 출시가 많은 것으로 나타났습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시 소식이 있습니다. 예를 들어, 애플의 tvOS 27 발표와 현대차의 2027 아이오닉 5 출시가 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
       "topic": "경제",
-      "summary": "코스피와 아파트 월세에 대한 논의가 있었습니다.",
+      "summary": "코스피 선물이 하한가를 향해 달리고 있으며, 아파트 월세가 300이 넘는다는 의견이 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "김민석",
-      "count": 5,
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정청래 대표의 딜레마와 김민석 팬분들에 대한 찬양이 지나치다는 의견"
+    },
+    {
+      "keyword": "기술",
+      "count": 20,
       "sentiment": "positive",
-      "context": "김민석에 대한 찬양이 많았습니다."
+      "context": "최신 기술 뉴스와 제품 출시 소식"
     },
     {
-      "keyword": "이재명",
-      "count": 3,
+      "keyword": "경제",
+      "count": 10,
       "sentiment": "negative",
-      "context": "이재명에 대한 비판이 있었습니다."
-    },
-    {
-      "keyword": "코스피",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "코스피 하한가에 대한 우려가 있었습니다."
+      "context": "코스피 선물이 하한가를 향해 달리고 있으며, 아파트 월세가 300이 넘는다는 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
     "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "최근 정치 관련된 논의가 많아 정치 관련된 제품이나 서비스에 대한 수요가 증가할 수 있습니다.",
-      "action": "정치 관련된 제품이나 서비스를 개발하거나 마케팅을 강화합니다.",
+      "insight": "최신 기술 뉴스와 제품 출시 소식에 대한 관심이 높습니다.",
+      "action": "최신 기술 뉴스와 제품 출시 소식을 제공하여 고객의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 관련된 뉴스와 제품 출시가 많아 기술 관련된 제품이나 서비스에 대한 수요가 증가할 수 있습니다.",
-      "action": "최신 기술 관련된 제품이나 서비스를 개발하거나 마케팅을 강화합니다.",
+      "insight": "경제적인 문제에 대한 관심이 높습니다.",
+      "action": "경제적인 문제에 대한 정보와 해결책을 제공하여 고객의 신뢰를 얻어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 관련된 논의가 많아 정치 관련된 제품이나 서비스에 대한 수요가 증가할 수 있습니다. 또한, 최신 기술 관련된 뉴스와 제품 출시가 많아 기술 관련된 제품이나 서비스에 대한 수요가 증가할 수 있습니다. 따라서, 이러한 트렌드에 따라 제품이나 서비스를 개발하거나 마케팅을 강화하는 것이 중요합니다. 또한, 정치와 기술 관련된 키워드에 대한 분석을 통해 더욱 세분화된 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-09T20:00:34.168Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제적인 문제에 대한 관심이 높습니다. 최신 기술 뉴스와 제품 출시 소식에 대한 관심이 특히 높으며, 경제적인 문제에 대한 관심도 높습니다. 이러한 트렌드를 고려하여 최신 기술 뉴스와 제품 출시 소식을 제공하고, 경제적인 문제에 대한 정보와 해결책을 제공하여 고객의 신뢰를 얻어야 합니다.",
+  "analyzed_at": "2026-06-09T21:30:33.722Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
