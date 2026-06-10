@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래",
-      "summary": "정청래 대표에 대한 논란과 비난이 많아지고 있다. 일부에서는 정청래를 차기 대권 주자로 지목하고 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "넷플릭스",
-      "summary": "넷플릭스 추천 영화와 드라마가 인기 EXISTS. 일부에서는 넷플릭스 서비스를 추천하고 있다.",
+      "topic": "정청래 대표",
+      "summary": "정청래 대표에 대한 지지와 비판이 동시에 존재하는 것으로 보인다. 일부 이용자는 그의 진정성에 감동했다고 말하지만, 다른 이용자는 그의 정책에 대한 비판을 나타낸다.",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "삼성전자",
       "summary": "삼성전자가 미래 정밀 의료시장 선점을 위해 美 ‘엘리먼트 바이오사이언스’社 1대 주주 지위 확보했다.",
-      "post_count": 3,
+      "post_count": 2,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
+    },
+    {
+      "topic": "넷플릭스",
+      "summary": "넷플릭스 관련 게시물이 여러 개 존재한다. 일부 이용자는 넷플릭스의 새로운 기능에 대해 긍정적으로 평가하지만, 다른 이용자는 넷플릭스의 콘텐츠에 대한 비판을 나타낸다.",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "정청래",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "정청래 대표에 대한 비난과 논란"
-    },
-    {
-      "keyword": "넷플릭스",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "넷플릭스 추천 영화와 드라마"
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "정청래 대표에 대한 지지와 비판"
     },
     {
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 3,
       "sentiment": "positive",
-      "context": "삼성전자가 미래 정밀 의료시장 선점"
+      "context": "삼성전자의 미래 정밀 의료시장 선점"
+    },
+    {
+      "keyword": "넷플릭스",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "넷플릭스 관련 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정들이 많지만 일부에서는 긍정적인 감정도 존재한다."
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정청래 대표에 대한 비난과 논란이 많아지고 있다.",
-      "action": "정청래 대표의 이미지를 개선하기 위한 마케팅 전략을 수립해야 한다.",
-      "priority": "high"
-    },
-    {
-      "insight": "넷플릭스 추천 영화와 드라마가 인기 EXISTS.",
-      "action": "넷플릭스 서비스를 추천하고 넷플릭스와의 협력을 강화해야 한다.",
+      "insight": "정청래 대표에 대한 지지와 비판이 동시에 존재한다.",
+      "action": "정청래 대표의 정책에 대한 더 자세한 분석이 필요하다.",
       "priority": "medium"
     },
     {
-      "insight": "삼성전자가 미래 정밀 의료시장 선점을 위해 美 ‘엘리먼트 바이오사이언스’社 1대 주주 지위 확보했다.",
-      "action": "삼성전자의 미래 정밀 의료시장 선점을 위한 마케팅 전략을 수립해야 한다.",
-      "priority": "medium"
+      "insight": "삼성전자가 미래 정밀 의료시장 선점을 위해 노력하고 있다.",
+      "action": "삼성전자의 미래 정밀 의료시장 선점 전략에 대한 더 자세한 분석이 필요하다.",
+      "priority": "low"
+    },
+    {
+      "insight": "넷플릭스 관련 게시물이 여러 개 존재한다.",
+      "action": "넷플릭스의 콘텐츠와 기능에 대한 더 자세한 분석이 필요하다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 정청래 대표에 대한 비난과 논란, 넷플릭스 추천 영화와 드라마, 삼성전자가 미래 정밀 의료시장 선점을 위한 움직임이다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하고 비즈니스 인사이트를 얻을 수 있다. 정청래 대표의 이미지를 개선하기 위한 마케팅 전략을 수립하고, 넷플릭스 서비스를 추천하고 넷플릭스와의 협력을 강화해야 한다. 또한, 삼성전자의 미래 정밀 의료시장 선점을 위한 마케팅 전략을 수립해야 한다.",
-  "analyzed_at": "2026-06-10T15:00:35.688Z",
+  "narrative": "이번 분석 결과, 정청래 대표에 대한 지지와 비판이 동시에 존재하는 것으로 보인다. 일부 이용자는 그의 진정성에 감동했다고 말하지만, 다른 이용자는 그의 정책에 대한 비판을 나타낸다. 또한, 삼성전자가 미래 정밀 의료시장 선점을 위해 노력하고 있다. 넷플릭스 관련 게시물도 여러 개 존재한다. 이러한 결과를 통해, 마케터는 더 자세한 분석과 전략 수립을 통해 이용자의 니즈를 충족시킬 수 있을 것이다.",
+  "analyzed_at": "2026-06-10T16:30:34.107Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
