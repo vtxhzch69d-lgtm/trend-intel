@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령의 말과 행동에 대한 논란, 정청래 대표의 발언에 대한 반응",
-      "post_count": 10,
+      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많은 것으로 나타났습니다. 특히, 최근 선거와 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "신규 기술 개발과 제품 출시, AI와 관련된 뉴스",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "경제 관련 게시글도 많은 것으로 나타났습니다. 특히, 최근 경제 위기와 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "기업의 뉴스와 경제 동향",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "기술 관련 게시글도 많은 것으로 나타났습니다. 특히, 최근 새로운 기술 개발과 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "대통령의 말과 행동에 대한 비판"
+      "keyword": "선거",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "最近 선거와 관련된 주제가 많이 обсужд되고 있습니다."
     },
     {
-      "keyword": "AI",
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "最近 경제 위기와 관련된 주제가 많이 обсужд되고 있습니다."
+    },
+    {
+      "keyword": "기술",
       "count": 10,
       "sentiment": "positive",
-      "context": "신규 기술 개발과 제품 출시"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "기업의 뉴스와 경제 동향"
+      "context": "最近 새로운 기술 개발과 관련된 주제가 많이 обсужд되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "클리앙 커뮤니티의 전체적인 분위기는 중립적이지만, 약간 부정적인 경향이 있습니다."
   },
   "business_insights": [
     {
-      "insight": "신규 기술 개발과 제품 출시가 증가하고 있다",
-      "action": "신규 기술 개발에 투자하고, 제품 출시를 준비한다",
+      "insight": "클리앙 커뮤니티에서 정치와 경제 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있다",
-      "action": "정치와 경제에 대한 뉴스를 분석하고, 대응한다",
+      "insight": "기술 관련 주제도 많이 обсужд되고 있습니다.",
+      "action": "새로운 기술 개발과 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술, 경제에 대한 관심이 높아지고 있다. 신규 기술 개발과 제품 출시가 증가하고 있으며, 정치와 경제에 대한 뉴스도 많다. 이러한 트렌드를 분석하여, 신규 기술 개발에 투자하고, 제품 출시를 준비하며, 정치와 경제에 대한 뉴스를 분석하고, 대응하는 것이 중요하다. 또한, 기업의 뉴스와 경제 동향을 분석하여, 시장의 동향을 파악하는 것이 필요하다.",
-  "analyzed_at": "2026-06-09T23:00:33.985Z",
+  "narrative": "클리앙 커뮤니티에서 정치와 경제 관련 주제가 많이 обсужд되고 있습니다. 특히, 최근 선거와 관련된 주제가 많이 обсужд되고 있습니다. 또한, 기술 관련 주제도 많이 обсужд되고 있습니다. 클리앙 커뮤니티의 전체적인 분위기는 중립적이지만, 약간 부정적인 경향이 있습니다. 따라서, 관련된 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다. 또한, 새로운 기술 개발과 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-10T00:30:33.901Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
