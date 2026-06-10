@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 논란이 많아 정치 관련 게시글이 많습니다.",
-      "post_count": 15,
+      "summary": "이재명 대통령의 메시지와 정청래 대표의 연임 여부가 논란이 되고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 많아 기술 관련 게시글이 많습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "나스닥선물이 계속 떨어지고 있습니다. 또한, 쿠팡의 단일 상품페이지 의무화가 예정되어 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많아 경제 관련 게시글이 많습니다.",
+      "topic": "기술",
+      "summary": "AI 기술이 다양한 산업에서 적용되고 있습니다. 또한, 삼성 OLED TV가 팬톤의 아트풀 컬러 인증을 받았습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논란"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "대통령의 메시지와 관련된 논란"
     },
     {
-      "keyword": "기술",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "쿠팡",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 분석"
+      "context": "단일 상품페이지 의무화와 관련된 소식"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "다양한 산업에서 적용되는 기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스와 논란이 많아 정치 관련 게시글이 많습니다.",
-      "action": "정치 관련 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "정치적 불안정성이 경제에 미치는 영향",
+      "action": "경제 정책에 대한 관심을 높여야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 출시가 많아 기술 관련 게시글이 많습니다.",
-      "action": "최신 기술 뉴스와 제품 출시를 따라가며 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 적용 가능성",
+      "action": "AI 기술을 다양한 산업에서 적용해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 뉴스와 분석이 많아 경제 관련 게시글이 많습니다.",
-      "action": "경제 관련 뉴스와 분석을 따라가며 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "쿠팡의 단일 상품페이지 의무화",
+      "action": "쿠팡의 정책에 대한 준비를 해야 합니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근 정치 관련 뉴스와 논란이 많아 정치 관련 게시글이 많습니다. 또한 최신 기술 뉴스와 제품 출시가 많아 기술 관련 게시글이 많습니다. 경제 관련 뉴스와 분석도 많아 경제 관련 게시글이 많습니다. 이러한 트렌드를 따라가며 콘텐츠를 생성하여 관심을 끌 수 있습니다. 정치 관련 콘텐츠를 생성하여 관심을 끌 수 있습니다. 최신 기술 뉴스와 제품 출시를 따라가며 콘텐츠를 생성하여 관심을 끌 수 있습니다. 경제 관련 뉴스와 분석을 따라가며 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-10T08:30:33.558Z",
+  "narrative": "현재 정치적 불안정성이 경제에 미치는 영향이 크게 나타나고 있습니다. 또한, AI 기술의 적용 가능성이 다양한 산업에서 논의되고 있습니다. 쿠팡의 단일 상품페이지 의무화도 예정되어 있습니다. 이러한 상황에서 기업들은 경제 정책에 대한 관심을 높여야 하며, AI 기술을 다양한 산업에서 적용해야 합니다. 또한, 쿠팡의 정책에 대한 준비를 해야 합니다.",
+  "analyzed_at": "2026-06-10T10:00:34.475Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
