@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래의 발언",
-      "summary": "정청래의 발언이 논란이 되고 있습니다. 일부에서는 그의 발언을 비판하고 있으며, 다른 일부에서는 그의 발언을 지지하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "국회의원 주진우가 정민철군에게 뭐라 한 모양입니다. 선관위가 안하무인일 수 있는 이유는 간단하죠",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산 정책",
-      "summary": "부동산 정책이 논란이 되고 있습니다. 일부에서는 정부의 정책을 비판하고 있으며, 다른 일부에서는 정책을 지지하고 있습니다.",
-      "post_count": 4,
-      "sentiment": "negative",
+      "topic": "경제",
+      "summary": "CPI 높아도 코로나 때하고 다르다고 하더라구요. 미국 소비자 물가지수 (CPI) 선방한듯 합니다",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 발전하고 있습니다. 일부에서는 AI 기술의 잠재력을 높이 평가하고 있으며, 다른 일부에서는 기술의 안전성에 대한 우려를 표하고 있습니다.",
-      "post_count": 3,
+      "topic": "기술",
+      "summary": "LLM Wiki를 발표자료로 바꿔주는 Markdown 슬라이드 도구 소개. 로봇이 사람처럼 판단하는 시대, KAIST가 피지컬 AI 핵심 난제 해결",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
+      "keyword": "선관위",
       "count": 5,
       "sentiment": "negative",
-      "context": "정청래의 발언이 논란이 되고 있습니다."
+      "context": "선관위가 안하무인일 수 있는 이유는 간단하죠"
     },
     {
-      "keyword": "부동산",
+      "keyword": "CPI",
       "count": 4,
-      "sentiment": "negative",
-      "context": "부동산 정책이 논란이 되고 있습니다."
+      "sentiment": "neutral",
+      "context": "CPI 높아도 코로나 때하고 다르다고 하더라구요"
     },
     {
       "keyword": "AI",
-      "count": 3,
+      "count": 6,
       "sentiment": "positive",
-      "context": "AI 기술이 발전하고 있습니다."
+      "context": "로봇이 사람처럼 판단하는 시대, KAIST가 피지컬 AI 핵심 난제 해결"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정이 강합니다."
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정부의 부동산 정책이 논란이 되고 있습니다.",
-      "action": "정부의 정책을 주시하고, 정책의 변화를 예측하여 대응해야 합니다.",
+      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다",
+      "action": "관련된 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 발전하고 있습니다.",
-      "action": "AI 기술의 잠재력을 높이 평가하고, 기술의 안전성에 대한 우려를 표해야 합니다.",
+      "insight": "기술에 대한 관심이 증가하고 있습니다",
+      "action": "최신 기술 트렌드에 대한 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정청래의 발언과 부동산 정책이 논란이 되고 있습니다. 일부에서는 정부의 정책을 비판하고 있으며, 다른 일부에서는 정책을 지지하고 있습니다. 또한, AI 기술이 발전하고 있으며, 일부에서는 기술의 잠재력을 높이 평가하고 있습니다. 이러한 트렌드에 주목하여, 정부의 정책을 주시하고, 정책의 변화를 예측하여 대응해야 합니다. 또한, AI 기술의 잠재력을 높이 평가하고, 기술의 안전성에 대한 우려를 표해야 합니다.",
-  "analyzed_at": "2026-06-10T12:01:23.640Z",
+  "narrative": "최근의 트렌드는 정치와 경제에 대한 관심이 높아지고 있습니다. 선관위와 CPI에 대한 논의가 많으며, 기술에 대한 관심도 증가하고 있습니다. 로봇과 AI에 대한 발전이 주목을 받고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다. 또한, 기술에 대한 최신 트렌드에 대한 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다.",
+  "analyzed_at": "2026-06-10T13:30:34.593Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
