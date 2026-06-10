@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "정청래 대표의 진정성에 대한 감동, 정치와 사회에 대한 다양한 의견",
+      "topic": "정치",
+      "summary": "민주당 지지율 하락, 박지원·정청래 사퇴 논란",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 뉴스, AI 및 자율주행 기술에 대한 관심",
-      "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "스포츠 및 엔터테인먼트",
-      "summary": "월드컵 및 스포츠 뉴스, 안드레아 보첼리와 이재명의 라이브 공연",
+      "topic": "경제",
+      "summary": "코스피 하락, 미국 주식 폭락",
       "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI 기술 개발, 양자암호 기술 개발",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "정청래 대표의 진정성에 대한 감동"
+      "keyword": "민주당",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "지지율 하락"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 및 과학 뉴스"
+      "context": "기술 개발"
     },
     {
-      "keyword": "월드컵",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "월드컵 및 스포츠 뉴스"
+      "keyword": "코스피",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "하락"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 과학 뉴스에 대한 관심이 높아지고 있다",
-      "action": "최신 기술 및 과학 뉴스에 대한 콘텐츠를 제공하여 관심을 끌어들이기",
+      "insight": "정치적 불안정성",
+      "action": "투자자에게 정치적 위험을 경고",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회에 대한 다양한 의견이 존재한다",
-      "action": "정치 및 사회에 대한 다양한 의견을 수용하고 공유하기",
+      "insight": "기술 개발",
+      "action": "AI 기술 개발에 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 및 사회, 기술 및 과학, 스포츠 및 엔터테인먼트에 대한 관심이 높아지고 있다. 특히 최신 기술 및 과학 뉴스에 대한 관심이 높아지고 있으며, 정청래 대표의 진정성에 대한 감동이 많은 사람들에게 영향을 미치고 있다. 또한 월드컵 및 스포츠 뉴스에 대한 관심도 높아지고 있다. 이러한 트렌드를 고려하여 최신 기술 및 과학 뉴스에 대한 콘텐츠를 제공하고, 정치 및 사회에 대한 다양한 의견을 수용하고 공유하는 것이 중요하다.",
-  "analyzed_at": "2026-06-10T21:01:23.410Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치적 논란과 경제적 불안정성이 주로 논의되고 있습니다. 민주당의 지지율 하락과 박지원·정청래의 사퇴 논란이 주요하게 논의되고 있으며, 코스피의 하락과 미국 주식의 폭락도 경제적 불안정성을 가중시키고 있습니다. 반면, AI 기술 개발과 양자암호 기술 개발은 기술 개발의 긍정적인 측면을 보여주고 있습니다. 이러한 트렌드와 키워드를 분석하여, 정치적 불안정성과 기술 개발의 기회를 파악할 수 있습니다.",
+  "analyzed_at": "2026-06-10T22:30:33.707Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
