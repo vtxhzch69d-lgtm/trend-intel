@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근의 지방선거 결과와 관련된 다양한 의견과 분석이 나타나고 있습니다. 일부 사용자는 선거 결과를 두고 정부와 야당의 책임을 논의하고 있습니다.",
+      "summary": "이재명 정부와 국힘의 원내대표 선출 등 정치 관련 뉴스가 주목을 받고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시 정보가 주목을 받고 있습니다. 특히 AI와 관련된 기술 개발과 제품 출시가 활발하게 진행되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "부동산",
+      "summary": "부동산 가격과 재개발 분양가 상한제 등 부동산 관련 뉴스가 논란을 일으키고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "생활",
-      "summary": "일상 생활과 관련된 다양한 주제가討論되고 있습니다. 건강, 여행, 음식 등 다양한 주제가 포함되어 있습니다.",
+      "topic": "기술",
+      "summary": "AI와 자율주행 기술 등 최신 기술 관련 뉴스가 주목을 받고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "이재명",
       "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 개발과 제품 출시"
+      "sentiment": "negative",
+      "context": "이재명 정부와 관련된 정치 뉴스"
     },
     {
-      "keyword": "선거",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "지방선거 결과와 관련된 의견과 분석"
+      "keyword": "부동산",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "부동산 가격과 재개발 분양가 상한제 등 부동산 관련 뉴스"
     },
     {
-      "keyword": "삼성",
+      "keyword": "AI",
       "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 개발과 제품 출시"
+      "context": "AI와 자율주행 기술 등 최신 기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 25,
+    "neutral": 10,
+    "overall_mood": "부정적인 기운이 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술 개발과 제품 출시가 활발하게 진행되고 있습니다.",
-      "action": "최신 기술 개발과 제품 출시를 주목하고, 관련된 마케팅 전략을 수립할 필요가 있습니다.",
+      "insight": "정치와 부동산 관련 뉴스가 주목을 받고 있습니다.",
+      "action": "관련 뉴스를 주시하고 대응책을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "지방선거 결과와 관련된 의견과 분석이 나타나고 있습니다.",
-      "action": "관련된 마케팅 전략을 수립하고, 선거 결과와 관련된 의견과 분석을 주목할 필요가 있습니다.",
+      "insight": "최신 기술 관련 뉴스가 주목을 받고 있습니다.",
+      "action": "최신 기술을 연구하고 개발해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치, 기술, 생활 등 다양한 주제를 포함하고 있습니다. 특히 최신 기술 개발과 제품 출시가 활발하게 진행되고 있으며, 지방선거 결과와 관련된 의견과 분석이 나타나고 있습니다. 이러한 트렌드를 주목하고, 관련된 마케팅 전략을 수립할 필요가 있습니다. 또한, 최신 기술 개발과 제품 출시를 주목하고, 관련된 마케팅 전략을 수립할 필요가 있습니다. 중립적인 분위기가 나타나고 있지만, 일부 사용자는 선거 결과를 두고 정부와 야당의 책임을 논의하고 있습니다. 이러한 트렌드를 주목하고, 관련된 마케팅 전략을 수립할 필요가 있습니다.",
-  "analyzed_at": "2026-06-10T02:00:34.225Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 부동산 관련 뉴스가 주목을 받고 있습니다. 이재명 정부와 국힘의 원내대표 선출 등 정치 관련 뉴스는 부정적인 기운을 보이고 있습니다. 또한, 부동산 가격과 재개발 분양가 상한제 등 부동산 관련 뉴스는 논란을 일으키고 있습니다. 반면, 최신 기술 관련 뉴스는 주목을 받고 있습니다. 따라서, 관련 뉴스를 주시하고 대응책을 마련해야 합니다. 또한, 최신 기술을 연구하고 개발해야 합니다.",
+  "analyzed_at": "2026-06-10T04:00:34.382Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
