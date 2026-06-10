@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "국회의원 주진우가 정민철군에게 뭐라 한 모양입니다. 선관위가 안하무인일 수 있는 이유는 간단하죠",
+      "topic": "정청래",
+      "summary": "정청래 대표에 대한 논란과 비난이 많아지고 있다. 일부에서는 정청래를 차기 대권 주자로 지목하고 있다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "CPI 높아도 코로나 때하고 다르다고 하더라구요. 미국 소비자 물가지수 (CPI) 선방한듯 합니다",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "넷플릭스",
+      "summary": "넷플릭스 추천 영화와 드라마가 인기 EXISTS. 일부에서는 넷플릭스 서비스를 추천하고 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "LLM Wiki를 발표자료로 바꿔주는 Markdown 슬라이드 도구 소개. 로봇이 사람처럼 판단하는 시대, KAIST가 피지컬 AI 핵심 난제 해결",
-      "post_count": 12,
+      "topic": "삼성전자",
+      "summary": "삼성전자가 미래 정밀 의료시장 선점을 위해 美 ‘엘리먼트 바이오사이언스’社 1대 주주 지위 확보했다.",
+      "post_count": 3,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "선관위",
-      "count": 5,
+      "keyword": "정청래",
+      "count": 15,
       "sentiment": "negative",
-      "context": "선관위가 안하무인일 수 있는 이유는 간단하죠"
+      "context": "정청래 대표에 대한 비난과 논란"
     },
     {
-      "keyword": "CPI",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "CPI 높아도 코로나 때하고 다르다고 하더라구요"
-    },
-    {
-      "keyword": "AI",
-      "count": 6,
+      "keyword": "넷플릭스",
+      "count": 8,
       "sentiment": "positive",
-      "context": "로봇이 사람처럼 판단하는 시대, KAIST가 피지컬 AI 핵심 난제 해결"
+      "context": "넷플릭스 추천 영화와 드라마"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼성전자가 미래 정밀 의료시장 선점"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정들이 많지만 일부에서는 긍정적인 감정도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다",
-      "action": "관련된 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다",
+      "insight": "정청래 대표에 대한 비난과 논란이 많아지고 있다.",
+      "action": "정청래 대표의 이미지를 개선하기 위한 마케팅 전략을 수립해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "기술에 대한 관심이 증가하고 있습니다",
-      "action": "최신 기술 트렌드에 대한 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다",
+      "insight": "넷플릭스 추천 영화와 드라마가 인기 EXISTS.",
+      "action": "넷플릭스 서비스를 추천하고 넷플릭스와의 협력을 강화해야 한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "삼성전자가 미래 정밀 의료시장 선점을 위해 美 ‘엘리먼트 바이오사이언스’社 1대 주주 지위 확보했다.",
+      "action": "삼성전자의 미래 정밀 의료시장 선점을 위한 마케팅 전략을 수립해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 경제에 대한 관심이 높아지고 있습니다. 선관위와 CPI에 대한 논의가 많으며, 기술에 대한 관심도 증가하고 있습니다. 로봇과 AI에 대한 발전이 주목을 받고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다. 또한, 기술에 대한 최신 트렌드에 대한 콘텐츠를 제공하여 사용자의 관심을 끌어야 합니다.",
-  "analyzed_at": "2026-06-10T13:30:34.593Z",
+  "narrative": "현재의 트렌드는 정청래 대표에 대한 비난과 논란, 넷플릭스 추천 영화와 드라마, 삼성전자가 미래 정밀 의료시장 선점을 위한 움직임이다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하고 비즈니스 인사이트를 얻을 수 있다. 정청래 대표의 이미지를 개선하기 위한 마케팅 전략을 수립하고, 넷플릭스 서비스를 추천하고 넷플릭스와의 협력을 강화해야 한다. 또한, 삼성전자의 미래 정밀 의료시장 선점을 위한 마케팅 전략을 수립해야 한다.",
+  "analyzed_at": "2026-06-10T15:00:35.688Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
