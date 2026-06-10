@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아졌으며, 대통령과 정치권에 대한 논의가 활발하다.",
+      "summary": "最近의 선거와 정치 관련 뉴스가 많은 것으로 보인다. 특히, 투표소 현장 증거보전과 관련된 글들이 많다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 관련 게시글이 많아졌으며, AI와 자율주행에 대한 논의가 활발하다.",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 관련된 글들이 많이 보인다. 특히, AI와 자율주행 기술에 대한 글들이 많다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "최근 경제 관련 게시글이 많아졌으며, 보유세와 재정 정책에 대한 논의가 활발하다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "summary": "경제 관련 뉴스와 관련된 글들이 많이 보인다. 특히, 보유세와 거래세 완화에 대한 글들이 많다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술 관련 게시글에서 자주 언급된다."
+      "context": "최신 기술 뉴스"
     },
     {
       "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "최근 정치 관련 게시글에서 자주 언급된다."
+      "count": 12,
+      "sentiment": "negative",
+      "context": "最近의 선거와 정치 관련 뉴스"
     },
     {
       "keyword": "경제",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "최근 경제 관련 게시글에서 자주 언급된다."
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 글들이 많다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술 관련 게시글이 많아지고 있다.",
-      "action": "최신 기술 관련 콘텐츠를 제공하여 사용자의 관심을 끌어야 한다.",
+      "insight": "최신 기술 뉴스에 대한 관심이 높다.",
+      "action": "최신 기술 뉴스에 대한 콘텐츠를 제공한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 게시글이 많아지고 있다.",
-      "action": "정치 관련 콘텐츠를 제공하여 사용자의 관심을 끌어야 한다.",
+      "insight": "정치 관련 뉴스에 대한 관심이 높다.",
+      "action": "정치 관련 뉴스에 대한 콘텐츠를 제공한다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 게시글이 많아지고 있다.",
-      "action": "경제 관련 콘텐츠를 제공하여 사용자의 관심을 끌어야 한다.",
-      "priority": "medium"
+      "insight": "경제 관련 뉴스에 대한 관심이 낮다.",
+      "action": "경제 관련 뉴스에 대한 콘텐츠를 제공한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 정치, 테크, 경제 관련 게시글이 많아졌으며, 사용자의 관심을 끌기 위해서는 최신 기술, 정치, 경제 관련 콘텐츠를 제공해야 한다. 또한, 사용자의 감정은 복합적인 편이며, 긍정적인 감정이 가장 많다. 따라서, 콘텐츠 제공 시 사용자의 감정을 고려하여 제공해야 한다.",
-  "analyzed_at": "2026-06-10T05:30:33.592Z",
+  "narrative": "最近의 선거와 정치 관련 뉴스가 많은 것으로 보인다. 특히, 투표소 현장 증거보전과 관련된 글들이 많다. 최신 기술 뉴스와 관련된 글들도 많이 보인다. 특히, AI와 자율주행 기술에 대한 글들이 많다. 경제 관련 뉴스와 관련된 글들은 비교적 적다. 전체적으로 부정적인 감정의 글들이 많다. 최신 기술 뉴스에 대한 관심이 높기 때문에, 최신 기술 뉴스에 대한 콘텐츠를 제공하는 것이 중요하다. 또한, 정치 관련 뉴스에 대한 관심이 높기 때문에, 정치 관련 뉴스에 대한 콘텐츠를 제공하는 것도 중요하다.",
+  "analyzed_at": "2026-06-10T07:00:33.967Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
