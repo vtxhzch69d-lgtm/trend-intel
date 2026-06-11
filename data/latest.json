@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래-보완수사권 전면 폐지와 관련된 논의가 활발하게 진행되고 있다. 정권과 국민의 관계에 대한 다양한 의견이 제시되고 있다.",
+      "topic": "월드컵",
+      "summary": "월드컵 관련 게시글이 많습니다. 사용자들은 경기 결과와 선수들의 활약을 논의하고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 및 산업 동향에 대한 다양한 뉴스와 의견이 제시되고 있다. AI의 발전과 그에 따른 사회적 영향에 대한 논의가 진행되고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 게시글이 많습니다. 사용자들은 정치 현안과 정책을 논의하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "국내외 경제 동향과 관련된 뉴스 및 의견이 제시되고 있다. 경제 성장과 안정에 대한 다양한 관점이 논의되고 있다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI",
+      "summary": "AI 관련 게시글이 많습니다. 사용자들은 AI 기술과 산업 동향을 논의하고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
+      "keyword": "월드컵",
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI의 발전과 그에 따른 사회적 영향"
+      "context": "월드컵 관련 게시글"
     },
     {
       "keyword": "정치",
-      "count": 15,
+      "count": 10,
       "sentiment": "mixed",
-      "context": "정권과 국민의 관계에 대한 다양한 의견"
+      "context": "정치 관련 게시글"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "국내외 경제 동향"
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 관련 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "기대와 관심이 높은 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고 그에 따른 기회와 위험을 분석한다.",
+      "insight": "월드컵과 관련된 마케팅 기회",
+      "action": "월드컵 관련 상품이나 서비스를 제공",
       "priority": "high"
     },
     {
-      "insight": "정치적 불안정성은 경제에 큰 영향을 미칠 수 있다.",
-      "action": "정치적 상황을 주시하고 그에 따른 경제적 영향에 대비한다.",
+      "insight": "AI 기술의 발전과 산업 동향",
+      "action": "AI 기술을 활용한 새로운 제품이나 서비스를 개발",
+      "priority": "high"
+    },
+    {
+      "insight": "정치와 사회 문제에 대한 관심",
+      "action": "정치와 사회 문제에 대한 의견을 수렴하고 반영",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 정치적 상황이 주요 관심사로 나타났다. AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있으며, 정치적 불안정성은 경제에 큰 영향을 미칠 수 있다. 이러한 트렌드에 대한 주시와 분석이 필요하다. 또한, 경제적 안정과 성장을 위한 다양한 관점의 논의가 진행되고 있다. 이러한 트렌드와 의견을 고려하여 마케팅 전략을 수립하고 실행하는 것이 중요하다.",
-  "analyzed_at": "2026-06-11T19:00:34.544Z",
+  "narrative": "최근의 트렌드는 월드컵과 관련된 게시글이 많으며, 사용자들은 경기 결과와 선수들의 활약을 논의하고 있습니다. 또한, AI 기술과 산업 동향에 대한 관심도 높습니다. 정치와 사회 문제에 대한 관심도 존재하지만, 전체적인 분위기는 기대와 관심이 높은 분위기입니다. 이러한 트렌드를 반영하여 마케팅 기회를 찾고, AI 기술을 활용한 새로운 제품이나 서비스를 개발하는 것이 중요할 것입니다.",
+  "analyzed_at": "2026-06-11T20:30:33.773Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
