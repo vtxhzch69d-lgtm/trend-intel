@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "민주당 지지율 하락, 박지원·정청래 사퇴 논란",
+      "topic": "반도체 및 경제",
+      "summary": "SK하이닉스 및 삼성전자 관련 뉴스와 반도체 수출 증가 등 경제 관련 주제가 인기",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "코스피 하락, 미국 주식 폭락",
-      "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI 기술 개발, 양자암호 기술 개발",
+      "topic": "정치 및 사회",
+      "summary": "민주당 대표 선출 및 정치 관련 뉴스와 사회 문제 등이 논의되고 있음",
       "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "AI, 양자암호, 로봇 등 기술 및 과학 관련 뉴스가 관심을 끌고 있음",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "지지율 하락"
+      "keyword": "SK하이닉스",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "반도체 관련 뉴스"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "반도체 및 경제 관련 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 6,
       "sentiment": "positive",
-      "context": "기술 개발"
-    },
-    {
-      "keyword": "코스피",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "하락"
+      "context": "기술 및 과학 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "부정적"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치적 불안정성",
-      "action": "투자자에게 정치적 위험을 경고",
+      "insight": "반도체 및 기술 관련 뉴스가 관심을 끌고 있음",
+      "action": "관련 제품 및 서비스 개발 및 마케팅 강화",
       "priority": "high"
     },
     {
-      "insight": "기술 개발",
-      "action": "AI 기술 개발에 투자",
+      "insight": "경제 및 정치 관련 뉴스가 중요함",
+      "action": "관련 뉴스 및 분석 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치적 논란과 경제적 불안정성이 주로 논의되고 있습니다. 민주당의 지지율 하락과 박지원·정청래의 사퇴 논란이 주요하게 논의되고 있으며, 코스피의 하락과 미국 주식의 폭락도 경제적 불안정성을 가중시키고 있습니다. 반면, AI 기술 개발과 양자암호 기술 개발은 기술 개발의 긍정적인 측면을 보여주고 있습니다. 이러한 트렌드와 키워드를 분석하여, 정치적 불안정성과 기술 개발의 기회를 파악할 수 있습니다.",
-  "analyzed_at": "2026-06-10T22:30:33.707Z",
+  "narrative": "현재 반도체 및 기술 관련 뉴스가 관심을 끌고 있으며, 경제 및 정치 관련 뉴스도 중요함. 관련 제품 및 서비스 개발 및 마케팅 강화가 필요함. 또한, 관련 뉴스 및 분석 제공이 필요함. 전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재함.",
+  "analyzed_at": "2026-06-11T00:30:34.035Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
