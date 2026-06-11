@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래 대표 사퇴 논란 및 민주당 내부 갈등",
+      "summary": "정청래 대표의 사퇴와 민주당 대선 후보들의 깎아 내리기 작업이 논란이 되고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "부동산",
-      "summary": "부동산 가격 상승 및 정부 정책에 대한 논란",
-      "post_count": 8,
+      "summary": "서울 아파트 용적률 제한을 풀어야 하는지에 대한 논의가 진행 중입니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI 기술의 발전 및 다양한 산업에서의 적용",
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 그로 인한 산업의 변화가 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "정청래",
-      "count": 5,
+      "count": 10,
       "sentiment": "negative",
-      "context": "대표 사퇴 논란"
+      "context": "정청래 대표의 사퇴와 관련된 논란"
     },
     {
       "keyword": "부동산",
       "count": 8,
-      "sentiment": "mixed",
-      "context": "가격 상승 및 정부 정책"
+      "sentiment": "neutral",
+      "context": "서울 아파트 용적률 제한과 관련된 논의"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술 발전 및 산업 적용"
+      "context": "AI 기술의 발전과 산업의 변화"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치 및 사회적 이슈에 대한 관심이 높아지고 있다",
-      "action": "관련된 콘텐츠를 생성하여 사용자와의 상호작용을 증가시키는 것",
+      "insight": "정치적인 논란이 소비자들의 불안을 조성할 수 있습니다.",
+      "action": "정치적인 논란에 대한 대응 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 가격 상승 및 정부 정책에 대한 논란이 존재한다",
-      "action": "부동산 관련된 콘텐츠를 생성하여 사용자에게 정보를 제공하는 것",
+      "insight": "부동산 시장의 변화는 소비자들의 구매 결정에 영향을 줄 수 있습니다.",
+      "action": "부동산 시장의 변화에 대한 분석과 대응 전략을 수립해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전 및 다양한 산업에서의 적용이 증가하고 있다",
-      "action": "AI 관련된 콘텐츠를 생성하여 사용자에게 정보를 제공하는 것",
+      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있습니다.",
+      "action": "AI 기술의 발전에 대한 연구와 투자를 해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 및 사회적 이슈에 대한 관심이 높아지고 있으며, 부동산 가격 상승 및 정부 정책에 대한 논란이 존재합니다. 또한, AI 기술의 발전 및 다양한 산업에서의 적용이 증가하고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하여 사용자와의 상호작용을 증가시키고, 사용자에게 정보를 제공하는 것이 중요합니다. 또한, 부동산 및 AI 관련된 콘텐츠를 생성하여 사용자에게 정보를 제공하는 것이 필요합니다.",
-  "analyzed_at": "2026-06-11T05:00:33.834Z",
+  "narrative": "현재의 트렌드는 정치적인 논란과 부동산 시장의 변화, AI 기술의 발전을 중심으로 진행되고 있습니다. 이러한 트렌드들은 소비자들의 불안과 구매 결정에 영향을 줄 수 있습니다. 따라서, 이러한 트렌드에 대한 분석과 대응 전략을 수립해야 합니다. 특히, 정치적인 논란에 대한 대응 전략은 높은 우선순위를 가지고 있어야 합니다. 또한, 부동산 시장의 변화와 AI 기술의 발전에 대한 연구와 투자는 중간 우선순위를 가지고 있어야 합니다.",
+  "analyzed_at": "2026-06-11T06:30:34.509Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
