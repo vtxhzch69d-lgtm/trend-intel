@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
+      "topic": "지방선거",
+      "summary": "지방선거 관련 뉴스와 논평이 많은 관심을 받고 있습니다. 선거 결과와 관련된 논란도 존재합니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
+      "summary": "AI 기술의 발전과 관련된 뉴스와 논평이 많이 등장하고 있습니다. AI의 잠재적 영향과 우려도 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "한국 정치 상황과 관련된 뉴스",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "한국 경제 상황과 관련된 뉴스",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 논평이 많은 관심을 받고 있습니다. 주식 투자와 관련된 글도 있습니다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
@@ -27,41 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "neutral",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 관련된 뉴스와 논평"
     },
     {
-      "keyword": "정치",
+      "keyword": "지방선거",
       "count": 15,
-      "sentiment": "negative",
-      "context": "한국 정치 상황"
+      "sentiment": "mixed",
+      "context": "지방선거 관련 뉴스와 논평"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "주식",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "한국 경제 상황"
+      "context": "주식 투자와 관련된 글"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 20,
+    "negative": 15,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고, 관련 산업의 동향을 분석합니다.",
       "priority": "high"
     },
     {
-      "insight": "한국 정치 상황은 경제에 영향을 미칠 수 있다",
-      "action": "정치 상황을 주시하고 대응策 개발",
+      "insight": "지방선거 관련 뉴스와 논평은 많은 관심을 받고 있습니다.",
+      "action": "지방선거 관련 뉴스와 논평을 분석하고, 관련 산업의 동향을 파악합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 AI 기술의 발전과 그에 따른 사회적 영향, 한국 정치 상황, 경제 상황 등이 주목을 받고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 한국 정치 상황은 경제에 영향을 미칠 수 있다. 이러한 트렌드를 고려하여 비즈니스 모델을 개발하고 대응策을 마련하는 것이 중요하다. 또한, 온라인 커뮤니티에서 나타나는 감정과 트렌드를 분석하여 마케팅 전략을 개발하는 것이 필요하다.",
-  "analyzed_at": "2026-06-11T08:30:33.827Z",
+  "narrative": "지방선거와 AI 기술의 발전이 많은 관심을 받고 있습니다. 지방선거 관련 뉴스와 논평은 많은 논란을 빚고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다. 따라서 AI 기술의 발전을 주시하고, 관련 산업의 동향을 분석하는 것이 중요합니다. 또한, 지방선거 관련 뉴스와 논평을 분석하고, 관련 산업의 동향을 파악하는 것도 필요합니다.",
+  "analyzed_at": "2026-06-11T10:00:33.872Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
