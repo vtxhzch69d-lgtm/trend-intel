@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래-보완수사권 전면 폐지와 민주당 지지자들의 반응",
+      "summary": "정청래-보완수사권 전면 폐지와 관련된 논의가 활발하게 진행되고 있다. 정권과 국민의 관계에 대한 다양한 의견이 제시되고 있다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스",
+      "topic": "기술",
+      "summary": "AI와 관련된 기술 및 산업 동향에 대한 다양한 뉴스와 의견이 제시되고 있다. AI의 발전과 그에 따른 사회적 영향에 대한 논의가 진행되고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "한국 증시 상황과 관련된 뉴스",
-      "post_count": 5,
-      "sentiment": "negative",
+      "summary": "국내외 경제 동향과 관련된 뉴스 및 의견이 제시되고 있다. 경제 성장과 안정에 대한 다양한 관점이 논의되고 있다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정청래-보완수사권 전면 폐지"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI의 발전과 그에 따른 사회적 영향"
     },
     {
-      "keyword": "한국 증시",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "한국 증시 상황"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정권과 국민의 관계에 대한 다양한 의견"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "국내외 경제 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스가 많은 것으로 보아 정치에 관심이 많은 것으로 보임",
-      "action": "정치 관련 콘텐츠를 제공",
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 그에 따른 기회와 위험을 분석한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 많은 관심을 받고 있는 것으로 보임",
-      "action": "AI 관련 콘텐츠를 제공",
+      "insight": "정치적 불안정성은 경제에 큰 영향을 미칠 수 있다.",
+      "action": "정치적 상황을 주시하고 그에 따른 경제적 영향에 대비한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스가 상대적으로 적은 것으로 보아 경제에 관심이 적은 것으로 보임",
-      "action": "경제 관련 콘텐츠를 제공",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 AI 기술의 발전이 많은 관심을 받고 있는 것으로 보임. 정치 관련 뉴스가 많은 것으로 보아 정치에 관심이 많은 것으로 보임. 또한, AI 기술의 발전이 많은 관심을 받고 있는 것으로 보임. 반면, 경제 관련 뉴스가 상대적으로 적은 것으로 보아 경제에 관심이 적은 것으로 보임. 이러한 결과를 바탕으로, 정치와 AI 관련 콘텐츠를 제공하는 것이 효과적일 것으로 보임.",
-  "analyzed_at": "2026-06-11T17:30:34.112Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 정치적 상황이 주요 관심사로 나타났다. AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 수 있으며, 정치적 불안정성은 경제에 큰 영향을 미칠 수 있다. 이러한 트렌드에 대한 주시와 분석이 필요하다. 또한, 경제적 안정과 성장을 위한 다양한 관점의 논의가 진행되고 있다. 이러한 트렌드와 의견을 고려하여 마케팅 전략을 수립하고 실행하는 것이 중요하다.",
+  "analyzed_at": "2026-06-11T19:00:34.544Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
