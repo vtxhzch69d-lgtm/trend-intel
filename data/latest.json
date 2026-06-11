@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 및 경제",
-      "summary": "SK하이닉스 및 삼성전자 관련 뉴스와 반도체 수출 증가 등 경제 관련 주제가 인기",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "민주당 대표 선출 및 정치 관련 뉴스와 사회 문제 등이 논의되고 있음",
-      "post_count": 8,
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 장동혁 사퇴와 관련된 게시글이 많았으며, 정치 관련된 게시글이 대부분입니다.",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI, 양자암호, 로봇 등 기술 및 과학 관련 뉴스가 관심을 끌고 있음",
-      "post_count": 12,
+      "topic": "테크",
+      "summary": "최근 테크 관련 뉴스와 제품 출시가 많은 것으로 나타났습니다. 애플과 삼성의 새로운 제품과 기술에 대한 게시글이 많았으며, 테크 관련된 게시글이 많습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "최근 경제 관련 뉴스와 주식 시장의 변동성이 많은 것으로 나타났습니다. 주식 시장과 경제 관련된 게시글이 많았으며, 경제 관련된 게시글이 많습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "SK하이닉스",
+      "keyword": "장동혁",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "장동혁 사퇴와 관련된 게시글"
+    },
+    {
+      "keyword": "애플",
       "count": 5,
       "sentiment": "positive",
-      "context": "반도체 관련 뉴스"
+      "context": "애플의 새로운 제품과 기술에 대한 게시글"
     },
     {
-      "keyword": "삼성전자",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "반도체 및 경제 관련 뉴스"
-    },
-    {
-      "keyword": "AI",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "기술 및 과학 관련 뉴스"
+      "keyword": "주식",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "주식 시장의 변동성과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "반도체 및 기술 관련 뉴스가 관심을 끌고 있음",
-      "action": "관련 제품 및 서비스 개발 및 마케팅 강화",
+      "insight": "정치 관련된 뉴스와 논란이 많아 정치 관련된 마케팅 전략을 수립해야 합니다.",
+      "action": "정치 관련된 마케팅 전략을 수립",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스가 중요함",
-      "action": "관련 뉴스 및 분석 제공",
+      "insight": "테크 관련된 뉴스와 제품 출시가 많아 테크 관련된 마케팅 전략을 수립해야 합니다.",
+      "action": "테크 관련된 마케팅 전략을 수립",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련된 뉴스와 주식 시장의 변동성이 많아 경제 관련된 마케팅 전략을 수립해야 합니다.",
+      "action": "경제 관련된 마케팅 전략을 수립",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 반도체 및 기술 관련 뉴스가 관심을 끌고 있으며, 경제 및 정치 관련 뉴스도 중요함. 관련 제품 및 서비스 개발 및 마케팅 강화가 필요함. 또한, 관련 뉴스 및 분석 제공이 필요함. 전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재함.",
-  "analyzed_at": "2026-06-11T00:30:34.035Z",
+  "narrative": "최근 정치, 테크, 경제 관련된 뉴스와 논란이 많아 관련된 마케팅 전략을 수립해야 합니다. 정치 관련된 뉴스와 논란이 많아 정치 관련된 마케팅 전략을 수립해야 하며, 테크 관련된 뉴스와 제품 출시가 많아 테크 관련된 마케팅 전략을 수립해야 합니다. 또한 경제 관련된 뉴스와 주식 시장의 변동성이 많아 경제 관련된 마케팅 전략을 수립해야 합니다. 이러한 마케팅 전략을 수립하여 효과적인 마케팅을 진행할 수 있습니다.",
+  "analyzed_at": "2026-06-11T02:01:25.764Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
