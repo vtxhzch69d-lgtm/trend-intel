@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "민주당 당대표 선거와 정치 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 15,
+      "summary": "정청래 대표의 트윗과 민주당 지지층에 대한 논의가 활발합니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식",
-      "summary": "주식 시장의 변동과 관련된 게시글이 많습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 뉴스와 기술이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "주식",
+      "summary": "주식 시장의 급등과 관련된 게시글이 많습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 뉴스 및 논의가 진행 중입니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 20,
+      "keyword": "정청래",
+      "count": 5,
       "sentiment": "mixed",
-      "context": "민주당 당대표 선거와 정치 관련 뉴스"
+      "context": "민주당 지지층과 관련된 논의"
     },
     {
       "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장의 변동"
+      "count": 5,
+      "sentiment": "positive",
+      "context": "주식 시장의 급등"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 관련 뉴스와 기술"
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "AI 기술과 관련된 뉴스 및 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스가 주목을 받고 있습니다.",
-      "action": "정치 관련 콘텐츠를 제공합니다.",
+      "insight": "정치와 주식 시장의 급등이 관련된 논의가 많습니다.",
+      "action": "관련된 뉴스와 트렌드를 주시하여 마케팅 전략을 수립합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동이 주목을 받고 있습니다.",
-      "action": "주식 관련 정보를 제공합니다.",
+      "insight": "AI 기술과 관련된 뉴스 및 논의가 진행 중입니다.",
+      "action": "AI 기술을 활용한 마케팅 전략을 수립합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 관련 뉴스와 기술이 주목을 받고 있습니다.",
-      "action": "AI 관련 콘텐츠를 제공합니다.",
-      "priority": "high"
     }
   ],
-  "narrative": "현재 정치 관련 뉴스가 주목을 받고 있습니다. 민주당 당대표 선거와 관련된 게시글이 많으며, 정치 관련 콘텐츠를 제공하는 것이 중요합니다. 또한 주식 시장의 변동이 주목을 받고 있으며, 주식 관련 정보를 제공하는 것이 필요합니다. AI 관련 뉴스와 기술도 주목을 받고 있으며, AI 관련 콘텐츠를 제공하는 것이 중요합니다. 이러한 트렌드를 고려하여 콘텐츠를 제공하고, 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-11T23:30:33.864Z",
+  "narrative": "현재의 트렌드는 정치와 주식 시장의 급등, 그리고 AI 기술과 관련된 뉴스 및 논의가 주를 이루고 있습니다. 이러한 트렌드를 주시하여 마케팅 전략을 수립하고, AI 기술을 활용한 마케팅 전략을 수립하여 사업을 발전시킬 수 있습니다. 또한, 중립적인 분위기를 유지하여 고객의 신뢰를 얻을 수 있습니다.",
+  "analyzed_at": "2026-06-12T01:00:34.723Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
