@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "민주당의 분위기와 대통령 지지율에 대한 논의",
+      "summary": "최근 정치 관련된 글들이 많습니다. 선거와 관련된 글들이 주를 이루고 있습니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI와 로봇 기술의 발전과 관련된 뉴스",
+      "summary": "기술 관련된 글들이 많습니다. AI와 관련된 글들이 주를 이루고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "기업의 기술 개발과 투자에 대한 소식",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "스포츠",
+      "summary": "최근 스포츠 관련된 글들이 많습니다. 월드컵과 관련된 글들이 주를 이루고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
+      "keyword": "선거",
       "count": 10,
       "sentiment": "negative",
-      "context": "정치적인 논의에서 자주 등장하는 키워드"
+      "context": "정치 관련된 글에서 많이 사용되는 키워드입니다."
     },
     {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "기술 발전과 관련된 키워드"
+      "context": "기술 관련된 글에서 많이 사용되는 키워드입니다."
     },
     {
-      "keyword": "경제",
+      "keyword": "월드컵",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "기업과 투자에 관련된 키워드"
+      "sentiment": "positive",
+      "context": "스포츠 관련된 글에서 많이 사용되는 키워드입니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중立적인 분위기"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정입니다. 긍정적인 감정과 부정적인 감정이 혼재되어 있습니다."
   },
   "business_insights": [
     {
-      "insight": "정치적인 논의가 증가하고 있다",
-      "action": "정치적인 트렌드에 대한 분석을 강화해야 한다",
+      "insight": "정치 관련된 마케팅을 진행할 때에는 주의가 필요합니다.",
+      "action": "정치 관련된 마케팅을 진행할 때에는 주의를 기울이고 부정적인 감정을 유발할 수 있는 키워드를 피하는 것이 좋습니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 발전이 빠르게 진행되고 있다",
-      "action": "최신 기술 트렌드에 대한 연구를 진행해야 한다",
+      "insight": "기술 관련된 마케팅을 진행할 때에는 AI와 관련된 키워드를 사용하는 것이 좋습니다.",
+      "action": "기술 관련된 마케팅을 진행할 때에는 AI와 관련된 키워드를 사용하여 긍정적인 감정을 유발할 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제적인 안정성이 중요하다",
-      "action": "경제적인 트렌드에 대한 분석을 강화해야 한다",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치적인 논의가 증가하고 있으며, 기술 발전이 빠르게 진행되고 있다. 또한, 경제적인 안정성이 중요하다는 인식이 존재한다. 이러한 트렌드에 대한 분석을 통해, 기업과 개인은 최신 정보에 대한 이해를 높일 수 있을 것이다. 또한, 정치적인 트렌드에 대한 분석을 강화하고, 최신 기술 트렌드에 대한 연구를 진행해야 한다. 이를 통해, 기업과 개인은 미래의 도전과 기회에 대비할 수 있을 것이다.",
-  "analyzed_at": "2026-06-12T10:00:34.193Z",
+  "narrative": "최근 정치 관련된 글들이 많습니다. 선거와 관련된 글들이 주를 이루고 있습니다. 기술 관련된 글들도 많습니다. AI와 관련된 글들이 주를 이루고 있습니다. 스포츠 관련된 글들도 있습니다. 월드컵과 관련된 글들이 주를 이루고 있습니다. 마케터는 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 정치 관련된 마케팅을 진행할 때에는 주의를 기울이고 부정적인 감정을 유발할 수 있는 키워드를 피하는 것이 좋습니다. 기술 관련된 마케팅을 진행할 때에는 AI와 관련된 키워드를 사용하여 긍정적인 감정을 유발할 수 있습니다.",
+  "analyzed_at": "2026-06-12T11:30:34.113Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
