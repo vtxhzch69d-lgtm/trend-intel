@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래 대표의 트윗과 민주당 지지층에 대한 논의가 활발합니다.",
-      "post_count": 10,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 이는 AI의 잠재적 활용과 관련된 우려를 포함한다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "주식",
-      "summary": "주식 시장의 급등과 관련된 게시글이 많습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 뉴스 및 논의가 진행 중입니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 논의되고 있다. 이는 정치인, 정책, 및 사회 문제에 대한 의견을 포함한다.",
+      "post_count": 20,
+      "sentiment": "negative",
       "urgency": "medium"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "스포츠 관련 주제가 논의되고 있다. 이는 축구, 선수, 및 경기에 대한 의견을 포함한다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "민주당 지지층과 관련된 논의"
-    },
-    {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "주식 시장의 급등"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 20,
       "sentiment": "neutral",
-      "context": "AI 기술과 관련된 뉴스 및 논의"
+      "context": "AI 기술의 발전과 관련된 주제"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치 및 사회 관련 주제"
+    },
+    {
+      "keyword": "축구",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "스포츠 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치와 주식 시장의 급등이 관련된 논의가 많습니다.",
-      "action": "관련된 뉴스와 트렌드를 주시하여 마케팅 전략을 수립합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 잠재적 활용과 관련된 우려를 고려하여 전략을 수립해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술과 관련된 뉴스 및 논의가 진행 중입니다.",
-      "action": "AI 기술을 활용한 마케팅 전략을 수립합니다.",
+      "insight": "정치 및 사회 관련 주제는 소비자의 관심을 끌 수 있다.",
+      "action": "정치 및 사회 관련 주제에 대한 의견을 고려하여 마케팅 전략을 수립해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치와 주식 시장의 급등, 그리고 AI 기술과 관련된 뉴스 및 논의가 주를 이루고 있습니다. 이러한 트렌드를 주시하여 마케팅 전략을 수립하고, AI 기술을 활용한 마케팅 전략을 수립하여 사업을 발전시킬 수 있습니다. 또한, 중립적인 분위기를 유지하여 고객의 신뢰를 얻을 수 있습니다.",
-  "analyzed_at": "2026-06-12T01:00:34.723Z",
+  "narrative": "최근의 트렌드는 AI 기술, 정치 및 사회, 스포츠 관련 주제가 논의되고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 정치 및 사회 관련 주제는 소비자의 관심을 끌 수 있다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하고, 소비자의 관심을 끌 수 있는 콘텐츠를 개발해야 한다. 또한, AI 기술의 잠재적 활용과 관련된 우려를 고려하여 전략을 수립해야 한다.",
+  "analyzed_at": "2026-06-12T02:30:34.084Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
