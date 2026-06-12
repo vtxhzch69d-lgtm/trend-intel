@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "스페이스X 상장",
-      "summary": "스페이스X가 나스닥에 상장하였으며, 일론 머스크의 연설과 상장 관련 뉴스가热議되고 있습니다.",
+      "summary": "스페이스X가 나스닥에 상장되었습니다. 일론 머스크의 연설과 상장 소식이 클리앙 커뮤니티에서热한 관심을 받고 있습니다.",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많은 논쟁을 불러일으키고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "이재명과 민주당",
+      "summary": "이재명과 민주당의 관계가 클리앙 커뮤니티에서 논란이 되고 있습니다. 일부 사용자들은 이재명과 민주당의 관계를 두고 논쟁을 벌이고 있습니다.",
+      "post_count": 4,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시가 많이 논의되고 있습니다.",
-      "post_count": 15,
+      "topic": "월드컵",
+      "summary": "월드컵 관련 게시글이 클리앙 커뮤니티에서 인기를 끌고 있습니다. 사용자들은 월드컵 주제가와 축구 경기에 대해 논의하고 있습니다.",
+      "post_count": 3,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "스페이스X",
       "count": 10,
       "sentiment": "positive",
-      "context": "상장과 기술 개발"
+      "context": "상장 소식과 일론 머스크의 연설"
     },
     {
-      "keyword": "일론 머스크",
+      "keyword": "이재명",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "민주당과의 관계와 정치적 논쟁"
+    },
+    {
+      "keyword": "월드컵",
       "count": 5,
       "sentiment": "positive",
-      "context": "스페이스X와 기술 개발"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 뉴스와 의견"
+      "context": "축구 경기와 주제가"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "적절한 논쟁과 관심"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "클리앙 커뮤니티의 사용자들은 스페이스X와 월드컵에 대해 긍정적인 반응을 보이고 있지만, 이재명과 민주당에 대한 논쟁은 부정적인 반응을引き起こ고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "스페이스X의 상장은 기술 개발과 투자에 긍정적인 영향을 미칠 수 있습니다.",
-      "action": "기술 개발과 투자에 관심을 두어야 합니다.",
+      "insight": "스페이스X의 상장은 기술과 투자에 대한 관심을 높일 수 있습니다.",
+      "action": "관련된 기술과 투자 기회를 탐색하세요.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견은 많은 논쟁을 불러일으킬 수 있습니다.",
-      "action": "정치 관련 뉴스와 의견에 주의를 기울여야 합니다.",
+      "insight": "이재명과 민주당의 관계는 정치적 불안정성을 높일 수 있습니다.",
+      "action": "정치적 상황을 주시하고, 불안정성에 대한 대비책을 마련하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드 분석 결과, 스페이스X의 상장과 기술 개발이 많은 관심을 받고 있습니다. 또한, 정치 관련 뉴스와 의견도 많은 논쟁을 불러일으키고 있습니다. 이러한 트렌드와 키워드는 기술 개발과 투자, 정치 관련 뉴스와 의견에 관심을 두어야 합니다. 또한, 적절한 논쟁과 관심을 유지하기 위해 주의를 기울여야 합니다.",
-  "analyzed_at": "2026-06-12T16:00:34.072Z",
+  "narrative": "클리앙 커뮤니티의 사용자들은 스페이스X의 상장과 월드컵에 대해 관심을 보이고 있습니다. 그러나 이재명과 민주당의 관계는 정치적 논쟁을引き起こ고 있습니다. 이러한 트렌드와 키워드는 마케팅 전략과 비즈니스 의사결정에 도움이 될 수 있습니다. 스페이스X의 상장은 기술과 투자에 대한 관심을 높일 수 있으며, 이재명과 민주당의 관계는 정치적 불안정성을 높일 수 있습니다. 이러한 상황을 주시하고, 관련된 기회와 위험을 탐색하세요.",
+  "analyzed_at": "2026-06-12T17:30:34.386Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
