@@ -2,67 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "대구 출구조사 결과와 관련된 게시글이 많으며, 정치적인 주제가热을 끌고 있습니다.",
-      "post_count": 10,
+      "summary": "이재명 대통령과 조국 수사, 재판 결과에 대한 논란",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식",
-      "summary": "한국의 스페이스X에 가장 근접했던 신규상장 주식과 관련된 게시글이 있습니다.",
-      "post_count": 5,
+      "topic": "기술",
+      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "엔터테인먼트",
-      "summary": "참교육, 리제로, 삼체 등 다양한 드라마와 애니메이션에 대한 게시글이 있습니다.",
+      "topic": "경제",
+      "summary": "한국 경제와 기업의 동향",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 15,
+      "keyword": "이재명",
+      "count": 10,
       "sentiment": "negative",
-      "context": "대구 출구조사 결과와 관련된 게시글"
+      "context": "정치적 논란"
     },
     {
-      "keyword": "주식",
+      "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "한국의 스페이스X에 가장 근접했던 신규상장 주식"
+      "context": "기술의 발전"
     },
     {
-      "keyword": "엔터테인먼트",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "참교육, 리제로, 삼체 등 다양한 드라마와 애니메이션"
+      "keyword": "조국",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "수사와 재판 결과"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 비중이 높지만 중립적인 감정도 상당수 존재"
   },
   "business_insights": [
     {
-      "insight": "정치적인 주제가熱을 끌고 있습니다.",
-      "action": "정치적인 주제에 대한 게시글을 더 많이 작성하세요.",
+      "insight": "한국 정치와 경제에 대한 관심이 높아지고 있다",
+      "action": "관련 뉴스와 정보를 제공하여 사용자들의 관심을满足한다",
       "priority": "high"
     },
     {
-      "insight": "엔터테인먼트 관련된 게시글이 많습니다.",
-      "action": "엔터테인먼트 관련된 게시글을 더 많이 작성하세요.",
+      "insight": "AI 기술의 발전이 사회적으로 큰 영향을 미치고 있다",
+      "action": "AI 기술에 대한 정보와 교육을 제공하여 사용자들의 이해를 높인다",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치적인 주제와 엔터테인먼트 관련된 주제가熱을 끌고 있습니다. 정치적인 주제는 대구 출구조사 결과와 관련된 게시글이 많으며, 엔터테인먼트 관련된 주제는 다양한 드라마와 애니메이션에 대한 게시글이 있습니다. 이러한 트렌드를 따라서 정치적인 주제와 엔터테인먼트 관련된 주제에 대한 게시글을 더 많이 작성하면 더 많은 관심을 끌 수 있을 것입니다.",
-  "analyzed_at": "2026-06-12T13:00:34.760Z",
-  "post_count": 61,
+  "narrative": "최근 한국의 정치와 경제에 대한 관심이 높아지고 있다. 이재명 대통령과 조국 수사, 재판 결과에 대한 논란이 계속되고 있으며, AI 기술의 발전이 사회적으로 큰 영향을 미치고 있다. 이러한 동향을 반영하여 관련 뉴스와 정보를 제공하고, 사용자들의 이해를 높이는 것이 중요하다. 또한, 부정적인 감정의 비중이 높지만 중립적인 감정도 상당수 존재하므로, 사용자들의 감정을 고려하여 콘텐츠를 제공하는 것이 필요하다.",
+  "analyzed_at": "2026-06-12T14:30:33.995Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
