@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "한국의 월드컵 경기와 관련된 다양한 게시글이 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "민주당의 분위기와 대통령 지지율에 대한 논의",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많으며, 다양한 의견이 교환되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "기술",
+      "summary": "AI와 로봇 기술의 발전과 관련된 뉴스",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 게시글이 증가하고 있으며, 다양한 의견이 교환되고 있습니다.",
+      "topic": "경제",
+      "summary": "기업의 기술 개발과 투자에 대한 소식",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "한국의 월드컵 경기"
-    },
-    {
-      "keyword": "정치",
-      "count": 30,
-      "sentiment": "mixed",
-      "context": "정치 관련된 다양한 의견"
+      "keyword": "민주당",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치적인 논의에서 자주 등장하는 키워드"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 게시글"
+      "context": "기술 발전과 관련된 키워드"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "기업과 투자에 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "한국의 월드컵 경기와 관련된 긍정적인 게시글이 많으며, 정치 관련된 게시글은 다양한 의견이 교환되고 있습니다."
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중立적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한국의 월드컵 경기와 관련된 마케팅 기회가 많습니다.",
-      "action": "월드컵 관련된 마케팅 캠페인을 진행하세요.",
+      "insight": "정치적인 논의가 증가하고 있다",
+      "action": "정치적인 트렌드에 대한 분석을 강화해야 한다",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 게시글은 다양한 의견이 교환되고 있으므로, 정치 관련된 마케팅 캠페인을 진행할 때 주의하세요.",
-      "action": "정치 관련된 마케팅 캠페인을 주의해서 진행하세요.",
+      "insight": "기술 발전이 빠르게 진행되고 있다",
+      "action": "최신 기술 트렌드에 대한 연구를 진행해야 한다",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술과 관련된 게시글이 증가하고 있으므로, AI 기술과 관련된 마케팅 캠페인을 진행할 수 있습니다.",
-      "action": "AI 기술과 관련된 마케팅 캠페인을 진행하세요.",
+      "insight": "경제적인 안정성이 중요하다",
+      "action": "경제적인 트렌드에 대한 분석을 강화해야 한다",
       "priority": "low"
     }
   ],
-  "narrative": "현재 한국의 온라인 커뮤니티에서는 월드컵과 관련된 게시글이 많으며, 정치 관련된 게시글도 다양한 의견이 교환되고 있습니다. 또한, AI 기술과 관련된 게시글이 증가하고 있으며, 다양한 의견이 교환되고 있습니다. 이러한 트렌드를 반영하여, 마케팅 캠페인을 진행할 수 있습니다. 월드컵 관련된 마케팅 캠페인을 진행할 수 있으며, 정치 관련된 마케팅 캠페인을 주의해서 진행할 수 있습니다. 또한, AI 기술과 관련된 마케팅 캠페인을 진행할 수 있습니다.",
-  "analyzed_at": "2026-06-12T08:30:34.212Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치적인 논의가 증가하고 있으며, 기술 발전이 빠르게 진행되고 있다. 또한, 경제적인 안정성이 중요하다는 인식이 존재한다. 이러한 트렌드에 대한 분석을 통해, 기업과 개인은 최신 정보에 대한 이해를 높일 수 있을 것이다. 또한, 정치적인 트렌드에 대한 분석을 강화하고, 최신 기술 트렌드에 대한 연구를 진행해야 한다. 이를 통해, 기업과 개인은 미래의 도전과 기회에 대비할 수 있을 것이다.",
+  "analyzed_at": "2026-06-12T10:00:34.193Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
