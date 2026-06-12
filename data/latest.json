@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 조국 수사, 재판 결과에 대한 논란",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "스페이스X 상장",
+      "summary": "스페이스X가 나스닥에 상장하였으며, 일론 머스크의 연설과 상장 관련 뉴스가热議되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견이 많은 논쟁을 불러일으키고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "한국 경제와 기업의 동향",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시가 많이 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "스페이스X",
       "count": 10,
-      "sentiment": "negative",
-      "context": "정치적 논란"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
       "sentiment": "positive",
-      "context": "기술의 발전"
+      "context": "상장과 기술 개발"
     },
     {
-      "keyword": "조국",
+      "keyword": "일론 머스크",
       "count": 5,
+      "sentiment": "positive",
+      "context": "스페이스X와 기술 개발"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "mixed",
-      "context": "수사와 재판 결과"
+      "context": "정치 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 비중이 높지만 중립적인 감정도 상당수 존재"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "적절한 논쟁과 관심"
   },
   "business_insights": [
     {
-      "insight": "한국 정치와 경제에 대한 관심이 높아지고 있다",
-      "action": "관련 뉴스와 정보를 제공하여 사용자들의 관심을满足한다",
+      "insight": "스페이스X의 상장은 기술 개발과 투자에 긍정적인 영향을 미칠 수 있습니다.",
+      "action": "기술 개발과 투자에 관심을 두어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 사회적으로 큰 영향을 미치고 있다",
-      "action": "AI 기술에 대한 정보와 교육을 제공하여 사용자들의 이해를 높인다",
+      "insight": "정치 관련 뉴스와 의견은 많은 논쟁을 불러일으킬 수 있습니다.",
+      "action": "정치 관련 뉴스와 의견에 주의를 기울여야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 한국의 정치와 경제에 대한 관심이 높아지고 있다. 이재명 대통령과 조국 수사, 재판 결과에 대한 논란이 계속되고 있으며, AI 기술의 발전이 사회적으로 큰 영향을 미치고 있다. 이러한 동향을 반영하여 관련 뉴스와 정보를 제공하고, 사용자들의 이해를 높이는 것이 중요하다. 또한, 부정적인 감정의 비중이 높지만 중립적인 감정도 상당수 존재하므로, 사용자들의 감정을 고려하여 콘텐츠를 제공하는 것이 필요하다.",
-  "analyzed_at": "2026-06-12T14:30:33.995Z",
+  "narrative": "최근의 트렌드와 키워드 분석 결과, 스페이스X의 상장과 기술 개발이 많은 관심을 받고 있습니다. 또한, 정치 관련 뉴스와 의견도 많은 논쟁을 불러일으키고 있습니다. 이러한 트렌드와 키워드는 기술 개발과 투자, 정치 관련 뉴스와 의견에 관심을 두어야 합니다. 또한, 적절한 논쟁과 관심을 유지하기 위해 주의를 기울여야 합니다.",
+  "analyzed_at": "2026-06-12T16:00:34.072Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
