@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "한국 축구 국가대표팀의 월드컵 경기와 관련된 게시글이 많습니다. 홍명보 감독과 선수들의 활약이 주목받고 있습니다.",
-      "post_count": 30,
+      "summary": "월드컵 경기 분석과 선수들의 활약이 주목받고 있다. 한국 대표팀의 경기 결과와 전략이 논의되고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 뉴스와 업계 동향이 주목받고 있습니다. 오픈AI, 앤트로픽, 네이버 등이 관련된 회사입니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 논평이 활발하게讨論되고 있다. 정치인들의 발언과 정책이 주목받고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업과 관련된 뉴스와 업계 동향이 주목받고 있습니다. 삼성, 카카오, 네이버 등이 관련된 회사입니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 발전이 주목받고 있다. AI, 로봇, 전기차 등 다양한 기술 분야가 논의되고 있다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "월드컵",
-      "count": 30,
+      "count": 20,
       "sentiment": "positive",
-      "context": "한국 축구 국가대표팀의 월드컵 경기"
+      "context": "한국 대표팀의 경기 결과와 전략"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치인들의 발언과 정책"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술과 관련된 뉴스와 업계 동향"
-    },
-    {
-      "keyword": "반도체",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "반도체 산업과 관련된 뉴스와 업계 동향"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 0,
+    "negative": 10,
     "neutral": 20,
-    "overall_mood": "한국 축구 국가대표팀의 월드컵 경기와 관련된 긍정적인 게시글이 많습니다."
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "한국 축구 국가대표팀의 월드컵 경기와 관련된 마케팅 기회",
-      "action": "월드컵 관련된 광고와 프로모션을 진행합니다.",
+      "insight": "월드컵 경기 분석과 선수들의 활약이 주목받고 있다.",
+      "action": "한국 대표팀의 경기 결과와 전략을 분석하고 홍보할 수 있다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술과 관련된 비즈니스 기회",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발합니다.",
+      "insight": "정치 관련 뉴스와 논평이 활발하게讨論되고 있다.",
+      "action": "정치인들의 발언과 정책을 분석하고 논평할 수 있다.",
       "priority": "medium"
     },
     {
-      "insight": "반도체 산업과 관련된 비즈니스 기회",
-      "action": "반도체 산업과 관련된 비즈니스 모델을 개발합니다.",
-      "priority": "low"
+      "insight": "최신 기술 뉴스와 발전이 주목받고 있다.",
+      "action": "최신 기술 뉴스와 발전을 분석하고 홍보할 수 있다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "한국 온라인 커뮤니티에서 현재 가장 주목받고 있는 주제는 월드컵입니다. 한국 축구 국가대표팀의 월드컵 경기와 관련된 게시글이 많습니다. 홍명보 감독과 선수들의 활약이 주목받고 있습니다. 또한, AI 기술과 관련된 뉴스와 업계 동향이 주목받고 있습니다. 오픈AI, 앤트로픽, 네이버 등이 관련된 회사입니다. 반도체 산업과 관련된 뉴스와 업계 동향도 주목받고 있습니다. 삼성, 카카오, 네이버 등이 관련된 회사입니다. 이러한 주제와 관련된 마케팅 기회와 비즈니스 기회를 발굴하여 활용할 수 있습니다.",
-  "analyzed_at": "2026-06-12T04:00:33.883Z",
+  "narrative": "최근의 트렌드는 월드컵과 정치, 기술 분야로 나뉘어 있다. 월드컵 경기 분석과 선수들의 활약이 주목받고 있으며, 정치 관련 뉴스와 논평이 활발하게讨論되고 있다. 또한, 최신 기술 뉴스와 발전이 주목받고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-06-12T05:30:33.945Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
