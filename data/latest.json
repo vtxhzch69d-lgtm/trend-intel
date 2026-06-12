@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 정권",
-      "summary": "이재명 정권의 성공을 바라는 게시글과 관련된 토론이 활발히 진행 중입니다. 일부 사용자는 이재명 정권의 정책과 방향에 대해 비판적인 의견을 내세우고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "스페이스X 상장",
+      "summary": "스페이스X가 나스닥에 상장되었습니다. 일론 머스크의 연설이 화제가 되었습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "스페이스X",
-      "summary": "스페이스X의 상장과 관련된 뉴스 및 토론이 진행 중입니다. 일부 사용자는 스페이스X의 성공에 대해 긍정적인 의견을 내세우고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "이재명 정권",
+      "summary": "이재명 정권의 성공을 기대하는 목소리가 있습니다. 그러나 일부에서는 이재명 정권의 정책에 대한 비판도 있습니다.",
+      "post_count": 3,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "월드컵",
-      "summary": "월드컵과 관련된 뉴스 및 토론이 진행 중입니다. 일부 사용자는 한국 대표팀의 경기에 대해 비판적인 의견을 내세우고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "summary": "월드컵 관련 게시글이 많이 올라왔습니다. 한국 대표팀의 경기 결과와 선수들의 활약이 화제가 되었습니다.",
+      "post_count": 4,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "이재명 정권의 성공을 바라는 게시글과 관련된 토론"
+      "keyword": "스페이스X",
+      "count": 7,
+      "sentiment": "positive",
+      "context": "상장과 관련된 게시글"
     },
     {
-      "keyword": "스페이스X",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "스페이스X의 상장과 관련된 뉴스 및 토론"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정권의 성공과 정책에 대한 비판"
     },
     {
       "keyword": "월드컵",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "월드컵과 관련된 뉴스 및 토론"
+      "count": 4,
+      "sentiment": "positive",
+      "context": "한국 대표팀의 경기 결과와 선수들의 활약"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "한국 온라인 커뮤니티에서는 스페이스X 상장과 월드컵 관련 게시글이 많이 올라왔으며, 이재명 정권에 대한 의견이 분분합니다."
   },
   "business_insights": [
     {
-      "insight": "이재명 정권의 성공을 바라는 게시글과 관련된 토론이 활발히 진행 중입니다.",
-      "action": "정치 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "스페이스X 상장은 기술 산업의 발전에 긍정적인 영향을 미칠 수 있습니다.",
+      "action": "기술 산업에 투자하는 것을 고려해 볼 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "스페이스X의 상장과 관련된 뉴스 및 토론이 진행 중입니다.",
-      "action": "테크 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "월드컵 관련 게시글이 많이 올라왔습니다. 이에 따라 스포츠 관련 산업의 발전이 기대됩니다.",
+      "action": "스포츠 관련 산업에 투자하는 것을 고려해 볼 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 이재명 정권의 성공을 바라는 게시글과 관련된 토론이 활발히 진행 중입니다. 일부 사용자는 이재명 정권의 정책과 방향에 대해 비판적인 의견을 내세우고 있습니다. 또한, 스페이스X의 상장과 관련된 뉴스 및 토론이 진행 중입니다. 일부 사용자는 스페이스X의 성공에 대해 긍정적인 의견을 내세우고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 정치 관련된 마케팅 전략을 수립해야 하며, 테크 관련된 마케팅 전략도 수립해야 합니다. 중립적인 분위기를 고려하여 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-12T19:00:34.327Z",
+  "narrative": "한국 온라인 커뮤니티에서는 스페이스X 상장과 월드컵 관련 게시글이 많이 올라왔으며, 이재명 정권에 대한 의견이 분분합니다. 스페이스X 상장은 기술 산업의 발전에 긍정적인 영향을 미칠 수 있으며, 월드컵 관련 게시글은 스포츠 관련 산업의 발전을 기대할 수 있습니다. 이러한 트렌드를 고려하여 기술 산업과 스포츠 관련 산업에 투자하는 것을 고려해 볼 수 있습니다.",
+  "analyzed_at": "2026-06-12T20:30:34.230Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
