@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 정치 뉴스 및 의견",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "국내외 경제 뉴스 및 분석",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 트윗과 관련된 논란이 클리앙 커뮤니티에서 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 개발",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "부동산",
+      "summary": "클리앙 커뮤니티에서 부동산 관련 주제가 많이 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "low"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "클리앙 커뮤니티에서 AI와 기술 관련 주제가 많이 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 10,
+      "count": 12,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스"
+      "context": "이재명 대통령의 트윗과 관련된 논란"
     },
     {
-      "keyword": "경제",
+      "keyword": "부동산",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "국내외 경제 뉴스"
+      "sentiment": "negative",
+      "context": "클리앙 커뮤니티에서 부동산 관련 주제"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "context": "클리앙 커뮤니티에서 AI와 기술 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높습니다."
   },
   "business_insights": [
     {
-      "insight": "정치 뉴스가 많은 관심을 받고 있다",
-      "action": "정치 관련 콘텐츠 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "경제 뉴스가 중립적인 반응을 보이고 있다",
-      "action": "경제 관련 콘텐츠 개발",
+      "insight": "클리앙 커뮤니티에서 부동산 관련 주제가 많이 논의되고 있습니다.",
+      "action": "부동산 관련 서비스나 제품을 제공할 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술 뉴스가 긍정적인 반응을 보이고 있다",
-      "action": "기술 관련 콘텐츠 개발",
-      "priority": "low"
+      "insight": "클리앙 커뮤니티에서 AI와 기술 관련 주제가 많이 논의되고 있습니다.",
+      "action": "AI와 기술 관련 서비스나 제품을 제공할 수 있습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치 뉴스가 많은 관심을 받고 있으며, 경제 뉴스는 중립적인 반응을 보이고 있다. 또한 최신 기술 뉴스는 긍정적인 반응을 보이고 있다. 이러한 트렌드를 반영하여 콘텐츠 개발 및 마케팅 전략을 수립할 수 있을 것이다. 정치 관련 콘텐츠 개발은 높은 우선순위를 가지고 있으며, 경제 관련 콘텐츠 개발은 중간 우선순위를 가지고 있다. 기술 관련 콘텐츠 개발은 낮은 우선순위를 가지고 있지만, 긍정적인 반응을 보이고 있으므로 고려할 수 있다.",
-  "analyzed_at": "2026-06-13T18:00:33.592Z",
+  "narrative": "클리앙 커뮤니티에서 이재명 대통령의 트윗과 관련된 논란이 많이 논의되고 있습니다. 또한, 부동산 관련 주제와 AI와 기술 관련 주제도 많이 논의되고 있습니다. 이러한 주제는 클리앙 커뮤니티의 사용자들이 관심을 가지고 있는 주제입니다. 따라서, 이러한 주제에 대한 서비스나 제품을 제공할 수 있습니다. 또한, 클리앙 커뮤니티의 사용자들이 부정적인 감정을 많이 가지고 있기 때문에, 이러한 감정을 고려하여 서비스나 제품을 제공할 수 있습니다.",
+  "analyzed_at": "2026-06-13T19:30:33.509Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
