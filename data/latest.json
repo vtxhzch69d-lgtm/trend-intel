@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 관련 게시글이 많습니다. 한국과 다른 국가들의 경기 결과와 관련된 게시글이 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "대통령 해외순방과 여당대표의 행동에 대한 논란",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI와 로봇 기술의 발전",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "제네시스",
-      "summary": "제네시스 관련 게시글이 많습니다. 제네시스의 새로운 모델과 기술에 대한 게시글이 있습니다.",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "퀴어퍼레이드",
-      "summary": "퀴어퍼레이드 관련 게시글이 있습니다. 퀴어퍼레이드의 진행과 관련된 논란에 대한 게시글이 있습니다.",
-      "post_count": 2,
+      "topic": "경제",
+      "summary": "주식 시장과 기업의 동향",
+      "post_count": 8,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "월드컵 관련 게시글"
-    },
-    {
-      "keyword": "제네시스",
-      "count": 5,
       "sentiment": "positive",
-      "context": "제네시스 관련 게시글"
+      "context": "기술 발전"
     },
     {
-      "keyword": "퀴어퍼레이드",
-      "count": 3,
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "대통령과 여당대표의 행동"
+    },
+    {
+      "keyword": "주식",
+      "count": 8,
       "sentiment": "mixed",
-      "context": "퀴어퍼레이드 관련 게시글"
+      "context": "시장 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "월드컵 관련 마케팅을 진행할 수 있습니다.",
-      "action": "월드컵 관련 마케팅 캠페인 진행",
+      "insight": "기술 발전을 주도하는 기업은 시장에서 경쟁력을 가질 수 있다",
+      "action": "기술 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "제네시스 관련 마케팅을 진행할 수 있습니다.",
-      "action": "제네시스 관련 마케팅 캠페인 진행",
+      "insight": "정치적 불안정성은 경제에 부정적인 영향을 미친다",
+      "action": "정치적 안정성 추구",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 제네시스 관련 게시글이 많습니다. 퀴어퍼레이드 관련 게시글도 있습니다. 이러한 트렌드를 이용하여 마케팅 캠페인을 진행할 수 있습니다. 또한, 제네시스 관련 마케팅 캠페인을 진행할 수 있습니다. 그러나, 퀴어퍼레이드 관련 마케팅 캠페인은 주의가 필요합니다. 중립적인 분위기를 유지하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-13T10:30:33.817Z",
+  "narrative": "最近의 정치적 상황과 기술 발전이 시장에 미치는 영향에 대한 분석이다. 정치적 불안정성과 기술 발전은 경제에 큰 영향을 미치고 있다. 기업들은 기술 투자를 증가시키고 정치적 안정성을 추구해야 한다. 또한, 시장 동향을 주시하고 적절한 전략을 수립해야 한다.",
+  "analyzed_at": "2026-06-13T12:00:34.102Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
