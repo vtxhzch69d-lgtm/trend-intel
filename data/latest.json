@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "대통령 해외순방과 여당대표의 행동에 대한 논란",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "대통령 선거와 정치 관련된 게시글이 많습니다. 대통령의 성공을 기원하는 게시글도 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 로봇 기술의 발전",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "부동산과 경제 관련된 게시글이 많습니다. 부동산 가격과 경제 상황에 대한 우려가 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "주식 시장과 기업의 동향",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "기술",
+      "summary": "최신 기술과 제품 관련된 게시글이 많습니다. 새로운 기술과 제품에 대한 관심이 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "대통령",
       "count": 10,
-      "sentiment": "positive",
-      "context": "기술 발전"
+      "sentiment": "neutral",
+      "context": "대통령 선거와 대통령의 성공을 기원하는 게시글"
     },
     {
-      "keyword": "정치",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "대통령과 여당대표의 행동"
-    },
-    {
-      "keyword": "주식",
+      "keyword": "부동산",
       "count": 8,
-      "sentiment": "mixed",
-      "context": "시장 동향"
+      "sentiment": "negative",
+      "context": "부동산 가격과 경제 상황에 대한 우려"
+    },
+    {
+      "keyword": "기술",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "최신 기술과 제품 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 발전을 주도하는 기업은 시장에서 경쟁력을 가질 수 있다",
-      "action": "기술 투자 증가",
+      "insight": "대통령 선거와 정치 관련된 게시글이 많습니다.",
+      "action": "정치 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치적 불안정성은 경제에 부정적인 영향을 미친다",
-      "action": "정치적 안정성 추구",
+      "insight": "부동산과 경제 관련된 게시글이 많습니다.",
+      "action": "부동산과 경제 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술과 제품 관련된 게시글이 많습니다.",
+      "action": "최신 기술과 제품 관련된 마케팅 전략을 수립해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치적 상황과 기술 발전이 시장에 미치는 영향에 대한 분석이다. 정치적 불안정성과 기술 발전은 경제에 큰 영향을 미치고 있다. 기업들은 기술 투자를 증가시키고 정치적 안정성을 추구해야 한다. 또한, 시장 동향을 주시하고 적절한 전략을 수립해야 한다.",
-  "analyzed_at": "2026-06-13T12:00:34.102Z",
+  "narrative": "최근의 트렌드는 대통령 선거와 정치 관련된 게시글이 많습니다. 또한 부동산과 경제 관련된 게시글도 많습니다. 최신 기술과 제품 관련된 게시글도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 정치 관련된 마케팅 전략을 수립하여 대통령 선거와 관련된 게시글을 활용할 수 있습니다. 또한 부동산과 경제 관련된 마케팅 전략을 수립하여 부동산 가격과 경제 상황에 대한 우려를 해결할 수 있습니다. 최신 기술과 제품 관련된 마케팅 전략을 수립하여 새로운 기술과 제품에 대한 관심을 활용할 수 있습니다.",
+  "analyzed_at": "2026-06-13T13:30:33.866Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
