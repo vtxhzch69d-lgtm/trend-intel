@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 발언과 검찰 문제가 논란이 되고 있습니다. 일부 네티즌들은 이재명 대통령의 발언을 비판하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "한국의 경제 상황과 기업의 동향이 논의되고 있습니다. 일부 네티즌들은 경제 상황을 우려하고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "제네시스",
+      "summary": "제네시스 마그마와 GV90에 대한 소식이 있습니다. 제네시스 마그마는 처음엔 누가 지었나 촌스럽다 했는데요, GV90에는 무선 BMS가 첫 탑재되었습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 동향과 제품 출시 소식이 논의되고 있습니다. 일부 네티즌들은 새로운 기술을 기대하고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
+      "topic": "이재명",
+      "summary": "이재명 대통령의 글과 관련된 소식이 있습니다. 이재명의 글이 뭘 뜻하는 거에요? 이재명 대통령의 잘못이다.",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "북중미 월드컵",
+      "summary": "북중미 월드컵 3일차 일정과 관련된 소식이 있습니다.",
+      "post_count": 2,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "이재명 대통령의 발언과 검찰 문제"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "한국의 경제 상황과 기업의 동향"
-    },
-    {
-      "keyword": "기술",
-      "count": 12,
+      "keyword": "제네시스",
+      "count": 7,
       "sentiment": "positive",
-      "context": "최신 기술 동향과 제품 출시 소식"
+      "context": "제네시스 마그마와 GV90에 대한 소식"
+    },
+    {
+      "keyword": "이재명",
+      "count": 6,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 글과 관련된 소식"
+    },
+    {
+      "keyword": "북중미 월드컵",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "북중미 월드컵 3일차 일정"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 8,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한국의 경제 상황이 불안정함",
-      "action": "경제 정책을 재검토하고 대책을 마련해야 함",
+      "insight": "제네시스의 마케팅 전략",
+      "action": "제네시스의 마케팅 전략을 분석하여 새로운 전략을 개발",
       "priority": "high"
     },
     {
-      "insight": "최신 기술이 빠르게 발전하고 있음",
-      "action": "최신 기술을 연구하고 개발해야 함",
+      "insight": "이재명의 정치적 영향력",
+      "action": "이재명의 정치적 영향력을 분석하여 새로운 전략을 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "소비자들의 관심이 기술과 경제로 이동하고 있음",
-      "action": "기술과 경제 관련된 마케팅 전략을 개발해야 함",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 한국의 정치와 경제 상황이 논란이 되고 있습니다. 일부 네티즌들은 이재명 대통령의 발언과 검찰 문제를 비판하고 있습니다. 또한, 한국의 경제 상황과 기업의 동향이 논의되고 있습니다. 기술 분야에서는 최신 기술 동향과 제품 출시 소식이 논의되고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 기업들은 경제 정책을 재검토하고 대책을 마련해야 하며, 최신 기술을 연구하고 개발해야 합니다. 또한, 기술과 경제 관련된 마케팅 전략을 개발해야 합니다.",
-  "analyzed_at": "2026-06-13T15:00:34.801Z",
+  "narrative": "최근의 트렌드는 제네시스와 이재명 대통령의 관련된 소식이 주를 이루고 있습니다. 제네시스의 마케팅 전략과 이재명의 정치적 영향력을 분석하여 새로운 전략을 개발할 수 있습니다. 또한, 북중미 월드컵과 관련된 소식도 있습니다. 이러한 트렌드를 분석하여 새로운 마케팅 전략을 개발할 수 있습니다.",
+  "analyzed_at": "2026-06-13T16:30:33.941Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
