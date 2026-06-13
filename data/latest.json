@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "제네시스",
-      "summary": "제네시스 마그마와 GV90에 대한 소식이 있습니다. 제네시스 마그마는 처음엔 누가 지었나 촌스럽다 했는데요, GV90에는 무선 BMS가 첫 탑재되었습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "이재명",
-      "summary": "이재명 대통령의 글과 관련된 소식이 있습니다. 이재명의 글이 뭘 뜻하는 거에요? 이재명 대통령의 잘못이다.",
-      "post_count": 4,
+      "topic": "정치",
+      "summary": "이재명 대통령과 관련된 정치 뉴스 및 의견",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "북중미 월드컵",
-      "summary": "북중미 월드컵 3일차 일정과 관련된 소식이 있습니다.",
-      "post_count": 2,
+      "topic": "경제",
+      "summary": "국내외 경제 뉴스 및 분석",
+      "post_count": 10,
       "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 뉴스 및 개발",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "제네시스",
-      "count": 7,
-      "sentiment": "positive",
-      "context": "제네시스 마그마와 GV90에 대한 소식"
-    },
-    {
       "keyword": "이재명",
-      "count": 6,
-      "sentiment": "mixed",
-      "context": "이재명 대통령의 글과 관련된 소식"
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스"
     },
     {
-      "keyword": "북중미 월드컵",
-      "count": 2,
+      "keyword": "경제",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "북중미 월드컵 3일차 일정"
+      "context": "국내외 경제 뉴스"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 8,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "제네시스의 마케팅 전략",
-      "action": "제네시스의 마케팅 전략을 분석하여 새로운 전략을 개발",
+      "insight": "정치 뉴스가 많은 관심을 받고 있다",
+      "action": "정치 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "이재명의 정치적 영향력",
-      "action": "이재명의 정치적 영향력을 분석하여 새로운 전략을 개발",
+      "insight": "경제 뉴스가 중립적인 반응을 보이고 있다",
+      "action": "경제 관련 콘텐츠 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 뉴스가 긍정적인 반응을 보이고 있다",
+      "action": "기술 관련 콘텐츠 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 제네시스와 이재명 대통령의 관련된 소식이 주를 이루고 있습니다. 제네시스의 마케팅 전략과 이재명의 정치적 영향력을 분석하여 새로운 전략을 개발할 수 있습니다. 또한, 북중미 월드컵과 관련된 소식도 있습니다. 이러한 트렌드를 분석하여 새로운 마케팅 전략을 개발할 수 있습니다.",
-  "analyzed_at": "2026-06-13T16:30:33.941Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치 뉴스가 많은 관심을 받고 있으며, 경제 뉴스는 중립적인 반응을 보이고 있다. 또한 최신 기술 뉴스는 긍정적인 반응을 보이고 있다. 이러한 트렌드를 반영하여 콘텐츠 개발 및 마케팅 전략을 수립할 수 있을 것이다. 정치 관련 콘텐츠 개발은 높은 우선순위를 가지고 있으며, 경제 관련 콘텐츠 개발은 중간 우선순위를 가지고 있다. 기술 관련 콘텐츠 개발은 낮은 우선순위를 가지고 있지만, 긍정적인 반응을 보이고 있으므로 고려할 수 있다.",
+  "analyzed_at": "2026-06-13T18:00:33.592Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
