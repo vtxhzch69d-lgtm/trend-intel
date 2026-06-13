@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많이 올라왔습니다. 특히 민주당과 정부의 정책에 대한 토론이 활발합니다.",
-      "post_count": 15,
+      "topic": "1인1투표제",
+      "summary": "1인1투표제에 대한 논의와 찬반 여론이 커뮤니티에서 활발히 진행되고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "앤트로픽",
+      "summary": "앤트로픽 관련 기술과 제품에 대한 관심이 커뮤니티에서 증가하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "월드컵",
-      "summary": "월드컵 관련 게시글도 많이 올라왔습니다. 특히 한국과 캐나다의 경기 결과에 대한 토론이 많습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 관련 게시글도 많이 올라왔습니다. 특히 오픈AI와 앤트로픽의 기술 개발에 대한 토론이 많습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "GPU",
+      "summary": "GPU 수급과 관련된 문제가 커뮤니티에서 논의되고 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정부의 정책에 대한 비판"
+      "keyword": "1인1투표제",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치와 선거 관련된 주제"
     },
     {
-      "keyword": "월드컵",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "한국과 캐나다의 경기 결과"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "앤트로픽",
       "count": 8,
       "sentiment": "positive",
-      "context": "오픈AI와 앤트로픽의 기술 개발"
+      "context": "AI와 기술 관련된 주제"
+    },
+    {
+      "keyword": "GPU",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "컴퓨터 하드웨어와 기술 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 정치와 AI 관련 게시글이 많이 올라오는 것을 확인할 수 있습니다.",
-      "action": "정치와 AI 관련 콘텐츠를 개발하여 클리앙 커뮤니티에 제공합니다.",
+      "insight": "1인1투표제와 관련된 정치적 이슈가 커뮤니티에서 논의되고 있습니다.",
+      "action": "정치적 이슈에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "월드컵 관련 게시글도 많이 올라오는 것을 확인할 수 있습니다.",
-      "action": "월드컵 관련 콘텐츠를 개발하여 클리앙 커뮤니티에 제공합니다.",
+      "insight": "앤트로픽 관련 기술과 제품에 대한 관심이 커뮤니티에서 증가하고 있습니다.",
+      "action": "앤트로픽 관련 기술과 제품에 대한 마케팅을 강화해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치와 AI 관련 게시글이 많이 올라오는 것을 확인할 수 있습니다. 특히 민주당과 정부의 정책에 대한 토론이 활발합니다. 또한 월드컵 관련 게시글도 많이 올라오는 것을 확인할 수 있습니다. 이러한 트렌드를 반영하여 정치와 AI 관련 콘텐츠를 개발하여 클리앙 커뮤니티에 제공할 수 있습니다. 또한 월드컵 관련 콘텐츠를 개발하여 클리앙 커뮤니티에 제공할 수 있습니다. 이러한 마케팅 전략을 통해 클리앙 커뮤니티에서 브랜드 인지도를 높일 수 있습니다.",
-  "analyzed_at": "2026-06-13T00:01:26.448Z",
-  "post_count": 61,
+  "narrative": "커뮤니티에서 1인1투표제와 앤트로픽 관련 주제가热하게 논의되고 있습니다. 이러한 주제에 대한 관심과 논의는 정치적 이슈와 기술 관련된 주제에서 두드러지고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하고, 정치적 이슈에 대한 대응을 준비해야 합니다. 또한, 앤트로픽 관련 기술과 제품에 대한 마케팅을 강화하여 커뮤니티에서 증가하는 관심에 대응해야 합니다.",
+  "analyzed_at": "2026-06-13T01:30:33.879Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
