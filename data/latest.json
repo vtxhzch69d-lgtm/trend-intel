@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래와 김민석의 대결, 민주당의 이재명 지지성향 강화",
-      "post_count": 10,
+      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많이 올라왔습니다. 특히 민주당과 정부의 정책에 대한 토론이 활발합니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "월드컵",
-      "summary": "한국의 월드컵 기록, 캐나다 vs 보스니아 경기 결과",
+      "summary": "월드컵 관련 게시글도 많이 올라왔습니다. 특히 한국과 캐나다의 경기 결과에 대한 토론이 많습니다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     },
     {
-      "topic": "기술",
-      "summary": "스페이스X 상장, 현대차의 무선 BMS 탑재",
+      "topic": "AI",
+      "summary": "AI 관련 게시글도 많이 올라왔습니다. 특히 오픈AI와 앤트로픽의 기술 개발에 대한 토론이 많습니다.",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "high"
@@ -24,50 +24,45 @@
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
+      "keyword": "민주당",
+      "count": 10,
       "sentiment": "negative",
-      "context": "민주당의 이재명 지지성향 강화"
+      "context": "정부의 정책에 대한 비판"
     },
     {
       "keyword": "월드컵",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "한국의 월드컵 기록"
+      "sentiment": "positive",
+      "context": "한국과 캐나다의 경기 결과"
     },
     {
-      "keyword": "스페이스X",
-      "count": 3,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "스페이스X 상장"
+      "context": "오픈AI와 앤트로픽의 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 불안정성",
-      "action": "정치적 리스크 관리",
+      "insight": "클리앙 커뮤니티에서 정치와 AI 관련 게시글이 많이 올라오는 것을 확인할 수 있습니다.",
+      "action": "정치와 AI 관련 콘텐츠를 개발하여 클리앙 커뮤니티에 제공합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 발전",
-      "action": "기술 투자",
+      "insight": "월드컵 관련 게시글도 많이 올라오는 것을 확인할 수 있습니다.",
+      "action": "월드컵 관련 콘텐츠를 개발하여 클리앙 커뮤니티에 제공합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "소비자 관심",
-      "action": "마케팅 전략 수립",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적 불안정성과 기술 발전이 주를 이루고 있습니다. 정치적 불안정성은 민주당의 이재명 지지성향 강화와 관련이 있으며, 기술 발전은 스페이스X 상장과 현대차의 무선 BMS 탑재와 관련이 있습니다. 이러한 트렌드는 기업의 마케팅 전략과 기술 투자에 영향을 미칠 수 있습니다. 또한, 소비자 관심은 월드컵과 관련이 있으며, 기업은 이를 이용하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-12T22:30:33.542Z",
-  "post_count": 62,
+  "narrative": "클리앙 커뮤니티에서 정치와 AI 관련 게시글이 많이 올라오는 것을 확인할 수 있습니다. 특히 민주당과 정부의 정책에 대한 토론이 활발합니다. 또한 월드컵 관련 게시글도 많이 올라오는 것을 확인할 수 있습니다. 이러한 트렌드를 반영하여 정치와 AI 관련 콘텐츠를 개발하여 클리앙 커뮤니티에 제공할 수 있습니다. 또한 월드컵 관련 콘텐츠를 개발하여 클리앙 커뮤니티에 제공할 수 있습니다. 이러한 마케팅 전략을 통해 클리앙 커뮤니티에서 브랜드 인지도를 높일 수 있습니다.",
+  "analyzed_at": "2026-06-13T00:01:26.448Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
