@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "대통령 선거와 정치 관련된 게시글이 많습니다. 대통령의 성공을 기원하는 게시글도 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "이재명 대통령의 발언과 검찰 문제가 논란이 되고 있습니다. 일부 네티즌들은 이재명 대통령의 발언을 비판하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "부동산과 경제 관련된 게시글이 많습니다. 부동산 가격과 경제 상황에 대한 우려가 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "한국의 경제 상황과 기업의 동향이 논의되고 있습니다. 일부 네티즌들은 경제 상황을 우려하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술과 제품 관련된 게시글이 많습니다. 새로운 기술과 제품에 대한 관심이 있습니다.",
-      "post_count": 20,
+      "summary": "최신 기술 동향과 제품 출시 소식이 논의되고 있습니다. 일부 네티즌들은 새로운 기술을 기대하고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "대통령",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "대통령 선거와 대통령의 성공을 기원하는 게시글"
+      "keyword": "이재명",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "이재명 대통령의 발언과 검찰 문제"
     },
     {
-      "keyword": "부동산",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "부동산 가격과 경제 상황에 대한 우려"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "한국의 경제 상황과 기업의 동향"
     },
     {
       "keyword": "기술",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "최신 기술과 제품 관련된 게시글"
+      "context": "최신 기술 동향과 제품 출시 소식"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
+    "positive": 20,
+    "negative": 25,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "대통령 선거와 정치 관련된 게시글이 많습니다.",
-      "action": "정치 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "한국의 경제 상황이 불안정함",
+      "action": "경제 정책을 재검토하고 대책을 마련해야 함",
       "priority": "high"
     },
     {
-      "insight": "부동산과 경제 관련된 게시글이 많습니다.",
-      "action": "부동산과 경제 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "최신 기술이 빠르게 발전하고 있음",
+      "action": "최신 기술을 연구하고 개발해야 함",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술과 제품 관련된 게시글이 많습니다.",
-      "action": "최신 기술과 제품 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "소비자들의 관심이 기술과 경제로 이동하고 있음",
+      "action": "기술과 경제 관련된 마케팅 전략을 개발해야 함",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 대통령 선거와 정치 관련된 게시글이 많습니다. 또한 부동산과 경제 관련된 게시글도 많습니다. 최신 기술과 제품 관련된 게시글도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 정치 관련된 마케팅 전략을 수립하여 대통령 선거와 관련된 게시글을 활용할 수 있습니다. 또한 부동산과 경제 관련된 마케팅 전략을 수립하여 부동산 가격과 경제 상황에 대한 우려를 해결할 수 있습니다. 최신 기술과 제품 관련된 마케팅 전략을 수립하여 새로운 기술과 제품에 대한 관심을 활용할 수 있습니다.",
-  "analyzed_at": "2026-06-13T13:30:33.866Z",
+  "narrative": "최근의 트렌드 분석 결과, 한국의 정치와 경제 상황이 논란이 되고 있습니다. 일부 네티즌들은 이재명 대통령의 발언과 검찰 문제를 비판하고 있습니다. 또한, 한국의 경제 상황과 기업의 동향이 논의되고 있습니다. 기술 분야에서는 최신 기술 동향과 제품 출시 소식이 논의되고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 기업들은 경제 정책을 재검토하고 대책을 마련해야 하며, 최신 기술을 연구하고 개발해야 합니다. 또한, 기술과 경제 관련된 마케팅 전략을 개발해야 합니다.",
+  "analyzed_at": "2026-06-13T15:00:34.801Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
