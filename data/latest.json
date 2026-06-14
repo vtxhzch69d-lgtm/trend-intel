@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "네덜란드와 독일의 경기 결과 및 반응",
+      "topic": "이란과 미국의 전쟁 관련 뉴스",
+      "summary": "이란과 미국의 전쟁 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 이란의 약속 이행과 미국의 대응 등이 주요 관심사입니다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스 및 논평",
-      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 개발",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "네덜란드와 일본의 월드컵 경기",
+      "summary": "네덜란드와 일본의 월드컵 경기 결과와 관련된 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "오세훈과 나경원의 정치 관련 뉴스",
+      "summary": "오세훈과 나경원의 정치 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 오세훈의 재판과 나경원의 발언 등이 주요 관심사입니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "스포츠 관련 키워드"
-    },
-    {
-      "keyword": "정치",
-      "count": 20,
+      "keyword": "이란",
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치 관련 키워드"
+      "context": "이란과 미국의 전쟁 관련 뉴스"
     },
     {
-      "keyword": "기술",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "기술 관련 키워드"
+      "keyword": "월드컵",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "네덜란드와 일본의 월드컵 경기 결과"
+    },
+    {
+      "keyword": "오세훈",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "오세훈의 재판과 나경원의 발언"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 10,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "부정적인 감정의 비중이 높음"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "월드컵 관련 마케팅 기회",
-      "action": "스포츠 관련 마케팅 캠페인 실행",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 논쟁의 증가",
-      "action": "정치 관련 마케팅 캠페인 주의",
+      "insight": "이란과 미국의 전쟁 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "action": "관련 뉴스와 분석을 제공하여 사용자의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 개발의 중요성",
-      "action": "최신 기술 트렌드에 주목",
-      "priority": "low"
+      "insight": "네덜란드와 일본의 월드컵 경기 결과가 클리언 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "action": "관련 뉴스와 분석을 제공하여 사용자의 관심을 끌 수 있습니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 정치 관련 뉴스 및 논평이 주를 이루고 있습니다. 기술 관련 뉴스도 많은 관심을 받고 있으나, 전체적인 감정은 부정적인 편입니다. 마케터들은 이러한 트렌드를 고려하여 마케팅 캠페인을 실행해야 하며, 특히 정치 관련 논쟁의 증가에 주의해야 합니다. 또한, 최신 기술 트렌드에 주목하여 기술 개발의 중요성을 인식해야 합니다.",
-  "analyzed_at": "2026-06-14T21:30:33.881Z",
+  "narrative": "클리앙 커뮤니티에서는 이란과 미국의 전쟁 관련 뉴스가 많이 обсужд되고 있습니다. 이란의 약속 이행과 미국의 대응 등이 주요 관심사입니다. 또한, 네덜란드와 일본의 월드컵 경기 결과와 관련된 뉴스가 많이 обсужд되고 있습니다. 오세훈과 나경원의 정치 관련 뉴스도 많이 обсужд되고 있습니다. 이러한 뉴스와 분석을 제공하여 사용자의 관심을 끌 수 있습니다. 클리앙 커뮤니티의 사용자들은 중립적인 분위기를 보이고 있습니다. 따라서, 관련 뉴스와 분석을 제공하여 사용자의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-14T23:00:33.763Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
