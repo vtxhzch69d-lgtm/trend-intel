@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "르망 24시간 레이스",
-      "summary": "제네시스 하이퍼카가 르망 24시간 레이스에 첫 출전하여 완주에 성공했습니다. 이 사건은 클리앙 커뮤니티에서 많은 관심을 받았습니다.",
+      "topic": "제네시스 르망 24시간",
+      "summary": "제네시스 르망 24시간 완주, 하이퍼카 클래스 첫 출전",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "이재명 대통령",
-      "summary": "이재명 대통령에 대한 논의가 클리앙 커뮤니티에서 활발히 진행 중입니다. 일부 사용자는 대통령의 정책과 행동을 지지하는 반면, 다른 사용자는 비판적입니다.",
-      "post_count": 10,
+      "summary": "이재명 대통령 관련 논란, 청년 우선 순위",
+      "post_count": 4,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 주제가 클리앙 커뮤니티에서 인기 있습니다. 사용자들은 AI의 발전과 이를 활용한 다양한 기술에 대해 논의하고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "AI 및 기술",
+      "summary": "AI 요금 인하, 앤트로픽 모델 규제, 로봇 기술 개발",
+      "post_count": 7,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "르망 24시간",
-      "count": 7,
+      "keyword": "제네시스",
+      "count": 6,
       "sentiment": "positive",
-      "context": "제네시스 하이퍼카의 완주"
+      "context": "르망 24시간 완주"
     },
     {
-      "keyword": "이재명 대통령",
-      "count": 12,
+      "keyword": "이재명",
+      "count": 4,
       "sentiment": "mixed",
-      "context": "대통령의 정책과 행동에 대한 논의"
+      "context": "대통령 관련 논란"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI의 발전과 기술 활용"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "요금 인하, 앤트로픽 모델 규제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "클리앙 커뮤니티의 사용자들은 대부분 긍정적인 태도를 보이고 있지만, 일부 사용자는 부정적인 의견을 나타내고 있습니다."
+    "positive": 10,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "제네시스 하이퍼카의 르망 24시간 레이스 완주는 브랜드의 이미지와 판매에 긍정적인 영향을 미칠 수 있습니다.",
-      "action": "제네시스 하이퍼카를 홍보하고, 르망 24시간 레이스의 성공을 강조하는 마케팅 캠페인을 진행할 수 있습니다.",
+      "insight": "제네시스 르망 24시간 완주",
+      "action": "제네시스 브랜드 홍보",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련 주제는 클리앙 커뮤니티에서 인기 있습니다. 이 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
-      "action": "AI와 기술 관련 콘텐츠를 생성하고, 이를 클리앙 커뮤니티에서 공유할 수 있습니다.",
+      "insight": "AI 기술 개발",
+      "action": "AI 기술 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티의 사용자들은 다양한 주제에 대해 논의하고 있습니다. 르망 24시간 레이스, 이재명 대통령, AI와 기술 등이 인기 주제입니다. 사용자들은 대부분 긍정적인 태도를 보이고 있지만, 일부 사용자는 부정적인 의견을 나타내고 있습니다. 제네시스 하이퍼카의 르망 24시간 레이스 완주는 브랜드의 이미지와 판매에 긍정적인 영향을 미칠 수 있습니다. 또한, AI와 기술 관련 주제는 클리앙 커뮤니티에서 인기 있습니다. 이 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-14T16:30:34.292Z",
+  "narrative": "최근 클리앙 커뮤니티에서 제네시스 르망 24시간 완주, 이재명 대통령 관련 논란, AI 및 기술 개발이 주요하게 논의되고 있습니다. 제네시스 르망 24시간 완주는 제네시스 브랜드의 긍정적인 이미지를 형성하고 있습니다. 반면, 이재명 대통령 관련 논란은 혼재된 감정을 불러일으키고 있습니다. AI 및 기술 개발은 중립적인 감정을 가지고 있습니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-14T18:00:33.816Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
