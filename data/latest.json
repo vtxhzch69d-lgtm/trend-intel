@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "르망레이스",
-      "summary": "르망레이스 대회에서 마그마팀의 활약을 기대하는 게시글입니다. 대회가 곧 끝나고 있습니다.",
-      "post_count": 1,
+      "topic": "르망 24시간 레이스",
+      "summary": "제네시스 하이퍼카가 르망 24시간 레이스에서 완주했다. 이 대회는 세계적으로 유명한 자동차 경주 대회로, 다양한 팀과 차량이 참가한다.",
+      "post_count": 5,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "월드컵 교실 응원",
-      "summary": "월드컵 교실 응원 주도한 교사들의 색출 논란을 다루는 게시글입니다. 이슈가 되고 있는 상황입니다.",
-      "post_count": 1,
-      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "고환율 체감",
-      "summary": "고환율 체감이 안된다고 말하는 게시글입니다. 유튜브 프리미엄 가격 인상과 관련이 있습니다.",
-      "post_count": 1,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다. 일부 사용자는 그의 정책과 행동을 비판하며, 다른 사용자는 그를 지지한다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 기술에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다. 일부 사용자는 AI의 발전과 그로 인한 사회적 영향에 대해 논의하고 있다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "르망레이스",
-      "count": 1,
+      "keyword": "르망 24시간",
+      "count": 5,
       "sentiment": "positive",
-      "context": "르망레이스 대회"
+      "context": "제네시스 하이퍼카의 완주"
     },
     {
-      "keyword": "월드컵",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "월드컵 교실 응원"
+      "keyword": "이재명 대통령",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치적 논의"
     },
     {
-      "keyword": "고환율",
-      "count": 1,
+      "keyword": "AI",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "고환율 체감"
+      "context": "기술적 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 1,
-    "negative": 1,
-    "neutral": 1,
-    "overall_mood": "중립적인 분위기"
+    "positive": 10,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "르망레이스 대회는 마케팅 기회입니다.",
-      "action": "르망레이스 관련 마케팅 캠페인 실행",
+      "insight": "제네시스 하이퍼카의 르망 24시간 레이스 완주는 브랜드 이미지를 향상시킬 수 있다.",
+      "action": "제네시스 하이퍼카의 마케팅 활동 강화",
       "priority": "high"
     },
     {
-      "insight": "월드컵 교실 응원은 사회적인 문제입니다.",
-      "action": "월드컵 교실 응원 관련 사회적인 문제 해결",
+      "insight": "AI와 기술에 대한 논의는 사회적 영향과 경제적 기회를 창출할 수 있다.",
+      "action": "AI와 기술에 대한 연구와 투자",
       "priority": "medium"
-    },
-    {
-      "insight": "고환율 체감은 경제적인 문제입니다.",
-      "action": "고환율 체감 관련 경제적인 문제 해결",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 르망레이스, 월드컵 교실 응원, 고환율 체감 등 다양한 주제가 논의되고 있습니다. 르망레이스 대회는 마케팅 기회입니다. 월드컵 교실 응원은 사회적인 문제입니다. 고환율 체감은 경제적인 문제입니다. 이러한 주제들은 각각 다른 감정과 우선순위를 가지고 있습니다. 마케터들은 이러한 주제들을 분석하여 효과적인 마케팅 캠페인을 실행할 수 있습니다.",
-  "analyzed_at": "2026-06-14T13:30:33.725Z",
+  "narrative": "클리앙 커뮤니티의 트렌드 분석 결과, 르망 24시간 레이스와 이재명 대통령, AI와 기술에 대한 논의가 주목을 끌고 있다. 제네시스 하이퍼카의 르망 24시간 레이스 완주는 브랜드 이미지를 향상시킬 수 있는 기회이다. 또한, AI와 기술에 대한 논의는 사회적 영향과 경제적 기회를 창출할 수 있다. 이러한 트렌드를 고려하여, 마케팅 활동과 연구 및 투자를 강화하는 것이 중요하다.",
+  "analyzed_at": "2026-06-14T15:00:33.912Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
