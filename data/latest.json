@@ -1,56 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 의견을 공유하고 토론합니다.",
-      "post_count": 1000,
-      "sentiment": "mixed",
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 브라질과 모로코의 경기 결과를 포함하여 다양한 국가의 경기 결과가 обсужд되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 다양한 기술에 대해 의견을 공유하고 토론합니다.",
-      "post_count": 500,
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많습니다. 대통령 지지율과 관련된 논쟁이 진행되고 있습니다.",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "기술 관련된 게시글이 많습니다. 새로운 기술 개발과 관련된 뉴스가 발표되고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "일상생활",
-      "count": 500,
+      "keyword": "월드컵",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "뽐뿌 커뮤니티에서 인기 있는 주제"
+      "context": "월드컵 경기 결과와 관련된 게시글"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 관련된 게시글"
     },
     {
       "keyword": "기술",
-      "count": 300,
+      "count": 15,
       "sentiment": "positive",
-      "context": "클리앙 커뮤니티에서 인기 있는 주제"
+      "context": "기술 관련된 뉴스와 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 40,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 다양한 주제에 대해 의견을 공유하고 토론합니다.",
-      "action": "커뮤니티에 참여하여 사용자들의 의견을 수집하고 분석합니다.",
+      "insight": "기술 개발과 관련된 뉴스가 증가하고 있습니다.",
+      "action": "기술 개발에 대한 투자를 고려해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술에 대한 관심이 높습니다.",
-      "action": "기술에 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌어냅니다.",
+      "insight": "월드컵과 관련된 게시글이 많습니다.",
+      "action": "월드컵과 관련된 마케팅 전략을 고려해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌와 클리앙 커뮤니티는 사용자들이 다양한 주제에 대해 의견을 공유하고 토론하는 공간입니다. 사용자들은 일상생활과 기술에 대해 관심을 가지고 있습니다. 커뮤니티에 참여하여 사용자들의 의견을 수집하고 분석하여 비즈니스 전략을 수립할 수 있습니다. 기술에 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌어내는 것도 좋은 전략입니다.",
-  "analyzed_at": "2026-06-14T00:01:25.224Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드는 월드컵과 기술 개발에 대한 관심이 증가하고 있습니다. 정치 관련된 논쟁도 진행되고 있지만, 기술 개발과 관련된 뉴스가 더 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 기술 개발과 관련된 투자를 고려하고, 월드컵과 관련된 마케팅 전략을 수립해야 합니다. 또한, 정치 관련된 논쟁을 고려하여 브랜드 이미지를 관리해야 합니다.",
+  "analyzed_at": "2026-06-14T01:30:34.051Z",
+  "post_count": 60,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
