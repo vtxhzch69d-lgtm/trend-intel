@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령에 대한 신뢰와 지지, 그리고 그의 정책과 활동에 대한 논의",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "AI 및 기술",
+      "summary": "AI 기술의 발전과 그로 인한 다양한 산업의 변화를 다룬 게시물이 많은 것으로 나타났습니다. 또한, 기술 관련 뉴스와 제품 리뷰도 인기였습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 커뮤니티",
-      "summary": "클리앙 커뮤니티의 다양한 주제와 обсужд거리",
-      "post_count": 30,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "경제 및 정치",
+      "summary": "경제와 정치 관련 게시물이 많이 등장했으며, 주식과 금융 관련 게시물도 인기였습니다. 또한, 정치 관련 뉴스와 의견도 많았습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
     },
     {
-      "topic": "기술과 산업",
-      "summary": "최신 기술과 산업 동향, 그리고 관련된 뉴스와 정보",
-      "post_count": 15,
+      "topic": "생활 및 문화",
+      "summary": "생활과 문화 관련 게시물이 많이 등장했으며, 음식과 여행 관련 게시물도 인기였습니다. 또한, 영화와 책 리뷰도 많았습니다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "이재명 대통령에 대한 논의"
-    },
-    {
-      "keyword": "클리앙",
-      "count": 30,
-      "sentiment": "neutral",
-      "context": "클리앙 커뮤니티의 다양한 주제"
-    },
-    {
-      "keyword": "기술",
-      "count": 15,
+      "keyword": "AI",
+      "count": 25,
       "sentiment": "positive",
-      "context": "최신 기술과 산업 동향"
+      "context": "AI 기술의 발전과 그로 인한 다양한 산업의 변화를 다룬 게시물"
+    },
+    {
+      "keyword": "주식",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "주식과 금융 관련 게시물"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다",
-      "action": "정치와 사회 동향을 주시하고, 관련된 마케팅 전략을 수립한다",
-      "priority": "medium"
+      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 중요합니다.",
+      "priority": "high"
     },
     {
-      "insight": "최신 기술과 산업 동향이 클리앙 커뮤니티에서 큰 관심을 받고 있다",
-      "action": "기술과 산업 관련된 마케팅 전략을 수립하고, 최신 동향을 주시한다",
-      "priority": "high"
+      "insight": "경제와 정치 관련 게시물이 많이 등장하고 있습니다.",
+      "action": "경제와 정치 관련 뉴스를 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 중요합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티는 다양한 주제와 обсужд거리가 있는 온라인 플랫폼입니다. 최근에는 이재명 대통령에 대한 논의가 활발하게 진행되고 있으며, 최신 기술과 산업 동향도 큰 관심을 받고 있습니다. 이러한 동향을 주시하고, 관련된 마케팅 전략을 수립하는 것이 중요합니다. 또한, 클리앙 커뮤니티의 중립적인 분위기를 고려하여, 다양한 관점과 의견을 존중하고, 건설적인 대화를 장려하는 것이 필요합니다.",
-  "analyzed_at": "2026-06-14T10:30:33.773Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 그로 인한 다양한 산업의 변화를 다루고 있습니다. 또한, 경제와 정치 관련 게시물도 많이 등장하고 있습니다. 이러한 트렌드를 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 중요합니다. 또한, 생활과 문화 관련 게시물도 많이 등장하고 있으며, 음식과 여행 관련 게시물도 인기があります. 이러한 트렌드를 주시하고, 이를 활용하여 비즈니스 모델을 개선하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-14T12:00:33.857Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
