@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이탈리아에서 이재명 대통령이 받은 선물",
-      "summary": "이탈리아에서 이재명 대통령이 받은 선물에 대한 게시글이 클리앙 커뮤니티에서 인기 existe.",
-      "post_count": 3,
-      "sentiment": "positive",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령에 대한 신뢰와 지지, 그리고 그의 정책과 활동에 대한 논의",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "군대에서 부사관 공짜 초과 근무",
-      "summary": "군대에서 부사관 공짜 초과 근무에 대한 게시글이 클리앙 커뮤니티에서 인기 existe.",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "클리앙 커뮤니티",
+      "summary": "클리앙 커뮤니티의 다양한 주제와 обсужд거리",
+      "post_count": 30,
+      "sentiment": "neutral",
       "urgency": "low"
     },
     {
-      "topic": "KT UHD 셋톱박스 안드로이드 포팅 성공",
-      "summary": "KT UHD 셋톱박스 안드로이드 포팅 성공에 대한 게시글이 클리앙 커뮤니티에서 인기 existe.",
-      "post_count": 2,
+      "topic": "기술과 산업",
+      "summary": "최신 기술과 산업 동향, 그리고 관련된 뉴스와 정보",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "이탈리아에서 이재명 대통령이 받은 선물"
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "이재명 대통령에 대한 논의"
     },
     {
-      "keyword": "군대",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "군대에서 부사관 공짜 초과 근무"
+      "keyword": "클리앙",
+      "count": 30,
+      "sentiment": "neutral",
+      "context": "클리앙 커뮤니티의 다양한 주제"
     },
     {
-      "keyword": "KT UHD",
-      "count": 2,
+      "keyword": "기술",
+      "count": 15,
       "sentiment": "positive",
-      "context": "KT UHD 셋톱박스 안드로이드 포팅 성공"
+      "context": "최신 기술과 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 15,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이탈리아에서 이재명 대통령이 받은 선물에 대한 게시글이 인기 existe.",
-      "action": "이재명 대통령의 선물에 대한 게시글을 분석하여 마케팅 전략을 수립",
+      "insight": "이재명 대통령에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다",
+      "action": "정치와 사회 동향을 주시하고, 관련된 마케팅 전략을 수립한다",
       "priority": "medium"
     },
     {
-      "insight": "군대에서 부사관 공짜 초과 근무에 대한 게시글이 인기 existe.",
-      "action": "군대에서 부사관 공짜 초과 근무에 대한 게시글을 분석하여 마케팅 전략을 수립",
-      "priority": "low"
-    },
-    {
-      "insight": "KT UHD 셋톱박스 안드로이드 포팅 성공에 대한 게시글이 인기 existe.",
-      "action": "KT UHD 셋톱박스 안드로이드 포팅 성공에 대한 게시글을 분석하여 마케팅 전략을 수립",
-      "priority": "medium"
+      "insight": "최신 기술과 산업 동향이 클리앙 커뮤니티에서 큰 관심을 받고 있다",
+      "action": "기술과 산업 관련된 마케팅 전략을 수립하고, 최신 동향을 주시한다",
+      "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 인기 existe하는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다. 이탈리아에서 이재명 대통령이 받은 선물, 군대에서 부사관 공짜 초과 근무, KT UHD 셋톱박스 안드로이드 포팅 성공에 대한 게시글이 인기 existe합니다. 이러한 게시글을 분석하여 마케팅 전략을 수립하면 더 효과적인 마케팅을 할 수 있습니다.",
-  "analyzed_at": "2026-06-14T09:00:33.944Z",
+  "narrative": "클리앙 커뮤니티는 다양한 주제와 обсужд거리가 있는 온라인 플랫폼입니다. 최근에는 이재명 대통령에 대한 논의가 활발하게 진행되고 있으며, 최신 기술과 산업 동향도 큰 관심을 받고 있습니다. 이러한 동향을 주시하고, 관련된 마케팅 전략을 수립하는 것이 중요합니다. 또한, 클리앙 커뮤니티의 중립적인 분위기를 고려하여, 다양한 관점과 의견을 존중하고, 건설적인 대화를 장려하는 것이 필요합니다.",
+  "analyzed_at": "2026-06-14T10:30:33.773Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
