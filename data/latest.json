@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 아시아 국가팀들의 성적과 경기 결과에 대한 관심이 높습니다.",
-      "post_count": 5,
+      "topic": "이탈리아에서 이재명 대통령이 받은 선물",
+      "summary": "이탈리아에서 이재명 대통령이 받은 선물에 대한 게시글이 클리앙 커뮤니티에서 인기 existe.",
+      "post_count": 3,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "클리앙",
-      "summary": "클리앙 커뮤니티의 인기 게시글에 대한 분석입니다. 다양한 주제의 게시글이 있습니다.",
-      "post_count": 30,
-      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "앤트로픽",
-      "summary": "앤트로픽 모델과 관련된 게시글이 있습니다. 앤트로픽 모델의 규제 강화와 관련된 뉴스가 있습니다.",
-      "post_count": 3,
+      "topic": "군대에서 부사관 공짜 초과 근무",
+      "summary": "군대에서 부사관 공짜 초과 근무에 대한 게시글이 클리앙 커뮤니티에서 인기 existe.",
+      "post_count": 2,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "low"
+    },
+    {
+      "topic": "KT UHD 셋톱박스 안드로이드 포팅 성공",
+      "summary": "KT UHD 셋톱박스 안드로이드 포팅 성공에 대한 게시글이 클리앙 커뮤니티에서 인기 existe.",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "월드컵 경기 결과와 관련된 게시글"
-    },
-    {
-      "keyword": "클리앙",
-      "count": 30,
-      "sentiment": "neutral",
-      "context": "클리앙 커뮤니티의 인기 게시글"
-    },
-    {
-      "keyword": "앤트로픽",
+      "keyword": "이재명",
       "count": 5,
+      "sentiment": "positive",
+      "context": "이탈리아에서 이재명 대통령이 받은 선물"
+    },
+    {
+      "keyword": "군대",
+      "count": 3,
       "sentiment": "negative",
-      "context": "앤트로픽 모델과 관련된 뉴스"
+      "context": "군대에서 부사관 공짜 초과 근무"
+    },
+    {
+      "keyword": "KT UHD",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "KT UHD 셋톱박스 안드로이드 포팅 성공"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 10,
+    "negative": 5,
+    "neutral": 15,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "월드컵과 관련된 마케팅 기회",
-      "action": "월드컵과 관련된 마케팅 캠페인 실행",
-      "priority": "high"
-    },
-    {
-      "insight": "클리앙 커뮤니티의 인기 주제",
-      "action": "클리앙 커뮤니티의 인기 주제에 대한 콘텐츠 생성",
+      "insight": "이탈리아에서 이재명 대통령이 받은 선물에 대한 게시글이 인기 existe.",
+      "action": "이재명 대통령의 선물에 대한 게시글을 분석하여 마케팅 전략을 수립",
       "priority": "medium"
     },
     {
-      "insight": "앤트로픽 모델의 규제 강화",
-      "action": "앤트로픽 모델의 규제 강화와 관련된 뉴스 모니터링",
-      "priority": "high"
+      "insight": "군대에서 부사관 공짜 초과 근무에 대한 게시글이 인기 existe.",
+      "action": "군대에서 부사관 공짜 초과 근무에 대한 게시글을 분석하여 마케팅 전략을 수립",
+      "priority": "low"
+    },
+    {
+      "insight": "KT UHD 셋톱박스 안드로이드 포팅 성공에 대한 게시글이 인기 existe.",
+      "action": "KT UHD 셋톱박스 안드로이드 포팅 성공에 대한 게시글을 분석하여 마케팅 전략을 수립",
+      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티의 인기 게시글을 분석한 결과, 월드컵과 관련된 게시글이 많았습니다. 또한, 앤트로픽 모델과 관련된 뉴스가 있습니다. 이러한 결과를 바탕으로, 마케터는 월드컵과 관련된 마케팅 캠페인을 실행하고, 클리앙 커뮤니티의 인기 주제에 대한 콘텐츠를 생성할 수 있습니다. 또한, 앤트로픽 모델의 규제 강화와 관련된 뉴스를 모니터링하여 사업에 대한 인사이트를 얻을 수 있습니다.",
-  "analyzed_at": "2026-06-14T07:30:33.722Z",
+  "narrative": "클리앙 커뮤니티에서 인기 existe하는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다. 이탈리아에서 이재명 대통령이 받은 선물, 군대에서 부사관 공짜 초과 근무, KT UHD 셋톱박스 안드로이드 포팅 성공에 대한 게시글이 인기 existe합니다. 이러한 게시글을 분석하여 마케팅 전략을 수립하면 더 효과적인 마케팅을 할 수 있습니다.",
+  "analyzed_at": "2026-06-14T09:00:33.944Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
