@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 브라질과 모로코의 경기 결과를 포함하여 다양한 국가의 경기 결과가 обсужд되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치",
-      "summary": "정치 관련된 게시글이 많습니다. 대통령 지지율과 관련된 논쟁이 진행되고 있습니다.",
-      "post_count": 4,
+      "summary": "이재명 대통령 당선과 관련된 게시글이 많으며, 정치적인 주제가 많이 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련된 게시글이 많습니다. 새로운 기술 개발과 관련된 뉴스가 발표되고 있습니다.",
-      "post_count": 10,
+      "topic": "테크",
+      "summary": "최신 기술 관련 뉴스와 제품 출시가 많이 논의되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "월드컵과 관련된 게시글이 많으며, 축구와 관련된 주제가 많이 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
+      "keyword": "이재명",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "월드컵 경기 결과와 관련된 게시글"
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
       "sentiment": "mixed",
-      "context": "정치 관련된 게시글"
+      "context": "정치적인 주제에서 많이 언급되고 있습니다."
     },
     {
-      "keyword": "기술",
+      "keyword": "테크",
       "count": 15,
       "sentiment": "positive",
-      "context": "기술 관련된 뉴스와 개발"
+      "context": "최신 기술 관련 뉴스와 제품 출시에서 많이 언급되고 있습니다."
+    },
+    {
+      "keyword": "월드컵",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "스포츠와 관련된 주제에서 많이 언급되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기이지만, 테크와 스포츠 관련 주제에서는 긍정적인 반응이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "기술 개발과 관련된 뉴스가 증가하고 있습니다.",
-      "action": "기술 개발에 대한 투자를 고려해야 합니다.",
+      "insight": "테크와 스포츠 관련 주제에서 긍정적인 반응이 많습니다.",
+      "action": "테크와 스포츠 관련 제품이나 서비스를 출시하거나 홍보할 때 긍정적인 마케팅 전략을 사용할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "월드컵과 관련된 게시글이 많습니다.",
-      "action": "월드컵과 관련된 마케팅 전략을 고려해야 합니다.",
+      "insight": "정치적인 주제에서 혼합된 반응이 많습니다.",
+      "action": "정치적인 주제에서 중립적인 마케팅 전략을 사용하거나, 정치적인 주제를 피할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 기술 개발에 대한 관심이 증가하고 있습니다. 정치 관련된 논쟁도 진행되고 있지만, 기술 개발과 관련된 뉴스가 더 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 기술 개발과 관련된 투자를 고려하고, 월드컵과 관련된 마케팅 전략을 수립해야 합니다. 또한, 정치 관련된 논쟁을 고려하여 브랜드 이미지를 관리해야 합니다.",
-  "analyzed_at": "2026-06-14T01:30:34.051Z",
-  "post_count": 60,
+  "narrative": "최근의 트렌드는 테크와 스포츠 관련 주제에서 긍정적인 반응이 많으며, 정치적인 주제에서 혼합된 반응이 많습니다. 테크와 스포츠 관련 제품이나 서비스를 출시하거나 홍보할 때 긍정적인 마케팅 전략을 사용할 수 있습니다. 그러나 정치적인 주제에서 중립적인 마케팅 전략을 사용하거나, 정치적인 주제를 피할 수 있습니다. 또한, 최신 기술 관련 뉴스와 제품 출시가 많이 논의되고 있으므로, 테크 관련 주제에서 마케팅을 집중할 수 있습니다.",
+  "analyzed_at": "2026-06-14T03:00:34.894Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
