@@ -2,72 +2,71 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "월드컵 관련 게시글이 많은 것으로 나타났습니다. 특히 터키와 호주의 경기가 주목을 받았습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련 게시글이 많았습니다. 특히 AI, 로봇, 전기차 등이 주목을 받았습니다.",
-      "post_count": 15,
+      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 아시아 국가팀들의 성적과 경기 결과에 대한 관심이 높습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회",
-      "summary": "사회 관련 게시글이 많았습니다. 특히 청년의 정치 참여, 교육 등이 주목을 받았습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "클리앙",
+      "summary": "클리앙 커뮤니티의 인기 게시글에 대한 분석입니다. 다양한 주제의 게시글이 있습니다.",
+      "post_count": 30,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "앤트로픽",
+      "summary": "앤트로픽 모델과 관련된 게시글이 있습니다. 앤트로픽 모델의 규제 강화와 관련된 뉴스가 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "월드컵",
-      "count": 12,
+      "count": 10,
+      "sentiment": "positive",
+      "context": "월드컵 경기 결과와 관련된 게시글"
+    },
+    {
+      "keyword": "클리앙",
+      "count": 30,
       "sentiment": "neutral",
-      "context": "월드컵 관련 게시글"
+      "context": "클리앙 커뮤니티의 인기 게시글"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 기술 관련 게시글"
-    },
-    {
-      "keyword": "로봇",
+      "keyword": "앤트로픽",
       "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 관련 게시글"
-    },
-    {
-      "keyword": "전기차",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "최신 기술 관련 게시글"
+      "sentiment": "negative",
+      "context": "앤트로픽 모델과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 15,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 관련 게시글이 많아 기술 분야에 대한 관심이 높습니다.",
-      "action": "기술 분야에 대한 마케팅을 강화할 필요가 있습니다.",
+      "insight": "월드컵과 관련된 마케팅 기회",
+      "action": "월드컵과 관련된 마케팅 캠페인 실행",
       "priority": "high"
     },
     {
-      "insight": "월드컵 관련 게시글이 많아 스포츠 마케팅에 대한 관심이 높습니다.",
-      "action": "스포츠 마케팅에 대한 전략을 수립할 필요가 있습니다.",
+      "insight": "클리앙 커뮤니티의 인기 주제",
+      "action": "클리앙 커뮤니티의 인기 주제에 대한 콘텐츠 생성",
       "priority": "medium"
+    },
+    {
+      "insight": "앤트로픽 모델의 규제 강화",
+      "action": "앤트로픽 모델의 규제 강화와 관련된 뉴스 모니터링",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 월드컵과 최신 기술 관련 게시글이 많았습니다. 특히 AI, 로봇, 전기차 등이 주목을 받았습니다. 또한 사회 관련 게시글도 많았습니다. 이러한 트렌드를 반영하여 마케팅 전략을 수립할 필요가 있습니다. 기술 분야에 대한 마케팅을 강화하고 스포츠 마케팅에 대한 전략을 수립할 필요가 있습니다. 또한 사회 관련 마케팅에도 관심을 기울일 필요가 있습니다.",
-  "analyzed_at": "2026-06-14T06:00:34.029Z",
+  "narrative": "클리앙 커뮤니티의 인기 게시글을 분석한 결과, 월드컵과 관련된 게시글이 많았습니다. 또한, 앤트로픽 모델과 관련된 뉴스가 있습니다. 이러한 결과를 바탕으로, 마케터는 월드컵과 관련된 마케팅 캠페인을 실행하고, 클리앙 커뮤니티의 인기 주제에 대한 콘텐츠를 생성할 수 있습니다. 또한, 앤트로픽 모델의 규제 강화와 관련된 뉴스를 모니터링하여 사업에 대한 인사이트를 얻을 수 있습니다.",
+  "analyzed_at": "2026-06-14T07:30:33.722Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
