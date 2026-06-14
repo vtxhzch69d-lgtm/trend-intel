@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "제네시스 르망 24시간",
-      "summary": "제네시스 르망 24시간 완주, 하이퍼카 클래스 첫 출전",
+      "topic": "정치",
+      "summary": "이재명 대통령에 대한 논란과 정치적인 이슈가 주를 이루고 있습니다. 외교 나가셔도 수석 보좌관 회의를 하네요, 李대통령 “‘투표 관리 부실’ 악용해 음모론 선동… 국민 목소리 모욕하는 반사회적 행태 등이 대표적인 예입니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "월드컵과 같은 스포츠 관련된 뉴스가 많이 보입니다. 월드컵 E조 독일 vs 퀴라소 경기결과, 와 퀴라소!! 감동입니다. 등이 대표적인 예입니다.",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령 관련 논란, 청년 우선 순위",
-      "post_count": 4,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 및 기술",
-      "summary": "AI 요금 인하, 앤트로픽 모델 규제, 로봇 기술 개발",
-      "post_count": 7,
+      "topic": "기술",
+      "summary": "최신 기술 관련된 뉴스가 많이 보입니다. 제네시스, '르망 24시간' 첫 출전서 완주…'목표 달성', 아이라 로터리 마우스 발표: 손가락 피로 감소 위해 휠 대신 다이얼 채택 등이 대표적인 예입니다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "제네시스",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "르망 24시간 완주"
-    },
-    {
       "keyword": "이재명",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "대통령 관련 논란"
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치적인 이슈"
     },
     {
-      "keyword": "AI",
-      "count": 5,
+      "keyword": "월드컵",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "스포츠 관련된 뉴스"
+    },
+    {
+      "keyword": "제네시스",
+      "count": 2,
       "sentiment": "neutral",
-      "context": "요금 인하, 앤트로픽 모델 규제"
+      "context": "최신 기술 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "제네시스 르망 24시간 완주",
-      "action": "제네시스 브랜드 홍보",
+      "insight": "정치적인 이슈가 많은 것으로 보입니다.",
+      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 개발",
-      "action": "AI 기술 투자",
+      "insight": "최신 기술 관련된 뉴스가 많이 보입니다.",
+      "action": "최신 기술 관련된 뉴스에 대한 관심을 높여야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 제네시스 르망 24시간 완주, 이재명 대통령 관련 논란, AI 및 기술 개발이 주요하게 논의되고 있습니다. 제네시스 르망 24시간 완주는 제네시스 브랜드의 긍정적인 이미지를 형성하고 있습니다. 반면, 이재명 대통령 관련 논란은 혼재된 감정을 불러일으키고 있습니다. AI 및 기술 개발은 중립적인 감정을 가지고 있습니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-14T18:00:33.816Z",
+  "narrative": "현재의 트렌드는 정치적인 이슈와 최신 기술 관련된 뉴스가 주를 이루고 있습니다. 정치적인 이슈에 대한 대응을 준비하고, 최신 기술 관련된 뉴스에 대한 관심을 높여야 합니다. 또한, 중립적인 분위기를 유지하는 것이 중요합니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-06-14T20:00:34.290Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
