@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산",
-      "summary": "집값 안정화와 관련된 다양한 의견이 나오고 있습니다. 보유세와 금리 인상에 대한 논의가 활발합니다.",
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 스페인 vs 카보베르데 경기 결과를 포함하여 다양한 경기 결과가 공유되고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 스페인과 카보베르데의 경기 결과에 대한 논의가 있었습니다.",
+      "topic": "부동산",
+      "summary": "부동산 관련된 게시글이 많습니다. 집값 안정화와 관련된 의견이 공유되고 있습니다.",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많이 올라왔습니다. 유시민씨와 관련된 논의가 있었습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련된 게시글이 많습니다. 삼성의 AI 생태계 공략과 애플의 홈팟 소프트웨어 업데이트가 포함되어 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
+      "keyword": "월드컵",
       "count": 15,
       "sentiment": "neutral",
-      "context": "집값 안정화와 관련된 다양한 의견이 나오고 있습니다."
+      "context": "월드컵 경기 결과와 관련된 게시글"
     },
     {
-      "keyword": "월드컵",
+      "keyword": "부동산",
       "count": 10,
-      "sentiment": "positive",
-      "context": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다."
+      "sentiment": "negative",
+      "context": "집값 안정화와 관련된 의견"
     },
     {
-      "keyword": "정치",
+      "keyword": "AI",
       "count": 8,
-      "sentiment": "negative",
-      "context": "정치 관련된 게시글이 많이 올라왔습니다."
+      "sentiment": "positive",
+      "context": "AI와 기술 관련된 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 관련된 의견이 많아 집값 안정화와 관련된 정책에 관심이 집중되고 있습니다.",
-      "action": "부동산 관련된 정책에 대한 연구와 분석을 수행해야 합니다.",
+      "insight": "월드컵과 관련된 마케팅 기회",
+      "action": "월드컵과 관련된 제품이나 서비스를 출시하여 마케팅 기회를 활용",
       "priority": "high"
     },
     {
-      "insight": "월드컵과 관련된 게시글이 많아 스포츠 마케팅에 대한 관심이 높아지고 있습니다.",
-      "action": "스포츠 마케팅에 대한 연구와 분석을 수행해야 합니다.",
+      "insight": "부동산 관련된 마케팅 기회",
+      "action": "부동산 관련된 제품이나 서비스를 출시하여 마케팅 기회를 활용",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI와 기술 관련된 마케팅 기회",
+      "action": "AI와 기술 관련된 제품이나 서비스를 출시하여 마케팅 기회를 활용",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드는 부동산과 월드컵에 대한 관심이 높아지고 있습니다. 집값 안정화와 관련된 다양한 의견이 나오고 있으며, 월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 정치 관련된 게시글도 많이 올라왔습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요합니다. 또한, 부동산과 스포츠 마케팅에 대한 연구와 분석을 수행하여 새로운 기회를 발굴해야 합니다.",
-  "analyzed_at": "2026-06-15T20:00:34.222Z",
+  "narrative": "현재의 트렌드는 월드컵과 부동산, AI와 기술 관련된 주제가 중심입니다. 월드컵과 관련된 마케팅 기회를 활용하여 제품이나 서비스를 출시할 수 있습니다. 또한, 부동산 관련된 마케팅 기회를 활용하여 제품이나 서비스를 출시할 수 있습니다. AI와 기술 관련된 마케팅 기회를 활용하여 제품이나 서비스를 출시할 수 있습니다. 중립적인 감정과 함께 긍정적이고 부정적인 감정이 공존하는 것으로 나타났습니다.",
+  "analyzed_at": "2026-06-15T21:30:34.039Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
