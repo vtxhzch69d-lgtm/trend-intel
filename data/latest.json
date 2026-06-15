@@ -2,83 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 여러 정치 관련 게시글이 상위에 랭크되어 있습니다.",
-      "post_count": 15,
+      "summary": "이재명 대통령의 레오 14세 교황 면담, jtbc 문제 등 정치 관련 게시글이 많음",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련 뉴스와 제품 출시가 많은 것으로 나타났습니다. 특히 반도체와 AI 관련 게시글이 많습니다.",
-      "post_count": 20,
+      "topic": "경제",
+      "summary": "삼성전자, 현대모비스 등 기업 관련 뉴스가 많음",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "생활",
-      "summary": "생활 관련 게시글도 상위에 랭크되어 있습니다. 특히 레고랜드와 바퀴벌레 관련 게시글이 있습니다.",
+      "topic": "스포츠",
+      "summary": "월드컵, 레고랜드 등 스포츠 관련 게시글이 많음",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논란"
-    },
-    {
-      "keyword": "반도체",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 관련 뉴스"
+      "sentiment": "negative",
+      "context": "정치 관련 게시글에서 많이 언급됨"
     },
     {
-      "keyword": "AI",
+      "keyword": "삼성전자",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "경제 관련 뉴스에서 많이 언급됨"
+    },
+    {
+      "keyword": "월드컵",
       "count": 3,
       "sentiment": "positive",
-      "context": "최신 기술 관련 뉴스"
-    },
-    {
-      "keyword": "레고랜드",
-      "count": 1,
-      "sentiment": "positive",
-      "context": "생활 관련 게시글"
-    },
-    {
-      "keyword": "바퀴벌레",
-      "count": 1,
-      "sentiment": "neutral",
-      "context": "생활 관련 게시글"
+      "context": "스포츠 관련 게시글에서 많이 언급됨"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 관련 뉴스와 제품 출시가 많아 기술 관련 업체에 기회가 있을 수 있습니다.",
-      "action": "기술 관련 업체와의 협력을 강화합니다.",
+      "insight": "정치 관련 게시글이 많아 정치적 이슈에 대한 관심이 높음",
+      "action": "정치 관련 콘텐츠를 생성하여 관심을 끌기",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 논란이 많아 정치 관련 업체에 기회가 있을 수 있습니다.",
-      "action": "정치 관련 업체와의 협력을 강화합니다.",
+      "insight": "삼성전자 등 기업 관련 뉴스가 많아 경제 관련 관심이 높음",
+      "action": "경제 관련 콘텐츠를 생성하여 관심을 끌기",
       "priority": "medium"
-    },
-    {
-      "insight": "생활 관련 게시글도 상위에 랭크되어 있어 생활 관련 업체에 기회가 있을 수 있습니다.",
-      "action": "생활 관련 업체와의 협력을 강화합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 정치 관련 뉴스와 논란이 많아 정치 관련 업체에 기회가 있을 수 있습니다. 또한 최신 기술 관련 뉴스와 제품 출시가 많아 기술 관련 업체에 기회가 있을 수 있습니다. 생활 관련 게시글도 상위에 랭크되어 있어 생활 관련 업체에 기회가 있을 수 있습니다. 따라서 기술 관련 업체와의 협력을 강화하고 정치 관련 업체와의 협력을 강화하는 것이 좋을 것입니다. 또한 생활 관련 업체와의 협력을 강화하는 것도 좋을 것입니다.",
-  "analyzed_at": "2026-06-15T10:30:34.553Z",
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 정치 관련 게시글이 많아 정치적 이슈에 대한 관심이 높음을 알 수 있음. 또한, 삼성전자 등 기업 관련 뉴스가 많아 경제 관련 관심이 높음. 이러한 결과를 바탕으로 정치 및 경제 관련 콘텐츠를 생성하여 관심을 끌 수 있을 것으로 기대됨. 또한, 월드컵 등 스포츠 관련 게시글이 많아 스포츠 관련 콘텐츠도 생성하여 관심을 끌 수 있을 것으로 기대됨.",
+  "analyzed_at": "2026-06-15T12:00:34.423Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
