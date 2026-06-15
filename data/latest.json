@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "이란과 미국의 전쟁 관련 뉴스",
-      "summary": "이란과 미국의 전쟁 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 이란의 약속 이행과 미국의 대응 등이 주요 관심사입니다.",
+      "topic": "경제 및 재정",
+      "summary": "코스피 급등과 매수 사이드카 발동, 재난지원금 및 탈모약 지원 등 경제 및 재정 관련 주제가 인기",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "네덜란드와 일본의 월드컵 경기",
-      "summary": "네덜란드와 일본의 월드컵 경기 결과와 관련된 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "오세훈과 나경원의 정치 관련 뉴스",
-      "summary": "오세훈과 나경원의 정치 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 오세훈의 재판과 나경원의 발언 등이 주요 관심사입니다.",
-      "post_count": 5,
+      "topic": "정치 및 사회",
+      "summary": "정청래 사퇴 요구, 민주당 1인 1표제 반대, 부동산 문제 직시 등 정치 및 사회 관련 주제가 인기",
+      "post_count": 8,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 산업",
+      "summary": "삼성전자, 현대차, LG CNS 등 기업의 기술 개발 및 산업 동향 관련 주제가 인기",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이란",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "이란과 미국의 전쟁 관련 뉴스"
-    },
-    {
-      "keyword": "월드컵",
+      "keyword": "코스피",
       "count": 5,
       "sentiment": "neutral",
-      "context": "네덜란드와 일본의 월드컵 경기 결과"
+      "context": "코스피 급등과 매수 사이드카 발동"
     },
     {
-      "keyword": "오세훈",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "오세훈의 재판과 나경원의 발언"
+      "keyword": "정청래",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "정청래 사퇴 요구"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "삼성전자 기술 개발 및 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
+    "positive": 20,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적인 기조를 보임"
   },
   "business_insights": [
     {
-      "insight": "이란과 미국의 전쟁 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "action": "관련 뉴스와 분석을 제공하여 사용자의 관심을 끌 수 있습니다.",
+      "insight": "경제 및 재정 관련 주제가 인기",
+      "action": "경제 및 재정 관련 콘텐츠 개발",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치 및 사회 관련 주제가 인기",
+      "action": "정치 및 사회 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "네덜란드와 일본의 월드컵 경기 결과가 클리언 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "action": "관련 뉴스와 분석을 제공하여 사용자의 관심을 끌 수 있습니다.",
-      "priority": "medium"
+      "insight": "기술 및 산업 관련 주제가 인기",
+      "action": "기술 및 산업 관련 콘텐츠 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 이란과 미국의 전쟁 관련 뉴스가 많이 обсужд되고 있습니다. 이란의 약속 이행과 미국의 대응 등이 주요 관심사입니다. 또한, 네덜란드와 일본의 월드컵 경기 결과와 관련된 뉴스가 많이 обсужд되고 있습니다. 오세훈과 나경원의 정치 관련 뉴스도 많이 обсужд되고 있습니다. 이러한 뉴스와 분석을 제공하여 사용자의 관심을 끌 수 있습니다. 클리앙 커뮤니티의 사용자들은 중립적인 분위기를 보이고 있습니다. 따라서, 관련 뉴스와 분석을 제공하여 사용자의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-14T23:00:33.763Z",
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 경제 및 재정, 정치 및 사회, 기술 및 산업 관련 주제가 인기임을 알 수 있었다. 이러한 주제는 중립적인 기조를 보이지만, 일부 정치 및 사회 관련 주제는 부정적인 감정을 포함하고 있다. 이러한 분석 결과를 바탕으로, 경제 및 재정, 정치 및 사회, 기술 및 산업 관련 콘텐츠 개발을 통해 마케팅 전략을 수립할 수 있을 것이다.",
+  "analyzed_at": "2026-06-15T00:30:34.252Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
