@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 레오 14세 교황 면담, jtbc 문제 등 정치 관련 게시글이 많음",
+      "topic": "이재명 정부",
+      "summary": "이재명 정부의 정책과 성과에 대한 논의",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "삼성전자, 현대모비스 등 기업 관련 뉴스가 많음",
-      "post_count": 8,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "월드컵, 레고랜드 등 스포츠 관련 게시글이 많음",
+      "topic": "국제대회",
+      "summary": "국제대회에서 한국 선수들의 성과에 대한 논의",
       "post_count": 5,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
+    },
+    {
+      "topic": "테크 및 과학",
+      "summary": "신기술과 과학적 성과에 대한 논의",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 게시글에서 많이 언급됨"
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "정치적 논의"
     },
     {
-      "keyword": "삼성전자",
-      "count": 4,
+      "keyword": "국제대회",
+      "count": 10,
       "sentiment": "positive",
-      "context": "경제 관련 뉴스에서 많이 언급됨"
+      "context": "스포츠 성과"
     },
     {
-      "keyword": "월드컵",
-      "count": 3,
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "스포츠 관련 게시글에서 많이 언급됨"
+      "context": "신기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 게시글이 많아 정치적 이슈에 대한 관심이 높음",
-      "action": "정치 관련 콘텐츠를 생성하여 관심을 끌기",
+      "insight": "신기술에 대한 투자가 증가할 것",
+      "action": "신기술에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "삼성전자 등 기업 관련 뉴스가 많아 경제 관련 관심이 높음",
-      "action": "경제 관련 콘텐츠를 생성하여 관심을 끌기",
+      "insight": "국제대회에서 한국 선수들의 성과가 향상될 것",
+      "action": "스포츠 마케팅 증가",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 정치 관련 게시글이 많아 정치적 이슈에 대한 관심이 높음을 알 수 있음. 또한, 삼성전자 등 기업 관련 뉴스가 많아 경제 관련 관심이 높음. 이러한 결과를 바탕으로 정치 및 경제 관련 콘텐츠를 생성하여 관심을 끌 수 있을 것으로 기대됨. 또한, 월드컵 등 스포츠 관련 게시글이 많아 스포츠 관련 콘텐츠도 생성하여 관심을 끌 수 있을 것으로 기대됨.",
-  "analyzed_at": "2026-06-15T12:00:34.423Z",
+  "narrative": "최근의 트렌드는 이재명 정부와 국제대회, 테크 및 과학에 대한 논의가 주를 이루고 있습니다. 이재명 정부에 대한 논의는 혼재된 감정으로 이루어져 있으며, 국제대회에서는 한국 선수들의 성과에 대한 긍정적인 논의가 많습니다. 또한, 신기술에 대한 논의가 증가하고 있으며, 이는 사업적 기회를 제공할 수 있습니다. 따라서, 신기술에 대한 투자와 스포츠 마케팅을 증가시키는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-06-15T13:30:33.625Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
