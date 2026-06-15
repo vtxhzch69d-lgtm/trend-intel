@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "스페인이 골을 못 넣고 있으며, 한국과 멕시코의 경기가 관심을 끌고 있습니다.",
+      "summary": "월드컵 관련 게시글이 많은 것으로 나타났습니다. 스페인과 카보베르데의 경기 결과가 주목을 받았습니다.",
       "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "high"
-    },
-    {
-      "topic": "부동산",
-      "summary": "서울과 수도권의 집값이 하락하고 있으며, 세금과 공급이 부동산 가격에 영향을 미치고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
       "urgency": "medium"
     },
     {
+      "topic": "부동산",
+      "summary": "부동산 관련 게시글이 많았습니다. 보유세와 종부세 인상으로 인한 집값 안정화에 대한 논의가 있었습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
       "topic": "기술",
-      "summary": "AI와 반도체 기술이 발전하고 있으며, 삼성과 현대차가 관련 뉴스를 내고 있습니다.",
-      "post_count": 12,
+      "summary": "기술 관련 게시글이 많았습니다. AI와 반도체에 대한 뉴스가 주목을 받았습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "월드컵",
-      "count": 15,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "스포츠 뉴스"
+      "context": "스포츠"
     },
     {
       "keyword": "부동산",
-      "count": 10,
+      "count": 5,
       "sentiment": "negative",
-      "context": "경제 뉴스"
+      "context": "경제"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 5,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "기술"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "월드컵과 관련된 마케팅을 진행할 수 있습니다.",
-      "action": "스포츠 마케팅 캠페인 실행",
+      "insight": "월드컵 관련 마케팅을 강화할 필요가 있습니다.",
+      "action": "월드컵 관련 콘텐츠 제작",
       "priority": "high"
     },
     {
-      "insight": "부동산 가격이 하락하고 있으므로 관련된 비즈니스 기회를 찾을 수 있습니다.",
-      "action": "부동산 투자 또는 개발 비즈니스 탐색",
+      "insight": "부동산 관련 마케팅을 조정할 필요가 있습니다.",
+      "action": "부동산 관련 콘텐츠 수정",
       "priority": "medium"
     },
     {
-      "insight": "AI와 반도체 기술이 발전하고 있으므로 관련된 비즈니스 기회를 찾을 수 있습니다.",
-      "action": "기술 스타트업 투자 또는 개발 비즈니스 탐색",
-      "priority": "low"
+      "insight": "기술 관련 마케팅을 강화할 필요가 있습니다.",
+      "action": "기술 관련 콘텐츠 제작",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 부동산 가격에 대한 관심이 집중되고 있습니다. 또한, AI와 반도체 기술이 발전하고 있으므로 관련된 비즈니스 기회를 찾을 수 있습니다. 마케터들은 이러한 트렌드를 이용하여 효과적인 마케팅 캠페인을 진행할 수 있습니다. 또한, 부동산 가격이 하락하고 있으므로 관련된 비즈니스 기회를 찾을 수 있습니다. 기술 스타트업 투자 또는 개발 비즈니스 탐색도 좋은 기회입니다.",
-  "analyzed_at": "2026-06-15T17:00:34.276Z",
+  "narrative": "최근의 트렌드는 월드컵과 부동산, 기술 관련 주제가 주를 이루고 있습니다. 월드컵 관련 마케팅을 강화하고, 부동산 관련 마케팅을 조정하며, 기술 관련 마케팅을 강화하는 것이 필요합니다. 또한, AI와 반도체에 대한 뉴스가 주목을 받고 있으므로, 기술 관련 콘텐츠를 제작하는 것이 좋을 것입니다. 중립적인 마케팅 전략을 취하는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-06-15T18:30:34.462Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
