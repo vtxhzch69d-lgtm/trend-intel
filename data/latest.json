@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 관련 게시글이 많은 것으로 나타났습니다. 스페인과 카보베르데의 경기 결과가 주목을 받았습니다.",
+      "topic": "부동산",
+      "summary": "집값 안정화와 관련된 다양한 의견이 나오고 있습니다. 보유세와 금리 인상에 대한 논의가 활발합니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 관련 게시글이 많았습니다. 보유세와 종부세 인상으로 인한 집값 안정화에 대한 논의가 있었습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 스페인과 카보베르데의 경기 결과에 대한 논의가 있었습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 게시글이 많았습니다. AI와 반도체에 대한 뉴스가 주목을 받았습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많이 올라왔습니다. 유시민씨와 관련된 논의가 있었습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "부동산",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "집값 안정화와 관련된 다양한 의견이 나오고 있습니다."
+    },
+    {
       "keyword": "월드컵",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "스포츠"
-    },
-    {
-      "keyword": "부동산",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "경제"
-    },
-    {
-      "keyword": "AI",
-      "count": 5,
       "sentiment": "positive",
-      "context": "기술"
+      "context": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다."
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 관련된 게시글이 많이 올라왔습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "월드컵 관련 마케팅을 강화할 필요가 있습니다.",
-      "action": "월드컵 관련 콘텐츠 제작",
+      "insight": "부동산 관련된 의견이 많아 집값 안정화와 관련된 정책에 관심이 집중되고 있습니다.",
+      "action": "부동산 관련된 정책에 대한 연구와 분석을 수행해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 관련 마케팅을 조정할 필요가 있습니다.",
-      "action": "부동산 관련 콘텐츠 수정",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술 관련 마케팅을 강화할 필요가 있습니다.",
-      "action": "기술 관련 콘텐츠 제작",
+      "insight": "월드컵과 관련된 게시글이 많아 스포츠 마케팅에 대한 관심이 높아지고 있습니다.",
+      "action": "스포츠 마케팅에 대한 연구와 분석을 수행해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 부동산, 기술 관련 주제가 주를 이루고 있습니다. 월드컵 관련 마케팅을 강화하고, 부동산 관련 마케팅을 조정하며, 기술 관련 마케팅을 강화하는 것이 필요합니다. 또한, AI와 반도체에 대한 뉴스가 주목을 받고 있으므로, 기술 관련 콘텐츠를 제작하는 것이 좋을 것입니다. 중립적인 마케팅 전략을 취하는 것이 좋을 것입니다.",
-  "analyzed_at": "2026-06-15T18:30:34.462Z",
+  "narrative": "最近의 트렌드는 부동산과 월드컵에 대한 관심이 높아지고 있습니다. 집값 안정화와 관련된 다양한 의견이 나오고 있으며, 월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 정치 관련된 게시글도 많이 올라왔습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하는 것이 중요합니다. 또한, 부동산과 스포츠 마케팅에 대한 연구와 분석을 수행하여 새로운 기회를 발굴해야 합니다.",
+  "analyzed_at": "2026-06-15T20:00:34.222Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
