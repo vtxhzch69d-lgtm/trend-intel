@@ -1,45 +1,45 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 정부",
-      "summary": "이재명 정부의 정책과 성과에 대한 논의",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "국제대회",
-      "summary": "국제대회에서 한국 선수들의 성과에 대한 논의",
-      "post_count": 5,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크 및 과학",
-      "summary": "신기술과 과학적 성과에 대한 논의",
-      "post_count": 15,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 개발이 커뮤니티에서 많이 관심을 받고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "월드컵과 기타 스포츠 뉴스가 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "정치",
       "count": 20,
-      "sentiment": "mixed",
-      "context": "정치적 논의"
+      "sentiment": "negative",
+      "context": "最近의 정치 뉴스와 논란"
     },
     {
-      "keyword": "국제대회",
-      "count": 10,
+      "keyword": "기술",
+      "count": 25,
       "sentiment": "positive",
-      "context": "스포츠 성과"
+      "context": "최신 기술 뉴스와 개발"
     },
     {
-      "keyword": "AI",
-      "count": 15,
+      "keyword": "월드컵",
+      "count": 5,
       "sentiment": "positive",
-      "context": "신기술"
+      "context": "스포츠 뉴스"
     }
   ],
   "sentiment_overview": {
@@ -50,18 +50,18 @@
   },
   "business_insights": [
     {
-      "insight": "신기술에 대한 투자가 증가할 것",
-      "action": "신기술에 대한 투자 증가",
+      "insight": "기술 뉴스와 개발이 커뮤니티에서 많이 관심을 받고 있습니다.",
+      "action": "기술 관련 콘텐츠를 제공하여 커뮤니티와의 상호작용을 증가시킵니다.",
       "priority": "high"
     },
     {
-      "insight": "국제대회에서 한국 선수들의 성과가 향상될 것",
-      "action": "스포츠 마케팅 증가",
+      "insight": "정치 뉴스와 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "action": "정치 관련 콘텐츠를 제공하여 커뮤니티와의 상호작용을 증가시킵니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 이재명 정부와 국제대회, 테크 및 과학에 대한 논의가 주를 이루고 있습니다. 이재명 정부에 대한 논의는 혼재된 감정으로 이루어져 있으며, 국제대회에서는 한국 선수들의 성과에 대한 긍정적인 논의가 많습니다. 또한, 신기술에 대한 논의가 증가하고 있으며, 이는 사업적 기회를 제공할 수 있습니다. 따라서, 신기술에 대한 투자와 스포츠 마케팅을 증가시키는 것이 좋을 것입니다.",
-  "analyzed_at": "2026-06-15T13:30:33.625Z",
+  "narrative": "最近의 정치 뉴스와 논란이 커뮤니티에서 많이 обсужд되고 있습니다. 기술 뉴스와 개발도 많은 관심을 받고 있습니다. 이러한 트렌드를 반영하여 기술 관련 콘텐츠를 제공하고, 정치 관련 콘텐츠를 제공하여 커뮤니티와의 상호작용을 증가시킬 수 있습니다. 또한, 월드컵과 기타 스포츠 뉴스가 커뮤니티에서 많이 обсужд되고 있으므로, 이러한 주제에 대한 콘텐츠를 제공하여 커뮤니티와의 상호작용을 증가시킬 수 있습니다.",
+  "analyzed_at": "2026-06-15T15:00:34.014Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
