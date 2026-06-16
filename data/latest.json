@@ -1,25 +1,45 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 [freeboard]와 [issue] 게시판에 있습니다.",
-      "post_count": 100,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 활용과 발전이 빠르게 진행되고 있으며, 이를 통해 다양한 산업 분야에서 혁신이 일어나고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제가 논의되고 있습니다. 다양한 정치적 이슈와 사회 문제가 논의되고 있으며, 이를 통해 국민들의 관심과 참여가 높아지고 있습니다.",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 주제가 논의되고 있습니다. 다양한 경제적 이슈와 산업 동향이 논의되고 있으며, 이를 통해 기업과 투자자의 관심이 높아지고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
-    },
-    {
-      "keyword": "인기 게시글",
+      "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "게시글의 인기度"
+      "context": "AI 기술의 발전과 관련된 주제"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 주제"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 관련 주제"
     }
   ],
   "sentiment_overview": {
@@ -30,15 +50,26 @@
   },
   "business_insights": [
     {
-      "insight": "뽐뿌 커뮤니티에서 인기 있는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다.",
-      "action": "마케팅 전략 수립",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 사업 개발",
       "priority": "high"
+    },
+    {
+      "insight": "정치 및 사회의 변화",
+      "action": "정치 및 사회의变化에 대응한 사업 전략 수립",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 및 산업의 동향",
+      "action": "경제 및 산업의 동향을 분석한 사업 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 [freeboard]와 [issue] 게시판에 있습니다. 이러한 게시글은 마케팅 전략을 수립하는데 중요한 역할을 할 수 있습니다. 따라서 마케터는 이러한 게시글을 분석하여 마케팅 전략을 수립해야 합니다. 또한, 뽐뿌 커뮤니티의 전체적인 분위기는 중립적입니다. 따라서 마케터는 이러한 분위기를 고려하여 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-16T07:00:33.717Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있습니다. 이는 AI 기술의 발전이 빠르게 진행되고 있으며, 이를 통해 다양한 산업 분야에서 혁신이 일어나고 있습니다. 또한, 정치 및 사회 관련 주제도 많이 논의되고 있으며, 이를 통해 국민들의 관심과 참여가 높아지고 있습니다. 경제 및 산업 관련 주제도 논의되고 있으며, 이를 통해 기업과 투자자의 관심이 높아지고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업과 투자자는 자신의 사업 전략을 수립하고, 시장의 변화를 예측할 수 있습니다.",
+  "analyzed_at": "2026-06-16T08:30:34.107Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
