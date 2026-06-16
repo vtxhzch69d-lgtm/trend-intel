@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 정부",
-      "summary": "이재명 정부와 관련된 뉴스 및 의견이 많습니다. 경제 및 정치 관련 주제가 대부분입니다.",
-      "post_count": 10,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 정책과 활동에 대한 논의",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자가 다양한 기술 및 제품 개발에 관한 뉴스가 많습니다. AI 및 반도체 관련 주제가 대부분입니다.",
-      "post_count": 8,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 ứng dụng에 대한 논의",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "우주 산업",
-      "summary": "우주 산업 관련 뉴스가 많습니다. 스페이스X 및 한국 우주 산업 관련 주제가 대부분입니다.",
-      "post_count": 6,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 논의",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 15,
+      "count": 7,
       "sentiment": "mixed",
-      "context": "이재명 정부 및 정치 관련 주제"
+      "context": "이재명 대통령의 정책과 활동"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "AI",
       "count": 12,
       "sentiment": "positive",
-      "context": "삼성전자 기술 및 제품 개발 관련 주제"
+      "context": "AI 기술의 발전과 ứng용"
     },
     {
-      "keyword": "우주 산업",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "우주 산업 관련 뉴스 및 의견"
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이재명 정부의 경제 정책이 기업에 미치는 영향",
-      "action": "정부 정책에 대한 분석 및 대응 전략 수립",
+      "insight": "AI 기술의 발전은 경제 및 산업에 큰 영향을 미칠 수 있다",
+      "action": "AI 기술의 발전을 주시하고 ứng용할 수 있는 기회를 찾기",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 기술 및 제품 개발 동향",
-      "action": "삼성전자 기술 및 제품 개발에 대한 분석 및 활용 방안 모색",
+      "insight": "이재명 대통령의 정책과 활동은 정치 및 경제에 큰 영향을 미칠 수 있다",
+      "action": "이재명 대통령의 정책과 활동을 주시하고 대응할 수 있는 전략을 개발하기",
       "priority": "medium"
-    },
-    {
-      "insight": "우주 산업의 성장 및 발전 가능성",
-      "action": "우주 산업 관련 투자 및 협력 방안 모색",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 이재명 정부 및 삼성전자 관련 주제가 많이 обсужд되고 있습니다. 또한, 우주 산업 관련 뉴스가 많습니다. 이러한 트렌드에 대한 분석 및 대응 전략을 수립하여 기업의 경쟁력을 높일 수 있습니다. 또한, 우주 산업의 성장 및 발전 가능성을 고려하여 투자 및 협력 방안을 모색할 수 있습니다.",
-  "analyzed_at": "2026-06-16T17:30:34.271Z",
+  "narrative": "최근의 트렌드 분석 결과, 이재명 대통령과 AI 기술이 주요 관심사로 나타났습니다. 이재명 대통령의 정책과 활동은 정치 및 경제에 큰 영향을 미칠 수 있으며, AI 기술의 발전은 경제 및 산업에 큰 영향을 미칠 수 있습니다. 또한, 경제 및 금융 관련 뉴스와 논의도 많은 관심을 받았습니다. 이러한 트렌드를 주시하고 ứng용할 수 있는 기회를 찾는 것이 중요합니다.",
+  "analyzed_at": "2026-06-16T19:00:33.433Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
