@@ -2,72 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "장동혁, 국힘 의원들, 서울 전월세 등 정치 관련 주제가 인기",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "정청래 대표와 김민석 전총리 관련 논란, 민주당 커뮤니티 예언글 등",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "주담대, 부동산, 금리 등 경제 관련 주제가 인기",
-      "post_count": 10,
+      "topic": "부동산",
+      "summary": "주택 수요자들의 까다로움, 임대료 증가 등",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 반도체, 로봇 등 기술 관련 주제가 인기",
-      "post_count": 8,
+      "topic": "AI",
+      "summary": "AI 기술 개발, 활용, 보안 등",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "장동혁",
+      "keyword": "정청래",
       "count": 5,
       "sentiment": "negative",
-      "context": "국힘 의원"
+      "context": "정청래 대표와 관련된 논란"
     },
     {
-      "keyword": "서울",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "전월세"
+      "keyword": "부동산",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "부동산 관련 문제"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술"
+      "context": "AI 기술 개발, 활용, 보안 등"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 15,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 인기",
-      "action": "정치 관련 콘텐츠 생성",
+      "insight": "정치적 논란이 부동산 시장에 영향을 미칠 수 있음",
+      "action": "부동산 시장 동향을 주시하고, 필요에 따라 전략을 조정할 것",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 주제가 인기",
-      "action": "경제 관련 콘텐츠 생성",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술 관련 주제가 인기",
-      "action": "기술 관련 콘텐츠 생성",
-      "priority": "low"
+      "insight": "AI 기술 개발과 활용이 중요",
+      "action": "AI 기술 개발과 활용을 위한 투자와 연구를 강화할 것",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 정치 관련 주제가 가장 인기였습니다. 특히 장동혁, 국힘 의원들, 서울 전월세 등 정치 관련 주제가 많이 обсужд되고 있었습니다. 또한 경제 관련 주제도 인기였으며, 주담대, 부동산, 금리 등 경제 관련 주제가 많이 обсужд되고 있었습니다. 기술 관련 주제도 일부 인기였으며, AI, 반도체, 로봇 등 기술 관련 주제가 일부 обсужд되고 있었습니다. 이러한 결과는 클리앙 커뮤니티의 사용자들이 정치, 경제, 기술 등 다양한 주제에 관심이 많다는 것을 보여줍니다. 따라서 이러한 주제에 대한 콘텐츠를 생성하여 사용자들의 관심을 끌 수 있을 것입니다.",
-  "analyzed_at": "2026-06-16T04:00:34.064Z",
-  "post_count": 62,
+  "narrative": "최근의 정치적 논란이 부동산 시장에 영향을 미칠 수 있으며, AI 기술 개발과 활용이 중요합니다. 따라서 부동산 시장 동향을 주시하고, 필요에 따라 전략을 조정하며, AI 기술 개발과 활용을 위한 투자와 연구를 강화해야 합니다. 또한, 부동산 관련 문제와 AI 기술 개발, 활용, 보안 등에 대한 관심이 높아지고 있으므로, 이러한 분야에 대한 연구와 개발을 강화해야 합니다.",
+  "analyzed_at": "2026-06-16T05:30:33.720Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
