@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 활용과 발전이 빠르게 진행되고 있으며, 이를 통해 다양한 산업 분야에서 혁신이 일어나고 있습니다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제가 논의되고 있습니다. 다양한 정치적 이슈와 사회 문제가 논의되고 있으며, 이를 통해 국민들의 관심과 참여가 높아지고 있습니다.",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "경제 및 재무",
+      "summary": "경제 및 재무 관련 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 주제가 논의되고 있습니다. 다양한 경제적 이슈와 산업 동향이 논의되고 있으며, 이를 통해 기업과 투자자의 관심이 높아지고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 분석",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 주제"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "경제 관련 주제"
+      "context": "경제 및 재무 관련 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 및 사회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 사업 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회의 변화",
-      "action": "정치 및 사회의变化에 대응한 사업 전략 수립",
+      "insight": "경제 및 재무 관련 뉴스는 중립적 시각에서 분석해야 한다",
+      "action": "경제 및 재무 관련 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 산업의 동향",
-      "action": "경제 및 산업의 동향을 분석한 사업 전략 수립",
+      "insight": "정치 및 사회 관련 뉴스는 부정적 시각에서 분석해야 한다",
+      "action": "정치 및 사회 관련 뉴스 모니터링",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있습니다. 이는 AI 기술의 발전이 빠르게 진행되고 있으며, 이를 통해 다양한 산업 분야에서 혁신이 일어나고 있습니다. 또한, 정치 및 사회 관련 주제도 많이 논의되고 있으며, 이를 통해 국민들의 관심과 참여가 높아지고 있습니다. 경제 및 산업 관련 주제도 논의되고 있으며, 이를 통해 기업과 투자자의 관심이 높아지고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업과 투자자는 자신의 사업 전략을 수립하고, 시장의 변화를 예측할 수 있습니다.",
-  "analyzed_at": "2026-06-16T08:30:34.107Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장이다. 경제 및 재무 관련 뉴스는 중립적 시각에서 분석해야 하며, 정치 및 사회 관련 뉴스는 부정적 시각에서 분석해야 한다. 이러한 트렌드를 분석하여 비즈니스 모델을 개발하고, 뉴스를 모니터링하여 시장의 변화를 예측할 수 있다. 또한, AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있으므로, AI 기술을 활용한 비즈니스 모델 개발을 우선적으로 고려해야 한다.",
+  "analyzed_at": "2026-06-16T10:00:36.131Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
