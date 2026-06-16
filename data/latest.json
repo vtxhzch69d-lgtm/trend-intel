@@ -1,70 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래 대표와 김민석 전총리 관련 논란, 민주당 커뮤니티 예언글 등",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "부동산",
-      "summary": "주택 수요자들의 까다로움, 임대료 증가 등",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 [freeboard]와 [issue] 게시판에 있습니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 기술 개발, 활용, 보안 등",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정청래 대표와 관련된 논란"
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "부동산",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "부동산 관련 문제"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "인기 게시글",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술 개발, 활용, 보안 등"
+      "context": "게시글의 인기度"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 논란이 부동산 시장에 영향을 미칠 수 있음",
-      "action": "부동산 시장 동향을 주시하고, 필요에 따라 전략을 조정할 것",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술 개발과 활용이 중요",
-      "action": "AI 기술 개발과 활용을 위한 투자와 연구를 강화할 것",
+      "insight": "뽐뿌 커뮤니티에서 인기 있는 게시글을 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     }
   ],
-  "narrative": "최근의 정치적 논란이 부동산 시장에 영향을 미칠 수 있으며, AI 기술 개발과 활용이 중요합니다. 따라서 부동산 시장 동향을 주시하고, 필요에 따라 전략을 조정하며, AI 기술 개발과 활용을 위한 투자와 연구를 강화해야 합니다. 또한, 부동산 관련 문제와 AI 기술 개발, 활용, 보안 등에 대한 관심이 높아지고 있으므로, 이러한 분야에 대한 연구와 개발을 강화해야 합니다.",
-  "analyzed_at": "2026-06-16T05:30:33.720Z",
-  "post_count": 60,
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 [freeboard]와 [issue] 게시판에 있습니다. 이러한 게시글은 마케팅 전략을 수립하는데 중요한 역할을 할 수 있습니다. 따라서 마케터는 이러한 게시글을 분석하여 마케팅 전략을 수립해야 합니다. 또한, 뽐뿌 커뮤니티의 전체적인 분위기는 중립적입니다. 따라서 마케터는 이러한 분위기를 고려하여 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-06-16T07:00:33.717Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
