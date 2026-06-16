@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 트윗",
-      "summary": "이재명 트윗이 클리앙 커뮤니티에서 인기 있는 주제입니다. 입원하면 돈 주는 요양병원과 관련된 트윗이 있습니다.",
-      "post_count": 2,
+      "topic": "정치",
+      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많은 것으로 나타났습니다. 특히, 대선 주자와 관련된 게시글이 많이 올라왔습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "topic": "UFC의 굴욕",
-      "summary": "UFC의 또 하나의 굴욕과 관련된 주제입니다. 미셸 오바마는 男이라는 황당 발언이 있습니다.",
-      "post_count": 2,
+      "topic": "경제",
+      "summary": "클리앙 커뮤니티에서 경제 관련 게시글이 많은 것으로 나타났습니다. 특히, 부동산과 관련된 게시글이 많이 올라왔습니다.",
+      "post_count": 10,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "medium"
     },
     {
-      "topic": "국힘 지지율 상승",
-      "summary": "국힘의 지지율 상승과 관련된 주제입니다. 보수 재건 민심 외면과 관련된 글입니다.",
-      "post_count": 1,
+      "topic": "기술",
+      "summary": "클리앙 커뮤니티에서 기술 관련 게시글이 많은 것으로 나타났습니다. 특히, AI와 관련된 게시글이 많이 올라왔습니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 3,
+      "keyword": "대선",
+      "count": 10,
       "sentiment": "mixed",
-      "context": "이재명 트윗과 관련된 글"
+      "context": "대선 주자와 관련된 게시글"
     },
     {
-      "keyword": "UFC",
-      "count": 2,
+      "keyword": "부동산",
+      "count": 8,
       "sentiment": "negative",
-      "context": "UFC의 굴욕과 관련된 글"
+      "context": "부동산 관련된 게시글"
     },
     {
-      "keyword": "국힘",
-      "count": 1,
+      "keyword": "AI",
+      "count": 5,
       "sentiment": "positive",
-      "context": "국힘 지지율 상승과 관련된 글"
+      "context": "AI 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 게시글이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "이재명 트윗이 클리앙 커뮤니티에서 인기 있는 주제입니다.",
-      "action": "이재명 트윗과 관련된 마케팅 전략을 수립하세요.",
-      "priority": "medium"
+      "insight": "클리앙 커뮤니티에서 정치와 경제 관련된 게시글이 많은 것으로 나타났습니다.",
+      "action": "정치와 경제 관련된 콘텐츠를 제공하여 사용자의 관심을 끌 수 있습니다.",
+      "priority": "high"
     },
     {
-      "insight": "UFC의 굴욕과 관련된 주제가 클리앙 커뮤니티에서 논란이 되고 있습니다.",
-      "action": "UFC와 관련된 마케팅 전략을 수립하세요.",
-      "priority": "low"
+      "insight": "클리앙 커뮤니티에서 기술 관련된 게시글이 많습니다.",
+      "action": "기술 관련된 콘텐츠를 제공하여 사용자의 관심을 끌 수 있습니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 인기 있는 주제는 이재명 트윗과 UFC의 굴욕과 관련된 주제입니다. 이재명 트윗은 입원하면 돈 주는 요양병원과 관련된 트윗이 있습니다. UFC의 굴욕과 관련된 주제는 미셸 오바마는 男이라는 황당 발언이 있습니다. 클리앙 커뮤니티의 전반적인 분위기는 중립적입니다. 마케터는 이재명 트윗과 UFC와 관련된 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-15T23:01:26.787Z",
+  "narrative": "클리앙 커뮤니티에서 정치와 경제 관련된 게시글이 많은 것으로 나타났습니다. 특히, 대선 주자와 부동산 관련된 게시글이 많이 올라왔습니다. 또한, 기술 관련된 게시글도 많습니다. 이러한 트렌드를 분석하여 콘텐츠를 제공하면 사용자의 관심을 끌 수 있습니다. 그러나, 부정적인 감정의 게시글이 많기 때문에 콘텐츠를 제공할 때에는 사용자의 감정을 고려해야 합니다.",
+  "analyzed_at": "2026-06-16T01:00:33.348Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
