@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 뉴스와 논란이 많은 것으로 나타났습니다. 대통령과 관련된 뉴스, 정치권의 움직임, 선거 결과 등이 주요 관심사입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "정청래 당대표 심기경호에 실패, 국회 입법예고 사라짐",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI와 관련된 기술 뉴스가 많았습니다. 새로운 기술 개발, 기업의 기술 투자, AI의 활용 등이 주요 관심사입니다.",
-      "post_count": 20,
+      "summary": "삼성전자, 사흘간 글로벌 전략회의…전사적 AI 전환 강조",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "경제 뉴스가 많았습니다. 기업의 성과, 경제 정책, 금융 뉴스 등이 주요 관심사입니다.",
-      "post_count": 10,
+      "summary": "서울 부동산이 빠질거라고 생각하는게 이해가 안되는게",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -25,43 +25,48 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI의 발전과 활용"
+      "context": "기술 발전"
     },
     {
       "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "정치 뉴스와 논란"
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정당 및 정치인"
     },
     {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "부동산",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "경제 뉴스와 분석"
+      "context": "서울 부동산"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술은 빠르게 발전하고 있음",
+      "action": "AI 기술에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제의 상관관계",
-      "action": "정치와 경제의 동향을 분석하여 비즈니스 전략 수립",
+      "insight": "정치적인 이슈는 여전히 중요함",
+      "action": "정치적인 이슈에 대한 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "부동산 시장은 안정적임",
+      "action": "부동산 시장에 대한 투자 고려",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드는 정치, 기술, 경제를 중심으로 돌아가고 있습니다. AI 기술의 발전과 정치와 경제의 상관관계를 분석하여 비즈니스 전략을 수립하는 것이 중요해 보입니다. 또한, 중립적인 분위기를 유지하는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-06-16T11:30:34.140Z",
+  "narrative": "최근의 트렌드 분석 결과, 기술과 정치가 주요한 주제로 나타남을 알 수 있다. AI 기술은 빠르게 발전하고 있으며, 정치적인 이슈는 여전히 중요함을 알 수 있다. 또한, 부동산 시장은 안정적임을 알 수 있다. 이러한 결과는 기업 및 투자자들에게 중요한 정보를 제공할 수 있으며, 향후의 비즈니스 전략에 대한 참고 자료로 활용될 수 있을 것이다.",
+  "analyzed_at": "2026-06-16T13:00:33.799Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
