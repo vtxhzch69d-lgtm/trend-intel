@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래 당대표 심기경호에 실패, 국회 입법예고 사라짐",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령과 관련된 다양한 뉴스와 의견이 클리앙 커뮤니티에서 обсужд되고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "삼성전자, 사흘간 글로벌 전략회의…전사적 AI 전환 강조",
-      "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "서울 부동산이 빠질거라고 생각하는게 이해가 안되는게",
-      "post_count": 5,
+      "topic": "클리앙 커뮤니티",
+      "summary": "클리앙 커뮤니티에서 다양한 주제와 의견이 обсужд되고 있습니다.",
+      "post_count": 20,
       "sentiment": "neutral",
       "urgency": "low"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련된 뉴스와 의견이 클리앙 커뮤니티에서 обсужд되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "기술 발전"
+      "keyword": "이재명",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "이재명 대통령과 관련된 뉴스와 의견"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정당 및 정치인"
-    },
-    {
-      "keyword": "부동산",
-      "count": 5,
+      "keyword": "클리앙",
+      "count": 30,
       "sentiment": "neutral",
-      "context": "서울 부동산"
+      "context": "클리앙 커뮤니티에서 обсужд되는 주제와 의견"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI와 기술 관련된 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 빠르게 발전하고 있음",
-      "action": "AI 기술에 대한 투자 증가",
+      "insight": "클리앙 커뮤니티에서 이재명 대통령과 관련된 뉴스와 의견이 많이 обсужд되고 있습니다.",
+      "action": "이재명 대통령과 관련된 뉴스와 의견을 모니터링하고 분석하여 마케팅 전략을 수립합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치적인 이슈는 여전히 중요함",
-      "action": "정치적인 이슈에 대한 모니터링",
+      "insight": "클리앙 커뮤니티에서 AI와 기술 관련된 뉴스와 의견이 많이 обсужд되고 있습니다.",
+      "action": "AI와 기술 관련된 뉴스와 의견을 모니터링하고 분석하여 마케팅 전략을 수립합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "부동산 시장은 안정적임",
-      "action": "부동산 시장에 대한 투자 고려",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 기술과 정치가 주요한 주제로 나타남을 알 수 있다. AI 기술은 빠르게 발전하고 있으며, 정치적인 이슈는 여전히 중요함을 알 수 있다. 또한, 부동산 시장은 안정적임을 알 수 있다. 이러한 결과는 기업 및 투자자들에게 중요한 정보를 제공할 수 있으며, 향후의 비즈니스 전략에 대한 참고 자료로 활용될 수 있을 것이다.",
-  "analyzed_at": "2026-06-16T13:00:33.799Z",
+  "narrative": "클리앙 커뮤니티에서 다양한 주제와 의견이 обсужд되고 있습니다. 이재명 대통령과 관련된 뉴스와 의견이 많이 обсужд되고 있으며, AI와 기술 관련된 뉴스와 의견도 많이 обсужд되고 있습니다. 클리앙 커뮤니티에서 обсужд되는 주제와 의견을 모니터링하고 분석하여 마케팅 전략을 수립할 수 있습니다. 또한, 클리앙 커뮤니티에서 обсужд되는 주제와 의견을 분석하여 사업 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-16T14:30:34.032Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
