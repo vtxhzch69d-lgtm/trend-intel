@@ -2,67 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "오세훈, 장동혁, 이재명 등 정치 관련 주제가热한议题",
+      "summary": "국내 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI, 데이터센터, 우주산업 등 기술 관련 주제가 관심을 끌고 있다",
+      "summary": "최신 기술 뉴스와 개발이 많은 관심을 받고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "주식, 경제 관련 주제가 일부 관심을 끌고 있다",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "스포츠",
+      "summary": "리오넬 메시의 해트트릭이 많은 관심을 받고 있습니다.",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "오세훈",
-      "count": 5,
+      "keyword": "메시",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "해트트릭"
+    },
+    {
+      "keyword": "국힘",
+      "count": 2,
       "sentiment": "negative",
-      "context": "정치 관련 주제"
+      "context": "정치"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 관련 주제"
-    },
-    {
-      "keyword": "이재명",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 관련 주제"
+      "sentiment": "positive",
+      "context": "기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 25,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 많은 관심을 끌고 있다",
-      "action": "정치 관련 콘텐츠를 생성하여 관심을 끌 수 있다",
+      "insight": "최신 기술 개발에 관심이 많습니다.",
+      "action": "기술 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 주제가 긍정적인 반응을 얻고 있다",
-      "action": "기술 관련 콘텐츠를 생성하여 관심을 끌 수 있다",
+      "insight": "국내 정치 관련 뉴스에 관심이 많습니다.",
+      "action": "정치 관련 콘텐츠 제공하기",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 정치 관련 주제가 많은 관심을 끌고 있으며, 기술 관련 주제도 긍정적인 반응을 얻고 있다. 이러한 트렌드를 이용하여 콘텐츠를 생성하여 관심을 끌 수 있다. 또한, 경제 관련 주제도 일부 관심을 끌고 있으므로, 관련 콘텐츠를 생성하여 관심을 끌 수 있다.",
-  "analyzed_at": "2026-06-17T01:01:26.326Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 정치와 기술 관련 뉴스에 관심이 많습니다. 리오넬 메시의 해트트릭도 많은 관심을 받고 있습니다. 기술 개발에 투자하고 정치 관련 콘텐츠를 제공하면 좋은 반응을 얻을 수 있을 것입니다. 또한, 중립적인 분위기를 유지하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-17T03:00:33.638Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
