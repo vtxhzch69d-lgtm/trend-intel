@@ -1,72 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 다양한 정치적 이슈가 논의되고 있습니다. 일부 게시글에서는 이재명 대통령의 정책과 행보에 대한 지지와 비판이 나타나고 있습니다.",
-      "post_count": 15,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령과 관련된 다양한 뉴스 및 의견",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 주식 시장에 대한 관심이 높아지고 있습니다. 일부 게시글에서는 SNK 레버리지 주식과 현대차 주주에 대한 이야기가 나오고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "노무현 정신",
+      "summary": "노무현 정신과 관련된 의견 및 논의",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있습니다. 일부 게시글에서는 AI, 5G, OLED 등에 대한 이야기가 나오고 있습니다.",
-      "post_count": 12,
+      "topic": "신천지",
+      "summary": "신천지와 관련된 뉴스 및 의견",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 뉴스 및 의견",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "국제 정치",
+      "summary": "국제 정치와 관련된 뉴스 및 의견",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 10,
+      "count": 15,
       "sentiment": "mixed",
-      "context": "정치적 이슈"
+      "context": "이재명 대통령과 관련된 뉴스 및 의견"
     },
     {
-      "keyword": "SNK",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "주식 시장"
+      "keyword": "노무현",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "노무현 정신과 관련된 의견 및 논의"
+    },
+    {
+      "keyword": "신천지",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "신천지와 관련된 뉴스 및 의견"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 트렌드"
+      "context": "AI 기술과 관련된 뉴스 및 의견"
+    },
+    {
+      "keyword": "국제 정치",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "국제 정치와 관련된 뉴스 및 의견"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 이슈에 대한 관심이 높아지고 있습니다.",
-      "action": "정치적 이슈에 대한 분석과 해석을 제공합니다.",
+      "insight": "이재명 대통령과 관련된 뉴스 및 의견이 많아 정치적 관심도가 높은 것으로 보인다.",
+      "action": "정치적 관심도를 고려한 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스와 주식 시장에 대한 관심이 높아지고 있습니다.",
-      "action": "경제 관련 뉴스와 주식 시장에 대한 분석과 해석을 제공합니다.",
+      "insight": "AI 기술과 관련된 뉴스 및 의견이 많아 기술적 관심도가 높은 것으로 보인다.",
+      "action": "AI 기술을 활용한 마케팅 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 뉴스와 트렌드에 대한 분석과 해석을 제공합니다.",
-      "priority": "medium"
+      "insight": "신천지와 관련된 뉴스 및 의견이 많아 사회적 관심도가 높은 것으로 보인다.",
+      "action": "사회적 관심도를 고려한 마케팅 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치적 이슈와 경제 관련 뉴스, 최신 기술 뉴스에 대한 관심이 높아지고 있습니다. 일부 게시글에서는 이재명 대통령과 관련된 다양한 정치적 이슈가 논의되고 있으며, 일부 게시글에서는 SNK 레버리지 주식과 현대차 주주에 대한 이야기가 나오고 있습니다. 또한, 최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있으며, AI, 5G, OLED 등에 대한 이야기가 나오고 있습니다. 이러한 트렌드에 대한 분석과 해석을 제공함으로써, 마케터는 최신의 트렌드와 소비자의 관심을 이해하고, 이를 통해 효과적인 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-17T14:00:34.756Z",
+  "narrative": "이번 분석 결과, 이재명 대통령과 관련된 뉴스 및 의견이 많아 정치적 관심도가 높은 것으로 보인다. 또한, AI 기술과 관련된 뉴스 및 의견이 많아 기술적 관심도가 높은 것으로 보인다. 신천지와 관련된 뉴스 및 의견도 많아 사회적 관심도가 높은 것으로 보인다. 이러한 결과를 고려하여 마케팅 전략을 수립할 수 있을 것이다. 또한, 중립적인 마케팅 전략을 수립하여 다양한 관심도를 고려할 수 있을 것이다.",
+  "analyzed_at": "2026-06-17T15:30:34.286Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
