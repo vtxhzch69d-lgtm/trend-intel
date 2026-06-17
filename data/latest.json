@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 정부의 정책과 권력 다툼에 대한 논의",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "고물가와 반도체 성과급이 물가 자극 요인으로 작용하고 있습니다. 또한, 원전 부지 선정과 관련된 뉴스가 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "이재명 대통령의 업무 오찬 참석과 관련된 뉴스가 있습니다. 또한, 개혁신당 후보의 음료 테러 사건과 관련된 뉴스가 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "금융 뉴스와 시장 동향",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "AI와 관련된 기술 뉴스가 많습니다. 특히, 퀄컴의 AI 웨어러블 개발과 스냅의 AR안경 스펙스 출시가 주목을 받고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 관련 논의"
-    },
-    {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "테크 뉴스와 트렌드"
+      "context": "AI 기술 개발과 관련된 뉴스"
     },
     {
-      "keyword": "경제",
+      "keyword": "고물가",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "금융 뉴스와 시장 동향"
+      "sentiment": "negative",
+      "context": "고물가와 관련된 뉴스"
+    },
+    {
+      "keyword": "이재명",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "이재명 대통령과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제는 밀접한 관련이 있다",
-      "action": "정책과 시장 동향을 주시하자",
+      "insight": "AI 기술 개발에 투자하는 것이 중요합니다.",
+      "action": "AI 기술 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "테크 산업은 빠르게 발전하고 있다",
-      "action": "최신 기술 뉴스와 트렌드를 주시하자",
+      "insight": "고물가와 관련된 뉴스를 주목해야 합니다.",
+      "action": "고물가와 관련된 뉴스를 분석하기",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 경제가 밀접한 관련이 있는 것으로 나타났다. 이재명 정부의 정책과 권력 다툼에 대한 논의가 많았으며, 테크 산업은 빠르게 발전하고 있다. 최신 기술 뉴스와 트렌드를 주시하면 사업에 도움이 될 수 있을 것이다. 또한, 정치와 경제의 동향을 주시하면 시장의 변화를 예측할 수 있을 것이다.",
-  "analyzed_at": "2026-06-17T11:00:33.770Z",
+  "narrative": "현재의 트렌드는 AI 기술 개발과 고물가와 관련된 뉴스가 주를 이루고 있습니다. 특히, 퀄컴의 AI 웨어러블 개발과 스냅의 AR안경 스펙스 출시가 주목을 받고 있습니다. 또한, 이재명 대통령의 업무 오찬 참석과 관련된 뉴스가 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다. 특히, AI 기술 개발에 투자하는 것이 중요하며, 고물가와 관련된 뉴스를 주목해야 합니다.",
+  "analyzed_at": "2026-06-17T12:30:34.267Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
