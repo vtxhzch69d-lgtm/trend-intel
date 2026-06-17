@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다. 이재명 대통령과 오세훈의 뉴스 등이 포함됩니다.",
+      "summary": "이재명 정부의 정책과 권력 다툼에 대한 논의",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "테크",
-      "summary": "최신 기술 관련 뉴스와 제품이 많은 것으로 나타났습니다. AI, 스마트폰, 전자제품 등이 포함됩니다.",
+      "summary": "최신 기술 뉴스와 트렌드",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "생활",
-      "summary": "생활 관련 주제가 많은 것으로 나타났습니다. 음식, 영화, 스포츠 등이 포함됩니다.",
+      "topic": "경제",
+      "summary": "금융 뉴스와 시장 동향",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
@@ -25,43 +25,43 @@
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스"
+      "context": "정치 관련 논의"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술 관련 뉴스"
+      "context": "테크 뉴스와 트렌드"
     },
     {
-      "keyword": "스마트폰",
-      "count": 3,
+      "keyword": "경제",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "최신 기술 관련 뉴스"
+      "context": "금융 뉴스와 시장 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 관련 뉴스와 제품에 대한 관심이 높습니다.",
-      "action": "최신 기술 관련 제품과 서비스를 개발하고 홍보합니다.",
+      "insight": "정치와 경제는 밀접한 관련이 있다",
+      "action": "정책과 시장 동향을 주시하자",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다.",
-      "action": "정치 관련 뉴스와 의견을 분석하고 이해합니다.",
+      "insight": "테크 산업은 빠르게 발전하고 있다",
+      "action": "최신 기술 뉴스와 트렌드를 주시하자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술 관련 주제가 많은 것으로 나타났습니다. 최신 기술 관련 뉴스와 제품에 대한 관심이 높으며, 정치 관련 뉴스와 의견도 많은 것으로 나타났습니다. 이러한 트렌드를 분석하여 최신 기술 관련 제품과 서비스를 개발하고 홍보하는 것이 중요할 것으로 보입니다. 또한, 정치 관련 뉴스와 의견을 분석하고 이해하는 것이 필요합니다.",
-  "analyzed_at": "2026-06-17T09:01:25.182Z",
+  "narrative": "최근의 트렌드는 정치와 경제가 밀접한 관련이 있는 것으로 나타났다. 이재명 정부의 정책과 권력 다툼에 대한 논의가 많았으며, 테크 산업은 빠르게 발전하고 있다. 최신 기술 뉴스와 트렌드를 주시하면 사업에 도움이 될 수 있을 것이다. 또한, 정치와 경제의 동향을 주시하면 시장의 변화를 예측할 수 있을 것이다.",
+  "analyzed_at": "2026-06-17T11:00:33.770Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
