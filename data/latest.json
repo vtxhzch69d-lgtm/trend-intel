@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "고물가와 반도체 성과급이 물가 자극 요인으로 작용하고 있습니다. 또한, 원전 부지 선정과 관련된 뉴스가 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "이재명 대통령과 관련된 다양한 정치적 이슈가 논의되고 있습니다. 일부 게시글에서는 이재명 대통령의 정책과 행보에 대한 지지와 비판이 나타나고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 업무 오찬 참석과 관련된 뉴스가 있습니다. 또한, 개혁신당 후보의 음료 테러 사건과 관련된 뉴스가 있습니다.",
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 주식 시장에 대한 관심이 높아지고 있습니다. 일부 게시글에서는 SNK 레버리지 주식과 현대차 주주에 대한 이야기가 나오고 있습니다.",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "AI와 관련된 기술 뉴스가 많습니다. 특히, 퀄컴의 AI 웨어러블 개발과 스냅의 AR안경 스펙스 출시가 주목을 받고 있습니다.",
+      "summary": "최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있습니다. 일부 게시글에서는 AI, 5G, OLED 등에 대한 이야기가 나오고 있습니다.",
       "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
@@ -24,44 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술 개발과 관련된 뉴스"
-    },
-    {
-      "keyword": "고물가",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "고물가와 관련된 뉴스"
-    },
-    {
       "keyword": "이재명",
-      "count": 3,
+      "count": 10,
       "sentiment": "mixed",
-      "context": "이재명 대통령과 관련된 뉴스"
+      "context": "정치적 이슈"
+    },
+    {
+      "keyword": "SNK",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "주식 시장"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 트렌드"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발에 투자하는 것이 중요합니다.",
-      "action": "AI 기술 개발에 투자하기",
+      "insight": "정치적 이슈에 대한 관심이 높아지고 있습니다.",
+      "action": "정치적 이슈에 대한 분석과 해석을 제공합니다.",
       "priority": "high"
     },
     {
-      "insight": "고물가와 관련된 뉴스를 주목해야 합니다.",
-      "action": "고물가와 관련된 뉴스를 분석하기",
+      "insight": "경제 관련 뉴스와 주식 시장에 대한 관심이 높아지고 있습니다.",
+      "action": "경제 관련 뉴스와 주식 시장에 대한 분석과 해석을 제공합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 뉴스와 트렌드에 대한 분석과 해석을 제공합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술 개발과 고물가와 관련된 뉴스가 주를 이루고 있습니다. 특히, 퀄컴의 AI 웨어러블 개발과 스냅의 AR안경 스펙스 출시가 주목을 받고 있습니다. 또한, 이재명 대통령의 업무 오찬 참석과 관련된 뉴스가 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다. 특히, AI 기술 개발에 투자하는 것이 중요하며, 고물가와 관련된 뉴스를 주목해야 합니다.",
-  "analyzed_at": "2026-06-17T12:30:34.267Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치적 이슈와 경제 관련 뉴스, 최신 기술 뉴스에 대한 관심이 높아지고 있습니다. 일부 게시글에서는 이재명 대통령과 관련된 다양한 정치적 이슈가 논의되고 있으며, 일부 게시글에서는 SNK 레버리지 주식과 현대차 주주에 대한 이야기가 나오고 있습니다. 또한, 최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있으며, AI, 5G, OLED 등에 대한 이야기가 나오고 있습니다. 이러한 트렌드에 대한 분석과 해석을 제공함으로써, 마케터는 최신의 트렌드와 소비자의 관심을 이해하고, 이를 통해 효과적인 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-17T14:00:34.756Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
