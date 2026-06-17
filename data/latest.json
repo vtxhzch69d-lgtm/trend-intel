@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "국힘의원들과 경찰들의 충돌 영상, 트럼프가 북한핵 문제를 무력으로 해결하려고 하면 어떻게 될거라고 생각하시나요?",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다. 이재명 대통령과 오세훈의 뉴스 등이 포함됩니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI 기반 차세대 펩타이드 신약 개발, 스냅의 AR안경 스펙스(Specs) 출시",
-      "post_count": 15,
+      "topic": "테크",
+      "summary": "최신 기술 관련 뉴스와 제품이 많은 것으로 나타났습니다. AI, 스마트폰, 전자제품 등이 포함됩니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "코스피, 1.58%↑ 8,864 마감…종가기준 사상 최고치, LG이노텍 '고객사와 베트남 FC-BGA 라인 증설 논의'",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "생활",
+      "summary": "생활 관련 주제가 많은 것으로 나타났습니다. 음식, 영화, 스포츠 등이 포함됩니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기반 차세대 펩타이드 신약 개발"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
+      "keyword": "이재명",
+      "count": 5,
       "sentiment": "negative",
-      "context": "국힘의원들과 경찰들의 충돌 영상"
+      "context": "정치 관련 뉴스"
     },
     {
-      "keyword": "경제",
-      "count": 10,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "코스피, 1.58%↑ 8,864 마감…종가기준 사상 최고치"
+      "context": "최신 기술 관련 뉴스"
+    },
+    {
+      "keyword": "스마트폰",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "최신 기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신제품 개발",
+      "insight": "최신 기술 관련 뉴스와 제품에 대한 관심이 높습니다.",
+      "action": "최신 기술 관련 제품과 서비스를 개발하고 홍보합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 성장",
-      "action": "투자 및 비즈니스 확장",
+      "insight": "정치 관련 뉴스와 의견이 많은 것으로 나타났습니다.",
+      "action": "정치 관련 뉴스와 의견을 분석하고 이해합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적 불안정",
-      "action": "위험 관리 및 대응 전략 수립",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 경제 성장이 주요 관심사로 나타났습니다. 그러나 정치적 불안정도 주요 관심사로 나타났습니다. 이러한 트렌드를 고려하여, 기업은 AI 기술을 활용한 신제품 개발 및 투자 및 비즈니스 확장을 고려해야 합니다. 또한, 정치적 불안정에 대한 위험 관리 및 대응 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-17T07:30:34.037Z",
+  "narrative": "최근의 트렌드는 정치와 기술 관련 주제가 많은 것으로 나타났습니다. 최신 기술 관련 뉴스와 제품에 대한 관심이 높으며, 정치 관련 뉴스와 의견도 많은 것으로 나타났습니다. 이러한 트렌드를 분석하여 최신 기술 관련 제품과 서비스를 개발하고 홍보하는 것이 중요할 것으로 보입니다. 또한, 정치 관련 뉴스와 의견을 분석하고 이해하는 것이 필요합니다.",
+  "analyzed_at": "2026-06-17T09:01:25.182Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
