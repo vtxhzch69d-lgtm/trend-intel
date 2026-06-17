@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "SK 하이닉스 주가 상승, 투자자 관심 증가",
+      "topic": "정치",
+      "summary": "국힘의원들과 경찰들의 충돌 영상, 트럼프가 북한핵 문제를 무력으로 해결하려고 하면 어떻게 될거라고 생각하시나요?",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 개발 및 적용 증가, 다양한 산업 분야에 영향",
+      "topic": "기술",
+      "summary": "AI 기반 차세대 펩타이드 신약 개발, 스냅의 AR안경 스펙스(Specs) 출시",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "월드컵",
-      "summary": "월드컵 경기 결과 및 분석, 축구 팬들의 관심",
+      "topic": "경제",
+      "summary": "코스피, 1.58%↑ 8,864 마감…종가기준 사상 최고치, LG이노텍 '고객사와 베트남 FC-BGA 라인 증설 논의'",
       "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "SK 하이닉스",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "주식 시장 관련 게시물"
-    },
-    {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "기술 개발 및 적용 관련 게시물"
+      "sentiment": "positive",
+      "context": "AI 기반 차세대 펩타이드 신약 개발"
     },
     {
-      "keyword": "월드컵",
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "국힘의원들과 경찰들의 충돌 영상"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "스포츠 관련 게시물"
+      "sentiment": "positive",
+      "context": "코스피, 1.58%↑ 8,864 마감…종가기준 사상 최고치"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 관심 증가",
-      "action": "투자 전략 조정",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 신제품 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "신기술 적용 및 개발",
+      "insight": "경제 성장",
+      "action": "투자 및 비즈니스 확장",
       "priority": "medium"
     },
     {
-      "insight": "스포츠 마케팅의 중요성",
-      "action": "스포츠 관련 마케팅 전략 수립",
-      "priority": "low"
+      "insight": "정치적 불안정",
+      "action": "위험 관리 및 대응 전략 수립",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 주식 시장, AI 기술, 및 월드컵 관련 주제가 주를 이루고 있습니다. SK 하이닉스의 주가 상승과 AI 기술의 발전은 많은 관심을 받고 있으며, 월드컵 경기 결과 및 분석도 축구 팬들의 관심을 끌고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 신기술을 적용하여 시장의 기회를 잡는 것이 중요합니다.",
-  "analyzed_at": "2026-06-17T06:00:33.908Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 경제 성장이 주요 관심사로 나타났습니다. 그러나 정치적 불안정도 주요 관심사로 나타났습니다. 이러한 트렌드를 고려하여, 기업은 AI 기술을 활용한 신제품 개발 및 투자 및 비즈니스 확장을 고려해야 합니다. 또한, 정치적 불안정에 대한 위험 관리 및 대응 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-06-17T07:30:34.037Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
