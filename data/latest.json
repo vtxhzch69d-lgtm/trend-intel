@@ -2,67 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많으며, 장동혁과 관련된 내용이 주를 이루고 있습니다. 또한, 선거와 관련된 게시글도 상당수 존재합니다.",
+      "summary": "오세훈, 장동혁, 이재명 등 정치 관련 주제가热한议题",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 관련 게시글이 많으며, AI와 관련된 내용이 주를 이루고 있습니다. 또한, 삼성전자와 관련된 게시글도 상당수 존재합니다.",
+      "summary": "AI, 데이터센터, 우주산업 등 기술 관련 주제가 관심을 끌고 있다",
       "post_count": 20,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "최근 스포츠 관련 게시글이 많으며, 월드컵과 관련된 내용이 주를 이루고 있습니다. 또한, 축구와 관련된 게시글도 상당수 존재합니다.",
+      "topic": "경제",
+      "summary": "주식, 경제 관련 주제가 일부 관심을 끌고 있다",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "장동혁",
+      "keyword": "오세훈",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 관련 게시글에서 자주 언급됩니다."
+      "context": "정치 관련 주제"
     },
     {
       "keyword": "AI",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "기술 관련 게시글에서 자주 언급됩니다."
+      "sentiment": "positive",
+      "context": "기술 관련 주제"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "기술 관련 게시글에서 자주 언급됩니다."
+      "sentiment": "mixed",
+      "context": "정치 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 게시글이 많아, 정치와 관련된 비즈니스 기회가 있을 수 있습니다.",
-      "action": "정치 관련 비즈니스 기회를 탐색합니다.",
+      "insight": "정치 관련 주제가 많은 관심을 끌고 있다",
+      "action": "정치 관련 콘텐츠를 생성하여 관심을 끌 수 있다",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 게시글이 많아, 기술과 관련된 비즈니스 기회가 있을 수 있습니다.",
-      "action": "기술 관련 비즈니스 기회를 탐색합니다.",
+      "insight": "기술 관련 주제가 긍정적인 반응을 얻고 있다",
+      "action": "기술 관련 콘텐츠를 생성하여 관심을 끌 수 있다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 관련 게시글이 많아, 정치와 관련된 비즈니스 기회가 있을 수 있습니다. 또한, 기술 관련 게시글이 많아, 기술과 관련된 비즈니스 기회가 있을 수 있습니다. 그러나, 정치와 관련된 게시글의 감정은 주로 부정적이므로, 이를 고려하여 비즈니스 전략을 수립해야 합니다. 기술과 관련된 게시글의 감정은 중립적이므로, 이를 고려하여 비즈니스 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-16T23:30:34.187Z",
-  "post_count": 62,
+  "narrative": "현재 정치 관련 주제가 많은 관심을 끌고 있으며, 기술 관련 주제도 긍정적인 반응을 얻고 있다. 이러한 트렌드를 이용하여 콘텐츠를 생성하여 관심을 끌 수 있다. 또한, 경제 관련 주제도 일부 관심을 끌고 있으므로, 관련 콘텐츠를 생성하여 관심을 끌 수 있다.",
+  "analyzed_at": "2026-06-17T01:01:26.326Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
