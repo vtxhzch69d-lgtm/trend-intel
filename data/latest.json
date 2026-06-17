@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 관련된 뉴스 및 논평",
+      "summary": "이재명 대통령과 김혜경 여사의 G7 만찬 참석, 노무현 정신에 대한 논의 등 정치 관련 주제가 인기",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 및 산업 동향",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "AI, XR, 5G 등 기술 관련 주제가 인기",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "프로게이머 및 스포츠 뉴스",
-      "post_count": 3,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "경제 관련 주제가 인기",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
@@ -27,41 +27,46 @@
       "keyword": "이재명",
       "count": 10,
       "sentiment": "negative",
-      "context": "정치 논평"
+      "context": "정치 관련 주제"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "기술 관련 주제"
     },
     {
-      "keyword": "노무현",
+      "keyword": "G7",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 논평"
+      "sentiment": "neutral",
+      "context": "정치 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 산업계에서 점점 더 중요해지고 있다",
-      "action": "AI 기술에 대한 투자 증가",
+      "insight": "정치 관련 주제가 인기",
+      "action": "정치 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 논평은 여전히 온라인 커뮤니티에서 큰 관심을 받고 있다",
-      "action": "정치 뉴스 및 논평에 대한 모니터링 증가",
+      "insight": "기술 관련 주제가 인기",
+      "action": "기술 관련 콘텐츠 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 주제가 인기",
+      "action": "경제 관련 콘텐츠 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 온라인 커뮤니티에서는 정치 및 AI 기술 관련 주제가 큰 관심을 받고 있다. 이재명 대통령과 관련된 뉴스 및 논평은 많은 논쟁을 불러일으키고 있다. 또한, AI 기술은 산업계에서 점점 더 중요해지고 있으며, 많은 기업들이 AI 기술에 대한 투자를 증가시키고 있다. 이러한 추세는 향후에도 지속될 것으로 예상된다. 따라서, 기업들은 이러한 추세를 주시하고, 적절한 전략을 수립하여 시장의 변화를 선도할 수 있어야 한다.",
-  "analyzed_at": "2026-06-17T17:30:34.292Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 주제가 인기임을 보여주고 있습니다. 특히, 이재명 대통령과 김혜경 여사의 G7 만찬 참석, 노무현 정신에 대한 논의 등 정치 관련 주제가 많은 관심을 받고 있습니다. 또한, AI, XR, 5G 등 기술 관련 주제도 많은 관심을 받고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 개발하고, 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-17T19:00:34.186Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
