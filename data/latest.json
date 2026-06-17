@@ -1,45 +1,45 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 김혜경 여사의 G7 만찬 참석, 노무현 정신에 대한 논의 등 정치 관련 주제가 인기",
-      "post_count": 15,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 최근 활동과 뉴스에 대한 관심이 높다. G7 만찬에 참석하고, 트럼프에게 메시지를 보내는 등 외교 활동이 주목을 받고 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI, XR, 5G 등 기술 관련 주제가 인기",
-      "post_count": 20,
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 선수들의 활약에 대한 관심이 높다. 특히, 콩고 민주공화국 선수들의 경기력이 주목을 받고 있다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 주제가 인기",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스에 대한 관심이 높다. 특히, 퀄컴의 AI 웨어러블 개발과 삼성전자의 AI 연구에 대한 기사가 주목을 받고 있다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 활동과 뉴스에 대한 관심"
+    },
+    {
+      "keyword": "월드컵",
       "count": 10,
-      "sentiment": "negative",
-      "context": "정치 관련 주제"
+      "sentiment": "positive",
+      "context": "월드컵 경기 결과와 선수들의 활약"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "기술 관련 주제"
-    },
-    {
-      "keyword": "G7",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "정치 관련 주제"
+      "context": "AI 기술의 발전과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
@@ -50,23 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 인기",
-      "action": "정치 관련 콘텐츠 개발",
+      "insight": "이재명 대통령의 외교 활동에 대한 관심이 높아짐",
+      "action": "외교 활동에 대한 뉴스와 분석을 제공",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 주제가 인기",
-      "action": "기술 관련 콘텐츠 개발",
+      "insight": "월드컵 경기 결과와 선수들의 활약에 대한 관심이 높아짐",
+      "action": "월드컵 관련 뉴스와 분석을 제공",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 주제가 인기",
-      "action": "경제 관련 콘텐츠 개발",
-      "priority": "low"
+      "insight": "AI 기술의 발전과 관련된 뉴스에 대한 관심이 높아짐",
+      "action": "AI 기술 관련 뉴스와 분석을 제공",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 관련 주제가 인기임을 보여주고 있습니다. 특히, 이재명 대통령과 김혜경 여사의 G7 만찬 참석, 노무현 정신에 대한 논의 등 정치 관련 주제가 많은 관심을 받고 있습니다. 또한, AI, XR, 5G 등 기술 관련 주제도 많은 관심을 받고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 개발하고, 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-17T19:00:34.186Z",
+  "narrative": "最近のオンラインコミュニティのトレンド分析によると、イ・ジェミョン大統領の外交活動や、ワールドカップの試合結果と選手の活躍、AI技術の進歩に関するニュースが注目を集めています。これらのトレンドは、ユーザーの関心とニーズを反映しており、企業やマーケターはこれらのトレンドに応じた戦略を立てる必要があります。イ・ジェミョン大統領の外交活動に関するニュースは、外交関係や国際問題に関する関心が高まっていることを示しています。ワールドカップに関するニュースは、スポーツやエンターテインメントに関する関心が高まっていることを示しています。AI技術に関するニュースは、技術の進歩やイノベーションに関する関心が高まっていることを示しています。",
+  "analyzed_at": "2026-06-17T20:30:34.659Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
