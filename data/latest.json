@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "국내 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
+      "topic": "정치 및 사회",
+      "summary": "最近의 정치 및 사회 관련 뉴스와 논란이 많은 것으로 나타났습니다. 특히, 정부의 정책과 정치인들의 발언이 많은 관심을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 개발이 많은 관심을 받고 있습니다.",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 개발이 많은 것으로 나타났습니다. 특히, AI와 우주 산업 관련 뉴스가 많은 관심을 받고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "리오넬 메시의 해트트릭이 많은 관심을 받고 있습니다.",
-      "post_count": 3,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 분석이 많은 것으로 나타났습니다. 특히, 주식 시장과 경제 정책 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "메시",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "해트트릭"
-    },
-    {
-      "keyword": "국힘",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "정치"
-    },
-    {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 개발"
+      "context": "최신 기술 및 과학 관련 뉴스와 개발"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "最近의 정치 및 사회 관련 뉴스와 논란"
+    },
+    {
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 및 금융 관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 개발에 관심이 많습니다.",
-      "action": "기술 개발에 투자하기",
+      "insight": "최신 기술 및 과학 관련 뉴스와 개발이 많은 관심을 받고 있습니다.",
+      "action": "최신 기술 및 과학 관련 뉴스와 개발에 대한 분석을 제공합니다.",
       "priority": "high"
     },
     {
-      "insight": "국내 정치 관련 뉴스에 관심이 많습니다.",
-      "action": "정치 관련 콘텐츠 제공하기",
+      "insight": "정치 및 사회 관련 뉴스와 논란이 많은 것으로 나타났습니다.",
+      "action": "정치 및 사회 관련 뉴스와 논란에 대한 분석을 제공합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 금융 관련 뉴스와 분석이 많은 것으로 나타났습니다.",
+      "action": "경제 및 금융 관련 뉴스와 분석에 대한 분석을 제공합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술 관련 뉴스에 관심이 많습니다. 리오넬 메시의 해트트릭도 많은 관심을 받고 있습니다. 기술 개발에 투자하고 정치 관련 콘텐츠를 제공하면 좋은 반응을 얻을 수 있을 것입니다. 또한, 중립적인 분위기를 유지하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-17T03:00:33.638Z",
+  "narrative": "最近의 정치 및 사회 관련 뉴스와 논란이 많은 것으로 나타났습니다. 특히, 정부의 정책과 정치인들의 발언이 많은 관심을 받고 있습니다. 또한, 최신 기술 및 과학 관련 뉴스와 개발이 많은 관심을 받고 있습니다. 경제 및 금융 관련 뉴스와 분석도 많은 것으로 나타났습니다. 이러한 분석 결과를 통해, 최신 기술 및 과학 관련 뉴스와 개발, 정치 및 사회 관련 뉴스와 논란, 경제 및 금융 관련 뉴스와 분석에 대한 분석을 제공할 수 있습니다.",
+  "analyzed_at": "2026-06-17T04:30:33.604Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
