@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 체코와 남아공의 경기 결과와 한국의 경기 전망 등이 обсужд되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많습니다. 이재명 정부와 보수·통합 인사들이 본 1년, 우상호, 김어준 등의 이름이 언급되고 있습니다.",
-      "post_count": 5,
+      "summary": "한국의 월드컵 경기 결과와 관련된 게시글이 많습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
+      "topic": "경제",
+      "summary": "금리 인상과 부동산 투기에 대한 게시글이 많습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
       "topic": "기술",
-      "summary": "기술 관련된 게시글이 많습니다. AI, 반도체, 스마트폰 등의 주제가 обсужд되고 있습니다.",
-      "post_count": 10,
+      "summary": "AI와 기술 관련된 뉴스와 제품 출시가 많습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -25,43 +25,48 @@
   "keywords": [
     {
       "keyword": "월드컵",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "월드컵 경기 결과와 관련된 게시글"
-    },
-    {
-      "keyword": "이재명",
-      "count": 5,
+      "count": 12,
       "sentiment": "mixed",
-      "context": "이재명 정부와 관련된 정치 게시글"
+      "context": "한국의 월드컵 경기 결과"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 게시글"
+      "context": "기술과 제품 개발"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "금리 인상과 부동산 투기"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기이지만, 일부 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
       "insight": "월드컵과 관련된 마케팅 기회",
-      "action": "월드컵 관련된 광고와 프로모션을 진행",
+      "action": "월드컵 관련된 제품이나 서비스를 출시하거나 홍보합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 제품과 서비스를 개발",
+      "insight": "AI와 기술에 대한 관심",
+      "action": "AI와 기술 관련된 제품이나 서비스를 개발하고 홍보합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제와 관련된 우려",
+      "action": "경제와 관련된 문제를 해결하기 위한 제품이나 서비스를 개발하고 홍보합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 정치, 기술 등 다양한 주제를 다루고 있습니다. 월드컵 관련된 게시글이 많으며, 정치 관련된 게시글도 많은 관심을 받고 있습니다. 기술 관련된 게시글도 많으며, AI와 반도체 등의 주제가 обсужд되고 있습니다. 이러한 트렌드를 분석하여 마케팅 기회를 찾고, 새로운 제품과 서비스를 개발할 수 있습니다.",
-  "analyzed_at": "2026-06-18T18:30:34.169Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 월드컵과 관련된 게시글이 많았습니다. 또한, 경제와 기술에 대한 관심도 높았습니다. 이러한 트렌드를 분석하여, 마케터는 월드컵과 관련된 마케팅 기회를 찾을 수 있고, AI와 기술에 대한 관심을 활용하여 새로운 제품이나 서비스를 개발할 수 있습니다. 그러나, 경제와 관련된 우려도 존재하므로, 이러한 문제를 해결하기 위한 제품이나 서비스를 개발하고 홍보하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-18T20:00:33.912Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
