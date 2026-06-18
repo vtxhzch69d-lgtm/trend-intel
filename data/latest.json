@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "한국 경제와 정치에 대한 다양한 의견과 논란이 존재합니다. 이재명 대통령과 청와대의 실수, 부동산 투기, 사전투표 폐지 등이 주요 주제입니다.",
-      "post_count": 15,
+      "topic": "이재명 정부",
+      "summary": "이재명 정부와 관련된 다양한 뉴스와 의견이 나타나고 있습니다. 일부에서는 이재명 정부의 정책과 결정에 대한 비판이 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 산업",
-      "summary": "신기술과 산업 동향에 대한 관심이 높습니다. AI, 반도체, 자동차 디스플레이 등이 주요 주제입니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회와 문화에 대한 다양한 의견과 논란이 존재합니다. 학교 금지 리스트, 퇴사 사유, 러블리즈 등이 주요 주제입니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 뉴스와 개발이 활발하게 진행되고 있습니다. 다양한 기업과 기관이 AI 기술을 개발하고 적용하고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융에 관련된 뉴스와 분석이 나타나고 있습니다. 일부에서는 경제와 금융에 대한 우려와 비판이 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치적인 논란"
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "이재명 정부와 관련된 뉴스와 의견"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "신기술과 산업 동향"
+      "context": "AI 기술과 관련된 뉴스와 개발"
     },
     {
-      "keyword": "부동산",
-      "count": 3,
+      "keyword": "경제",
+      "count": 10,
       "sentiment": "negative",
-      "context": "경제적인 문제"
+      "context": "경제와 금융에 관련된 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적이고 다양한 의견이 존재합니다."
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국 경제와 정치에 대한 다양한 의견과 논란이 존재합니다.",
-      "action": "정책과 경제적인 문제에 대한 관심을 높여야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 개발하고 적용하는 기업에 투자",
       "priority": "high"
     },
     {
-      "insight": "신기술과 산업 동향에 대한 관심이 높습니다.",
-      "action": "신기술과 산업 동향에 대한 연구와 개발을 강화해야 합니다.",
+      "insight": "이재명 정부의 정책",
+      "action": "이재명 정부의 정책과 결정에 대한 분석과 비판",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제와 금융의 우려",
+      "action": "경제와 금융에 대한 분석과 대책 마련",
       "priority": "medium"
     }
   ],
-  "narrative": "한국 온라인 커뮤니티에서는 다양한 주제에 대한 의견과 논란이 존재합니다. 경제와 정치, 기술과 산업, 사회와 문화 등이 주요 주제입니다. 이러한 주제에 대한 관심과 의견은 기업과 정책입안자에게 중요한 정보를 제공할 수 있습니다. 따라서 이러한 주제에 대한 연구와 분석을 통해 더 나은 의사결정을 할 수 있습니다. 또한, 신기술과 산업 동향에 대한 관심이 높으므로 이러한 분야에 대한 연구와 개발을 강화해야 합니다.",
-  "analyzed_at": "2026-06-18T15:30:34.201Z",
+  "narrative": "최근의 트렌드와 뉴스를 분석한 결과, AI 기술의 발전과 이재명 정부의 정책이 주요한 주제로 나타났습니다. 또한, 경제와 금융에 대한 우려와 비판이 일부 나타났습니다. 이러한 트렌드와 뉴스를 분석하여, 기업과 기관은 AI 기술을 개발하고 적용하는 데 투자하고, 이재명 정부의 정책과 결정에 대한 분석과 비판을进行하며, 경제와 금융에 대한 분석과 대책 마련에 노력해야 할 것입니다.",
+  "analyzed_at": "2026-06-18T17:00:34.037Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
