@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "코스피 9천에 마감, 주식 시장 상황",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치",
-      "summary": "당내 경선, 대통령 위기, 정치적 의견",
+      "summary": "대통령 지지율, 보완수사권, 이재명 관련 논의",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 반도체, 스마트폰 판매량 감소",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "코스피, 반도체, 수소버스 관련 뉴스",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI, AR, VR 관련 뉴스",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "코스피 상황"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "AI 기술 개발 및 적용"
     },
     {
       "keyword": "정치",
-      "count": 12,
+      "count": 10,
       "sentiment": "mixed",
-      "context": "당내 경선, 대통령 위기"
+      "context": "대통령 지지율, 보완수사권, 이재명 관련 논의"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "코스피, 반도체, 수소버스 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장 상황을 주시해야 한다",
-      "action": "주식 투자 전략 수립",
+      "insight": "AI 기술 개발 및 적용",
+      "action": "투자 및 연구 개발",
+      "priority": "high"
+    },
+    {
+      "insight": "경제 동향 분석",
+      "action": "시장 분석 및 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술 발전을 주시해야 한다",
-      "action": "AI 기술 연구 및 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "정치적 상황을 주시해야 한다",
-      "action": "정치적 상황 분석",
+      "insight": "정치 및 사회 동향 분석",
+      "action": "이슈 관리 및 대응",
       "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 주식 시장 상황, AI 기술 발전, 정치적 상황 등이热한 주제로 논의되고 있다. 주식 시장 상황은 중립적이며, AI 기술 발전은 긍정적이다. 정치적 상황은 혼합적이다. 이러한 주제는 사업적으로 중시해야 하는 사항이다. 주식 시장 상황을 주시하고, AI 기술 발전을 연구하며, 정치적 상황을 분석해야 한다.",
-  "analyzed_at": "2026-06-18T07:30:34.327Z",
-  "post_count": 62,
+  "narrative": "최근 클리앙 커뮤니티에서 정치, 경제, 기술 관련 주제가热하게 논의되고 있습니다. AI 기술 개발 및 적용이 가장 많은 관심을 받고 있으며, 대통령 지지율, 보완수사권, 이재명 관련 논의도 많은 관심을 받고 있습니다. 경제 동향 분석도 중요한 주제로, 코스피, 반도체, 수소버스 관련 뉴스가 많이 обсужд되고 있습니다. 이러한 동향을 분석하여 사업 전략을 수립하고, 투자 및 연구 개발을進行해야 합니다.",
+  "analyzed_at": "2026-06-18T09:01:32.700Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
