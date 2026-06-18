@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "이동형",
-      "summary": "이동형의 발언과 행동에 대한 논란",
+      "summary": "이동형 관련 논란과 발언이 커뮤니티에서 많이 обсужд되고 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논평",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스와 기사들이 많이 올라왔습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석",
+      "topic": "경제 및 정치",
+      "summary": "한국 경제와 정치 관련 뉴스와 기사들이 많이 올라왔습니다.",
       "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이동형",
-      "count": 5,
+      "count": 7,
       "sentiment": "negative",
-      "context": "논란"
+      "context": "논란과 발언"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "뉴스와 논평"
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "기술 발전"
     },
     {
       "keyword": "경제",
-      "count": 8,
+      "count": 5,
       "sentiment": "neutral",
-      "context": "뉴스와 분석"
+      "context": "관련 뉴스와 기사"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
+    "positive": 15,
+    "negative": 10,
     "neutral": 20,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "이동형의 발언과 행동에 대한 논란이 높아지고 있다",
-      "action": "이동형의 발언과 행동에 대한 모니터링 강화",
+      "insight": "이동형 관련 논란을 이용한 마케팅",
+      "action": "이동형 관련 콘텐츠 생성",
+      "priority": "low"
+    },
+    {
+      "insight": "AI 기술의 발전을 이용한 마케팅",
+      "action": "AI 관련 콘텐츠 생성",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 논평이 많이 공유되고 있다",
-      "action": "정치 관련 뉴스와 논평에 대한 분석 및 리포팅",
+      "insight": "경제 및 정치 관련 뉴스와 기사를 이용한 마케팅",
+      "action": "경제 및 정치 관련 콘텐츠 생성",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스와 분석이 많이 공유되고 있다",
-      "action": "경제 관련 뉴스와 분석에 대한 분석 및 리포팅",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 이동형의 발언과 행동에 대한 논란이 높아지고 있으며, 정치 관련 뉴스와 논평이 많이 공유되고 있다. 또한, 경제 관련 뉴스와 분석이 많이 공유되고 있다. 이러한 트렌드에 대한 분석과 리포팅을 통해 마케터는 최신 트렌드에 대한 이해를 높이고, 이를 통해 마케팅 전략을 수립할 수 있을 것이다. 이동형의 발언과 행동에 대한 논란에 대한 모니터링을 강화하고, 정치 관련 뉴스와 논평에 대한 분석 및 리포팅을 통해 최신 트렌드에 대한 이해를 높일 수 있을 것이다. 또한, 경제 관련 뉴스와 분석에 대한 분석 및 리포팅을 통해 최신 트렌드에 대한 이해를 높일 수 있을 것이다.",
-  "analyzed_at": "2026-06-18T12:30:33.783Z",
+  "narrative": "최근 커뮤니티에서 많이 обсужд되고 있는 주제는 이동형 관련 논란과 AI 기술의 발전입니다. 경제 및 정치 관련 뉴스와 기사들도 많이 올라왔습니다. 이러한 주제를 이용한 마케팅 전략을 수립할 수 있습니다. 이동형 관련 논란을 이용한 마케팅은 낮은 우선순위를 가지고 있으며, AI 기술의 발전을 이용한 마케팅은 높은 우선순위를 가지고 있습니다. 경제 및 정치 관련 뉴스와 기사를 이용한 마케팅은 중간 우선순위를 가지고 있습니다.",
+  "analyzed_at": "2026-06-18T14:00:34.077Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
