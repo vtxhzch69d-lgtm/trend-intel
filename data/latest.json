@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "코스피 하이닉스 수익, 사전투표 용지 부족, 국힘 사전투표 폐지법 발의 등",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "이동형",
+      "summary": "이동형의 발언과 행동에 대한 논란",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI, 반도체, 에어컨, 항만공사법 개정안 등",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 논평",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "시위, 교사용 AI, 항공사, 펜싱 국대 등",
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 분석",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,49 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "코스피",
+      "keyword": "이동형",
       "count": 5,
-      "sentiment": "positive",
-      "context": "하이닉스 수익"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "기술 및 과학"
-    },
-    {
-      "keyword": "사전투표",
-      "count": 3,
       "sentiment": "negative",
-      "context": "용지 부족"
+      "context": "논란"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "뉴스와 논평"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
+    "positive": 10,
+    "negative": 15,
     "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "코스피 하이닉스 수익 증가",
-      "action": "투자 증가",
+      "insight": "이동형의 발언과 행동에 대한 논란이 높아지고 있다",
+      "action": "이동형의 발언과 행동에 대한 모니터링 강화",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 발전",
-      "action": "연구 및 개발 투자",
+      "insight": "정치 관련 뉴스와 논평이 많이 공유되고 있다",
+      "action": "정치 관련 뉴스와 논평에 대한 분석 및 리포팅",
       "priority": "medium"
     },
     {
-      "insight": "사전투표 용지 부족",
-      "action": "용지 공급 증가",
+      "insight": "경제 관련 뉴스와 분석이 많이 공유되고 있다",
+      "action": "경제 관련 뉴스와 분석에 대한 분석 및 리포팅",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제 및 정치 분야에서 코스피 하이닉스 수익, 사전투표 용지 부족, 국힘 사전투표 폐지법 발의 등이 주목을 끌고 있습니다. 기술 및 과학 분야에서는 AI, 반도체, 에어컨, 항만공사법 개정안 등이 관심을 끌고 있습니다. 사회 및 문화 분야에서는 시위, 교사용 AI, 항공사, 펜싱 국대 등이 논의되고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업 및 기관은 시장의 동향을 파악하고, 적절한 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-18T11:00:34.051Z",
+  "narrative": "최근 이동형의 발언과 행동에 대한 논란이 높아지고 있으며, 정치 관련 뉴스와 논평이 많이 공유되고 있다. 또한, 경제 관련 뉴스와 분석이 많이 공유되고 있다. 이러한 트렌드에 대한 분석과 리포팅을 통해 마케터는 최신 트렌드에 대한 이해를 높이고, 이를 통해 마케팅 전략을 수립할 수 있을 것이다. 이동형의 발언과 행동에 대한 논란에 대한 모니터링을 강화하고, 정치 관련 뉴스와 논평에 대한 분석 및 리포팅을 통해 최신 트렌드에 대한 이해를 높일 수 있을 것이다. 또한, 경제 관련 뉴스와 분석에 대한 분석 및 리포팅을 통해 최신 트렌드에 대한 이해를 높일 수 있을 것이다.",
+  "analyzed_at": "2026-06-18T12:30:33.783Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
