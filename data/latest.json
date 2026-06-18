@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이동형",
-      "summary": "이동형 관련 논란과 발언이 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "경제 및 정치",
+      "summary": "한국 경제와 정치에 대한 다양한 의견과 논란이 존재합니다. 이재명 대통령과 청와대의 실수, 부동산 투기, 사전투표 폐지 등이 주요 주제입니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스와 기사들이 많이 올라왔습니다.",
-      "post_count": 10,
+      "topic": "기술 및 산업",
+      "summary": "신기술과 산업 동향에 대한 관심이 높습니다. AI, 반도체, 자동차 디스플레이 등이 주요 주제입니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "한국 경제와 정치 관련 뉴스와 기사들이 많이 올라왔습니다.",
-      "post_count": 8,
+      "topic": "사회 및 문화",
+      "summary": "사회와 문화에 대한 다양한 의견과 논란이 존재합니다. 학교 금지 리스트, 퇴사 사유, 러블리즈 등이 주요 주제입니다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이동형",
-      "count": 7,
+      "keyword": "이재명",
+      "count": 5,
       "sentiment": "negative",
-      "context": "논란과 발언"
+      "context": "정치적인 논란"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "신기술과 산업 동향"
     },
     {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "관련 뉴스와 기사"
+      "keyword": "부동산",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "경제적인 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적이고 다양한 의견이 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "이동형 관련 논란을 이용한 마케팅",
-      "action": "이동형 관련 콘텐츠 생성",
-      "priority": "low"
-    },
-    {
-      "insight": "AI 기술의 발전을 이용한 마케팅",
-      "action": "AI 관련 콘텐츠 생성",
+      "insight": "한국 경제와 정치에 대한 다양한 의견과 논란이 존재합니다.",
+      "action": "정책과 경제적인 문제에 대한 관심을 높여야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스와 기사를 이용한 마케팅",
-      "action": "경제 및 정치 관련 콘텐츠 생성",
+      "insight": "신기술과 산업 동향에 대한 관심이 높습니다.",
+      "action": "신기술과 산업 동향에 대한 연구와 개발을 강화해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 커뮤니티에서 많이 обсужд되고 있는 주제는 이동형 관련 논란과 AI 기술의 발전입니다. 경제 및 정치 관련 뉴스와 기사들도 많이 올라왔습니다. 이러한 주제를 이용한 마케팅 전략을 수립할 수 있습니다. 이동형 관련 논란을 이용한 마케팅은 낮은 우선순위를 가지고 있으며, AI 기술의 발전을 이용한 마케팅은 높은 우선순위를 가지고 있습니다. 경제 및 정치 관련 뉴스와 기사를 이용한 마케팅은 중간 우선순위를 가지고 있습니다.",
-  "analyzed_at": "2026-06-18T14:00:34.077Z",
+  "narrative": "한국 온라인 커뮤니티에서는 다양한 주제에 대한 의견과 논란이 존재합니다. 경제와 정치, 기술과 산업, 사회와 문화 등이 주요 주제입니다. 이러한 주제에 대한 관심과 의견은 기업과 정책입안자에게 중요한 정보를 제공할 수 있습니다. 따라서 이러한 주제에 대한 연구와 분석을 통해 더 나은 의사결정을 할 수 있습니다. 또한, 신기술과 산업 동향에 대한 관심이 높으므로 이러한 분야에 대한 연구와 개발을 강화해야 합니다.",
+  "analyzed_at": "2026-06-18T15:30:34.201Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
