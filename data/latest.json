@@ -2,72 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "오세훈과 선거소청 최종 합의, 윤호중 행안부장관 책임론",
-      "post_count": 5,
+      "summary": "트럼프와 한국 정치 관련 글들이 많이 올라왔습니다. 트럼프의 몰락과 한국 정치의 상황이 주목을 받았습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "코스피 9천 저항, 하이닉스 미쳤네요",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "주식",
+      "summary": "주식 관련 글들이 많이 올라왔습니다. 삼전과 하닉의 주가가 주목을 받았습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI 수석에 AWS 이기혁 내정, AI 기반 차세대 펩타이드 신약 개발",
-      "post_count": 6,
+      "topic": "AI",
+      "summary": "AI 관련 글들이 많이 올라왔습니다. AI의 발전과 적용이 주목을 받았습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "오세훈",
-      "count": 3,
+      "keyword": "트럼프",
+      "count": 5,
       "sentiment": "negative",
-      "context": "선거소청 최종 합의"
+      "context": "트럼프의 몰락과 정치 상황"
     },
     {
-      "keyword": "하이닉스",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "코스피 9천 저항"
+      "keyword": "삼전",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "주식 시장과 삼전의 주가"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기반 차세대 펩타이드 신약 개발"
+      "context": "AI의 발전과 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 기분이지만 일부에서는 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "정치적 불안정성",
-      "action": "정치적 리스크 관리",
+      "insight": "AI 기술의 발전이 빠르기 때문에 관련 산업에 투자하는 것이 좋을 것입니다.",
+      "action": "AI 관련 산업에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "경제적 불안정성",
-      "action": "경제적 리스크 관리",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술적 발전",
-      "action": "기술적 투자",
+      "insight": "정치적인 상황이 불안정하기 때문에 정치 관련 뉴스를 주의 깊게 관찰하는 것이 좋을 것입니다.",
+      "action": "정치 뉴스 주시하기",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치, 경제, 기술 등 다양한 주제를 다루고 있습니다. 정치적으로는 오세훈과 선거소청 최종 합의, 윤호중 행안부장관 책임론 등이 논란이 되고 있습니다. 경제적으로는 코스피 9천 저항, 하이닉스 미쳤네요 등이 주목을 받고 있습니다. 기술적으로는 AI 수석에 AWS 이기혁 내정, AI 기반 차세대 펩타이드 신약 개발 등이 주목을 받고 있습니다. 이러한 트렌드들은 기업과 마케터에게 정치적 리스크 관리, 경제적 리스크 관리, 기술적 투자 등 다양한 비즈니스 인사이트를 제공하고 있습니다.",
-  "analyzed_at": "2026-06-18T01:30:33.806Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 정치와 주식, AI 관련 글들이 많이 올라왔습니다. 트럼프와 한국 정치 관련 글들이 많이 올라왔으며, 삼전과 하닉의 주가가 주목을 받았습니다. 또한 AI 관련 글들이 많이 올라왔으며, AI의 발전과 적용이 주목을 받았습니다. 이러한 트렌드를 분석하면, AI 기술의 발전이 빠르기 때문에 관련 산업에 투자하는 것이 좋을 것입니다. 또한 정치적인 상황이 불안정하기 때문에 정치 관련 뉴스를 주의 깊게 관찰하는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-06-18T03:01:23.206Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
