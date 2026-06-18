@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 정부",
-      "summary": "이재명 정부와 관련된 다양한 뉴스와 의견이 나타나고 있습니다. 일부에서는 이재명 정부의 정책과 결정에 대한 비판이 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 체코와 남아공의 경기 결과와 한국의 경기 전망 등이 обсужд되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 뉴스와 개발이 활발하게 진행되고 있습니다. 다양한 기업과 기관이 AI 기술을 개발하고 적용하고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많습니다. 이재명 정부와 보수·통합 인사들이 본 1년, 우상호, 김어준 등의 이름이 언급되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융에 관련된 뉴스와 분석이 나타나고 있습니다. 일부에서는 경제와 금융에 대한 우려와 비판이 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "기술 관련된 게시글이 많습니다. AI, 반도체, 스마트폰 등의 주제가 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "월드컵",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "월드컵 경기 결과와 관련된 게시글"
+    },
+    {
       "keyword": "이재명",
-      "count": 12,
+      "count": 5,
       "sentiment": "mixed",
-      "context": "이재명 정부와 관련된 뉴스와 의견"
+      "context": "이재명 정부와 관련된 정치 게시글"
     },
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스와 개발"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "경제와 금융에 관련된 뉴스와 분석"
+      "context": "AI 기술과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 개발하고 적용하는 기업에 투자",
+      "insight": "월드컵과 관련된 마케팅 기회",
+      "action": "월드컵 관련된 광고와 프로모션을 진행",
       "priority": "high"
     },
     {
-      "insight": "이재명 정부의 정책",
-      "action": "이재명 정부의 정책과 결정에 대한 분석과 비판",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제와 금융의 우려",
-      "action": "경제와 금융에 대한 분석과 대책 마련",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 제품과 서비스를 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 뉴스를 분석한 결과, AI 기술의 발전과 이재명 정부의 정책이 주요한 주제로 나타났습니다. 또한, 경제와 금융에 대한 우려와 비판이 일부 나타났습니다. 이러한 트렌드와 뉴스를 분석하여, 기업과 기관은 AI 기술을 개발하고 적용하는 데 투자하고, 이재명 정부의 정책과 결정에 대한 분석과 비판을进行하며, 경제와 금융에 대한 분석과 대책 마련에 노력해야 할 것입니다.",
-  "analyzed_at": "2026-06-18T17:00:34.037Z",
+  "narrative": "최근의 트렌드는 월드컵과 정치, 기술 등 다양한 주제를 다루고 있습니다. 월드컵 관련된 게시글이 많으며, 정치 관련된 게시글도 많은 관심을 받고 있습니다. 기술 관련된 게시글도 많으며, AI와 반도체 등의 주제가 обсужд되고 있습니다. 이러한 트렌드를 분석하여 마케팅 기회를 찾고, 새로운 제품과 서비스를 개발할 수 있습니다.",
+  "analyzed_at": "2026-06-18T18:30:34.169Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
