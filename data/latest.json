@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "대통령 지지율, 보완수사권, 이재명 관련 논의",
+      "topic": "경제 및 정치",
+      "summary": "코스피 하이닉스 수익, 사전투표 용지 부족, 국힘 사전투표 폐지법 발의 등",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "코스피, 반도체, 수소버스 관련 뉴스",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "기술 및 과학",
+      "summary": "AI, 반도체, 에어컨, 항만공사법 개정안 등",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI, AR, VR 관련 뉴스",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "사회 및 문화",
+      "summary": "시위, 교사용 AI, 항공사, 펜싱 국대 등",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
+      "keyword": "코스피",
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술 개발 및 적용"
+      "context": "하이닉스 수익"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "대통령 지지율, 보완수사권, 이재명 관련 논의"
-    },
-    {
-      "keyword": "경제",
+      "keyword": "AI",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "코스피, 반도체, 수소버스 관련 뉴스"
+      "sentiment": "positive",
+      "context": "기술 및 과학"
+    },
+    {
+      "keyword": "사전투표",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "용지 부족"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 10,
-    "neutral": 30,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발 및 적용",
-      "action": "투자 및 연구 개발",
+      "insight": "코스피 하이닉스 수익 증가",
+      "action": "투자 증가",
       "priority": "high"
     },
     {
-      "insight": "경제 동향 분석",
-      "action": "시장 분석 및 전략 수립",
+      "insight": "AI 기술 발전",
+      "action": "연구 및 개발 투자",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 동향 분석",
-      "action": "이슈 관리 및 대응",
-      "priority": "high"
+      "insight": "사전투표 용지 부족",
+      "action": "용지 공급 증가",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치, 경제, 기술 관련 주제가热하게 논의되고 있습니다. AI 기술 개발 및 적용이 가장 많은 관심을 받고 있으며, 대통령 지지율, 보완수사권, 이재명 관련 논의도 많은 관심을 받고 있습니다. 경제 동향 분석도 중요한 주제로, 코스피, 반도체, 수소버스 관련 뉴스가 많이 обсужд되고 있습니다. 이러한 동향을 분석하여 사업 전략을 수립하고, 투자 및 연구 개발을進行해야 합니다.",
-  "analyzed_at": "2026-06-18T09:01:32.700Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, 경제 및 정치 분야에서 코스피 하이닉스 수익, 사전투표 용지 부족, 국힘 사전투표 폐지법 발의 등이 주목을 끌고 있습니다. 기술 및 과학 분야에서는 AI, 반도체, 에어컨, 항만공사법 개정안 등이 관심을 끌고 있습니다. 사회 및 문화 분야에서는 시위, 교사용 AI, 항공사, 펜싱 국대 등이 논의되고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업 및 기관은 시장의 동향을 파악하고, 적절한 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-18T11:00:34.051Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
