@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령의 트위터 활동과 정부의 정책에 대한 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "summary": "오세훈과 선거소청 최종 합의, 윤호중 행안부장관 책임론",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "스포츠",
-      "summary": "월드컵 경기 결과와 선수들의 활약",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "코스피 9천 저항, 하이닉스 미쳤네요",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "AI와 관련된 기술 개발과 적용",
-      "post_count": 15,
+      "summary": "AI 수석에 AWS 이기혁 내정, AI 기반 차세대 펩타이드 신약 개발",
+      "post_count": 6,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "대통령의 트위터 활동"
+      "keyword": "오세훈",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "선거소청 최종 합의"
+    },
+    {
+      "keyword": "하이닉스",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "코스피 9천 저항"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 개발과 적용"
-    },
-    {
-      "keyword": "월드컵",
       "count": 5,
       "sentiment": "positive",
-      "context": "경기 결과와 선수들의 활약"
+      "context": "AI 기반 차세대 펩타이드 신약 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 15,
     "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정부의 정책에 대한 논의가 증가하고 있다",
-      "action": "정책에 대한 관심을 높이고 대응하는 마케팅 전략을 수립해야 한다",
+      "insight": "정치적 불안정성",
+      "action": "정치적 리스크 관리",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술 개발이 증가하고 있다",
-      "action": "AI와 관련된 기술 개발에 투자하고 적용하는 마케팅 전략을 수립해야 한다",
-      "priority": "high"
+      "insight": "경제적 불안정성",
+      "action": "경제적 리스크 관리",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술적 발전",
+      "action": "기술적 투자",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술, 스포츠에 대한 관심이 증가하고 있다. 정부의 정책에 대한 논의가 증가하고 있고, AI와 관련된 기술 개발이 증가하고 있다. 이러한 트렌드를 반영한 마케팅 전략을 수립해야 한다. 또한, 월드컵과 같은 스포츠 이벤트에 대한 관심이 증가하고 있으므로, 이러한 이벤트를 활용한 마케팅 전략을 수립해야 한다. 중립적인 분위기를 유지하면서도 고객들의 관심을 끌 수 있는 마케팅 전략을 수립해야 한다.",
-  "analyzed_at": "2026-06-17T23:30:34.119Z",
+  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치, 경제, 기술 등 다양한 주제를 다루고 있습니다. 정치적으로는 오세훈과 선거소청 최종 합의, 윤호중 행안부장관 책임론 등이 논란이 되고 있습니다. 경제적으로는 코스피 9천 저항, 하이닉스 미쳤네요 등이 주목을 받고 있습니다. 기술적으로는 AI 수석에 AWS 이기혁 내정, AI 기반 차세대 펩타이드 신약 개발 등이 주목을 받고 있습니다. 이러한 트렌드들은 기업과 마케터에게 정치적 리스크 관리, 경제적 리스크 관리, 기술적 투자 등 다양한 비즈니스 인사이트를 제공하고 있습니다.",
+  "analyzed_at": "2026-06-18T01:30:33.806Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
