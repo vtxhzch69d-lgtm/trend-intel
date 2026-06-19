@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령의 발언과 정치적인 흐름에 대한 논의",
+      "topic": "검찰 개혁",
+      "summary": "검찰 개혁에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다. 일부 사용자는 검찰 개혁의 필요성을 강조하며, 다른 사용자는 개혁의 방향과 속도에 대해 의견을 제시하고 있다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "topic": "보완수사권",
-      "summary": "보완수사권에 대한 논의와 대통령의 발언",
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 관심이 클리앙 커뮤니티에서 증가하고 있다. 사용자들은 AI 기술의 발전과 이를 활용한 다양한 산업의 발전에 대해 논의하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 주제가 클리앙 커뮤니티에서 논의되고 있다. 사용자들은 정치 현안과 정부 정책에 대해 의견을 제시하고 있다.",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술에 대한 최신 뉴스와 개발",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "검찰",
       "count": 20,
-      "sentiment": "mixed",
-      "context": "이재명 대통령의 발언과 정치적인 흐름"
-    },
-    {
-      "keyword": "보완수사권",
-      "count": 15,
       "sentiment": "negative",
-      "context": "보완수사권에 대한 논의와 대통령의 발언"
+      "context": "검찰 개혁에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI와 기술에 대한 최신 뉴스와 개발"
+      "context": "AI 기술의 발전과 산업의 발전"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치 현안과 정부 정책"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 분위기"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 비중이 높지만, AI 기술에 대한 긍정적인 의견도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령의 발언과 정치적인 흐름은 여전히 논의의 중심",
-      "action": "정치적인 흐름을 주시하고 대응하기",
+      "insight": "검찰 개혁에 대한 논의가 증가하고 있다.",
+      "action": "관련 정책과 법안을 주시하고, 기업의 사회적 책임을 강화하는 방안을 모색한다.",
       "priority": "high"
     },
     {
-      "insight": "보완수사권은 여전히 논쟁의 대상",
-      "action": "보완수사권에 대한 논의를 주시하고 대응하기",
-      "priority": "high"
-    },
-    {
-      "insight": "AI와 기술은 계속해서 발전하고 있다",
-      "action": "AI와 기술에 대한 최신 뉴스와 개발을 주시하고 활용하기",
+      "insight": "AI 기술에 대한 관심이 증가하고 있다.",
+      "action": "AI 기술을 활용한 신규 사업 모델을 개발하고, 기존 사업 모델을 개선한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 현안에 대한 논의가 활발하게 진행되고 있다.",
+      "action": "정치 현안을 주시하고, 기업의 사회적 책임을 강화하는 방안을 모색한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 이재명 대통령의 발언과 정치적인 흐름, 보완수사권, AI와 기술에 대한 논의가 중심을 이루고 있습니다. 이재명 대통령의 발언과 정치적인 흐름은 여전히 논의의 중심입니다. 보완수사권은 여전히 논쟁의 대상입니다. AI와 기술은 계속해서 발전하고 있습니다. 이러한 트렌드를 주시하고 대응하는 것은 중요합니다.",
-  "analyzed_at": "2026-06-19T08:00:35.082Z",
+  "narrative": "클리앙 커뮤니티의 트렌드 분석 결과, 검찰 개혁, AI 기술, 정치 현안이 주요 주제로 나타났다. 사용자들은 검찰 개혁의 필요성을 강조하며, AI 기술의 발전과 이를 활용한 산업의 발전에 대해 논의하고 있다. 또한, 정치 현안에 대한 논의가 활발하게 진행되고 있다. 이러한 트렌드 분석 결과를 통해, 기업은 관련 정책과 법안을 주시하고, 사회적 책임을 강화하는 방안을 모색할 수 있다. 또한, AI 기술을 활용한 신규 사업 모델을 개발하고, 기존 사업 모델을 개선할 수 있다.",
+  "analyzed_at": "2026-06-19T09:30:34.321Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
