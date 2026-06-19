@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련 게시글이 많습니다. 대통령과 정부에 대한 의견이 분분합니다.",
+      "topic": "AI 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목받고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 게시글이 많습니다. 새로운 기술 개발과 적용에 대한 관심이 높습니다.",
+      "topic": "정치 및 사회",
+      "summary": "클리앙 커뮤니티에서 정치 및 사회 관련 게시글이 많이 올라왔습니다. 최근의 정치 상황과 사회 문제에 대한 관심이 높아지고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "사회 문제",
-      "summary": "사회 문제 관련 게시글이 많습니다. 인종차별과 교육 문제에 대한 관심이 높습니다.",
+      "topic": "주식 및 경제",
+      "summary": "클리앙 커뮤니티에서 주식 및 경제 관련 게시글이 많이 올라왔습니다. 최근의 주식 시장과 경제 상황에 대한 관심이 높아지고 있습니다.",
       "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "새로운 기술 개발과 적용에 대한 관심"
+      "context": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장"
     },
     {
       "keyword": "정치",
       "count": 15,
       "sentiment": "mixed",
-      "context": "대통령과 정부에 대한 의견"
+      "context": "最近의 정치 상황과 사회 문제에 대한 관심"
     },
     {
-      "keyword": "사회 문제",
+      "keyword": "주식",
       "count": 10,
-      "sentiment": "negative",
-      "context": "인종차별과 교육 문제에 대한 관심"
+      "sentiment": "neutral",
+      "context": "最近의 주식 시장과 경제 상황에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 30,
     "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 적용에 대한 관심이 높습니다.",
-      "action": "AI 기술 관련 제품과 서비스 개발",
+      "insight": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "action": "AI 기술을 활용한 새로운 산업의 개발",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회 문제에 대한 의견이 분분합니다.",
-      "action": "정치와 사회 문제에 대한 의견을 수렴하고 대응",
+      "insight": "最近의 정치 상황과 사회 문제에 대한 관심",
+      "action": "정치 및 사회 문제에 대한 대응 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "인종차별과 교육 문제에 대한 관심이 높습니다.",
-      "action": "인종차별과 교육 문제에 대한 캠페인과 프로그램 개발",
-      "priority": "high"
+      "insight": "最近의 주식 시장과 경제 상황에 대한 관심",
+      "action": "주식 시장과 경제 상황에 대한 분석과 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, AI 기술, 사회 문제 등 다양한 주제로 나뉩니다. 정치와 사회 문제에 대한 의견이 분분하고, AI 기술 개발과 적용에 대한 관심이 높습니다. 이러한 트렌드를 분석하여 제품과 서비스 개발, 의견 수렴과 대응, 캠페인과 프로그램 개발 등 다양한 액션을 취할 수 있습니다.",
-  "analyzed_at": "2026-06-19T14:00:34.578Z",
+  "narrative": "클리앙 커뮤니티에서 최근의 트렌드는 AI 기술, 정치 및 사회, 주식 및 경제 관련 게시글이 많았습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목받고 있으며, 최근의 정치 상황과 사회 문제에 대한 관심도 높아지고 있습니다. 또한, 최근의 주식 시장과 경제 상황에 대한 관심도 높아지고 있습니다. 이러한 트렌드를 분석하여 새로운 산업의 개발과 대응 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-19T15:30:34.571Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
