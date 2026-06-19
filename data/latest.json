@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구 팀의 최근 경기 결과와 전략에 대한 논의",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 발언과 정치적인 흐름에 대한 논의",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령의 최근 활동과 정책에 대한 논의",
+      "topic": "보완수사권",
+      "summary": "보완수사권에 대한 논의와 대통령의 발언",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발과 적용에 대한 논의",
-      "post_count": 12,
+      "topic": "AI와 기술",
+      "summary": "AI와 기술에 대한 최신 뉴스와 개발",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국 축구",
-      "count": 15,
+      "keyword": "이재명",
+      "count": 20,
       "sentiment": "mixed",
-      "context": "한국 축구 팀의 최근 경기 결과와 전략"
+      "context": "이재명 대통령의 발언과 정치적인 흐름"
     },
     {
-      "keyword": "이재명 대통령",
-      "count": 12,
+      "keyword": "보완수사권",
+      "count": 15,
       "sentiment": "negative",
-      "context": "이재명 대통령의 최근 활동과 정책"
+      "context": "보완수사권에 대한 논의와 대통령의 발언"
     },
     {
-      "keyword": "AI 기술",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 AI 기술 개발과 적용"
+      "context": "AI와 기술에 대한 최신 뉴스와 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한국 축구 팀의 최근 경기 결과와 전략에 대한 논의가 증가하고 있다",
-      "action": "한국 축구 팀의 마케팅 전략을 개발한다",
-      "priority": "medium"
-    },
-    {
-      "insight": "이재명 대통령의 최근 활동과 정책에 대한 논의가 증가하고 있다",
-      "action": "이재명 대통령의 정책에 대한 분석을 수행한다",
+      "insight": "이재명 대통령의 발언과 정치적인 흐름은 여전히 논의의 중심",
+      "action": "정치적인 흐름을 주시하고 대응하기",
       "priority": "high"
     },
     {
-      "insight": "최신 AI 기술 개발과 적용에 대한 논의가 증가하고 있다",
-      "action": "AI 기술을 적용한 새로운 제품이나 서비스를 개발한다",
-      "priority": "low"
+      "insight": "보완수사권은 여전히 논쟁의 대상",
+      "action": "보완수사권에 대한 논의를 주시하고 대응하기",
+      "priority": "high"
+    },
+    {
+      "insight": "AI와 기술은 계속해서 발전하고 있다",
+      "action": "AI와 기술에 대한 최신 뉴스와 개발을 주시하고 활용하기",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서 한국 축구 팀의 최근 경기 결과와 전략, 이재명 대통령의 최근 활동과 정책, 최신 AI 기술 개발과 적용에 대한 논의가 증가하고 있다. 이러한 논의는 마케팅 전략의 개발, 정책 분석, 새로운 제품이나 서비스의 개발 등 다양한 비즈니스 인사이트를 제공한다. 그러나 이러한 논의는 중립적이거나 부정적인 감정으로 이루어지는 경우가 많으므로, 이러한 감정을 고려하여 비즈니스 전략을 개발해야 한다.",
-  "analyzed_at": "2026-06-19T06:30:34.284Z",
+  "narrative": "최근의 트렌드는 이재명 대통령의 발언과 정치적인 흐름, 보완수사권, AI와 기술에 대한 논의가 중심을 이루고 있습니다. 이재명 대통령의 발언과 정치적인 흐름은 여전히 논의의 중심입니다. 보완수사권은 여전히 논쟁의 대상입니다. AI와 기술은 계속해서 발전하고 있습니다. 이러한 트렌드를 주시하고 대응하는 것은 중요합니다.",
+  "analyzed_at": "2026-06-19T08:00:35.082Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
