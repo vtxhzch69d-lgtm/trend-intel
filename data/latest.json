@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 대한민국 대표팀의 경기와 다른 국가들의 경기 결과도 관심을 끌고 있습니다.",
+      "topic": "국대 경기",
+      "summary": "국대 경기에 대한 다양한 의견과 감상이 나타나고 있습니다. 일부 유저들은 경기 운영과 선수들의 활약에 대해 긍정적인 의견을 나타내고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "주식 시장",
+      "summary": "주식 시장에 대한 다양한 의견과 분석이 나타나고 있습니다. 일부 유저들은 특정 주식에 대한 긍정적인 전망을 나타내고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "코스피와 관련된 게시글이 많습니다. 경제 상황과 주식 시장의 변동에 대한 관심이 높습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 다양한 의견과 분석이 나타나고 있습니다. 일부 유저들은 AI 기술의 발전과 적용에 대한 긍정적인 전망을 나타내고 있습니다.",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI와 관련된 기술 뉴스와 제품 출시가 관심을 끌고 있습니다.",
-      "post_count": 5,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 15,
+      "keyword": "국대",
+      "count": 20,
       "sentiment": "positive",
-      "context": "월드컵 경기 결과와 관련된 게시글"
+      "context": "국대 경기에 대한 긍정적인 의견"
     },
     {
-      "keyword": "코스피",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "코스피와 관련된 경제 뉴스"
+      "keyword": "주식",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "주식 시장에 대한 긍정적인 전망"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI와 관련된 기술 뉴스와 제품 출시"
+      "context": "AI 기술의 발전과 적용에 대한 긍정적인 전망"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 5,
-    "neutral": 15,
-    "overall_mood": "관심과 기대가 높은 분위기"
+    "neutral": 10,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "월드컵과 관련된 마케팅 기회",
-      "action": "월드컵과 관련된 제품이나 서비스를 출시하거나 홍보할 것",
+      "insight": "국대 경기와 관련된 마케팅 캠페인",
+      "action": "국대 경기와 관련된 마케팅 캠페인을 진행",
       "priority": "high"
     },
     {
-      "insight": "경제와 관련된 고객의 관심",
-      "action": "경제와 관련된 정보를 제공하거나 고객의 관심을 끌기 위한 마케팅 전략을 수립할 것",
+      "insight": "주식 시장과 관련된 마케팅 캠페인",
+      "action": "주식 시장과 관련된 마케팅 캠페인을 진행",
       "priority": "medium"
     },
     {
-      "insight": "AI와 관련된 기술 개발",
-      "action": "AI와 관련된 기술 개발에 투자하고 이를 활용한 제품이나 서비스를 출시할 것",
-      "priority": "low"
+      "insight": "AI 기술과 관련된 마케팅 캠페인",
+      "action": "AI 기술과 관련된 마케팅 캠페인을 진행",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 월드컵과 관련된 관심이 매우 높습니다. 고객들은 월드컵 경기 결과와 관련된 정보를 찾고 있으며, 이를 활용한 마케팅 기회를 잡을 수 있습니다. 또한, 경제와 관련된 관심도 높아져서 고객들의 관심을 끌기 위한 마케팅 전략을 수립할 필요가 있습니다. 마지막으로, AI와 관련된 기술 개발도 관심을 끌고 있으므로 이를 활용한 제품이나 서비스를 출시할 수 있습니다.",
-  "analyzed_at": "2026-06-19T00:30:34.335Z",
-  "post_count": 62,
+  "narrative": "국대 경기와 주식 시장, AI 기술이 현재의 트렌드입니다. 이러한 트렌드에 대한 마케팅 캠페인을 진행하여 고객들의 관심을 끌 수 있습니다. 또한, 이러한 트렌드에 대한 긍정적인 전망을 나타내는 유저들의 의견을 참고하여 마케팅 캠페인을 더 효과적으로 진행할 수 있습니다.",
+  "analyzed_at": "2026-06-19T02:00:34.258Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
