@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "한국 축구",
-      "summary": "한국 축구의 최근 경기 결과와 향후 전망에 대한 논의",
+      "summary": "한국 축구 팀의 최근 경기 결과와 전략에 대한 논의",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 최근 동향과 예측에 대한 논의",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 최근 활동과 정책에 대한 논의",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발과 그 적용에 대한 논의",
+      "summary": "최신 AI 기술 개발과 적용에 대한 논의",
       "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,42 +27,47 @@
       "keyword": "한국 축구",
       "count": 15,
       "sentiment": "mixed",
-      "context": "한국 축구의 최근 경기 결과와 향후 전망"
+      "context": "한국 축구 팀의 최근 경기 결과와 전략"
     },
     {
-      "keyword": "주식 시장",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장의 최근 동향과 예측"
+      "keyword": "이재명 대통령",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "이재명 대통령의 최근 활동과 정책"
     },
     {
       "keyword": "AI 기술",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 AI 기술 개발과 그 적용"
+      "context": "최신 AI 기술 개발과 적용"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
+    "negative": 25,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국 축구의 최근 경기 결과가 주식 시장에 영향을 미칠 수 있다",
-      "action": "주식 시장 동향을 주시하고 한국 축구 경기 결과를 고려하여 투자 결정하기",
+      "insight": "한국 축구 팀의 최근 경기 결과와 전략에 대한 논의가 증가하고 있다",
+      "action": "한국 축구 팀의 마케팅 전략을 개발한다",
       "priority": "medium"
     },
     {
-      "insight": "최신 AI 기술 개발이 다양한 산업에 적용될 수 있다",
-      "action": "AI 기술 개발을 주시하고 그 적용 가능성을 평가하기",
+      "insight": "이재명 대통령의 최근 활동과 정책에 대한 논의가 증가하고 있다",
+      "action": "이재명 대통령의 정책에 대한 분석을 수행한다",
       "priority": "high"
+    },
+    {
+      "insight": "최신 AI 기술 개발과 적용에 대한 논의가 증가하고 있다",
+      "action": "AI 기술을 적용한 새로운 제품이나 서비스를 개발한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 한국 축구와 주식 시장, AI 기술에 대한 논의가 활발히 진행되고 있다. 한국 축구의 최근 경기 결과와 향후 전망에 대한 논의는 주식 시장에 영향을 미칠 수 있다. 또한, 최신 AI 기술 개발은 다양한 산업에 적용될 수 있다. 따라서, 이러한 동향을 주시하고 그 적용 가능성을 평가하여 사업 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-06-19T05:00:34.338Z",
-  "post_count": 62,
+  "narrative": "최근 한국 온라인 커뮤니티에서 한국 축구 팀의 최근 경기 결과와 전략, 이재명 대통령의 최근 활동과 정책, 최신 AI 기술 개발과 적용에 대한 논의가 증가하고 있다. 이러한 논의는 마케팅 전략의 개발, 정책 분석, 새로운 제품이나 서비스의 개발 등 다양한 비즈니스 인사이트를 제공한다. 그러나 이러한 논의는 중립적이거나 부정적인 감정으로 이루어지는 경우가 많으므로, 이러한 감정을 고려하여 비즈니스 전략을 개발해야 한다.",
+  "analyzed_at": "2026-06-19T06:30:34.284Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
