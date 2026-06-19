@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 관련된 게시글이 많은 것으로 나타났습니다. 스위스 vs 보스니아, 체코 vs 남아공 등의 경기 결과가 게시글에 언급되었습니다.",
+      "summary": "월드컵 경기 결과와 관련된 게시글이 많습니다. 대한민국 대표팀의 경기와 다른 국가들의 경기 결과도 관심을 끌고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련된 뉴스와 제품 출시가 게시글에 많이 언급되었습니다. 삼성전자, LG전자, 마이크로소프트 등의 기업이 언급되었습니다.",
-      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 일부 존재합니다. 이재명 대통령과 정부의 정책이 언급되었습니다.",
+      "topic": "경제",
+      "summary": "코스피와 관련된 게시글이 많습니다. 경제 상황과 주식 시장의 변동에 대한 관심이 높습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI와 관련된 기술 뉴스와 제품 출시가 관심을 끌고 있습니다.",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -26,42 +26,47 @@
     {
       "keyword": "월드컵",
       "count": 15,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "context": "월드컵 경기 결과와 관련된 게시글"
     },
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI와 기술 관련된 뉴스와 제품 출시"
+      "keyword": "코스피",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "코스피와 관련된 경제 뉴스"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "AI",
       "count": 5,
       "sentiment": "positive",
-      "context": "삼성전자 관련된 뉴스와 제품 출시"
+      "context": "AI와 관련된 기술 뉴스와 제품 출시"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 5,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 15,
+    "overall_mood": "관심과 기대가 높은 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI와 기술은 현재 트렌드에 있는 주제입니다.",
-      "action": "AI와 기술 관련된 제품이나 서비스를 개발하거나 투자할 수 있습니다.",
+      "insight": "월드컵과 관련된 마케팅 기회",
+      "action": "월드컵과 관련된 제품이나 서비스를 출시하거나 홍보할 것",
       "priority": "high"
     },
     {
-      "insight": "월드컵과 관련된 마케팅이나 광고를 할 수 있습니다.",
-      "action": "월드컵과 관련된 마케팅이나 광고를 계획할 수 있습니다.",
+      "insight": "경제와 관련된 고객의 관심",
+      "action": "경제와 관련된 정보를 제공하거나 고객의 관심을 끌기 위한 마케팅 전략을 수립할 것",
       "priority": "medium"
+    },
+    {
+      "insight": "AI와 관련된 기술 개발",
+      "action": "AI와 관련된 기술 개발에 투자하고 이를 활용한 제품이나 서비스를 출시할 것",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 트렌드에 있는 주제는 월드컵과 AI와 기술입니다. 월드컵과 관련된 게시글이 많으며, AI와 기술 관련된 뉴스와 제품 출시가 많이 언급되었습니다. 이러한 트렌드를 이용하여 마케팅이나 광고를 할 수 있습니다. 또한, AI와 기술 관련된 제품이나 서비스를 개발하거나 투자할 수 있습니다.",
-  "analyzed_at": "2026-06-18T23:00:34.264Z",
+  "narrative": "현재의 트렌드는 월드컵과 관련된 관심이 매우 높습니다. 고객들은 월드컵 경기 결과와 관련된 정보를 찾고 있으며, 이를 활용한 마케팅 기회를 잡을 수 있습니다. 또한, 경제와 관련된 관심도 높아져서 고객들의 관심을 끌기 위한 마케팅 전략을 수립할 필요가 있습니다. 마지막으로, AI와 관련된 기술 개발도 관심을 끌고 있으므로 이를 활용한 제품이나 서비스를 출시할 수 있습니다.",
+  "analyzed_at": "2026-06-19T00:30:34.335Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
