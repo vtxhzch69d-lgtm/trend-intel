@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "보완수사권",
-      "summary": "보완수사권 폐지에 대한 논의와 우려가 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자들은 보완수사권을 없애는 것이 과한 개혁일 수 있다고 주장합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "검찰개혁",
+      "summary": "검찰개혁에 대한 논의가 활발히 진행되고 있으며, 일부에서는 검찰개혁이 정권연장에 방해가 된다고 주장하고 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스 및 논의가 커뮤니티에서 주목을 받고 있습니다. AI 칩, 로봇, 데이터베이스 기술 등 다양한 분야에서 발전이 이루어지고 있습니다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 기사가出现하고 있으며, 이는 기술 발전에 대한 관심이 높아지고 있음을 보여줍니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련된 게시글이 많습니다. 사용자들은 정치적인 주제에 대해 다양한 의견을 제시하고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "summary": "정치 관련된 다양한 주제가 논의되고 있으며, 일부에서는 정치적인 안정성에 대한 우려가 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "보완수사권",
-      "count": 12,
+      "keyword": "검찰개혁",
+      "count": 20,
       "sentiment": "negative",
-      "context": "보완수사권 폐지에 대한 우려"
+      "context": "검찰개혁에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 30,
       "sentiment": "positive",
       "context": "AI 기술의 발전"
     },
     {
       "keyword": "정치",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치적인 주제"
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련된 다양한 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 30,
+    "positive": 30,
+    "negative": 25,
     "neutral": 20,
-    "overall_mood": "부정적인 감정"
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "보완수사권 폐지에 대한 우려",
-      "action": "정치적인 주제에 대한 게시글을 주의 깊게 모니터링",
+      "insight": "검찰개혁에 대한 논의가 활발히 진행되고 있으므로, 관련된 기업이나 기관은 이를 주목해야 합니다.",
+      "action": "관련된 뉴스와 기사를 모니터링하고, 이를 통해 사업 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술에 대한 투자와 연구를 강화",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것으로 예상되므로, 관련된 기업이나 기관은 이를 주목해야 합니다.",
+      "action": "AI 기술의 발전을 모니터링하고, 이를 통해 사업 전략을 수립해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "커뮤니티에서는 보완수사권 폐지에 대한 우려와 AI 기술의 발전이 주목을 받고 있습니다. 사용자들은 정치적인 주제에 대해 다양한 의견을 제시하고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 또한, AI 기술의 발전을 주목하여 관련된 제품이나 서비스를 개발할 수 있습니다.",
-  "analyzed_at": "2026-06-20T06:30:33.837Z",
+  "narrative": "최근의 트렌드 분석 결과, 검찰개혁과 AI 기술의 발전이 주요한 주제로 나타났습니다. 검찰개혁에 대한 논의는 활발히 진행되고 있으며, 일부에서는 검찰개혁이 정권연장에 방해가 된다고 주장하고 있습니다. 반면, AI 기술의 발전은 다양한 산업에 영향을 미칠 것으로 예상되며, 이는 기술 발전에 대한 관심이 높아지고 있음을 보여줍니다. 이러한 트렌드에 따라, 관련된 기업이나 기관은 이를 주목해야 하며, 이를 통해 사업 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-06-20T08:00:33.766Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
