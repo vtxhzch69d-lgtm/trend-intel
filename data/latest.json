@@ -1,60 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "보완수사",
-      "summary": "보완수사에 대한 찬반 논란이 클리앙 커뮤니티에서 진행 중이다. 일부 사용자는 보완수사를 폐지해야 한다고 주장하는 반면, 다른 사용자는 보완수사가 필요하다고 주장한다.",
+      "topic": "정치",
+      "summary": "한동훈의 2030 대선 출마 선언과 관련된 정치 뉴스 및 논평",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "클리앙 커뮤니티에서 AI 기술에 대한 다양한 뉴스와 정보가 공유되고 있다. AI 기술의 발전과 그에 따른 산업의 변화에 대한 관심이 높다.",
-      "post_count": 20,
+      "summary": "최신 AI 기술 개발 및 응용에 관한 뉴스 및 논평",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "방송사 부도와 관련된 경제 뉴스 및 논평",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "보완수사",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "보완수사에 대한 비판"
+      "keyword": "한동훈",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "2030 대선 출마 선언"
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "최신 기술 개발 및 응용"
     },
     {
-      "keyword": "검찰",
-      "count": 5,
+      "keyword": "부도",
+      "count": 3,
       "sentiment": "negative",
-      "context": "검찰의 역할에 대한 비판"
+      "context": "방송사 부도"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "보완수사에 대한 논란은 법률 및 정치 분야에서 중요한 이슈이다.",
-      "action": "관련 뉴스와 정보를 계속 모니터링한다.",
+      "insight": "정치 및 경제 뉴스에 대한 관심이 높아짐",
+      "action": "관련된 콘텐츠를 제공하여 사용자들의 관심을 끌기",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 중요한 역할을 할 것이다.",
-      "action": "AI 기술에 대한 투자와 연구를 고려한다.",
+      "insight": "AI 기술에 대한 관심이 증가함",
+      "action": "최신 AI 기술 개발 및 응용에 관한 콘텐츠를 제공하기",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 보완수사에 대한 논란이 진행 중이다. 일부 사용자는 보완수사를 폐지해야 한다고 주장하는 반면, 다른 사용자는 보완수사가 필요하다고 주장한다. 또한, AI 기술에 대한 다양한 뉴스와 정보가 공유되고 있다. AI 기술의 발전과 그에 따른 산업의 변화에 대한 관심이 높다. 이러한 트렌드와 키워드를 분석하여, 법률 및 정치 분야에서 중요한 이슈인 보완수사에 대한 논란을 이해하고, AI 기술에 대한 투자와 연구를 고려할 수 있다.",
-  "analyzed_at": "2026-06-20T03:30:34.055Z",
+  "narrative": "최근의 트렌드는 정치 및 경제 뉴스에 대한 관심이 높아지고 있으며, AI 기술에 대한 관심도 증가하고 있습니다. 사용자들은 다양한 주제에 대한 정보를 찾고 있으며, 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다. 또한, 최신 AI 기술 개발 및 응용에 관한 콘텐츠를 제공함으로써 사용자들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-20T05:00:34.119Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
