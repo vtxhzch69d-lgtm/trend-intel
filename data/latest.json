@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 발전은 다양한 산업에 영향을 미치고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
       "topic": "월드컵",
-      "summary": "월드컵 관련된 주제가 논의되고 있습니다. 경기 결과와 선수들의 활약이 주목을 받고 있습니다.",
+      "summary": "월드컵 관련 게시글이 많습니다. 다양한 국가의 경기 결과와 분석이 공유되고 있습니다.",
       "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 주제가 논의되고 있습니다. 정치인들의 발언과 정책이 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 게시글이 많습니다. 다양한 기업의 AI 기술 개발과 적용 사례가 공유되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "김어준",
+      "summary": "김어준 관련 게시글이 많습니다. 그의 발언과 행동에 대한 논란이 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술 개발과 적용 사례"
     },
     {
       "keyword": "월드컵",
       "count": 5,
       "sentiment": "neutral",
-      "context": "월드컵 경기 결과"
+      "context": "월드컵 관련 뉴스와 분석"
     },
     {
-      "keyword": "정치",
-      "count": 8,
+      "keyword": "김어준",
+      "count": 3,
       "sentiment": "negative",
-      "context": "정치인들의 발언"
+      "context": "김어준의 발언과 행동에 대한 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술 개발과 적용 사례가 증가하고 있습니다.",
+      "action": "AI 기술 개발에 투자하고, 다양한 산업에 적용하는 것을 고려해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "월드컵 관련된 마케팅 전략은 효과적일 수 있습니다.",
-      "action": "월드컵 관련된 마케팅 캠페인 개발",
+      "insight": "월드컵 관련 게시글이 많습니다.",
+      "action": "월드컵 관련 마케팅 캠페인을 고려해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련된 주제는 주의가 필요합니다.",
-      "action": "정치 관련된 주제에 대한 감성 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 주를 이루고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미치고 있습니다. 또한, 월드컵 관련된 주제도 논의되고 있습니다. 정치 관련된 주제는 주의가 필요합니다. 이러한 트렌드를 분석하여 비즈니스 전략을 개발할 수 있습니다. AI 기술을 활용한 비즈니스 모델 개발과 월드컵 관련된 마케팅 캠페인 개발이 효과적일 수 있습니다. 그러나 정치 관련된 주제는 주의가 필요합니다.",
-  "analyzed_at": "2026-06-20T20:00:35.070Z",
+  "narrative": "최근의 트렌드는 AI 기술 개발과 월드컵 관련 뉴스와 분석이 주를 이루고 있습니다. AI 기술 개발과 적용 사례가 증가하고 있으며, 다양한 산업에 적용하는 것을 고려해야 합니다. 또한, 월드컵 관련 마케팅 캠페인을 고려해야 합니다. 그러나 김어준의 발언과 행동에 대한 논란이 있습니다. 따라서, 이러한 트렌드와 키워드를 고려하여 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-06-20T21:30:34.060Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
