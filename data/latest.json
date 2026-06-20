@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 관련 게시글이 많습니다. 다양한 국가의 경기 결과와 분석이 공유되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
       "topic": "AI 기술",
-      "summary": "AI 기술 관련 게시글이 많습니다. 다양한 기업의 AI 기술 개발과 적용 사례가 공유되고 있습니다.",
-      "post_count": 10,
+      "summary": "AI 기술의 발전과 응용에 대한 관심이 높아지고 있습니다. 다양한 산업에서 AI 기술을 활용하여 효율성을 높이고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 사용자들은 경기 결과와 선수들의 활약에 대해 चर칩니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
       "topic": "김어준",
-      "summary": "김어준 관련 게시글이 많습니다. 그의 발언과 행동에 대한 논란이 있습니다.",
-      "post_count": 3,
+      "summary": "김어준에 대한 비판과 지지의 목소리가 있습니다. 사용자들은 그의 발언과 행동에 대해 논쟁을 벌입니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "low"
     }
@@ -25,43 +25,43 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술 개발과 적용 사례"
+      "context": "AI 기술의 발전과 응용"
     },
     {
       "keyword": "월드컵",
-      "count": 5,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "월드컵 관련 뉴스와 분석"
+      "context": "월드컵 경기 결과와 관련된 게시글"
     },
     {
       "keyword": "김어준",
-      "count": 3,
+      "count": 5,
       "sentiment": "negative",
-      "context": "김어준의 발언과 행동에 대한 논란"
+      "context": "김어준에 대한 비판과 지지"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 적용 사례가 증가하고 있습니다.",
-      "action": "AI 기술 개발에 투자하고, 다양한 산업에 적용하는 것을 고려해야 합니다.",
+      "insight": "AI 기술의 발전과 응용에 대한 관심이 높아지고 있습니다.",
+      "action": "AI 기술을 활용하여 효율성을 높이는 방안을 모색합니다.",
       "priority": "high"
     },
     {
-      "insight": "월드컵 관련 게시글이 많습니다.",
-      "action": "월드컵 관련 마케팅 캠페인을 고려해야 합니다.",
+      "insight": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다.",
+      "action": "월드컵 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어냅니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술 개발과 월드컵 관련 뉴스와 분석이 주를 이루고 있습니다. AI 기술 개발과 적용 사례가 증가하고 있으며, 다양한 산업에 적용하는 것을 고려해야 합니다. 또한, 월드컵 관련 마케팅 캠페인을 고려해야 합니다. 그러나 김어준의 발언과 행동에 대한 논란이 있습니다. 따라서, 이러한 트렌드와 키워드를 고려하여 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-20T21:30:34.060Z",
+  "narrative": "最近의 트렌드에 따르면, AI 기술의 발전과 응용에 대한 관심이 높아지고 있습니다. 다양한 산업에서 AI 기술을 활용하여 효율성을 높이고 있습니다. 또한, 월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 사용자들은 경기 결과와 선수들의 활약에 대해 चर칩니다. 이러한 트렌드를 고려하여, AI 기술을 활용하여 효율성을 높이는 방안을 모색하고, 월드컵 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어내는 것이 중요합니다.",
+  "analyzed_at": "2026-06-20T23:00:33.873Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
