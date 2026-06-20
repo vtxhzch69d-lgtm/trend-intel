@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "김어준 관련 논란",
-      "summary": "김어준에 대한 공격과 관련된 논란이 클리앙 커뮤니티에서 논쟁이 되고 있습니다. 일부 사용자들은 김어준의 발언과 행동에 대해 비판적이며, 다른 일부 사용자들은 그의 발언과 행동을 옹호합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "이동형 관련 논란",
-      "summary": "이동형에 대한 논란이 클리앙 커뮤니티에서 논쟁이 되고 있습니다. 일부 사용자들은 이동형의 발언과 행동에 대해 비판적이며, 다른 일부 사용자들은 그의 발언과 행동을 옹호합니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI와 기술 관련 뉴스",
-      "summary": "AI와 기술 관련 뉴스가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 사용자들은 AI의 발전과 기술의 진보에 대해 관심을 가지고 있습니다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI의 발전과 이를 활용한 다양한 기술들이 소개되고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "김어준",
+      "summary": "김어준에 대한 공격과 관련된 게시글이 많이 올라왔습니다. 이는 정치적인 이슈와 관련이 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "이동형",
+      "summary": "이동형에 대한 비판과 관련된 게시글이 많이 올라왔습니다. 이는 정치적인 이슈와 관련이 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 이를 활용한 다양한 기술들"
+    },
+    {
       "keyword": "김어준",
-      "count": 15,
+      "count": 5,
       "sentiment": "negative",
-      "context": "김어준에 대한 비판과 논란"
+      "context": "김어준에 대한 공격과 관련된 게시글"
     },
     {
       "keyword": "이동형",
-      "count": 10,
+      "count": 3,
       "sentiment": "negative",
-      "context": "이동형에 대한 비판과 논란"
-    },
-    {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI의 발전과 기술의 진보"
+      "context": "이동형에 대한 비판과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기이지만, 일부 정치적인 이슈에 대한 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티 사용자들은 정치와 사회 문제에 대해 관심을 가지고 있습니다.",
-      "action": "관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
-      "priority": "medium"
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발합니다.",
+      "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련 뉴스는 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
-      "action": "관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
-      "priority": "high"
+      "insight": "정치적인 이슈는 소셜 미디어에서 큰 영향을 미칠 수 있습니다.",
+      "action": "정치적인 이슈에 대한 감정을 분석하고, 이를 활용한 마케팅 전략을 개발합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티는 정치와 사회 문제에 대해 관심을 가지고 있는 사용자들이 많습니다. 김어준과 이동형에 대한 논란이 많이 논의되고 있으며, AI와 기술 관련 뉴스도 많이 논의되고 있습니다. 사용자들은 중립적인 분위기를 가지고 있으며, 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다. 또한, AI와 기술 관련 뉴스는 클리앙 커뮤니티에서 많이 논의되고 있으므로, 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-20T15:30:34.007Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. 이는 AI 기술의 발전과 이를 활용한 다양한 기술들이 소개되고 있습니다. 또한, 김어준과 이동형에 대한 공격과 비판이 일부 존재합니다. 이는 정치적인 이슈와 관련이 있습니다. 이러한 분석 결과를 통해, AI 기술의 발전과 이를 활용한 새로운 비즈니스 모델을 개발하고, 정치적인 이슈에 대한 감정을 분석하여 마케팅 전략을 개발할 수 있습니다.",
+  "analyzed_at": "2026-06-20T17:00:33.941Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
