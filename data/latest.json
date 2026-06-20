@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "한동훈의 2030 대선 출마 선언과 관련된 정치 뉴스 및 논평",
+      "topic": "보완수사권",
+      "summary": "보완수사권 폐지에 대한 논의와 우려가 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자들은 보완수사권을 없애는 것이 과한 개혁일 수 있다고 주장합니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발 및 응용에 관한 뉴스 및 논평",
+      "summary": "AI 기술의 발전과 관련된 뉴스 및 논의가 커뮤니티에서 주목을 받고 있습니다. AI 칩, 로봇, 데이터베이스 기술 등 다양한 분야에서 발전이 이루어지고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "방송사 부도와 관련된 경제 뉴스 및 논평",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많습니다. 사용자들은 정치적인 주제에 대해 다양한 의견을 제시하고 있습니다.",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "한동훈",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "2030 대선 출마 선언"
+      "keyword": "보완수사권",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "보완수사권 폐지에 대한 우려"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "최신 기술 개발 및 응용"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "부도",
-      "count": 3,
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "negative",
-      "context": "방송사 부도"
+      "context": "정치적인 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 25,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치 및 경제 뉴스에 대한 관심이 높아짐",
-      "action": "관련된 콘텐츠를 제공하여 사용자들의 관심을 끌기",
+      "insight": "보완수사권 폐지에 대한 우려",
+      "action": "정치적인 주제에 대한 게시글을 주의 깊게 모니터링",
       "priority": "high"
     },
     {
-      "insight": "AI 기술에 대한 관심이 증가함",
-      "action": "최신 AI 기술 개발 및 응용에 관한 콘텐츠를 제공하기",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술에 대한 투자와 연구를 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 및 경제 뉴스에 대한 관심이 높아지고 있으며, AI 기술에 대한 관심도 증가하고 있습니다. 사용자들은 다양한 주제에 대한 정보를 찾고 있으며, 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다. 또한, 최신 AI 기술 개발 및 응용에 관한 콘텐츠를 제공함으로써 사용자들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-20T05:00:34.119Z",
+  "narrative": "커뮤니티에서는 보완수사권 폐지에 대한 우려와 AI 기술의 발전이 주목을 받고 있습니다. 사용자들은 정치적인 주제에 대해 다양한 의견을 제시하고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 또한, AI 기술의 발전을 주목하여 관련된 제품이나 서비스를 개발할 수 있습니다.",
+  "analyzed_at": "2026-06-20T06:30:33.837Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
