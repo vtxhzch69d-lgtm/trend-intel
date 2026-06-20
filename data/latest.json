@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명",
-      "summary": "이재명에 대한 논란과 비판",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련된 뉴스",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 이슈",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "주식과 경제",
-      "summary": "주식과 경제 관련된 뉴스",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "테크 및 IT",
+      "summary": "최신 테크 및 IT 뉴스와 트렌드",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치와 관련된 논란"
-    },
-    {
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "최신 기술과 관련된 뉴스"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "경제와 관련된 뉴스"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 이슈"
+    },
+    {
+      "keyword": "테크",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 테크 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 미래의 핵심 기술",
-      "action": "AI 기술에 대한 투자와 연구",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진한다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제는 서로 관련이 있다",
-      "action": "정치와 경제에 대한 분석",
+      "insight": "정치 및 사회 관련 뉴스와 이슈는 여론을 형성한다",
+      "action": "정치 및 사회 관련 뉴스와 이슈를 주시하고 대응한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 이재명에 대한 논란과 비판, AI 기술의 발전, 주식과 경제에 대한 관심이 집중되고 있다. AI 기술은 미래의 핵심 기술로 투자와 연구가 필요하다. 정치와 경제는 서로 관련이 있으므로 분석이 필요하다. 전반적으로 중립적인 분위기이지만, 이재명에 대한 논란은 여전히 높은 관심을 받고 있다.",
-  "analyzed_at": "2026-06-19T23:00:34.798Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 또한, 정치 및 사회 관련 뉴스와 이슈는 여론을 형성하고 있습니다. 테크 및 IT 분야에서도 최신 뉴스와 트렌드가 주목을 받고 있습니다. 이러한 트렌드와 키워드를 분석하여, 비즈니스 인사이트를 얻고 새로운 비즈니스 모델을 개발할 수 있습니다.",
+  "analyzed_at": "2026-06-20T00:30:33.592Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
