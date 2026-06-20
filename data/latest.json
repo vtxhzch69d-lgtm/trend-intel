@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "검찰개혁",
-      "summary": "검찰개혁 관련 게시글이 많으며, 개혁의 필요성과 방향에 대한 논의가 활발하다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 산업에서의 적용이 증가하고 있다. 이는 다양한 산업에서 효율성과 생산성을 높일 수 있는 기회를 제공한다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스와 개발 동향이 주목을 받으며, 관련 게시글이 증가하고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "코스피 9000 찍음과 관련된 글들이 많이 올라왔으며, 경제와 금융 관련된 다양한 주제들이 논의되고 있다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제 관련 게시글이 많으며, 다양한 의견과 논의가 이루어지고 있다.",
-      "post_count": 20,
+      "topic": "사회 및 정치",
+      "summary": "검찰개혁, 보완수사권 폐지, 정부의 클라우드플레어 기반 차단 등 다양한 사회 및 정치 관련된 주제들이 논의되고 있다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "검찰개혁",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "검찰개혁 관련 논의와 의견"
-    },
-    {
       "keyword": "AI",
-      "count": 30,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술 개발과 적용"
+      "context": "AI 기술의 발전과 산업에서의 적용"
     },
     {
-      "keyword": "정치",
-      "count": 25,
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "코스피 9000 찍음과 관련된 글"
+    },
+    {
+      "keyword": "검찰개혁",
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치 및 사회 문제 관련 논의"
+      "context": "검찰개혁과 보완수사권 폐지"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정과 논의가 많지만, AI 기술 등에 대한 긍정적인 의견도 존재"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "검찰개혁과 정치 및 사회 문제는 계속해서 논의될 것으로 예상",
-      "action": "관련 뉴스와 동향을 주시하고, 기업의 사회적 책임과 윤리성을 강화",
+      "insight": "AI 기술의 발전은 다양한 산업에서 효율성과 생산성을 높일 수 있는 기회를 제공한다.",
+      "action": "AI 기술을 산업에 적용하여 효율성과 생산성을 높이는 방안을 모색한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 적용되고 있으며, 관련 개발과 투자가 증가할 것으로 예상",
-      "action": "AI 기술 개발과 적용을 위한 투자와 인력 양성을 강화",
+      "insight": "경제와 금융 관련된 주제들은 계속해서 논의되고 있다.",
+      "action": "경제와 금융 관련된 주제들을 계속해서 모니터링한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 동향을 분석한 결과, 검찰개혁과 정치 및 사회 문제는 계속해서 논의될 것으로 예상되며, AI 기술은 다양한 산업에서 적용되고 있는 것으로 나타났다. 이러한 트렌드와 동향을 고려하여, 기업은 사회적 책임과 윤리성을 강화하고, AI 기술 개발과 적용을 위한 투자와 인력 양성을 강화해야 할 것으로 보인다. 또한, 관련 뉴스와 동향을 주시하고, 기업의 대응 전략을 수립하는 것이 중요할 것으로 예상된다.",
-  "analyzed_at": "2026-06-20T11:00:34.078Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 산업에서의 적용, 경제 및 금융, 사회 및 정치 관련된 주제들이 중심을 이루고 있다. AI 기술의 발전은 다양한 산업에서 효율성과 생산성을 높일 수 있는 기회를 제공한다. 그러나 경제와 금융 관련된 주제들은 계속해서 논의되고 있으며, 사회 및 정치 관련된 주제들은 복합적인 감정을 가지고 있다. 이러한 트렌드를 분석하여 산업과 사회에 대한 깊은 이해를 얻을 수 있다.",
+  "analyzed_at": "2026-06-20T12:30:34.128Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
