@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "일본 축구",
-      "summary": "일본 축구의 실력과 전략에 대한 논의",
+      "topic": "보완수사권",
+      "summary": "보완수사권에 대한 찬반 논란이 클리앙 커뮤니티에서 활발하게 진행 중입니다. 일부 사용자는 보완수사권을 전면 폐지해야 한다고 주장하는 반면, 다른 사용자는 이를 극소수로 부여해야 한다고 주장합니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "sentiment": "mixed",
+      "urgency": "high"
     },
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구의 실력과 전략에 대한 논의",
+      "topic": "이재명 정부",
+      "summary": "이재명 정부의 정책과 결정에 대한 논란이 클리앙 커뮤니티에서 진행 중입니다. 일부 사용자는 이재명 정부의 대북 관련 정책이 실망스럽다고 주장하는 반면, 다른 사용자는 이재명 대통령이 현실주의자라고 생각합니다.",
       "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "최신 AI 기술과 ứng dụng에 대한 논의",
+      "summary": "클리앙 커뮤니티에서 AI 기술과 관련된 뉴스와 논문이 활발하게 공유되고 있습니다. 사용자들은 AI 기술의 발전과 이를 활용한 다양한 응용 분야에 대해 관심을 보이고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일본 축구",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "일본 축구의 실력과 전략"
+      "keyword": "보완수사권",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "보완수사권에 대한 찬반 논란"
     },
     {
-      "keyword": "한국 축구",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "한국 축구의 실력과 전략"
-    },
-    {
-      "keyword": "AI 기술",
+      "keyword": "이재명",
       "count": 15,
+      "sentiment": "mixed",
+      "context": "이재명 정부의 정책과 결정에 대한 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 30,
       "sentiment": "positive",
-      "context": "최신 AI 기술과 ứng용"
+      "context": "AI 기술과 관련된 뉴스와 논문"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "negative": 20,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "일본 축구의 인기",
-      "action": "일본 축구 관련 콘텐츠 개발",
+      "insight": "보완수사권에 대한 찬반 논란은 법률 및 정치 분야에서 사업 기회를 창출할 수 있습니다.",
+      "action": "관련 법률 및 정치 분야의 사업 기회를 탐색합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 서비스 개발",
-      "priority": "high"
+      "insight": "AI 기술의 발전은 다양한 산업에서 사업 기회를 창출할 수 있습니다.",
+      "action": "AI 기술을 활용한 사업 기회를 탐색합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 일본 축구와 AI 기술이 주목을 받고 있습니다. 일본 축구의 실력과 전략에 대한 논의가 많으며, AI 기술의 발전도 주목을 받고 있습니다. 이러한 트렌드를 반영하여 일본 축구 관련 콘텐츠와 AI 기술을 활용한 새로운 서비스를 개발할 수 있습니다. 또한, 한국 축구의 실력과 전략에 대한 논의도 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
-  "analyzed_at": "2026-06-21T06:30:33.530Z",
-  "post_count": 61,
+  "narrative": "클리앙 커뮤니티에서 보완수사권에 대한 찬반 논란과 이재명 정부의 정책과 결정에 대한 논란이 진행 중입니다. 또한, AI 기술과 관련된 뉴스와 논문이 활발하게 공유되고 있습니다. 이러한 트렌드와 키워드는 법률 및 정치 분야에서 사업 기회를 창출할 수 있습니다. 또한, AI 기술의 발전은 다양한 산업에서 사업 기회를 창출할 수 있습니다. 따라서, 이러한 트렌드와 키워드를 주시하고, 관련 사업 기회를 탐색하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-21T08:00:35.319Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
