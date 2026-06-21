@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 응용에 대한 관심이 높아지고 있습니다. 다양한 산업에서 AI 기술을 활용하여 효율성을 높이고 있습니다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 사용자들은 경기 결과와 선수들의 활약에 대해 चर칩니다.",
-      "post_count": 8,
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련된 다양한 주제",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "김어준",
-      "summary": "김어준에 대한 비판과 지지의 목소리가 있습니다. 사용자들은 그의 발언과 행동에 대해 논쟁을 벌입니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "테크 및 게임",
+      "summary": "테크 및 게임 관련된 다양한 주제",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 30,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "월드컵",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "월드컵 경기 결과와 관련된 게시글"
-    },
-    {
-      "keyword": "김어준",
-      "count": 5,
+      "keyword": "정치",
+      "count": 20,
       "sentiment": "negative",
-      "context": "김어준에 대한 비판과 지지"
+      "context": "정치 관련된 논쟁"
+    },
+    {
+      "keyword": "게임",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "게임 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 40,
+    "negative": 30,
+    "neutral": 30,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 응용에 대한 관심이 높아지고 있습니다.",
-      "action": "AI 기술을 활용하여 효율성을 높이는 방안을 모색합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미친다",
+      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾는다",
       "priority": "high"
     },
     {
-      "insight": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다.",
-      "action": "월드컵 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어냅니다.",
+      "insight": "정치 및 사회 관련된 주제는 여전히 많은 관심을 받는다",
+      "action": "정치 및 사회 관련된 주제에 대한 내용을 제공한다",
       "priority": "medium"
+    },
+    {
+      "insight": "테크 및 게임 관련된 주제는 많은 사람들의 관심을 받는다",
+      "action": "테크 및 게임 관련된 주제에 대한 내용을 제공한다",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드에 따르면, AI 기술의 발전과 응용에 대한 관심이 높아지고 있습니다. 다양한 산업에서 AI 기술을 활용하여 효율성을 높이고 있습니다. 또한, 월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 사용자들은 경기 결과와 선수들의 활약에 대해 चर칩니다. 이러한 트렌드를 고려하여, AI 기술을 활용하여 효율성을 높이는 방안을 모색하고, 월드컵 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어내는 것이 중요합니다.",
-  "analyzed_at": "2026-06-20T23:00:33.873Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 다양한 산업의 변화가 많은 관심을 받고 있다. 또한, 정치 및 사회 관련된 주제는 여전히 많은 관심을 받고 있다. 테크 및 게임 관련된 주제도 많은 사람들의 관심을 받고 있다. 이러한 트렌드에 따라, AI 기술의 발전을 주시하고 그에 따른 기회를 찾는 것이 중요하다. 또한, 정치 및 사회 관련된 주제에 대한 내용을 제공하고, 테크 및 게임 관련된 주제에 대한 내용을 제공하는 것도 중요하다.",
+  "analyzed_at": "2026-06-21T00:30:33.628Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
