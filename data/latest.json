@@ -2,66 +2,48 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "민정 수석 인사 문제와 관련된 게시글이 많으며, 대통령의 인사 참사가 정점을 찍었다는 의견이 있습니다.",
-      "post_count": 10,
+      "summary": "最近의 政治 뉴스와 논란이 클리앙 커뮤니티에서 활발하게讨論되고 있습니다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 게시글이 많으며, AI로 강해진 언리얼 엔진 6와 AI 환각 줄이고 정확도 높인 차세대 데이터베이스 기술 개발 등이 소개되고 있습니다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 관련된 뉴스와 논란이 클리앙 커뮤니티에서 활발하게讨論되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "사회 문제",
-      "summary": "청년 실업 문제와 관련된 게시글이 있으며, AI 사회 대비 문제와 관련된 게시글도 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "유시민",
+      "keyword": "보완수사",
       "count": 5,
       "sentiment": "negative",
-      "context": "유시민의 말이 예전 같지 않다는 의견이 있습니다."
+      "context": "정치 뉴스와 관련된 키워드입니다."
     },
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 게시글이 많습니다."
-    },
-    {
-      "keyword": "민정 수석",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "민정 수석 인사 문제와 관련된 게시글이 많습니다."
+      "context": "AI 기술의 발전과 관련된 키워드입니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정이 더 많습니다."
+    "positive": 25,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 게시글이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 발전에 기여할 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 산업에 적용할 수 있는 방법을 모색합니다.",
+      "insight": "클리앙 커뮤니티의 사용자들은 정치와 AI 기술에 관심이 많습니다.",
+      "action": "관련된 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "high"
-    },
-    {
-      "insight": "정치와 사회 문제는 사람들이 관심을 가지고 있습니다.",
-      "action": "정치와 사회 문제에 대한 의견을 수렴하고, 대응책을 마련합니다.",
-      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 사회 문제, AI 기술의 발전 등으로 구성되어 있습니다. 정치와 사회 문제는 사람들이 관심을 가지고 있으며, 민정 수석 인사 문제와 청년 실업 문제 등이 주요한 이슈입니다. AI 기술의 발전은 산업의 발전에 기여할 수 있으며, 언리얼 엔진 6와 차세대 데이터베이스 기술 개발 등이 소개되고 있습니다. 이러한 트렌드를 고려하여, 산업의 발전에 기여할 수 있는 AI 기술의 발전을 주시하고, 정치와 사회 문제에 대한 의견을 수렴하여 대응책을 마련하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-21T09:30:34.117Z",
+  "narrative": "클리앙 커뮤니티의 사용자들은 최근의 정치 뉴스와 논란에 관심이 많습니다. 또한, AI 기술의 발전과 관련된 뉴스와 논란에도 관심이 많습니다. 이러한 관심을 바탕으로 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다. 또한, 사용자들의 감정과 우려를 고려하여 콘텐츠를 제공해야 합니다.",
+  "analyzed_at": "2026-06-21T11:00:34.003Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
