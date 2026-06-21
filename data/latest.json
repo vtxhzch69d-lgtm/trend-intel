@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령에 대한 아쉬운 점, 검찰개혁, 공소취소 등 정치 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 20,
+      "summary": "이재명 대통령과 관련된 정치적인 주제가 많은 관심을 받고 있습니다. 검찰개혁과 관련된 글도 많이 보입니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "AI 및 기술",
-      "summary": "AI 기술의 발전, 로봇 개발, 데이터베이스 기술 등이 주목을 받고 있습니다.",
-      "post_count": 15,
+      "summary": "AI와 관련된 기술적인 주제가 많이 등장하고 있습니다. 특히, AI 칩과 로봇 기술에 대한 관심이 높습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "부동산 문제, 경제 성장, 기업 뉴스 등이 관심을 받고 있습니다.",
-      "post_count": 8,
+      "topic": "경제 및 산업",
+      "summary": "경제와 산업에 관련된 주제가 일부 등장하고 있습니다. 특히, 기업의 뉴스와 기술 개발에 대한 관심이 있습니다.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -25,44 +25,44 @@
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "대통령에 대한 아쉬운 점"
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치적인 주제에서 많이 등장하는 키워드입니다."
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 12,
       "sentiment": "positive",
-      "context": "기술의 발전"
+      "context": "기술적인 주제에서 많이 등장하는 키워드입니다."
     },
     {
       "keyword": "검찰개혁",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 관련 주제"
+      "sentiment": "negative",
+      "context": "정치적인 주제에서 많이 등장하는 키워드입니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "overall_mood": "복합적인 감정으로 나타나고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "정치 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "AI 기술의 발전이 빠르게 진행되고 있습니다.",
+      "action": "AI 기술에 대한 투자와 연구를 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 주목을 받고 있습니다.",
-      "action": "AI 기술 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "정치적인 주제가 많은 관심을 받고 있습니다.",
+      "action": "정치적인 주제에 대한 분석과 이해를 높여야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 정치 관련 주제가 많은 관심을 받고 있습니다. 이재명 대통령에 대한 아쉬운 점, 검찰개혁, 공소취소 등이 주목을 받고 있습니다. 또한, AI 기술의 발전, 로봇 개발, 데이터베이스 기술 등이 관심을 받고 있습니다. 이러한 주제에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다. 또한, 정치 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다. 그러나, 부동산 문제, 경제 성장, 기업 뉴스 등은 상대적으로 관심이 적습니다.",
-  "analyzed_at": "2026-06-21T17:00:33.748Z",
-  "post_count": 59,
+  "narrative": "현재의 트렌드는 정치적인 주제와 AI 기술의 발전에 대한 관심이 높습니다. 특히, 이재명 대통령과 관련된 정치적인 주제가 많은 관심을 받고 있습니다. 또한, AI 칩과 로봇 기술에 대한 관심이 높습니다. 이러한 트렌드를 분석하여 사업적인 기회를 찾는 것이 중요합니다. 또한, 정치적인 주제에 대한 분석과 이해를 높여야 합니다. 이러한 분석을 통해 사업적인 의사결정을 내릴 수 있습니다.",
+  "analyzed_at": "2026-06-21T18:30:33.717Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
