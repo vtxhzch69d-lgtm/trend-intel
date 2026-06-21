@@ -2,31 +2,24 @@
   "trending_topics": [
     {
       "topic": "검찰개혁",
-      "summary": "검찰개혁 관련 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다. 보완수사권 폐지와 관련된 주제가 많이 обсужд되고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "검찰개혁 관련 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 사용자들은 검찰개혁의 필요성과 그 중요성을 강조하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스가 클리앙 뉴스 섹션에서 많이 보도되고 있다. AI의 발전과 관련된 기술 및 기업 동향이 주로 다루어지고 있다.",
+      "summary": "AI 기술 관련 뉴스가 클리앙 뉴스 섹션에서 많이 обсужд되고 있습니다. 사용자들은 AI 기술의 발전과 그 응용에 관심을 보이고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "이재명 정부",
-      "summary": "이재명 정부와 관련된 주제가 클리앙 커뮤니티에서 논의되고 있다. 정부의 정책과 관련된 주제가 많이 обсужд되고 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "검찰개혁",
-      "count": 20,
-      "sentiment": "mixed",
+      "count": 15,
+      "sentiment": "positive",
       "context": "검찰개혁 관련 논의"
     },
     {
@@ -34,35 +27,29 @@
       "count": 25,
       "sentiment": "positive",
       "context": "AI 기술 관련 뉴스"
-    },
-    {
-      "keyword": "이재명",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "이재명 정부 관련 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 20,
-    "overall_mood": "복합적인 감정"
+    "positive": 40,
+    "negative": 10,
+    "neutral": 50,
+    "overall_mood": "중립적이고 정보적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "검찰개혁 관련 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다.",
-      "action": "관련 주제에 대한 콘텐츠를 생성하여 클리앙 커뮤니티와의 상호작용을 증대시킨다.",
+      "insight": "검찰개혁 관련 논의가 활발하게 진행되고 있습니다.",
+      "action": "검찰개혁 관련 정책이나 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 관련 뉴스가 클리앙 뉴스 섹션에서 많이 보도되고 있다.",
-      "action": "AI 기술 관련 콘텐츠를 생성하여 클리앙 뉴스 섹션과의 상호작용을 증대시킨다.",
+      "insight": "AI 기술 관련 뉴스가 많이 обсужд되고 있습니다.",
+      "action": "AI 기술 관련 제품이나 서비스 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티와 뉴스 섹션에서 다양한 주제가 논의되고 있다. 검찰개혁, AI 기술, 이재명 정부와 관련된 주제가 많이 обсужд되고 있다. 클리앙 커뮤니티와의 상호작용을 증대시키기 위해 관련 주제에 대한 콘텐츠를 생성하는 것이 중요하다. 또한, AI 기술 관련 뉴스가 많이 보도되고 있으므로, 관련 콘텐츠를 생성하여 클리앙 뉴스 섹션과의 상호작용을 증대시키는 것이 중요하다.",
-  "analyzed_at": "2026-06-21T14:00:35.507Z",
-  "post_count": 60,
+  "narrative": "클리앙 커뮤니티에서는 검찰개혁과 AI 기술 관련 논의가 활발하게 진행되고 있습니다. 사용자들은 검찰개혁의 필요성과 AI 기술의 발전에 관심을 보이고 있습니다. 이러한 트렌드를 반영하여 검찰개혁 관련 정책이나 서비스 개발, AI 기술 관련 제품이나 서비스 개발 등의 비즈니스 전략을 수립할 수 있습니다. 또한, 클리앙 커뮤니티의 중립적이고 정보적인 분위기를 고려하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-21T15:30:34.036Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
