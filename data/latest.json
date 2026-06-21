@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 지지자들에 대한 논의와 검찰개혁에 대한 의견이 많습니다.",
-      "post_count": 15,
+      "summary": "이재명 대통령과 관련된 정치글이 많으며, 검찰개혁과 관련된 글도 많다.",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성과가 주목받고 있습니다.",
-      "post_count": 10,
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 글들이 많으며, AI의 발전과 관련된 뉴스들이 많다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "부동산 문제와 경제 성장에 대한 우려가 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "테크",
+      "summary": "테크 뉴스들이 많으며, 새로 출시된 제품과 기술에 대한 글들이 많다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "이재명",
       "count": 10,
       "sentiment": "mixed",
-      "context": "대통령과 지지자들에 대한 논의"
+      "context": "정치와 관련된 글에서 많이 언급된다."
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업적 성과"
+      "context": "AI 기술과 관련된 뉴스와 글에서 많이 언급된다."
     },
     {
       "keyword": "검찰개혁",
       "count": 5,
       "sentiment": "negative",
-      "context": "검찰개혁에 대한 우려와 논의"
+      "context": "정치와 관련된 글에서 많이 언급된다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 긍정적인 영향을 미칠 수 있습니다.",
-      "action": "AI 기술을 활용한 산업 투자",
+      "insight": "AI 기술은 빠르게 발전하고 있으며, 관련된 뉴스와 글들이 많다.",
+      "action": "AI 기술에 대한 투자와 연구를 강화해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "정치적인 논의와 경제 성장에 대한 우려는 기업의 의사결정에 영향을 미칠 수 있습니다.",
-      "action": "정치적 및 경제적 상황에 대한 지속적인 모니터링",
+      "insight": "정치와 관련된 글들이 많으며, 관련된 뉴스와 글들이 많다.",
+      "action": "정치와 관련된 뉴스와 글을 주의해서 읽어야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 정치적인 논의와 AI 기술의 발전을 중심으로 형성되고 있습니다. 이재명 대통령과 지지자들에 대한 논의와 검찰개혁에 대한 의견이 많으며, AI 기술의 발전과 이를 활용한 다양한 산업의 성과가 주목받고 있습니다. 또한, 부동산 문제와 경제 성장에 대한 우려가 있습니다. 이러한 트렌드는 기업의 의사결정과 산업 투자에 영향을 미칠 수 있으므로, 지속적인 모니터링과 분석이 필요합니다.",
-  "analyzed_at": "2026-06-21T20:00:34.312Z",
+  "narrative": "최근의 트렌드는 정치와 AI 기술에 대한 관심이 높아지고 있다. 정치와 관련된 글들이 많으며, 검찰개혁과 관련된 글도 많다. AI 기술은 빠르게 발전하고 있으며, 관련된 뉴스와 글들이 많다. 테크 뉴스들도 많으며, 새로 출시된 제품과 기술에 대한 글들이 많다. 이러한 트렌드를 통해 기업과 마케터는 고객의 관심과需求을 파악하고, 이를 통해 새로운 기회를 찾을 수 있을 것이다.",
+  "analyzed_at": "2026-06-21T21:30:33.546Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
