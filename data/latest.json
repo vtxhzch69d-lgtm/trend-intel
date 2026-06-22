@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "도배 현상",
-      "summary": "클리앙 커뮤니티에서 도배 현상이 나타남. 사용자들은 도배를 신고하고 관리자의 조치를 요구함.",
+      "topic": "도배",
+      "summary": "클리앙 커뮤니티에서 도배 관련 게시글이 많아졌습니다. 사용자들은 도배를 신고하고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "클리앙 뉴스에서 AI 기술 관련 기사들이 많이 등장함. AI의 발전과 이를 활용한 기술 개발이 주목받음.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "주택 시장",
-      "summary": "클리엔 커뮤니티에서 주택 시장 관련 글들이 많이 올라옴. 입주가와 주택 가격이 주요 관심사임.",
-      "post_count": 8,
+      "topic": "AI",
+      "summary": "AI 관련 뉴스가 많아졌습니다. SK하이닉스, 엔비디아, 아마존 등이 AI 기술을 개발하고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "주택",
+      "summary": "주택 관련 게시글이 많아졌습니다. 사용자들은 주택 매매와 임대에 대해 토론하고 있습니다.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "도배",
-      "count": 15,
+      "count": 10,
       "sentiment": "negative",
-      "context": "클리앙 커뮤니티에서 도배 현상이 나타남"
+      "context": "클리앙 커뮤니티에서 도배 관련 게시글"
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 15,
       "sentiment": "positive",
-      "context": "클리앙 뉴스에서 AI 기술 관련 기사들이 많이 등장함"
+      "context": "AI 관련 뉴스"
     },
     {
       "keyword": "주택",
-      "count": 10,
+      "count": 5,
       "sentiment": "neutral",
-      "context": "클리엔 커뮤니티에서 주택 시장 관련 글들이 많이 올라옴"
+      "context": "주택 관련 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 도배 현상이 나타남",
-      "action": "관리자 조치 요구",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술이 발전함",
-      "action": "AI 기술을 활용한 비즈니스 기회 탐색",
+      "insight": "도배 관련 게시글이 많아졌습니다.",
+      "action": "도배를 신고하고 사용자들에게 경고합니다.",
       "priority": "medium"
     },
     {
-      "insight": "주택 시장 관련 글들이 많이 올라옴",
-      "action": "주택 시장 관련 비즈니스 기회 탐색",
+      "insight": "AI 기술이 발전하고 있습니다.",
+      "action": "AI 기술을 개발하고 투자합니다.",
+      "priority": "high"
+    },
+    {
+      "insight": "주택 관련 게시글이 많아졌습니다.",
+      "action": "주택 관련 정보를 제공하고 사용자들에게 도움을 줍니다.",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티와 뉴스에서 도배 현상, AI 기술, 주택 시장 관련 글들이 많이 올라옴. 도배 현상은 관리자의 조치가 필요함. AI 기술은 발전하고 있으며 이를 활용한 비즈니스 기회를 탐색할 수 있음. 주택 시장 관련 글들은 중립적인 감정으로 작성됨. 클리앙 커뮤니티와 뉴스에서 나타나는 트렌드와 키워드를 분석하여 비즈니스 기회를 찾을 수 있음.",
-  "analyzed_at": "2026-06-22T16:00:39.608Z",
+  "narrative": "클리앙 커뮤니티에서 도배 관련 게시글이 많아졌습니다. 사용자들은 도배를 신고하고 있습니다. 또한, AI 관련 뉴스가 많아졌습니다. SK하이닉스, 엔비디아, 아마존 등이 AI 기술을 개발하고 있습니다. 주택 관련 게시글도 많아졌습니다. 사용자들은 주택 매매와 임대에 대해 토론하고 있습니다. 도배를 신고하고 사용자들에게 경고하며, AI 기술을 개발하고 투자하고, 주택 관련 정보를 제공하고 사용자들에게 도움을 줍니다.",
+  "analyzed_at": "2026-06-22T17:30:34.810Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
