@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래 대표의 보완수사권 폐지 언급과 정부의 검찰개혁법안이 문제가 있음을 업계종사자가 지적함",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 재정",
+      "summary": "경제 및 재정 관련 주제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "삼전과 하닉의 주가 동향과 기초연금제도의 유지 여부",
+      "topic": "스포츠",
+      "summary": "스포츠 관련 주제가 논의되고 있습니다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "보완수사권 폐지 언급"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술 발전과 산업 성장"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "삼전",
-      "count": 3,
+      "keyword": "경제",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "주가 동향"
+      "context": "경제 및 재정 관련 주제"
+    },
+    {
+      "keyword": "스포츠",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "스포츠 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됨"
+    "positive": 25,
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있음",
-      "action": "AI 기술을 활용한 신규 사업 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치적인 이슈는 소비자들의 감정에 큰 영향을 미칠 수 있음",
-      "action": "정치적인 이슈에 대한 감성 분석",
+      "insight": "경제 및 재정의 중요성",
+      "action": "경제 및 재정 관련 교육 및 컨설팅 제공",
       "priority": "medium"
+    },
+    {
+      "insight": "스포츠의 마케팅 잠재력",
+      "action": "스포츠 관련 마케팅 캠페인 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적인 이슈와 AI 기술의 발전이 주를 이루고 있음. 정청래 대표의 보완수사권 폐지 언급과 정부의 검찰개혁법안이 문제가 있음을 업계종사자가 지적함. 또한, AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있으므로, AI 기술을 활용한 신규 사업 개발을 고려해 볼 수 있음. 그러나, 정치적인 이슈는 소비자들의 감정에 큰 영향을 미칠 수 있으므로, 정치적인 이슈에 대한 감성 분석을 통해 소비자들의 감정을 이해하고, 이를 사업 전략에 반영할 수 있음.",
-  "analyzed_at": "2026-06-22T02:00:34.321Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있습니다. 이는 AI 기술의 발전이 다양한 산업에 큰 영향을 미치고 있기 때문입니다. 또한, 경제 및 재정 관련 주제도 많이 논의되고 있습니다. 이는 경제 및 재정의 중요성이 점점 더 커지고 있기 때문입니다. 마지막으로, 스포츠 관련 주제도 일부 논의되고 있습니다. 이는 스포츠 마케팅의 잠재력이 점점 더 커지고 있기 때문입니다. 이러한 트렌드 분석 결과를 바탕으로, 비즈니스 인사이트를 도출하고, 이를 활용한 마케팅 전략을 개발할 수 있습니다.",
+  "analyzed_at": "2026-06-22T03:30:33.639Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
