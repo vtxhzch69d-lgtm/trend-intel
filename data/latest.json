@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "아르헨티나 vs 오스트리아 경기 결과와 메시의 활약을 중심으로 한 обсуждение",
-      "post_count": 7,
+      "topic": "메시와 축구",
+      "summary": "클리앙 커뮤니티에서 메시와 축구 관련 게시글이 인기 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발과 관련된 뉴스 및 обсуждение",
+      "summary": "클리앙 뉴스 섹션에서 AI 기술 관련 기사가 많이 보도되고 있습니다.",
       "post_count": 15,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이재명 대통령의 지지율과 관련된 обсуждение",
-      "post_count": 3,
+      "topic": "정치 및 사회",
+      "summary": "클리엔 커뮤니티에서 정치 및 사회 관련 게시글이 활발하게 обсужд되고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "메시",
-      "count": 7,
+      "count": 8,
       "sentiment": "positive",
-      "context": "월드컵 경기 결과와 관련된 обсужд에서 빈번하게 언급"
+      "context": "축구 선수"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "neutral",
-      "context": "최신 기술 개발과 관련된 뉴스 및 обсужд에서 빈번하게 언급"
+      "context": "인공지능 기술"
     },
     {
-      "keyword": "이재명",
-      "count": 3,
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "mixed",
-      "context": "정치 관련된 обсужд에서 언급"
+      "context": "한국 정치"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 AI 기술 개발은 기업의 경쟁력 향상에 기여할 수 있음",
-      "action": "AI 기술 개발에 투자",
+      "insight": "AI 기술은 미래의 핵심 기술입니다.",
+      "action": "AI 기술에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "월드컵과 같은 대형 스포츠 이벤트는 마케팅 기회를 제공",
-      "action": "월드컵 관련 마케팅 캠페인 실행",
+      "insight": "축구는 한국에서 인기 있는 스포츠입니다.",
+      "action": "축구 관련 마케팅 증가",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 및 사회 관련 문제는 한국에서 중요합니다.",
+      "action": "정치 및 사회 관련 문제에 대한 대응",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 AI 기술 개발을 중심으로 형성되고 있습니다. 메시의 활약과 최신 AI 기술 개발은 많은 관심을 받고 있으며, 이러한 트렌드는 기업의 마케팅 전략에 반영될 수 있습니다. 또한, 정치 관련된 обсужд은 지속적으로 이뤄지고 있으며, 이는 기업의 사회적 책임과 관련된 문제로 간주될 수 있습니다. 따라서, 기업은 이러한 트렌드를 주시하고, 이를 반영한 마케팅 전략을 수립하여 경쟁력 향상에 기여할 수 있습니다.",
-  "analyzed_at": "2026-06-22T20:30:34.136Z",
+  "narrative": "클리앙 커뮤니티와 뉴스 섹션을 분석한 결과, 메시와 축구, AI 기술, 정치 및 사회 관련 문제가 주요 관심사로 나타났습니다. AI 기술은 미래의 핵심 기술로 투자 증가가 예상됩니다. 축구는 한국에서 인기 있는 스포츠로 마케팅 증가가 예상됩니다. 정치 및 사회 관련 문제는 한국에서 중요하며, 대응이 필요합니다. 중립적인 분위기가 전체적으로 유지되고 있으나, 각 주제에 대한 관심과 논의가 활발하게 진행되고 있습니다.",
+  "analyzed_at": "2026-06-22T22:01:28.840Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
