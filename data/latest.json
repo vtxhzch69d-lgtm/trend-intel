@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "김민석 총리와 관련된 해킹 수사 의뢰 및 차기 대선 후보에 대한 논의",
+      "topic": "한국 증시",
+      "summary": "한국 증시는 하닉 세상이 맞으며, 증시 관련 뉴스와 분석이热議되고 있습니다.",
       "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "SK하이닉스의 시총 1위 등극과 삼전의 음전",
-      "post_count": 4,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스",
-      "post_count": 10,
+      "topic": "검찰개혁",
+      "summary": "검찰개혁 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
+      "post_count": 7,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 뉴스와 개발이 많은 관심을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "김민석",
-      "count": 3,
+      "keyword": "하닉",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "해킹 수사 의뢰"
+      "context": "한국 증시 관련 뉴스"
     },
     {
-      "keyword": "SK하이닉스",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "시총 1위 등극"
+      "keyword": "검찰개혁",
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "검찰개혁 관련 뉴스와 의견"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 발전"
+      "context": "AI 기술 관련 뉴스와 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 10,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있다",
-      "action": "관련된 뉴스와 정보를 제공",
+      "insight": "한국 증시 관련 뉴스와 분석이 많은 관심을 받고 있습니다.",
+      "action": "증시 관련 뉴스와 분석을 제공하여 사용자들의 관심을 끌어야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "검찰개혁 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
+      "action": "검찰개혁 관련 뉴스와 의견을 제공하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 빠르게 진행되고 있다",
-      "action": "관련된 기술과 제품을 개발",
+      "insight": "AI 기술 관련 뉴스와 개발이 많은 관심을 받고 있습니다.",
+      "action": "AI 기술 관련 뉴스와 개발을 제공하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 경제에 대한 관심이 높아지고 있는 것으로 나타났다. 특히, 김민석 총리와 관련된 해킹 수사 의뢰 및 차기 대선 후보에 대한 논의가 활발히 진행되고 있다. 또한, SK하이닉스의 시총 1위 등극과 삼전의 음전에 대한 뉴스도 많이 등장했다. 기술 분야에서는 AI 기술의 발전이 빠르게 진행되고 있는 것으로 나타났다. 이러한 트렌드에 따라 관련된 뉴스와 정보를 제공하고, 관련된 기술과 제품을 개발하는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-06-22T05:00:34.785Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서는 한국 증시, 검찰개혁, AI 기술 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 이러한 주제들은 사용자들의 관심을 끌어야 하며, 관련 뉴스와 분석을 제공하여 사용자들의 필요를 충족시켜야 합니다. 또한, AI 기술 관련 뉴스와 개발은 사용자들의 관심을 끌어야 하며, 관련 뉴스와 개발을 제공하여 사용자들의 필요를 충족시켜야 합니다.",
+  "analyzed_at": "2026-06-22T07:00:33.830Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
