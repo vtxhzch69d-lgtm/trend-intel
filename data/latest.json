@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명, 보완수사권, 정치 관련된 주제가 많이 обсужд되고 있습니다.",
+      "summary": "이재명 정부와 관련된 다양한 정치적 이슈들이 논의되고 있다. 서울시장 선거와 관련된 게시글도 존재한다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 관련 기술과 제품이 많이 언급되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 기업의 동향이 많이 обсужд되고 있습니다.",
-      "post_count": 10,
+      "topic": "테크",
+      "summary": "AI와 관련된 기술 및 제품에 대한 게시글이 많다. SK하이닉스와 삼성전자에 대한 뉴스도 존재한다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "생활",
+      "summary": "일상 생활과 관련된 게시글이 존재한다. 비빔면 맛있게 먹는 꿀팁이나 LDL 수치에 대한 게시글이 있다.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -27,46 +27,41 @@
       "keyword": "이재명",
       "count": 10,
       "sentiment": "negative",
-      "context": "정치 관련된 주제에서 많이 언급되고 있습니다."
+      "context": "정치적인 이슈에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 관련 기술과 제품이 많이 언급되고 있습니다."
+      "context": "테크와 관련된 뉴스 및 제품"
     },
     {
       "keyword": "SK하이닉스",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스에서 언급되고 있습니다."
+      "sentiment": "positive",
+      "context": "테크와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기입니다."
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기이지만, 테크와 관련된 긍정적인 게시글이 많다."
   },
   "business_insights": [
     {
-      "insight": "AI 관련 기술과 제품이 많이 언급되고 있습니다.",
-      "action": "AI 관련 제품 개발에 투자합니다.",
+      "insight": "테크와 관련된 제품 및 기술에 대한 관심이 높다.",
+      "action": "테크와 관련된 제품 및 기술에 대한 마케팅을 강화한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 주제가 많이 обсужд되고 있습니다.",
-      "action": "정치 관련된 주제에 대한 커뮤니케이션을 강화합니다.",
+      "insight": "정치적인 이슈에 대한 논의가 활발하다.",
+      "action": "정치적인 이슈에 대한 마케팅을 주의한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스와 기업의 동향이 많이 обсужд되고 있습니다.",
-      "action": "경제 관련 뉴스와 기업의 동향을 주시합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, AI, 경제 관련된 주제가 많이 обсужд되고 있습니다. 이재명, 보완수사권, AI 관련 기술과 제품이 많이 언급되고 있습니다. 경제 관련 뉴스와 기업의 동향도 많이 обсужд되고 있습니다. 중립적인 분위기입니다. AI 관련 기술과 제품 개발에 투자하고, 정치 관련된 주제에 대한 커뮤니케이션을 강화하며, 경제 관련 뉴스와 기업의 동향을 주시하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-22T08:30:33.582Z",
+  "narrative": "최근의 트렌드는 테크와 관련된 제품 및 기술에 대한 관심이 높다는 것이다. SK하이닉스와 삼성전자에 대한 뉴스도 존재한다. 또한, 정치적인 이슈에 대한 논의가 활발하다. 마케터는 테크와 관련된 제품 및 기술에 대한 마케팅을 강화하고, 정치적인 이슈에 대한 마케팅을 주의해야 한다. 또한, 일상 생활과 관련된 게시글도 존재하므로, 다양한 마케팅 전략을 고려해야 한다.",
+  "analyzed_at": "2026-06-22T10:00:34.099Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
