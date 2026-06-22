@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 정치적인 주제가 많이 обсужд되고 있습니다. 특히, 검찰개혁과 관련된 주제가 많이 등장하고 있습니다.",
-      "post_count": 15,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 지지율과 정책에 대한 논의",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술적인 주제가 많이 обсужд되고 있습니다. 특히, AI의 발전과 관련된 주제가 많이 등장하고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "월드컵과 관련된 주제가 많이 обсужд되고 있습니다. 특히, 한국팀의 경기 결과와 관련된 주제가 많이 등장하고 있습니다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "코스피와 경제 동향에 대한 논의",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "이재명 대통령과 관련된 정치적인 주제"
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 지지율과 정책에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI와 관련된 기술적인 주제"
+      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
     },
     {
-      "keyword": "월드컵",
+      "keyword": "코스피",
       "count": 5,
       "sentiment": "neutral",
-      "context": "월드컵과 관련된 주제"
+      "context": "코스피와 경제 동향에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 분위기"
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적인 주제가 많이 обсужд되고 있습니다.",
-      "action": "정치적인 주제에 대한 분석을 심화시킵니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서의 적용을 가속화할 수 있다",
+      "action": "AI 기술의 발전을 주시하고 다양한 산업에서의 적용을 연구한다",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술적인 주제가 많이 обсужд되고 있습니다.",
-      "action": "AI와 관련된 기술적인 주제에 대한 분석을 심화시킵니다.",
+      "insight": "이재명 대통령의 지지율과 정책에 대한 논의는 정치 및 경제 동향에 영향을 미칠 수 있다",
+      "action": "이재명 대통령의 지지율과 정책에 대한 논의를 주시한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적인 주제와 기술적인 주제가 많이 обсужд되고 있습니다. 특히, 이재명 대통령과 관련된 정치적인 주제가 많이 등장하고 있습니다. 또한, AI와 관련된 기술적인 주제가 많이 обсужд되고 있습니다. 이러한 트렌드는 정치적인 주제와 기술적인 주제에 대한 분석을 심화시켜야 함을 시사합니다. 또한, 월드컵과 관련된 주제가 많이 обсужд되고 있습니다. 이러한 트렌드는 스포츠 마케팅에 대한 분석을 심화시켜야 함을 시사합니다.",
-  "analyzed_at": "2026-06-21T23:00:33.631Z",
+  "narrative": "최근의 트렌드 분석 결과, 이재명 대통령의 지지율과 정책에 대한 논의, AI 기술의 발전, 그리고 경제 및 금융 동향에 대한 논의가 주를 이루고 있습니다. AI 기술의 발전은 다양한 산업에서의 적용을 가속화할 수 있으며, 이재명 대통령의 지지율과 정책에 대한 논의는 정치 및 경제 동향에 영향을 미칠 수 있습니다. 이러한 트렌드를 주시하고, 다양한 산업에서의 적용을 연구하는 것이 중요합니다. 또한, 이재명 대통령의 지지율과 정책에 대한 논의를 주시하는 것이 정치 및 경제 동향을 이해하는 데 도움이 될 수 있습니다.",
+  "analyzed_at": "2026-06-22T00:30:34.237Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
