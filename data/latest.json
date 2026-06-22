@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "도배",
-      "summary": "클리앙 커뮤니티에서 도배 관련 게시글이 많아졌습니다. 사용자들은 도배를 신고하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "메시",
+      "summary": "메시의 골과 멀티골에 대한 게시글이 많습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "AI",
-      "summary": "AI 관련 뉴스가 많아졌습니다. SK하이닉스, 엔비디아, 아마존 등이 AI 기술을 개발하고 있습니다.",
+      "summary": "AI 기술과 관련된 뉴스 및 개발에 대한 게시글이 많습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "주택",
-      "summary": "주택 관련 게시글이 많아졌습니다. 사용자들은 주택 매매와 임대에 대해 토론하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치 관련 뉴스 및 의견에 대한 게시글이 많습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "도배",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "클리앙 커뮤니티에서 도배 관련 게시글"
+      "keyword": "메시",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "축구 선수"
     },
     {
       "keyword": "AI",
       "count": 15,
-      "sentiment": "positive",
-      "context": "AI 관련 뉴스"
+      "sentiment": "neutral",
+      "context": "인공지능 기술"
     },
     {
-      "keyword": "주택",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "주택 관련 게시글"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스 및 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
+    "positive": 10,
+    "negative": 5,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "도배 관련 게시글이 많아졌습니다.",
-      "action": "도배를 신고하고 사용자들에게 경고합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술이 발전하고 있습니다.",
-      "action": "AI 기술을 개발하고 투자합니다.",
+      "insight": "AI 기술은 빠르게 발전하고 있습니다.",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "주택 관련 게시글이 많아졌습니다.",
-      "action": "주택 관련 정보를 제공하고 사용자들에게 도움을 줍니다.",
+      "insight": "축구 관련 게시글이 많습니다.",
+      "action": "축구 관련 마케팅 전략 개발",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 뉴스 및 의견에 대한 게시글이 많습니다.",
+      "action": "정치 관련 마케팅 전략 개발",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 도배 관련 게시글이 많아졌습니다. 사용자들은 도배를 신고하고 있습니다. 또한, AI 관련 뉴스가 많아졌습니다. SK하이닉스, 엔비디아, 아마존 등이 AI 기술을 개발하고 있습니다. 주택 관련 게시글도 많아졌습니다. 사용자들은 주택 매매와 임대에 대해 토론하고 있습니다. 도배를 신고하고 사용자들에게 경고하며, AI 기술을 개발하고 투자하고, 주택 관련 정보를 제공하고 사용자들에게 도움을 줍니다.",
-  "analyzed_at": "2026-06-22T17:30:34.810Z",
-  "post_count": 60,
+  "narrative": "최근의 트렌드는 메시와 AI 기술에 대한 관심이 높습니다. 메시의 골과 멀티골에 대한 게시글이 많으며, AI 기술과 관련된 뉴스 및 개발에 대한 게시글도 많습니다. 또한, 정치 관련 뉴스 및 의견에 대한 게시글도 많습니다. 이러한 트렌드를 통해 비즈니스 모델 개발 및 마케팅 전략 개발의 기회를 찾을 수 있습니다. AI 기술은 빠르게 발전하고 있으며, 이를 활용한 비즈니스 모델 개발이 필요합니다. 또한, 축구 관련 마케팅 전략 개발 및 정치 관련 마케팅 전략 개발도 필요합니다.",
+  "analyzed_at": "2026-06-22T19:01:34.035Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
