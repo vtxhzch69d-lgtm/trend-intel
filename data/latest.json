@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아졌으며, 대통령과 정치인에 대한 논의가 활발하다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 로봇 기술 관련 게시글이 많아졌으며, 이를 활용한 다양한 산업과 제품에 대한 논의가 진행 중이다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "입주물량",
+      "summary": "입주물량에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "기업과 경제 관련 뉴스가 많아졌으며, 국내외 경제 동향에 대한 논의가 활발하다.",
+      "topic": "주식",
+      "summary": "고민정 의원의 주식 관련 발언이 클리앙 커뮤니티에서 논란이 되고 있습니다.",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "클리앙 커뮤니티에서 AI 기술에 대한 다양한 뉴스와 정보가 공유되고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "로봇 기술과 산업에 대한 논의"
-    },
-    {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "대통령과 정치인에 대한 논의"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "입주물량",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "기업과 경제 관련 뉴스"
+      "context": "부동산 관련 논의"
+    },
+    {
+      "keyword": "주식",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "고민정 의원의 발언"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "기술 관련 뉴스와 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술을 활용한 산업과 제품 개발",
-      "action": "관련 기술과 산업에 대한 투자와 연구",
-      "priority": "high"
+      "insight": "부동산 관련 논의가 클리앙 커뮤니티에서 활발히 진행되고 있습니다.",
+      "action": "부동산 관련 콘텐츠를 제공하여 사용자와의 상호작용을 tăng强시킵니다.",
+      "priority": "medium"
     },
     {
-      "insight": "정치와 경제 관련 뉴스와 논의",
-      "action": "관련 뉴스와 논의를 주시하고 대응",
-      "priority": "medium"
+      "insight": "AI 기술에 대한 관심이 클리엔 커뮤니티에서 높습니다.",
+      "action": "AI 기술 관련 뉴스와 정보를 제공하여 사용자의 관심을满足시킵니다.",
+      "priority": "low"
+    },
+    {
+      "insight": "고민정 의원의 주식 관련 발언이 클리앙 커뮤니티에서 논란이 되고 있습니다.",
+      "action": "정치 관련 콘텐츠를 제공하여 사용자와의 상호작용을 tăng强시킵니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 정치와 기술 관련 게시글이 많아졌으며, 이를 활용한 산업과 제품 개발에 대한 논의가 진행 중이다. 또한 경제 관련 뉴스가 많아졌으며, 국내외 경제 동향에 대한 논의가 활발하다. 이러한 트렌드와 인사이트를 바탕으로 관련 기술과 산업에 대한 투자와 연구, 관련 뉴스와 논의를 주시하고 대응하는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-06-22T13:00:33.697Z",
-  "post_count": 61,
+  "narrative": "클리앙 커뮤니티에서 입주물량, 주식, AI 기술 등 다양한 주제가 논의되고 있습니다. 입주물량에 대한 논의는 중립적인 분위기이며, 주식 관련 발언은 부정적인 반응을 보이고 있습니다. AI 기술에 대한 관심은 높으며, 관련 뉴스와 정보가 활발히 공유되고 있습니다. 이러한 트렌드를 반영하여 부동산, 정치, 기술 관련 콘텐츠를 제공하여 사용자와의 상호작용을 tăng强시킬 수 있습니다.",
+  "analyzed_at": "2026-06-22T14:30:33.831Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
