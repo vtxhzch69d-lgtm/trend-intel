@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령의 지지율과 정책에 대한 논의",
+      "topic": "정치",
+      "summary": "정청래 대표의 보완수사권 폐지 언급과 정부의 검찰개혁법안이 문제가 있음을 업계종사자가 지적함",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
-      "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "코스피와 경제 동향에 대한 논의",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "삼전과 하닉의 주가 동향과 기초연금제도의 유지 여부",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "이재명 대통령의 지지율과 정책에 대한 논의"
+      "keyword": "정청래",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "보완수사권 폐지 언급"
     },
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+      "context": "기술 발전과 산업 성장"
     },
     {
-      "keyword": "코스피",
-      "count": 5,
+      "keyword": "삼전",
+      "count": 3,
       "sentiment": "neutral",
-      "context": "코스피와 경제 동향에 대한 논의"
+      "context": "주가 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됨"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서의 적용을 가속화할 수 있다",
-      "action": "AI 기술의 발전을 주시하고 다양한 산업에서의 적용을 연구한다",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있음",
+      "action": "AI 기술을 활용한 신규 사업 개발",
       "priority": "high"
     },
     {
-      "insight": "이재명 대통령의 지지율과 정책에 대한 논의는 정치 및 경제 동향에 영향을 미칠 수 있다",
-      "action": "이재명 대통령의 지지율과 정책에 대한 논의를 주시한다",
+      "insight": "정치적인 이슈는 소비자들의 감정에 큰 영향을 미칠 수 있음",
+      "action": "정치적인 이슈에 대한 감성 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 이재명 대통령의 지지율과 정책에 대한 논의, AI 기술의 발전, 그리고 경제 및 금융 동향에 대한 논의가 주를 이루고 있습니다. AI 기술의 발전은 다양한 산업에서의 적용을 가속화할 수 있으며, 이재명 대통령의 지지율과 정책에 대한 논의는 정치 및 경제 동향에 영향을 미칠 수 있습니다. 이러한 트렌드를 주시하고, 다양한 산업에서의 적용을 연구하는 것이 중요합니다. 또한, 이재명 대통령의 지지율과 정책에 대한 논의를 주시하는 것이 정치 및 경제 동향을 이해하는 데 도움이 될 수 있습니다.",
-  "analyzed_at": "2026-06-22T00:30:34.237Z",
+  "narrative": "최근의 트렌드는 정치적인 이슈와 AI 기술의 발전이 주를 이루고 있음. 정청래 대표의 보완수사권 폐지 언급과 정부의 검찰개혁법안이 문제가 있음을 업계종사자가 지적함. 또한, AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있으므로, AI 기술을 활용한 신규 사업 개발을 고려해 볼 수 있음. 그러나, 정치적인 이슈는 소비자들의 감정에 큰 영향을 미칠 수 있으므로, 정치적인 이슈에 대한 감성 분석을 통해 소비자들의 감정을 이해하고, 이를 사업 전략에 반영할 수 있음.",
+  "analyzed_at": "2026-06-22T02:00:34.321Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
