@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 증시",
-      "summary": "한국 증시는 하닉 세상이 맞으며, 증시 관련 뉴스와 분석이热議되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "검찰개혁",
-      "summary": "검찰개혁 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
-      "post_count": 7,
+      "topic": "정치",
+      "summary": "이재명, 보완수사권, 정치 관련된 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스와 개발이 많은 관심을 받고 있습니다.",
-      "post_count": 15,
+      "topic": "AI",
+      "summary": "AI 관련 기술과 제품이 많이 언급되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 기업의 동향이 많이 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "하닉",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "한국 증시 관련 뉴스"
-    },
-    {
-      "keyword": "검찰개혁",
-      "count": 7,
-      "sentiment": "mixed",
-      "context": "검찰개혁 관련 뉴스와 의견"
+      "keyword": "이재명",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련된 주제에서 많이 언급되고 있습니다."
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술 관련 뉴스와 개발"
+      "context": "AI 관련 기술과 제품이 많이 언급되고 있습니다."
+    },
+    {
+      "keyword": "SK하이닉스",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스에서 언급되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
+    "positive": 25,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기입니다."
   },
   "business_insights": [
     {
-      "insight": "한국 증시 관련 뉴스와 분석이 많은 관심을 받고 있습니다.",
-      "action": "증시 관련 뉴스와 분석을 제공하여 사용자들의 관심을 끌어야 합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "검찰개혁 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
-      "action": "검찰개혁 관련 뉴스와 의견을 제공하여 사용자들의 관심을 끌어야 합니다.",
+      "insight": "AI 관련 기술과 제품이 많이 언급되고 있습니다.",
+      "action": "AI 관련 제품 개발에 투자합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 관련 뉴스와 개발이 많은 관심을 받고 있습니다.",
-      "action": "AI 기술 관련 뉴스와 개발을 제공하여 사용자들의 관심을 끌어야 합니다.",
+      "insight": "정치 관련된 주제가 많이 обсужд되고 있습니다.",
+      "action": "정치 관련된 주제에 대한 커뮤니케이션을 강화합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스와 기업의 동향이 많이 обсужд되고 있습니다.",
+      "action": "경제 관련 뉴스와 기업의 동향을 주시합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 한국 증시, 검찰개혁, AI 기술 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 이러한 주제들은 사용자들의 관심을 끌어야 하며, 관련 뉴스와 분석을 제공하여 사용자들의 필요를 충족시켜야 합니다. 또한, AI 기술 관련 뉴스와 개발은 사용자들의 관심을 끌어야 하며, 관련 뉴스와 개발을 제공하여 사용자들의 필요를 충족시켜야 합니다.",
-  "analyzed_at": "2026-06-22T07:00:33.830Z",
+  "narrative": "최근의 트렌드는 정치, AI, 경제 관련된 주제가 많이 обсужд되고 있습니다. 이재명, 보완수사권, AI 관련 기술과 제품이 많이 언급되고 있습니다. 경제 관련 뉴스와 기업의 동향도 많이 обсужд되고 있습니다. 중립적인 분위기입니다. AI 관련 기술과 제품 개발에 투자하고, 정치 관련된 주제에 대한 커뮤니케이션을 강화하며, 경제 관련 뉴스와 기업의 동향을 주시하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-22T08:30:33.582Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
