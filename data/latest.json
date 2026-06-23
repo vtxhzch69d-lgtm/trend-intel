@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "이재명 정부가 반도체 산업을 키우기 위해 다양한 노력을 하고 있으며, 삼성전자와 LG전자 등이 새로운 기술을 개발하고 투자하고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "최근 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다. 특히 차기 대선 주자와 관련된 게시글이 많이 올라왔습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융 관련된 다양한 뉴스와 의견이 나오고 있으며, 특히 청년도약계좌 금리와 빚 문제가 논란이 되고 있다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "기술 관련 게시글도 많아 기술적인 주제가 트렌드하고 있습니다. 특히 AI와 반도체 관련 게시글이 많이 올라왔습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "새로운 기술과 AI 관련된 뉴스와 의견이 나오고 있으며, 특히 AI의 발전과 데이터센터 전력문제 해결이 주목을 받고 있다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 관련 게시글도 많아 경제적인 주제가 트렌드하고 있습니다. 특히 기업의 투자와 수출입 관련 게시글이 많이 올라왔습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "이재명 정부의 산업 정책"
-    },
-    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "새로운 기술과 발전"
+      "context": "AI 기술의 발전과 관련된 게시글"
     },
     {
-      "keyword": "경제",
+      "keyword": "반도체",
       "count": 8,
-      "sentiment": "negative",
-      "context": "청년도약계좌 금리와 빚 문제"
+      "sentiment": "positive",
+      "context": "반도체 산업의 성장과 관련된 게시글"
+    },
+    {
+      "keyword": "대선",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "차기 대선 주자와 관련된 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 성장",
-      "action": "투자와 기술 개발",
+      "insight": "기술 산업의 성장",
+      "action": "기술 산업에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "경제와 금융의 안정",
-      "action": "정책과 제도 개선",
+      "insight": "경제 산업의 안정",
+      "action": "경제 산업에 관심 가지기",
       "priority": "medium"
     },
     {
-      "insight": "기술과 AI의 발전",
-      "action": "연구와 개발",
-      "priority": "high"
+      "insight": "정치적인 불안정",
+      "action": "정치적인 상황에 주의하기",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 반도체 산업, 경제 및 금융, 기술 및 AI를 중심으로 돌아가고 있다. 이재명 정부의 산업 정책과 새로운 기술의 발전이 주목을 받고 있으며, 경제와 금융의 안정도 중요한 문제로 대두되고 있다. 이러한 트렌드에 따라 기업과 정부는 투자와 기술 개발, 정책과 제도 개선, 연구와 개발에 집중해야 할 것으로 보인다.",
-  "analyzed_at": "2026-06-23T14:30:33.919Z",
+  "narrative": "최근 정치, 기술, 경제 관련 게시글이 많아 다양한 주제가 트렌드하고 있습니다. 기술 산업의 성장은 계속해서 증가할 것으로 예상되며, 경제 산업은 안정적인 상황입니다. 그러나 정치적인 상황은 불안정하여 주의가 필요합니다. 따라서 기술 산업에 투자하고, 경제 산업에 관심을 가지며, 정치적인 상황에 주의를 기울이는 것이 중요합니다.",
+  "analyzed_at": "2026-06-23T16:01:33.203Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
