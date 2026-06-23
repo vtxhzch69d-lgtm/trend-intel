@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "SK 하이닉스",
-      "summary": "SK 하이닉스의 주가가 300을 뚫었다가 하락한 것으로 나타났습니다. 이는 최근의 경제 상황과 관련이 있을 수 있습니다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "정치 관련 주제가 많은 것으로 나타났습니다. 보완수사권, 선거, 대통령 등이 주요 키워드입니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 주제가 많습니다. 주식, 코스닥, 가구당 순자산 등이 주요 키워드입니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "메시",
-      "summary": "메시의 최근 경기에서의 활약이 화제가 되고 있습니다. 그의 골과 활약이 팬들의 관심을 끌고 있습니다.",
-      "post_count": 6,
+      "topic": "기술",
+      "summary": "기술 관련 주제가 많습니다. AI, 로봇, 스팀 머신 등이 주요 키워드입니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "最近의 AI 기술 개발이 빠르게 진행되고 있습니다. 이는 다양한 산업 분야에서 활용될 수 있을 것입니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "SK 하이닉스",
+      "keyword": "보완수사권",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "주가 변동"
+      "sentiment": "negative",
+      "context": "정치 관련 주제"
     },
     {
-      "keyword": "메시",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "경기 활약"
+      "keyword": "코스닥",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "경제 관련 주제"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 6,
       "sentiment": "positive",
-      "context": "기술 개발"
+      "context": "기술 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 2,
-    "neutral": 10,
-    "overall_mood": "전체적으로 긍정적인 분위기입니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "SK 하이닉스의 주가 변동에 대한 분석",
-      "action": "주가 변동에 대한 분석을 통해 투자 전략을 수립할 수 있습니다.",
+      "insight": "정치 관련 주제가 많은 것으로 나타났습니다.",
+      "action": "정치 관련 주제에 대한 콘텐츠를 생성하세요.",
+      "priority": "high"
+    },
+    {
+      "insight": "경제 관련 주제가 많습니다.",
+      "action": "경제 관련 주제에 대한 콘텐츠를 생성하세요.",
       "priority": "medium"
     },
     {
-      "insight": "메시의 경기 활약에 대한 분석",
-      "action": "메시의 경기 활약에 대한 분석을 통해 스포츠 마케팅 전략을 수립할 수 있습니다.",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술 개발에 대한 분석",
-      "action": "AI 기술 개발에 대한 분석을 통해 새로운 비즈니스 기회를 찾을 수 있습니다.",
-      "priority": "high"
+      "insight": "기술 관련 주제가 많습니다.",
+      "action": "기술 관련 주제에 대한 콘텐츠를 생성하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, SK 하이닉스의 주가 변동과 메시의 경기 활약이 주목을 끌고 있습니다. 또한, AI 기술 개발이 빠르게 진행되고 있으며, 이는 다양한 산업 분야에서 활용될 수 있을 것입니다. 이러한 트렌드에 대한 분석을 통해 비즈니스 전략을 수립할 수 있습니다. 또한, 이러한 트렌드에 대한 분석을 통해 새로운 비즈니스 기회를 찾을 수 있으며, 이는 기업의 성장과 발전에 기여할 수 있습니다.",
-  "analyzed_at": "2026-06-22T23:30:34.196Z",
+  "narrative": "최근의 트렌드는 정치, 경제, 기술 관련 주제가 많습니다. 보완수사권, 선거, 대통령 등이 주요 키워드입니다. 또한, 주식, 코스닥, 가구당 순자산 등이 주요 키워드입니다. 기술 관련 주제에서는 AI, 로봇, 스팀 머신 등이 주요 키워드입니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하면 효과적인 마케팅이 가능할 것입니다.",
+  "analyzed_at": "2026-06-23T01:00:34.130Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
