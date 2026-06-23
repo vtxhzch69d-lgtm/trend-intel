@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 투자",
-      "summary": "삼성전자와 하이닉스가 호남에 대규모 투자할 예정이다. 이 투자는 한국의 반도체 산업 발전에 큰 기여를 할 것으로 기대된다.",
+      "topic": "이동형과 오창석",
+      "summary": "이동형과 오창석의 최근 논란에 대한 обсужд",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금리",
-      "summary": "금리 인상과 경제 성장에 대한 우려가 커지고 있다. 정부의 정책 방향과 금리 변동에 대한 관심이 높아질 것으로 보인다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "정치 관련된 обсужд",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "최신 기술과 AI 개발에 대한 관심이 높아지고 있다. 이 분야의 발전은 다양한 산업에 큰 영향을 미칠 것으로 기대된다.",
-      "post_count": 12,
+      "topic": "기술",
+      "summary": "최신 기술 관련된 обсужд",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
+      "keyword": "이동형",
       "count": 15,
-      "sentiment": "positive",
-      "context": "한국의 반도체 산업 발전에 대한 기대"
+      "sentiment": "negative",
+      "context": "이동형의 최근 논란"
     },
     {
-      "keyword": "금리",
-      "count": 8,
+      "keyword": "오창석",
+      "count": 10,
       "sentiment": "negative",
-      "context": "금리 인상과 경제 성장에 대한 우려"
+      "context": "오창석의 최근 논란"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "최신 기술과 AI 개발에 대한 관심"
+      "context": "최신 기술 관련된 обсужд"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "한국의 경제와 기술 발전에 대한 기대가 높지만, 금리와 경제 성장에 대한 우려도 존재한다."
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한국의 반도체 산업은 큰 기회를 가지고 있다.",
-      "action": "반도체 산업에 대한 투자와 지원을 강화해야 한다.",
+      "insight": "이동형과 오창석의 논란은 브랜드 이미지를 악화시킬 수 있다",
+      "action": "브랜드 이미지를 회복하기 위한 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "금리와 경제 성장에 대한 우려는 기업의 의사결정에 큰 영향을 미친다.",
-      "action": "금리와 경제 성장에 대한 정보를 주시하고, 기업의 의사결정에 반영해야 한다.",
+      "insight": "최신 기술은 사업의 성장에 기여할 수 있다",
+      "action": "최신 기술을 도입하기 위한 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "한국의 경제와 기술 발전은 다양한 요인에 의해 영향을 받는다. 반도체 산업은 큰 기회를 가지고 있지만, 금리와 경제 성장에 대한 우려도 존재한다. 이러한 요인들을 고려하여 기업의 의사결정과 정책 방향을 결정해야 한다. 또한, 최신 기술과 AI 개발에 대한 관심이 높아지고 있으므로, 이 분야에 대한 투자와 지원을 강화해야 한다.",
-  "analyzed_at": "2026-06-23T10:00:35.402Z",
+  "narrative": "최근 클리앙 커뮤니티에서는 이동형과 오창석의 논란이 큰 이슈로 떠올랐다. 이에 대한 обсужд은 대부분 부정적인 분위기였다. 또한, 정치와 기술 관련된 обсужд도 많았다. 이러한 트렌드를 분석하여, 브랜드 이미지를 회복하기 위한 전략 수립과 최신 기술을 도입하기 위한 투자가 필요하다.",
+  "analyzed_at": "2026-06-23T11:30:33.765Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
