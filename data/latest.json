@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 경제",
-      "summary": "이재명 정부의 산업 정책과 경제 상황에 대한 논의가 활발합니다. 또한, 반도체 산업과 관련된 뉴스도 주목을 받고 있습니다.",
+      "topic": "정치 및 사회",
+      "summary": "최근 클리앙 커뮤니티에서 정치 및 사회 관련 주제가 많이 обсужд되고 있습니다. 특히, 법원 판결, 정치인들의 발언, 사회 문제 등이热한 관심을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제도 많은 관심을 받고 있습니다. 특히, 주식시장, 경제 지표, 금융 뉴스 등이 많이 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술 및 과학",
-      "summary": "AI, 로봇, 반도체 등 기술 관련 뉴스가 많이 등장하고 있습니다. 특히, 삼성전자와 LG전자 등의 기업이 관련 기술 개발에 앞장서고 있습니다.",
-      "post_count": 20,
+      "summary": "기술 및 과학 관련 주제도 관심을 받고 있습니다. 특히, AI, 로봇, 반도체 등이 많이 обсужд되고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "스포츠",
-      "summary": "월드컵과 관련된 뉴스 및 게시글이 나타나고 있습니다. 특히, 한국 국가대표팀의 경기 결과와 관련된 글들이 주목을 받고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 8,
+      "keyword": "정치",
+      "count": 20,
       "sentiment": "negative",
-      "context": "정치 및 경제 관련 논의에서 많이 등장"
+      "context": "정치 관련 주제가 많이 обсужд되고 있습니다."
     },
     {
-      "keyword": "반도체",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "기술 및 과학 관련 뉴스에서 많이 등장"
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 관련 주제가 많이 обсужд되고 있습니다."
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 및 과학 관련 뉴스에서 많이 등장"
+      "context": "AI 관련 주제가 많이 обсужд되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 및 과학 관련 뉴스가 많이 등장",
-      "action": "관련 기술 개발에 투자",
+      "insight": "정치 및 사회 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "정치 및 사회 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 경제 관련 논의가 활발",
-      "action": "관련 정책 및 뉴스에 주목",
+      "insight": "경제 및 금융 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "경제 및 금융 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "기술 및 과학 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "기술 및 과학 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 기술 및 과학 관련 뉴스가 많이 등장하고 있습니다. 특히, 반도체와 AI 관련 기술 개발이 주목을 받고 있습니다. 또한, 정치 및 경제 관련 논의도 활발하게 진행되고 있습니다. 이러한 트렌드를 고려하여, 관련 기술 개발에 투자하고 관련 정책 및 뉴스에 주목하는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-06-23T22:00:34.552Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치 및 사회, 경제 및 금융, 기술 및 과학 관련 주제가 많이 обсужд되고 있습니다. 이러한 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 특히, 정치 및 사회 관련 주제는 높은 우선순위를 가지고 있습니다. 또한, AI 관련 주제는 긍정적인 감정을 가지고 있습니다. 이러한 정보를 활용하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-23T23:30:35.951Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
