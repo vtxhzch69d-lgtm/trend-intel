@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다. 특히 차기 대선 주자와 관련된 게시글이 많이 올라왔습니다.",
+      "summary": "이재명 정부의 산업 정책과 차기 대선 주자에 대한 논의",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "기술 관련 게시글도 많아 기술적인 주제가 트렌드하고 있습니다. 특히 AI와 반도체 관련 게시글이 많이 올라왔습니다.",
+      "summary": "AI, 반도체, 로봇 등 기술 분야의 최신 뉴스와 개발 동향",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 게시글도 많아 경제적인 주제가 트렌드하고 있습니다. 특히 기업의 투자와 수출입 관련 게시글이 많이 올라왔습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "사회",
+      "summary": "여성소방관 사망 사건과 사회적 문제에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "이재명",
       "count": 10,
+      "sentiment": "mixed",
+      "context": "차기 대선 주자"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 게시글"
+      "context": "기술 개발"
     },
     {
       "keyword": "반도체",
-      "count": 8,
+      "count": 6,
       "sentiment": "positive",
-      "context": "반도체 산업의 성장과 관련된 게시글"
-    },
-    {
-      "keyword": "대선",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "차기 대선 주자와 관련된 게시글"
+      "context": "산업 정책"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 10,
+    "overall_mood": "복합적"
   },
   "business_insights": [
     {
-      "insight": "기술 산업의 성장",
-      "action": "기술 산업에 투자하기",
+      "insight": "기술 분야의 투자와 개발이 증가하고 있다",
+      "action": "기술 분야에 투자하고 개발에 참여한다",
       "priority": "high"
     },
     {
-      "insight": "경제 산업의 안정",
-      "action": "경제 산업에 관심 가지기",
+      "insight": "정치와 사회적 문제에 대한 논의가 활발하다",
+      "action": "정치와 사회적 문제에 대한 논의에 참여한다",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적인 불안정",
-      "action": "정치적인 상황에 주의하기",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 정치, 기술, 경제 관련 게시글이 많아 다양한 주제가 트렌드하고 있습니다. 기술 산업의 성장은 계속해서 증가할 것으로 예상되며, 경제 산업은 안정적인 상황입니다. 그러나 정치적인 상황은 불안정하여 주의가 필요합니다. 따라서 기술 산업에 투자하고, 경제 산업에 관심을 가지며, 정치적인 상황에 주의를 기울이는 것이 중요합니다.",
-  "analyzed_at": "2026-06-23T16:01:33.203Z",
+  "narrative": "최근의 트렌드는 정치, 기술, 사회 등 다양한 분야에서 활발한 논의와 개발이 진행되고 있다. 기술 분야의 투자와 개발이 증가하고 있으며, 정치와 사회적 문제에 대한 논의도 활발하다. 이러한 트렌드는 기업과 개인에게 새로운 기회와 도전을 제공하고 있다. 따라서 기술 분야에 투자하고 개발에 참여하며, 정치와 사회적 문제에 대한 논의에 참여하는 것이 중요하다.",
+  "analyzed_at": "2026-06-23T17:30:33.635Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
