@@ -1,70 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "이동형과 오창석",
-      "summary": "이동형과 오창석의 최근 논란에 대한 обсужд",
-      "post_count": 10,
+      "topic": "경제",
+      "summary": "경제 관련 문제가 논의되고 있습니다.",
+      "post_count": 100,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련된 обсужд",
-      "post_count": 15,
+      "summary": "정치 관련 문제가 논의되고 있습니다.",
+      "post_count": 50,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 관련된 обсужд",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이동형",
-      "count": 15,
+      "keyword": "경제",
+      "count": 200,
       "sentiment": "negative",
-      "context": "이동형의 최근 논란"
+      "context": "경제 관련 문제"
     },
     {
-      "keyword": "오창석",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "오창석의 최근 논란"
-    },
-    {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "최신 기술 관련된 обсужд"
+      "keyword": "정치",
+      "count": 100,
+      "sentiment": "neutral",
+      "context": "정치 관련 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 분위기"
+    "positive": 20,
+    "negative": 60,
+    "neutral": 20,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "이동형과 오창석의 논란은 브랜드 이미지를 악화시킬 수 있다",
-      "action": "브랜드 이미지를 회복하기 위한 전략 수립",
+      "insight": "경제 관련 문제가 중요하게 여겨지고 있습니다.",
+      "action": "경제 관련 문제에 대한 해결책을 제시하세요.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술은 사업의 성장에 기여할 수 있다",
-      "action": "최신 기술을 도입하기 위한 투자",
+      "insight": "정치 관련 문제가 논의되고 있습니다.",
+      "action": "정치 관련 문제에 대한 정보를 제공하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 이동형과 오창석의 논란이 큰 이슈로 떠올랐다. 이에 대한 обсужд은 대부분 부정적인 분위기였다. 또한, 정치와 기술 관련된 обсужд도 많았다. 이러한 트렌드를 분석하여, 브랜드 이미지를 회복하기 위한 전략 수립과 최신 기술을 도입하기 위한 투자가 필요하다.",
-  "analyzed_at": "2026-06-23T11:30:33.765Z",
-  "post_count": 62,
+  "narrative": "현재 뽐뿌와 클리앙 커뮤니티에서는 경제 관련 문제가 중요하게 여겨지고 있습니다. 경제 관련 문제에 대한 해결책을 제시하는 것이 중요합니다. 또한 정치 관련 문제가 논의되고 있으므로 정치 관련 문제에 대한 정보를 제공하는 것이 필요합니다. 이러한 문제에 대한 해결책을 제시하고 정보를 제공함으로써 마케팅 효과를 높일 수 있습니다.",
+  "analyzed_at": "2026-06-23T13:00:33.888Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
