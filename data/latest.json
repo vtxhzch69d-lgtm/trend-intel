@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이준석, 삼전닉스 폭락, 호남行 영향 없었을까",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크",
-      "summary": "AI, 반도체, 로봇 관련 뉴스",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치 및 경제",
+      "summary": "이재명 정부의 산업 정책과 경제 상황에 대한 논의가 활발합니다. 또한, 반도체 산업과 관련된 뉴스도 주목을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "월드컵, 축구 관련 뉴스",
-      "post_count": 5,
+      "topic": "기술 및 과학",
+      "summary": "AI, 로봇, 반도체 등 기술 관련 뉴스가 많이 등장하고 있습니다. 특히, 삼성전자와 LG전자 등의 기업이 관련 기술 개발에 앞장서고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "월드컵과 관련된 뉴스 및 게시글이 나타나고 있습니다. 특히, 한국 국가대표팀의 경기 결과와 관련된 글들이 주목을 받고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술 개발과 적용"
+      "keyword": "이재명",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 및 경제 관련 논의에서 많이 등장"
     },
     {
       "keyword": "반도체",
-      "count": 8,
+      "count": 12,
       "sentiment": "positive",
-      "context": "반도체 산업 뉴스"
+      "context": "기술 및 과학 관련 뉴스에서 많이 등장"
     },
     {
-      "keyword": "이준석",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "이준석의 발언과 영향"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 및 과학 관련 뉴스에서 많이 등장"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
     "negative": 15,
     "neutral": 10,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적이지만 약간 부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 적용이 증가하고 있다",
-      "action": "AI 기술에 투자하고 적용하기",
+      "insight": "기술 및 과학 관련 뉴스가 많이 등장",
+      "action": "관련 기술 개발에 투자",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업이 성장하고 있다",
-      "action": "반도체 산업에 투자하고 참여하기",
+      "insight": "정치 및 경제 관련 논의가 활발",
+      "action": "관련 정책 및 뉴스에 주목",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 테크, 스포츠 등 다양한 주제를 다루고 있다. AI와 반도체 산업은 성장하고 있으며, 이준석의 발언과 영향도 주목할 만하다. 기업과 마케터는 이러한 트렌드에 주목하고, AI 기술과 반도체 산업에 투자하고 참여하는 것을 고려해야 한다. 또한, 소비자들의 감정과 반응을 분석하여 효과적인 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-06-23T20:30:33.965Z",
+  "narrative": "현재의 트렌드는 기술 및 과학 관련 뉴스가 많이 등장하고 있습니다. 특히, 반도체와 AI 관련 기술 개발이 주목을 받고 있습니다. 또한, 정치 및 경제 관련 논의도 활발하게 진행되고 있습니다. 이러한 트렌드를 고려하여, 관련 기술 개발에 투자하고 관련 정책 및 뉴스에 주목하는 것이 중요할 것으로 보입니다.",
+  "analyzed_at": "2026-06-23T22:00:34.552Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
