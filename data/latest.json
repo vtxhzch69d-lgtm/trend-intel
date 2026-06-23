@@ -1,78 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "최근 경제 및 정치 관련 뉴스와 의견이 많습니다.",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "반도체 투자",
+      "summary": "삼성전자와 하이닉스가 호남에 대규모 투자할 예정이다. 이 투자는 한국의 반도체 산업 발전에 큰 기여를 할 것으로 기대된다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 관련 뉴스와 개발이 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 금리",
+      "summary": "금리 인상과 경제 성장에 대한 우려가 커지고 있다. 정부의 정책 방향과 금리 변동에 대한 관심이 높아질 것으로 보인다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 관련 문제와 의견이 다양하게 обсужд되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술 및 AI",
+      "summary": "최신 기술과 AI 개발에 대한 관심이 높아지고 있다. 이 분야의 발전은 다양한 산업에 큰 영향을 미칠 것으로 기대된다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "경제",
-      "count": 25,
-      "sentiment": "negative",
-      "context": "경기 침체와 관련된 문제"
+      "keyword": "반도체",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "한국의 반도체 산업 발전에 대한 기대"
     },
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
+      "keyword": "금리",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "금리 인상과 경제 성장에 대한 우려"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "최신 기술 개발과 적용"
-    },
-    {
-      "keyword": "반도체",
       "count": 10,
       "sentiment": "positive",
-      "context": "산업 동향과 기술 개발"
+      "context": "최신 기술과 AI 개발에 대한 관심"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적이고 다양한 의견이 존재"
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "한국의 경제와 기술 발전에 대한 기대가 높지만, 금리와 경제 성장에 대한 우려도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "기술 개발 투자",
-      "action": "최신 기술 개발에 투자하기",
+      "insight": "한국의 반도체 산업은 큰 기회를 가지고 있다.",
+      "action": "반도체 산업에 대한 투자와 지원을 강화해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 동향 분석",
-      "action": "경기 침체와 관련된 문제 분석하기",
+      "insight": "금리와 경제 성장에 대한 우려는 기업의 의사결정에 큰 영향을 미친다.",
+      "action": "금리와 경제 성장에 대한 정보를 주시하고, 기업의 의사결정에 반영해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 및 문화 문제 해결",
-      "action": "사회 및 문화 관련 문제 해결하기",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 경제 및 정치 관련 뉴스와 의견이 많습니다. 기술 및 과학 관련 뉴스와 개발도 주목을 받고 있습니다. 사회 및 문화 관련 문제와 의견이 다양하게 обсужд되고 있습니다. 이러한 동향을 분석하여 사업 전략을 수립하고 최신 기술 개발에 투자하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-23T08:30:33.657Z",
+  "narrative": "한국의 경제와 기술 발전은 다양한 요인에 의해 영향을 받는다. 반도체 산업은 큰 기회를 가지고 있지만, 금리와 경제 성장에 대한 우려도 존재한다. 이러한 요인들을 고려하여 기업의 의사결정과 정책 방향을 결정해야 한다. 또한, 최신 기술과 AI 개발에 대한 관심이 높아지고 있으므로, 이 분야에 대한 투자와 지원을 강화해야 한다.",
+  "analyzed_at": "2026-06-23T10:00:35.402Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
