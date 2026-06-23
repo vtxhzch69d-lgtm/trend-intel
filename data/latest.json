@@ -1,73 +1,79 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피와 코스닥이 급락하며 투자자들의 우려가 증가하고 있습니다. 특히, 삼성전자와 하이닉스의 주가가 큰 폭으로 떨어졌습니다.",
-      "post_count": 15,
-      "sentiment": "negative",
+      "topic": "경제 및 정치",
+      "summary": "최근 경제 및 정치 관련 뉴스와 의견이 많습니다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 기사들이出现하고 있습니다. 특히, AI의 사이버보안 역량 강화와 차세대 데이터베이스 기술 개발이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 개발이 주목을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 정책",
-      "summary": "정부의 경제 정책과 관련된 다양한 의견과 논란이出现하고 있습니다. 특히, 금투세 보유세 증세와 관련된 논란이 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화 관련 문제와 의견이 다양하게 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
+      "keyword": "경제",
+      "count": 25,
       "sentiment": "negative",
-      "context": "주식 시장의 급락과 관련된 키워드"
+      "context": "경기 침체와 관련된 문제"
+    },
+    {
+      "keyword": "정치",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 의견"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 키워드"
+      "context": "최신 기술 개발과 적용"
     },
     {
-      "keyword": "경제",
+      "keyword": "반도체",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 정책과 관련된 키워드"
+      "sentiment": "positive",
+      "context": "산업 동향과 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적이고 다양한 의견이 존재"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "투자자들에게 주의를 권고",
+      "insight": "기술 개발 투자",
+      "action": "최신 기술 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "경제 동향 분석",
+      "action": "경기 침체와 관련된 문제 분석하기",
       "priority": "medium"
     },
     {
-      "insight": "경제 정책의 논란",
-      "action": "정부의 경제 정책에 대한 의견을 수렴",
-      "priority": "medium"
+      "insight": "사회 및 문화 문제 해결",
+      "action": "사회 및 문화 관련 문제 해결하기",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 불안정성과 AI 기술의 발전이 주목을 받고 있습니다. 특히, 주식 시장의 급락과 관련된 우려가 증가하고 있으며, AI 기술의 발전은 다양한 산업 분야에서 활용될 수 있는 가능성을 가지고 있습니다. 또한, 정부의 경제 정책과 관련된 다양한 의견과 논란이出现하고 있습니다. 이러한 트렌드에 대한 분석과 이해는 비즈니스와 투자에 대한 의사 결정에 중요한 역할을 할 수 있습니다.",
-  "analyzed_at": "2026-06-23T07:00:35.360Z",
-  "post_count": 61,
+  "narrative": "최근 경제 및 정치 관련 뉴스와 의견이 많습니다. 기술 및 과학 관련 뉴스와 개발도 주목을 받고 있습니다. 사회 및 문화 관련 문제와 의견이 다양하게 обсужд되고 있습니다. 이러한 동향을 분석하여 사업 전략을 수립하고 최신 기술 개발에 투자하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-23T08:30:33.657Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
