@@ -1,44 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 논란이 되는 주제들입니다.",
-      "post_count": 1000,
-      "sentiment": "mixed",
+      "topic": "마이크론 실적",
+      "summary": "마이크론의 실적이 폭발적으로 증가했다는 내용이 여러 게시글에서 언급되고 있다. 이는 마이크론의 영업이익률이 84.9%에 달했다는 점에서 알 수 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "월드컵",
+      "summary": "월드컵 관련 게시글이 여러 개 존재한다. 캐나다의 월드컵 성적과 관련된 내용이 주를 이루고 있다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 게시글이 다수 존재한다. 이를 통해 AI 기술의 발전과 관련된 다양한 주제가 논의되고 있음을 알 수 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 500,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "마이크론",
+      "count": 7,
+      "sentiment": "positive",
+      "context": "마이크론의 실적과 관련된 게시글에서 자주 언급된다."
     },
     {
-      "keyword": "이슈",
-      "count": 200,
-      "sentiment": "negative",
-      "context": "논란 있는 주제"
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 다양한 주제에서 자주 언급된다."
+    },
+    {
+      "keyword": "월드컵",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "월드컵 관련 게시글에서 언급된다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 감정"
+    "positive": 25,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "전체적으로 긍정적인 분위기이다."
   },
   "business_insights": [
     {
-      "insight": "뽐뿌 커뮤니티에서 인기 있는 주제는 주로 논란이 되는 이슈들입니다.",
-      "action": "마케팅 전략을 조정하여 이러한 주제에 대한 대응을 준비합니다.",
+      "insight": "마이크론의 실적 증가",
+      "action": "마이크론의 주식을 매수하는 것을 고려해 볼 수 있다.",
+      "priority": "high"
+    },
+    {
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델을 개발하는 것을 고려해 볼 수 있다.",
+      "priority": "high"
+    },
+    {
+      "insight": "월드컵의 인기",
+      "action": "월드컵과 관련된 마케팅 전략을 개발하는 것을 고려해 볼 수 있다.",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 논란이 되는 주제들입니다. 이러한 주제들은 중립적이지만 약간 부정적인 감정을 가지고 있습니다. 마케터는 이러한 주제에 대한 대응을 준비하여 마케팅 전략을 조정해야 합니다. 또한, 뽐뿌 커뮤니티에서 인기 있는 키워드는 주로 커뮤니티 이름과 논란 있는 주제들입니다. 이러한 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-24T21:00:34.059Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드는 마이크론의 실적 증가와 AI 기술의 발전이 주를 이루고 있다. 이는 마이크론의 주식을 매수하는 것을 고려해 볼 수 있고, AI 기술을 활용한 비즈니스 모델을 개발하는 것을 고려해 볼 수 있다. 또한, 월드컵의 인기로 인해 관련된 마케팅 전략을 개발하는 것을 고려해 볼 수 있다. 전체적으로 긍정적인 분위기이므로, 이러한 트렌드를 활용한 비즈니스 전략을 개발하는 것이 유용할 수 있다.",
+  "analyzed_at": "2026-06-24T22:30:34.903Z",
+  "post_count": 61,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
