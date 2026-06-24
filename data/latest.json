@@ -1,75 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 유시민의 발언이 논란이 되고 있습니다. 또한, 검찰개혁과 당대표 선거에 대한 이대통령의 생각이 관심을 모으고 있습니다.",
-      "post_count": 15,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 논란이 되는 주제들입니다.",
+      "post_count": 1000,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크",
-      "summary": "테슬라의 FSD 기능이 텍사스에서 70대 사망 사고로 미 연방 조사 착수되었습니다. 또한, 현대차그룹이 팩토리OS 속도를 높이고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "4월 합계출산율이 0.93명으로 낮습니다. 또한, 쿠팡보다 더 심각한 티빙 해킹 사태가 발생했습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "이재명 대통령의 발언이 논란이 되고 있습니다."
-    },
-    {
-      "keyword": "유시민",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "유시민의 발언이 논란이 되고 있습니다."
-    },
-    {
-      "keyword": "테슬라",
-      "count": 3,
+      "keyword": "뽐뿌",
+      "count": 500,
       "sentiment": "neutral",
-      "context": "테슬라의 FSD 기능이 텍사스에서 70대 사망 사고로 미 연방 조사 착수되었습니다."
+      "context": "커뮤니티 이름"
+    },
+    {
+      "keyword": "이슈",
+      "count": 200,
+      "sentiment": "negative",
+      "context": "논란 있는 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
+    "positive": 30,
+    "negative": 40,
     "neutral": 30,
-    "overall_mood": "부정적인 감정이 강합니다."
+    "overall_mood": "중립적이지만 약간 부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치적인 이슈가 많이 논란이 되고 있습니다.",
-      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
-      "priority": "high"
-    },
-    {
-      "insight": "테크 산업이 발전하고 있습니다.",
-      "action": "테크 산업에 대한 투자를 고려해야 합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제적인 이슈가 많이 발생하고 있습니다.",
-      "action": "경제적인 이슈에 대한 대응을 준비해야 합니다.",
+      "insight": "뽐뿌 커뮤니티에서 인기 있는 주제는 주로 논란이 되는 이슈들입니다.",
+      "action": "마케팅 전략을 조정하여 이러한 주제에 대한 대응을 준비합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적인 이슈가 많이 논란이 되고 있습니다. 이재명 대통령과 유시민의 발언이 논란이 되고 있습니다. 또한, 테크 산업이 발전하고 있습니다. 테슬라의 FSD 기능이 텍사스에서 70대 사망 사고로 미 연방 조사 착수되었습니다. 경제적인 이슈도 많이 발생하고 있습니다. 4월 합계출산율이 0.93명으로 낮습니다. 쿠팡보다 더 심각한 티빙 해킹 사태가 발생했습니다. 이러한 트렌드를 분석하여 대응을 준비해야 합니다.",
-  "analyzed_at": "2026-06-24T19:30:34.100Z",
-  "post_count": 61,
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 논란이 되는 주제들입니다. 이러한 주제들은 중립적이지만 약간 부정적인 감정을 가지고 있습니다. 마케터는 이러한 주제에 대한 대응을 준비하여 마케팅 전략을 조정해야 합니다. 또한, 뽐뿌 커뮤니티에서 인기 있는 키워드는 주로 커뮤니티 이름과 논란 있는 주제들입니다. 이러한 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-24T21:00:34.059Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
