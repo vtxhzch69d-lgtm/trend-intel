@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "삼성전자와 SK하이닉스의 반도체 산업 동향이 주목을 받고 있습니다. 최근 자사주 매입과 투자 계획이 발표되었습니다.",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 연평부대 방문과 군부대 방문이 논란이 되고 있습니다. 일부에서는 그의 행동을 긍정적으로 평가하지만, 다른 일부에서는 부정적으로 평가합니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제와 정치 관련된 게시글이 많습니다. 대통령 지지율과 경제 정책이 주요 관심사입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "반도체 산업",
+      "summary": "반도체 산업은 최근 많은 관심을 받고 있습니다. 삼성전자와 SK하이닉스의 반도체 관련 뉴스가 많이 보도되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI와 기술 관련된 게시글이 증가하고 있습니다. 새로운 기술 개발과 기업의 투자 계획이 관심을 받고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술은 최근 많은 발전을 이루고 있습니다. 다양한 기업들이 AI 기술을 개발하고 적용하고 있습니다.",
       "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
@@ -24,49 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "자사주 매입과 투자 계획"
+      "keyword": "이재명",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 활동과 논란"
     },
     {
       "keyword": "반도체",
       "count": 10,
       "sentiment": "positive",
-      "context": "산업 동향과 투자 계획"
+      "context": "반도체 산업의 발전과 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 12,
       "sentiment": "positive",
-      "context": "신규 기술 개발과 기업의 투자"
+      "context": "AI 기술의 발전과 적용"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "관심과 기대가 높은 분위기"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
       "insight": "반도체 산업의 성장",
-      "action": "투자와 개발에 집중",
+      "action": "반도체 산업에 투자하기",
       "priority": "high"
     },
     {
       "insight": "AI 기술의 발전",
-      "action": "신규 기술 개발과 적용",
+      "action": "AI 기술을 적용하기",
       "priority": "medium"
     },
     {
-      "insight": "경제와 정치의 불안정성",
-      "action": "정책과 시장 동향을 주시",
-      "priority": "medium"
+      "insight": "이재명 대통령의 활동",
+      "action": "이재명 대통령의 활동을 주시하기",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 반도체 산업과 AI 기술의 성장에 대한 관심이 높습니다. 삼성전자와 SK하이닉스의 투자 계획과 신규 기술 개발이 주목을 받고 있습니다. 또한, 경제와 정치 관련된 게시글이 많으며, 대통령 지지율과 경제 정책이 주요 관심사입니다. 이러한 트렌드는 기업과 투자자에게 중요한 인사이트를 제공하며, 시장의 기대와 관심을 반영하고 있습니다.",
-  "analyzed_at": "2026-06-24T07:00:35.213Z",
+  "narrative": "最近のオンラインコミュニティのトレンドは、イ・ジェミョン大統領の活動や反ド体工業の成長などです。イ・ジェミョン大統領の活動は、賛否両論がありますが、反ド体工業の成長は、多くの企業が注目しています。また、AI技術の発展も、多くの企業が注目しています。したがって、企業は、反ド体工業やAI技術に投資することを検討する必要があります。また、イ・ジェミョン大統領の活動を注視することも重要です。",
+  "analyzed_at": "2026-06-24T08:30:39.548Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
