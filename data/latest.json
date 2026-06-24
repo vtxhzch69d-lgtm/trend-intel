@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련된 뉴스 및 개발이 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "부동산 문제",
+      "summary": "부동산 가격 상승과 월세 상승이 논란이 되고 있습니다. 정부의 부동산 정책과 시장 상황에 대한 논의가 활발합니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업의 발전과 관련된 뉴스 및 투자 동향이 주목을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 시장의 동향과 관련된 뉴스 및 분석이 주목을 받고 있습니다.",
+      "topic": "주식 시장",
+      "summary": "삼성전자와 하이닉스의 주가 변동성이 크게 나타나고 있습니다. 투자자들의 관심이 집중된 주식 시장입니다.",
       "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "이재명 대통령과 민주당의 지도력에 대한 논의가 있습니다. 정치 상황과 정부 정책에 대한 관심이 높습니다.",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "최신 AI 기술과 관련된 뉴스 및 개발"
-    },
-    {
-      "keyword": "반도체",
+      "keyword": "부동산",
       "count": 15,
-      "sentiment": "positive",
-      "context": "반도체 산업의 발전과 관련된 뉴스 및 투자 동향"
+      "sentiment": "negative",
+      "context": "부동산 가격 상승과 월세 상승에 대한 논의"
     },
     {
       "keyword": "주식",
       "count": 10,
       "sentiment": "mixed",
-      "context": "경제 및 주식 시장의 동향과 관련된 뉴스 및 분석"
+      "context": "삼성전자와 하이닉스의 주가 변동성에 대한 논의"
+    },
+    {
+      "keyword": "이재명",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "이재명 대통령과 민주당의 지도력에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
+    "positive": 10,
+    "negative": 30,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재합니다."
+    "overall_mood": "부정적인 감정으로 가득 찬 마당에, 부동산과 정치에 대한 논의가 많습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주목하고, 이를 활용하여 사업을 발전시키는 방안을 모색하세요.",
+      "insight": "부동산 시장의 불안정성",
+      "action": "부동산 투자에 대한 재고 필요",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 발전은 경제 성장에 기여할 수 있습니다.",
-      "action": "반도체 산업의 동향을 주목하고, 이를 활용하여 투자 및 사업을 발전시키는 방안을 모색하세요.",
+      "insight": "주식 시장의 변동성",
+      "action": "주식 투자에 대한 재고 필요",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 상황의 불안정성",
+      "action": "정치 상황에 대한 관심 필요",
+      "priority": "high"
     }
   ],
-  "narrative": "최신 AI 기술과 반도체 산업의 발전은 다양한 산업에 영향을 미칠 수 있습니다. 이러한 동향을 주목하고, 이를 활용하여 사업을 발전시키는 방안을 모색하는 것이 중요합니다. 또한, 경제 및 주식 시장의 동향을 주목하고, 이를 활용하여 투자 및 사업을 발전시키는 방안을 모색하는 것도 필요합니다. 전체적으로 긍정적인 분위기이지만, 일부 부정적인 의견도 존재하므로, 이러한 동향을 주목하고, 이를 활용하여 사업을 발전시키는 방안을 모색하세요.",
-  "analyzed_at": "2026-06-24T04:00:34.409Z",
+  "narrative": "현재의 트렌드는 부동산 문제와 주식 시장의 변동성, 정치 상황의 불안정성에 대한 논의가 많습니다. 부동산 가격 상승과 월세 상승이 논란이 되고 있으며, 삼성전자와 하이닉스의 주가 변동성이 크게 나타나고 있습니다. 또한, 이재명 대통령과 민주당의 지도력에 대한 논의가 있습니다. 이러한 상황에서 기업과 투자자는 부동산 투자와 주식 투자에 대한 재고가 필요하며, 정치 상황에 대한 관심도 필요합니다. 또한, 부동산 시장과 주식 시장의 변동성에 대한 분석과 대응 전략이 필요합니다.",
+  "analyzed_at": "2026-06-24T05:30:35.227Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
