@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "이재명 대통령과 관련된 다양한 정치 및 사회적인 이슈들이 논의되고 있습니다. 또한, 마녀사냥과 관련된 주제도 등장하고 있습니다.",
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 논쟁이 클리앙 커뮤니티에서热을 끌고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 대한 다양한 주제들이 논의되고 있습니다. 예를 들어, AI, 테슬라, 현대차, SK하이닉스 등이 등장하고 있습니다.",
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 제품 출시 소식이 클리앙 커뮤니티에서 주목을 끌고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제들이 논의되고 있습니다. 예를 들어, 쿠팡, 티빙, 배민 등이 등장하고 있습니다.",
+      "topic": "사회",
+      "summary": "사회 문제와 사건 사고 관련 뉴스가 클리앙 커뮤니티에서 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 10,
+      "count": 5,
       "sentiment": "negative",
-      "context": "이재명 대통령과 관련된 정치적인 이슈"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "최신 기술 및 산업 동향"
+      "context": "정치 관련 논쟁"
     },
     {
       "keyword": "테슬라",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "자동차 및 기술 산업"
+      "count": 3,
+      "sentiment": "positive",
+      "context": "테크 뉴스"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "테크 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 15,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "클리앙 커뮤니티에서 정치 관련 논쟁이 많아지고 있습니다.",
+      "action": "정치 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "이재명 대통령과 관련된 정치적인 이슈가 논의되고 있습니다.",
-      "action": "정치적인 이슈에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "최신 기술 뉴스와 제품 출시 소식이 클리앙 커뮤니티에서 주목을 끌고 있습니다.",
+      "action": "최신 기술 뉴스와 제품 출시 소식을 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드에는 정치 및 사회, 기술 및 산업, 경제 및 금융 등 다양한 주제들이 등장하고 있습니다. 특히, 최신 기술 및 산업 동향에 대한 관심이 높아지고 있으며, 이재명 대통령과 관련된 정치적인 이슈도 논의되고 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 제공하여 관심을 끌 수 있습니다. 또한, 최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-06-24T16:30:34.212Z",
+  "narrative": "클리앙 커뮤니티에서 정치 관련 논쟁과 최신 기술 뉴스가 주목을 끌고 있습니다. 사용자들은 다양한 주제에 대해 열렬하게 논의하고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 또한, 클리앙 커뮤니티에서 사용자들의 관심을 끌 수 있는 콘텐츠를 제공하여 브랜드 인지도를 높일 수 있습니다.",
+  "analyzed_at": "2026-06-24T18:01:26.255Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
