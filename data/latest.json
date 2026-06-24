@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 논쟁이 클리앙 커뮤니티에서热을 끌고 있습니다.",
+      "summary": "이재명 대통령과 유시민의 발언이 논란이 되고 있습니다. 또한, 검찰개혁과 당대표 선거에 대한 이대통령의 생각이 관심을 모으고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "테크",
-      "summary": "최신 기술 뉴스와 제품 출시 소식이 클리앙 커뮤니티에서 주목을 끌고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "summary": "테슬라의 FSD 기능이 텍사스에서 70대 사망 사고로 미 연방 조사 착수되었습니다. 또한, 현대차그룹이 팩토리OS 속도를 높이고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "사회 문제와 사건 사고 관련 뉴스가 클리앙 커뮤니티에서 논의되고 있습니다.",
-      "post_count": 10,
+      "topic": "경제",
+      "summary": "4월 합계출산율이 0.93명으로 낮습니다. 또한, 쿠팡보다 더 심각한 티빙 해킹 사태가 발생했습니다.",
+      "post_count": 8,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "이재명 대통령의 발언이 논란이 되고 있습니다."
+    },
+    {
+      "keyword": "유시민",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 관련 논쟁"
+      "context": "유시민의 발언이 논란이 되고 있습니다."
     },
     {
       "keyword": "테슬라",
       "count": 3,
-      "sentiment": "positive",
-      "context": "테크 뉴스"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "테크 뉴스"
+      "sentiment": "neutral",
+      "context": "테슬라의 FSD 기능이 텍사스에서 70대 사망 사고로 미 연방 조사 착수되었습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 10,
     "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "neutral": 30,
+    "overall_mood": "부정적인 감정이 강합니다."
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 정치 관련 논쟁이 많아지고 있습니다.",
-      "action": "정치 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "정치적인 이슈가 많이 논란이 되고 있습니다.",
+      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 출시 소식이 클리앙 커뮤니티에서 주목을 끌고 있습니다.",
-      "action": "최신 기술 뉴스와 제품 출시 소식을 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "테크 산업이 발전하고 있습니다.",
+      "action": "테크 산업에 대한 투자를 고려해야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제적인 이슈가 많이 발생하고 있습니다.",
+      "action": "경제적인 이슈에 대한 대응을 준비해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치 관련 논쟁과 최신 기술 뉴스가 주목을 끌고 있습니다. 사용자들은 다양한 주제에 대해 열렬하게 논의하고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 또한, 클리앙 커뮤니티에서 사용자들의 관심을 끌 수 있는 콘텐츠를 제공하여 브랜드 인지도를 높일 수 있습니다.",
-  "analyzed_at": "2026-06-24T18:01:26.255Z",
+  "narrative": "최근의 트렌드는 정치적인 이슈가 많이 논란이 되고 있습니다. 이재명 대통령과 유시민의 발언이 논란이 되고 있습니다. 또한, 테크 산업이 발전하고 있습니다. 테슬라의 FSD 기능이 텍사스에서 70대 사망 사고로 미 연방 조사 착수되었습니다. 경제적인 이슈도 많이 발생하고 있습니다. 4월 합계출산율이 0.93명으로 낮습니다. 쿠팡보다 더 심각한 티빙 해킹 사태가 발생했습니다. 이러한 트렌드를 분석하여 대응을 준비해야 합니다.",
+  "analyzed_at": "2026-06-24T19:30:34.100Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
