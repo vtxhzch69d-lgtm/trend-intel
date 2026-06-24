@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히 AI의 발전과 그에 따른 산업의 변화에 대한 관심이 높습니다.",
+      "topic": "정치",
+      "summary": "정청래와 이재명 대통령에 대한 논의가 활발합니다. 또한, 검찰개혁과 투표제도에 대한 관심이 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "환율과 주식에 대한 관심이 있습니다. 또한, 기업의 뉴스와 기술에 대한 논의가 활발합니다.",
       "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제도 많은 관심을 받고 있습니다. 환율과 주식 시장의 변동에 대한 우려가 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "AI와 로봇 기술에 대한 관심이 있습니다. 또한, 기업의 기술 개발과 투자에 대한 논의가 활발합니다.",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 주제도 일부 обсужд되고 있습니다. 특히 이재명 대통령과 민주당에 대한 관심이 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI의 발전과 그에 따른 산업의 변화"
-    },
-    {
-      "keyword": "환율",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "환율의 변동에 대한 우려"
+      "keyword": "정청래",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "정청래에 대한 찬양과 지지"
     },
     {
       "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "이재명 대통령과 민주당에 대한 관심"
+      "count": 4,
+      "sentiment": "negative",
+      "context": "이재명에 대한 비판과 반대"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 가능성"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기이지만 일부 부정적인 감정도 존재"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 및 기술의 발전을 주시하고, 그에 따른 산업의 변화를 예측해야 합니다.",
-      "action": "AI 및 기술 관련 연구와 개발에 투자",
+      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제에 대한 관심이 높습니다. 이에 대한 대응 전략을 수립해야 합니다.",
-      "action": "경제 및 금융 관련 뉴스와 데이터를 모니터링",
+      "insight": "기술에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 기술 개발과 투자에 대한 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술, 경제 및 금융, 정치 관련 주제가 많이 обсужд되고 있습니다. AI의 발전과 그에 따른 산업의 변화에 대한 관심이 높습니다. 또한 경제 및 금융 관련 주제에 대한 우려도 존재합니다. 이러한 트렌드를 주시하고, 그에 따른 전략을 수립해야 합니다. 특히 AI 및 기술 관련 연구와 개발에 투자하고, 경제 및 금융 관련 뉴스와 데이터를 모니터링하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-24T11:30:34.120Z",
+  "narrative": "현재의 트렌드는 정치, 경제, 기술에 대한 관심이 높아지고 있습니다. 사용자는 이러한 주제에 대한 정보를 찾고 있으며, 관련된 뉴스와 개발에 대한 관심이 높아지고 있습니다. 따라서, 이러한 주제에 대한 정보를 제공하고, 사용자의 관심을 끌어야 합니다. 또한, 기술에 대한 관심이 높아지고 있으므로, 관련된 기술 개발과 투자에 대한 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
+  "analyzed_at": "2026-06-24T13:30:34.037Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
