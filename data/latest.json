@@ -1,54 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이만희 구속",
-      "summary": "이만희 신천지 총회장이 구속되었습니다. 이에 대한 반응이 클리앙 커뮤니티에서 뜨거운 논쟁을 벌이고 있습니다.",
-      "post_count": 5,
+      "topic": "정치 및 사회",
+      "summary": "이재명 대통령과 관련된 다양한 정치 및 사회적인 이슈들이 논의되고 있습니다. 또한, 마녀사냥과 관련된 주제도 등장하고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "클리앙 커뮤니티에서 AI 기술 관련 게시물이 많이 올라왔습니다. 특히 AI 무장한 적국과 관련된 게시물이 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "기술 및 산업",
+      "summary": "최신 기술 및 산업 동향에 대한 다양한 주제들이 논의되고 있습니다. 예를 들어, AI, 테슬라, 현대차, SK하이닉스 등이 등장하고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제들이 논의되고 있습니다. 예를 들어, 쿠팡, 티빙, 배민 등이 등장하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이만희",
-      "count": 5,
+      "keyword": "이재명",
+      "count": 10,
       "sentiment": "negative",
-      "context": "신천지 총회장 구속"
+      "context": "이재명 대통령과 관련된 정치적인 이슈"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술 관련 게시물"
+      "context": "최신 기술 및 산업 동향"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "자동차 및 기술 산업"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 이만희 구속과 관련된 게시물이 많이 올라왔습니다.",
-      "action": "이번 구속 사건에 대한 반응을 분석하여 향후 마케팅 전략을 수립합니다.",
+      "insight": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 관련 게시물이 클리앙 커뮤니티에서 많이 올라왔습니다.",
-      "action": "AI 기술 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에 홍보합니다.",
+      "insight": "이재명 대통령과 관련된 정치적인 이슈가 논의되고 있습니다.",
+      "action": "정치적인 이슈에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 이만희 구속과 관련된 게시물이 많이 올라왔습니다. 이에 대한 반응은 매우 뜨거운 논쟁을 벌이고 있습니다. 또한 AI 기술 관련 게시물이 많이 올라왔습니다. 이러한 트렌드를 분석하여 향후 마케팅 전략을 수립할 수 있습니다. 특히 AI 기술 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에 홍보할 수 있습니다. 클리앙 커뮤니티의 중립적인 분위기를 고려하여 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-24T15:01:24.205Z",
+  "narrative": "최근의 트렌드에는 정치 및 사회, 기술 및 산업, 경제 및 금융 등 다양한 주제들이 등장하고 있습니다. 특히, 최신 기술 및 산업 동향에 대한 관심이 높아지고 있으며, 이재명 대통령과 관련된 정치적인 이슈도 논의되고 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 제공하여 관심을 끌 수 있습니다. 또한, 최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-24T16:30:34.212Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
