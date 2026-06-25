@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "애플 가격 인상",
-      "summary": "애플 맥북, 아이패드 가격 인상됐으며, 네오 가격 인상 119만원이네요.",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "반도체 및 AI 산업",
-      "summary": "SKT, SK하이닉스 미국 AI 투자법인에 7천억원대 출자, 크래프톤 AI 사업화 전담조직 신설",
-      "post_count": 10,
+      "topic": "맥북 프로 구매",
+      "summary": "최근 클리앙 커뮤니티에서 맥북 프로 구매 관련 게시글이 인기 있음",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": " 政治 및 사회",
-      "summary": "보완수사권 폐지, 李대통령 '자살자 감소 성과…수백명이 삶 선택한 것, 큰 보람'",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "반도체 산업",
+      "summary": "반도체 산업 관련 뉴스와 게시글이 클리앙 커뮤니티에서 활발하게 논의됨",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 뉴스와 게시글이 클리앙 커뮤니티에서 증가하는 추세임",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "애플",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "가격 인상 관련 글"
+      "keyword": "맥북 프로",
+      "count": 7,
+      "sentiment": "positive",
+      "context": "최근 구매한 사용자의 만족도 높은 반응"
+    },
+    {
+      "keyword": "반도체",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "산업 동향과 뉴스에 관한 논의"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "산업 및 기술 관련 글"
-    },
-    {
-      "keyword": "반도체",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "산업 및 기술 관련 글"
+      "context": "기술 발전과 적용 사례에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 30,
+    "overall_mood": "중립적이며 정보에 대한 관심이 높은 분위기"
   },
   "business_insights": [
     {
-      "insight": "애플 가격 인상으로 인한 시장 반응",
-      "action": "가격 전략 재검토",
+      "insight": "맥북 프로의 인기가 높아짐에 따라 관련 제품과 서비스의 수요가 증가할 수 있음",
+      "action": "관련 제품과 서비스의 개발과 마케팅에 집중할 필요가 있음",
       "priority": "high"
     },
     {
-      "insight": "AI 및 반도체 산업의 성장",
-      "action": "투자 및 기술 개발",
+      "insight": "반도체 산업의 동향과 뉴스가 클리앙 커뮤니티에서 활발하게 논의됨",
+      "action": "반도체 산업 관련 뉴스와 정보를 제공하여 사용자의 관심을 유도할 필요가 있음",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전과 적용 사례에 대한 관심이 증가하고 있음",
+      "action": "AI 기술 관련 제품과 서비스의 개발과 마케팅에 집중할 필요가 있음",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 애플의 가격 인상으로 인한 시장 반응이 주목을 끌고 있습니다. 애플의 가격 인상은 소비자들의 반응을 불러일으키고 있으며, 이는 애플의 시장 지배력에 영향을 미칠 수 있습니다. 또한, AI 및 반도체 산업의 성장은 지속적인 투자와 기술 개발을 필요로 합니다. 이러한 산업의 성장은 국가 경제에 긍정적인 영향을 미칠 수 있습니다. 따라서, 이러한 산업의 동향을 주시하고, 적절한 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-25T13:30:33.618Z",
+  "narrative": "최근 클리앙 커뮤니티에서 맥북 프로 구매 관련 게시글이 인기 있음. 또한, 반도체 산업과 AI 기술 관련 뉴스와 게시글이 활발하게 논의되고 있음. 이러한 동향은 관련 제품과 서비스의 수요가 증가할 수 있음을 시사함. 따라서, 관련 제품과 서비스의 개발과 마케팅에 집중할 필요가 있음. 또한, 반도체 산업과 AI 기술 관련 뉴스와 정보를 제공하여 사용자의 관심을 유도할 필요가 있음.",
+  "analyzed_at": "2026-06-25T15:00:35.401Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
