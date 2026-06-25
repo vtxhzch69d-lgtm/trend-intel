@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구의 최근 성적과 향후 전망에 대한 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 동향과 이를 활용한 산업 및 서비스 개발",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "애플 가격 인상",
+      "summary": "애플 맥북, 아이패드 가격 인상됐으며, 네오 가격 인상 119만원이네요.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "현재 정치 및 사회 이슈에 대한 논의와 의견 교환",
-      "post_count": 20,
-      "sentiment": "negative",
+      "topic": "반도체 및 AI 산업",
+      "summary": "SKT, SK하이닉스 미국 AI 투자법인에 7천억원대 출자, 크래프톤 AI 사업화 전담조직 신설",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": " 政治 및 사회",
+      "summary": "보완수사권 폐지, 李대통령 '자살자 감소 성과…수백명이 삶 선택한 것, 큰 보람'",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "최신 기술 및 산업 동향"
-    },
-    {
-      "keyword": "한국 축구",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "최근 성적과 향후 전망"
-    },
-    {
-      "keyword": "정치",
-      "count": 20,
+      "keyword": "애플",
+      "count": 5,
       "sentiment": "negative",
-      "context": "현재 정치 및 사회 이슈"
+      "context": "가격 인상 관련 글"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "산업 및 기술 관련 글"
+    },
+    {
+      "keyword": "반도체",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "산업 및 기술 관련 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 급격한 발전",
-      "action": "최신 기술을 활용한 서비스 개발",
+      "insight": "애플 가격 인상으로 인한 시장 반응",
+      "action": "가격 전략 재검토",
       "priority": "high"
     },
     {
-      "insight": "한국 축구의 성적 개선 필요",
-      "action": "전략적 선수 선발과 전술 개발",
+      "insight": "AI 및 반도체 산업의 성장",
+      "action": "투자 및 기술 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 및 사회 이슈의 해결 필요",
-      "action": "대화와 협력을 통한 문제 해결",
-      "priority": "high"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 AI 기술, 한국 축구, 그리고 정치 및 사회 이슈가 주된 관심사로 떠올랐다. AI 기술의 발전은 산업 및 서비스 개발에 큰 기회를 제공하지만, 한국 축구의 성적 개선과 정치 및 사회 이슈의 해결은 아직 큰 도전으로 남아 있다. 이러한 이슈에 대한 논의와 의견 교환은 온라인 커뮤니티에서 활발하게 진행되고 있다. 마케터들은 이러한 트렌드와 감정들을 이해하여 효과적인 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-06-25T12:00:34.672Z",
+  "narrative": "최근 애플의 가격 인상으로 인한 시장 반응이 주목을 끌고 있습니다. 애플의 가격 인상은 소비자들의 반응을 불러일으키고 있으며, 이는 애플의 시장 지배력에 영향을 미칠 수 있습니다. 또한, AI 및 반도체 산업의 성장은 지속적인 투자와 기술 개발을 필요로 합니다. 이러한 산업의 성장은 국가 경제에 긍정적인 영향을 미칠 수 있습니다. 따라서, 이러한 산업의 동향을 주시하고, 적절한 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-25T13:30:33.618Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
