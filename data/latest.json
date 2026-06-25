@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "홍명보 감독",
-      "summary": "홍명보 감독의 문제점과 팀의 성적에 대한 논의",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "한국 축구",
+      "summary": "한국 축구의 최근 성적과 향후 전망에 대한 논의",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "신천지",
-      "summary": "신천지와 관련된 뉴스 및 논의",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술 동향과 이를 활용한 산업 및 서비스 개발",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "最新 기술 뉴스 및 트렌드",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치 및 사회",
+      "summary": "현재 정치 및 사회 이슈에 대한 논의와 의견 교환",
+      "post_count": 20,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "홍명보",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "감독의 문제점"
-    },
-    {
-      "keyword": "신천지",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "종교 단체와 관련된 논의"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 25,
       "sentiment": "positive",
-      "context": "기술 뉴스 및 트렌드"
+      "context": "최신 기술 및 산업 동향"
+    },
+    {
+      "keyword": "한국 축구",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "최근 성적과 향후 전망"
+    },
+    {
+      "keyword": "정치",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "현재 정치 및 사회 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "홍명보 감독의 문제점을 해결해야 팀의 성적이 개선될 수 있다",
-      "action": "감독 교체 또는 팀의 전략 변경",
+      "insight": "AI 기술의 급격한 발전",
+      "action": "최신 기술을 활용한 서비스 개발",
+      "priority": "high"
+    },
+    {
+      "insight": "한국 축구의 성적 개선 필요",
+      "action": "전략적 선수 선발과 전술 개발",
       "priority": "medium"
     },
     {
-      "insight": "신천지와 관련된 논의는 계속해서 증가할 것으로 예상된다",
-      "action": "관련 뉴스 및 정보를 계속해서 모니터링",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 및 기술은 계속해서 발전할 것으로 예상된다",
-      "action": "최신 기술 뉴스 및 트렌드를 계속해서 모니터링",
+      "insight": "정치 및 사회 이슈의 해결 필요",
+      "action": "대화와 협력을 통한 문제 해결",
       "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 홍명보 감독의 문제점과 신천지와 관련된 논의, AI 및 기술의 발전에 대한 관심이 증가하고 있다. 이러한 트렌드는 팀의 성적, 종교 단체와 관련된 논의, 기술 뉴스 및 트렌드와 관련이 있다. 이러한 트렌드를 분석하여 최신 정보를 얻고, 관련된 문제를 해결하고, 새로운 기회를 찾는 데 도움이 될 수 있다.",
-  "analyzed_at": "2026-06-25T10:30:33.645Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서는 AI 기술, 한국 축구, 그리고 정치 및 사회 이슈가 주된 관심사로 떠올랐다. AI 기술의 발전은 산업 및 서비스 개발에 큰 기회를 제공하지만, 한국 축구의 성적 개선과 정치 및 사회 이슈의 해결은 아직 큰 도전으로 남아 있다. 이러한 이슈에 대한 논의와 의견 교환은 온라인 커뮤니티에서 활발하게 진행되고 있다. 마케터들은 이러한 트렌드와 감정들을 이해하여 효과적인 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-06-25T12:00:34.672Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
