@@ -1,60 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구의 최근 성적과 홍명보 감독의 경질 여부가 논란이 되고 있습니다. 일부 팬들은 감독의 실력을 비판하며 경질을 주장하고 있습니다.",
-      "post_count": 20,
-      "sentiment": "negative",
+      "topic": "월드컵",
+      "summary": "한국의 월드컵 경기 결과와 관련된 게시글이 많습니다. 팬들의 반응과 분석이热을 모으고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 특히, 반도체와 로봇 분야에서 AI의 적용이 증가하고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 게시글이 많습니다. 보완수사권 폐지와 관련된 논의가 진행되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "기술 관련 게시글이 많습니다. AI와 반도체 관련 뉴스가 주를 이루고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "홍명보",
-      "count": 10,
+      "keyword": "월드컵",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "한국의 월드컵 경기 결과와 관련된 게시글"
+    },
+    {
+      "keyword": "보완수사권",
+      "count": 5,
       "sentiment": "negative",
-      "context": "한국 축구 감독"
+      "context": "보완수사권 폐지와 관련된 논의"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "인공지능 기술"
-    },
-    {
-      "keyword": "한국 축구",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "한국 축구 팀의 성적과 관련된 글"
+      "context": "AI 관련 뉴스와 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 글들이 더 많은 것으로 나타났습니다."
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국 축구의 성적과 관련된 글들이 많은 것으로 나타났습니다.",
-      "action": "한국 축구 팀의 마케팅 전략을 재검토할 필요가 있습니다.",
+      "insight": "월드컵 관련 마케팅 기회",
+      "action": "월드컵 관련 프로모션과 이벤트를 진행",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 다양한 산업의 성장에 기여하고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발할 필요가 있습니다.",
+      "insight": "AI 기술 개발",
+      "action": "AI 관련 연구와 개발에 투자",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 논의",
+      "action": "정치 관련 뉴스와 논의를 주시",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서 한국 축구와 관련된 글들이 많은 것으로 나타났습니다. 일부 팬들은 감독의 실력을 비판하며 경질을 주장하고 있습니다. 또한, AI 기술의 발전이 다양한 산업의 성장에 기여하고 있습니다. 이러한 트렌드를 반영하여 한국 축구 팀의 마케팅 전략을 재검토하고, AI 기술을 활용한 새로운 비즈니스 모델을 개발할 필요가 있습니다. 특히, 한국 축구 팀의 성적과 관련된 글들이 많은 것으로 나타났으므로, 팀의 마케팅 전략을 재검토하여 팬들의 지지를 얻는 것이 중요할 것입니다. 또한, AI 기술의 발전이 다양한 산업의 성장에 기여하고 있으므로, 새로운 비즈니스 모델을 개발하여 시장의 기회를 잡는 것이 중요할 것입니다.",
-  "analyzed_at": "2026-06-25T04:00:34.906Z",
+  "narrative": "현재의 트렌드는 월드컵과 정치, 기술 관련 주제를 중심으로 진행되고 있습니다. 월드컵 관련 마케팅 기회를 활용하고, AI 기술 개발에 투자하는 것이 중요할 것으로 보입니다. 또한, 정치 관련 논의를 주시하여 사업에 영향을 미칠 수 있는 요인을 예측할 수 있습니다.",
+  "analyzed_at": "2026-06-25T05:30:33.661Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
