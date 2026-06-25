@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구 대표팀의 최근 성적과 홍명보 감독의 경질 여부가 논란이 되고 있습니다. 일부 팬들은 감독의 책임을 묻고 있지만, 다른 팬들은 팀의 문제점을 더 깊이 분석해야 한다고 주장합니다.",
-      "post_count": 15,
+      "topic": "홍명보 감독",
+      "summary": "홍명보 감독의 문제점과 팀의 성적에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "신천지",
+      "summary": "신천지와 관련된 뉴스 및 논의",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많이 올라왔습니다. 일부 게시글은 정부의 정책을 비판하고, 다른 게시글은 정치家的 활동을 분석하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "기술 관련된 게시글이 많이 올라왔습니다. 일부 게시글은 새로운 기술의 개발을介绍하고, 다른 게시글은 기술의 적용을 분석하고 있습니다.",
-      "post_count": 8,
+      "topic": "AI 및 기술",
+      "summary": "最新 기술 뉴스 및 트렌드",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국 축구",
-      "count": 20,
+      "keyword": "홍명보",
+      "count": 7,
       "sentiment": "negative",
-      "context": "한국 축구 대표팀의 최근 성적과 홍명보 감독의 경질 여부"
+      "context": "감독의 문제점"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정부의 정책과 정치家的 활동"
+      "keyword": "신천지",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "종교 단체와 관련된 논의"
     },
     {
-      "keyword": "기술",
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "新的 기술의 개발과 적용"
+      "context": "기술 뉴스 및 트렌드"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재되어 있습니다."
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한국 축구 대표팀의 최근 성적이 팬들의 관심을 끌고 있습니다.",
-      "action": "한국 축구 대표팀의 마케팅 전략을 재평가해야 합니다.",
+      "insight": "홍명보 감독의 문제점을 해결해야 팀의 성적이 개선될 수 있다",
+      "action": "감독 교체 또는 팀의 전략 변경",
+      "priority": "medium"
+    },
+    {
+      "insight": "신천지와 관련된 논의는 계속해서 증가할 것으로 예상된다",
+      "action": "관련 뉴스 및 정보를 계속해서 모니터링",
       "priority": "high"
     },
     {
-      "insight": "기술 관련된 게시글이 많이 올라왔습니다.",
-      "action": "기술 관련된 마케팅 전략을 개발해야 합니다.",
-      "priority": "medium"
+      "insight": "AI 및 기술은 계속해서 발전할 것으로 예상된다",
+      "action": "최신 기술 뉴스 및 트렌드를 계속해서 모니터링",
+      "priority": "high"
     }
   ],
-  "narrative": "最近의 한국 온라인 커뮤니티 트렌드는 한국 축구 대표팀의 최근 성적과 정치 관련된 게시글이 많았습니다. 일부 팬들은 감독의 책임을 묻고 있지만, 다른 팬들은 팀의 문제점을 더 깊이 분석해야 한다고 주장합니다. 기술 관련된 게시글도 많이 올라왔습니다. 이러한 트렌드를 분석하여 마케팅 전략을 개발해야 합니다. 한국 축구 대표팀의 마케팅 전략을 재평가하고, 기술 관련된 마케팅 전략을 개발해야 합니다.",
-  "analyzed_at": "2026-06-25T09:00:34.258Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 홍명보 감독의 문제점과 신천지와 관련된 논의, AI 및 기술의 발전에 대한 관심이 증가하고 있다. 이러한 트렌드는 팀의 성적, 종교 단체와 관련된 논의, 기술 뉴스 및 트렌드와 관련이 있다. 이러한 트렌드를 분석하여 최신 정보를 얻고, 관련된 문제를 해결하고, 새로운 기회를 찾는 데 도움이 될 수 있다.",
+  "analyzed_at": "2026-06-25T10:30:33.645Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
