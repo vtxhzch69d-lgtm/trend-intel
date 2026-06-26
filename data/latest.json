@@ -2,66 +2,59 @@
   "trending_topics": [
     {
       "topic": "유시민",
-      "summary": "유시민의 발언과 행동에 대한 논란과 비판",
-      "post_count": 15,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "최신 기술 뉴스와 개발 동향",
+      "summary": "유시민 작가에 대한 다양한 의견과 반응이 나타남. 일부에서는 그의 정치적 입장과 발언을 비판하며, 다른 일부에서는 그의 의견을 지지하고 있음.",
       "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치와 경제",
-      "summary": "정치와 경제 뉴스 및 논평",
-      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "테크 뉴스",
+      "summary": "최신 기술 뉴스와 트렌드에 대한 관심이 집중됨. AI, 로봇, 반도체 등 다양한 기술 분야의 뉴스가 포함됨.",
+      "post_count": 30,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "유시민",
-      "count": 20,
+      "count": 25,
       "sentiment": "negative",
-      "context": "유시민의 발언과 행동에 대한 비판"
+      "context": "유시민 작가에 대한 비판과 반발"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 개발 동향"
+      "context": "인공지능 기술과 관련된 뉴스와 트렌드"
     },
     {
-      "keyword": "정치",
+      "keyword": "반도체",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 뉴스 및 논평"
+      "sentiment": "neutral",
+      "context": "반도체 산업과 관련된 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적이고 정보를 중시하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "유시민의 발언과 행동에 대한 비판이 높아지고 있다",
-      "action": "유시민의 발언과 행동에 대한 반응을 주시하고 대응 策略을 수립해야 한다",
-      "priority": "high"
+      "insight": "유시민 작가에 대한 반응을 분석하여 정치적 입장과 의견을 이해할 수 있음",
+      "action": "유시민 작가의 발언과 행동을 주시하고, 이를 통해 정치적 트렌드와 여론을 분석할 수 있음",
+      "priority": "medium"
     },
     {
-      "insight": "AI와 기술에 대한 관심이 높아지고 있다",
-      "action": "최신 기술 뉴스와 개발 동향을 주시하고 이를 활용한 비즈니스 기회를 탐색해야 한다",
-      "priority": "medium"
+      "insight": "테크 뉴스와 트렌드에 대한 관심이 높아짐",
+      "action": "최신 기술 뉴스와 트렌드에 대한 정보를 제공하고, 이를 통해 기술 산업과 관련된 비즈니스 기회를 찾을 수 있음",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 유시민의 발언과 행동에 대한 비판이 높아지고 있다. 이는 정치와 경제 뉴스 및 논평에서도 나타나고 있다. 또한, AI와 기술에 대한 관심이 높아지고 있으며, 최신 기술 뉴스와 개발 동향을 주시하고 이를 활용한 비즈니스 기회를 탐색하는 것이 중요하다. 중립적인 감정도 존재하지만, 부정적인 감정도 존재하기 때문에 이를 주시하고 대응 策略을 수립해야 한다.",
-  "analyzed_at": "2026-06-26T18:00:34.073Z",
+  "narrative": "최근의 트렌드는 유시민 작가에 대한 다양한 의견과 반응, 그리고 테크 뉴스와 트렌드에 대한 관심이 집중됨을 보여줌. 유시민 작가에 대한 반응을 분석하여 정치적 입장과 의견을 이해할 수 있고, 테크 뉴스와 트렌드에 대한 정보를 제공하여 기술 산업과 관련된 비즈니스 기회를 찾을 수 있음. 또한, 전체적인 분위기는 중립적이고 정보를 중시하는 분위기임을 알 수 있음.",
+  "analyzed_at": "2026-06-26T19:30:34.036Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
