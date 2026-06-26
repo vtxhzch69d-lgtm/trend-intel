@@ -1,67 +1,104 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "한국 축구 대표팀의 월드컵 경기 결과와 관련된 게시글이 많습니다. 대표팀의 성적과 경기 분석이 주를 이루고 있습니다.",
+      "topic": "정치",
+      "summary": "이재명 대통령과 검찰개혁, 민주당의 형사소송법안 등 정치 관련 주제가热하다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI와 관련된 기술 뉴스 및 개발이 주목을 받고 있습니다. 애플, 삼성, SK하이닉스 등의 기업이 관련된 게시글이 많습니다.",
-      "post_count": 20,
+      "topic": "주식",
+      "summary": "주식시장의 변동과 투자 전략 등 주식 관련 주제가 인기 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부동산",
+      "summary": "부동산 시장이 민주정부의 아킬레스건이라는 의견이 있다.",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "low"
+    },
+    {
+      "topic": "스포츠",
+      "summary": "월드컵과 축구 관련 주제가 인기 있다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스가 일부 게시글에서 다루어지고 있습니다. 정부의 정책과 기업의 투자 등이 언급되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "AI와 반도체 관련 주제가熱하다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 20,
+      "keyword": "이재명",
+      "count": 10,
       "sentiment": "mixed",
-      "context": "한국 축구 대표팀의 경기 결과와 분석"
+      "context": "정치"
+    },
+    {
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "경제"
+    },
+    {
+      "keyword": "부동산",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "경제"
+    },
+    {
+      "keyword": "월드컵",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "스포츠"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "기술 개발과 기업의 투자"
+      "context": "기술"
     },
     {
-      "keyword": "애플",
-      "count": 5,
+      "keyword": "반도체",
+      "count": 10,
       "sentiment": "positive",
-      "context": "신제품 출시와 기술 개발"
+      "context": "기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 투자가 증가하고 있습니다.",
-      "action": "AI 기술 개발에 투자하고, 관련된 뉴스와 트렌드를 주시하세요.",
+      "insight": "정치와 경제는 밀접한 관련이 있다.",
+      "action": "정치와 경제의 동향을 주시해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "월드컵과 관련된 마케팅 기회가 있습니다.",
-      "action": "월드컵과 관련된 이벤트나 프로모션을 계획하세요.",
+      "insight": "AI와 반도체는 미래의 핵심 기술이다.",
+      "action": "AI와 반도체에 대한 투자를 고려해야 한다.",
+      "priority": "high"
+    },
+    {
+      "insight": "스포츠는人们의 관심을 끌 수 있다.",
+      "action": "스포츠 마케팅을 고려해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 월드컵과 AI 기술 개발을 중심으로 하고 있습니다. 기업들은 AI 기술 개발에 투자하고, 관련된 뉴스와 트렌드를 주시해야 합니다. 또한, 월드컵과 관련된 마케팅 기회를 잡아야 합니다. 중립적인 분위기이지만, 약간 긍정적인 분위기가 감지됩니다. 따라서, 기업들은 긍정적인 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-06-26T00:00:33.884Z",
+  "narrative": "현재의 트렌드는 정치, 주식, 부동산, 스포츠, 기술 등 다양한 주제로 구성되어 있다. 정치와 경제는 밀접한 관련이 있으며, AI와 반도체는 미래의 핵심 기술이다. 스포츠는人们의 관심을 끌 수 있는 중요한 마케팅 채널이다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-06-26T03:01:23.782Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
