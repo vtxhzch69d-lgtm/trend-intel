@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "팀쿡의 램값 비싸단 불평에 마이크론이 일침놨네요. 마이크론은 팀쿡의 발언에 대해 반도체 산업의 상황을 설명하며 일침을 놨다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "주식 시장",
-      "summary": "요즘처럼 주식시장이 홀짝 게임일때... 주식 시장의 상황을 논의하는 게시글이 많다.",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 총리 후보자 청문회, 중국과의 관계, 법사위원장에 대한 논란 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "보수층 일제히 전라도 반도체 공장 반대. 보수층이 전라도 반도체 공장에 반대하는 게시글이 있다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 개발이 많은 것으로 나타났습니다. AI, 로봇, 반도체 등 다양한 기술 분야가 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 분석이 많은 것으로 나타났습니다. 기름값, 전기 생산, 무인차량 등 다양한 경제 주제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "반도체 산업과 관련된 게시글이 많다."
-    },
-    {
-      "keyword": "주식",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "주식 시장의 상황을 논의하는 게시글이 많다."
+      "sentiment": "positive",
+      "context": "최신 기술 개발과 적용"
     },
     {
       "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 논란"
+    },
+    {
+      "keyword": "반도체",
       "count": 5,
-      "sentiment": "negative",
-      "context": "정치와 관련된 게시글이 있다."
+      "sentiment": "positive",
+      "context": "기술 개발과 경제 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기이지만, 약간 부정적인 감정도 존재한다."
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 상황을 주의 깊게 관찰해야 한다.",
-      "action": "반도체 산업의 동향을 분석하고, 이를 사업에 반영한다.",
+      "insight": "최신 기술 개발과 적용",
+      "action": "기술 투자와 개발",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 상황을 주의 깊게 관찰해야 한다.",
-      "action": "주식 시장의 동향을 분석하고, 이를 사업에 반영한다.",
+      "insight": "정치 관련 뉴스와 논란",
+      "action": "정책 분석과 대응",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스와 분석",
+      "action": "경제 분석과 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 반도체 산업과 주식 시장의 상황이 주목을 끌고 있다. 반도체 산업의 경우, 팀쿡의 램값 비싸단 불평에 마이크론이 일침놨네요. 주식 시장의 경우, 요즘처럼 주식시장이 홀짝 게임일때...라는 게시글이 많다. 또한, 정치와 관련된 게시글도 존재한다. 이러한 트렌드들을 분석하여, 사업에 반영할 수 있는 인사이트를 얻을 수 있다. 반도체 산업의 상황을 주의 깊게 관찰하고, 주식 시장의 동향을 분석하여, 이를 사업에 반영하는 것이 중요하다.",
-  "analyzed_at": "2026-06-26T07:30:33.865Z",
+  "narrative": "최근 정치, 기술, 경제 등 다양한 주제가 논의되고 있습니다. 최신 기술 개발과 적용, 정치 관련 뉴스와 논란, 경제 관련 뉴스와 분석 등 다양한 주제가 중요한 것으로 나타났습니다. 이러한 주제를 분석하고 이해하는 것은 비즈니스와 마케팅 전략을 수립하는 데 중요한 것으로 나타났습니다.",
+  "analyzed_at": "2026-06-26T09:01:33.587Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
