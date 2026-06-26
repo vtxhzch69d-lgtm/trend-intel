@@ -2,59 +2,71 @@
   "trending_topics": [
     {
       "topic": "유시민",
-      "summary": "유시민 작가에 대한 다양한 의견과 반응이 나타남. 일부에서는 그의 정치적 입장과 발언을 비판하며, 다른 일부에서는 그의 의견을 지지하고 있음.",
-      "post_count": 20,
+      "summary": "유시민 작가의 정치적 발언과 활동에 대한 논의",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "최신 기술 뉴스와 트렌드에 대한 관심이 집중됨. AI, 로봇, 반도체 등 다양한 기술 분야의 뉴스가 포함됨.",
-      "post_count": 30,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "반도체",
+      "summary": "반도체 산업의 동향과 기술 개발에 대한 논의",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI",
+      "summary": "인공지능 기술의 발전과 적용에 대한 논의",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "유시민",
-      "count": 25,
-      "sentiment": "negative",
-      "context": "유시민 작가에 대한 비판과 반발"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "인공지능 기술과 관련된 뉴스와 트렌드"
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "정치적 발언과 활동"
     },
     {
       "keyword": "반도체",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "반도체 산업과 관련된 뉴스와 트렌드"
+      "sentiment": "positive",
+      "context": "산업 동향과 기술 개발"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "기술 발전과 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적이고 정보를 중시하는 분위기"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적이고 정보적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "유시민 작가에 대한 반응을 분석하여 정치적 입장과 의견을 이해할 수 있음",
-      "action": "유시민 작가의 발언과 행동을 주시하고, 이를 통해 정치적 트렌드와 여론을 분석할 수 있음",
-      "priority": "medium"
+      "insight": "반도체 산업의 성장",
+      "action": "반도체 관련 기술 개발에 투자",
+      "priority": "high"
     },
     {
-      "insight": "테크 뉴스와 트렌드에 대한 관심이 높아짐",
-      "action": "최신 기술 뉴스와 트렌드에 대한 정보를 제공하고, 이를 통해 기술 산업과 관련된 비즈니스 기회를 찾을 수 있음",
+      "insight": "AI 기술의 발전",
+      "action": "AI 관련 기술 개발에 투자",
       "priority": "high"
+    },
+    {
+      "insight": "유시민의 정치적 영향력",
+      "action": "유시민의 발언과 활동을 주시",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 유시민 작가에 대한 다양한 의견과 반응, 그리고 테크 뉴스와 트렌드에 대한 관심이 집중됨을 보여줌. 유시민 작가에 대한 반응을 분석하여 정치적 입장과 의견을 이해할 수 있고, 테크 뉴스와 트렌드에 대한 정보를 제공하여 기술 산업과 관련된 비즈니스 기회를 찾을 수 있음. 또한, 전체적인 분위기는 중립적이고 정보를 중시하는 분위기임을 알 수 있음.",
-  "analyzed_at": "2026-06-26T19:30:34.036Z",
+  "narrative": "최근의 트렌드 분석 결과, 유시민 작가의 정치적 발언과 활동, 반도체 산업의 동향과 기술 개발, AI 기술의 발전이 주요한 주제로 등장했습니다. 이러한 주제들은 중립적이고 정보적인 분위기를 형성하고 있으며, 반도체 산업과 AI 기술의 발전은 높은 우선순위를 갖는 사업 기회로 나타났습니다. 또한, 유시민의 정치적 영향력은 중간 우선순위를 갖는 주제로 나타났습니다. 이러한 결과는 사업 기회와 위험을 식별하고, 전략적 의사 결정을 지원하는 데 도움이 될 수 있습니다.",
+  "analyzed_at": "2026-06-26T21:00:33.841Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
