@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 혼돈과 등락에 대한 관심이 집중되고 있습니다. 투자자들은 주식 시장의 변동에 대해 우려하고 있습니다.",
-      "post_count": 15,
+      "topic": "김건희 관련 뉴스",
+      "summary": "김건희씨 관련된 여러 뉴스가 최근에 많이 보도되고 있습니다. 특히, 서희건설 금품수수와 관련된 뉴스가 많이 나오고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 사용자들은 경기 결과와 선수들의 활약에 대해 논의하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "한국 축구",
+      "summary": "한국 축구의 최근 경기 결과와 관련된 뉴스가 많이 나오고 있습니다. 특히, 월드컵과 관련된 뉴스가 많이 보도되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 뉴스가 많습니다. 사용자들은 최신 기술 발전에 대해 관심을 보이고 있습니다.",
-      "post_count": 20,
+      "summary": "AI와 관련된 기술 뉴스가 많이 나오고 있습니다. 특히, 애플, 삼성, SKT와 관련된 뉴스가 많이 보도되고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
+      "keyword": "김건희",
+      "count": 12,
       "sentiment": "negative",
-      "context": "주식 시장의 혼돈과 등락"
+      "context": "서희건설 금품수수와 관련된 뉴스"
     },
     {
-      "keyword": "월드컵",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "월드컵 경기 결과와 관련된 게시글"
+      "keyword": "한국 축구",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "월드컵과 관련된 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI와 기술 관련 뉴스"
+      "context": "애플, 삼성, SKT와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 혼돈과 등락에 대한 관심이 집중되고 있습니다.",
-      "action": "투자자들에게 주식 시장의 변동에 대한 정보를 제공하고 안정적인 투자 전략을 제안합니다.",
+      "insight": "김건희 관련 뉴스가 많이 보도되고 있습니다. 이에 따라 정치와 관련된 뉴스가 많이 나올 수 있습니다.",
+      "action": "정치 뉴스와 관련된 콘텐츠를 준비하세요.",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련 뉴스가 많습니다.",
-      "action": "최신 기술 발전에 대한 정보를 제공하고 관련 제품이나 서비스를 개발합니다.",
+      "insight": "AI와 관련된 기술 뉴스가 많이 나오고 있습니다. 이에 따라 기술과 관련된 뉴스가 많이 나올 수 있습니다.",
+      "action": "기술 뉴스와 관련된 콘텐츠를 준비하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 주식 시장의 혼돈과 등락, 월드컵 경기 결과, AI와 기술 관련 뉴스 등으로 나타났습니다. 사용자들은 주식 시장의 변동에 대해 우려하고 있으며, 최신 기술 발전에 대한 관심이 높습니다. 이러한 트렌드를 고려하여 투자자들에게 안정적인 투자 전략을 제안하고, 최신 기술 발전에 대한 정보를 제공하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-26T04:30:34.026Z",
+  "narrative": "最近のニュースを分析した結果、김건희 관련 뉴스와 한국 축구, AI와 기술 뉴스가 많이 보도되고 있음을 알 수 있습니다. 특히, 김건희 관련 뉴스는 부정적인 기운이 감지되며, 정치와 관련된 뉴스가 많이 나올 수 있습니다. 또한, AI와 관련된 기술 뉴스는 긍정적인 기운이 감지되며, 기술과 관련된 뉴스가 많이 나올 수 있습니다. 따라서, 정치와 기술 뉴스와 관련된 콘텐츠를 준비하여 대응할 필요가 있습니다.",
+  "analyzed_at": "2026-06-26T06:01:27.590Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
