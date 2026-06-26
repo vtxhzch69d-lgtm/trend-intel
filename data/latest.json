@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 총리 후보자 청문회, 중국과의 관계, 법사위원장에 대한 논란 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "한국 축구",
+      "summary": "한국 축구의 최근 상황과 전망에 대한 논의",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 개발이 많은 것으로 나타났습니다. AI, 로봇, 반도체 등 다양한 기술 분야가 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 동향과 전망에 대한 논의",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많은 것으로 나타났습니다. 기름값, 전기 생산, 무인차량 등 다양한 경제 주제가 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 ứng dụng에 대한 논의",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 개발과 적용"
-    },
-    {
-      "keyword": "정치",
+      "keyword": "한국 축구",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논란"
+      "sentiment": "negative",
+      "context": "한국 축구의 최근 상황과 전망"
     },
     {
       "keyword": "반도체",
-      "count": 5,
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "반도체 산업의 동향과 전망"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 개발과 경제 분석"
+      "context": "AI 기술의 발전과 ứng dụng"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 30,
+    "negative": 30,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 개발과 적용",
-      "action": "기술 투자와 개발",
+      "insight": "한국 축구의 최근 상황과 전망에 대한 논의가 많아지고 있다",
+      "action": "한국 축구 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 논란",
-      "action": "정책 분석과 대응",
+      "insight": "반도체 산업의 동향과 전망에 대한 논의가 많아지고 있다",
+      "action": "반도체 산업 관련 콘텐츠 개발",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 뉴스와 분석",
-      "action": "경제 분석과 전략 수립",
-      "priority": "low"
+      "insight": "AI 기술의 발전과 ứng dụng에 대한 논의가 많아지고 있다",
+      "action": "AI 기술 관련 콘텐츠 개발",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 정치, 기술, 경제 등 다양한 주제가 논의되고 있습니다. 최신 기술 개발과 적용, 정치 관련 뉴스와 논란, 경제 관련 뉴스와 분석 등 다양한 주제가 중요한 것으로 나타났습니다. 이러한 주제를 분석하고 이해하는 것은 비즈니스와 마케팅 전략을 수립하는 데 중요한 것으로 나타났습니다.",
-  "analyzed_at": "2026-06-26T09:01:33.587Z",
+  "narrative": "最近の韓国オンラインコミュニティのトレンド分析によると、韓国サッカー、半導体産業、AI技術がトレンドとなっていることがわかります。韓国サッカーの最近の状況と展望に関する議論が多くなっていますが、感情はネガティブです。半導体産業の動向と展望に関する議論も多くなっていますが、感情は中立的です。AI技術の進歩と応用に関する議論も多くなっていますが、感情はポジティブです。したがって、韓国サッカー、半導体産業、AI技術に関するコンテンツ開発が必要です。",
+  "analyzed_at": "2026-06-26T10:30:34.189Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
