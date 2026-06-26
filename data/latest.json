@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "유시민",
-      "summary": "유시민의 발언과 행동에 대한 논란과 지지",
+      "summary": "유시민의 발언과 행동에 대한 논란과 비판",
       "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "한국 정치 상황과 대통령의 개입에 대한 논란",
-      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 개발",
+      "topic": "AI와 기술",
+      "summary": "최신 기술 뉴스와 개발 동향",
       "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "low"
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치와 경제",
+      "summary": "정치와 경제 뉴스 및 논평",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "유시민",
       "count": 20,
-      "sentiment": "mixed",
-      "context": "유시민의 발언과 행동에 대한 논란과 지지"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
       "sentiment": "negative",
-      "context": "한국 정치 상황과 대통령의 개입에 대한 논란"
+      "context": "유시민의 발언과 행동에 대한 비판"
     },
     {
       "keyword": "AI",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "최신 기술 뉴스와 개발 동향"
+    },
+    {
+      "keyword": "정치",
       "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스와 개발"
+      "sentiment": "mixed",
+      "context": "정치 뉴스 및 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 25,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적이지만 부정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "유시민의 발언과 행동에 대한 논란은 정치적 분위기를 반영한다",
-      "action": "정치적 상황을 주시하고 대응한다",
+      "insight": "유시민의 발언과 행동에 대한 비판이 높아지고 있다",
+      "action": "유시민의 발언과 행동에 대한 반응을 주시하고 대응 策略을 수립해야 한다",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 개발은 긍정적인 반응을 불러일으킨다",
-      "action": "최신 기술 뉴스와 개발에 대한 콘텐츠를 생성한다",
+      "insight": "AI와 기술에 대한 관심이 높아지고 있다",
+      "action": "최신 기술 뉴스와 개발 동향을 주시하고 이를 활용한 비즈니스 기회를 탐색해야 한다",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드는 유시민의 발언과 행동에 대한 논란과 정치적 상황, 최신 기술 뉴스와 개발에 대한 관심이 높아지고 있다. 이러한 트렌드는 정치적 분위기와 기술적 발전에 대한 관심을 반영한다. 따라서 정치적 상황을 주시하고 대응하며, 최신 기술 뉴스와 개발에 대한 콘텐츠를 생성하는 것이 중요하다.",
-  "analyzed_at": "2026-06-26T16:30:34.250Z",
+  "narrative": "최근 클리앙 커뮤니티에서 유시민의 발언과 행동에 대한 비판이 높아지고 있다. 이는 정치와 경제 뉴스 및 논평에서도 나타나고 있다. 또한, AI와 기술에 대한 관심이 높아지고 있으며, 최신 기술 뉴스와 개발 동향을 주시하고 이를 활용한 비즈니스 기회를 탐색하는 것이 중요하다. 중립적인 감정도 존재하지만, 부정적인 감정도 존재하기 때문에 이를 주시하고 대응 策略을 수립해야 한다.",
+  "analyzed_at": "2026-06-26T18:00:34.073Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
