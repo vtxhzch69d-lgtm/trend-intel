@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "김건희 관련 뉴스",
-      "summary": "김건희씨 관련된 여러 뉴스가 최근에 많이 보도되고 있습니다. 특히, 서희건설 금품수수와 관련된 뉴스가 많이 나오고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "한국 축구",
-      "summary": "한국 축구의 최근 경기 결과와 관련된 뉴스가 많이 나오고 있습니다. 특히, 월드컵과 관련된 뉴스가 많이 보도되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "반도체 산업",
+      "summary": "팀쿡의 램값 비싸단 불평에 마이크론이 일침놨네요. 마이크론은 팀쿡의 발언에 대해 반도체 산업의 상황을 설명하며 일침을 놨다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 관련된 기술 뉴스가 많이 나오고 있습니다. 특히, 애플, 삼성, SKT와 관련된 뉴스가 많이 보도되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "주식 시장",
+      "summary": "요즘처럼 주식시장이 홀짝 게임일때... 주식 시장의 상황을 논의하는 게시글이 많다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "보수층 일제히 전라도 반도체 공장 반대. 보수층이 전라도 반도체 공장에 반대하는 게시글이 있다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "김건희",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "서희건설 금품수수와 관련된 뉴스"
+      "keyword": "반도체",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "반도체 산업과 관련된 게시글이 많다."
     },
     {
-      "keyword": "한국 축구",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "월드컵과 관련된 뉴스"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "주식",
       "count": 10,
-      "sentiment": "positive",
-      "context": "애플, 삼성, SKT와 관련된 뉴스"
+      "sentiment": "mixed",
+      "context": "주식 시장의 상황을 논의하는 게시글이 많다."
+    },
+    {
+      "keyword": "정치",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치와 관련된 게시글이 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 부정적인 기운이 감지됩니다."
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기이지만, 약간 부정적인 감정도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "김건희 관련 뉴스가 많이 보도되고 있습니다. 이에 따라 정치와 관련된 뉴스가 많이 나올 수 있습니다.",
-      "action": "정치 뉴스와 관련된 콘텐츠를 준비하세요.",
+      "insight": "반도체 산업의 상황을 주의 깊게 관찰해야 한다.",
+      "action": "반도체 산업의 동향을 분석하고, 이를 사업에 반영한다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술 뉴스가 많이 나오고 있습니다. 이에 따라 기술과 관련된 뉴스가 많이 나올 수 있습니다.",
-      "action": "기술 뉴스와 관련된 콘텐츠를 준비하세요.",
+      "insight": "주식 시장의 상황을 주의 깊게 관찰해야 한다.",
+      "action": "주식 시장의 동향을 분석하고, 이를 사업에 반영한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近のニュースを分析した結果、김건희 관련 뉴스와 한국 축구, AI와 기술 뉴스가 많이 보도되고 있음을 알 수 있습니다. 특히, 김건희 관련 뉴스는 부정적인 기운이 감지되며, 정치와 관련된 뉴스가 많이 나올 수 있습니다. 또한, AI와 관련된 기술 뉴스는 긍정적인 기운이 감지되며, 기술과 관련된 뉴스가 많이 나올 수 있습니다. 따라서, 정치와 기술 뉴스와 관련된 콘텐츠를 준비하여 대응할 필요가 있습니다.",
-  "analyzed_at": "2026-06-26T06:01:27.590Z",
+  "narrative": "최근의 트렌드 분석 결과, 반도체 산업과 주식 시장의 상황이 주목을 끌고 있다. 반도체 산업의 경우, 팀쿡의 램값 비싸단 불평에 마이크론이 일침놨네요. 주식 시장의 경우, 요즘처럼 주식시장이 홀짝 게임일때...라는 게시글이 많다. 또한, 정치와 관련된 게시글도 존재한다. 이러한 트렌드들을 분석하여, 사업에 반영할 수 있는 인사이트를 얻을 수 있다. 반도체 산업의 상황을 주의 깊게 관찰하고, 주식 시장의 동향을 분석하여, 이를 사업에 반영하는 것이 중요하다.",
+  "analyzed_at": "2026-06-26T07:30:33.865Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
