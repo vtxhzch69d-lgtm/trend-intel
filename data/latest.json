@@ -1,104 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 검찰개혁, 민주당의 형사소송법안 등 정치 관련 주제가热하다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 혼돈과 등락에 대한 관심이 집중되고 있습니다. 투자자들은 주식 시장의 변동에 대해 우려하고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식",
-      "summary": "주식시장의 변동과 투자 전략 등 주식 관련 주제가 인기 있다.",
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 관련된 게시글이 많이 올라왔습니다. 사용자들은 경기 결과와 선수들의 활약에 대해 논의하고 있습니다.",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 시장이 민주정부의 아킬레스건이라는 의견이 있다.",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "low"
-    },
-    {
-      "topic": "스포츠",
-      "summary": "월드컵과 축구 관련 주제가 인기 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 반도체 관련 주제가熱하다.",
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련 뉴스가 많습니다. 사용자들은 최신 기술 발전에 대해 관심을 보이고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치"
-    },
-    {
       "keyword": "주식",
-      "count": 5,
+      "count": 20,
       "sentiment": "negative",
-      "context": "경제"
-    },
-    {
-      "keyword": "부동산",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "경제"
+      "context": "주식 시장의 혼돈과 등락"
     },
     {
       "keyword": "월드컵",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "스포츠"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "월드컵 경기 결과와 관련된 게시글"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "기술"
-    },
-    {
-      "keyword": "반도체",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술"
+      "context": "AI와 기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "정치와 경제는 밀접한 관련이 있다.",
-      "action": "정치와 경제의 동향을 주시해야 한다.",
+      "insight": "주식 시장의 혼돈과 등락에 대한 관심이 집중되고 있습니다.",
+      "action": "투자자들에게 주식 시장의 변동에 대한 정보를 제공하고 안정적인 투자 전략을 제안합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 반도체는 미래의 핵심 기술이다.",
-      "action": "AI와 반도체에 대한 투자를 고려해야 한다.",
-      "priority": "high"
-    },
-    {
-      "insight": "스포츠는人们의 관심을 끌 수 있다.",
-      "action": "스포츠 마케팅을 고려해야 한다.",
+      "insight": "AI와 기술 관련 뉴스가 많습니다.",
+      "action": "최신 기술 발전에 대한 정보를 제공하고 관련 제품이나 서비스를 개발합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, 주식, 부동산, 스포츠, 기술 등 다양한 주제로 구성되어 있다. 정치와 경제는 밀접한 관련이 있으며, AI와 반도체는 미래의 핵심 기술이다. 스포츠는人们의 관심을 끌 수 있는 중요한 마케팅 채널이다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-06-26T03:01:23.782Z",
+  "narrative": "최근의 트렌드는 주식 시장의 혼돈과 등락, 월드컵 경기 결과, AI와 기술 관련 뉴스 등으로 나타났습니다. 사용자들은 주식 시장의 변동에 대해 우려하고 있으며, 최신 기술 발전에 대한 관심이 높습니다. 이러한 트렌드를 고려하여 투자자들에게 안정적인 투자 전략을 제안하고, 최신 기술 발전에 대한 정보를 제공하는 것이 중요합니다.",
+  "analyzed_at": "2026-06-26T04:30:34.026Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
