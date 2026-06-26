@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "애플 가격 인상",
-      "summary": "애플의 최근 가격 인상에 대한 논의와 우려가 커뮤니티에서 활발하게 진행되고 있습니다. 사용자들은 가격 인상의 이유와 향후 전략에 대해 관심을 보이고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "월드컵",
+      "summary": "한국 축구 대표팀의 월드컵 경기 결과와 관련된 게시글이 많습니다. 대표팀의 성적과 경기 분석이 주를 이루고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구의 최근 경기 결과와 선수들의 활약에 대한 논의가 커뮤니티에서 진행되고 있습니다. 사용자들은 경기 결과와 선수들의 능력에 대해 관심을 보이고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "AI 및 기술",
+      "summary": "AI와 관련된 기술 뉴스 및 개발이 주목을 받고 있습니다. 애플, 삼성, SK하이닉스 등의 기업이 관련된 게시글이 많습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 혁신에 대한 논의가 커뮤니티에서 진행되고 있습니다. 사용자들은 AI 기술의 가능성과 향후 발전에 대해 관심을 보이고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스가 일부 게시글에서 다루어지고 있습니다. 정부의 정책과 기업의 투자 등이 언급되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "애플",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "가격 인상과 관련된 논의에서頻繁하게 등장"
-    },
-    {
-      "keyword": "한국 축구",
-      "count": 10,
+      "keyword": "월드컵",
+      "count": 20,
       "sentiment": "mixed",
-      "context": "경기 결과와 선수들의 활약에 대한 논의에서 등장"
+      "context": "한국 축구 대표팀의 경기 결과와 분석"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술의 발전과 산업의 혁신에 대한 논의에서 등장"
+      "context": "기술 개발과 기업의 투자"
+    },
+    {
+      "keyword": "애플",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "신제품 출시와 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 애플 가격 인상에 대한 부정적인 감정도 존재"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "애플의 가격 인상은 사용자들의 구매 결정에 영향을 미칠 수 있습니다.",
-      "action": "가격 인상에 대한 사용자들의 반응을 모니터링하고, 마케팅 전략을 조정할 필요가 있습니다.",
+      "insight": "AI 기술 개발과 투자가 증가하고 있습니다.",
+      "action": "AI 기술 개발에 투자하고, 관련된 뉴스와 트렌드를 주시하세요.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 혁신을 가져올 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용한 새로운 비즈니스 기회를 탐색할 필요가 있습니다.",
+      "insight": "월드컵과 관련된 마케팅 기회가 있습니다.",
+      "action": "월드컵과 관련된 이벤트나 프로모션을 계획하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 커뮤니티에서는 애플의 가격 인상과 한국 축구, AI 기술의 발전에 대한 논의가 활발하게 진행되고 있습니다. 애플의 가격 인상에 대한 사용자들의 반응은 부정적인 감정을 보이고 있습니다. 반면, AI 기술의 발전은 다양한 산업의 혁신을 가져올 수 있습니다. 마케터들은 이러한 트렌드에 주시하고, 이를 활용한 새로운 비즈니스 기회를 탐색할 필요가 있습니다. 또한, 사용자들의 감정과 반응을 모니터링하고, 마케팅 전략을 조정할 필요가 있습니다.",
-  "analyzed_at": "2026-06-25T22:30:34.449Z",
+  "narrative": "현재의 트렌드는 월드컵과 AI 기술 개발을 중심으로 하고 있습니다. 기업들은 AI 기술 개발에 투자하고, 관련된 뉴스와 트렌드를 주시해야 합니다. 또한, 월드컵과 관련된 마케팅 기회를 잡아야 합니다. 중립적인 분위기이지만, 약간 긍정적인 분위기가 감지됩니다. 따라서, 기업들은 긍정적인 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-06-26T00:00:33.884Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
