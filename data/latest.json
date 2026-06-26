@@ -1,60 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "유시민의 정치 참여와 관련된 다양한 의견이 나타나고 있습니다. 일부에서는 유시민의 정치 참여를 긍정적으로 평가하는 반면, 다른 일부에서는 부정적으로 평가하고 있습니다.",
-      "post_count": 10,
+      "topic": "유시민",
+      "summary": "유시민의 발언과 행동에 대한 논란과 지지",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "한국 정치 상황과 대통령의 개입에 대한 논란",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 관련된 다양한 게시글이 있습니다. AI, 로봇, 반도체 등 다양한 기술 분야의 뉴스가 포함되어 있습니다.",
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 개발",
       "post_count": 20,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "유시민",
-      "count": 10,
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "유시민의 발언과 행동에 대한 논란과 지지"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "negative",
-      "context": "유시민의 정치 참여와 관련된 부정적인 의견"
+      "context": "한국 정치 상황과 대통령의 개입에 대한 논란"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 긍정적인 의견"
-    },
-    {
-      "keyword": "반도체",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "반도체 산업의 뉴스와 관련된 중립적인 의견"
+      "context": "최신 기술 뉴스와 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "유시민의 정치 참여는 정치 분야에서 큰 영향을 미칠 수 있습니다.",
-      "action": "정치 분야의 뉴스를 주시하고, 유시민의 정치 참여에 대한 의견을 분석합니다.",
+      "insight": "유시민의 발언과 행동에 대한 논란은 정치적 분위기를 반영한다",
+      "action": "정치적 상황을 주시하고 대응한다",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스는 기술 분야에서 큰 영향을 미칠 수 있습니다.",
-      "action": "기술 분야의 뉴스를 주시하고, 최신 기술 트렌드를 분석합니다.",
+      "insight": "최신 기술 뉴스와 개발은 긍정적인 반응을 불러일으킨다",
+      "action": "최신 기술 뉴스와 개발에 대한 콘텐츠를 생성한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치와 기술 뉴스는 큰 영향을 미치고 있습니다. 유시민의 정치 참여는 정치 분야에서 큰 논란을 일으키고 있으며, 최신 기술 뉴스는 기술 분야에서 큰 관심을 끌고 있습니다. 이러한 트렌드를 분석하여, 정치와 기술 분야에서 앞서나가기 위한 전략을 수립할 수 있습니다. 또한, 이러한 트렌드에 대한 의견을 분석하여, 정치와 기술 분야에서 발생할 수 있는 다양한 시나리오를 예측할 수 있습니다.",
-  "analyzed_at": "2026-06-26T15:00:34.133Z",
+  "narrative": "最近의 트렌드는 유시민의 발언과 행동에 대한 논란과 정치적 상황, 최신 기술 뉴스와 개발에 대한 관심이 높아지고 있다. 이러한 트렌드는 정치적 분위기와 기술적 발전에 대한 관심을 반영한다. 따라서 정치적 상황을 주시하고 대응하며, 최신 기술 뉴스와 개발에 대한 콘텐츠를 생성하는 것이 중요하다.",
+  "analyzed_at": "2026-06-26T16:30:34.250Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
