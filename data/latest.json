@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령 지지",
-      "summary": "이재명 대통령을 지지하는 이유와 관련된 게시글이 많습니다. 대통령의 정책과 활동에 대한 지원과 지지가 필요합니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "이재명 대통령과 유시민에 대한 논의가 활발합니다. 일부 사용자는 이재명 대통령의 정책과 발언을 지지하는 반면, 다른 사용자는 유시민의 발언과 행동을 비판합니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "유시민과 김어준",
-      "summary": "유시민과 김어준의 유튜브 방송과 관련된 게시글이 많습니다. 두 사람의 의견과 활동에 대한 관심이 높습니다.",
-      "post_count": 3,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 발전에 대한 관심이 높습니다. 사용자는 새로운 기술 제품과 서비스에 대한 정보를 공유하고 обс릅니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
     },
     {
-      "topic": "한국의 경제와 정치",
-      "summary": "한국의 경제와 정치에 대한 게시글이 많습니다. 경제 성장과 정치 안정에 대한 관심이 높습니다.",
+      "topic": "사회",
+      "summary": "사회 문제와 사건에 대한 논의가 있습니다. 사용자는 다양한 사회 문제에 대한 의견을 공유하고 обс릅니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "high"
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
       "count": 10,
-      "sentiment": "positive",
-      "context": "이재명 대통령을 지지하는 이유와 관련된 게시글"
+      "sentiment": "mixed",
+      "context": "정치와 관련된 논의에서 자주 언급됩니다."
     },
     {
       "keyword": "유시민",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "유시민의 유튜브 방송과 관련된 게시글"
+      "count": 8,
+      "sentiment": "negative",
+      "context": "일부 사용자가 그의 발언과 행동을 비판합니다."
     },
     {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "한국의 경제 성장과 관련된 게시글"
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 발전에 대한 관심이 높습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 5,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부 사용자는 정치와 사회 문제에 대한 부정적인 감정을 표현합니다."
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령의 지지와 관련된 마케팅 전략",
-      "action": "대통령의 정책과 활동에 대한 지원과 지지를 강조하는 마케팅 캠페인",
+      "insight": "정치와 사회 문제에 대한 논의가 활발합니다.",
+      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "유시민과 김어준의 유튜브 방송과 관련된 마케팅 전략",
-      "action": "두 사람의 의견과 활동에 대한 관심을 높이는 마케팅 캠페인",
-      "priority": "low"
-    },
-    {
-      "insight": "한국의 경제와 정치에 대한 마케팅 전략",
-      "action": "경제 성장과 정치 안정에 대한 관심을 높이는 마케팅 캠페인",
+      "insight": "최신 기술 뉴스와 발전에 대한 관심이 높습니다.",
+      "action": "새로운 기술 제품과 서비스에 대한 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
       "priority": "high"
     }
   ],
-  "narrative": "이번 분석 결과, 이재명 대통령의 지지와 관련된 게시글이 많았습니다. 또한, 유시민과 김어준의 유튜브 방송과 관련된 게시글도 많았습니다. 한국의 경제와 정치에 대한 관심도 높았습니다. 이러한 결과를 바탕으로, 마케팅 전략을 수립할 수 있습니다. 이재명 대통령의 지지와 관련된 마케팅 캠페인을 진행할 수 있습니다. 또한, 유시민과 김어준의 유튜브 방송과 관련된 마케팅 캠페인을 진행할 수 있습니다. 마지막으로, 한국의 경제와 정치에 대한 마케팅 캠페인을 진행할 수 있습니다.",
-  "analyzed_at": "2026-06-27T09:01:29.238Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 사회 문제에 대한 논의가 활발합니다. 일부 사용자는 이재명 대통령과 유시민에 대한 논의를 하고 있으며, 최신 기술 뉴스와 발전에 대한 관심도 높습니다. 사용자는 다양한 사회 문제에 대한 의견을 공유하고 обс릅니다. 이러한 트렌드를 고려하여, 관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다. 또한, 새로운 기술 제품과 서비스에 대한 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-27T10:30:33.821Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
