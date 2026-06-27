@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령 관련 게시물이 많습니다. 대통령의 발언과 행동에 대한 논쟁이 진행 중입니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "부동산",
+      "summary": "부동산 가격이 오르는 현상에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업 관련 게시물이 많습니다. 산업의 발전과 기술 개발에 대한 관심이 집중되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령에 대한 논의",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "유시민 작가",
-      "summary": "유시민 작가 관련 게시물이 많습니다. 작가의 발언과 행동에 대한 논쟁이 진행 중입니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용에 대한 논의",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "대통령 관련 게시물"
-    },
-    {
-      "keyword": "반도체",
+      "keyword": "부동산",
       "count": 10,
-      "sentiment": "positive",
-      "context": "산업 관련 게시물"
+      "sentiment": "negative",
+      "context": "부동산 가격이 오르는 현상"
     },
     {
-      "keyword": "유시민",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "작가 관련 게시물"
+      "keyword": "이재명 대통령",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "이재명 대통령에 대한 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 적용"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "부정적이고 논쟁적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업은 한국 경제의 중요한 부분입니다.",
-      "action": "반도체 산업에 대한 투자와 지원을 강화해야 합니다.",
+      "insight": "부동산 가격이 오르는 현상에 대한 논의가 많아지고 있다",
+      "action": "부동산 시장에 대한 분석과 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "이재명 대통령의 발언과 행동은 여론의 관심을 끌고 있습니다.",
-      "action": "대통령의 발언과 행동에 대한 분석과 평가를进行해야 합니다.",
-      "priority": "medium"
+      "insight": "AI 기술의 발전과 적용이 증가하고 있다",
+      "action": "AI 기술에 대한 투자와 연구",
+      "priority": "high"
     }
   ],
-  "narrative": "현재 한국 온라인 커뮤니티에서는 이재명 대통령과 반도체 산업 관련 게시물이 많습니다. 대통령의 발언과 행동에 대한 논쟁이 진행 중이며, 반도체 산업의 발전과 기술 개발에 대한 관심이 집중되고 있습니다. 또한 유시민 작가 관련 게시물이 일부 존재하며, 작가의 발언과 행동에 대한 논쟁이 진행 중입니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-27T21:00:33.762Z",
+  "narrative": "최근의 트렌드는 부동산 가격이 오르는 현상과 이재명 대통령에 대한 논의, 그리고 AI 기술의 발전과 적용에 대한 논의가 주를 이루고 있다. 이러한 트렌드는 부동산 시장과 기술 산업에 대한 분석과 전략 수립의 필요성을 시사한다. 또한, AI 기술의 발전과 적용은 다양한 산업에 대한 기회와 도전을 제공할 것으로 예상된다.",
+  "analyzed_at": "2026-06-27T22:30:33.899Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
