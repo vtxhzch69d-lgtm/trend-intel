@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "이재명 대통령",
-      "summary": "이재명 대통령 관련 게시물이 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 대통령의 정책과 발언이 주목을 받고 있습니다.",
+      "summary": "이재명 대통령 관련 게시물이 많습니다. 대통령의 발언과 행동에 대한 논쟁이 진행 중입니다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "유시민",
-      "summary": "유시민 작가 관련 게시물이 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 작가의 발언과 활동이 주목을 받고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "high"
     },
     {
       "topic": "반도체 산업",
-      "summary": "반도체 산업 관련 게시물이 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 산업의 동향과 기술 발전에 주목이 집중되고 있습니다.",
+      "summary": "반도체 산업 관련 게시물이 많습니다. 산업의 발전과 기술 개발에 대한 관심이 집중되고 있습니다.",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
+    },
+    {
+      "topic": "유시민 작가",
+      "summary": "유시민 작가 관련 게시물이 많습니다. 작가의 발언과 행동에 대한 논쟁이 진행 중입니다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,41 +27,41 @@
       "keyword": "이재명",
       "count": 15,
       "sentiment": "mixed",
-      "context": "이재명 대통령 관련 게시물에서 많이 언급되고 있습니다."
-    },
-    {
-      "keyword": "유시민",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "유시민 작가 관련 게시물에서 많이 언급되고 있습니다."
+      "context": "대통령 관련 게시물"
     },
     {
       "keyword": "반도체",
       "count": 10,
       "sentiment": "positive",
-      "context": "반도체 산업 관련 게시물에서 많이 언급되고 있습니다."
+      "context": "산업 관련 게시물"
+    },
+    {
+      "keyword": "유시민",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "작가 관련 게시물"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부 주제에서는 긍정적인 반응이 나타납니다."
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령의 정책과 발언에 주목하는 것이 중요합니다.",
-      "action": "정치 관련 뉴스와 정책을 모니터링하세요.",
+      "insight": "반도체 산업은 한국 경제의 중요한 부분입니다.",
+      "action": "반도체 산업에 대한 투자와 지원을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 동향과 기술 발전에 주목하는 것이 중요합니다.",
-      "action": "반도체 산업 관련 뉴스와 기술을 모니터링하세요.",
+      "insight": "이재명 대통령의 발언과 행동은 여론의 관심을 끌고 있습니다.",
+      "action": "대통령의 발언과 행동에 대한 분석과 평가를进行해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 이재명 대통령과 유시민 작가 관련 게시물이 많이 обсужд되고 있습니다. 반도체 산업 관련 게시물도 주목을 받고 있습니다. 중립적인 분위기이지만, 일부 주제에서는 긍정적인 반응이 나타납니다. 정치 관련 뉴스와 정책, 반도체 산업 관련 뉴스와 기술을 모니터링하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-27T19:30:33.916Z",
+  "narrative": "현재 한국 온라인 커뮤니티에서는 이재명 대통령과 반도체 산업 관련 게시물이 많습니다. 대통령의 발언과 행동에 대한 논쟁이 진행 중이며, 반도체 산업의 발전과 기술 개발에 대한 관심이 집중되고 있습니다. 또한 유시민 작가 관련 게시물이 일부 존재하며, 작가의 발언과 행동에 대한 논쟁이 진행 중입니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-27T21:00:33.762Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
