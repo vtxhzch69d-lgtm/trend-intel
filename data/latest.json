@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
+      "topic": "월드컵",
+      "summary": "한국 축구 대표팀의 월드컵 경기 결과와 관련된 게시글이 많습니다. 일부 사용자는 팀의 성적에 대해 실망을 표현하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
       "topic": "정치",
-      "summary": "最近의 정치 관련 게시글이 많습니다. 검찰개혁, 대통령, 유시민 등 다양한 정치 관련 주제가 обсужд되고 있습니다.",
-      "post_count": 20,
+      "summary": "정치 관련된 게시글이 많습니다. 일부 사용자는 특정 정치인이나 정당에 대한 비판을 표현하고 있습니다.",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 관련 게시글이 많습니다. AI, 로봇, 반도체 등 다양한 기술 관련 주제가 обсужд되고 있습니다.",
+      "summary": "최신 기술 관련된 게시글이 많습니다. 일부 사용자는 새로운 기술 개발에 대한 관심을 표현하고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "最近의 경제 관련 게시글이 많습니다. 기업 뉴스, 경제 정책 등 다양한 경제 관련 주제가 обсужд되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "검찰개혁",
-      "count": 10,
+      "keyword": "월드컵",
+      "count": 12,
       "sentiment": "negative",
-      "context": "검찰개혁 관련 게시글이 많습니다."
+      "context": "한국 축구 대표팀의 성적에 대한 실망"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "특정 정치인이나 정당에 대한 비판"
     },
     {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "AI 관련 게시글이 많습니다."
-    },
-    {
-      "keyword": "반도체",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "반도체 관련 게시글이 많습니다."
+      "context": "최신 기술 개발에 대한 관심"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "검찰개혁 관련 게시글이 많습니다.",
-      "action": "검찰개혁 관련 정책을 검토해야 합니다.",
+      "insight": "최신 기술 개발에 대한 관심이 높습니다.",
+      "action": "최신 기술 개발에 대한 정보를 제공하고, 관련된 제품이나 서비스를 개발할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 관련 게시글이 많습니다.",
-      "action": "AI 관련 기술을 개발해야 합니다.",
+      "insight": "한국 축구 대표팀의 월드컵 성적에 대한 실망이 높습니다.",
+      "action": "팀의 성적을 향상시키기 위한 전략을 개발하고, 관련된 마케팅 활동을 수행할 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "반도체 관련 게시글이 많습니다.",
-      "action": "반도체 관련 투자를 검토해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 관련 게시글이 많습니다. 검찰개혁, 대통령, 유시민 등 다양한 정치 관련 주제가 обсужд되고 있습니다. 또한, 최신 기술 관련 게시글이 많습니다. AI, 로봇, 반도체 등 다양한 기술 관련 주제가 обсужд되고 있습니다. 이러한 트렌드를 분석하여, 기업은 검찰개혁 관련 정책을 검토하고, AI 관련 기술을 개발해야 합니다. 또한, 반도체 관련 투자를 검토해야 합니다. 이러한 분석을 통해, 기업은 최신 트렌드에 따라 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-06-27T04:30:33.522Z",
+  "narrative": "최근의 트렌드 분석 결과, 월드컵과 정치 관련된 게시글이 많습니다. 일부 사용자는 팀의 성적에 대해 실망을 표현하고 있으며, 특정 정치인이나 정당에 대한 비판을 표현하고 있습니다. 또한, 최신 기술 개발에 대한 관심이 높습니다. 이러한 트렌드를 고려하여, 최신 기술 개발에 대한 정보를 제공하고, 관련된 제품이나 서비스를 개발할 수 있습니다. 또한, 팀의 성적을 향상시키기 위한 전략을 개발하고, 관련된 마케팅 활동을 수행할 수 있습니다.",
+  "analyzed_at": "2026-06-27T06:00:34.158Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
