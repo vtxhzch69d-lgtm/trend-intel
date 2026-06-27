@@ -1,16 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "유시민 작가",
-      "summary": "유시민 작가에 대한 다양한 의견과 반응이 나타남. 일부에서는 그의 프레임짜는 능력과 정세파악 능력을 높이 평가하지만, 다른 일부에서는 그의 발언과 행동을 비판적으로 바라봄.",
+      "topic": "정치",
+      "summary": "이재명 대통령과 유시민 작가의 발언이 논란이 되고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 개발이 활발하게 진행되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "테크 및 IT 뉴스",
-      "summary": "최신 기술과 IT 관련 뉴스가 다수 등장. AI, 로봇, 반도체, 전기차 등 다양한 주제가 포함됨.",
-      "post_count": 20,
+      "topic": "사회",
+      "summary": "고환율과 경제 상황이 실생활에 영향을 미치고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -18,43 +25,43 @@
   "keywords": [
     {
       "keyword": "유시민",
-      "count": 18,
-      "sentiment": "mixed",
-      "context": "유시민 작가에 대한 의견과 반응"
+      "count": 8,
+      "sentiment": "negative",
+      "context": "유시민 작가의 발언에 대한 반응"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "이재명 대통령의 발언에 대한 반응"
     },
     {
       "keyword": "AI",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "인공지능 기술과 관련된 뉴스"
-    },
-    {
-      "keyword": "반도체",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "반도체 산업과 관련된 뉴스"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 8,
-    "neutral": 22,
-    "overall_mood": "중립적이고 정보적인 분위기"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높습니다."
   },
   "business_insights": [
     {
-      "insight": "유시민 작가의 발언과 행동은 일부에서 큰 반响을 일으키고 있지만, 다른 일부에서는 비판을 받고 있음.",
-      "action": "유시민 작가의 발언과 행동을 주시하고, 이를 통해 나타나는 사회적 분위기를 분석할 필요가 있음.",
-      "priority": "medium"
+      "insight": "정치적 논란이 기업의 이미지를 악화시킬 수 있습니다.",
+      "action": "기업의 사회적 책임을 강화해야 합니다.",
+      "priority": "high"
     },
     {
-      "insight": "테크 및 IT 뉴스는 지속적으로 증가하고 있으며, 이에 대한 관심과 수요가 높아지고 있음.",
-      "action": "최신 기술과 IT 관련 뉴스를 지속적으로 모니터링하고, 이를 통해 새로운 비즈니스 기회를 발굴할 필요가 있음.",
-      "priority": "high"
+      "insight": "최신 기술 개발은 기업의 경쟁력을 높일 수 있습니다.",
+      "action": "최신 기술에 대한 투자를 증가시켜야 합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 유시민 작가와 테크 및 IT 뉴스가 주목할 만한 주제로 나타남. 유시민 작가에 대한 의견과 반응은 다양하게 나타나고 있으며, 테크 및 IT 뉴스는 지속적으로 증가하고 있음. 이러한 트렌드와 키워드를 통해 새로운 비즈니스 기회를 발굴하고, 사회적 분위기를 분석할 수 있을 것으로 기대됨. 또한, 최신 기술과 IT 관련 뉴스를 지속적으로 모니터링하고, 이를 통해 새로운 비즈니스 기회를 발굴할 필요가 있음.",
-  "analyzed_at": "2026-06-26T22:30:34.341Z",
+  "narrative": "최근의 정치적 논란이 사회에 큰 영향을 미치고 있습니다. 유시민 작가와 이재명 대통령의 발언이 논란이 되고 있으며, 이는 기업의 이미지를 악화시킬 수 있습니다. 또한, 최신 기술 개발이 활발하게 진행되고 있으며, 이는 기업의 경쟁력을 높일 수 있습니다. 따라서, 기업은 사회적 책임을 강화하고 최신 기술에 대한 투자를 증가시켜야 합니다.",
+  "analyzed_at": "2026-06-27T00:01:30.527Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
