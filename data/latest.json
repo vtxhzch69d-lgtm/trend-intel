@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 유시민 작가의 발언이 논란이 되고 있습니다.",
+      "summary": "유시민과 이재명에 대한 논쟁, 보완수사권 폐지 등 정치 관련 주제가热을 끌고 있습니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 개발이 활발하게 진행되고 있습니다.",
+      "topic": "기술",
+      "summary": "AI, 로봇, 반도체 등 기술 관련 주제가 많이 논의되고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "고환율과 경제 상황이 실생활에 영향을 미치고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "스포츠",
+      "summary": "홍명보와 축구 관련 주제가 일부 논의되고 있습니다.",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "유시민",
-      "count": 8,
+      "count": 5,
       "sentiment": "negative",
-      "context": "유시민 작가의 발언에 대한 반응"
+      "context": "유시민의 발언에 대한 비판"
     },
     {
       "keyword": "이재명",
       "count": 5,
-      "sentiment": "negative",
-      "context": "이재명 대통령의 발언에 대한 반응"
+      "sentiment": "mixed",
+      "context": "이재명에 대한 지지와 비판"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "context": "AI 기술의 발전과 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정의 비중이 높습니다."
+    "positive": 25,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 주제에서는 부정적인 감정이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "정치적 논란이 기업의 이미지를 악화시킬 수 있습니다.",
-      "action": "기업의 사회적 책임을 강화해야 합니다.",
+      "insight": "기술 관련 주제가 많이 논의되고 있습니다.",
+      "action": "기술 관련 주제에 대한 마케팅 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 개발은 기업의 경쟁력을 높일 수 있습니다.",
-      "action": "최신 기술에 대한 투자를 증가시켜야 합니다.",
+      "insight": "정치 관련 주제가熱을 끌고 있습니다.",
+      "action": "정치 관련 주제에 대한 마케팅 전략을 수립하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치적 논란이 사회에 큰 영향을 미치고 있습니다. 유시민 작가와 이재명 대통령의 발언이 논란이 되고 있으며, 이는 기업의 이미지를 악화시킬 수 있습니다. 또한, 최신 기술 개발이 활발하게 진행되고 있으며, 이는 기업의 경쟁력을 높일 수 있습니다. 따라서, 기업은 사회적 책임을 강화하고 최신 기술에 대한 투자를 증가시켜야 합니다.",
-  "analyzed_at": "2026-06-27T00:01:30.527Z",
+  "narrative": "최근 클리앙 커뮤니티에서는 정치와 기술 관련 주제가 많이 논의되고 있습니다. 유시민과 이재명에 대한 논쟁, 보완수사권 폐지 등 정치 관련 주제가熱을 끌고 있습니다. 또한, AI, 로봇, 반도체 등 기술 관련 주제가 많이 논의되고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 필요가 있습니다. 기술 관련 주제에 대한 마케팅 전략을 수립하여 기술 관련 제품이나 서비스를 홍보할 수 있습니다. 또한, 정치 관련 주제에 대한 마케팅 전략을 수립하여 정치 관련 제품이나 서비스를 홍보할 수 있습니다.",
+  "analyzed_at": "2026-06-27T01:30:34.648Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
