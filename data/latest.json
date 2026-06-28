@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "홍명보 사퇴",
-      "summary": "홍명보 감독의 사퇴와 관련된 게시글이 많습니다. 사퇴 이유와 향후 축구계에 미칠 영향에 대한 논의가 활발합니다.",
+      "summary": "홍명보 감독의 사퇴와 관련된 게시글이 많습니다. 사퇴 이유와 향후 축구계에 대한 영향이 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술 개발",
-      "summary": "AI 기술 개발과 관련된 뉴스 게시글이 많습니다. 새로운 기술 개발과 이를 활용한 다양한 산업 분야에서의 적용에 대한 관심이 높습니다.",
-      "post_count": 10,
+      "summary": "최신 AI 기술 개발과 관련된 게시글이 많습니다. Brain-to-Robot 기술과 로봇 AI 개발이 주목받고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "월드컵 32강전",
-      "summary": "월드컵 32강전과 관련된 게시글이 있습니다. 경기 결과와 팀들의 전략에 대한 분석이 이루어지고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령과 관련된 게시글이 있습니다. 대통령의 정책과 행보가 논의되고 있습니다.",
+      "post_count": 2,
+      "sentiment": "mixed",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -31,42 +31,37 @@
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 개발과 산업 적용"
+      "context": "최신 기술 개발과 관련된 논의"
     },
     {
-      "keyword": "월드컵",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "32강전 경기 결과와 분석"
+      "keyword": "이재명",
+      "count": 2,
+      "sentiment": "mixed",
+      "context": "대통령의 정책과 행보에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적이지만 홍명보 사퇴와 관련된 부정적인 감정도 존재"
+    "positive": 15,
+    "negative": 25,
+    "neutral": 10,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "홍명보 사퇴와 관련된 마케팅 기회",
-      "action": "사퇴와 관련된 제품이나 서비스를 출시",
-      "priority": "low"
-    },
-    {
-      "insight": "AI 기술 개발과 산업 적용",
-      "action": "AI 기술을 활용한 새로운 제품이나 서비스를 개발",
+      "insight": "홍명보 사퇴로 축구계에 대한 관심이 집중되고 있습니다.",
+      "action": "홍명보 사퇴와 관련된 마케팅 캠페인 실행",
       "priority": "high"
     },
     {
-      "insight": "월드컵 32강전과 관련된 마케팅 기회",
-      "action": "월드컵과 관련된 제품이나 서비스를 출시",
+      "insight": "AI 기술 개발이 주목받고 있습니다.",
+      "action": "AI 기술 개발과 관련된 마케팅 캠페인 실행",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 홍명보 사퇴와 관련된 논의, AI 기술 개발과 산업 적용, 월드컵 32강전과 관련된 분석 등으로 구성되어 있습니다. 홍명보 사퇴와 관련된 마케팅 기회는 낮은 우선순위를 가지고 있지만, AI 기술 개발과 산업 적용은 높은 우선순위를 가지고 있습니다. 또한, 월드컵 32강전과 관련된 마케팅 기회는 중간 우선순위를 가지고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-28T17:30:33.939Z",
+  "narrative": "현재 온라인 커뮤니티에서는 홍명보 사퇴와 관련된 논의가 주를 이루고 있습니다. 홍명보 감독의 사퇴로 축구계에 대한 관심이 집중되고 있습니다. 또한, 최신 AI 기술 개발과 관련된 게시글이 많습니다. 이러한 트렌드를 반영한 마케팅 캠페인이 필요합니다. 홍명보 사퇴와 관련된 마케팅 캠페인과 AI 기술 개발과 관련된 마케팅 캠페인을 실행하여 소비자들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-06-28T19:00:33.877Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
