@@ -1,45 +1,45 @@
 {
   "trending_topics": [
     {
-      "topic": "홍명보 사퇴",
-      "summary": "홍명보 감독의 사퇴와 관련된 게시글이 많습니다. 축구 팬들의 관심이 집중된 것으로 보입니다.",
-      "post_count": 15,
+      "topic": "한국 축구",
+      "summary": "한국 축구의 문제점과 발전 방향에 대한 논의",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "신천지",
+      "summary": "신천지와 관련된 정치적 논쟁",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 게시글이 많습니다. 로봇, 무인차량, Brain-to-Robot 기술 등 다양한 주제가 포함되어 있습니다.",
-      "post_count": 10,
+      "summary": "최신 AI 기술 개발과 적용에 대한 논의",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업과 관련된 게시글이 많습니다. SK하이닉스, 삼성전자 등 주요 기업들의 동향이 포함되어 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "홍명보",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "축구 감독의 사퇴와 관련된 게시글"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "한국 축구",
       "count": 15,
-      "sentiment": "positive",
-      "context": "로봇, 무인차량, Brain-to-Robot 기술 등 다양한 주제"
+      "sentiment": "negative",
+      "context": "한국 축구의 문제점"
     },
     {
-      "keyword": "반도체",
+      "keyword": "신천지",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "SK하이닉스, 삼성전자 등 주요 기업들의 동향"
+      "sentiment": "negative",
+      "context": "신천지와 관련된 정치적 논쟁"
+    },
+    {
+      "keyword": "AI 기술",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "최신 AI 기술 개발과 적용"
     }
   ],
   "sentiment_overview": {
@@ -50,24 +50,24 @@
   },
   "business_insights": [
     {
-      "insight": "축구 팬들의 관심이 홍명보 사퇴로 집중됨",
-      "action": "홍명보 사퇴와 관련된 마케팅 전략 수립",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술이 다양한 산업에서 적용됨",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "한국 축구의 문제점을 해결하기 위해 시스템적인 개선이 필요하다",
+      "action": "한국 축구 협회에 시스템적인 개선 제안",
       "priority": "medium"
     },
     {
-      "insight": "반도체 산업이 계속 성장함",
-      "action": "반도체 산업과 관련된 투자 및 파트너십 강화",
+      "insight": "신천지와 관련된 정치적 논쟁을 해결하기 위해 객관적인 정보가 필요하다",
+      "action": "신천지와 관련된 객관적인 정보 제공",
+      "priority": "high"
+    },
+    {
+      "insight": "최신 AI 기술을 적용하여 비즈니스 모델을 혁신할 수 있다",
+      "action": "최신 AI 기술을 적용하여 비즈니스 모델 혁신",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 홍명보 사퇴와 관련된 게시글이 많습니다. 축구 팬들의 관심이 집중된 것으로 보입니다. 또한, AI 기술과 관련된 게시글이 많습니다. 로봇, 무인차량, Brain-to-Robot 기술 등 다양한 주제가 포함되어 있습니다. 반도체 산업도 계속 성장하고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하고, 새로운 비즈니스 모델을 개발할 수 있습니다.",
-  "analyzed_at": "2026-06-28T22:00:33.927Z",
-  "post_count": 59,
+  "narrative": "최근 한국 온라인 커뮤니티에서는 한국 축구의 문제점과 신천지와 관련된 정치적 논쟁이热한 논제로 떠올랐다. 또한 최신 AI 기술 개발과 적용에 대한 논의도 활발하게 진행되고 있다. 이러한 논의를 통해 한국 축구의 문제점을 해결하고 신천지와 관련된 정치적 논쟁을 해결하며 최신 AI 기술을 적용하여 비즈니스 모델을 혁신할 수 있을 것으로 기대된다.",
+  "analyzed_at": "2026-06-28T23:30:33.861Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
