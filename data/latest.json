@@ -1,49 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라옵니다. 사용자들은 다양한 주제에 대해 обсужд하고 의견을 나눕니다.",
-      "post_count": 1000,
+      "topic": "월드컵",
+      "summary": "월드컵 관련 게시글이 많으며, 한국의 탈락과 관련된 반응이 많다. 일부 게시글에서는 정치적인 발언도 나온다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 게시글이 많으며, 일부 게시글에서는 특정 정치인이나 정당에 대한 비판이 나온다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 관련 게시글이 많으며, AI와 관련된 게시글이 특히 많다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 500,
-      "sentiment": "positive",
-      "context": "커뮤니티 이름"
+      "keyword": "월드컵",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "한국의 월드컵 탈락과 관련된 반응"
     },
     {
-      "keyword": "이슈",
-      "count": 200,
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술과 관련된 게시글"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
       "sentiment": "negative",
-      "context": "이슈게시판 주제"
+      "context": "특정 정치인이나 정당에 대한 비판"
     }
   ],
   "sentiment_overview": {
-    "positive": 300,
-    "negative": 200,
-    "neutral": 500,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "커뮤니티 사용자들은 다양한 주제에 대해 관심을 가지고 있습니다.",
-      "action": "다양한 주제에 대한 콘텐츠 제공",
+      "insight": "최신 기술에 대한 관심이 높다",
+      "action": "최신 기술 관련 콘텐츠를 제공한다",
       "priority": "high"
     },
     {
-      "insight": "커뮤니티 사용자들은 이슈게시판에서 논쟁을 합니다.",
-      "action": "이슈게시판 모니터링 및 관리",
+      "insight": "정치 관련 게시글이 많다",
+      "action": "정치 관련 콘텐츠를 제공한다",
       "priority": "medium"
+    },
+    {
+      "insight": "월드컵 관련 게시글이 많다",
+      "action": "월드컵 관련 콘텐츠를 제공한다",
+      "priority": "low"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 обсужд과 의견 나눔이 활발하게 진행됩니다. 사용자들은 자유게시판과 이슈게시판에서 다양한 주제에 대해 논쟁하고 의견을 나눕니다. 커뮤니티 사용자들은 다양한 주제에 대한 콘텐츠 제공과 이슈게시판 모니터링 및 관리를 통해 더 나은 커뮤니티 환경을 만들 수 있습니다. 또한, 커뮤니티 사용자들은 중립적인 태도를 가지고 있으며, 다양한 주제에 대해 обсужд하고 의견을 나눕니다. 따라서, 마케터는 다양한 주제에 대한 콘텐츠 제공과 커뮤니티 모니터링 및 관리를 통해 더 나은 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-28T05:30:33.911Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드는 월드컵과 정치, 기술 관련 게시글이 많다. 월드컵 관련 게시글은 한국의 탈락과 관련된 반응이 많으며, 일부 게시글에서는 정치적인 발언도 나온다. 기술 관련 게시글은 최신 기술과 관련된 게시글이 많으며, AI와 관련된 게시글이 특히 많다. 이러한 트렌드를 반영하여 최신 기술과 정치, 월드컵 관련 콘텐츠를 제공하면 사용자의 관심을 끌 수 있을 것이다.",
+  "analyzed_at": "2026-06-28T07:00:33.509Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
