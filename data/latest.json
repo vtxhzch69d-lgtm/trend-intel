@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 관련 게시글이 많으며, 한국의 탈락과 관련된 반응이 많다. 일부 게시글에서는 정치적인 발언도 나온다.",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 반도체 호남입지에 관한 트윗과 관련된 게시글이 많습니다. 또한, 이재명 대통령의 대선 주자 가능성과 관련된 게시글도 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 게시글이 많으며, 일부 게시글에서는 특정 정치인이나 정당에 대한 비판이 나온다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "클리앙 커뮤니티",
+      "summary": "클리앙 커뮤니티의 작업질 당하고 있는 상황과 관련된 게시글이 많습니다. 또한, 클리앙 커뮤니티의 사용자들이 다양한 주제에 대해 논의하고 있습니다.",
+      "post_count": 20,
+      "sentiment": "neutral",
+      "urgency": "low"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련 게시글이 많으며, AI와 관련된 게시글이 특히 많다.",
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 동향과 관련된 게시글이 많습니다. 호남에 초대형 팹을 건설하고, 충청은 패키징 허브로 개발하는 계획이 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 12,
+      "keyword": "이재명",
+      "count": 20,
       "sentiment": "mixed",
-      "context": "한국의 월드컵 탈락과 관련된 반응"
+      "context": "이재명 대통령의 반도체 호남입지에 관한 트윗과 관련된 게시글"
     },
     {
-      "keyword": "AI",
+      "keyword": "클리앙",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "클리앙 커뮤니티의 사용자들이 다양한 주제에 대해 논의하고 있습니다."
+    },
+    {
+      "keyword": "반도체",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술과 관련된 게시글"
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "특정 정치인이나 정당에 대한 비판"
+      "context": "반도체 산업의 동향과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술에 대한 관심이 높다",
-      "action": "최신 기술 관련 콘텐츠를 제공한다",
+      "insight": "반도체 산업의 성장",
+      "action": "반도체 산업에 투자",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 게시글이 많다",
-      "action": "정치 관련 콘텐츠를 제공한다",
+      "insight": "클리앙 커뮤니티의 사용자 증가",
+      "action": "클리앙 커뮤니티에 광고",
       "priority": "medium"
     },
     {
-      "insight": "월드컵 관련 게시글이 많다",
-      "action": "월드컵 관련 콘텐츠를 제공한다",
+      "insight": "이재명 대통령의 대선 주자 가능성",
+      "action": "이재명 대통령의 정책에 관심",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 정치, 기술 관련 게시글이 많다. 월드컵 관련 게시글은 한국의 탈락과 관련된 반응이 많으며, 일부 게시글에서는 정치적인 발언도 나온다. 기술 관련 게시글은 최신 기술과 관련된 게시글이 많으며, AI와 관련된 게시글이 특히 많다. 이러한 트렌드를 반영하여 최신 기술과 정치, 월드컵 관련 콘텐츠를 제공하면 사용자의 관심을 끌 수 있을 것이다.",
-  "analyzed_at": "2026-06-28T07:00:33.509Z",
+  "narrative": "클리앙 커뮤니티와 뽐뿌 커뮤니티의 사용자들은 다양한 주제에 대해 논의하고 있습니다. 반도체 산업의 동향과 관련된 게시글이 많으며, 호남에 초대형 팹을 건설하고, 충청은 패키징 허브로 개발하는 계획이 있습니다. 이재명 대통령의 반도체 호남입지에 관한 트윗과 관련된 게시글도 많습니다. 클리앙 커뮤니티의 사용자들은 중립적인 감정을 가지고 있으며, 반도체 산업에 대한 긍정적인 감정을 가지고 있습니다. 따라서, 반도체 산업에 투자하고, 클리앙 커뮤니티에 광고하는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-06-28T08:30:34.123Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
