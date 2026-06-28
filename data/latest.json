@@ -1,60 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구의 월드컵 본선 진출 실패와 관련된 게시글이 많이 올라왔습니다. 홍명보 감독의 책임론과 팀의 부진이 논란의 중심입니다.",
-      "post_count": 20,
+      "topic": "한국 축구 국가대표팀",
+      "summary": "한국 축구 국가대표팀의 최근 성적과 전략에 대한 논의",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 관련된 게시글이 많이 올라왔습니다. AI, 로봇, 반도체 등 다양한 주제가 포함되어 있습니다.",
-      "post_count": 30,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술 개발과 그 응용에 대한 논의",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 동향과 기술 개발에 대한 논의",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "한국 축구",
-      "count": 25,
+      "count": 20,
       "sentiment": "negative",
-      "context": "월드컵 본선 진출 실패와 관련된 게시글"
+      "context": "한국 축구 국가대표팀의 최근 성적"
     },
     {
       "keyword": "AI",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 관련된 게시글"
+      "sentiment": "positive",
+      "context": "최신 AI 기술 개발"
     },
     {
       "keyword": "반도체",
       "count": 10,
       "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 관련된 게시글"
+      "context": "반도체 산업의 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 25,
-    "neutral": 40,
-    "overall_mood": "부정적인 감정이 강한 편입니다."
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "한국 축구의 부진은 홍명보 감독의 책임론과 팀의 내부 문제로 인한 것일 수 있습니다.",
-      "action": "팀의 내부 문제를 해결하고 새로운 전략을 수립해야 합니다.",
+      "insight": "한국 축구 국가대표팀의 성적 향상을 위한 전략 개발",
+      "action": "전략 개발 및 마케팅",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스는 계속해서 발전하고 있습니다.",
-      "action": "최신 기술 뉴스를 계속해서 모니터링하고 연구해야 합니다.",
+      "insight": "AI 기술의 비즈니스 적용",
+      "action": "AI 기술 개발 및 투자",
       "priority": "medium"
+    },
+    {
+      "insight": "반도체 산업의 기술 개발",
+      "action": "기술 개발 및 투자",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 한국 축구의 월드컵 본선 진출 실패와 관련된 게시글이 많이 올라왔습니다. 홍명보 감독의 책임론과 팀의 부진이 논란의 중심입니다. 또한 최신 기술 뉴스와 관련된 게시글도 많이 올라왔습니다. AI, 로봇, 반도체 등 다양한 주제가 포함되어 있습니다. 이러한 트렌드를 분석하여 새로운 전략을 수립하고 최신 기술 뉴스를 계속해서 모니터링해야 합니다.",
-  "analyzed_at": "2026-06-28T01:30:33.539Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서 한국 축구 국가대표팀의 성적과 전략, AI 기술 개발, 반도체 산업의 동향이 주목을 받고 있습니다. 한국 축구 국가대표팀의 성적 향상을 위한 전략 개발과 AI 기술의 비즈니스 적용이 중요한 이슈로 나타나고 있습니다. 또한, 반도체 산업의 기술 개발도 중요한 영역으로 나타나고 있습니다. 이러한 이슈들은 비즈니스와 기술 개발에 중요한 영향을 미칠 수 있습니다.",
+  "analyzed_at": "2026-06-28T03:00:33.814Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
