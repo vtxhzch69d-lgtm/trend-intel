@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "홍명보 사퇴",
-      "summary": "홍명보 감독의 사퇴와 관련된 게시글이 많이 올라왔습니다. 사퇴 이유와 향후 축구계에 미칠 영향이 주목됩니다.",
+      "summary": "홍명보 감독의 사퇴와 관련된 게시글이 많습니다. 축구 팬들의 관심이 집중된 것으로 보입니다.",
       "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "최근 AI 기술 개발과 관련된 뉴스가 많이 올라왔습니다. Brain-to-Robot 기술 개발과 로봇 AI 개발 등이 주목됩니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 게시글이 많습니다. 로봇, 무인차량, Brain-to-Robot 기술 등 다양한 주제가 포함되어 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "반도체 산업",
-      "summary": "반도체 산업과 관련된 뉴스가 많이 올라왔습니다. SK하이닉스의 HBM 생산라인에 AI 심는 것과 데이터센터 러시에 전력수요 전망치 상향 추진 등이 주목됩니다.",
-      "post_count": 8,
+      "summary": "반도체 산업과 관련된 게시글이 많습니다. SK하이닉스, 삼성전자 등 주요 기업들의 동향이 포함되어 있습니다.",
+      "post_count": 5,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,19 +27,19 @@
       "keyword": "홍명보",
       "count": 20,
       "sentiment": "negative",
-      "context": "사퇴와 관련된 게시글에서 많이 언급되었습니다."
+      "context": "축구 감독의 사퇴와 관련된 게시글"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "기술 개발과 관련된 뉴스에서 많이 언급되었습니다."
+      "context": "로봇, 무인차량, Brain-to-Robot 기술 등 다양한 주제"
     },
     {
       "keyword": "반도체",
       "count": 10,
       "sentiment": "neutral",
-      "context": "산업과 관련된 뉴스에서 많이 언급되었습니다."
+      "context": "SK하이닉스, 삼성전자 등 주요 기업들의 동향"
     }
   ],
   "sentiment_overview": {
@@ -50,23 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "홍명보 사퇴로 축구계에 미칠 영향",
-      "action": "축구계와 관련된 비즈니스에 대한 분석",
+      "insight": "축구 팬들의 관심이 홍명보 사퇴로 집중됨",
+      "action": "홍명보 사퇴와 관련된 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 개발의 비즈니스 기회",
-      "action": "AI 기술 개발과 관련된 비즈니스 기회를 찾기",
+      "insight": "AI 기술이 다양한 산업에서 적용됨",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
     },
     {
-      "insight": "반도체 산업의 동향",
-      "action": "반도체 산업과 관련된 뉴스와 동향을 분석",
-      "priority": "medium"
+      "insight": "반도체 산업이 계속 성장함",
+      "action": "반도체 산업과 관련된 투자 및 파트너십 강화",
+      "priority": "low"
     }
   ],
-  "narrative": "最近のオンラインコミュニティのトレンドを分析した結果、香港明報の退任とAI技術開発がトレンドになっています。さらに、半導体産業の動向も注目されています。香港明報の退任は、サッカー界に大きな影響を与えることが予想されます。一方、AI技術開発は、ビジネス機会を創出することができます。半導体産業の動向は、業界のトレンドを理解するために重要です。",
-  "analyzed_at": "2026-06-28T20:30:34.587Z",
+  "narrative": "현재의 트렌드는 홍명보 사퇴와 관련된 게시글이 많습니다. 축구 팬들의 관심이 집중된 것으로 보입니다. 또한, AI 기술과 관련된 게시글이 많습니다. 로봇, 무인차량, Brain-to-Robot 기술 등 다양한 주제가 포함되어 있습니다. 반도체 산업도 계속 성장하고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립하고, 새로운 비즈니스 모델을 개발할 수 있습니다.",
+  "analyzed_at": "2026-06-28T22:00:33.927Z",
   "post_count": 59,
   "sources": [
     "ppomppu",
