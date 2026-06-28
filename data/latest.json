@@ -1,67 +1,78 @@
 {
   "trending_topics": [
     {
-      "topic": "홍명보",
-      "summary": "홍명보의 역사적인 업적과 그의 팀의 성과",
-      "post_count": 5,
+      "topic": "이재명 정부와 정치",
+      "summary": "이재명 정부와 관련된 정치적인 주제가 많이 논의되고 있습니다. 특히, 초과세수와 반도체 산업에 대한 논의가 많습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술과 산업",
+      "summary": "최신 기술과 산업 동향에 대한 주제가 많이 논의되고 있습니다. 특히, AI와 반도체 산업에 대한 논의가 많습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "월드컵",
-      "summary": "월드컵 관련 논란과 팀의 성과",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발과 그 응용",
+      "topic": "사회와 경제",
+      "summary": "사회와 경제에 대한 주제가 많이 논의되고 있습니다. 특히, 초과세수와 경제 성장에 대한 논의가 많습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "홍명보",
-      "count": 7,
-      "sentiment": "positive",
-      "context": "홍명보의 업적과 팀의 성과"
-    },
-    {
-      "keyword": "월드컵",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "월드컵 관련 논란"
+      "keyword": "이재명",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "이재명 정부와 관련된 정치적인 주제"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 AI 기술 개발과 그 응용"
+      "context": "최신 기술과 산업 동향"
+    },
+    {
+      "keyword": "반도체",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "최신 기술과 산업 동향"
+    },
+    {
+      "keyword": "초과세수",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "사회와 경제에 대한 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "긍정적"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발이 증가하고 있다",
-      "action": "AI 기술 개발에 투자하기",
+      "insight": "이재명 정부와 관련된 정치적인 주제가 많이 논의되고 있습니다.",
+      "action": "정치적인 주제에 대한 분석을 심화시킵니다.",
       "priority": "high"
     },
     {
-      "insight": "월드컵 관련 논란이 존재한다",
-      "action": "월드컵 관련 마케팅을 주의하기",
+      "insight": "최신 기술과 산업 동향에 대한 주제가 많이 논의되고 있습니다.",
+      "action": "최신 기술과 산업 동향에 대한 분석을 심화시킵니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "사회와 경제에 대한 주제가 많이 논의되고 있습니다.",
+      "action": "사회와 경제에 대한 분석을 심화시킵니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 홍명보와 월드컵, AI 기술 개발이 주를 이루고 있다. 홍명보의 역사적인 업적과 그의 팀의 성과는 많은 관심을 받고 있다. 그러나 월드컵 관련 논란도 존재한다. AI 기술 개발은 최근의 트렌드 중 하나로, 많은 기업이 AI 기술 개발에 투자하고 있다. 따라서 AI 기술 개발에 투자하는 것이 좋을 것으로 보인다. 또한, 월드컵 관련 마케팅을 주의하는 것이 좋을 것이다.",
-  "analyzed_at": "2026-06-28T11:30:33.647Z",
+  "narrative": "현재의 트렌드는 이재명 정부와 관련된 정치적인 주제, 최신 기술과 산업 동향, 사회와 경제에 대한 주제가 많이 논의되고 있습니다. 특히, 초과세수와 반도체 산업에 대한 논의가 많습니다. 이러한 트렌드는 정치, 경제, 산업 등 다양한 분야에 영향을 미치고 있습니다. 따라서, 이러한 트렌드에 대한 분석을 심화시켜야 합니다. 또한, 최신 기술과 산업 동향에 대한 분석을 심화시켜야 합니다. 사회와 경제에 대한 분석도 심화시켜야 합니다. 이러한 분석을 통해, 더 나은 의사결정을 할 수 있을 것입니다.",
+  "analyzed_at": "2026-06-28T13:00:34.485Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
