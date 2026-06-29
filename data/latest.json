@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구의 문제점과 발전 방향에 대한 논의",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "신천지",
-      "summary": "신천지와 관련된 정치적 논쟁",
-      "post_count": 8,
+      "topic": "김세의 구속 및 조작 의혹",
+      "summary": "김세의가 구속되고 조작 의혹이 제기됨에 따라 많은 사람들이 관심을 보임",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발과 적용에 대한 논의",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "신천지 국힘 집단 가입 의혹",
+      "summary": "신천지와 국힘의 집단 가입 의혹이 제기됨에 따라 많은 사람들이 관심을 보임",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "이준석 치명타",
+      "summary": "이준석이 정이한의 테러조작 및 학력조작 의혹으로 치명타를 입음",
+      "post_count": 1,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국 축구",
-      "count": 15,
+      "keyword": "김세의",
+      "count": 5,
       "sentiment": "negative",
-      "context": "한국 축구의 문제점"
+      "context": "김세의 구속 및 조작 의혹"
     },
     {
       "keyword": "신천지",
-      "count": 10,
+      "count": 2,
       "sentiment": "negative",
-      "context": "신천지와 관련된 정치적 논쟁"
+      "context": "신천지 국힘 집단 가입 의혹"
     },
     {
-      "keyword": "AI 기술",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "최신 AI 기술 개발과 적용"
+      "keyword": "이준석",
+      "count": 1,
+      "sentiment": "negative",
+      "context": "이준석 치명타"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 5,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 기운이 강함"
   },
   "business_insights": [
     {
-      "insight": "한국 축구의 문제점을 해결하기 위해 시스템적인 개선이 필요하다",
-      "action": "한국 축구 협회에 시스템적인 개선 제안",
-      "priority": "medium"
-    },
-    {
-      "insight": "신천지와 관련된 정치적 논쟁을 해결하기 위해 객관적인 정보가 필요하다",
-      "action": "신천지와 관련된 객관적인 정보 제공",
+      "insight": "정치 및 사회 문제가 많은 사람들의 관심을 끌고 있음",
+      "action": "관련된 뉴스 및 정보를 제공하여 사용자들의 관심을 끌기",
       "priority": "high"
     },
     {
-      "insight": "최신 AI 기술을 적용하여 비즈니스 모델을 혁신할 수 있다",
-      "action": "최신 AI 기술을 적용하여 비즈니스 모델 혁신",
-      "priority": "low"
+      "insight": "사용자들의 부정적인 감정 및 의견을 분석하여 마케팅 전략을 수립하기",
+      "action": "사용자들의 의견을 수집하여 마케팅 전략을 수립하기",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 한국 축구의 문제점과 신천지와 관련된 정치적 논쟁이热한 논제로 떠올랐다. 또한 최신 AI 기술 개발과 적용에 대한 논의도 활발하게 진행되고 있다. 이러한 논의를 통해 한국 축구의 문제점을 해결하고 신천지와 관련된 정치적 논쟁을 해결하며 최신 AI 기술을 적용하여 비즈니스 모델을 혁신할 수 있을 것으로 기대된다.",
-  "analyzed_at": "2026-06-28T23:30:33.861Z",
+  "narrative": "최근 클리앙 커뮤니티에서는 정치 및 사회 문제가 많은 사람들의 관심을 끌고 있음. 김세의 구속 및 조작 의혹, 신천지 국힘 집단 가입 의혹, 이준석 치명타 등이 주요한 주제로 등장하고 있음. 이러한 주제들은 사용자들의 부정적인 감정 및 의견을 불러일으키고 있으므로, 관련된 뉴스 및 정보를 제공하여 사용자들의 관심을 끌기 위한 마케팅 전략을 수립하는 것이 중요함. 또한, 사용자들의 의견을 수집하여 마케팅 전략을 수립하기 위한 분석이 필요함.",
+  "analyzed_at": "2026-06-29T01:00:33.739Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
