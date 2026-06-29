@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업 관련 투자와 기술 개발이 활발히 진행되고 있으며, 관련 뉴스와 기사들이 많이 게재되고 있습니다. 삼성, 하닉, 마이크론 등 주요 반도체 기업들이 메모리 담합 혐의로 피소되었습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "정청래 지지자분들한테 궁금한점이 있습니다. 정청래를 의심하는 합리적 이유",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스와 기사들이 많이 게재되고 있으며, 관련 산업의 성장과 발전에 대한 기대감이 높습니다. 삼성, LG 등 주요 기업들이 AI 기술 개발에 적극적으로 투자하고 있습니다.",
-      "post_count": 8,
+      "summary": "삼성, 반려견과 반려묘의 건강 상태를 확인하는 AI 앱 발표. AI 시대의 사과문",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "교육과 청소년",
-      "summary": "교육과 청소년 관련 문제들이 사회적으로 논의되고 있으며, 관련 뉴스와 기사들이 많이 게재되고 있습니다. 중고등학생 전체 대상으로 역사 인식 재교육이 필요하다는 의견이 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "경제",
+      "summary": "삼성·SK, 최소 2500조 이상 투자…AI·반도체 초격차 완성. 산업장관 '서남권 반도체에 800조…충청권에 81조 투자'",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "반도체 산업 관련 뉴스와 기사"
-    },
-    {
       "keyword": "AI",
-      "count": 12,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술 개발과 관련 산업의 성장"
+      "context": "AI 기술의 발전과 관련된 게시물"
     },
     {
-      "keyword": "교육",
+      "keyword": "정청래",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정청래와 관련된 정치 게시물"
+    },
+    {
+      "keyword": "삼성",
       "count": 8,
-      "sentiment": "negative",
-      "context": "교육과 청소년 관련 문제"
+      "sentiment": "positive",
+      "context": "삼성의 투자와 기술 개발 관련 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 성장",
-      "action": "관련 산업에 투자",
+      "insight": "AI 기술의 발전은 경제 성장의 핵심 동력",
+      "action": "AI 기술에 투자하고 연구 개발에 집중",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술 개발에 투자",
+      "insight": "정치적인 안정성은 경제 성장에 중요",
+      "action": "정치적인 안정성을 위해 노력",
       "priority": "medium"
-    },
-    {
-      "insight": "교육과 청소년 관련 문제",
-      "action": "관련 문제 해결을 위한 대책 마련",
-      "priority": "low"
     }
   ],
-  "narrative": "현재 반도체 산업과 AI 기술이 주목을 받고 있으며, 관련 뉴스와 기사들이 많이 게재되고 있습니다. 반도체 산업의 성장과 AI 기술의 발전은 관련 산업의 성장과 발전에 큰 기여를 할 것으로 예상됩니다. 그러나 교육과 청소년 관련 문제는 사회적으로 논의되고 있으며, 관련 문제 해결을 위한 대책 마련이 필요합니다. 따라서 관련 산업에 투자하고 AI 기술 개발에 투자하는 것이 좋은 전략일 것입니다.",
-  "analyzed_at": "2026-06-29T14:30:34.653Z",
-  "post_count": 61,
+  "narrative": "최근 클리앙 커뮤니티에서 인기 있는 주제는 정치, AI 기술, 경제 등입니다. 특히 AI 기술의 발전은 경제 성장의 핵심 동력으로 부각되고 있습니다. 또한 정치적인 안정성은 경제 성장에 중요하므로 이를 위해 노력해야 합니다. 이러한 트렌드와 인사이트를 바탕으로 사업을 진행하면 성공할 수 있을 것입니다.",
+  "analyzed_at": "2026-06-29T16:00:34.550Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
