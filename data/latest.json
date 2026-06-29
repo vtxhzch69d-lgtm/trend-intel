@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "김세의 구속 및 조작 의혹",
-      "summary": "김세의가 구속되고 조작 의혹이 제기됨에 따라 많은 사람들이 관심을 보임",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "정권 바꼈다고 외국으로 도망치고 계엄 났다고 숨고 도망친 유일한 인간, 박정희 기념사업 1200억 + 500억",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "신천지 국힘 집단 가입 의혹",
-      "summary": "신천지와 국힘의 집단 가입 의혹이 제기됨에 따라 많은 사람들이 관심을 보임",
-      "post_count": 2,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "새로운 GTA 6 기능 유출, 삼성 반려견과 반려묘의 건강 상태를 확인하는 AI 앱 발표",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "이준석 치명타",
-      "summary": "이준석이 정이한의 테러조작 및 학력조작 의혹으로 치명타를 입음",
-      "post_count": 1,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "경제",
+      "summary": "에어팟 프로3 심박수 측정 기능, 애플워치 넘본다, 기아 PV5 신규 라인업 앞세워 전동화 모빌리티 확장 비전 제시",
+      "post_count": 12,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김세의",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "김세의 구속 및 조작 의혹"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "기술 발전과 관련된 키워드"
     },
     {
-      "keyword": "신천지",
-      "count": 2,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "negative",
-      "context": "신천지 국힘 집단 가입 의혹"
+      "context": "정치 관련된 키워드"
     },
     {
-      "keyword": "이준석",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "이준석 치명타"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 기운이 강함"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 및 사회 문제가 많은 사람들의 관심을 끌고 있음",
-      "action": "관련된 뉴스 및 정보를 제공하여 사용자들의 관심을 끌기",
+      "insight": "기술 발전이 경제 성장에 기여할 수 있다",
+      "action": "기술 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "사용자들의 부정적인 감정 및 의견을 분석하여 마케팅 전략을 수립하기",
-      "action": "사용자들의 의견을 수집하여 마케팅 전략을 수립하기",
+      "insight": "정치 안정성이 경제 성장에 중요하다",
+      "action": "정치 안정화 노력",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 성장에 대한 관심이 증가하고 있다",
+      "action": "경제 성장 관련된 콘텐츠 제작",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 정치 및 사회 문제가 많은 사람들의 관심을 끌고 있음. 김세의 구속 및 조작 의혹, 신천지 국힘 집단 가입 의혹, 이준석 치명타 등이 주요한 주제로 등장하고 있음. 이러한 주제들은 사용자들의 부정적인 감정 및 의견을 불러일으키고 있으므로, 관련된 뉴스 및 정보를 제공하여 사용자들의 관심을 끌기 위한 마케팅 전략을 수립하는 것이 중요함. 또한, 사용자들의 의견을 수집하여 마케팅 전략을 수립하기 위한 분석이 필요함.",
-  "analyzed_at": "2026-06-29T01:00:33.739Z",
+  "narrative": "최근의 트렌드 분석 결과, 기술 발전과 정치 안정성이 경제 성장에 중요한 역할을 할 수 있다는 것을 알 수 있다. 또한, 경제 성장에 대한 관심이 증가하고 있으므로, 관련된 콘텐츠를 제작하여 사용자들의 관심을 끌 수 있을 것이다. 기술 투자와 정치 안정화 노력을 통해 경제 성장을 촉진할 수 있을 것으로 기대된다.",
+  "analyzed_at": "2026-06-29T02:30:34.457Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
