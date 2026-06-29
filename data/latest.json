@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대, 반도체 주식으로 돈번사람 빼고는 다 손해같네요",
+      "topic": "호남 반도체",
+      "summary": "호남 지역에 반도체 산업 클러스터 확대 계획이 논의되고 있으며, 관련 투자와 개발이 진행 중입니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI發 메모리 대란에 애플 결국 가격 인상, 적은 데이터로도 정밀 동작 구현하는 로봇 AI 개발",
+      "topic": "이재명 정부",
+      "summary": "이재명 정부의 정책과 결정에 대한 논의와 평가가 활발히 진행 중입니다.",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "이준석 '호남 반도체…불장난 하고 있다', 박지원 '유시민 자중해야…민주당 적통은 정청래보다 김민석'",
-      "post_count": 12,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 발전과 관련 기술 개발이 주목받고 있습니다.",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI發 메모리 대란에 애플 결국 가격 인상"
-    },
-    {
       "keyword": "호남",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대"
+      "count": 15,
+      "sentiment": "positive",
+      "context": "호남 지역의 경제 발전과 관련된 논의"
+    },
+    {
+      "keyword": "반도체",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "반도체 산업의 발전과 관련 기술 개발"
+    },
+    {
+      "keyword": "이재명",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "이재명 정부의 정책과 결정에 대한 평가"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적이며 혼재된 감정"
+    "positive": 30,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "낙관적"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 성장",
-      "action": "반도체 산업에 투자",
+      "insight": "호남 지역의 경제 발전을 위한 투자와 개발이 필요합니다.",
+      "action": "호남 지역에 대한 투자와 개발을 지원하는 정책을 마련합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "반도체 산업의 발전을 위한 기술 개발과 투자가 필요합니다.",
+      "action": "반도체 산업의 기술 개발과 투자를 지원하는 정책을 마련합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적 불안정성",
-      "action": "정치적 불안정성에 대비",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 반도체 산업과 AI 기술의 성장으로 특징지어지며, 정치적 불안정성도 존재합니다. 반도체 산업은 호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대와 같은 뉴스에서 볼 수 있듯이 성장하고 있습니다. AI 기술도 적은 데이터로도 정밀 동작 구현하는 로봇 AI 개발과 같은 뉴스에서 볼 수 있듯이 발전하고 있습니다. 그러나 정치적 불안정성도 존재하며, 이준석 '호남 반도체…불장난 하고 있다'와 같은 뉴스에서 볼 수 있듯이 정치적 논쟁도 존재합니다. 이러한 트렌드를 고려하여 비즈니스 전략을 수립할 필요가 있습니다.",
-  "analyzed_at": "2026-06-29T04:01:33.221Z",
+  "narrative": "현재의 트렌드는 호남 지역의 경제 발전과 반도체 산업의 발전을 중심으로 진행되고 있습니다. 이재명 정부의 정책과 결정에 대한 평가도 활발히 진행 중입니다. 이러한 트렌드에 따라, 호남 지역에 대한 투자와 개발, 반도체 산업의 기술 개발과 투자를 지원하는 정책을 마련하는 것이 필요합니다. 또한, 관련된 기술 개발과 투자가 필요합니다. 이러한 노력으로, 호남 지역의 경제 발전과 반도체 산업의 발전을 도모할 수 있을 것입니다.",
+  "analyzed_at": "2026-06-29T05:30:33.760Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
