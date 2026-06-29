@@ -1,91 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구의 최근 성적과 전략에 대한 논의",
+      "topic": "월드컵",
+      "summary": "일본과 브라질의 경기 결과와 하이라이트, 홍명보의 오만방자함 등이 논란이 되고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "topic": "일본 축구",
-      "summary": "일본 축구의 최근 성적과 전략에 대한 논의",
+      "topic": "AI",
+      "summary": "AI 관련 기술 개발과 투자, 산업 동향 등이 관심을 모으고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "브라질 축구",
-      "summary": "브라질 축구의 최근 성적과 전략에 대한 논의",
+      "topic": "반도체",
+      "summary": "삼성과 SK의 반도체 투자, 산업 장관의 반도체 산업 발전 방안 등이 논의되고 있습니다.",
       "post_count": 5,
       "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 트렌드에 대한 논의",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국 축구",
+      "keyword": "월드컵",
       "count": 20,
       "sentiment": "mixed",
-      "context": "한국 축구의 최근 성적과 전략"
-    },
-    {
-      "keyword": "일본 축구",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "일본 축구의 최근 성적과 전략"
-    },
-    {
-      "keyword": "브라질 축구",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "브라질 축구의 최근 성적과 전략"
+      "context": "일본과 브라질의 경기 결과와 하이라이트"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 트렌드"
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 관련 기술 개발과 투자"
     },
     {
       "keyword": "반도체",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 트렌드"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "삼성과 SK의 반도체 투자"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 40,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국 축구의 최근 성적과 전략에 대한 논의가 많아지고 있다",
-      "action": "한국 축구 관련 콘텐츠를 개발하여 마케팅에 활용",
-      "priority": "medium"
+      "insight": "AI 기술 개발과 투자가 증가하고 있습니다.",
+      "action": "AI 기술 개발과 투자에 대한 연구와 분석",
+      "priority": "high"
     },
     {
-      "insight": "일본 축구의 최근 성적과 전략에 대한 논의가 많아지고 있다",
-      "action": "일본 축구 관련 콘텐츠를 개발하여 마케팅에 활용",
+      "insight": "반도체 산업이 발전하고 있습니다.",
+      "action": "반도체 산업 동향과 투자 기회에 대한 연구",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 뉴스와 트렌드에 대한 논의가 많아지고 있다",
-      "action": "최신 기술 뉴스와 트렌드 관련 콘텐츠를 개발하여 마케팅에 활용",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 한국 축구와 일본 축구의 최근 성적과 전략에 대한 논의가 많아지고 있다. 또한, 최신 기술 뉴스와 트렌드에 대한 논의도 많아지고 있다. 이러한 트렌드를 분석하여 마케팅에 활용할 수 있는 기회가 많다. 특히, 한국 축구와 일본 축구 관련 콘텐츠를 개발하여 마케팅에 활용할 수 있을 것으로 보인다. 또한, 최신 기술 뉴스와 트렌드 관련 콘텐츠를 개발하여 마케팅에 활용할 수 있을 것으로 보인다.",
-  "analyzed_at": "2026-06-29T19:00:34.190Z",
+  "narrative": "현재의 트렌드는 월드컵과 AI, 반도체 산업 등이 주를 이루고 있습니다. 월드컵 관련 게시물은 일본과 브라질의 경기 결과와 하이라이트, 홍명보의 오만방자함 등이 논란이 되고 있습니다. AI 관련 기술 개발과 투자, 산업 동향 등이 관심을 모으고 있습니다. 반도체 산업도 삼성과 SK의 반도체 투자, 산업 장관의 반도체 산업 발전 방안 등이 논의되고 있습니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-06-29T20:30:34.492Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
