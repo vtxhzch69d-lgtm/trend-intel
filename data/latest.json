@@ -8,60 +8,65 @@
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 기술 개발과 투자, 산업 동향 등이 관심을 모으고 있습니다.",
-      "post_count": 10,
+      "topic": "AI와 기술",
+      "summary": "최신 기술 뉴스와 개발 동향, AI의 발전과 적용 등이 주목을 받고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "반도체",
-      "summary": "삼성과 SK의 반도체 투자, 산업 장관의 반도체 산업 발전 방안 등이 논의되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제와 산업",
+      "summary": "기업의 투자와 성장, 산업의 발전과 정책 등이 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "일본과 브라질의 경기 결과와 하이라이트"
-    },
-    {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 관련 기술 개발과 투자"
-    },
-    {
-      "keyword": "반도체",
       "count": 10,
       "sentiment": "positive",
-      "context": "삼성과 SK의 반도체 투자"
+      "context": "최신 기술과 발전"
+    },
+    {
+      "keyword": "월드컵",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "일본과 브라질의 경기 결과"
+    },
+    {
+      "keyword": "홍명보",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "오만방자함과 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 투자가 증가하고 있습니다.",
-      "action": "AI 기술 개발과 투자에 대한 연구와 분석",
+      "insight": "최신 기술과 AI의 발전",
+      "action": "투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업이 발전하고 있습니다.",
-      "action": "반도체 산업 동향과 투자 기회에 대한 연구",
+      "insight": "기업의 성장과 산업의 발전",
+      "action": "경영 전략과 마케팅",
       "priority": "medium"
+    },
+    {
+      "insight": "소비자와 시장의 트렌드",
+      "action": "마케팅과 고객 서비스",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 월드컵과 AI, 반도체 산업 등이 주를 이루고 있습니다. 월드컵 관련 게시물은 일본과 브라질의 경기 결과와 하이라이트, 홍명보의 오만방자함 등이 논란이 되고 있습니다. AI 관련 기술 개발과 투자, 산업 동향 등이 관심을 모으고 있습니다. 반도체 산업도 삼성과 SK의 반도체 투자, 산업 장관의 반도체 산업 발전 방안 등이 논의되고 있습니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-06-29T20:30:34.492Z",
+  "narrative": "최근의 트렌드는 월드컵과 최신 기술, 경제와 산업의 발전 등 다양한 주제로 구성되어 있습니다. AI와 기술은 긍정적인 감정을 가지고 있으며, 기업의 투자와 연구 개발이 필요합니다. 월드컵과 홍명보는 복합적인 감정을 가지고 있으며, 기업의 마케팅과 고객 서비스 전략이 필요합니다. 경제와 산업의 발전은 중립적인 감정을 가지고 있으며, 경영 전략과 마케팅이 필요합니다.",
+  "analyzed_at": "2026-06-29T22:00:34.285Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
