@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정권 바꼈다고 외국으로 도망치고 계엄 났다고 숨고 도망친 유일한 인간, 박정희 기념사업 1200억 + 500억",
+      "topic": "반도체 산업",
+      "summary": "호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대, 반도체 주식으로 돈번사람 빼고는 다 손해같네요",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "새로운 GTA 6 기능 유출, 삼성 반려견과 반려묘의 건강 상태를 확인하는 AI 앱 발표",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "AI發 메모리 대란에 애플 결국 가격 인상, 적은 데이터로도 정밀 동작 구현하는 로봇 AI 개발",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "에어팟 프로3 심박수 측정 기능, 애플워치 넘본다, 기아 PV5 신규 라인업 앞세워 전동화 모빌리티 확장 비전 제시",
+      "topic": "정치",
+      "summary": "이준석 '호남 반도체…불장난 하고 있다', 박지원 '유시민 자중해야…민주당 적통은 정청래보다 김민석'",
       "post_count": 12,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "기술 발전과 관련된 키워드"
-    },
-    {
-      "keyword": "정치",
+      "keyword": "반도체",
       "count": 15,
-      "sentiment": "negative",
-      "context": "정치 관련된 키워드"
+      "sentiment": "neutral",
+      "context": "호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대"
     },
     {
-      "keyword": "경제",
+      "keyword": "AI",
       "count": 10,
+      "sentiment": "positive",
+      "context": "AI發 메모리 대란에 애플 결국 가격 인상"
+    },
+    {
+      "keyword": "호남",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "경제 관련된 키워드"
+      "context": "호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 20,
     "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적이며 혼재된 감정"
   },
   "business_insights": [
     {
-      "insight": "기술 발전이 경제 성장에 기여할 수 있다",
-      "action": "기술 투자 증가",
+      "insight": "반도체 산업의 성장",
+      "action": "반도체 산업에 투자",
       "priority": "high"
     },
     {
-      "insight": "정치 안정성이 경제 성장에 중요하다",
-      "action": "정치 안정화 노력",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "medium"
     },
     {
-      "insight": "경제 성장에 대한 관심이 증가하고 있다",
-      "action": "경제 성장 관련된 콘텐츠 제작",
+      "insight": "정치적 불안정성",
+      "action": "정치적 불안정성에 대비",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 기술 발전과 정치 안정성이 경제 성장에 중요한 역할을 할 수 있다는 것을 알 수 있다. 또한, 경제 성장에 대한 관심이 증가하고 있으므로, 관련된 콘텐츠를 제작하여 사용자들의 관심을 끌 수 있을 것이다. 기술 투자와 정치 안정화 노력을 통해 경제 성장을 촉진할 수 있을 것으로 기대된다.",
-  "analyzed_at": "2026-06-29T02:30:34.457Z",
+  "narrative": "현재의 트렌드는 반도체 산업과 AI 기술의 성장으로 특징지어지며, 정치적 불안정성도 존재합니다. 반도체 산업은 호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대와 같은 뉴스에서 볼 수 있듯이 성장하고 있습니다. AI 기술도 적은 데이터로도 정밀 동작 구현하는 로봇 AI 개발과 같은 뉴스에서 볼 수 있듯이 발전하고 있습니다. 그러나 정치적 불안정성도 존재하며, 이준석 '호남 반도체…불장난 하고 있다'와 같은 뉴스에서 볼 수 있듯이 정치적 논쟁도 존재합니다. 이러한 트렌드를 고려하여 비즈니스 전략을 수립할 필요가 있습니다.",
+  "analyzed_at": "2026-06-29T04:01:33.221Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
