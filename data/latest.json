@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "호남 반도체 투자",
-      "summary": "호남 지역에 반도체 투자가 이루어지는 것에 대한 논의와 기대",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "호남 반도체",
+      "summary": "호남 반도체 산업의 발전과 관련된 다양한 의견과 논란",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령에 대한 평가와 정책에 대한 논의",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술의 개발과 적용에 관한 뉴스와 의견",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 그 응용에 대한 논의",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "정치",
+      "summary": "현재 정치 상황과 관련된 다양한 의견과 논란",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "호남",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "호남 지역에 대한 투자와 발전"
-    },
-    {
-      "keyword": "반도체",
+      "keyword": "호남 반도체",
       "count": 15,
-      "sentiment": "positive",
-      "context": "반도체 산업과 기술에 대한 논의"
+      "sentiment": "mixed",
+      "context": "호남 반도체 산업의 발전과 관련된 의견"
     },
     {
-      "keyword": "이재명",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "이재명 대통령에 대한 평가와 정책"
+      "sentiment": "positive",
+      "context": "최신 AI 기술의 개발과 적용"
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "현재 정치 상황과 관련된 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "호남 반도체 투자와 AI 기술에 대한 긍정적인 논의가 주를 이루고 있으나, 이재명 대통령에 대한 평가에는 혼재된 의견이 존재"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "호남 지역에 반도체 투자가 이루어질 경우 지역 경제에 긍정적인 영향을 미칠 수 있음",
-      "action": "호남 지역에 대한 투자와 지원을 강화",
+      "insight": "호남 반도체 산업의 발전은 지역 경제 성장에 기여할 수 있다",
+      "action": "호남 반도체 산업을 지원하고 투자하는 것을 고려",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 긍정적인 영향을 미칠 수 있음",
-      "action": "AI 기술의 연구와 개발을 지원",
+      "insight": "최신 AI 기술의 개발과 적용은 다양한 산업에서 경쟁력을 높일 수 있다",
+      "action": "AI 기술의 개발과 적용을 지원하고 투자하는 것을 고려",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 호남 반도체 투자와 AI 기술에 대한 논의가 주를 이루고 있습니다. 호남 지역에 대한 투자와 지원을 강화하고, AI 기술의 연구와 개발을 지원하는 것이 중요합니다. 또한, 이재명 대통령에 대한 평가에는 혼재된 의견이 존재하므로, 다양한 의견을 수렴하고 정책을 조정하는 것이 필요합니다.",
-  "analyzed_at": "2026-06-29T07:00:33.940Z",
+  "narrative": "현재의 트렌드는 호남 반도체 산업과 AI 기술의 개발과 적용에 관한 의견과 뉴스로 구성되어 있다. 호남 반도체 산업은 지역 경제 성장에 기여할 수 있지만, 다양한 의견과 논란이 존재한다. 최신 AI 기술의 개발과 적용은 다양한 산업에서 경쟁력을 높일 수 있다. 정치 상황과 관련된 의견도 많지만, 대부분 부정적인 감정을 가지고 있다. 이러한 트렌드를 고려하여, 호남 반도체 산업과 AI 기술의 개발과 적용을 지원하고 투자하는 것을 고려해야 한다.",
+  "analyzed_at": "2026-06-29T08:30:33.800Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
