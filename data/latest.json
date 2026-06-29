@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "호남 반도체",
-      "summary": "호남 반도체 산업의 발전과 관련된 다양한 의견과 논란",
+      "topic": "호남 반도체 투자",
+      "summary": "호남 지역에 반도체 투자 계획이 발표되었습니다. 이 투자는 지역 경제 발전에 기여할 것으로 기대됩니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술의 개발과 적용에 관한 뉴스와 의견",
-      "post_count": 8,
+      "topic": "AI 기술 개발",
+      "summary": "최근 AI 기술 개발이 급속히 진행되고 있습니다. 이 기술은 다양한 산업 분야에서 활용될 것으로 기대됩니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "현재 정치 상황과 관련된 다양한 의견과 논란",
-      "post_count": 12,
+      "topic": "스타벅스 야구부",
+      "summary": "스타벅스 야구부의 도발적인 행동이 논란이 되고 있습니다.",
+      "post_count": 5,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "호남 반도체",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "호남 반도체 산업의 발전과 관련된 의견"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "최신 AI 기술의 개발과 적용"
+      "context": "호남 지역에 반도체 투자 계획"
     },
     {
-      "keyword": "정치",
-      "count": 12,
+      "keyword": "AI 기술",
+      "count": 25,
+      "sentiment": "positive",
+      "context": "AI 기술 개발과 활용"
+    },
+    {
+      "keyword": "스타벅스",
+      "count": 5,
       "sentiment": "negative",
-      "context": "현재 정치 상황과 관련된 의견"
+      "context": "스타벅스 야구부의 도발적인 행동"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "기대와 관심이 높은 분위기"
   },
   "business_insights": [
     {
-      "insight": "호남 반도체 산업의 발전은 지역 경제 성장에 기여할 수 있다",
-      "action": "호남 반도체 산업을 지원하고 투자하는 것을 고려",
+      "insight": "호남 지역에 반도체 투자 계획이 발표됨",
+      "action": "지역 경제 발전에 기여할 수 있는 투자 기회를 모색",
       "priority": "high"
     },
     {
-      "insight": "최신 AI 기술의 개발과 적용은 다양한 산업에서 경쟁력을 높일 수 있다",
-      "action": "AI 기술의 개발과 적용을 지원하고 투자하는 것을 고려",
+      "insight": "AI 기술 개발이 급속히 진행됨",
+      "action": "AI 기술을 활용하여 산업 분야의 효율성을 높일 수 있는 방안을 모색",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 호남 반도체 산업과 AI 기술의 개발과 적용에 관한 의견과 뉴스로 구성되어 있다. 호남 반도체 산업은 지역 경제 성장에 기여할 수 있지만, 다양한 의견과 논란이 존재한다. 최신 AI 기술의 개발과 적용은 다양한 산업에서 경쟁력을 높일 수 있다. 정치 상황과 관련된 의견도 많지만, 대부분 부정적인 감정을 가지고 있다. 이러한 트렌드를 고려하여, 호남 반도체 산업과 AI 기술의 개발과 적용을 지원하고 투자하는 것을 고려해야 한다.",
-  "analyzed_at": "2026-06-29T08:30:33.800Z",
+  "narrative": "최근 호남 지역에 반도체 투자 계획이 발표되었습니다. 이 투자는 지역 경제 발전에 기여할 것으로 기대됩니다. 또한, AI 기술 개발이 급속히 진행되고 있습니다. 이 기술은 다양한 산업 분야에서 활용될 것으로 기대됩니다. 그러나, 스타벅스 야구부의 도발적인 행동이 논란이 되고 있습니다. 이러한 상황에서, 기업들은 지역 경제 발전에 기여할 수 있는 투자 기회를 모색하고, AI 기술을 활용하여 산업 분야의 효율성을 높일 수 있는 방안을 모색해야 할 것입니다.",
+  "analyzed_at": "2026-06-29T10:00:33.923Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
