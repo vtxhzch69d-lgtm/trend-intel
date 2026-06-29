@@ -1,72 +1,91 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 및 AI 기술",
-      "summary": "서남권 반도체 산업의 발전과 AI 기술의 적용이 주목받고 있습니다. 산업장관은 800조의 투자를 예고하였습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치 및 사회 문제",
-      "summary": "정청래 지지자들과의 논쟁, 배재고 사건, 촉법소년 제도 등 다양한 정치 및 사회 문제가 논의되고 있습니다.",
+      "topic": "한국 축구",
+      "summary": "한국 축구의 최근 성적과 전략에 대한 논의",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "게임 및 기술",
-      "summary": "GTA6의 스위치2로의 이식작업, 닌텐도 스위치 2의 가격 인상, 새로운 GTA 6 기능의 유출 등 게임 및 기술 관련 뉴스가 주목받고 있습니다.",
-      "post_count": 8,
+      "topic": "일본 축구",
+      "summary": "일본 축구의 최근 성적과 전략에 대한 논의",
+      "post_count": 10,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "브라질 축구",
+      "summary": "브라질 축구의 최근 성적과 전략에 대한 논의",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 트렌드에 대한 논의",
+      "post_count": 20,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 12,
+      "keyword": "한국 축구",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "한국 축구의 최근 성적과 전략"
+    },
+    {
+      "keyword": "일본 축구",
+      "count": 15,
       "sentiment": "positive",
-      "context": "서남권 반도체 산업의 발전"
+      "context": "일본 축구의 최근 성적과 전략"
+    },
+    {
+      "keyword": "브라질 축구",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "브라질 축구의 최근 성적과 전략"
     },
     {
       "keyword": "AI",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 적용과 발전"
+      "sentiment": "neutral",
+      "context": "최신 기술 뉴스와 트렌드"
     },
     {
-      "keyword": "정청래",
+      "keyword": "반도체",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "정청래 지지자들과의 논쟁"
+      "sentiment": "neutral",
+      "context": "최신 기술 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "호의적이지만 논쟁적인 분위기"
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "서남권 반도체 산업의 발전",
-      "action": "투자 및 기술 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술의 적용과 발전",
-      "action": "연구 및 개발",
+      "insight": "한국 축구의 최근 성적과 전략에 대한 논의가 많아지고 있다",
+      "action": "한국 축구 관련 콘텐츠를 개발하여 마케팅에 활용",
       "priority": "medium"
     },
     {
-      "insight": "게임 및 기술 관련 뉴스",
-      "action": "마케팅 및 홍보",
+      "insight": "일본 축구의 최근 성적과 전략에 대한 논의가 많아지고 있다",
+      "action": "일본 축구 관련 콘텐츠를 개발하여 마케팅에 활용",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 뉴스와 트렌드에 대한 논의가 많아지고 있다",
+      "action": "최신 기술 뉴스와 트렌드 관련 콘텐츠를 개발하여 마케팅에 활용",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 반도체 및 AI 기술의 발전과 정치 및 사회 문제의 논의로 특징지어집니다. 서남권 반도체 산업의 발전과 AI 기술의 적용은 주목받고 있으며, 정청래 지지자들과의 논쟁, 배재고 사건, 촉법소년 제도 등 다양한 정치 및 사회 문제가 논의되고 있습니다. 게임 및 기술 관련 뉴스도 주목받고 있지만, 우선순위는 낮습니다. 이러한 트렌드를 고려하여 마케팅 및 홍보 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-06-29T17:30:34.184Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서는 한국 축구와 일본 축구의 최근 성적과 전략에 대한 논의가 많아지고 있다. 또한, 최신 기술 뉴스와 트렌드에 대한 논의도 많아지고 있다. 이러한 트렌드를 분석하여 마케팅에 활용할 수 있는 기회가 많다. 특히, 한국 축구와 일본 축구 관련 콘텐츠를 개발하여 마케팅에 활용할 수 있을 것으로 보인다. 또한, 최신 기술 뉴스와 트렌드 관련 콘텐츠를 개발하여 마케팅에 활용할 수 있을 것으로 보인다.",
+  "analyzed_at": "2026-06-29T19:00:34.190Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
