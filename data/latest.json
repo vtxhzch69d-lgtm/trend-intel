@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "배재고 사건",
-      "summary": "배재고 사건에 대한 논란과 반응",
+      "summary": "배재고 사건 관련 게시물이 많이 올라왔습니다. 학생들의 행동과 관련된 논란이 있습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "한국의 반도체 산업에 대한 투자와 발전",
-      "post_count": 10,
+      "topic": "호남 반도체 클러스터",
+      "summary": "호남 반도체 클러스터 관련 게시물이 많이 올라왔습니다. 정부의 투자와 관련된 기대감이 있습니다.",
+      "post_count": 4,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용",
-      "post_count": 8,
+      "topic": "페이블 5",
+      "summary": "페이블 5 관련 게시물이 많이 올라왔습니다. 제품의 출시와 관련된 기대감이 있습니다.",
+      "post_count": 3,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -25,43 +25,48 @@
   "keywords": [
     {
       "keyword": "배재고",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "배재고 사건에 대한 논란"
-    },
-    {
-      "keyword": "반도체",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "한국의 반도체 산업에 대한 투자와 발전"
-    },
-    {
-      "keyword": "AI",
       "count": 10,
+      "sentiment": "negative",
+      "context": "학생들의 행동과 관련된 논란"
+    },
+    {
+      "keyword": "호남 반도체 클러스터",
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "정부의 투자와 관련된 기대감"
+    },
+    {
+      "keyword": "페이블 5",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "제품의 출시와 관련된 기대감"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 20,
     "negative": 15,
     "neutral": 10,
-    "overall_mood": "한국의 기술 산업에 대한 긍정적인 기대감이 높은 반면, 사회적인 문제에 대한 부정적인 반응이 존재"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국의 반도체 산업에 대한 투자가 증가할 것으로 예상",
-      "action": "반도체 산업에 대한 투자와 연구 개발에 집중",
+      "insight": "호남 반도체 클러스터의 투자는 지역 경제 성장에 기여할 수 있습니다.",
+      "action": "투자 확대",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 적용될 것으로 예상",
-      "action": "AI 기술의 연구 개발과 적용에 집중",
+      "insight": "배재고 사건은 학생들의 행동과 관련된 논란을 조심해야 합니다.",
+      "action": "교육 프로그램 개발",
+      "priority": "medium"
+    },
+    {
+      "insight": "페이블 5의 출시는 기술 산업의 발전에 기여할 수 있습니다.",
+      "action": "제품 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 한국의 온라인 커뮤니티에서 인기 있는 주제는 배재고 사건, 반도체 산업, AI 기술 등이다. 배재고 사건에 대한 논란과 반응이 많은 반면, 한국의 반도체 산업과 AI 기술에 대한 투자와 발전이 긍정적인 기대감을 조성하고 있다. 이러한 추세는 한국의 기술 산업에 대한 긍정적인 기대감이 높은 반면, 사회적인 문제에 대한 부정적인 반응이 존재한다는 것을 나타낸다. 따라서, 반도체 산업과 AI 기술에 대한 투자와 연구 개발에 집중하는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-06-30T22:00:34.153Z",
+  "narrative": "최근의 트렌드 분석 결과, 배재고 사건과 호남 반도체 클러스터, 페이블 5가 주요 주제로 나타났습니다. 배재고 사건은 학생들의 행동과 관련된 논란을 조심해야 합니다. 호남 반도체 클러스터의 투자는 지역 경제 성장에 기여할 수 있습니다. 페이블 5의 출시는 기술 산업의 발전에 기여할 수 있습니다. 이러한 주제들은 중립적이고 긍정적인 감정으로 나타났습니다. 기업들은 이러한 트렌드에 따라 투자 확대, 교육 프로그램 개발, 제품 개발 등의 액션을 취할 수 있습니다.",
+  "analyzed_at": "2026-06-30T23:30:34.131Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
