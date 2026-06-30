@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "호남 반도체 투자",
-      "summary": "호남 지역에 대한 반도체 투자와 관련된 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자는 정부의 투자 계획을 지지하며, 다른 사용자는 투자의 효율성과 지역 발전에 대한 우려를 제기합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "배재고 사건",
+      "summary": "배재고 사건에 대한 논란과 반응",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "이재명 대통령",
-      "summary": "이재명 대통령에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 일부 사용자는 대통령의 정책과 리더십을 지지하며, 다른 사용자는 대통령의 결정과 행동에 대한 비판을 제기합니다.",
-      "post_count": 8,
+      "summary": "이재명 대통령에 대한 평가와 전망",
+      "post_count": 3,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "부동산 시장과 관련된 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 일부 사용자는 부동산 가격과 시장 동향에 대한 우려를 제기하며, 다른 사용자는 부동산 투자와 관련된 기회를 탐색합니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "AI와 기술",
+      "summary": "최신 기술과 AI 관련 뉴스",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "호남 반도체",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "호남 지역에 대한 반도체 투자와 관련된 논의"
-    },
-    {
-      "keyword": "이재명 대통령",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "이재명 대통령에 대한 논의"
-    },
-    {
-      "keyword": "부동산 시장",
-      "count": 8,
+      "keyword": "배재고",
+      "count": 7,
       "sentiment": "negative",
-      "context": "부동산 시장과 관련된 논의"
+      "context": "배재고 사건과 관련된 논란"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "이재명 대통령에 대한 평가와 전망"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술과 AI 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "호남 지역에 대한 반도체 투자가 지역 경제 발전에 긍정적인 영향을 미칠 수 있습니다.",
-      "action": "호남 지역에 대한 투자와 협력을 강화합니다.",
+      "insight": "배재고 사건은 교육과 사회 문제에 대한 관심을 높일 수 있다",
+      "action": "교육과 사회 문제에 대한 콘텐츠를 개발한다",
       "priority": "high"
     },
     {
-      "insight": "이재명 대통령의 정책과 리더십은 국내 정치와 경제에 영향을 미칠 수 있습니다.",
-      "action": "이재명 대통령의 정책과 결정에 대한 지속적인 모니터링과 분석을 수행합니다.",
+      "insight": "이재명 대통령에 대한 평가와 전망은 정치와 경제에 대한 관심을 높일 수 있다",
+      "action": "정치와 경제에 대한 콘텐츠를 개발한다",
       "priority": "medium"
     },
     {
-      "insight": "부동산 시장의 동향과 우려는 소비자와 투자자의 행동에 영향을 미칠 수 있습니다.",
-      "action": "부동산 시장의 동향과 우려에 대한 지속적인 모니터링과 분석을 수행합니다.",
+      "insight": "최신 기술과 AI는 미래의 산업과 경제에 대한 관심을 높일 수 있다",
+      "action": "최신 기술과 AI에 대한 콘텐츠를 개발한다",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 활발하게 진행되는 논의는 호남 반도체 투자, 이재명 대통령, 부동산 시장 등 다양한 주제를 포함합니다. 이러한 논의는 국내 정치, 경제, 사회에 대한 이해와 분석을 제공하며, 기업과 기관은 이러한 논의를 통해 소비자와 투자자의 행동과 우려를 이해하고, 이를 반영한 전략과 정책을 수립할 수 있습니다. 또한, 이러한 논의는 국내외 경제와 정치에 대한 이해와 분석을 제공하며, 기업과 기관은 이러한 논의를 통해 글로벌 시장과 경쟁에 대한 준비를 할 수 있습니다.",
-  "analyzed_at": "2026-06-30T02:30:34.128Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 배재고 사건과 이재명 대통령에 대한 평가와 전망이 주목을 끌고 있다. 또한, 최신 기술과 AI에 대한 관심이 높아지고 있다. 이러한 트렌드와 키워드를 활용하여 교육과 사회 문제, 정치와 경제, 최신 기술과 AI에 대한 콘텐츠를 개발할 수 있다. 이러한 콘텐츠는 사용자들의 관심과 참여를 높일 수 있을 것으로 기대된다.",
+  "analyzed_at": "2026-06-30T04:00:34.293Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
