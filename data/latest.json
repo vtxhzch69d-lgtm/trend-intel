@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "최근의 경제 및 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 주택 가격과 환율, 정부의 정책 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 20,
+      "topic": "한국 축구",
+      "summary": "한국 축구 대표팀의 최근 성적과 전략에 대한 논의",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 정치",
+      "summary": "한국 경제와 정치 상황에 대한 논의",
+      "post_count": 20,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술 및 산업",
-      "summary": "최신 기술과 산업 동향이 많은 관심을 받고 있습니다. AI, 반도체, 전기차 등 다양한 분야의 뉴스와 개발이 논의되고 있습니다.",
+      "summary": "최신 기술과 산업 동향에 대한 논의",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "스포츠",
-      "summary": "최근의 스포츠 뉴스와 논의가 많은 관심을 받고 있습니다. 축구와 관련된 주제가 특히 많은 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주택 가격",
+      "keyword": "이정효",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "한국 축구 대표팀 감독"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
       "sentiment": "negative",
-      "context": "주택 가격이 높아지는 문제에 대한 우려"
+      "context": "한국 경제 상황"
     },
     {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 잠재적 활용"
-    },
-    {
-      "keyword": "반도체",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "반도체 산업의 성장과 투자"
+      "context": "최신 기술 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "한국 축구와 기술에 대한 긍정적 인식, 경제와 정치에 대한 부정적 인식"
   },
   "business_insights": [
     {
-      "insight": "주택 가격과 관련된 정책과 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "주택 가격과 관련된 정책과 뉴스를 주시하고, 이를 활용하여 마케팅 전략을 수립할 수 있습니다.",
+      "insight": "한국 축구 대표팀의 최근 성적과 전략에 대한 논의가 많아지고 있다",
+      "action": "한국 축구 대표팀의 마케팅 전략을 개발한다",
+      "priority": "medium"
+    },
+    {
+      "insight": "한국 경제와 정치 상황에 대한 논의가 많아지고 있다",
+      "action": "한국 경제와 정치 상황에 대한 분석을 수행한다",
       "priority": "high"
     },
     {
-      "insight": "AI와 반도체 기술의 발전이 많은 관심을 받고 있습니다.",
-      "action": "AI와 반도체 기술의 발전을 주시하고, 이를 활용하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
-      "priority": "medium"
+      "insight": "최신 기술과 산업 동향에 대한 논의가 많아지고 있다",
+      "action": "최신 기술과 산업 동향에 대한 연구를 수행한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 경제 및 정치, 기술 및 산업, 스포츠 등 다양한 주제가 많은 관심을 받고 있습니다. 주택 가격과 관련된 정책과 뉴스가 특히 많은 관심을 받고 있습니다. 또한, AI와 반도체 기술의 발전이 많은 관심을 받고 있습니다. 이러한 트렌드를 주시하고, 이를 활용하여 마케팅 전략을 수립할 수 있습니다. 또한, 새로운 비즈니스 기회를 찾기 위해 AI와 반도체 기술의 발전을 주시할 수 있습니다.",
-  "analyzed_at": "2026-06-30T08:30:34.215Z",
-  "post_count": 62,
+  "narrative": "한국 온라인 커뮤니티에서 한국 축구 대표팀의 최근 성적과 전략, 한국 경제와 정치 상황, 최신 기술과 산업 동향에 대한 논의가 많아지고 있다. 이러한 논의는 한국 축구와 기술에 대한 긍정적 인식, 경제와 정치에 대한 부정적 인식을 나타낸다. 이러한 인식은 마케팅 전략과 사업 전략을 개발하는 데 중요한 역할을 할 수 있다.",
+  "analyzed_at": "2026-06-30T10:00:33.910Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
