@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "호남 반도체 투자",
-      "summary": "호남 지역에 반도체 공장을 투자하여 지역 경제를 활성화하고 고용 창출을 도모하는 계획이 논의되고 있다. 이 투자는 지역의 산업 발전에 큰 기여를 할 것으로 기대된다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "경제 및 정치",
+      "summary": "최근의 경제 및 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 주택 가격과 환율, 정부의 정책 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 개발",
-      "summary": "최근 AI 기술이 빠르게 발전하고 있으며, 이를 활용한 다양한 산업과 서비스가 등장하고 있다. 이 기술은 미래 산업의 핵심으로 여겨지고 있다.",
+      "topic": "기술 및 산업",
+      "summary": "최신 기술과 산업 동향이 많은 관심을 받고 있습니다. AI, 반도체, 전기차 등 다양한 분야의 뉴스와 개발이 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 주식 시장",
-      "summary": "현재 경제 및 주식 시장의 동향을 분석하고, 투자 전략을 논의하는 게시글이 많다. 시장의 변동성과 불확실성이 높아 투자자들의 관심이 집중되고 있다.",
-      "post_count": 12,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "스포츠",
+      "summary": "최근의 스포츠 뉴스와 논의가 많은 관심을 받고 있습니다. 축구와 관련된 주제가 특히 많은 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "호남 반도체",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "지역 경제 활성화와 고용 창출"
+      "keyword": "주택 가격",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "주택 가격이 높아지는 문제에 대한 우려"
     },
     {
-      "keyword": "AI 기술",
-      "count": 25,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "미래 산업의 핵심 기술"
+      "context": "AI 기술의 발전과 잠재적 활용"
     },
     {
-      "keyword": "주식 시장",
-      "count": 18,
-      "sentiment": "mixed",
-      "context": "투자 전략과 시장 분석"
+      "keyword": "반도체",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "반도체 산업의 성장과 투자"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "기대와 관심이 높은 분위기"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적이지만 약간 부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "호남 지역에 반도체 공장을 투자하여 지역 경제를 활성화할 수 있다.",
-      "action": "투자 계획 수립과 지역 산업 발전 지원",
+      "insight": "주택 가격과 관련된 정책과 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "주택 가격과 관련된 정책과 뉴스를 주시하고, 이를 활용하여 마케팅 전략을 수립할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술을 활용한 산업과 서비스 개발이 미래 산업의 핵심이 될 수 있다.",
-      "action": "AI 기술 연구 개발과 산업 적용 지원",
+      "insight": "AI와 반도체 기술의 발전이 많은 관심을 받고 있습니다.",
+      "action": "AI와 반도체 기술의 발전을 주시하고, 이를 활용하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 주식 시장의 변동성과 불확실성을 고려한 투자 전략이 필요하다.",
-      "action": "시장 분석과 투자 전략 수립",
-      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 호남 반도체 투자, AI 기술 개발, 그리고 경제 및 주식 시장의 동향을 중심으로 형성되고 있다. 이러한 트렌드는 지역 경제 활성화, 미래 산업의 발전, 그리고 투자 전략의 중요성을 강조하고 있다. 따라서, 관련 산업과 투자자들은 이러한 트렌드를 주시하고, 적절한 전략을 수립하여 기회를 잡고 위험을 관리할 필요가 있다.",
-  "analyzed_at": "2026-06-30T07:00:36.544Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 경제 및 정치, 기술 및 산업, 스포츠 등 다양한 주제가 많은 관심을 받고 있습니다. 주택 가격과 관련된 정책과 뉴스가 특히 많은 관심을 받고 있습니다. 또한, AI와 반도체 기술의 발전이 많은 관심을 받고 있습니다. 이러한 트렌드를 주시하고, 이를 활용하여 마케팅 전략을 수립할 수 있습니다. 또한, 새로운 비즈니스 기회를 찾기 위해 AI와 반도체 기술의 발전을 주시할 수 있습니다.",
+  "analyzed_at": "2026-06-30T08:30:34.215Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
