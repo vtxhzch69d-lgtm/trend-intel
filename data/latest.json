@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 축구",
-      "summary": "한국 축구 대표팀의 최근 성적과 전략에 대한 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "한국 경제와 정치 상황에 대한 논의",
-      "post_count": 20,
-      "sentiment": "negative",
+      "topic": "반도체 산업",
+      "summary": "한국의 반도체 산업이 급성장하고 있으며, 주요 기업들이 대규모 투자를 계획하고 있습니다. 이에 따라 관련 기술과 인프라 개발이 활발히 진행되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술과 산업 동향에 대한 논의",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 산업 분야에서 적용되고 있으며, 관련 뉴스와 개발이 속속들이 발표되고 있습니다. 이는 미래 산업 경쟁력 강화에 중요한 역할을 할 것으로 기대됩니다.",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "국내 정치",
+      "summary": "국내 정치 뉴스가 다양하게 обсужд되고 있으며, 정치 현안과 정책에 대한 관심이 높습니다. 특히, 최근의 선거와 정치 현안에 대한 논의가 활발히 진행되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이정효",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "한국 축구 대표팀 감독"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "한국 경제 상황"
+      "keyword": "반도체",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "한국의 반도체 산업 성장"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술 동향"
+      "context": "AI 기술의 산업 적용"
+    },
+    {
+      "keyword": "국내 정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "국내 정치 현안과 정책"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "한국 축구와 기술에 대한 긍정적 인식, 경제와 정치에 대한 부정적 인식"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "한국의 산업 성장과 기술 발전에 대한 기대감이 높습니다. 그러나 국내 정치 현안에 대한 우려도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "한국 축구 대표팀의 최근 성적과 전략에 대한 논의가 많아지고 있다",
-      "action": "한국 축구 대표팀의 마케팅 전략을 개발한다",
-      "priority": "medium"
-    },
-    {
-      "insight": "한국 경제와 정치 상황에 대한 논의가 많아지고 있다",
-      "action": "한국 경제와 정치 상황에 대한 분석을 수행한다",
+      "insight": "한국의 반도체 산업은 급성장하고 있으며, 관련 기술과 인프라 개발에 대한 투자가 필요합니다.",
+      "action": "관련 기술과 인프라 개발에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "최신 기술과 산업 동향에 대한 논의가 많아지고 있다",
-      "action": "최신 기술과 산업 동향에 대한 연구를 수행한다",
-      "priority": "low"
+      "insight": "AI 기술의 산업 적용은 미래 산업 경쟁력 강화에 중요한 역할을 할 것입니다.",
+      "action": "AI 기술의 산업 적용을 위한 연구 개발 투자",
+      "priority": "medium"
     }
   ],
-  "narrative": "한국 온라인 커뮤니티에서 한국 축구 대표팀의 최근 성적과 전략, 한국 경제와 정치 상황, 최신 기술과 산업 동향에 대한 논의가 많아지고 있다. 이러한 논의는 한국 축구와 기술에 대한 긍정적 인식, 경제와 정치에 대한 부정적 인식을 나타낸다. 이러한 인식은 마케팅 전략과 사업 전략을 개발하는 데 중요한 역할을 할 수 있다.",
-  "analyzed_at": "2026-06-30T10:00:33.910Z",
+  "narrative": "한국의 산업 성장은 반도체 산업과 AI 기술의 발전에 크게 기여하고 있습니다. 이러한 성장에는 관련 기술과 인프라 개발에 대한 투자가 필요하며, 이를 통해 미래 산업 경쟁력 강화에 중요한 역할을 할 것입니다. 그러나 국내 정치 현안에 대한 우려도 존재하므로, 이를 해결하기 위한 노력이 필요합니다. 또한, AI 기술의 산업 적용을 위한 연구 개발 투자가 필요하며, 이를 통해 산업 경쟁력 강화에 기여할 수 있습니다.",
+  "analyzed_at": "2026-06-30T11:30:35.598Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
