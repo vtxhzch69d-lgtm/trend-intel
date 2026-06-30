@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "배재고 사건",
-      "summary": "배재고 학생들의 비하 발언과 폭력 사건에 대한 논의",
-      "post_count": 7,
-      "sentiment": "negative",
+      "topic": "반도체 산업",
+      "summary": "한국의 반도체 산업이 빠르게 성장하고 있으며, 삼성전자, SK하이닉스 등 주요 기업들이 대규모 투자를 진행하고 있다. 이에 따라 관련 기술과 산업이 발전하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "정당 선거와 정치 관련된 다양한 주제에 대한 논의",
+      "topic": "AI 기술",
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 관련 뉴스와 논문이 많이 나오고 있다. 특히, 한국의 기업들이 AI 기술을 활용하여 새로운 비즈니스 모델을 개발하고 있다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술과 산업 관련된 뉴스 및 개발에 대한 논의",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치 및 사회",
+      "summary": "한국의 정치와 사회에 관한 논의가 활발히 진행되고 있으며, 다양한 의견과 관점이 존재한다. 특히, 청년층과 정치에 관한 관심이 높아지고 있다.",
+      "post_count": 12,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "배재고",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "배재고 학생들의 비하 발언과 폭력 사건"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정당 선거와 정치 관련된 다양한 주제"
+      "keyword": "반도체",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "한국의 반도체 산업이 성장하고 있다."
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술과 산업 관련된 뉴스 및 개발"
+      "context": "AI 기술이 다양한 분야에서 적용되고 있다."
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "한국의 정치에 관한 논의가 활발히 진행되고 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "한국의 기술 산업이 성장하고 있으며, 정치와 사회에 관한 논의가 활발히 진행되고 있다."
   },
   "business_insights": [
     {
-      "insight": "배재고 사건은 학교 폭력과 비하 발언에 대한 문제를 다시 조명",
-      "action": "학교 폭력과 비하 발언에 대한 대책 마련",
+      "insight": "한국의 반도체 산업이 성장하고 있다.",
+      "action": "관련 기술과 산업에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "정치 및 선거 관련된 주제는 여전히 많은 관심을 받고 있다",
-      "action": "정치 및 선거 관련된 주제에 대한 더 많은 분석과 연구",
+      "insight": "AI 기술이 다양한 분야에서 적용되고 있다.",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발하기",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술과 산업 관련된 뉴스는 계속해서 증가하고 있다",
-      "action": "최신 기술과 산업 관련된 뉴스에 대한 더 많은 분석과 연구",
+      "insight": "한국의 정치와 사회에 관한 논의가 활발히 진행되고 있다.",
+      "action": "관련 뉴스와 논문에 주목하기",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 배재고 사건과 정치 및 선거 관련된 주제가 많은 관심을 받고 있다. 또한, 최신 기술과 산업 관련된 뉴스도 계속해서 증가하고 있다. 이러한 트렌드는 학교 폭력과 비하 발언에 대한 문제를 다시 조명하고, 정치 및 선거 관련된 주제에 대한 더 많은 분석과 연구를 필요로 한다. 또한, 최신 기술과 산업 관련된 뉴스에 대한 더 많은 분석과 연구도 필요하다. 이러한 트렌드에 대한 분석과 연구를 통해, 더 나은 대책과 전략을 마련할 수 있을 것이다.",
-  "analyzed_at": "2026-06-30T13:00:34.453Z",
+  "narrative": "한국의 기술 산업은 빠르게 성장하고 있으며, 반도체 산업과 AI 기술이 주도하고 있다. 이에 따라 관련 기술과 산업에 투자하기 위한 기회가 많이 존재한다. 또한, 한국의 정치와 사회에 관한 논의가 활발히 진행되고 있으며, 다양한 의견과 관점이 존재한다. 따라서, 관련 뉴스와 논문에 주목하고, 새로운 비즈니스 모델을 개발하기 위한 기회를 찾는 것이 중요하다.",
+  "analyzed_at": "2026-06-30T14:30:34.837Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
