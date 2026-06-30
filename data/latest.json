@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "호남 반도체 산업의 발전과 투자에 대한 관심이 높아지고 있습니다. 삼성과 SK가 최소 2500조 이상 투자할 계획입니다.",
+      "topic": "토지거래허가제",
+      "summary": "토지거래허가제의 도입과 집값에 대한 영향에 대한 논의",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 투자",
-      "summary": "경제와 투자에 대한 관심이 높아지고 있습니다. 대구경북에 270조 투자와 산업혁명 이전에 인간은 수면을 두 번에 나눠서 자기도 했다는 주제가 인기 있습니다.",
+      "topic": "부동산 사태",
+      "summary": "부동산 사태의 원인과 해결책에 대한 논의",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "sentiment": "negative",
+      "urgency": "high"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "기술과 AI에 대한 관심이 높아지고 있습니다. Brain-to-Robot 기술 개발과 로봇 AI 개발이 주목을 받고 있습니다.",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 논평",
       "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "high"
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
+      "keyword": "토지거래허가제",
       "count": 15,
-      "sentiment": "positive",
-      "context": "호남 반도체 산업의 발전"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술과 AI의 발전"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
       "sentiment": "neutral",
-      "context": "경제와 투자에 대한 관심"
+      "context": "토지거래허가제의 도입과 집값에 대한 영향"
+    },
+    {
+      "keyword": "부동산",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "부동산 사태의 원인과 해결책"
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "기대와 관심이 높아지는 분위기"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "호남 반도체 산업의 발전",
-      "action": "투자와 지원",
+      "insight": "토지거래허가제의 도입이 부동산 시장에 미치는 영향",
+      "action": "부동산 투자 전략의 재평가",
       "priority": "high"
     },
     {
-      "insight": "기술과 AI의 발전",
-      "action": "연구와 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "경제와 투자에 대한 관심",
-      "action": "분석과 전략 수립",
+      "insight": "정치 관련 뉴스와 논평의 증가",
+      "action": "정치 관련 뉴스와 논평의 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 반도체 산업, 기술 및 AI, 경제 및 투자에 대한 관심이 높아지고 있습니다. 호남 반도체 산업의 발전과 투자, 기술과 AI의 발전, 경제와 투자에 대한 관심은 모두 긍정적인 분위기로 나타나고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 투자와 지원, 연구와 개발, 분석과 전략 수립 등의 액션을 취할 수 있습니다.",
-  "analyzed_at": "2026-06-29T23:30:34.057Z",
+  "narrative": "최근의 트렌드 분석 결과, 토지거래허가제와 부동산 사태가 주요 관심사로 나타났습니다. 토지거래허가제의 도입과 집값에 대한 영향에 대한 논의가 활발하게 진행 중이며, 부동산 사태의 원인과 해결책에 대한 논의도 많습니다. 또한, 정치 관련 뉴스와 논평이 증가하고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 부동산 투자 전략의 재평가와 정치 관련 뉴스와 논평의 분석이 필요합니다.",
+  "analyzed_at": "2026-06-30T01:00:34.159Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
