@@ -1,54 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "호남 반도체 투자",
-      "summary": "호남 지역에 반도체 공장을 투자하는 문제가 정치적으로 논란이 되고 있다. 일부에서는 호남 지역의 경제 발전에 기여할 수 있는 기회로 보지만, 다른 일부에서는 투자 비용과 효율성에 대한 우려를 나타내고 있다.",
+      "topic": "정치",
+      "summary": "이재명 대통령과 문재인 전 대통령의 오찬회동, 정청래 연임 반대 등 정치 관련 주제가 인기",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "환율과 경제 성장에 대한 우려가 계속되고 있다. 일부에서는 정부의 경제 정책이 효과적이지 않다고 비판하고 있다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "경제",
+      "summary": "반도체 투자, 주가, 금융 관련 주제가 인기",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI, 반도체, 스마트폰 관련 주제가 인기",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "호남 반도체",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "호남 지역의 경제 발전에 기여할 수 있는 기회"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 주제"
     },
     {
-      "keyword": "경제 성장",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정부의 경제 정책이 효과적이지 않다"
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제 관련 주제"
+    },
+    {
+      "keyword": "AI",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "기술 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "우려와 비판이 있는 혼합된 분위기"
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "호남 반도체 투자는 정치적으로 논란이 될 수 있지만, 지역 경제 발전에 기여할 수 있는 기회이다.",
-      "action": "투자 비용과 효율성에 대한 철저한 분석이 필요하다",
+      "insight": "정치 관련 주제가 인기",
+      "action": "정치 관련 콘텐츠 생성",
       "priority": "high"
     },
     {
-      "insight": "정부의 경제 정책이 효과적이지 않다는 우려가 있다.",
-      "action": "정부는 경제 성장에 대한 새로운 전략을 수립해야 한다",
+      "insight": "반도체 투자 관련 주제가 인기",
+      "action": "반도체 관련 콘텐츠 생성",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 관련 주제가 인기",
+      "action": "AI 관련 콘텐츠 생성",
+      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 호남 반도체 투자와 경제 성장에 대한 우려를 중심으로 이루어져 있다. 호남 반도체 투자는 지역 경제 발전에 기여할 수 있는 기회로 보이지만, 투자 비용과 효율성에 대한 우려도 있다. 정부의 경제 정책이 효과적이지 않다는 우려도 계속되고 있다. 이러한 트렌드를 분석하여, 정부와 기업은 새로운 전략을 수립하고, 투자 비용과 효율성에 대한 철저한 분석을 통해 지역 경제 발전에 기여할 수 있는 기회를 잡아야 한다.",
-  "analyzed_at": "2026-07-01T02:30:34.640Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치, 경제, 기술 관련 주제가 인기입니다. 특히 이재명 대통령과 문재인 전 대통령의 오찬회동, 정청래 연임 반대 등 정치 관련 주제가 많은 관심을 받았습니다. 또한 반도체 투자, 주가, 금융 관련 주제도 인기였습니다. 기술 관련 주제 중에서는 AI, 반도체, 스마트폰 관련 주제가 인기였습니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하면 효과적인 마케팅이 가능할 것입니다.",
+  "analyzed_at": "2026-07-01T04:00:33.717Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
