@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 문재인 전 대통령의 오찬회동, 정청래 연임 반대 등 정치 관련 주제가 인기",
-      "post_count": 10,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령 관련 뉴스와 의견이 많습니다. 대통령의 정책과 행보에 대한 관심이 집중되고 있습니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "반도체 투자, 주가, 금융 관련 주제가 인기",
-      "post_count": 15,
+      "topic": "경제 및 재테크",
+      "summary": "금융 및 재테크 관련 주제가热합니다. 금값, 은값, 주식, 투자 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI, 반도체, 스마트폰 관련 주제가 인기",
-      "post_count": 12,
+      "topic": "기술 및 가전",
+      "summary": "최신 기술 및 가전 제품 관련 뉴스와 리뷰가 많습니다. 새로운 제품 출시와 기술 개발에 대한 관심이 집중되고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "대통령 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "금값",
+      "count": 3,
       "sentiment": "negative",
-      "context": "정치 관련 주제"
+      "context": "금값 하락 관련 뉴스"
     },
     {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 관련 주제"
-    },
-    {
-      "keyword": "AI",
-      "count": 6,
+      "keyword": "삼성전자",
+      "count": 2,
       "sentiment": "positive",
-      "context": "기술 관련 주제"
+      "context": "최신 기술 및 제품 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 인기",
-      "action": "정치 관련 콘텐츠 생성",
+      "insight": "이재명 대통령의 정책과 행보에 대한 관심이 집중되고 있습니다.",
+      "action": "대통령 관련 뉴스와 의견을 모니터링하고, 정책에 대한 분석을 진행합니다.",
       "priority": "high"
     },
     {
-      "insight": "반도체 투자 관련 주제가 인기",
-      "action": "반도체 관련 콘텐츠 생성",
+      "insight": "금융 및 재테크 관련 주제가熱합니다.",
+      "action": "금융 및 재테크 관련 제품과 서비스를 개발하고, 마케팅을 진행합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 관련 주제가 인기",
-      "action": "AI 관련 콘텐츠 생성",
-      "priority": "high"
+      "insight": "최신 기술 및 가전 제품 관련 뉴스와 리뷰가 많습니다.",
+      "action": "최신 기술 및 가전 제품을 개발하고, 마케팅을 진행합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치, 경제, 기술 관련 주제가 인기입니다. 특히 이재명 대통령과 문재인 전 대통령의 오찬회동, 정청래 연임 반대 등 정치 관련 주제가 많은 관심을 받았습니다. 또한 반도체 투자, 주가, 금융 관련 주제도 인기였습니다. 기술 관련 주제 중에서는 AI, 반도체, 스마트폰 관련 주제가 인기였습니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하면 효과적인 마케팅이 가능할 것입니다.",
-  "analyzed_at": "2026-07-01T04:00:33.717Z",
+  "narrative": "이번 주에는 이재명 대통령 관련 뉴스와 의견이 많았습니다. 대통령의 정책과 행보에 대한 관심이 집중되고 있습니다. 또한, 금융 및 재테크 관련 주제가熱합니다. 금값, 은값, 주식, 투자 등 다양한 주제가 논의되고 있습니다. 최신 기술 및 가전 제품 관련 뉴스와 리뷰도 많았습니다. 새로운 제품 출시와 기술 개발에 대한 관심이 집중되고 있습니다. 이러한 트렌드를 반영하여, 대통령 관련 뉴스와 의견을 모니터링하고, 정책에 대한 분석을 진행하며, 금융 및 재테크 관련 제품과 서비스를 개발하고, 마케팅을 진행합니다. 또한, 최신 기술 및 가전 제품을 개발하고, 마케팅을 진행합니다.",
+  "analyzed_at": "2026-07-01T05:30:33.877Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
