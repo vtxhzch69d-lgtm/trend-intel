@@ -1,67 +1,85 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 경제",
-      "summary": "한국 중앙정부 신뢰도 OECD 평가서 6위 역대 최고 순위, 이대통령 국정과제 입법속도 내달라",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "기술 및 산업",
+      "summary": "최신 기술 및 산업 동향",
+      "post_count": 20,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "최신 정치 및 사회 동향",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "LG전자, ‘스탠바이미 2 맥스’ 글로벌 출시, 삼성전자 전영현 부회장 '광주, 글로벌 반도체 거점 만들 것…안정적 전력 지원 부탁'",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "최신 경제 및 금융 동향",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "우크라이나측..러시아가 북한군 포로 보내면 우크라이나 포로 수천명 보낸다고 함, 촉법 소년법에 대한 개정의견입니다",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "문화 및 엔터테인먼트",
+      "summary": "최신 문화 및 엔터테인먼트 동향",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이대통령",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "국정과제 입법속도 내달라"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "최신 기술"
     },
     {
-      "keyword": "삼성전자",
-      "count": 3,
+      "keyword": "반도체",
+      "count": 8,
       "sentiment": "positive",
-      "context": "광주, 글로벌 반도체 거점 만들 것…안정적 전력 지원 부탁"
+      "context": "산업 동향"
     },
     {
-      "keyword": "우크라이나",
-      "count": 2,
+      "keyword": "경제",
+      "count": 6,
       "sentiment": "negative",
-      "context": "러시아가 북한군 포로 보내면 우크라이나 포로 수천명 보낸다고 함"
+      "context": "최신 경제 동향"
+    },
+    {
+      "keyword": "정치",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "최신 정치 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "한국의 정치, 경제, 기술 분야에서 긍정적인 기대감이 높아지고 있는 추세입니다."
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국의 반도체 산업은 글로벌 시장에서 경쟁력을 가지기 위해 안정적 전력 지원이 필요합니다.",
-      "action": "안정적 전력 지원을 위한 투자 및 협력을 강화합니다.",
+      "insight": "최신 기술 동향을 주시해야 한다",
+      "action": "기술 연구 개발 투자",
       "priority": "high"
     },
     {
-      "insight": "한국의 기술 산업은 글로벌 시장에서 경쟁력을 가지기 위해 혁신적인 기술 개발이 필요합니다.",
-      "action": "연구 개발 투자를 강화하고, 혁신적인 기술 개발을 지원합니다.",
+      "insight": "경제 및 금융 동향을 분석해야 한다",
+      "action": "경제 분석 보고서 작성",
       "priority": "medium"
+    },
+    {
+      "insight": "문화 및 엔터테인먼트 동향을 이해해야 한다",
+      "action": "문화 및 엔터테인먼트 시장 조사",
+      "priority": "low"
     }
   ],
-  "narrative": "한국의 정치, 경제, 기술 분야에서 긍정적인 기대감이 높아지고 있는 추세입니다. 특히, 이대통령의 국정과제 입법속도 내달라라는 발언과 삼성전자의 광주, 글로벌 반도체 거점 만들 것…안정적 전력 지원 부탁이라는 발언이 주목을 받고 있습니다. 또한, 우크라이나와 러시아의 상황이 계속해서 불안정한 상황이지만, 한국의 기술 산업은 글로벌 시장에서 경쟁력을 가지기 위해 혁신적인 기술 개발이 필요합니다. 따라서, 안정적 전력 지원을 위한 투자 및 협력을 강화하고, 연구 개발 투자를 강화하고, 혁신적인 기술 개발을 지원하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-01T14:30:34.406Z",
+  "narrative": "최신 기술 및 산업 동향은 중립적인 감정으로 나타나고 있으며, 경제 및 금융 동향은 부정적인 감정으로 나타나고 있다. 정치 및 사회 동향은 혼합된 감정으로 나타나고 있으며, 문화 및 엔터테인먼트 동향은 긍정적인 감정으로 나타나고 있다. 따라서 기업은 최신 기술 동향을 주시하고, 경제 및 금융 동향을 분석하며, 문화 및 엔터테인먼트 동향을 이해해야 한다. 또한, 기업은 기술 연구 개발 투자와 경제 분석 보고서 작성에 우선순위를 두어야 한다.",
+  "analyzed_at": "2026-07-01T16:00:35.878Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
