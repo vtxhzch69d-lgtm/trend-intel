@@ -1,72 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래와 관련된 정치적인 논쟁",
+      "topic": "배재고 사태",
+      "summary": "배재고 학생들의 학폭 및 인성 문제로 인해 사회적으로 큰 논란이 되고 있습니다. 학생들이 프로 선수로 활동하는 것이 어려울 것으로 예상됩니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "반도체 클러스터와 관련된 경제적 논쟁",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "정치 및 사회 문제",
+      "summary": "민주당의 행보와 정책에 대한 논란이 있습니다. 또한, 일베놀이와 같은 청소년 범죄 수준의 문제도 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 제품과 관련된 논쟁",
+      "topic": "기술 및 산업 동향",
+      "summary": "반도체 산업과 AI 기술에 대한 투자와 발전이 활발하게 진행되고 있습니다. 삼성전자, SK하이닉스 등 주요 기업들이 광주에 생산거점을 마련하고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
+      "keyword": "배재고",
       "count": 5,
       "sentiment": "negative",
-      "context": "정청래와 관련된 정치적인 논쟁"
+      "context": "학폭 및 인성 문제"
+    },
+    {
+      "keyword": "민주당",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "정책과 행보에 대한 논란"
     },
     {
       "keyword": "반도체",
-      "count": 8,
+      "count": 5,
       "sentiment": "positive",
-      "context": "반도체 클러스터와 관련된 경제적 논쟁"
+      "context": "산업 투자와 발전"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "최신 기술 제품과 관련된 논쟁"
+      "count": 3,
+      "sentiment": "positive",
+      "context": "기술 발전과 산업 활용"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
     "negative": 10,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 5,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치적인 논쟁은 여전히 높은 관심을 받고 있다",
-      "action": "정치적인 논쟁에 대한 분석을 강화해야 한다",
+      "insight": "반도체 산업과 AI 기술에 대한 투자와 발전이 활발하게 진행되고 있습니다.",
+      "action": "관련 산업에 대한 투자와 연구를 강화합니다.",
       "priority": "high"
     },
     {
-      "insight": "반도체 클러스터는 경제적인 기회를 제공할 수 있다",
-      "action": "반도체 클러스터와 관련된 경제적 분석을 수행해야 한다",
+      "insight": "배재고 사태와 같은 사회 문제에 대한 대응이 필요합니다.",
+      "action": "관련 정책과 교육 프로그램을 마련합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 제품은 중립적인 관심을 받고 있다",
-      "action": "최신 기술 제품과 관련된 분석을 수행해야 한다",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적인 논쟁과 경제적인 기회를 제공하는 반도체 클러스터에 대한 관심이 높아지고 있다. 또한 최신 기술 제품은 중립적인 관심을 받고 있다. 이러한 트렌드는 기업과 마케터에게 새로운 기회와 도전을 제공할 수 있다. 따라서 정치적인 논쟁과 경제적인 기회를 제공하는 반도체 클러스터에 대한 분석을 강화하고, 최신 기술 제품과 관련된 분석을 수행해야 한다.",
-  "analyzed_at": "2026-07-01T08:30:33.666Z",
+  "narrative": "최근의 트렌드와 감정 분석 결과, 반도체 산업과 AI 기술에 대한 투자와 발전이 활발하게 진행되고 있습니다. 그러나 배재고 사태와 같은 사회 문제에 대한 대응이 필요합니다. 관련 산업에 대한 투자와 연구를 강화하고, 사회 문제에 대한 정책과 교육 프로그램을 마련하는 것이 중요합니다. 또한, 민주당의 행보와 정책에 대한 논란이 있으므로, 관련된 기업과 기관은 이를 주시하고 대응해야 합니다.",
+  "analyzed_at": "2026-07-01T10:00:35.891Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
