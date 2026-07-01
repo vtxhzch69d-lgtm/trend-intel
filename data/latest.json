@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "배재고 사태",
-      "summary": "배재고 사태와 관련된 논란 및 징계에 대한 토론",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "이 대통령의 국정과제 입법속도에 대한 논의와 정치인들의 활동이 주목을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "정치 관련 뉴스 및 선거에 대한 토론",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "한국의 경제 상황과 기업들의 활동이 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 대한 뉴스 및 토론",
-      "post_count": 15,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시가 주목을 받고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "배재고",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "배재고 사태와 관련된 논란"
+      "keyword": "이 대통령",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "국정과제 입법속도에 대한 논의"
     },
     {
-      "keyword": "정치",
+      "keyword": "경제",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스 및 선거"
+      "sentiment": "neutral",
+      "context": "한국의 경제 상황"
     },
     {
       "keyword": "기술",
-      "count": 12,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술 및 산업 동향"
+      "context": "최신 기술 뉴스와 제품 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 15,
+    "negative": 5,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "배재고 사태는 교육계에 큰 영향을 미칠 수 있다",
-      "action": "교육계에 대한 지원 강화",
+      "insight": "한국의 경제 상황을 주목해야 합니다.",
+      "action": "경제 뉴스를 지속적으로 모니터링",
       "priority": "high"
     },
     {
-      "insight": "기술 및 산업 동향은 경제 성장에 중요한 역할을 한다",
-      "action": "기술 및 산업 동향에 대한 투자 증가",
+      "insight": "최신 기술 뉴스와 제품 출시를 주목해야 합니다.",
+      "action": "기술 뉴스를 지속적으로 모니터링",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 배재고 사태와 관련된 논란이 커뮤니티에서 큰 관심을 받고 있다. 또한, 정치 및 선거에 대한 토론도 활발하게 진행되고 있다. 기술 및 산업 동향에 대한 뉴스 및 토론도 많은 관심을 받고 있다. 이러한 트렌드는 교육계, 경제, 정치 등 다양한 분야에 영향을 미칠 수 있다. 따라서, 이러한 트렌드에 대한 분석과 대응이 필요하다.",
-  "analyzed_at": "2026-07-01T11:30:33.689Z",
-  "post_count": 60,
+  "narrative": "현재 한국의 온라인 커뮤니티에서는 정치와 경제가 주요 주제로 논의되고 있습니다. 이 대통령의 국정과제 입법속도에 대한 논의와 정치인들의 활동이 주목을 받고 있습니다. 또한, 한국의 경제 상황과 기업들의 활동이 논의되고 있습니다. 기술 분야에서는 최신 기술 뉴스와 제품 출시가 주목을 받고 있습니다. 이러한 주제들은 중립적 또는 긍정적인 감정으로 논의되고 있습니다. 따라서, 경제와 기술 분야를 주목하고, 최신 뉴스를 지속적으로 모니터링하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-01T13:00:33.997Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
