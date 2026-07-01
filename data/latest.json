@@ -2,73 +2,67 @@
   "trending_topics": [
     {
       "topic": "배재고 사태",
-      "summary": "배재고 학생들의 학폭 및 인성 문제로 인해 사회적으로 큰 논란이 되고 있습니다. 학생들이 프로 선수로 활동하는 것이 어려울 것으로 예상됩니다.",
+      "summary": "배재고 사태와 관련된 논란 및 징계에 대한 토론",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "민주당의 행보와 정책에 대한 논란이 있습니다. 또한, 일베놀이와 같은 청소년 범죄 수준의 문제도 논의되고 있습니다.",
+      "topic": "정치 및 선거",
+      "summary": "정치 관련 뉴스 및 선거에 대한 토론",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업 동향",
-      "summary": "반도체 산업과 AI 기술에 대한 투자와 발전이 활발하게 진행되고 있습니다. 삼성전자, SK하이닉스 등 주요 기업들이 광주에 생산거점을 마련하고 있습니다.",
-      "post_count": 10,
+      "topic": "기술 및 산업",
+      "summary": "최신 기술 및 산업 동향에 대한 뉴스 및 토론",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "배재고",
-      "count": 5,
+      "count": 7,
       "sentiment": "negative",
-      "context": "학폭 및 인성 문제"
+      "context": "배재고 사태와 관련된 논란"
     },
     {
-      "keyword": "민주당",
-      "count": 3,
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "mixed",
-      "context": "정책과 행보에 대한 논란"
+      "context": "정치 관련 뉴스 및 선거"
     },
     {
-      "keyword": "반도체",
-      "count": 5,
+      "keyword": "기술",
+      "count": 12,
       "sentiment": "positive",
-      "context": "산업 투자와 발전"
-    },
-    {
-      "keyword": "AI",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "기술 발전과 산업 활용"
+      "context": "최신 기술 및 산업 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 5,
-    "overall_mood": "복합적인 감정"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업과 AI 기술에 대한 투자와 발전이 활발하게 진행되고 있습니다.",
-      "action": "관련 산업에 대한 투자와 연구를 강화합니다.",
+      "insight": "배재고 사태는 교육계에 큰 영향을 미칠 수 있다",
+      "action": "교육계에 대한 지원 강화",
       "priority": "high"
     },
     {
-      "insight": "배재고 사태와 같은 사회 문제에 대한 대응이 필요합니다.",
-      "action": "관련 정책과 교육 프로그램을 마련합니다.",
+      "insight": "기술 및 산업 동향은 경제 성장에 중요한 역할을 한다",
+      "action": "기술 및 산업 동향에 대한 투자 증가",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 감정 분석 결과, 반도체 산업과 AI 기술에 대한 투자와 발전이 활발하게 진행되고 있습니다. 그러나 배재고 사태와 같은 사회 문제에 대한 대응이 필요합니다. 관련 산업에 대한 투자와 연구를 강화하고, 사회 문제에 대한 정책과 교육 프로그램을 마련하는 것이 중요합니다. 또한, 민주당의 행보와 정책에 대한 논란이 있으므로, 관련된 기업과 기관은 이를 주시하고 대응해야 합니다.",
-  "analyzed_at": "2026-07-01T10:00:35.891Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드에 따르면, 배재고 사태와 관련된 논란이 커뮤니티에서 큰 관심을 받고 있다. 또한, 정치 및 선거에 대한 토론도 활발하게 진행되고 있다. 기술 및 산업 동향에 대한 뉴스 및 토론도 많은 관심을 받고 있다. 이러한 트렌드는 교육계, 경제, 정치 등 다양한 분야에 영향을 미칠 수 있다. 따라서, 이러한 트렌드에 대한 분석과 대응이 필요하다.",
+  "analyzed_at": "2026-07-01T11:30:33.689Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
