@@ -1,85 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "최신 정치 및 사회 동향",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "검찰개혁",
+      "summary": "검찰개혁과 수사권 폐지에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "최신 경제 및 금융 동향",
-      "post_count": 10,
+      "topic": "배재고 사태",
+      "summary": "배재고 사태와 관련된 논의",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "문화 및 엔터테인먼트",
-      "summary": "최신 문화 및 엔터테인먼트 동향",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용에 대한 논의",
+      "post_count": 8,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 뉴스",
+      "summary": "경제 관련 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
+    },
+    {
+      "topic": "정치 뉴스",
+      "summary": "정치 관련 뉴스와 분석",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "검찰개혁",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "최신 기술"
+      "sentiment": "negative",
+      "context": "수사권 폐지"
     },
     {
-      "keyword": "반도체",
-      "count": 8,
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "산업 동향"
+      "context": "기술 발전"
     },
     {
       "keyword": "경제",
-      "count": 6,
-      "sentiment": "negative",
-      "context": "최신 경제 동향"
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "뉴스와 분석"
     },
     {
       "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "관련 뉴스"
+    },
+    {
+      "keyword": "배재고",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "최신 정치 동향"
+      "sentiment": "negative",
+      "context": "사태 관련"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 40,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 동향을 주시해야 한다",
-      "action": "기술 연구 개발 투자",
+      "insight": "검찰개혁과 수사권 폐지에 대한 논의가 증가",
+      "action": "관련 정책과 법안을 검토",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 동향을 분석해야 한다",
-      "action": "경제 분석 보고서 작성",
+      "insight": "AI 기술의 발전과 적용이 증가",
+      "action": "AI 기술을 활용한 비즈니스 모델을 개발",
       "priority": "medium"
     },
     {
-      "insight": "문화 및 엔터테인먼트 동향을 이해해야 한다",
-      "action": "문화 및 엔터테인먼트 시장 조사",
+      "insight": "경제 뉴스와 분석이 증가",
+      "action": "경제 동향을 분석하고 비즈니스 전략을 수립",
       "priority": "low"
     }
   ],
-  "narrative": "최신 기술 및 산업 동향은 중립적인 감정으로 나타나고 있으며, 경제 및 금융 동향은 부정적인 감정으로 나타나고 있다. 정치 및 사회 동향은 혼합된 감정으로 나타나고 있으며, 문화 및 엔터테인먼트 동향은 긍정적인 감정으로 나타나고 있다. 따라서 기업은 최신 기술 동향을 주시하고, 경제 및 금융 동향을 분석하며, 문화 및 엔터테인먼트 동향을 이해해야 한다. 또한, 기업은 기술 연구 개발 투자와 경제 분석 보고서 작성에 우선순위를 두어야 한다.",
-  "analyzed_at": "2026-07-01T16:00:35.878Z",
+  "narrative": "최근의 트렌드는 검찰개혁과 수사권 폐지, 배재고 사태, AI 기술, 경제 뉴스 등으로 나타났다. 이러한 트렌드는 부정적인 감정과 높은 긴급성을 가지고 있다. 따라서 관련 정책과 법안을 검토하고, AI 기술을 활용한 비즈니스 모델을 개발하며, 경제 동향을 분석하고 비즈니스 전략을 수립하는 것이 중요하다. 또한, 이러한 트렌드에 대한 분석과洞察을 통해 비즈니스 기회를 찾고, 위험을 관리할 수 있다.",
+  "analyzed_at": "2026-07-01T17:30:34.229Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
