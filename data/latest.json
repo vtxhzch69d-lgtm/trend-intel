@@ -1,45 +1,45 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 32강전 잉글랜드 vs DR 콩고 경기 결과와 관련된 게시글이 많습니다. 또한 축구와 관련된 다양한 의견과 분석이 나타나고 있습니다.",
+      "topic": "해리케인과 잉글랜드 축구",
+      "summary": "해리케인이 잉글랜드 축구에서 활약하고 있으며, 최근 경기 결과와 관련된 게시물이 많습니다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "검찰개혁, 청소년 극우 성향, 김진애의 유시민론 등 다양한 정치 관련 주제가 논의되고 있습니다.",
+      "topic": "AI와 기술 개발",
+      "summary": "AI와 기술 개발 관련 게시물이 많으며, 최근 개발 환경의 변화와 관련된 게시물이 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "정치와 사회 문제",
+      "summary": "정치와 사회 문제 관련 게시물이 많으며, 최근 검찰 개혁과 청소년 극우 성향 해결책에 대한 게시물이 있습니다.",
       "post_count": 8,
       "sentiment": "mixed",
       "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI, 하이브리드, 전기차, 반도체 등 기술 관련 주제가 많이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
+      "keyword": "해리케인",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "월드컵 관련 게시글"
+      "sentiment": "positive",
+      "context": "잉글랜드 축구 선수"
     },
     {
       "keyword": "AI",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "AI 기술 관련 게시글"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "인공지능 기술"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 관련 주제"
+      "keyword": "검찰 개혁",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "정치와 사회 문제"
     }
   ],
   "sentiment_overview": {
@@ -50,18 +50,18 @@
   },
   "business_insights": [
     {
-      "insight": "기술 관련 주제가 많이 논의되고 있습니다.",
-      "action": "기술 관련 제품이나 서비스를 개발하거나 투자할 수 있습니다.",
+      "insight": "AI 기술 개발의 중요성",
+      "action": "AI 기술 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "월드컵 관련 게시글이 많습니다.",
-      "action": "월드컵 관련 제품이나 서비스를 개발하거나 투자할 수 있습니다.",
+      "insight": "정치와 사회 문제의 해결 필요성",
+      "action": "정책과 사회 문제 해결에 참여하기",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 기술 관련 주제와 월드컵 관련 게시글이 많습니다. 또한 정치 관련 주제도 많이 논의되고 있습니다. 이러한 트렌드를 분석하여 기술 관련 제품이나 서비스를 개발하거나 투자할 수 있습니다. 또한 월드컵 관련 제품이나 서비스를 개발하거나 투자할 수 있습니다. 그러나 정치 관련 주제는 감정적이고 논쟁적인 주제이므로 주의가 필요합니다.",
-  "analyzed_at": "2026-07-01T19:00:34.024Z",
+  "narrative": "최근 해리케인과 잉글랜드 축구, AI와 기술 개발, 정치와 사회 문제 관련 게시물이 많습니다. 해리케인은 잉글랜드 축구에서 활약하고 있으며, 최근 경기 결과와 관련된 게시물이 많습니다. AI와 기술 개발 관련 게시물은 최근 개발 환경의 변화와 관련된 게시물이 있습니다. 정치와 사회 문제 관련 게시물은 최근 검찰 개혁과 청소년 극우 성향 해결책에 대한 게시물이 있습니다. 이러한 트렌드와 키워드를 분석하여, AI 기술 개발에 투자하고, 정책과 사회 문제 해결에 참여하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-01T20:30:34.176Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
