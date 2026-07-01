@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "해리케인과 잉글랜드 축구",
-      "summary": "해리케인이 잉글랜드 축구에서 활약하고 있으며, 최근 경기 결과와 관련된 게시물이 많습니다.",
+      "topic": "검찰개혁",
+      "summary": "검찰개혁과 수사권 폐지에 대한 논의가 활발하게 진행되고 있습니다. 일부에서는 수사권 폐지의 필요성을 강조하는 반면, 다른 일부에서는 폐지의 부작용을 우려합니다.",
       "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 동향과 관련된 다양한 뉴스와 의견이 있습니다. 최근에는 반도체 생산과 투자에 관한 소식이 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술 개발",
-      "summary": "AI와 기술 개발 관련 게시물이 많으며, 최근 개발 환경의 변화와 관련된 게시물이 있습니다.",
-      "post_count": 10,
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융에 관한 다양한 주제가 논의되고 있습니다. 최근에는 투자와 시장 동향에 관한 의견이 많습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
-    },
-    {
-      "topic": "정치와 사회 문제",
-      "summary": "정치와 사회 문제 관련 게시물이 많으며, 최근 검찰 개혁과 청소년 극우 성향 해결책에 대한 게시물이 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "해리케인",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "잉글랜드 축구 선수"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "인공지능 기술"
-    },
-    {
-      "keyword": "검찰 개혁",
-      "count": 3,
+      "keyword": "검찰개혁",
+      "count": 7,
       "sentiment": "negative",
-      "context": "정치와 사회 문제"
+      "context": "수사권 폐지에 대한 우려"
+    },
+    {
+      "keyword": "반도체",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "산업 동향과 투자"
+    },
+    {
+      "keyword": "경제",
+      "count": 9,
+      "sentiment": "neutral",
+      "context": "시장 동향과 투자"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발의 중요성",
-      "action": "AI 기술 개발에 투자하기",
+      "insight": "반도체 산업의 성장",
+      "action": "투자와 개발에 집중",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회 문제의 해결 필요성",
-      "action": "정책과 사회 문제 해결에 참여하기",
+      "insight": "경제와 금융의 불확실성",
+      "action": "시장 동향을 주시하고 대응책을 마련",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 해리케인과 잉글랜드 축구, AI와 기술 개발, 정치와 사회 문제 관련 게시물이 많습니다. 해리케인은 잉글랜드 축구에서 활약하고 있으며, 최근 경기 결과와 관련된 게시물이 많습니다. AI와 기술 개발 관련 게시물은 최근 개발 환경의 변화와 관련된 게시물이 있습니다. 정치와 사회 문제 관련 게시물은 최근 검찰 개혁과 청소년 극우 성향 해결책에 대한 게시물이 있습니다. 이러한 트렌드와 키워드를 분석하여, AI 기술 개발에 투자하고, 정책과 사회 문제 해결에 참여하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-01T20:30:34.176Z",
+  "narrative": "최근의 트렌드와 의견을 분석한 결과, 검찰개혁과 반도체 산업이 주요한 주제로 나타났습니다. 또한, 경제와 금융에 관한 의견도 많았습니다. 이러한 트렌드와 의견을 고려하여, 반도체 산업에 대한 투자와 개발에 집중하고, 경제와 금융의 불확실성에 대응하는 것이 중요할 것으로 보입니다.",
+  "analyzed_at": "2026-07-01T22:00:34.102Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
