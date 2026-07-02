@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "검찰개혁",
-      "summary": "검찰 보완수사권 폐지와 관련된 논의가 활발히 진행 중입니다. 일부에서는 폐지에 대한 우려를 나타내고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "반도체 투자",
+      "summary": "대규모 반도체 투자 소식이 등장했으며, 삼전과 하닉의 투자 계획이 논의되고 있습니다. 또한, 반도체 관련 기술 개발과 투자에 대한 관심이 높아지고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "삼성전자와 SK하이닉스 등이 반도체 산업에 대한 투자와 생산 거점 확대를 발표했습니다.",
-      "post_count": 4,
-      "sentiment": "positive",
+      "topic": "검찰개혁",
+      "summary": "검찰개혁 관련 법안과 검찰청 폐지에 대한 논의가 진행되고 있습니다. 또한, 검찰의 권한과 책임에 대한 논의가 활발합니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 모델과 기술에 대한 논의가 진행 중입니다. 구글과 앤트로픽 등이 새로운 AI 모델을 공개했습니다.",
-      "post_count": 6,
-      "sentiment": "neutral",
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융 관련 뉴스가 다양하게 등장했습니다. 주가 하락, 반도체 투자, 금융사 투자의견 등이 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "검찰개혁",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "검찰 보완수사권 폐지와 관련된 논의"
-    },
-    {
       "keyword": "반도체",
-      "count": 8,
+      "count": 20,
       "sentiment": "positive",
-      "context": "삼성전자와 SK하이닉스의 투자와 생산 거점 확대"
+      "context": "대규모 투자와 기술 개발"
     },
     {
-      "keyword": "AI",
-      "count": 12,
+      "keyword": "검찰",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "검찰개혁과 권한 논의"
+    },
+    {
+      "keyword": "경제",
+      "count": 25,
       "sentiment": "neutral",
-      "context": "최신 AI 모델과 기술에 대한 논의"
+      "context": "주가 하락, 금융사 투자의견 등"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 40,
+    "overall_mood": "중립적이지만 약간 부정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "검찰개혁에 대한 논의가 활발히 진행 중입니다.",
-      "action": "관련 뉴스와 논의를 주시하여 사업에 영향을 미칠 수 있는 요소를 파악합니다.",
+      "insight": "반도체 산업은 계속해서 성장할 것으로 예상됩니다.",
+      "action": "반도체 관련 기술 개발과 투자에 관심을 기울일 것",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업에 대한 투자와 생산 거점 확대가 진행 중입니다.",
-      "action": "관련 산업과 기술에 대한 투자와 협력을 고려합니다.",
+      "insight": "검찰개혁은 사회적 논의가 필요한 과제입니다.",
+      "action": "검찰개혁 관련 법안과 논의에 관심을 기울일 것",
       "priority": "medium"
     },
     {
-      "insight": "최신 AI 모델과 기술에 대한 논의가 진행 중입니다.",
-      "action": "관련 기술과 모델에 대한 연구와 개발을 고려합니다.",
+      "insight": "경제와 금융 관련 뉴스는 다양한 영향을 미칠 수 있습니다.",
+      "action": "경제와 금융 관련 뉴스에 관심을 기울일 것",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 논의를 분석한 결과, 검찰개혁과 반도체 산업, AI 기술이 주요한 주제로 나타났습니다. 검찰개혁에 대한 논의는 활발히 진행 중이며, 반도체 산업은 투자와 생산 거점 확대가 진행 중입니다. 또한, 최신 AI 모델과 기술에 대한 논의도 진행 중입니다. 이러한 트렌드와 논의를 고려하여 사업에 영향을 미칠 수 있는 요소를 파악하고, 관련 산업과 기술에 대한 투자와 협력을 고려하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-01T23:30:34.199Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 반도체 투자와 검찰개혁이 주요한 주제로 등장했습니다. 또한, 경제와 금융 관련 뉴스가 다양하게 등장했으며, 반도체 산업은 계속해서 성장할 것으로 예상됩니다. 따라서, 반도체 관련 기술 개발과 투자에 관심을 기울이고, 검찰개혁 관련 법안과 논의에 관심을 기울일 필요가 있습니다. 또한, 경제와 금융 관련 뉴스에 관심을 기울여야 합니다.",
+  "analyzed_at": "2026-07-02T01:01:32.574Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
