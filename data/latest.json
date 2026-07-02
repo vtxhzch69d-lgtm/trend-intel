@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "갤럭시 S27",
-      "summary": "갤럭시 S27의 프라이버시 모드 적용과 관련된 게시글이 인기입니다.",
-      "post_count": 2,
+      "topic": "반도체 산업",
+      "summary": "반도체 관련 주식 및 산업 동향",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "증권사 수수료 수익과 코스피의 조정에 대한 게시글이 인기입니다.",
+      "topic": "갤럭시 S27",
+      "summary": "갤럭시 S27의 프라이버시 모드 적용 및 관련 뉴스",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "민주당 차기 대표와 대통령에 대한 게시글이 인기입니다.",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제 및 투자",
+      "summary": "국내외 경제 및 투자 동향",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시 S27",
-      "count": 4,
+      "keyword": "반도체",
+      "count": 20,
       "sentiment": "neutral",
-      "context": "새로운 스마트폰 모델"
+      "context": "반도체 산업 및 주식"
     },
     {
-      "keyword": "코스피",
-      "count": 3,
+      "keyword": "갤럭시 S27",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "갤럭시 S27의 프라이버시 모드 적용"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "mixed",
-      "context": "주식 시장의 상황"
-    },
-    {
-      "keyword": "민주당",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "정당의 상황"
+      "context": "국내외 경제 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "갤럭시 S27의 프라이버시 모드 적용은 소비자의 관심을 끌었습니다.",
-      "action": "새로운 스마트폰 모델의 출시를 준비합니다.",
+      "insight": "반도체 산업의 성장",
+      "action": "관련 주식 투자",
+      "priority": "medium"
+    },
+    {
+      "insight": "갤럭시 S27의 프라이버시 모드 적용",
+      "action": "관련 뉴스 및 정보 모니터링",
       "priority": "high"
     },
     {
-      "insight": "증권사 수수료 수익과 코스피의 조정은 금융 시장의 상황을 반영합니다.",
-      "action": "금융 시장의 동향을 분석합니다.",
+      "insight": "경제 및 투자 동향",
+      "action": "관련 정보 분석 및 투자 전략 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 인기 게시글은 갤럭시 S27의 프라이버시 모드 적용과 경제 및 금융 관련 주제를 중심으로 형성되었습니다. 또한 정치 관련 주제도 인기였습니다. 이러한 트렌드는 소비자의 관심과 시장의 상황을 반영합니다. 따라서 기업은 이러한 트렌드를 분석하여 새로운 기회를 찾고 시장의 상황에 대응해야 합니다.",
-  "analyzed_at": "2026-07-02T14:00:34.560Z",
+  "narrative": "최근 반도체 산업 및 갤럭시 S27 관련 뉴스가 많은 관심을 받고 있습니다. 또한 경제 및 투자 동향도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 관련 주식 투자 및 정보 모니터링을 통해 사업 기회를 찾을 수 있습니다. 또한 경제 및 투자 동향을 분석하여 투자 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-02T15:30:34.559Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
