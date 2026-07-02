@@ -1,72 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 관련 주식 및 산업 동향",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "갤럭시 S27",
-      "summary": "갤럭시 S27의 프라이버시 모드 적용 및 관련 뉴스",
-      "post_count": 5,
+      "topic": "반도체 및 기술",
+      "summary": "삼성전자, SK하이닉스 등 반도체 업체의 투자 및 기술 개발 소식이 주목을 받고 있습니다. 또한, 애플의 새로운 기술 및 제품에 대한 관심도 높아지고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 투자",
-      "summary": "국내외 경제 및 투자 동향",
-      "post_count": 15,
+      "topic": "경제 및 금융",
+      "summary": "한국 경제 및 금융 관련 뉴스와 분석이热을 받고 있습니다. 특히, 반도체 및 기술 업체의 주가 변동과 관련된 글들이 많습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스와 논평이 일부 게시글에서 다루어지고 있습니다. 특히, 최근의 사회 문제와 정치적인 이슈에 대한 관심이 높아지고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "반도체 산업 및 주식"
+      "keyword": "삼성전자",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "반도체 및 기술 개발"
     },
     {
-      "keyword": "갤럭시 S27",
-      "count": 10,
+      "keyword": "반도체",
+      "count": 12,
       "sentiment": "positive",
-      "context": "갤럭시 S27의 프라이버시 모드 적용"
+      "context": "기술 개발 및 투자"
+    },
+    {
+      "keyword": "애플",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "신제품 및 기술"
     },
     {
       "keyword": "경제",
-      "count": 15,
+      "count": 8,
       "sentiment": "mixed",
-      "context": "국내외 경제 동향"
+      "context": "한국 경제 및 금융"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 15,
+    "overall_mood": "관심과 기대가 높은 분위기"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 성장",
-      "action": "관련 주식 투자",
-      "priority": "medium"
-    },
-    {
-      "insight": "갤럭시 S27의 프라이버시 모드 적용",
-      "action": "관련 뉴스 및 정보 모니터링",
+      "insight": "반도체 및 기술 업체의 투자 및 개발에 대한 관심이 높아지고 있습니다.",
+      "action": "관련 기술 및 제품 개발에 대한 투자 및 연구를 강화할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 투자 동향",
-      "action": "관련 정보 분석 및 투자 전략 수립",
+      "insight": "한국 경제 및 금융 관련 뉴스와 분석에 대한 관심이 높아지고 있습니다.",
+      "action": "관련 정보 및 데이터를 수집하고 분석하여 시장 동향을 예측할 필요가 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 반도체 산업 및 갤럭시 S27 관련 뉴스가 많은 관심을 받고 있습니다. 또한 경제 및 투자 동향도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 관련 주식 투자 및 정보 모니터링을 통해 사업 기회를 찾을 수 있습니다. 또한 경제 및 투자 동향을 분석하여 투자 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-07-02T15:30:34.559Z",
+  "narrative": "현재의 트렌드는 반도체 및 기술 업체의 투자 및 개발에 대한 관심이 높아지고 있습니다. 또한, 한국 경제 및 금융 관련 뉴스와 분석에 대한 관심도 높아지고 있습니다. 이러한 트렌드는 관련 기술 및 제품 개발에 대한 투자 및 연구를 강화할 필요가 있습니다. 또한, 관련 정보 및 데이터를 수집하고 분석하여 시장 동향을 예측할 필요가 있습니다. 이러한 분석을 통해 기업은 시장의 변화를 예측하고 대응할 수 있을 것입니다.",
+  "analyzed_at": "2026-07-02T17:00:35.883Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
