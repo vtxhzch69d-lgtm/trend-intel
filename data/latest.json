@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 주식",
-      "summary": "미국 반도체 관련주 및 삼성전자, 하이닉스 주가 하락",
-      "post_count": 10,
+      "topic": "배재고 사건",
+      "summary": "배재고 사건 관련 게시물이 많습니다. 학생들의 폭력적인 행동과 관련된 게시물입니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "갤럭시 S27",
-      "summary": "갤럭시 S27 프라이버시 모드 적용 및 BOE OLED 공급 불발",
-      "post_count": 5,
+      "topic": "테슬라 주가",
+      "summary": "테슬라의 주가 변동에 대한 게시물이 많습니다. 투자와 관련된 게시물입니다.",
+      "post_count": 3,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 뉴스",
-      "summary": "국민연금 해외 IPO 투자 및 GS AI데이터센터 준공",
-      "post_count": 8,
+      "topic": "한국 경제",
+      "summary": "한국 경제와 관련된 게시물이 많습니다. 산업과 투자에 대한 게시물입니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 12,
+      "keyword": "배재고",
+      "count": 10,
       "sentiment": "negative",
-      "context": "주가 하락"
+      "context": "배재고 사건 관련 게시물"
     },
     {
-      "keyword": "하이닉스",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "주가 하락"
-    },
-    {
-      "keyword": "갤럭시 S27",
+      "keyword": "테슬라",
       "count": 5,
       "sentiment": "neutral",
-      "context": "프라이버시 모드 적용"
+      "context": "테슬라 주가 변동"
+    },
+    {
+      "keyword": "한국 경제",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "한국 경제와 관련된 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 25,
-    "neutral": 10,
-    "overall_mood": "부정적인 기조"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "반도체 주식 하락",
-      "action": "주식 투자 재검토",
+      "insight": "한국 경제는 성장하고 있습니다.",
+      "action": "투자하기",
       "priority": "high"
     },
     {
-      "insight": "갤럭시 S27 프라이버시 모드 적용",
-      "action": "신제품 출시 준비",
+      "insight": "테슬라 주가는 변동성이 크습니다.",
+      "action": "주의하기",
       "priority": "medium"
     },
     {
-      "insight": "경제 뉴스 및 투자 동향",
-      "action": "시장 분석 및 투자 전략 수립",
-      "priority": "medium"
+      "insight": "배재고 사건은 사회적인 문제입니다.",
+      "action": "주의하기",
+      "priority": "high"
     }
   ],
-  "narrative": "最近의 온라인 커뮤니티 트렌드 분석 결과, 반도체 주식 및 갤럭시 S27 관련 주제가 많이 обсужд되고 있습니다. 또한 경제 뉴스 및 투자 동향에 대한 관심도 높아지고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 시장의 동향을 예측할 수 있습니다. 특히, 반도체 주식 하락에 대한 대응책을 마련하고, 갤럭시 S27 신제품 출시를 준비하는 것이 중요할 것입니다. 또한, 경제 뉴스 및 투자 동향을 분석하여 시장을 예측하고, 투자 전략을 수립하는 것이 필요합니다.",
-  "analyzed_at": "2026-07-02T21:30:34.068Z",
+  "narrative": "최근의 트렌드는 배재고 사건과 테슬라 주가 변동, 한국 경제 성장 등입니다. 이러한 트렌드는 사회적인 문제와 경제적인 문제를 포함하고 있습니다. 투자자와 기업은 이러한 트렌드를 주의해서 관찰해야 합니다. 또한, 한국 경제는 성장하고 있기 때문에 투자할 기회가 많습니다. 그러나 테슬라 주가는 변동성이 크기 때문에 주의해서 투자해야 합니다.",
+  "analyzed_at": "2026-07-02T23:00:33.920Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
