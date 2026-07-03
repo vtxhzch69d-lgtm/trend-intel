@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "우주항공 산업",
-      "summary": "한국 정부는 우주항공 산업을 육성하기 위해 대규모 투자를 계획하고 있으며, 주요 기업들도 관련 기술 개발에 적극적으로 참여하고 있다.",
+      "summary": "정부는 우주항공 산업을 육성하기 위해 대규모 투자를 계획하고 있으며, 주요 기업들도 관련 기술 개발에 적극적으로 참여하고 있다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 업계는 메모리 부족으로 인한 가격 상승과 관련 기술 개발에 대한 경쟁이 치열하다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술은 다양한 산업 분야에서 적용되며, 주요 기업들은 AI 기술 개발에 집중하고 있다.",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술은 다양한 산업 분야에서 활용되고 있으며, 관련 기업들은 기술 개발과 투자를 확대하고 있다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "반도체 산업",
+      "summary": "반도체 산업은 최근 시장의 변동에 따라 영향을 받고 있으며, 주요 기업들은 관련 기술 개발에 적극적으로 참여하고 있다.",
+      "post_count": 6,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "우주항공",
       "count": 15,
       "sentiment": "positive",
-      "context": "한국 정부의 우주항공 산업 육성 계획"
-    },
-    {
-      "keyword": "반도체",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "메모리 부족과 가격 상승"
+      "context": "정부의 우주항공 산업 육성 계획"
     },
     {
       "keyword": "AI",
-      "count": 18,
+      "count": 12,
       "sentiment": "positive",
-      "context": "다양한 산업 분야에서의 AI 기술 활용"
+      "context": "AI 기술의 다양한 산업 분야 적용"
+    },
+    {
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "반도체 산업의 시장 변동"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "한국의 기술 산업은 우수한 성장을 보이고 있으며, 우주항공과 AI 기술은 특히 주목받고 있다."
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "우주항공 산업은 한국의 주요 성장 동력으로 부상하고 있다.",
-      "action": "관련 기술 개발과 투자에 적극적으로 참여할 것",
+      "insight": "우주항공 산업의 성장",
+      "action": "관련 기술 개발에 투자",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업은 메모리 부족과 가격 상승으로 인한 경쟁이 치열하다.",
-      "action": "관련 기술 개발과 투자를 확대할 것",
+      "insight": "AI 기술의 적용",
+      "action": "AI 기술을 다양한 산업 분야에 적용",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술은 다양한 산업 분야에서 활용되고 있으며, 관련 기업들은 기술 개발과 투자를 확대하고 있다.",
-      "action": "AI 기술 개발과 투자에 적극적으로 참여할 것",
-      "priority": "high"
+      "insight": "반도체 산업의 변동",
+      "action": "시장의 변동에 대응",
+      "priority": "medium"
     }
   ],
-  "narrative": "한국의 기술 산업은 우수한 성장을 보이고 있으며, 우주항공과 AI 기술은 특히 주목받고 있다. 우주항공 산업은 한국 정부의 대규모 투자와 주요 기업들의 기술 개발로 성장하고 있으며, 반도체 산업은 메모리 부족과 가격 상승으로 인한 경쟁이 치열하다. AI 기술은 다양한 산업 분야에서 활용되고 있으며, 관련 기업들은 기술 개발과 투자를 확대하고 있다. 이러한 기술 산업의 성장은 한국 경제의 성장과 발전에 기여할 것으로 기대된다.",
-  "analyzed_at": "2026-07-03T19:30:34.074Z",
+  "narrative": "최근의 트렌드 분석 결과, 우주항공 산업과 AI 기술이 주요 관심사로 나타났습니다. 정부는 우주항공 산업을 육성하기 위해 대규모 투자를 계획하고 있으며, 주요 기업들도 관련 기술 개발에 적극적으로 참여하고 있습니다. 또한, AI 기술은 다양한 산업 분야에서 적용되며, 주요 기업들은 AI 기술 개발에 집중하고 있습니다. 반도체 산업은 최근 시장의 변동에 따라 영향을 받고 있으며, 주요 기업들은 관련 기술 개발에 적극적으로 참여하고 있습니다. 이러한 트렌드에 따라, 관련 기술 개발에 투자하고 시장의 변동에 대응하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-03T21:00:33.812Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
