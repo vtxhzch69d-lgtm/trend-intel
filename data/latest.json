@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "배재고 사태",
-      "summary": "배재고 사태는 교육의 문제다. 학생들의 폭력과 학교의 대처 방식이 논란이 되고 있다.",
+      "topic": "우주항공 산업",
+      "summary": "우주항공 산업의 육성 전략과 관련된 게시글이 많습니다. 정부의 우주항공 산업 육성 계획과 관련된 뉴스가 있습니다.",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "이재명",
-      "summary": "이재명과 관련된 다양한 뉴스와 의견이 나오고 있다. 그의 정치적 입장과 행동이 논란이 되고 있다.",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 게시글이 많습니다. AI 기술의 발전과 관련된 뉴스가 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "반도체 산업",
-      "summary": "반도체 산업의 동향과 관련된 뉴스와 의견이 나오고 있다. 산업의 발전과 경쟁이 논란이 되고 있다.",
-      "post_count": 6,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "summary": "반도체 산업과 관련된 게시글이 많습니다. 반도체 산업의 현황과 관련된 뉴스가 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "배재고",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "배재고 사태와 관련된 논란"
+      "keyword": "우주항공",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "우주항공 산업의 육성"
     },
     {
-      "keyword": "이재명",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "이재명의 정치적 입장과 행동"
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "반도체",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "반도체 산업의 동향과 발전"
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "반도체 산업의 현황"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "전체적으로 긍정적인 분위기입니다."
   },
   "business_insights": [
     {
-      "insight": "교육과 정치는 중요한 사회적 문제",
-      "action": "교육과 정치에 대한 관심과 참여를 높이자",
+      "insight": "우주항공 산업의 육성",
+      "action": "우주항공 산업에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업은 중요한 경제적 동력",
-      "action": "반도체 산업의 발전과 경쟁력을 높이자",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "반도체 산업의 현황",
+      "action": "반도체 산업의 동향을 분석하기",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 배재고 사태와 이재명의 정치적 입장, 반도체 산업의 동향 등 다양한 주제를 다루고 있다. 이러한 주제는 교육, 정치, 경제 등 다양한 분야에서 중요한 사회적 문제와 경제적 동력을 나타내고 있다. 따라서 이러한 주제에 대한 관심과 참여를 높이고, 반도체 산업의 발전과 경쟁력을 높이는 것이 중요하다. 또한, 부정적인 감정과 중립적인 감정이 혼재하는 현재의 사회적 분위기를 고려하여, 교육과 정치에 대한 관심과 참여를 높이는 것이 필요하다.",
-  "analyzed_at": "2026-07-03T13:00:34.549Z",
+  "narrative": "최근의 트렌드는 우주항공 산업과 AI 기술의 발전이 주를 이루고 있습니다. 우주항공 산업의 육성과 관련된 정부의 계획과 뉴스가 있습니다. 또한, AI 기술의 발전과 관련된 뉴스가 많습니다. 반도체 산업의 현황과 관련된 뉴스도 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립할 수 있습니다. 우주항공 산업과 AI 기술의 발전을 활용한 비즈니스 모델을 개발할 수 있습니다. 또한, 반도체 산업의 동향을 분석하여 시장의 변화를 예측할 수 있습니다.",
+  "analyzed_at": "2026-07-03T14:30:34.210Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
