@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "배재고 사건",
-      "summary": "배재고 사건 관련 게시물이 많습니다. 학생들의 폭력적인 행동과 관련된 게시물입니다.",
+      "topic": "이재명 정부",
+      "summary": "이재명 정부의 정책과 행보에 대한 논의",
       "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "배재고 사태",
+      "summary": "배재고 사태와 관련된 논의",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테슬라 주가",
-      "summary": "테슬라의 주가 변동에 대한 게시물이 많습니다. 투자와 관련된 게시물입니다.",
-      "post_count": 3,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "한국 경제",
-      "summary": "한국 경제와 관련된 게시물이 많습니다. 산업과 투자에 대한 게시물입니다.",
-      "post_count": 10,
+      "topic": "테슬라와 전기차",
+      "summary": "테슬라와 전기차에 대한 논의",
+      "post_count": 2,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "배재고",
+      "keyword": "이재명",
       "count": 10,
+      "sentiment": "mixed",
+      "context": "이재명 정부의 정책과 행보에 대한 논의"
+    },
+    {
+      "keyword": "배재고",
+      "count": 5,
       "sentiment": "negative",
-      "context": "배재고 사건 관련 게시물"
+      "context": "배재고 사태와 관련된 논의"
     },
     {
       "keyword": "테슬라",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "테슬라 주가 변동"
-    },
-    {
-      "keyword": "한국 경제",
-      "count": 15,
+      "count": 3,
       "sentiment": "positive",
-      "context": "한국 경제와 관련된 게시물"
+      "context": "테슬라와 전기차에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 15,
+    "negative": 20,
     "neutral": 30,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한국 경제는 성장하고 있습니다.",
-      "action": "투자하기",
+      "insight": "이재명 정부의 정책과 행보는 여전히 논의의 중심",
+      "action": "정치와 경제에 대한 지속적인 모니터링",
       "priority": "high"
     },
     {
-      "insight": "테슬라 주가는 변동성이 크습니다.",
-      "action": "주의하기",
+      "insight": "배재고 사태는 여전히 논의의 중심",
+      "action": "교육과 청소년 정책에 대한 지속적인 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "배재고 사건은 사회적인 문제입니다.",
-      "action": "주의하기",
-      "priority": "high"
+      "insight": "테슬라와 전기차는 긍정적인 반응을 보임",
+      "action": "전기차와 관련된 기술과 산업에 대한 투자",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 배재고 사건과 테슬라 주가 변동, 한국 경제 성장 등입니다. 이러한 트렌드는 사회적인 문제와 경제적인 문제를 포함하고 있습니다. 투자자와 기업은 이러한 트렌드를 주의해서 관찰해야 합니다. 또한, 한국 경제는 성장하고 있기 때문에 투자할 기회가 많습니다. 그러나 테슬라 주가는 변동성이 크기 때문에 주의해서 투자해야 합니다.",
-  "analyzed_at": "2026-07-02T23:00:33.920Z",
+  "narrative": "최근의 트렌드는 이재명 정부의 정책과 행보, 배재고 사태, 테슬라와 전기차에 대한 논의가 중심을 이루고 있습니다. 이러한 트렌드는 정치, 경제, 교육, 기술 등 다양한 분야에 걸쳐 있습니다. 마케터들은 이러한 트렌드를 지속적으로 모니터링하여 자신의 비즈니스에 대한 인사이트를 얻을 수 있습니다. 또한, 이러한 트렌드에 대한 적절한 대응과 전략을 수립하여 자신의 비즈니스에 대한 기회를 잡을 수 있습니다.",
+  "analyzed_at": "2026-07-03T00:30:34.171Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
