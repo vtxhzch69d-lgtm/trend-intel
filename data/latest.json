@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "영남권 우주항공 산업",
-      "summary": "영남권 우주항공 산업의 발전과 관련된 뉴스 및 의견이 많습니다. 정부와 기업들이 우주항공 산업을 육성하기 위한 노력을 하고 있습니다.",
+      "topic": "우주항공 산업",
+      "summary": "정부는 우주항공 산업을 육성하고, 기업들은 관련 기술 개발에 투자하고 있습니다. 이 분야는 미래 먹거리로 꼽히고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "반도체 업계",
-      "summary": "반도체 업계의 동향과 관련된 뉴스 및 의견이 많습니다. 반도체 업계의 발전과 관련된 기술 및 시장 동향이 논의되고 있습니다.",
+      "topic": "반도체 산업",
+      "summary": "반도체 업계는 메모리 부족과 가격 상승 등 다양한 문제에 직면해 있습니다. 그러나 기업들은 기술 개발에 계속 투자하고 있습니다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스 및 의견이 많습니다. AI 기술의 응용 및 시장 동향이 논의되고 있습니다.",
-      "post_count": 6,
+      "summary": "AI 기술은 다양한 산업에서 활용되고 있으며, 기업들은 관련 기술 개발에 투자하고 있습니다. 이 분야는 미래 성장 동력으로 꼽히고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "영남권",
+      "keyword": "우주항공",
       "count": 15,
       "sentiment": "positive",
-      "context": "영남권 우주항공 산업의 발전"
+      "context": "정부의 우주항공 산업 육성 정책"
     },
     {
       "keyword": "반도체",
-      "count": 12,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "반도체 업계의 동향"
+      "context": "반도체 업계의 메모리 부족과 가격 상승"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 18,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 다양한 산업에서의 활용"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "기대와 발전"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "기대와 관심이 높은 분위기"
   },
   "business_insights": [
     {
-      "insight": "영남권 우주항공 산업의 발전",
-      "action": "투자 및 지원",
+      "insight": "우주항공 산업은 미래 성장 동력으로 꼽히고 있습니다.",
+      "action": "관련 기술 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "반도체 업계의 동향",
-      "action": "기술 개발 및 시장 분석",
+      "insight": "반도체 업계는 메모리 부족과 가격 상승 등 다양한 문제에 직면해 있습니다.",
+      "action": "기술 개발에 계속 투자하기",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "응용 및 시장 개발",
+      "insight": "AI 기술은 다양한 산업에서 활용되고 있으며, 기업들은 관련 기술 개발에 투자하고 있습니다.",
+      "action": "AI 기술 개발에 투자하기",
       "priority": "high"
     }
   ],
-  "narrative": "영남권 우주항공 산업의 발전과 반도체 업계의 동향, AI 기술의 발전이 주요 트렌드입니다. 정부와 기업들이 우주항공 산업을 육성하기 위한 노력을 하고 있으며, 반도체 업계의 기술 개발 및 시장 분석이 필요합니다. 또한, AI 기술의 응용 및 시장 개발이 기대되고 있습니다. 이러한 트렌드에 따라 투자 및 지원, 기술 개발 및 시장 분석, 응용 및 시장 개발 등의 액션이 필요합니다.",
-  "analyzed_at": "2026-07-03T16:01:29.847Z",
+  "narrative": "현재의 트렌드는 우주항공 산업, 반도체 산업, AI 기술 등 미래 성장 동력으로 꼽히는 분야에 대한 관심과 기대가 높은 분위기입니다. 정부와 기업들은 관련 기술 개발에 투자하고 있으며, 이 분야는 미래 먹거리로 꼽히고 있습니다. 그러나 반도체 업계는 메모리 부족과 가격 상승 등 다양한 문제에 직면해 있습니다. 따라서 기업들은 기술 개발에 계속 투자하고, 관련 분야에 대한 관심과 기대를 높여야 합니다.",
+  "analyzed_at": "2026-07-03T18:00:33.970Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
