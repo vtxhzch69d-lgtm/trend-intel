@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "영남권 산업 투자",
-      "summary": "영남권에 대규모 산업 투자 계획이 발표되었습니다. 삼성전자, 현대차그룹, 한화 등이 영남권에 60조원 이상을 투자할 계획입니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "애플 메모리 부족 사태",
+      "summary": "애플 메모리 부족 사태로 인한 문제와 해결 방안이 논의되고 있습니다. 사용자들은 애플의 메모리 관리 정책을 비판하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "배재고 논란",
-      "summary": "배재고 논란이 커져가고 있습니다. 총동창회가 탄원서를 제출하고 광주일고가 사과를 받았습니다.",
-      "post_count": 5,
+      "topic": "쿠팡과 미국 정부의 충돌",
+      "summary": "쿠팡과 미국 정부의 충돌이 계속되고 있습니다. 쿠팡은 미국 정부의 압박에 대응하고 있습니다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 빠르게 발전하고 있습니다. 애플, 구글, 테슬라 등이 AI 기술에 대한 투자를 확대하고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "한국의 반도체 산업",
+      "summary": "한국의 반도체 산업이 세계적으로 경쟁력을 가지고 있습니다. 하지만 메모리 부족 사태로 인한 문제가 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "영남권",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "산업 투자"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "애플",
       "count": 10,
-      "sentiment": "positive",
-      "context": "기술 발전"
+      "sentiment": "negative",
+      "context": "메모리 부족 사태"
     },
     {
-      "keyword": "배재고",
+      "keyword": "쿠팡",
       "count": 5,
       "sentiment": "negative",
-      "context": "논란"
+      "context": "미국 정부와의 충돌"
+    },
+    {
+      "keyword": "반도체",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "한국의 반도체 산업"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 10,
-    "overall_mood": "기대"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "영남권 산업 투자가 증가할 것으로 예상됩니다.",
-      "action": "영남권 산업 투자에 대한 기회를 모색하세요.",
+      "insight": "애플의 메모리 관리 정책을 개선해야 합니다.",
+      "action": "애플의 메모리 관리 정책을 개선하는 방안을 연구합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 빠르게 발전하고 있습니다.",
-      "action": "AI 기술에 대한 투자를 확대하세요.",
-      "priority": "high"
+      "insight": "쿠팡은 미국 정부와의 충돌을 해결해야 합니다.",
+      "action": "쿠팡은 미국 정부와의 충돌을 해결하는 방안을 연구합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "한국의 반도체 산업을 지원해야 합니다.",
+      "action": "한국의 반도체 산업을 지원하는 방안을 연구합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近のオンラインコミュニティのトレンドを分析した結果、以下のことがわかりました。まず、영남권 산업 투자が 증가할 것으로 예상됩니다。삼성전자、현대차그룹、한화 등이 영남권에 대규모 투자를 할 계획입니다。また、AI 技術が急速に発展しています。애플、구글、테슬라 등이 AI 技術에 대한 投資を 拡大しています。さらに、배재고 논란이 커져가고 있습니다。総동창会が 탄원서를 提出하고 광주일고가 사과를 받았습니다。 이러한 트렌드에 대한 기회를 모색하여 비즈니스에 활용하세요。",
-  "analyzed_at": "2026-07-03T08:01:24.554Z",
+  "narrative": "최근의 트렌드는 애플의 메모리 부족 사태와 쿠팡의 미국 정부와의 충돌이 주를 이루고 있습니다. 사용자들은 애플의 메모리 관리 정책을 비판하고 있습니다. 또한, 한국의 반도체 산업은 세계적으로 경쟁력을 가지고 있습니다. 하지만 메모리 부족 사태로 인한 문제가 있습니다. 이러한 트렌드를 분석하여 애플의 메모리 관리 정책을 개선하고, 쿠팡은 미국 정부와의 충돌을 해결하며, 한국의 반도체 산업을 지원하는 방안을 연구해야 합니다.",
+  "analyzed_at": "2026-07-03T10:01:30.365Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
