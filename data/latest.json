@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 정부",
-      "summary": "이재명 정부의 정책과 행보에 대한 논의",
-      "post_count": 5,
+      "topic": "주식 시장",
+      "summary": "주식 시장의 변동과 관련된 게시글이 많습니다. 특히 삼성전자와 반도체 주식에 대한 관심이 높습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "배재고 사태",
-      "summary": "배재고 사태와 관련된 논의",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "기술 및 과학",
+      "summary": "신기술과 과학에 대한 게시글이 많습니다. 특히 AI, 5G, 6G 등에 대한 관심이 높습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테슬라와 전기차",
-      "summary": "테슬라와 전기차에 대한 논의",
-      "post_count": 2,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제 및 정치",
+      "summary": "경제와 정치에 대한 게시글이 많습니다. 특히 정부의 정책과 경제 지표에 대한 관심이 높습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "삼성전자",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "이재명 정부의 정책과 행보에 대한 논의"
-    },
-    {
-      "keyword": "배재고",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "배재고 사태와 관련된 논의"
-    },
-    {
-      "keyword": "테슬라",
-      "count": 3,
       "sentiment": "positive",
-      "context": "테슬라와 전기차에 대한 논의"
+      "context": "삼성전자의 주식과 기술에 대한 관심이 높습니다."
+    },
+    {
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "반도체 산업과 관련된 기술에 대한 관심이 높습니다."
+    },
+    {
+      "keyword": "AI",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 게시글이 많습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
+    "positive": 20,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적인 분위기이지만, 긍정적인 감정이 약간 더 높습니다."
   },
   "business_insights": [
     {
-      "insight": "이재명 정부의 정책과 행보는 여전히 논의의 중심",
-      "action": "정치와 경제에 대한 지속적인 모니터링",
+      "insight": "주식 시장의 변동에 대한 관심이 높습니다.",
+      "action": "주식 시장의 변동을 주시하고, 투자 전략을 조정해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "배재고 사태는 여전히 논의의 중심",
-      "action": "교육과 청소년 정책에 대한 지속적인 모니터링",
+      "insight": "신기술과 과학에 대한 관심이 높습니다.",
+      "action": "신기술과 과학에 대한 연구와 개발을 강화해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "테슬라와 전기차는 긍정적인 반응을 보임",
-      "action": "전기차와 관련된 기술과 산업에 대한 투자",
-      "priority": "low"
+      "insight": "경제와 정치에 대한 관심이 높습니다.",
+      "action": "경제와 정치에 대한 분석과 예측을 강화해야 합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 이재명 정부의 정책과 행보, 배재고 사태, 테슬라와 전기차에 대한 논의가 중심을 이루고 있습니다. 이러한 트렌드는 정치, 경제, 교육, 기술 등 다양한 분야에 걸쳐 있습니다. 마케터들은 이러한 트렌드를 지속적으로 모니터링하여 자신의 비즈니스에 대한 인사이트를 얻을 수 있습니다. 또한, 이러한 트렌드에 대한 적절한 대응과 전략을 수립하여 자신의 비즈니스에 대한 기회를 잡을 수 있습니다.",
-  "analyzed_at": "2026-07-03T00:30:34.171Z",
+  "narrative": "최근의 트렌드는 주식 시장의 변동과 신기술 및 과학에 대한 관심이 높습니다. 특히 삼성전자와 반도체 주식에 대한 관심이 높습니다. 또한, 경제와 정치에 대한 관심도 높습니다. 이러한 트렌드를 분석하여, 주식 시장의 변동을 주시하고, 투자 전략을 조정하며, 신기술과 과학에 대한 연구와 개발을 강화해야 합니다. 또한, 경제와 정치에 대한 분석과 예측을 강화하여, 비즈니스 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-07-03T02:00:34.279Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
