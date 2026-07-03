@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "우주항공 산업",
-      "summary": "우주항공 산업의 육성 전략과 관련된 게시글이 많습니다. 정부의 우주항공 산업 육성 계획과 관련된 뉴스가 있습니다.",
-      "post_count": 5,
+      "topic": "영남권 우주항공 산업",
+      "summary": "영남권 우주항공 산업의 발전과 관련된 뉴스 및 의견이 많습니다. 정부와 기업들이 우주항공 산업을 육성하기 위한 노력을 하고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 게시글이 많습니다. AI 기술의 발전과 관련된 뉴스가 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "반도체 업계",
+      "summary": "반도체 업계의 동향과 관련된 뉴스 및 의견이 많습니다. 반도체 업계의 발전과 관련된 기술 및 시장 동향이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업과 관련된 게시글이 많습니다. 반도체 산업의 현황과 관련된 뉴스가 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스 및 의견이 많습니다. AI 기술의 응용 및 시장 동향이 논의되고 있습니다.",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "우주항공",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "우주항공 산업의 육성"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "영남권",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "영남권 우주항공 산업의 발전"
     },
     {
       "keyword": "반도체",
       "count": 12,
       "sentiment": "neutral",
-      "context": "반도체 산업의 현황"
+      "context": "반도체 업계의 동향"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 5,
     "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기입니다."
+    "overall_mood": "기대와 발전"
   },
   "business_insights": [
     {
-      "insight": "우주항공 산업의 육성",
-      "action": "우주항공 산업에 투자하기",
+      "insight": "영남권 우주항공 산업의 발전",
+      "action": "투자 및 지원",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "반도체 업계의 동향",
+      "action": "기술 개발 및 시장 분석",
       "priority": "medium"
     },
     {
-      "insight": "반도체 산업의 현황",
-      "action": "반도체 산업의 동향을 분석하기",
-      "priority": "low"
+      "insight": "AI 기술의 발전",
+      "action": "응용 및 시장 개발",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 우주항공 산업과 AI 기술의 발전이 주를 이루고 있습니다. 우주항공 산업의 육성과 관련된 정부의 계획과 뉴스가 있습니다. 또한, AI 기술의 발전과 관련된 뉴스가 많습니다. 반도체 산업의 현황과 관련된 뉴스도 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립할 수 있습니다. 우주항공 산업과 AI 기술의 발전을 활용한 비즈니스 모델을 개발할 수 있습니다. 또한, 반도체 산업의 동향을 분석하여 시장의 변화를 예측할 수 있습니다.",
-  "analyzed_at": "2026-07-03T14:30:34.210Z",
+  "narrative": "영남권 우주항공 산업의 발전과 반도체 업계의 동향, AI 기술의 발전이 주요 트렌드입니다. 정부와 기업들이 우주항공 산업을 육성하기 위한 노력을 하고 있으며, 반도체 업계의 기술 개발 및 시장 분석이 필요합니다. 또한, AI 기술의 응용 및 시장 개발이 기대되고 있습니다. 이러한 트렌드에 따라 투자 및 지원, 기술 개발 및 시장 분석, 응용 및 시장 개발 등의 액션이 필요합니다.",
+  "analyzed_at": "2026-07-03T16:01:29.847Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
