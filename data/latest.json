@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "영남권 산업 투자",
-      "summary": "영남권에 대한 대규모 산업 투자 계획이 논의되고 있으며, 이에 따른 경제적 효과와 산업 발전에 대한 기대가 높아지고 있습니다. 또한, 반도체와 우주산업 등 첨단 기술 분야에서도 투자와 발전이 예상됩니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "배재고 사태",
+      "summary": "배재고 사태는 교육의 문제다. 학생들의 폭력과 학교의 대처 방식이 논란이 되고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업은 최근 메모리 부족과 미국 정부의 개입 경고 등 다양한 이슈로 인해 불안정한 상황이 지속되고 있습니다. 그러나, 국내 기업들의 기술 개발과 투자 확대 등으로 미래에 대한 기대가 있습니다.",
-      "post_count": 10,
+      "topic": "이재명",
+      "summary": "이재명과 관련된 다양한 뉴스와 의견이 나오고 있다. 그의 정치적 입장과 행동이 논란이 되고 있다.",
+      "post_count": 4,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "폴더블폰과 아이폰",
-      "summary": "폴더블폰과 아이폰의 시장 경쟁이 치열해지고 있으며, 각 제조사들은 새로운 기술과 제품을 출시하여 시장 점유율을 높이려 노력하고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 동향과 관련된 뉴스와 의견이 나오고 있다. 산업의 발전과 경쟁이 논란이 되고 있다.",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "영남권",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "산업 투자와 경제 발전"
+      "keyword": "배재고",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "배재고 사태와 관련된 논란"
+    },
+    {
+      "keyword": "이재명",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "이재명의 정치적 입장과 행동"
     },
     {
       "keyword": "반도체",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "메모리 부족과 산업 발전"
-    },
-    {
-      "keyword": "폴더블폰",
       "count": 6,
-      "sentiment": "neutral",
-      "context": "시장 경쟁과 기술 개발"
+      "sentiment": "positive",
+      "context": "반도체 산업의 동향과 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 10,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "기대와 불안정성의 혼합"
+    "neutral": 20,
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "영남권 산업 투자 확대",
-      "action": "투자와 기술 개발에 대한 지원 강화",
+      "insight": "교육과 정치는 중요한 사회적 문제",
+      "action": "교육과 정치에 대한 관심과 참여를 높이자",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 불안정성",
-      "action": "메모리 부족과 산업 발전에 대한 대책 마련",
+      "insight": "반도체 산업은 중요한 경제적 동력",
+      "action": "반도체 산업의 발전과 경쟁력을 높이자",
       "priority": "medium"
-    },
-    {
-      "insight": "폴더블폰 시장 경쟁",
-      "action": "신제품 출시와 시장 경쟁력 강화",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, 영남권 산업 투자 확대와 반도체 산업의 불안정성이 주요 이슈로 나타났습니다. 또한, 폴더블폰 시장 경쟁이 치열해지고 있으며, 각 제조사들은 새로운 기술과 제품을 출시하여 시장 점유율을 높이려 노력하고 있습니다. 이러한 트렌드에 대한 분석과 대응은 기업과 정부의 정책 결정에 중요한 역할을 할 것입니다. 또한, 영남권 산업 투자 확대와 반도체 산업의 발전은 국내 경제와 산업 발전에 긍정적인 영향을 미칠 수 있을 것입니다. 그러나, 반도체 산업의 불안정성과 폴더블폰 시장 경쟁은 기업과 정부가 주의깊게 관찰하고 대책을 마련해야 할 필요가 있습니다.",
-  "analyzed_at": "2026-07-03T11:30:34.294Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 배재고 사태와 이재명의 정치적 입장, 반도체 산업의 동향 등 다양한 주제를 다루고 있다. 이러한 주제는 교육, 정치, 경제 등 다양한 분야에서 중요한 사회적 문제와 경제적 동력을 나타내고 있다. 따라서 이러한 주제에 대한 관심과 참여를 높이고, 반도체 산업의 발전과 경쟁력을 높이는 것이 중요하다. 또한, 부정적인 감정과 중립적인 감정이 혼재하는 현재의 사회적 분위기를 고려하여, 교육과 정치에 대한 관심과 참여를 높이는 것이 필요하다.",
+  "analyzed_at": "2026-07-03T13:00:34.549Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
