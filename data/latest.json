@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "5.18과 세월호에 대한 비하 발언",
-      "summary": "5.18과 세월호에 대한 비하 발언이 문제가 되고 있으며, 관련 처벌 규정을 강화해야 한다는 의견이 제기되고 있습니다. 또한, 이러한 비하 발언이 극우화의 원인이 아닌 결과라는 의견도 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "영남권 산업 투자",
+      "summary": "영남권에 대규모 산업 투자 계획이 발표되었습니다. 삼성전자, 현대차그룹, 한화 등이 영남권에 60조원 이상을 투자할 계획입니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "반도체와 기술 산업",
-      "summary": "반도체와 기술 산업이 빠르게 발전하고 있으며, 관련 뉴스와 기사들이 많이出现하고 있습니다. 특히, SK하이닉스와 삼성전자의 반도체 사업이 주목을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "배재고 논란",
+      "summary": "배재고 논란이 커져가고 있습니다. 총동창회가 탄원서를 제출하고 광주일고가 사과를 받았습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "국제 관계와 외교",
-      "summary": "국제 관계와 외교가 중요한 문제로 등장하고 있으며, 특히 이 대통령의 나토 회의 참석과 몽골 국빈방문이 주목을 받고 있습니다.",
-      "post_count": 3,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "AI 기술",
+      "summary": "AI 기술이 빠르게 발전하고 있습니다. 애플, 구글, 테슬라 등이 AI 기술에 대한 투자를 확대하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "5.18",
+      "keyword": "영남권",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "산업 투자"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 발전"
+    },
+    {
+      "keyword": "배재고",
       "count": 5,
       "sentiment": "negative",
-      "context": "비하 발언과 관련된 문제"
-    },
-    {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "기술 산업과 관련된 뉴스"
-    },
-    {
-      "keyword": "이 대통령",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "국제 관계와 외교에 관련된 뉴스"
+      "context": "논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 20,
     "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기이지만, 일부에서는 부정적인 감정도 존재합니다."
+    "neutral": 10,
+    "overall_mood": "기대"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 성장",
-      "action": "관련 기술과 산업에 투자하기",
+      "insight": "영남권 산업 투자가 증가할 것으로 예상됩니다.",
+      "action": "영남권 산업 투자에 대한 기회를 모색하세요.",
       "priority": "high"
     },
     {
-      "insight": "국제 관계와 외교의 중요성",
-      "action": "관련 뉴스와 정보에 주목하기",
-      "priority": "medium"
+      "insight": "AI 기술이 빠르게 발전하고 있습니다.",
+      "action": "AI 기술에 대한 투자를 확대하세요.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드와 뉴스에서는 5.18과 세월호에 대한 비하 발언, 반도체와 기술 산업, 국제 관계와 외교가 중요한 문제로 등장하고 있습니다. 이러한 문제들은 관련 처벌 규정을 강화하고, 기술 산업에 투자하며, 국제 관계와 외교에 주목하는 등 다양한 행동을 취할 필요가 있습니다. 또한, 관련 키워드와 감정 분석을 통해 더 많은 정보를 얻을 수 있습니다.",
-  "analyzed_at": "2026-07-03T06:30:34.492Z",
+  "narrative": "最近のオンラインコミュニティのトレンドを分析した結果、以下のことがわかりました。まず、영남권 산업 투자が 증가할 것으로 예상됩니다。삼성전자、현대차그룹、한화 등이 영남권에 대규모 투자를 할 계획입니다。また、AI 技術が急速に発展しています。애플、구글、테슬라 등이 AI 技術에 대한 投資を 拡大しています。さらに、배재고 논란이 커져가고 있습니다。総동창会が 탄원서를 提出하고 광주일고가 사과를 받았습니다。 이러한 트렌드에 대한 기회를 모색하여 비즈니스에 활용하세요。",
+  "analyzed_at": "2026-07-03T08:01:24.554Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
