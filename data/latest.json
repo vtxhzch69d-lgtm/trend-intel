@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "5.18 및 세월호 관련 논란",
-      "summary": "클리앙 커뮤니티에서 5.18 및 세월호 관련 논란이 거세지며, 관련 게시물이 많이 올라왔습니다. 일부 사용자들은 관련 사건에 대한 조롱과 비판을 받고 있습니다.",
+      "topic": "정치 및 사회",
+      "summary": "정청래의 대통령과 싸우는 상황, 518교육의 부재, 일베화 등 정치 및 사회 관련 주제가 논의되고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "영남권 산업 투자",
-      "summary": "영남권 산업 투자와 관련된 뉴스가 많아졌습니다. 삼성, 현대차, 한화 등 대기업들이 영남권에 대규모 투자를 할 계획입니다.",
+      "topic": "기술 및 과학",
+      "summary": "AI, 우주항공, 반도체 등 기술 및 과학 관련 주제가 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 및 기술 관련 뉴스",
-      "summary": "AI 및 기술 관련 뉴스가 많아졌습니다. 삼성, 구글, 애플 등 대기업들이 AI 기술 개발에 집중하고 있습니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
+      "topic": "생활 및 건강",
+      "summary": "건강검진, 운동, 치아 건강 등 생활 및 건강 관련 주제가 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "5.18",
-      "count": 15,
+      "keyword": "정청래",
+      "count": 5,
       "sentiment": "negative",
-      "context": "관련 사건에 대한 조롱과 비판"
-    },
-    {
-      "keyword": "영남권",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "대기업들의 산업 투자"
+      "context": "정청래의 대통령과 싸우는 상황"
     },
     {
       "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "기술 개발과 관련된 뉴스"
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "우주항공",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "우주항공 산업의 성장"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "영남권 산업 투자가 증가할 것으로 예상됩니다.",
-      "action": "영남권 산업 투자에 대한 분석을 심화시킵니다.",
+      "insight": "기술 및 과학 분야의 투자가 증가하고 있습니다.",
+      "action": "기술 및 과학 분야에 투자하는 것을 고려해 보세요.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 개발이 더욱 중요해질 것으로 예상됩니다.",
-      "action": "AI 기술 개발에 대한 투자를 증가시킵니다.",
+      "insight": "정치 및 사회 분야의 논의가 뜨거워지고 있습니다.",
+      "action": "정치 및 사회 분야의 동향을 주시해 보세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 5.18 및 세월호 관련 논란이 거세지며, 관련 게시물이 많이 올라왔습니다. 영남권 산업 투자와 관련된 뉴스가 많아졌으며, 대기업들이 영남권에 대규모 투자를 할 계획입니다. AI 및 기술 관련 뉴스가 많아졌으며, 삼성, 구글, 애플 등 대기업들이 AI 기술 개발에 집중하고 있습니다. 영남권 산업 투자가 증가할 것으로 예상되며, AI 기술 개발이 더욱 중요해질 것으로 예상됩니다.",
-  "analyzed_at": "2026-07-04T04:30:33.963Z",
+  "narrative": "최근의 트렌드는 기술 및 과학 분야의 발전과 정치 및 사회 분야의 논의가 뜨거워지고 있습니다. 기술 및 과학 분야의 투자가 증가하고 있으며, 정치 및 사회 분야의 논의는 뜨거워지고 있습니다. 이러한 트렌드를 고려하여 사업 전략을 수립하는 것이 중요합니다. 또한, 기술 및 과학 분야의 발전을 주시하고, 정치 및 사회 분야의 동향을 주시하여 사업 기회를 찾는 것이 중요합니다.",
+  "analyzed_at": "2026-07-04T06:00:35.220Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
