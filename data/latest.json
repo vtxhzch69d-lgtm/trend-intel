@@ -1,98 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "재개발",
-      "summary": "재개발 총회에서 박수가 나오는 장면들을 보면 공통점이 있는데 우리 진보...",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "스마트폰",
-      "summary": "스마트폰값이 후덜덜하네요",
-      "post_count": 1,
-      "sentiment": "negative",
-      "urgency": "low"
-    },
-    {
-      "topic": "앱 개발",
-      "summary": "제가 만든 앱이 미국 앱스토어 'Best New Apps and Updates' 에 소개 되었네요",
-      "post_count": 1,
-      "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "정치",
-      "summary": "오세훈, 위인 났네요",
-      "post_count": 1,
+      "topic": "보완수사권",
+      "summary": "보완수사권 폐지와 관련된 논의가 활발히 진행 중입니다. 일부 의원들은 보완수사권 폐지를 주장하며, 반대하는 의견도 존재합니다.",
+      "post_count": 5,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "삼성전자",
+      "summary": "삼성전자의 3분기DRAM 가격 인상과 미국 구조조정 관련 제보가 있습니다. 또한, 삼성전자 노태문은 영남에 60조원 투자하여 제조AI 선도지역으로 육성할 계획입니다.",
+      "post_count": 4,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "자동차",
-      "summary": "2026년 6월 상반기 자동차 판매순위 top 10",
-      "post_count": 1,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "우주항공 산업",
+      "summary": "우주항공 산업에 대한 관심이 증가하고 있습니다. 정부는 남해안 우주항공 산업벨트 구축을 계획하고, 현대차그룹은 영남권에 10년간 42조원 투자하여 첨단산업 거점을 육성할 계획입니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "재개발",
-      "count": 2,
+      "keyword": "보완수사권",
+      "count": 7,
       "sentiment": "negative",
-      "context": "재개발 총회에서 박수가 나오는 장면들을 보면 공통점이 있는데 우리 진보..."
+      "context": "보완수사권 폐지와 관련된 논의"
     },
     {
-      "keyword": "스마트폰",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "스마트폰값이 후덜덜하네요"
-    },
-    {
-      "keyword": "앱",
-      "count": 1,
-      "sentiment": "positive",
-      "context": "제가 만든 앱이 미국 앱스토어 'Best New Apps and Updates' 에 소개 되었네요"
-    },
-    {
-      "keyword": "정치",
-      "count": 1,
-      "sentiment": "mixed",
-      "context": "오세훈, 위인 났네요"
-    },
-    {
-      "keyword": "자동차",
-      "count": 1,
+      "keyword": "삼성전자",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "2026년 6월 상반기 자동차 판매순위 top 10"
+      "context": "삼성전자의 3분기DRAM 가격 인상과 미국 구조조정"
+    },
+    {
+      "keyword": "우주항공 산업",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "우주항공 산업에 대한 관심 증가"
     }
   ],
   "sentiment_overview": {
-    "positive": 2,
-    "negative": 3,
-    "neutral": 2,
-    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다"
+    "positive": 10,
+    "negative": 8,
+    "neutral": 12,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "재개발에 대한 관심이 높아지고 있습니다",
-      "action": "재개발 관련 콘텐츠를 생성하여 관심을 끌 수 있습니다",
+      "insight": "보완수사권 폐지와 관련된 논의가 활발히 진행 중입니다.",
+      "action": "관련 법안을 추적하고, 의견을 수렴하여 대응할 필요가 있습니다.",
+      "priority": "high"
+    },
+    {
+      "insight": "삼성전자의 3분기DRAM 가격 인상과 미국 구조조정 관련 제보가 있습니다.",
+      "action": "관련 뉴스를 모니터링하고, 시장 동향을 분석하여 대응할 필요가 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "스마트폰에 대한 불만이 높아지고 있습니다",
-      "action": "스마트폰 관련 콘텐츠를 생성하여 불만을 해소할 수 있습니다",
-      "priority": "low"
-    },
-    {
-      "insight": "앱 개발에 대한 관심이 높아지고 있습니다",
-      "action": "앱 개발 관련 콘텐츠를 생성하여 관심을 끌 수 있습니다",
-      "priority": "low"
+      "insight": "우주항공 산업에 대한 관심이 증가하고 있습니다.",
+      "action": "관련 기술 개발과 투자를 고려하여 미래 산업을 선도할 수 있는 기회를 잡아야 합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 재개발, 스마트폰, 앱 개발, 정치, 자동차 등 다양한 주제를 다루고 있습니다. 재개발에 대한 관심이 높아지고 있으며, 스마트폰에 대한 불만이 높아지고 있습니다. 앱 개발에 대한 관심도 높아지고 있으며, 정치와 자동차에 대한 관심도 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한, 재개발, 스마트폰, 앱 개발 등에 대한 콘텐츠를 생성하여 불만을 해소할 수 있습니다. 이러한 분석을 통해 마케팅 전략을 수립하여 효과적인 캠페인을 진행할 수 있습니다.",
-  "analyzed_at": "2026-07-04T07:30:33.903Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 보완수사권 폐지와 관련된 논의가 활발히 진행 중이며, 삼성전자의 3분기DRAM 가격 인상과 미국 구조조정 관련 제보가 있습니다. 또한, 우주항공 산업에 대한 관심이 증가하고 있습니다. 이러한 트렌드와 키워드를 고려하여, 관련 법안을 추적하고, 의견을 수렴하여 대응할 필요가 있습니다. 또한, 관련 뉴스를 모니터링하고, 시장 동향을 분석하여 대응할 필요가 있습니다. 우주항공 산업의 경우, 관련 기술 개발과 투자를 고려하여 미래 산업을 선도할 수 있는 기회를 잡아야 합니다.",
+  "analyzed_at": "2026-07-04T09:00:34.399Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
