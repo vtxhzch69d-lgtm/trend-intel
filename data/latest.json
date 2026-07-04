@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 대한 관심이 높다. 특히, AI, 우주항공, 반도체 등에 대한 글들이 인기 있다.",
+      "summary": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, AI, 우주항공, 반도체 등에 대한 논의가 활발합니다.",
       "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 글들이 많이 올라오고 있다. 특히, 부동산 가격 상승, 세금, 정부 정책 등에 대한 관심이 높다.",
-      "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "엔터테인먼트",
-      "summary": "영화, 드라마, 음악 등 엔터테인먼트 관련 글들이 올라오고 있다. 특히, 최신 드라마 및 영화에 대한 리뷰가 인기 있다.",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 주제에 대한 관심이 높아지고 있습니다. 특히, 정부의 정책 및 경제 동향에 대한 논의가 활발합니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화 관련 주제에 대한 관심이 높아지고 있습니다. 특히, 예술, 음악, 영화 등에 대한 논의가 활발합니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
@@ -26,42 +26,59 @@
     {
       "keyword": "AI",
       "count": 10,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "context": "최신 기술 및 산업 동향"
-    },
-    {
-      "keyword": "부동산",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "경제 및 정치"
     },
     {
       "keyword": "우주항공",
-      "count": 5,
+      "count": 8,
       "sentiment": "positive",
       "context": "최신 기술 및 산업 동향"
+    },
+    {
+      "keyword": "반도체",
+      "count": 6,
+      "sentiment": "neutral",
+      "context": "최신 기술 및 산업 동향"
+    },
+    {
+      "keyword": "정부",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "경제 및 정치"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 및 정치"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 40,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있다.",
-      "action": "최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌어올릴 수 있다.",
+      "insight": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다.",
+      "action": "최신 기술 및 산업 동향에 대한 연구 및 개발에 투자하세요.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 글들이 많이 올라오고 있다.",
-      "action": "경제 및 정치 관련 콘텐츠를 제공하여 관심을 끌어올릴 수 있다.",
+      "insight": "정부의 정책 및 경제 동향에 대한 논의가 활발합니다.",
+      "action": "정부의 정책 및 경제 동향에 대한 분석 및 보고서를 작성하세요.",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 문화 관련 주제에 대한 관심이 높아지고 있습니다.",
+      "action": "사회 및 문화 관련 주제에 대한 연구 및 개발에 투자하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있다. 특히, AI, 우주항공, 반도체 등에 대한 글들이 인기 있다. 또한, 경제 및 정치 관련 글들이 많이 올라오고 있다. 이러한 관심을 바탕으로 최신 기술 및 산업 동향에 대한 콘텐츠를 제공하여 관심을 끌어올릴 수 있다. 또한, 경제 및 정치 관련 콘텐츠를 제공하여 관심을 끌어올릴 수 있다. 그러나, 부동산 가격 상승, 세금, 정부 정책 등에 대한 관심도 높아지고 있으므로, 이러한 주제에 대한 콘텐츠도 제공하여 관심을 끌어올릴 수 있다.",
-  "analyzed_at": "2026-07-04T16:30:33.999Z",
+  "narrative": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, AI, 우주항공, 반도체 등에 대한 논의가 활발합니다. 또한, 정부의 정책 및 경제 동향에 대한 논의가 활발합니다. 이러한 동향을 분석하여 최신 기술 및 산업 동향에 대한 연구 및 개발에 투자하고, 정부의 정책 및 경제 동향에 대한 분석 및 보고서를 작성하면 사업에 도움이 될 것입니다. 또한, 사회 및 문화 관련 주제에 대한 연구 및 개발에 투자하면 새로운 기회를 창출할 수 있습니다.",
+  "analyzed_at": "2026-07-04T18:00:35.224Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
