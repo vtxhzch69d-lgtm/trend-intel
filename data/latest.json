@@ -1,60 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 경기 결과와 분석이热议되고 있습니다. 아르헨티나와 카보베르데의 경기가 특히 관심을 끌었습니다.",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "영남권 산업 투자",
+      "summary": "정부와 기업들이 영남권에 대규모 투자를 계획하고 있으며, 우주항공, AI, 반도체 등 첨단 산업을 육성하기 위해 노력하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "기술 및 산업 관련 뉴스가 많이 обсужд되고 있습니다. 우주항공 산업, AI, 반도체 등 다양한 주제가 포함되어 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "배재고 사태",
+      "summary": "배재고 사태에 대한 논의가热을 뿜고 있으며, 학부모와 학생들의 반응이 다양하다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "국제 정치",
+      "summary": "국제 정치 관련 뉴스가 많으며, 특히 미국과 중국의 반도체 산업 경쟁이 주목을 받고 있다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 25,
-      "sentiment": "mixed",
-      "context": "월드컵 관련 뉴스와 분석"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "영남권",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술과 산업 관련 뉴스"
+      "context": "산업 투자와 관련된 키워드"
+    },
+    {
+      "keyword": "배재고",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "사태와 관련된 키워드"
     },
     {
       "keyword": "반도체",
-      "count": 5,
+      "count": 8,
       "sentiment": "neutral",
-      "context": "반도체 산업 관련 뉴스"
+      "context": "국제 정치와 산업 경쟁 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "월드컵 관련 마케팅 기회",
-      "action": "월드컵 관련 콘텐츠 개발",
+      "insight": "영남권 산업 투자",
+      "action": "영남권 산업 투자 기회를 찾기",
       "priority": "high"
     },
     {
-      "insight": "기술 및 산업 관련 뉴스와 트렌드 분석",
-      "action": "기술 및 산업 관련 콘텐츠 개발",
+      "insight": "배재고 사태",
+      "action": "배재고 사태에 대한 대응책을 마련하기",
+      "priority": "medium"
+    },
+    {
+      "insight": "국제 정치",
+      "action": "국제 정치 동향을 주시하기",
       "priority": "medium"
     }
   ],
-  "narrative": "월드컵과 기술 및 산업 관련 뉴스가 현재의 트렌드입니다. 월드컵 관련 마케팅 기회를 활용하고, 기술 및 산업 관련 뉴스와 트렌드를 분석하여 콘텐츠를 개발하는 것이 좋습니다. 중립적인 감정과 높은 우선순위의 인사이트를 고려하여 마케팅 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-04T01:30:33.594Z",
+  "narrative": "현재의 트렌드는 영남권 산업 투자와 배재고 사태, 국제 정치 등으로 구성되어 있다. 영남권 산업 투자는 정부와 기업들이 대규모 투자를 계획하고 있으며, 우주항공, AI, 반도체 등 첨단 산업을 육성하기 위해 노력하고 있다. 배재고 사태는 학부모와 학생들의 반응이 다양하며, 국제 정치는 미국과 중국의 반도체 산업 경쟁이 주목을 받고 있다. 이러한 트렌드를 분석하여 사업 기회를 찾고, 대응책을 마련하며, 국제 정치 동향을 주시하는 것이 중요하다.",
+  "analyzed_at": "2026-07-04T03:00:34.953Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
