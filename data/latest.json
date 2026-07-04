@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, 우주항공 산업과 AI 기술에 대한 관심이 집중되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "고양이",
+      "summary": "고양이의 반토막에 대한 게시글이 클리앙 커뮤니티에서 인기",
+      "post_count": 1,
+      "sentiment": "neutral",
+      "urgency": "low"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 정부의 정책과 경제 동향에 대한 관심이 집중되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "월드컵",
+      "summary": "월드컵 16강전 모로코 vs 캐나다 경기 결과에 대한 게시글이 클리앙 커뮤니티에서 인기",
+      "post_count": 1,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "스포츠 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 월드컵과 축구 관련 뉴스에 대한 관심이 집중되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드에 대한 게시글이 클리앙 커뮤니티에서 인기",
+      "post_count": 20,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "우주항공",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "우주항공 산업의 발전과 관련된 뉴스"
+      "keyword": "고양이",
+      "count": 1,
+      "sentiment": "neutral",
+      "context": "고양이의 반토막에 대한 게시글"
     },
     {
-      "keyword": "AI",
-      "count": 6,
+      "keyword": "월드컵",
+      "count": 2,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스"
+      "context": "월드컵 16강전 모로코 vs 캐나다 경기 결과"
     },
     {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "경제 동향과 관련된 뉴스"
+      "keyword": "기술",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "최신 기술 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 5,
+    "negative": 2,
+    "neutral": 33,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "우주항공 산업과 AI 기술에 대한 투자가 증가할 것으로 예상됩니다.",
-      "action": "관련 산업에 대한 투자와 연구 개발에 집중할 필요가 있습니다.",
-      "priority": "high"
+      "insight": "고양이와 관련된 제품이나 서비스에 대한 수요가 증가할 수 있음",
+      "action": "고양이와 관련된 제품이나 서비스를 개발하거나 마케팅할 것",
+      "priority": "low"
     },
     {
-      "insight": "경제 동향에 대한 관심이 높아지고 있습니다.",
-      "action": "경제 동향을 주시하고, 관련된 뉴스와 정보를 제공할 필요가 있습니다.",
+      "insight": "월드컵과 관련된 제품이나 서비스에 대한 수요가 증가할 수 있음",
+      "action": "월드컵과 관련된 제품이나 서비스를 개발하거나 마케팅할 것",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있음",
+      "action": "최신 기술 뉴스와 트렌드에 대한 콘텐츠를 개발하거나 마케팅할 것",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 기술 및 산업, 경제 및 정치, 스포츠 등 다양한 주제에 대한 관심이 높아지고 있습니다. 특히, 우주항공 산업과 AI 기술에 대한 관심이 집중되고 있습니다. 이러한 트렌드에 따라, 관련 산업에 대한 투자와 연구 개발에 집중할 필요가 있습니다. 또한, 경제 동향을 주시하고, 관련된 뉴스와 정보를 제공할 필요가 있습니다. 전체적으로 긍정적인 분위기이지만, 경제와 정치 등에 대한 관심이 높아지고 있으므로, 관련된 뉴스와 정보를 제공할 필요가 있습니다.",
-  "analyzed_at": "2026-07-04T21:00:34.649Z",
+  "narrative": "클리앙 커뮤니티에서 인기 있는 주제는 고양이, 월드컵, 기술 등이다. 고양이와 관련된 게시글은 중립적인 감정을 가지고 있고, 월드컵과 관련된 게시글은 긍정적인 감정을 가지고 있다. 기술과 관련된 게시글은 중립적인 감정을 가지고 있고, 최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있다. 이러한 트렌드를 바탕으로 고양이와 관련된 제품이나 서비스, 월드컵과 관련된 제품이나 서비스, 최신 기술 뉴스와 트렌드에 대한 콘텐츠를 개발하거나 마케팅할 수 있을 것이다.",
+  "analyzed_at": "2026-07-04T22:30:33.846Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
