@@ -1,84 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, AI, 우주항공, 반도체 등에 대한 논의가 활발합니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 주제에 대한 관심이 높아지고 있습니다. 특히, 정부의 정책 및 경제 동향에 대한 논의가 활발합니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "월드컵",
+      "summary": "월드컵 16강전 모로코 vs 캐나다 경기 결과",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 관련 주제에 대한 관심이 높아지고 있습니다. 특히, 예술, 음악, 영화 등에 대한 논의가 활발합니다.",
-      "post_count": 10,
+      "topic": "국내 정치",
+      "summary": "총선은 민생보다 국민들의 마음을 얻어야 합니다!",
+      "post_count": 2,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 산업",
+      "summary": "SK, 140조 승부수…영남에 '아시아 최대 AI허브' 만든다",
+      "post_count": 5,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "최신 기술 및 산업 동향"
-    },
-    {
-      "keyword": "우주항공",
-      "count": 8,
+      "keyword": "월드컵",
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 및 산업 동향"
+      "context": "월드컵 관련 게시글"
     },
     {
-      "keyword": "반도체",
-      "count": 6,
-      "sentiment": "neutral",
-      "context": "최신 기술 및 산업 동향"
+      "keyword": "AI",
+      "count": 7,
+      "sentiment": "positive",
+      "context": "AI 기술 및 산업 관련 게시글"
     },
     {
-      "keyword": "정부",
-      "count": 5,
+      "keyword": "정치",
+      "count": 3,
       "sentiment": "mixed",
-      "context": "경제 및 정치"
-    },
-    {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 및 정치"
+      "context": "국내 정치 관련 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 및 산업 동향에 대한 연구 및 개발에 투자하세요.",
+      "insight": "월드컵 관련 마케팅 기회",
+      "action": "월드컵 관련 광고 및 프로모션 실행",
       "priority": "high"
     },
     {
-      "insight": "정부의 정책 및 경제 동향에 대한 논의가 활발합니다.",
-      "action": "정부의 정책 및 경제 동향에 대한 분석 및 보고서를 작성하세요.",
-      "priority": "medium"
+      "insight": "AI 기술 및 산업의 성장",
+      "action": "AI 기술 및 산업 관련 투자 및 연구 진행",
+      "priority": "high"
     },
     {
-      "insight": "사회 및 문화 관련 주제에 대한 관심이 높아지고 있습니다.",
-      "action": "사회 및 문화 관련 주제에 대한 연구 및 개발에 투자하세요.",
-      "priority": "low"
+      "insight": "국내 정치 관련 마케팅 기회",
+      "action": "국내 정치 관련 광고 및 프로모션 실행",
+      "priority": "medium"
     }
   ],
-  "narrative": "최신 기술 및 산업 동향에 대한 관심이 높아지고 있습니다. 특히, AI, 우주항공, 반도체 등에 대한 논의가 활발합니다. 또한, 정부의 정책 및 경제 동향에 대한 논의가 활발합니다. 이러한 동향을 분석하여 최신 기술 및 산업 동향에 대한 연구 및 개발에 투자하고, 정부의 정책 및 경제 동향에 대한 분석 및 보고서를 작성하면 사업에 도움이 될 것입니다. 또한, 사회 및 문화 관련 주제에 대한 연구 및 개발에 투자하면 새로운 기회를 창출할 수 있습니다.",
-  "analyzed_at": "2026-07-04T18:00:35.224Z",
+  "narrative": "최근 클리앙 커뮤니티에서 인기 있는 주제는 월드컵, 국내 정치, 기술 및 산업입니다. 월드컵 관련 게시글은 매우 긍정적인 반응을 보였으며, 국내 정치 관련 게시글은 혼합된 반응을 보였습니다. 기술 및 산업 관련 게시글은 AI 기술 및 산업의 성장에 대한 관심이 높아지고 있습니다. 이러한 주제는 마케팅 기회를 제공하며, 관련 광고 및 프로모션을 실행하는 것이 효과적일 수 있습니다.",
+  "analyzed_at": "2026-07-04T19:30:33.762Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
