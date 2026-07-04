@@ -1,60 +1,60 @@
 {
   "trending_topics": [
     {
-      "topic": "카보베르데와 아르헨티나의 축구 경기",
-      "summary": "카보베르데와 아르헨티나의 경기가 클리앙 커뮤니티에서 인기 있는 주제입니다. 사용자들은 경기 결과와 선수들의 활약에 대해 논의하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 분석이热议되고 있습니다. 아르헨티나와 카보베르데의 경기가 특히 관심을 끌었습니다.",
+      "post_count": 20,
+      "sentiment": "mixed",
+      "urgency": "high"
     },
     {
-      "topic": "한국의 우주 산업과 기술 개발",
-      "summary": "한국의 우주 산업과 기술 개발이 클리앙 뉴스 섹션에서 주목을 받고 있습니다. 사용자들은 정부의 우주 산업 육성 정책과 기업들의 기술 개발에 대해 관심을 보이고 있습니다.",
-      "post_count": 10,
+      "topic": "기술 및 산업",
+      "summary": "기술 및 산업 관련 뉴스가 많이 обсужд되고 있습니다. 우주항공 산업, AI, 반도체 등 다양한 주제가 포함되어 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "카보베르데",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "아르헨티나와의 축구 경기"
-    },
-    {
-      "keyword": "우주 산업",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "한국의 우주 산업 육성 정책"
+      "keyword": "월드컵",
+      "count": 25,
+      "sentiment": "mixed",
+      "context": "월드컵 관련 뉴스와 분석"
     },
     {
       "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술과 산업 관련 뉴스"
+    },
+    {
+      "keyword": "반도체",
       "count": 5,
       "sentiment": "neutral",
-      "context": "기술 개발과 기업들의 투자"
+      "context": "반도체 산업 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "한국의 우주 산업과 기술 개발에 대한 긍정적인 관심이 많습니다."
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "한국의 우주 산업이 빠르게 성장하고 있습니다.",
-      "action": "우주 산업 관련 기업에 투자하거나 기술 개발에 참여하는 것을 고려해 보세요.",
+      "insight": "월드컵 관련 마케팅 기회",
+      "action": "월드컵 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 다양한 산업에서 적용되고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발하는 것을 고려해 보세요.",
+      "insight": "기술 및 산업 관련 뉴스와 트렌드 분석",
+      "action": "기술 및 산업 관련 콘텐츠 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티의 인기 주제는 카보베르데와 아르헨티나의 축구 경기와 한국의 우주 산업과 기술 개발입니다. 사용자들은 이러한 주제에 대해 긍정적인 관심을 보이고 있으며, 우주 산업과 AI 기술에 대한 투자와 개발에 대한 논의가 활발하게 진행되고 있습니다. 이러한 트렌드를 따라 기업들은 새로운 비즈니스 모델을 개발하고 우주 산업과 AI 기술에 대한 투자를 고려해 볼 수 있습니다.",
-  "analyzed_at": "2026-07-04T00:01:33.975Z",
+  "narrative": "월드컵과 기술 및 산업 관련 뉴스가 현재의 트렌드입니다. 월드컵 관련 마케팅 기회를 활용하고, 기술 및 산업 관련 뉴스와 트렌드를 분석하여 콘텐츠를 개발하는 것이 좋습니다. 중립적인 감정과 높은 우선순위의 인사이트를 고려하여 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-04T01:30:33.594Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
