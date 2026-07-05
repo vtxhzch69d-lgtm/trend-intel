@@ -1,72 +1,84 @@
 {
   "trending_topics": [
     {
-      "topic": "넷플릭스 광고형 스탠다드",
-      "summary": "넷플릭스가 광고형 스탠다드를 출시하여 사용자들의 반응이 뜨겁다. 일부 사용자들은 광고를 포함한 저렴한 가격에 만족하지만, 다른 사용자들은 광고의 방해로 불편을 느끼고 있다.",
+      "topic": "일베와 노무현에 대한 논란",
+      "summary": "일베와 노무현에 대한 논란이 커뮤니티에서 많이 обсужд되고 있습니다. 일베의 침투와 노무현에 대한 조롱이 문제가 되고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "일베와 경상도 사투리",
-      "summary": "일베와 경상도 사투리 관련된 게시글이 많이 올라와 논쟁이 일고 있다. 일부 사용자들은 일베와 경상도 사투리를 동일시하며 비판하고 있지만, 다른 사용자들은 이를 부정하고 있다.",
-      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "삼성 덱스 매니저",
-      "summary": "삼성 덱스 매니저 관련된 게시글이 올라와 사용자들의 관심을 끌고 있다. 일부 사용자들은 삼성 덱스 매니저의 기능과 편의성을 칭찬하고 있지만, 다른 사용자들은 일부 버그와 개선 点을 제시하고 있다.",
+      "topic": "리센느와 멜론 차트",
+      "summary": "리센느와 멜론 차트가 음악 팬们 사이에서 인기 있습니다. 리센느의 1위가 필요하다는 의견이 있습니다.",
       "post_count": 5,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "반도체와 AI 기술",
+      "summary": "반도체와 AI 기술이 최근에 많이 обсужд되고 있습니다. 정부와 기업의 투자와 기술 개발이 진행되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "넷플릭스",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "넷플릭스 광고형 스탠다드 관련된 게시글"
-    },
-    {
       "keyword": "일베",
-      "count": 25,
+      "count": 10,
       "sentiment": "negative",
-      "context": "일베와 경상도 사투리 관련된 논쟁"
+      "context": "일베의 침투와 노무현에 대한 조롱"
     },
     {
-      "keyword": "삼성",
-      "count": 10,
+      "keyword": "노무현",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "노무현에 대한 조롱"
+    },
+    {
+      "keyword": "리센느",
+      "count": 5,
       "sentiment": "positive",
-      "context": "삼성 덱스 매니저 관련된 게시글"
+      "context": "리센느의 1위"
+    },
+    {
+      "keyword": "반도체",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "반도체 기술 개발"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "AI 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 게시글이 많지만, 일부 긍정적인 게시글도 존재한다."
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "넷플릭스 광고형 스탠다드의 출시로 사용자들의 반응을 분석하여 마케팅 전략을 수립할 수 있다.",
-      "action": "마케팅 전략 수립",
+      "insight": "일베와 노무현에 대한 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "action": "브랜드 이미지를 보호하기 위해 커뮤니티에서 논란을 주의해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "일베와 경상도 사투리 관련된 논쟁을 분석하여 브랜드 이미지를 관리할 수 있다.",
-      "action": "브랜드 이미지 관리",
+      "insight": "리센느와 멜론 차트가 음악 팬们 사이에서 인기 있습니다.",
+      "action": "음악 팬们을 타겟으로 한 마케팅 전략을 개발해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "삼성 덱스 매니저 관련된 게시글을 분석하여 제품 개선 点을 제시할 수 있다.",
-      "action": "제품 개선",
-      "priority": "low"
+      "insight": "반도체와 AI 기술이 최근에 많이 обсужд되고 있습니다.",
+      "action": "반도체와 AI 기술에 대한 투자와 개발을 고려해야 합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 넷플릭스 광고형 스탠다드, 일베와 경상도 사투리, 삼성 덱스 매니저 관련된 게시글이 많이 올라와 사용자들의 관심을 끌고 있다. 이러한 게시글을 분석하여 마케팅 전략을 수립하고, 브랜드 이미지를 관리하며, 제품 개선 点을 제시할 수 있다. 또한, 부정적인 감정의 게시글이 많지만, 일부 긍정적인 게시글도 존재한다는 점을 고려하여 전략을 수립해야 한다.",
-  "analyzed_at": "2026-07-05T07:30:34.491Z",
+  "narrative": "커뮤니티에서 일베와 노무현에 대한 논란이 많이 обсужд되고 있습니다. 리센느와 멜론 차트가 음악 팬们 사이에서 인기 있습니다. 반도체와 AI 기술이 최근에 많이 обсужд되고 있습니다. 브랜드 이미지를 보호하기 위해 커뮤니티에서 논란을 주의해야 합니다. 음악 팬们을 타겟으로 한 마케팅 전략을 개발해야 합니다. 반도체와 AI 기술에 대한 투자와 개발을 고려해야 합니다.",
+  "analyzed_at": "2026-07-05T09:00:34.888Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
