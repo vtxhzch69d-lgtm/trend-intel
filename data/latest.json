@@ -1,25 +1,18 @@
 {
   "trending_topics": [
     {
-      "topic": "기술",
-      "summary": "최신 기술 동향과 발전",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "최신 정치 뉴스와 분석",
-      "post_count": 15,
+      "topic": "정치 및 경제",
+      "summary": "최근 클리앙 커뮤니티에서 정치 및 경제 관련 주제가 많이 обсужд되고 있습니다. 특히, 조세저항, 독일 극우정당, 정청래와 김민석의 1인 1표제에 대한 논의가 활발합니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "최신 스포츠 뉴스와 결과",
-      "post_count": 10,
+      "topic": "기술 및 과학",
+      "summary": "클리앙 커뮤니티에서 기술 및 과학 관련 주제도 많이 обсужд되고 있습니다. 특히, AI, 메모리 반도체, 우주항공 산업에 대한 논의가 활발합니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +20,41 @@
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "인공지능 기술"
+      "context": "클리앙 커뮤니티에서 AI 관련 주제가 많이 обсужд되고 있습니다."
     },
     {
-      "keyword": "우주항공",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "우주항공 산업"
-    },
-    {
-      "keyword": "반도체",
+      "keyword": "메모리 반도체",
       "count": 5,
       "sentiment": "neutral",
-      "context": "반도체 산업"
+      "context": "클리앙 커뮤니티에서 메모리 반도체 관련 주제가 обсужд되고 있습니다."
+    },
+    {
+      "keyword": "우주항공 산업",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "클리앙 커뮤니티에서 우주항공 산업 관련 주제가 обсужд되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 20,
     "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "neutral": 30,
+    "overall_mood": "클리앙 커뮤니티의 전체적인 분위기는 중립적입니다."
   },
   "business_insights": [
     {
-      "insight": "기술 발전",
-      "action": "최신 기술 동향을 주시하고 투자하기",
+      "insight": "클리앙 커뮤니티에서 기술 및 과학 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "기술 및 과학 관련 주제에 대한 콘텐츠를 제공하여 클리앙 커뮤니티와의 관계를 강화할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "시장 분석",
-      "action": "시장 동향을 분석하고 전략을 수립하기",
+      "insight": "클리앙 커뮤니티에서 정치 및 경제 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "정치 및 경제 관련 주제에 대한 콘텐츠를 제공하여 클리앙 커뮤니티와의 관계를 강화할 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "고객需求",
-      "action": "고객의需求을 이해하고滿足하기",
-      "priority": "low"
     }
   ],
-  "narrative": "최신 기술 동향과 발전이 주목을 받고 있으며, 정치와 스포츠 또한 중요한 주제로 등장하고 있습니다. 전체적으로 긍정적인 분위기이며, 기술 발전과 시장 분석이 중요한 비즈니스 인사이트로 나타나고 있습니다. 따라서 최신 기술 동향을 주시하고 투자하며, 시장 동향을 분석하고 전략을 수립하는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-07-05T01:30:34.406Z",
+  "narrative": "클리앙 커뮤니티는 기술 및 과학, 정치 및 경제 관련 주제를 중심으로 활발한 논의가 이루어지고 있습니다. 클리앙 커뮤니티와의 관계를 강화하기 위해서는 기술 및 과학, 정치 및 경제 관련 주제에 대한 콘텐츠를 제공하는 것이 중요합니다. 또한, 클리앙 커뮤니티의 전체적인 분위기는 중립적이므로 중립적인 콘텐츠를 제공하는 것이 좋습니다.",
+  "analyzed_at": "2026-07-05T03:00:34.668Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
