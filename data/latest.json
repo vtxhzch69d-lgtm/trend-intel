@@ -1,72 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "고양이",
-      "summary": "고양이의 반토막에 대한 게시글이 클리앙 커뮤니티에서 인기",
+      "topic": "소득세",
+      "summary": "한국의 소득세는 높지 않다. 연봉 1억은 소득세가 20% 수준이다.",
       "post_count": 1,
       "sentiment": "neutral",
       "urgency": "low"
     },
     {
       "topic": "월드컵",
-      "summary": "월드컵 16강전 모로코 vs 캐나다 경기 결과에 대한 게시글이 클리앙 커뮤니티에서 인기",
-      "post_count": 1,
+      "summary": "월드컵 16강전 프랑스 vs 파라과이 경기 결과",
+      "post_count": 2,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드에 대한 게시글이 클리앙 커뮤니티에서 인기",
-      "post_count": 20,
-      "sentiment": "neutral",
+      "topic": "기술 뉴스",
+      "summary": "삼성전자, 3분기 D램 가격 최대 20% 인상…AI 수요 굳건",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 뉴스",
+      "summary": "한국 찾은 오픈AI 부사장 “한국 메모리 반도체, 더 중요해질 것”",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "사회 문제",
+      "summary": "서울은 노인 주취자 문제 심각해 보이네요.",
+      "post_count": 1,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "고양이",
+      "keyword": "소득세",
       "count": 1,
       "sentiment": "neutral",
-      "context": "고양이의 반토막에 대한 게시글"
+      "context": "한국의 소득세는 높지 않다."
     },
     {
       "keyword": "월드컵",
       "count": 2,
       "sentiment": "positive",
-      "context": "월드컵 16강전 모로코 vs 캐나다 경기 결과"
+      "context": "월드컵 16강전 프랑스 vs 파라과이 경기 결과"
     },
     {
-      "keyword": "기술",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "최신 기술 뉴스와 트렌드"
+      "keyword": "삼성전자",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "삼성전자, 3분기 D램 가격 최대 20% 인상…AI 수요 굳건"
+    },
+    {
+      "keyword": "반도체",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "한국 찾은 오픈AI 부사장 “한국 메모리 반도체, 더 중요해질 것”"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "한국 찾은 오픈AI 부사장 “한국 메모리 반도체, 더 중요해질 것”"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 2,
-    "neutral": 33,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "한국의 기술과 경제 뉴스에 대한 관심이 높다."
   },
   "business_insights": [
     {
-      "insight": "고양이와 관련된 제품이나 서비스에 대한 수요가 증가할 수 있음",
-      "action": "고양이와 관련된 제품이나 서비스를 개발하거나 마케팅할 것",
-      "priority": "low"
+      "insight": "한국의 기술과 경제 뉴스에 대한 관심이 높다.",
+      "action": "기술과 경제 뉴스에 대한 콘텐츠를 제공한다.",
+      "priority": "high"
     },
     {
-      "insight": "월드컵과 관련된 제품이나 서비스에 대한 수요가 증가할 수 있음",
-      "action": "월드컵과 관련된 제품이나 서비스를 개발하거나 마케팅할 것",
+      "insight": "소득세와 월드컵에 대한 관심이 있다.",
+      "action": "소득세와 월드컵에 대한 콘텐츠를 제공한다.",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있음",
-      "action": "최신 기술 뉴스와 트렌드에 대한 콘텐츠를 개발하거나 마케팅할 것",
-      "priority": "medium"
+      "insight": "반도체와 경제에 대한 관심이 높다.",
+      "action": "반도체와 경제에 대한 콘텐츠를 제공한다.",
+      "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 인기 있는 주제는 고양이, 월드컵, 기술 등이다. 고양이와 관련된 게시글은 중립적인 감정을 가지고 있고, 월드컵과 관련된 게시글은 긍정적인 감정을 가지고 있다. 기술과 관련된 게시글은 중립적인 감정을 가지고 있고, 최신 기술 뉴스와 트렌드에 대한 관심이 높아지고 있다. 이러한 트렌드를 바탕으로 고양이와 관련된 제품이나 서비스, 월드컵과 관련된 제품이나 서비스, 최신 기술 뉴스와 트렌드에 대한 콘텐츠를 개발하거나 마케팅할 수 있을 것이다.",
-  "analyzed_at": "2026-07-04T22:30:33.846Z",
+  "narrative": "한국의 기술과 경제 뉴스에 대한 관심이 높다. 소득세와 월드컵에 대한 관심도 있다. 반도체와 경제에 대한 관심이 높다. 이러한 관심을 반영한 콘텐츠를 제공하면 사용자의 관심을 끌 수 있을 것이다. 또한, 기술과 경제 뉴스에 대한 콘텐츠를 제공하면 사용자의 니즈를 충족시킬 수 있을 것이다.",
+  "analyzed_at": "2026-07-05T00:00:34.316Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
