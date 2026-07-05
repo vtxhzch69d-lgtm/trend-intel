@@ -1,78 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "일베와 관련된 사회적 문제",
-      "summary": "일베와 관련된 사회적 문제가 논의되고 있으며, 일베를 경계하는 사람과 일베몰이를 하려는 자는 구분이 되고 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 산업의 성장",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 산업 동향",
-      "summary": "기술 및 산업 동향이 논의되고 있으며, AI, 반도체, 우주항공 산업 등이 주목을 받고 있다.",
-      "post_count": 20,
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 동향과 미래 전망",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제가 논의되고 있으며, 정보통신망법 개정안, 정부 정책 등이 주목을 받고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "우주항공 산업",
+      "summary": "우주항공 산업의 발전과 정부의 지원",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "일베",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "일베와 관련된 사회적 문제"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "기술 및 산업 동향"
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "반도체",
-      "count": 8,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "기술 및 산업 동향"
+      "context": "반도체 산업의 동향"
     },
     {
-      "keyword": "정보통신망법",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 문제"
+      "keyword": "우주항공",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "우주항공 산업의 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "기대와 발전"
   },
   "business_insights": [
     {
-      "insight": "일베와 관련된 사회적 문제는 기업의 사회적 책임을 강조",
-      "action": "기업의 사회적 책임을 강조하는 캠페인을 진행",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 산업 투자",
       "priority": "high"
     },
     {
-      "insight": "기술 및 산업 동향은 기업의 미래 성장에 중요한 역할",
-      "action": "기술 및 산업 동향을 주시하고 투자",
+      "insight": "반도체 산업의 동향",
+      "action": "반도체 산업의 동향을 주시",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 문제는 기업의 운영에 영향을 미칠 수 있다",
-      "action": "정치 및 사회 문제를 주시하고 대응",
-      "priority": "medium"
+      "insight": "우주항공 산업의 발전",
+      "action": "우주항공 산업의 발전을 지원",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 일베와 관련된 사회적 문제, 기술 및 산업 동향, 정치 및 사회 문제가 주목을 받고 있다. 일베와 관련된 사회적 문제는 기업의 사회적 책임을 강조하는 캠페인을 진행할 필요가 있으며, 기술 및 산업 동향은 기업의 미래 성장에 중요한 역할을 한다. 또한, 정치 및 사회 문제는 기업의 운영에 영향을 미칠 수 있으므로 주시하고 대응할 필요가 있다. 이러한 트렌드와 키워드를 고려하여 기업은 사회적 책임을 강조하고 미래 성장을 준비할 수 있다.",
-  "analyzed_at": "2026-07-05T17:30:34.422Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 산업의 성장이 주목을 받고 있습니다. 또한, 반도체 산업의 동향과 우주항공 산업의 발전도 중요한 이슈로 떠오르고 있습니다. 이러한 트렌드에 따라, 기업들은 AI 기술을 활용한 산업 투자와 반도체 산업의 동향을 주시하는 등 적극적인 대응이 필요합니다. 또한, 정부의 우주항공 산업 지원도 중요한 역할을 할 것입니다.",
+  "analyzed_at": "2026-07-05T19:00:35.297Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
