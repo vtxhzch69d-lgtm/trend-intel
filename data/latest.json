@@ -1,67 +1,60 @@
 {
   "trending_topics": [
     {
-      "topic": "일베몰이",
-      "summary": "일베몰이와 관련된 문제가 논란이 되고 있습니다. 일베몰이의 정의와 해결 방안에 대한 다양한 의견이 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "기술 및 산업",
+      "summary": "최신 기술 및 산업 동향에 대한 관심이 높다. 특히, 우주항공 산업, AI, 반도체 등에 대한 뉴스가 많다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사투리",
-      "summary": "사투리 사용에 대한 문제가 논란이 되고 있습니다. 사투리 사용의 긍정적과 부정적인 측면에 대한 다양한 의견이 있습니다.",
-      "post_count": 4,
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스가 많다. 특히, 대통령의 우주항공 산업벨트 구축 계획, 입틀막법 시행 등에 대한 관심이 높다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 다양한 주제가 논란이 되고 있습니다. AI의 발전과 적용에 대한 의견이 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "일베",
+      "keyword": "우주항공",
       "count": 10,
-      "sentiment": "negative",
-      "context": "일베몰이와 관련된 문제"
-    },
-    {
-      "keyword": "사투리",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "사투리 사용에 대한 문제"
+      "sentiment": "positive",
+      "context": "한국의 우주항공 산업 발전에 대한 기대"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 다양한 주제"
+      "context": "AI 기술의 발전과 ứng dụng에 대한 관심"
+    },
+    {
+      "keyword": "반도체",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "반도체 산업의 동향과 전망에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "기대와 관심이 높은 분위기"
   },
   "business_insights": [
     {
-      "insight": "일베몰이와 관련된 문제는 사회적으로 큰 영향을 미칠 수 있습니다.",
-      "action": "일베몰이와 관련된 문제를 해결하기 위한 대책을 마련해야 합니다.",
+      "insight": "우주항공 산업과 AI 기술에 대한 투자가 증가할 것",
+      "action": "관련 산업에 대한 투자와 연구 개발에 집중",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 적용될 수 있습니다.",
-      "action": "AI 기술을 다양한 산업에서 적용하기 위한 투자를 증가시켜야 합니다.",
+      "insight": "반도체 산업의 동향과 전망에 대한 관심이 높아질 것",
+      "action": "반도체 산업의 동향과 전망에 대한 분석과 연구에 집중",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 일베몰이와 관련된 문제가 논란이 되고 있습니다. 일베몰이의 정의와 해결 방안에 대한 다양한 의견이 있습니다. 또한, 사투리 사용에 대한 문제도 논란이 되고 있습니다. 사투리 사용의 긍정적과 부정적인 측면에 대한 다양한 의견이 있습니다. AI 기술과 관련된 다양한 주제도 논란이 되고 있습니다. AI의 발전과 적용에 대한 의견이 있습니다. 이러한 문제들은 사회적으로 큰 영향을 미칠 수 있습니다. 따라서, 일베몰이와 관련된 문제를 해결하기 위한 대책을 마련해야 합니다. 또한, AI 기술을 다양한 산업에서 적용하기 위한 투자를 증가시켜야 합니다.",
-  "analyzed_at": "2026-07-05T22:00:33.899Z",
+  "narrative": "최근의 기술 및 산업 동향에 대한 관심이 높아지고 있다. 특히, 우주항공 산업과 AI 기술에 대한 뉴스가 많다. 이러한 관심은 관련 산업에 대한 투자와 연구 개발에 대한 기대와 관심을 나타낸다. 또한, 사회 및 정치 관련 뉴스도 많아져서 입틀막법 시행과 대통령의 우주항공 산업벨트 구축 계획 등에 대한 관심이 높아지고 있다. 이러한 동향은 관련 산업과 사회에 대한 관심과 기대가 높아지고 있음을 나타낸다.",
+  "analyzed_at": "2026-07-05T23:30:34.107Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
