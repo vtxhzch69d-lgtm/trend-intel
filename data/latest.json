@@ -1,84 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "일베와 노무현에 대한 논란",
-      "summary": "일베와 노무현에 대한 논란이 커뮤니티에서 많이 обсужд되고 있습니다. 일베의 침투와 노무현에 대한 조롱이 문제가 되고 있습니다.",
+      "topic": "리센느 원",
+      "summary": "리센느 원이 관련된 여러 이슈와 논란이 커뮤니티에서 논의되고 있다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "노체",
+      "summary": "노체에 대한 다양한 의견과 논란이 커뮤니티에서 활발하게讨論되고 있다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "리센느와 멜론 차트",
-      "summary": "리센느와 멜론 차트가 음악 팬们 사이에서 인기 있습니다. 리센느의 1위가 필요하다는 의견이 있습니다.",
-      "post_count": 5,
+      "topic": "기술 및 산업",
+      "summary": "최신 기술과 산업 동향에 관한 뉴스와 정보가 커뮤니티에서 공유되고 있다.",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "반도체와 AI 기술",
-      "summary": "반도체와 AI 기술이 최근에 많이 обсужд되고 있습니다. 정부와 기업의 투자와 기술 개발이 진행되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일베",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "일베의 침투와 노무현에 대한 조롱"
-    },
-    {
-      "keyword": "노무현",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "노무현에 대한 조롱"
-    },
-    {
-      "keyword": "리센느",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "리센느의 1위"
-    },
-    {
-      "keyword": "반도체",
-      "count": 10,
+      "keyword": "리센느 원",
+      "count": 7,
       "sentiment": "neutral",
-      "context": "반도체 기술 개발"
+      "context": "리센느 원 관련 이슈"
+    },
+    {
+      "keyword": "노체",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "노체 관련 논란"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "AI 기술 개발"
+      "count": 5,
+      "sentiment": "positive",
+      "context": "AI 기술 및 산업"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "일베와 노무현에 대한 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "action": "브랜드 이미지를 보호하기 위해 커뮤니티에서 논란을 주의해야 합니다.",
+      "insight": "리센느 원과 노체 관련 이슈는 커뮤니티에서 큰 관심을 끌고 있다.",
+      "action": "관련 주제에 대한 콘텐츠 생성",
       "priority": "high"
     },
     {
-      "insight": "리센느와 멜론 차트가 음악 팬们 사이에서 인기 있습니다.",
-      "action": "음악 팬们을 타겟으로 한 마케팅 전략을 개발해야 합니다.",
+      "insight": "최신 기술과 산업 동향은 커뮤니티에서 지속적인 관심을 받고 있다.",
+      "action": "기술 및 산업 관련 뉴스와 정보 공유",
       "priority": "medium"
-    },
-    {
-      "insight": "반도체와 AI 기술이 최근에 많이 обсужд되고 있습니다.",
-      "action": "반도체와 AI 기술에 대한 투자와 개발을 고려해야 합니다.",
-      "priority": "high"
     }
   ],
-  "narrative": "커뮤니티에서 일베와 노무현에 대한 논란이 많이 обсужд되고 있습니다. 리센느와 멜론 차트가 음악 팬们 사이에서 인기 있습니다. 반도체와 AI 기술이 최근에 많이 обсужд되고 있습니다. 브랜드 이미지를 보호하기 위해 커뮤니티에서 논란을 주의해야 합니다. 음악 팬们을 타겟으로 한 마케팅 전략을 개발해야 합니다. 반도체와 AI 기술에 대한 투자와 개발을 고려해야 합니다.",
-  "analyzed_at": "2026-07-05T09:00:34.888Z",
+  "narrative": "리센느 원과 노체 관련 이슈는 커뮤니티에서 큰 관심을 끌고 있으며, 최신 기술과 산업 동향은 지속적인 관심을 받고 있다. 이러한 트렌드를 분석하여 관련 콘텐츠를 생성하고, 기술 및 산업 관련 뉴스와 정보를 공유하는 것이 중요하다. 또한, 커뮤니티의 부정적인 분위기를 고려하여 긍정적인 콘텐츠를 생성하고, 사용자들의 관심을 끌기 위한 전략을 수립하는 것이 필요하다.",
+  "analyzed_at": "2026-07-05T10:30:33.890Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
