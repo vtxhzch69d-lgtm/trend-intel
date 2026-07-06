@@ -1,54 +1,162 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "클리앙 커뮤니티에서 반도체 산업 관련 게시글이 증가하고 있으며, 이는 국내 산업의 성장과 함께 해외 시장에서도 경쟁력을 확보하고 있는 것으로 분석됩니다. 또한, 관련 기술 개발과 투자에 대한 관심도 높아지고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "재산세",
+      "summary": "재산세 1차분이 부과될 시즌임을 알리고, 관련된 뉴스와 정보를 공유하는 게시글",
+      "post_count": 1,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "북한군과 5·18",
+      "summary": "북한군이 5·18을 주도했다는 유튜브 방송에 대한 논란과 관련된 뉴스",
+      "post_count": 1,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "국내 정치",
-      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 증가하고 있으며, 이는 최근의 정치적 상황과 관련된 관심이 높아지고 있는 것으로 분석됩니다. 특히, 정치인들의 활동과 정책에 대한 논의가 활발하게 진행되고 있습니다.",
-      "post_count": 8,
+      "topic": "크리스토퍼 놀란 감독",
+      "summary": "크리스토퍼 놀란 감독의 흑인 캐스팅에 대한 논란",
+      "post_count": 1,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "사투리",
+      "summary": "사투리 사용에 대한 논란과 사투리 전문가에 대한 의견",
+      "post_count": 3,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "영화 슈퍼걸",
+      "summary": "영화 슈퍼걸의 흥행 실패",
+      "post_count": 1,
+      "sentiment": "negative",
+      "urgency": "low"
+    },
+    {
+      "topic": "조국 대표",
+      "summary": "조국 대표의 발언과 관련된 논란",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "이병태",
+      "summary": "이병태의 5·18 발언과 사퇴",
+      "post_count": 1,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "에볼라 치료",
+      "summary": "에볼라 치료 요법의 임상 돌입",
+      "post_count": 1,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "유치장",
+      "summary": "유치장에서 발생한 사건",
+      "post_count": 1,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "초능력",
+      "summary": "초능력 물에서 현실 고증을 따지는 것에 대한 논란",
+      "post_count": 1,
+      "sentiment": "mixed",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "국내 산업의 성장과 함께 해외 시장에서도 경쟁력을 확보하고 있는 것으로 분석됩니다."
+      "keyword": "재산세",
+      "count": 1,
+      "sentiment": "neutral",
+      "context": "재산세 1차분이 부과될 시즌"
     },
     {
-      "keyword": "정치",
-      "count": 12,
+      "keyword": "북한군",
+      "count": 1,
+      "sentiment": "negative",
+      "context": "북한군이 5·18을 주도했다는 유튜브 방송"
+    },
+    {
+      "keyword": "크리스토퍼 놀란",
+      "count": 1,
       "sentiment": "mixed",
-      "context": "最近의 정치적 상황과 관련된 관심이 높아지고 있는 것으로 분석됩니다."
+      "context": "크리스토퍼 놀란 감독의 흑인 캐스팅"
+    },
+    {
+      "keyword": "사투리",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "사투리 사용에 대한 논란"
+    },
+    {
+      "keyword": "영화",
+      "count": 2,
+      "sentiment": "mixed",
+      "context": "영화 슈퍼걸의 흥행 실패와 삼체 오프닝 장면"
+    },
+    {
+      "keyword": "조국",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "조국 대표의 발언과 관련된 논란"
+    },
+    {
+      "keyword": "에볼라",
+      "count": 1,
+      "sentiment": "positive",
+      "context": "에볼라 치료 요법의 임상 돌입"
+    },
+    {
+      "keyword": "유치장",
+      "count": 1,
+      "sentiment": "negative",
+      "context": "유치장에서 발생한 사건"
+    },
+    {
+      "keyword": "초능력",
+      "count": 1,
+      "sentiment": "mixed",
+      "context": "초능력 물에서 현실 고증을 따지는 것에 대한 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "국내 산업의 성장과 함께 해외 시장에서도 경쟁력을 확보하고 있는 것으로 분석됩니다. 그러나 정치적 상황에 대한 논의는 혼재된 감정으로 진행되고 있습니다."
+    "positive": 2,
+    "negative": 6,
+    "neutral": 2,
+    "overall_mood": "부정적인 감정이 강한 것으로 나타남"
   },
   "business_insights": [
     {
-      "insight": "국내 산업의 성장과 함께 해외 시장에서도 경쟁력을 확보하고 있는 것으로 분석됩니다.",
-      "action": "해외 시장 진출과 관련 기술 개발에 대한 투자를 고려해야 합니다.",
-      "priority": "high"
+      "insight": "재산세와 관련된 뉴스를 주시해야 함",
+      "action": "재산세 관련된 뉴스와 정보를 제공",
+      "priority": "medium"
     },
     {
-      "insight": "정치적 상황에 대한 논의는 혼재된 감정으로 진행되고 있습니다.",
-      "action": "정치적 상황에 대한 논의를 주의 깊게 관찰하고, 이를 고려하여 마케팅 전략을 수립해야 합니다.",
+      "insight": "사투리 사용에 대한 논란을 주시해야 함",
+      "action": "사투리 사용에 대한 의견을 수집하고 분석",
+      "priority": "medium"
+    },
+    {
+      "insight": "영화 산업의 동향을 주시해야 함",
+      "action": "영화 산업의 뉴스와 정보를 제공",
+      "priority": "low"
+    },
+    {
+      "insight": "에볼라 치료와 관련된 뉴스를 주시해야 함",
+      "action": "에볼라 치료와 관련된 뉴스와 정보를 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 반도체 산업 관련 게시글이 증가하고 있으며, 이는 국내 산업의 성장과 함께 해외 시장에서도 경쟁력을 확보하고 있는 것으로 분석됩니다. 또한, 정치 관련 게시글도 증가하고 있으며, 이는 최근의 정치적 상황과 관련된 관심이 높아지고 있는 것으로 분석됩니다. 이러한 상황을 고려하여 마케팅 전략을 수립하고, 국내 산업의 성장과 함께 해외 시장에서도 경쟁력을 확보하기 위한 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-07-06T10:00:33.868Z",
+  "narrative": "최근의 트렌드는 재산세, 북한군, 크리스토퍼 놀란, 사투리, 영화, 조국, 에볼라, 유치장, 초능력 등 다양한 주제로 구성되어 있음. 부정적인 감정이 강한 것으로 나타나며, 재산세와 관련된 뉴스를 주시해야 함. 또한, 사투리 사용에 대한 논란을 주시해야 하며, 영화 산업의 동향을 주시해야 함. 에볼라 치료와 관련된 뉴스를 주시해야 하며, 유치장에서 발생한 사건에 대한 정보를 제공해야 함.",
+  "analyzed_at": "2026-07-06T11:30:35.907Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
