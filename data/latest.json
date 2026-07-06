@@ -1,61 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술 및 산업 동향에 대한 관심이 높다. 특히, 우주항공 산업, AI, 반도체 등에 대한 뉴스가 많다.",
-      "post_count": 20,
+      "topic": "사투리 논쟁",
+      "summary": "사투리 논쟁이 클리앙 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 사용자들은 사투리를 사용하는 것이 문제가 없다고 주장하는 반면, 다른 사용자들은 사투리가 지역감정이나 사회적 문제를 야기할 수 있다고 우려한다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술이 클리앙 커뮤니티에서 주목을 받고 있다. 사용자들은 AI 기술의 발전과 그로 인한 사회적 영향에 대해 논의하고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스가 많다. 특히, 대통령의 우주항공 산업벨트 구축 계획, 입틀막법 시행 등에 대한 관심이 높다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "경제 뉴스",
+      "summary": "경제 뉴스가 클리앙 커뮤니티에서 관심을 끌고 있다. 사용자들은 최근의 경제 동향과 그로 인한 영향에 대해 논의하고 있다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "우주항공",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "한국의 우주항공 산업 발전에 대한 기대"
+      "keyword": "사투리",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "사투리 논쟁"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng에 대한 관심"
+      "context": "AI 기술"
     },
     {
-      "keyword": "반도체",
-      "count": 5,
+      "keyword": "경제",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "반도체 산업의 동향과 전망에 대한 관심"
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "기대와 관심이 높은 분위기"
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "우주항공 산업과 AI 기술에 대한 투자가 증가할 것",
-      "action": "관련 산업에 대한 투자와 연구 개발에 집중",
+      "insight": "사투리 논쟁은 지역감정이나 사회적 문제를 야기할 수 있다.",
+      "action": "사투리 논쟁을 주시하고, 필요할 경우 대응한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술은 사회적 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고, 그로 인한 사회적 영향을 분석한다.",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 동향과 전망에 대한 관심이 높아질 것",
-      "action": "반도체 산업의 동향과 전망에 대한 분석과 연구에 집중",
-      "priority": "medium"
+      "insight": "경제 뉴스는 사용자들의 관심을 끌고 있다.",
+      "action": "경제 뉴스를 주시하고, 그로 인한 영향을 분석한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 기술 및 산업 동향에 대한 관심이 높아지고 있다. 특히, 우주항공 산업과 AI 기술에 대한 뉴스가 많다. 이러한 관심은 관련 산업에 대한 투자와 연구 개발에 대한 기대와 관심을 나타낸다. 또한, 사회 및 정치 관련 뉴스도 많아져서 입틀막법 시행과 대통령의 우주항공 산업벨트 구축 계획 등에 대한 관심이 높아지고 있다. 이러한 동향은 관련 산업과 사회에 대한 관심과 기대가 높아지고 있음을 나타낸다.",
-  "analyzed_at": "2026-07-05T23:30:34.107Z",
-  "post_count": 62,
+  "narrative": "클리앙 커뮤니티에서는 사투리 논쟁, AI 기술, 경제 뉴스가 주목을 받고 있다. 사투리 논쟁은 지역감정이나 사회적 문제를 야기할 수 있으므로 주시하고, 필요할 경우 대응해야 한다. AI 기술은 사회적 영향을 미칠 수 있으므로 발전을 주시하고, 그로 인한 사회적 영향을 분석해야 한다. 경제 뉴스는 사용자들의 관심을 끌고 있으므로 주시하고, 그로 인한 영향을 분석해야 한다. 이러한 주제들은 사용자들의 관심을 끌고 있으며, 그로 인한 사회적 영향은 중요하게 고려해야 한다.",
+  "analyzed_at": "2026-07-06T01:00:34.350Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
