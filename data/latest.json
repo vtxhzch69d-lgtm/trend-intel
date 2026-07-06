@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "온라인 입틀막법",
-      "summary": "온라인 입틀막법 시행으로 인한 혼란과 논란",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "조국 전 대표와 관련된 여러 가지 의견과 논란이 있습니다. 또한, 이재명 대통령과 관련된 암살 협박글이 올라와 경찰 수사 착수 등 정치 관련된 주제가 많습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 변동성과 투자 전략",
+      "topic": "주식",
+      "summary": "삼전닉스 레버리지와 하이닉스 레버리지에 대한 우려와 주식 시장의 변동성에 대한 논의가 있습니다.",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 ứng dụng",
-      "post_count": 12,
+      "topic": "기술",
+      "summary": "AI와 관련된 기술 및 제품에 대한 소식과 정보가 있습니다. 예를 들어, OpenAI와 관련된 글, 메타 AI글래스, 삼성전자 갤럭시 워치 기반의 열 스트레스 관리 시스템 등이 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "입틀막법",
-      "count": 15,
+      "keyword": "조국",
+      "count": 7,
       "sentiment": "negative",
-      "context": "온라인 입틀막법 시행"
+      "context": "조국 전 대표와 관련된 논란"
     },
     {
       "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장의 변동성"
+      "count": 8,
+      "sentiment": "negative",
+      "context": "주식 시장의 변동성과 레버리지에 대한 우려"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI와 관련된 기술 및 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정과 혼합된 감정이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "온라인 입틀막법 시행으로 인한 마케팅 전략의 변화",
-      "action": "마케팅 전략의 재평가",
+      "insight": "정치와 주식 시장은 서로 관련이 있습니다.",
+      "action": "정치와 주식 시장의 동향을 주시하여 투자 전략을 수립합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동성에 대한 투자 전략의 필요성",
-      "action": "투자 전략의 재평가",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전과 ứng用的 기회",
-      "action": "AI 기술의 연구와 개발",
+      "insight": "AI와 관련된 기술 및 제품은 미래의 성장 동력입니다.",
+      "action": "AI와 관련된 기술 및 제품에 대한 투자를 고려합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 온라인 커뮤니티에서 온라인 입틀막법의 시행과 주식 시장의 변동성, AI 기술의 발전이 주목을 받고 있습니다. 이러한 트렌드들은 마케팅 전략의 변화와 투자 전략의 재평가를 필요로 하며, AI 기술의 연구와 개발을 통해 새로운 기회를 찾을 수 있습니다. 그러나 이러한 트렌드들은 또한 혼란과 논란을 일으킬 수 있으므로,慎重한 접근과 분석이 필요합니다.",
-  "analyzed_at": "2026-07-06T02:30:33.706Z",
+  "narrative": "최근의 트렌드는 정치와 주식 시장의 변동성에 대한 우려와 AI와 관련된 기술 및 제품에 대한 관심이 높습니다. 조국 전 대표와 관련된 논란과 주식 시장의 레버리지에 대한 우려가 많습니다. 그러나 AI와 관련된 기술 및 제품은 미래의 성장 동력으로 간주되고 있습니다. 따라서, 투자자들은 정치와 주식 시장의 동향을 주시하여 투자 전략을 수립하고, AI와 관련된 기술 및 제품에 대한 투자를 고려해야 합니다.",
+  "analyzed_at": "2026-07-06T04:01:27.342Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
