@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "조국 전 대표와 관련된 여러 가지 의견과 논란이 있습니다. 또한, 이재명 대통령과 관련된 암살 협박글이 올라와 경찰 수사 착수 등 정치 관련된 주제가 많습니다.",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 논란이 주목을 받고 있습니다.",
+      "post_count": 20,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 논란과 뉴스가 많은 관심을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식",
-      "summary": "삼전닉스 레버리지와 하이닉스 레버리지에 대한 우려와 주식 시장의 변동성에 대한 논의가 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 및 제품에 대한 소식과 정보가 있습니다. 예를 들어, OpenAI와 관련된 글, 메타 AI글래스, 삼성전자 갤럭시 워치 기반의 열 스트레스 관리 시스템 등이 있습니다.",
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 뉴스와 동향이 주목을 받고 있습니다.",
       "post_count": 10,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "조국 전 대표와 관련된 논란"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술 및 과학 관련 뉴스"
     },
     {
-      "keyword": "주식",
+      "keyword": "정치",
       "count": 8,
       "sentiment": "negative",
-      "context": "주식 시장의 변동성과 레버리지에 대한 우려"
+      "context": "정치 및 사회 관련 논란"
     },
     {
-      "keyword": "AI",
+      "keyword": "경제",
       "count": 5,
-      "sentiment": "positive",
-      "context": "AI와 관련된 기술 및 제품"
+      "sentiment": "neutral",
+      "context": "경제 및 산업 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정과 혼합된 감정이 많습니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적이며 다양한 주제가 논의되고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "정치와 주식 시장은 서로 관련이 있습니다.",
-      "action": "정치와 주식 시장의 동향을 주시하여 투자 전략을 수립합니다.",
+      "insight": "최신 기술 및 과학 관련 뉴스와 논란이 주목을 받고 있습니다.",
+      "action": "최신 기술 및 과학 관련 뉴스와 논란을 주시하여 사업 기회를 찾습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술 및 제품은 미래의 성장 동력입니다.",
-      "action": "AI와 관련된 기술 및 제품에 대한 투자를 고려합니다.",
+      "insight": "정치 및 사회 관련 논란과 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "정치 및 사회 관련 논란과 뉴스를 주시하여 사업 기회를 찾습니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 산업 관련 뉴스와 동향이 주목을 받고 있습니다.",
+      "action": "경제 및 산업 관련 뉴스와 동향을 주시하여 사업 기회를 찾습니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 주식 시장의 변동성에 대한 우려와 AI와 관련된 기술 및 제품에 대한 관심이 높습니다. 조국 전 대표와 관련된 논란과 주식 시장의 레버리지에 대한 우려가 많습니다. 그러나 AI와 관련된 기술 및 제품은 미래의 성장 동력으로 간주되고 있습니다. 따라서, 투자자들은 정치와 주식 시장의 동향을 주시하여 투자 전략을 수립하고, AI와 관련된 기술 및 제품에 대한 투자를 고려해야 합니다.",
-  "analyzed_at": "2026-07-06T04:01:27.342Z",
+  "narrative": "최신 기술 및 과학 관련 뉴스와 논란이 주목을 받고 있습니다. 정치 및 사회 관련 논란과 뉴스가 많은 관심을 받고 있습니다. 경제 및 산업 관련 뉴스와 동향이 주목을 받고 있습니다. 이러한 주제는 사업 기회를 찾는 데 도움이 될 수 있습니다. 최신 기술 및 과학 관련 뉴스와 논란을 주시하여 사업 기회를 찾습니다. 정치 및 사회 관련 논란과 뉴스를 주시하여 사업 기회를 찾습니다. 경제 및 산업 관련 뉴스와 동향을 주시하여 사업 기회를 찾습니다.",
+  "analyzed_at": "2026-07-06T05:30:33.761Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
