@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 시장의 동향과 예측",
+      "topic": "일베어 논란",
+      "summary": "일베어에 대한 논란이 클리앙 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 사용자들은 일베어를 사용하는 것이 적절하지 않다고 주장하는 반면, 다른 사용자들은 일베어를 사용하는 것이 문제가 없다고 주장했다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스와 논평",
-      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "원자력 발전소",
+      "summary": "원자력 발전소에 대한 논란이 클리앙 커뮤니티에서 진행 중이다. 일부 사용자들은 원자력 발전소가 환경에 미치는 영향에 대해 우려를 표명하는 반면, 다른 사용자들은 원자력 발전소가 에너지 수요를 충족시키는 데 필요한 것으로 주장했다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "low"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 관심이 클리앙 커뮤니티에서 높아지고 있다. 일부 사용자들은 AI 기술이 다양한 산업에 미치는 영향에 대해 논의하는 반면, 다른 사용자들은 AI 기술의 발전이 인류에 미치는 영향에 대해 우려를 표명했다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업에서의 활용"
+      "keyword": "일베어",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "일베어에 대한 논란"
     },
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장의 동향과 예측"
-    },
-    {
-      "keyword": "경제",
+      "keyword": "원자력 발전소",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "경제 시장의 동향과 예측"
+      "sentiment": "negative",
+      "context": "원자력 발전소에 대한 논란"
+    },
+    {
+      "keyword": "AI 기술",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
-      "action": "AI 기술을 활용한 신제품 개발",
+      "insight": "일베어 논란은 브랜드 이미지를 손상시킬 수 있다.",
+      "action": "일베어 사용을 자제하고 대체 용어를 사용할 것",
       "priority": "high"
     },
     {
-      "insight": "경제 및 주식 시장의 동향을 예측하여 투자 결정에 활용할 수 있다",
-      "action": "경제 및 주식 시장 분석",
+      "insight": "원자력 발전소에 대한 논란은 에너지 정책에 영향을 미칠 수 있다.",
+      "action": "원자력 발전소에 대한 정보를 제공하고 대안 에너지 源을 개발할 것",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술은 다양한 산업에 미치는 영향이 크다.",
+      "action": "AI 기술을 개발하고 적용할 것",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 또한, 경제 및 주식 시장의 동향과 예측이 중요한 이슈로 떠올라 있다. 이러한 트렌드에 대한 분석과 이해를 통해, 기업과 투자자는 신제품 개발과 투자 결정에 활용할 수 있는貴重한 정보를 얻을 수 있을 것이다. 또한, 사회 및 정치 관련 뉴스와 논평도 중요한 역할을 하고 있다. 따라서, 이러한 트렌드에 대한 지속적인 분석과 이해가 필요하다.",
-  "analyzed_at": "2026-07-06T16:30:34.588Z",
+  "narrative": "클리앙 커뮤니티에서 일베어 논란, 원자력 발전소 논란, AI 기술에 대한 관심이 뜨거운 감자로 떠올랐다. 일베어 논란은 브랜드 이미지를 손상시킬 수 있으며, 원자력 발전소 논란은 에너지 정책에 영향을 미칠 수 있다. AI 기술은 다양한 산업에 미치는 영향이 크며, 이를 개발하고 적용하는 것이 중요하다. 따라서, 일베어 사용을 자제하고 대체 용어를 사용하며, 원자력 발전소에 대한 정보를 제공하고 대안 에너지 源을 개발하며, AI 기술을 개발하고 적용하는 것이 필요하다.",
+  "analyzed_at": "2026-07-06T18:01:24.677Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
