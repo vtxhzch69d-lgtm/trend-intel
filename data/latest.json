@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "일베어 사용 논란",
-      "summary": "일베어 사용에 대한 논란이 커뮤니티에서 진행 중입니다. 일베어 사용에 대한 허용 여부와 관련된 게시글이 많이 올라오고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "원자력 발전소",
+      "summary": "원자력 발전소 추가 결정에 대한 논의와 우려가 커뮤니티에서 논란이 되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "원자력 발전소",
-      "summary": "원자력 발전소에 대한 논란이 커뮤니티에서 진행 중입니다. 원자력 발전소의 필요성과 안전성에 대한 게시글이 많이 올라오고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 선수들의 활약에 대한 논의가 활발하게 진행되고 있습니다.",
+      "post_count": 4,
+      "sentiment": "positive",
+      "urgency": "high"
     },
     {
-      "topic": "부에노스 아이레스에서 온 편지",
-      "summary": "부에노스 아이레스에서 온 편지라는 제목의 시리즈 게시글이 커뮤니티에서 인기 있습니다. 이 시리즈는 여행과 문화에 대한 이야기를 다루고 있습니다.",
-      "post_count": 7,
-      "sentiment": "positive",
+      "topic": "일베어",
+      "summary": "일베어에 대한 논의와 사용에 대한 의견이 분분합니다.",
+      "post_count": 6,
+      "sentiment": "mixed",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일베어",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "일베어 사용에 대한 논란"
-    },
-    {
-      "keyword": "원자력 발전소",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "원자력 발전소의 필요성과 안전성"
-    },
-    {
-      "keyword": "부에노스 아이레스",
+      "keyword": "원자력",
       "count": 7,
+      "sentiment": "negative",
+      "context": "원자력 발전소에 대한 우려와 논의"
+    },
+    {
+      "keyword": "월드컵",
+      "count": 5,
       "sentiment": "positive",
-      "context": "부에노스 아이레스에서 온 편지 시리즈"
+      "context": "월드컵 경기 결과와 선수들의 활약"
+    },
+    {
+      "keyword": "일베어",
+      "count": 6,
+      "sentiment": "mixed",
+      "context": "일베어에 대한 논의와 사용에 대한 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기이지만, 일부 논란이 있는 주제들에 대한 부정적인 감정도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "일베어 사용에 대한 논란은 브랜드의 이미지에 영향을 줄 수 있습니다.",
-      "action": "브랜드의 사회적 책임을 강화하는 마케팅 전략을 수립합니다.",
-      "priority": "high"
+      "insight": "에너지 정책에 대한 논의가 커뮤니티에서 활발하게 진행되고 있습니다.",
+      "action": "에너지 정책에 대한 의견을 수렴하고, 이를 반영한 마케팅 전략을 수립할 필요가 있습니다.",
+      "priority": "medium"
     },
     {
-      "insight": "원자력 발전소에 대한 논란은 에너지 산업의 미래에 영향을 줄 수 있습니다.",
-      "action": "에너지 산업의 미래에 대한 연구와 개발을 강화합니다.",
-      "priority": "medium"
+      "insight": "스포츠 경기에 대한 관심이 커뮤니티에서 높습니다.",
+      "action": "스포츠 경기와 관련된 마케팅 전략을 수립하고, 이를 통해 고객과의 접점을 확대할 필요가 있습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "커뮤니티에서 일베어 사용에 대한 논란과 원자력 발전소에 대한 논란이 진행 중입니다. 부에노스 아이레스에서 온 편지 시리즈는 여행과 문화에 대한 이야기를 다루고 있습니다. 브랜드의 사회적 책임을 강화하는 마케팅 전략을 수립하고 에너지 산업의 미래에 대한 연구와 개발을 강화하는 것이 필요합니다. 중립적인 분위기가 지속되고 있지만, 브랜드의 이미지와 에너지 산업의 미래에 대한 고려가 필요합니다.",
-  "analyzed_at": "2026-07-06T20:00:33.907Z",
+  "narrative": "커뮤니티에서는 원자력 발전소, 월드컵, 일베어 등 다양한 주제에 대한 논의가 진행되고 있습니다. 일부 주제들에 대한 부정적인 감정도 존재하지만, 전체적으로 중립적인 분위기입니다. 에너지 정책과 스포츠 경기에 대한 의견을 수렴하고, 이를 반영한 마케팅 전략을 수립할 필요가 있습니다. 또한, 고객과의 접점을 확대하고, 브랜드 이미지를 강화하기 위한 전략을 수립할 필요가 있습니다.",
+  "analyzed_at": "2026-07-06T21:30:34.554Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
