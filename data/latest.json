@@ -1,162 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "재산세",
-      "summary": "재산세 1차분이 부과될 시즌임을 알리고, 관련된 뉴스와 정보를 공유하는 게시글",
-      "post_count": 1,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "북한군과 5·18",
-      "summary": "북한군이 5·18을 주도했다는 유튜브 방송에 대한 논란과 관련된 뉴스",
-      "post_count": 1,
+      "topic": "정치",
+      "summary": "조국과 관련된 논란, 정치적 이슈",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "크리스토퍼 놀란 감독",
-      "summary": "크리스토퍼 놀란 감독의 흑인 캐스팅에 대한 논란",
-      "post_count": 1,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "사투리",
-      "summary": "사투리 사용에 대한 논란과 사투리 전문가에 대한 의견",
-      "post_count": 3,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "영화 슈퍼걸",
-      "summary": "영화 슈퍼걸의 흥행 실패",
-      "post_count": 1,
-      "sentiment": "negative",
-      "urgency": "low"
-    },
-    {
-      "topic": "조국 대표",
-      "summary": "조국 대표의 발언과 관련된 논란",
-      "post_count": 2,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "이병태",
-      "summary": "이병태의 5·18 발언과 사퇴",
-      "post_count": 1,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "에볼라 치료",
-      "summary": "에볼라 치료 요법의 임상 돌입",
-      "post_count": 1,
+      "topic": "테크",
+      "summary": "AI와 관련된 기술 및 산업 동향",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "유치장",
-      "summary": "유치장에서 발생한 사건",
-      "post_count": 1,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "초능력",
-      "summary": "초능력 물에서 현실 고증을 따지는 것에 대한 논란",
-      "post_count": 1,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "기업 실적, 경제 동향",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "재산세",
-      "count": 1,
-      "sentiment": "neutral",
-      "context": "재산세 1차분이 부과될 시즌"
-    },
-    {
-      "keyword": "북한군",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "북한군이 5·18을 주도했다는 유튜브 방송"
-    },
-    {
-      "keyword": "크리스토퍼 놀란",
-      "count": 1,
-      "sentiment": "mixed",
-      "context": "크리스토퍼 놀란 감독의 흑인 캐스팅"
-    },
-    {
-      "keyword": "사투리",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "사투리 사용에 대한 논란"
-    },
-    {
-      "keyword": "영화",
-      "count": 2,
-      "sentiment": "mixed",
-      "context": "영화 슈퍼걸의 흥행 실패와 삼체 오프닝 장면"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술 및 산업 동향"
     },
     {
       "keyword": "조국",
-      "count": 2,
+      "count": 5,
       "sentiment": "negative",
-      "context": "조국 대표의 발언과 관련된 논란"
+      "context": "정치적 이슈"
     },
     {
-      "keyword": "에볼라",
-      "count": 1,
-      "sentiment": "positive",
-      "context": "에볼라 치료 요법의 임상 돌입"
-    },
-    {
-      "keyword": "유치장",
-      "count": 1,
-      "sentiment": "negative",
-      "context": "유치장에서 발생한 사건"
-    },
-    {
-      "keyword": "초능력",
-      "count": 1,
-      "sentiment": "mixed",
-      "context": "초능력 물에서 현실 고증을 따지는 것에 대한 논란"
+      "keyword": "경제",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "기업 실적, 경제 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 2,
-    "negative": 6,
-    "neutral": 2,
-    "overall_mood": "부정적인 감정이 강한 것으로 나타남"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "재산세와 관련된 뉴스를 주시해야 함",
-      "action": "재산세 관련된 뉴스와 정보를 제공",
-      "priority": "medium"
+      "insight": "AI 기술은 빠르게 발전하고 있으며, 관련 산업도 성장하고 있다.",
+      "action": "AI 기술 및 산업 동향을 주시하고, 관련 비즈니스 기회를 탐색한다.",
+      "priority": "high"
     },
     {
-      "insight": "사투리 사용에 대한 논란을 주시해야 함",
-      "action": "사투리 사용에 대한 의견을 수집하고 분석",
-      "priority": "medium"
-    },
-    {
-      "insight": "영화 산업의 동향을 주시해야 함",
-      "action": "영화 산업의 뉴스와 정보를 제공",
-      "priority": "low"
-    },
-    {
-      "insight": "에볼라 치료와 관련된 뉴스를 주시해야 함",
-      "action": "에볼라 치료와 관련된 뉴스와 정보를 제공",
+      "insight": "정치적 이슈는 여전히 중요하며, 관련 뉴스와 논란을 주시한다.",
+      "action": "정치적 이슈를 주시하고, 관련 뉴스와 논란을 분석한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 재산세, 북한군, 크리스토퍼 놀란, 사투리, 영화, 조국, 에볼라, 유치장, 초능력 등 다양한 주제로 구성되어 있음. 부정적인 감정이 강한 것으로 나타나며, 재산세와 관련된 뉴스를 주시해야 함. 또한, 사투리 사용에 대한 논란을 주시해야 하며, 영화 산업의 동향을 주시해야 함. 에볼라 치료와 관련된 뉴스를 주시해야 하며, 유치장에서 발생한 사건에 대한 정보를 제공해야 함.",
-  "analyzed_at": "2026-07-06T11:30:35.907Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술 및 산업 동향이 주목을 받고 있으며, 정치적 이슈도 여전히 중요하다. 이러한 트렌드와 키워드를 고려하여 비즈니스 전략을 수립하고, 관련 기회를 탐색할 수 있다. 또한, 정치적 이슈와 관련된 뉴스와 논란을 주시하고, 분석하여 비즈니스에 활용할 수 있다.",
+  "analyzed_at": "2026-07-06T13:30:33.721Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
