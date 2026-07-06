@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "캐나다 잠수함 사업",
-      "summary": "캐나다가 독일의 TKMS를 선정하여 한국의 한화오션은 아쉬운 고배를 마셨다. 이 사업은 60조원規模로 알려져 있다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 이는 새로운 기회와 도전을 가져다준다. 예를 들어, AI를 이용한 주가 예측과 물류 사업 등이 있다.",
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 시장의 동향과 예측",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "김민석의 당대표 출마 선언과 조국의 활동이 논란이 되고 있다. 또한, 정부의 신규 원전 검토와 정보통신개정안이 논의되고 있다.",
-      "post_count": 5,
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스와 논평",
+      "post_count": 8,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 분야에서의 적용"
+      "context": "AI 기술의 발전과 산업에서의 활용"
     },
     {
-      "keyword": "캐나다",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "캐나다의 잠수함 사업에서 한국의 한화오션이 탈락"
+      "keyword": "주식",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "주식 시장의 동향과 예측"
     },
     {
-      "keyword": "조국",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "조국의 활동과 논란"
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제 시장의 동향과 예측"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지된다"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출한다",
-      "action": "AI 기술을 활용한 신제품 개발과 서비스 개선",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "action": "AI 기술을 활용한 신제품 개발",
       "priority": "high"
     },
     {
-      "insight": "캐나다의 잠수함 사업에서 한국의 한화오션이 탈락한 것은 아쉬운 결과이다",
-      "action": "국제 협력과 사업 개발을 강화하여 tương lai의 기회를 잡아야 한다",
+      "insight": "경제 및 주식 시장의 동향을 예측하여 투자 결정에 활용할 수 있다",
+      "action": "경제 및 주식 시장 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목을 받고 있다. 그러나 캐나다의 잠수함 사업에서 한국의 한화오션이 탈락한 것은 아쉬운 결과이다. 조국의 활동과 논란도 계속해서 논의되고 있다. 이러한 결과를 통해, AI 기술의 발전과 국제 협력을 강화하여 미래의 기회를 잡아야 할 필요가 있다. 또한, 정치와 경제 분야에서의 논란과 아쉬운 결과를 극복하기 위한 노력이 필요하다.",
-  "analyzed_at": "2026-07-06T15:00:35.341Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 또한, 경제 및 주식 시장의 동향과 예측이 중요한 이슈로 떠올라 있다. 이러한 트렌드에 대한 분석과 이해를 통해, 기업과 투자자는 신제품 개발과 투자 결정에 활용할 수 있는貴重한 정보를 얻을 수 있을 것이다. 또한, 사회 및 정치 관련 뉴스와 논평도 중요한 역할을 하고 있다. 따라서, 이러한 트렌드에 대한 지속적인 분석과 이해가 필요하다.",
+  "analyzed_at": "2026-07-06T16:30:34.588Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
