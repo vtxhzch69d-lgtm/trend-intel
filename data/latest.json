@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "사투리 논쟁",
-      "summary": "사투리 논쟁이 클리앙 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 사용자들은 사투리를 사용하는 것이 문제가 없다고 주장하는 반면, 다른 사용자들은 사투리가 지역감정이나 사회적 문제를 야기할 수 있다고 우려한다.",
+      "topic": "온라인 입틀막법",
+      "summary": "온라인 입틀막법 시행으로 인한 혼란과 논란",
       "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "주식 시장",
+      "summary": "주식 시장의 변동성과 투자 전략",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술이 클리앙 커뮤니티에서 주목을 받고 있다. 사용자들은 AI 기술의 발전과 그로 인한 사회적 영향에 대해 논의하고 있다.",
-      "post_count": 15,
+      "summary": "AI 기술의 발전과 ứng dụng",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 뉴스",
-      "summary": "경제 뉴스가 클리앙 커뮤니티에서 관심을 끌고 있다. 사용자들은 최근의 경제 동향과 그로 인한 영향에 대해 논의하고 있다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "사투리",
-      "count": 20,
+      "keyword": "입틀막법",
+      "count": 15,
       "sentiment": "negative",
-      "context": "사투리 논쟁"
+      "context": "온라인 입틀막법 시행"
+    },
+    {
+      "keyword": "주식",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "주식 시장의 변동성"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "context": "AI 기술의 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "사투리 논쟁은 지역감정이나 사회적 문제를 야기할 수 있다.",
-      "action": "사투리 논쟁을 주시하고, 필요할 경우 대응한다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술은 사회적 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 그로 인한 사회적 영향을 분석한다.",
+      "insight": "온라인 입틀막법 시행으로 인한 마케팅 전략의 변화",
+      "action": "마케팅 전략의 재평가",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스는 사용자들의 관심을 끌고 있다.",
-      "action": "경제 뉴스를 주시하고, 그로 인한 영향을 분석한다.",
-      "priority": "low"
+      "insight": "주식 시장의 변동성에 대한 투자 전략의 필요성",
+      "action": "투자 전략의 재평가",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전과 ứng用的 기회",
+      "action": "AI 기술의 연구와 개발",
+      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 사투리 논쟁, AI 기술, 경제 뉴스가 주목을 받고 있다. 사투리 논쟁은 지역감정이나 사회적 문제를 야기할 수 있으므로 주시하고, 필요할 경우 대응해야 한다. AI 기술은 사회적 영향을 미칠 수 있으므로 발전을 주시하고, 그로 인한 사회적 영향을 분석해야 한다. 경제 뉴스는 사용자들의 관심을 끌고 있으므로 주시하고, 그로 인한 영향을 분석해야 한다. 이러한 주제들은 사용자들의 관심을 끌고 있으며, 그로 인한 사회적 영향은 중요하게 고려해야 한다.",
-  "analyzed_at": "2026-07-06T01:00:34.350Z",
-  "post_count": 61,
+  "narrative": "최근 온라인 커뮤니티에서 온라인 입틀막법의 시행과 주식 시장의 변동성, AI 기술의 발전이 주목을 받고 있습니다. 이러한 트렌드들은 마케팅 전략의 변화와 투자 전략의 재평가를 필요로 하며, AI 기술의 연구와 개발을 통해 새로운 기회를 찾을 수 있습니다. 그러나 이러한 트렌드들은 또한 혼란과 논란을 일으킬 수 있으므로,慎重한 접근과 분석이 필요합니다.",
+  "analyzed_at": "2026-07-06T02:30:33.706Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
