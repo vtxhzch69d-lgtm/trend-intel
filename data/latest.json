@@ -1,98 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제",
-      "summary": "삼성전자 2분기 영업익 89.4조원, 사상 최대 기록",
-      "post_count": 10,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 특히, AI를 이용한 주가 예측과 로봇 기술에 대한 관심이 크다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이대통령 '잠수함 사업, 기대한 결과 아니지만 저력 보여줘'",
-      "post_count": 5,
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 뉴스에 대한 관심이 높아지고 있다. 특히, 삼성전자와 SK하이닉스의 실적과 반도체 산업에 대한 관심이 크다.",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI 기술의 발전과 그 영향",
-      "post_count": 8,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "스포츠",
-      "summary": "월드컵 16강전 포르투갈 vs 스페인 경기 결과",
-      "post_count": 4,
-      "sentiment": "neutral",
+      "summary": "벨기에와 미국의 축구 경기에 대한 관심이 높아지고 있다.",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "low"
-    },
-    {
-      "topic": "사회",
-      "summary": "일베 논란과 사투리 문제",
-      "post_count": 6,
-      "sentiment": "negative",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "2분기 영업익 기록"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "기술의 발전과 그 영향"
+      "context": "AI 기술의 발전과 응용"
     },
     {
-      "keyword": "잠수함",
+      "keyword": "삼성전자",
       "count": 5,
       "sentiment": "neutral",
-      "context": "이대통령의 발언"
+      "context": "삼성전자의 실적과 반도체 산업"
     },
     {
-      "keyword": "월드컵",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "16강전 경기 결과"
-    },
-    {
-      "keyword": "일베",
-      "count": 6,
-      "sentiment": "negative",
-      "context": "사투리 문제와 논란"
+      "keyword": "벨기에",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "벨기에와 미국의 축구 경기"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "삼성전자의 2분기 영업익 기록은 경제 성장의 긍정적 신호",
-      "action": "경제 성장에 대한 기대감을 높임",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 응용을 연구하고 개발하여 사업에 활용할 수 있다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 긍정적 영향을 미침",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
-      "priority": "medium"
-    },
-    {
-      "insight": "일베 논란과 사투리 문제는 사회적 문제로 대두",
-      "action": "사회적 문제에 대한 대응과 해결책 모색",
+      "insight": "경제 및 금융 뉴스에 대한 관심이 높아지고 있다.",
+      "action": "경제 및 금융 뉴스를 분석하여 사업에 활용할 수 있다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 경제와 기술 분야에서 긍정적 신호가 나타남을 확인할 수 있다. 삼성전자의 2분기 영업익 기록과 AI 기술의 발전은 경제 성장과 산업 발전에 긍정적 영향을 미칠 것으로 예상된다. 그러나 일베 논란과 사투리 문제는 사회적 문제로 대두되고 있어 이를 해결하기 위한 노력이 필요하다. 이러한 트렌드 분석 결과를 바탕으로, 경제와 기술 분야에서 비즈니스 기회를 모색하고, 사회적 문제에 대한 대응과 해결책을 모색하는 것이 중요할 것으로 보인다.",
-  "analyzed_at": "2026-07-06T23:00:34.005Z",
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, AI 기술과 경제 및 금융 뉴스에 대한 관심이 높아지고 있다. 특히, AI 기술의 발전과 그 응용에 대한 관심이 크다. 또한, 벨기에와 미국의 축구 경기에 대한 관심도 높아지고 있다. 이러한 관심은 사업에 활용할 수 있는 기회를 제공한다. 따라서, AI 기술의 응용을 연구하고 개발하여 사업에 활용할 수 있다. 또한, 경제 및 금융 뉴스를 분석하여 사업에 활용할 수 있다.",
+  "analyzed_at": "2026-07-07T01:00:34.264Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
