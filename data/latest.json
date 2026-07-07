@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 обсужд되고 있습니다. 엔비디아의 차세대 AI 서버 출시 지연과 AI 에이전트의 숨은 전력 비용 등이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 동향과 관련된 주제가 обсужд되고 있습니다. 삼전, 하이닉스 등의 주가와 관련된 뉴스가 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 논문이 발표되고 있으며, 이를 활용한 새로운 기술과 서비스가 등장하고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치와 관련된 다양한 주제가 обсужд되고 있습니다. 선호투표제와 관련된 뉴스와 정치인들의 활동이 논의되고 있습니다.",
-      "post_count": 6,
-      "sentiment": "negative",
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융 관련 뉴스가 많이 등장하고 있으며, 주식과 투자에 대한 관심이 높아지고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련 뉴스가 많이 등장하고 있으며, 다양한 의견과 논란이 존재한다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 뉴스와 논문"
     },
     {
       "keyword": "주식",
-      "count": 8,
+      "count": 10,
       "sentiment": "mixed",
-      "context": "주식 시장의 동향과 관련된 주제"
+      "context": "주식과 투자에 대한 관심"
     },
     {
       "keyword": "정치",
-      "count": 6,
+      "count": 8,
       "sentiment": "negative",
-      "context": "정치와 관련된 다양한 주제"
+      "context": "정치와 사회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 관련 산업에 대한 투자를 고려해 보세요.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 동향은 경제와 산업에 영향을 미칠 수 있습니다.",
-      "action": "주식 시장의 동향을 주시하고, 관련 산업에 대한 투자를 고려해 보세요.",
+      "insight": "경제와 금융의 불안정",
+      "action": "투자와 재무 관리에 대한 관심 증가",
       "priority": "medium"
+    },
+    {
+      "insight": "정치와 사회의 논란",
+      "action": "정책과 사회 문제에 대한 관심 증가",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 주식 시장의 동향이 주요 주제로 등장했습니다. 또한, 정치와 관련된 다양한 주제가 논의되고 있습니다. 이러한 트렌드들은 다양한 산업과 경제에 영향을 미칠 수 있으므로, 관련 산업에 대한 투자를 고려해 보는 것이 좋을 것입니다. 또한, AI 기술의 발전을 주시하고, 관련 산업에 대한 투자를 고려해 보세요. 주식 시장의 동향을 주시하고, 관련 산업에 대한 투자를 고려해 보세요.",
-  "analyzed_at": "2026-07-07T07:01:32.590Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 뉴스와 논문이 많이 등장하고 있으며, 이를 활용한 새로운 기술과 서비스가 등장하고 있다. 또한, 경제와 금융 관련 뉴스가 많이 등장하고 있으며, 주식과 투자에 대한 관심이 높아지고 있다. 그러나, 정치와 사회 관련 뉴스는 다양한 의견과 논란이 존재하며, 이는 사업과 투자에 영향을 미칠 수 있다. 따라서, 사업과 투자에 대한 관심과 관리가 필요하다.",
+  "analyzed_at": "2026-07-07T10:30:34.069Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
