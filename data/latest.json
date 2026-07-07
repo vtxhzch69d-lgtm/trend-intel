@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "장윤기 사건",
-      "summary": "장윤기 사건에 대한 정치권의 반응과 보완수사권 폐지 논의",
-      "post_count": 5,
+      "topic": "보완수사권",
+      "summary": "보완수사권 폐지와 관련된 논의가 활발히 진행 중입니다. 장윤기 사안을 포함한 여러 사건에서 보완수사권의 폐지 필요성이 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 논의가 진행 중입니다. 국내외에서 AI 기술의 개발과 활용이 확대되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "국내외 경제 및 금융 뉴스와 분석",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "경제 및 기업",
+      "summary": "삼성전자와 엔비디아의 실적과 관련된 뉴스, 그리고 다양한 기업의 동향이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
-    },
-    {
-      "keyword": "장윤기",
-      "count": 5,
+      "keyword": "보완수사권",
+      "count": 12,
       "sentiment": "negative",
-      "context": "장윤기 사건과 정치권의 반응"
+      "context": "보완수사권 폐지와 관련된 논의"
     },
     {
-      "keyword": "경제",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "국내외 경제 및 금융 뉴스와 분석"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 뉴스와 논의"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼성전자의 실적과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "보완수사권 폐지와 관련된 논의가 활발히 진행 중입니다.",
+      "action": "관련 정책과 법적 변화에 주목할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "장윤기 사건은 정치권의 반응과 보완수사권 폐지 논의를 불러일으킬 수 있다",
-      "action": "정치권의 반응과 보완수사권 폐지 논의를 주시",
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다.",
+      "action": "AI 기술의 개발과 활용을 위한 투자와 연구가 필요합니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융 뉴스는 비즈니스에 중요한 영향을 미칠 수 있다",
-      "action": "경제 및 금융 뉴스를 주시하고 비즈니스 전략을 조정",
+      "insight": "경제와 기업 동향이 계속해서 변하고 있습니다.",
+      "action": "관련 뉴스와 동향을 지속적으로 모니터링할 필요가 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, AI 기술의 발전과 다양한 산업에서의 적용, 장윤기 사건과 정치권의 반응, 경제 및 금융 뉴스와 분석이 주요 주제로 나타났습니다. AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있으므로, 비즈니스 모델 개발에 활용할 수 있습니다. 또한, 장윤기 사건과 정치권의 반응, 경제 및 금융 뉴스는 비즈니스에 중요한 영향을 미칠 수 있으므로, 주시하고 비즈니스 전략을 조정해야 합니다.",
-  "analyzed_at": "2026-07-07T12:00:34.639Z",
+  "narrative": "현재의 트렌드는 보완수사권 폐지와 관련된 논의, AI 기술의 발전, 그리고 경제 및 기업 동향이 주를 이루고 있습니다. 이러한 트렌드는 법적, 기술적, 경제적 측면에서 다양한 영향을 미치고 있습니다. 따라서 관련 정책과 법적 변화, AI 기술의 개발과 활용, 그리고 경제와 기업 동향을 지속적으로 모니터링하고 분석할 필요가 있습니다. 또한, 이러한 트렌드에 대한 이해와 분석을 통해 사업과 투자 전략을 수립하고 실행할 수 있습니다.",
+  "analyzed_at": "2026-07-07T13:30:34.220Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
