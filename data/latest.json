@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 금융",
-      "summary": "반도체 및 기술 기업의 성과와 관련된 뉴스 및 분석이 주를 이루고 있습니다. 또한, 경제 정책과 관련된 글들이 많이 게시되고 있습니다.",
+      "topic": "월드컵",
+      "summary": "아르헨티나와 이집트의 월드컵 경기가热议되고 있습니다. 메시의 활약이 돋보이고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 정보가 있습니다. 엔비디아의 차세대 AI서버와 국산 인공지능 반도체 등이 주목을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI와 관련된 기술 개발 및 기업 동향이 주목을 받고 있습니다. 특히, 엔비디아와 네이버의 AI 관련 뉴스가 많이 게시되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련된 글들이 많이 게시되고 있습니다. 특히, 정부의 정책과 관련된 글들이 주를 이루고 있습니다.",
+      "topic": "경제 및 정치",
+      "summary": "경제와 정치 관련된 뉴스와 정보가 있습니다. 환율과 부동산 정책, 대통령의 발언 등이 포함되어 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
@@ -24,44 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 8,
+      "keyword": "메시",
+      "count": 5,
       "sentiment": "positive",
-      "context": "기술 개발 및 기업 동향"
+      "context": "월드컵 경기에서 활약"
     },
     {
       "keyword": "AI",
       "count": 10,
-      "sentiment": "positive",
-      "context": "기술 개발 및 기업 동향"
+      "sentiment": "neutral",
+      "context": "기술 발전과 관련된 뉴스"
     },
     {
       "keyword": "경제",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "경제 정책 및 기업 동향"
+      "count": 5,
+      "sentiment": "negative",
+      "context": "환율과 부동산 정책 등"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 개발 및 기업 동향을 주목해야 합니다.",
-      "action": "관련 뉴스 및 분석을 모니터링하세요.",
+      "insight": "AI 기술의 발전",
+      "action": "투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 정책 및 기업 동향을 주목해야 합니다.",
-      "action": "관련 뉴스 및 분석을 모니터링하세요.",
+      "insight": "경제와 정치의 불안정성",
+      "action": "위험 관리와 대응 전략",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 기술 개발 및 기업 동향을 주목하는 것으로 나타납니다. 특히, 반도체 및 AI와 관련된 뉴스 및 분석이 주를 이루고 있습니다. 또한, 경제 정책 및 기업 동향을 주목해야 합니다. 중립적인 감정이 가장 많은 것으로 나타나며, 전체적으로 중립적인 분위기입니다. 따라서, 기술 개발 및 기업 동향을 주목하고, 관련 뉴스 및 분석을 모니터링하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-07T16:30:34.242Z",
+  "narrative": "最近의 트렌드는 월드컵과 AI 기술, 경제 및 정치 등 다양한 주제를 포함하고 있습니다. 메시의 활약과 AI 기술의 발전이 주목을 받고 있습니다. 그러나 경제와 정치의 불안정성도 존재합니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다. AI 기술의 발전과 관련된 투자와 연구 개발, 경제와 정치의 불안정성에 대한 위험 관리와 대응 전략 등이 필요합니다.",
+  "analyzed_at": "2026-07-07T18:00:34.206Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
