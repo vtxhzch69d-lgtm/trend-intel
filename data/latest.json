@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 논문이 발표되고 있으며, 이를 활용한 새로운 기술과 서비스가 등장하고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "장윤기 사건",
+      "summary": "장윤기 사건에 대한 정치권의 반응과 보완수사권 폐지 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융 관련 뉴스가 많이 등장하고 있으며, 주식과 투자에 대한 관심이 높아지고 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련 뉴스가 많이 등장하고 있으며, 다양한 의견과 논란이 존재한다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제 및 금융",
+      "summary": "국내외 경제 및 금융 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,19 +27,19 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스와 논문"
+      "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "주식과 투자에 대한 관심"
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
+      "keyword": "장윤기",
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치와 사회 관련 뉴스"
+      "context": "장윤기 사건과 정치권의 반응"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "국내외 경제 및 금융 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
@@ -50,23 +50,23 @@
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 서비스 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있다",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제와 금융의 불안정",
-      "action": "투자와 재무 관리에 대한 관심 증가",
+      "insight": "장윤기 사건은 정치권의 반응과 보완수사권 폐지 논의를 불러일으킬 수 있다",
+      "action": "정치권의 반응과 보완수사권 폐지 논의를 주시",
       "priority": "medium"
     },
     {
-      "insight": "정치와 사회의 논란",
-      "action": "정책과 사회 문제에 대한 관심 증가",
-      "priority": "high"
+      "insight": "경제 및 금융 뉴스는 비즈니스에 중요한 영향을 미칠 수 있다",
+      "action": "경제 및 금융 뉴스를 주시하고 비즈니스 전략을 조정",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 뉴스와 논문이 많이 등장하고 있으며, 이를 활용한 새로운 기술과 서비스가 등장하고 있다. 또한, 경제와 금융 관련 뉴스가 많이 등장하고 있으며, 주식과 투자에 대한 관심이 높아지고 있다. 그러나, 정치와 사회 관련 뉴스는 다양한 의견과 논란이 존재하며, 이는 사업과 투자에 영향을 미칠 수 있다. 따라서, 사업과 투자에 대한 관심과 관리가 필요하다.",
-  "analyzed_at": "2026-07-07T10:30:34.069Z",
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, AI 기술의 발전과 다양한 산업에서의 적용, 장윤기 사건과 정치권의 반응, 경제 및 금융 뉴스와 분석이 주요 주제로 나타났습니다. AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있으므로, 비즈니스 모델 개발에 활용할 수 있습니다. 또한, 장윤기 사건과 정치권의 반응, 경제 및 금융 뉴스는 비즈니스에 중요한 영향을 미칠 수 있으므로, 주시하고 비즈니스 전략을 조정해야 합니다.",
+  "analyzed_at": "2026-07-07T12:00:34.639Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
