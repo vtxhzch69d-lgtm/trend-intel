@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "월드컵 16강과 결승전 관련 게시글이 많은 것으로 나타났습니다. 특히 아르헨티나와 이집트의 경기 결과와 메시의 활약이 주목을 받았습니다.",
-      "post_count": 15,
+      "summary": "월드컵 16강전 아르헨티나 vs 이집트 경기 결과와 메시의 활약이 화제가 되고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 게시글이 많았습니다. 특히 AI의 발전과 적용, 그리고 관련 기업들의 뉴스가 주를 이루었습니다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 변화가 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치와 경제",
-      "summary": "정치와 경제 관련 게시글이 있었으며, 특히 대통령과 정부의 정책, 그리고 경제 동향이 논의되었습니다.",
-      "post_count": 10,
+      "topic": "경제 및 정치",
+      "summary": "국내외 경제 및 정치 뉴스가 다양하게 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "월드컵 관련 게시글에서 자주 등장했습니다."
-    },
-    {
       "keyword": "AI",
-      "count": 20,
+      "count": 12,
       "sentiment": "neutral",
-      "context": "AI와 기술 관련 게시글에서 자주 등장했습니다."
+      "context": "AI 기술의 발전과 산업적 활용"
     },
     {
-      "keyword": "메시",
+      "keyword": "월드컵",
       "count": 5,
       "sentiment": "positive",
-      "context": "월드컵 관련 게시글에서 메시의 활약이 주목을 받았습니다."
+      "context": "월드컵 경기 결과와 선수들의 활약"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "국내외 경제 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적이고 정보적인 분위기"
+    "positive": 10,
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기이지만, 일부 긍정적이고 부정적인 반응도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "월드컵과 관련된 마케팅 기회",
-      "action": "월드컵 관련 프로모션과 광고를 진행합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술의 발전을 주목하고, 이를 활용한 비즈니스 기회를 탐색하세요.",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술의 발전",
-      "action": "AI와 기술 관련된 제품과 서비스를 개발합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치와 경제의 동향",
-      "action": "정치와 경제 관련된 뉴스와 분석을 제공합니다.",
+      "insight": "월드컵과 같은 대형 스포츠 이벤트는 마케팅 기회를 제공할 수 있습니다.",
+      "action": "월드컵과 같은 이벤트를 활용한 마케팅 전략을 수립하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 관련된 게시글이 많았으며, 특히 아르헨티나와 이집트의 경기 결과와 메시의 활약이 주목을 받았습니다. 또한 AI와 기술 관련된 게시글이 많았으며, 특히 AI의 발전과 적용, 그리고 관련 기업들의 뉴스가 주를 이루었습니다. 정치와 경제 관련된 게시글도 있었으며, 특히 대통령과 정부의 정책, 그리고 경제 동향이 논의되었습니다. 이러한 트렌드를 통해 마케팅 기회와 비즈니스 인사이트를 얻을 수 있을 것입니다.",
-  "analyzed_at": "2026-07-07T21:00:34.925Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 월드컵 등의 대형 스포츠 이벤트를 중심으로 형성되고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것으로 예상되며, 이를 활용한 비즈니스 기회를 탐색하는 것이 중요합니다. 또한, 월드컵과 같은 이벤트는 마케팅 기회를 제공할 수 있으므로, 이를 활용한 마케팅 전략을 수립하는 것이 필요합니다. 경제 및 정치 뉴스도 다양하게 обсужд되고 있으므로, 이러한 트렌드에 주목하고, 이를 활용한 비즈니스 기회를 탐색하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-07T22:30:34.509Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
