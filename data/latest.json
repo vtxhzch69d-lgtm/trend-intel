@@ -1,57 +1,57 @@
 {
   "trending_topics": [
     {
-      "topic": "주식시장",
-      "summary": "주식시장의 급상승과 외인 매도물량에 대한 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "주식 시장",
+      "summary": "코스피와 코스닥의 주가 하락, 투자자들의 우려",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
-      "post_count": 15,
+      "summary": "AI의 발전과 그에 따른 산업의 변화",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치적인 이슈와 논의",
+      "summary": "정치인들의 발언과 그에 따른 반응",
       "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "주식시장의 동향"
+      "sentiment": "negative",
+      "context": "주식 시장의 하락"
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 15,
       "sentiment": "positive",
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "트럼프의 발언과 행동"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치인들의 발언"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "우려와 불안"
   },
   "business_insights": [
     {
-      "insight": "주식시장의 급상승",
-      "action": "투자 전략의 조정",
+      "insight": "주식 시장의 변동성",
+      "action": "투자 전략의 재평가",
       "priority": "high"
     },
     {
@@ -60,13 +60,13 @@
       "priority": "medium"
     },
     {
-      "insight": "정치적인 이슈",
-      "action": "정책과 법규의 변화에 대한 준비",
-      "priority": "low"
+      "insight": "정치적 불안",
+      "action": "정치적 상황의 모니터링",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 주식시장의 급상승과 외인 매도물량에 대한 논의, AI 기술의 발전, 그리고 정치적인 이슈 등으로 구성되어 있습니다. 주식시장의 동향과 AI 기술의 발전은 중립적이고 긍정적인 반면, 정치적인 이슈는 부정적인 감정을 불러일으킵니다. 이러한 트렌드에 대한 분석과 이해는 비즈니스와 마케팅 전략의 수립에 중요한 역할을 할 수 있습니다.",
-  "analyzed_at": "2026-07-07T02:30:33.783Z",
+  "narrative": "현재의 트렌드는 주식 시장의 하락과 AI 기술의 발전, 정치적 불안으로 특징지어집니다. 주식 시장의 변동성은 투자자들에게 우려를 가져오고, AI 기술의 발전은 산업의 변화와 새로운 기회를 창출하고 있습니다. 정치적 불안은 사회적과 경제적으로 영향을 미치고 있습니다. 이러한 트렌드에 대한 이해와 분석은 비즈니스와 투자 전략의 결정에 중요한 역할을 할 것입니다.",
+  "analyzed_at": "2026-07-07T04:00:34.245Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
