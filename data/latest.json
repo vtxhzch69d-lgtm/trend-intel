@@ -2,72 +2,72 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "코스피와 코스닥의 주가 하락, 투자자들의 우려",
+      "summary": "주식 시장의 변동성과 불안정성에 대한 우려가 많다. 삼전닉스의 이익 지속성과 국장의 외인기관의 놀이터라는 의견이 있다.",
       "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI의 발전과 그에 따른 산업의 변화",
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높다. AI 에이전트의 개발과 활용, 그리고 그로 인한 업무 방식의 변화가 논의되고 있다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치인들의 발언과 그에 따른 반응",
+      "topic": "경제 및 산업",
+      "summary": "경제와 산업의 동향에 대한 관심이 많다. 삼성전자와 SK하이닉스의 영업 이익, 그리고 반도체 산업의 발전이 논의되고 있다.",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
+      "keyword": "삼전닉스",
+      "count": 5,
       "sentiment": "negative",
-      "context": "주식 시장의 하락"
+      "context": "삼전닉스의 이익 지속성에 대한 우려"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 그 응용"
     },
     {
-      "keyword": "정치",
+      "keyword": "주식",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "정치인들의 발언"
+      "sentiment": "negative",
+      "context": "주식 시장의 변동성과 불안정성"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
+    "positive": 15,
+    "negative": 20,
     "neutral": 10,
-    "overall_mood": "우려와 불안"
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 변동성",
-      "action": "투자 전략의 재평가",
+      "insight": "주식 시장의 변동성과 불안정성에 대한 우려가 높아, 투자자들은 주의해야 한다.",
+      "action": "투자 전략의 재검토",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술의 도입과 활용",
+      "insight": "AI 기술의 발전과 그 응용은 다양한 산업에 영향을 미칠 것으로 예상된다.",
+      "action": "AI 기술의 연구와 개발",
       "priority": "medium"
     },
     {
-      "insight": "정치적 불안",
-      "action": "정치적 상황의 모니터링",
+      "insight": "경제와 산업의 동향에 대한 관심이 많아, 관련 뉴스와 정보를 지속적으로 모니터링해야 한다.",
+      "action": "뉴스와 정보의 모니터링",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 주식 시장의 하락과 AI 기술의 발전, 정치적 불안으로 특징지어집니다. 주식 시장의 변동성은 투자자들에게 우려를 가져오고, AI 기술의 발전은 산업의 변화와 새로운 기회를 창출하고 있습니다. 정치적 불안은 사회적과 경제적으로 영향을 미치고 있습니다. 이러한 트렌드에 대한 이해와 분석은 비즈니스와 투자 전략의 결정에 중요한 역할을 할 것입니다.",
-  "analyzed_at": "2026-07-07T04:00:34.245Z",
-  "post_count": 62,
+  "narrative": "현재의 트렌드는 주식 시장의 변동성과 불안정성, AI 기술의 발전과 그 응용, 그리고 경제와 산업의 동향에 대한 관심이 높다는 것을 보여준다. 이러한 트렌드는 투자자와 기업에게 중요한 정보를 제공하며, 주의와 연구가 필요하다. 또한, AI 기술의 발전과 그 응용은 다양한 산업에 영향을 미칠 것으로 예상되며, 관련 연구와 개발이 필요하다. 경제와 산업의 동향에 대한 관심이 많아, 관련 뉴스와 정보를 지속적으로 모니터링해야 한다. 이러한 트렌드와 인사이트를 통해, 기업과 투자자는 시장의 변화를 예측하고, 전략을 수립할 수 있을 것이다.",
+  "analyzed_at": "2026-07-07T05:30:34.655Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
