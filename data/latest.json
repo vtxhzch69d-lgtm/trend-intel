@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "정청래와 이재명의 지지자들 사이에 논쟁이 이는 등 정치 및 사회 관련 주제가 인기",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "ChatGPT의 차세대 음성모드 출시 및 AI 기술의 발전이 주목을 받음",
-      "post_count": 8,
+      "topic": "ChatGPT",
+      "summary": "ChatGPT의 차세대 음성모드 출시와 관련된 게시글이 많습니다. 사용자들은 ChatGPT의 새로운 기능에 대해 관심을 보이고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "주담대와 미장의 급등락, 국장의 폭등 조짐 등 경제 및 금융 관련 주제가 관심을 받음",
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많습니다. 사용자들은 정치적인 이슈에 대해 관심을 보이고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련된 게시글이 많습니다. 사용자들은 경제적인 이슈에 대해 관심을 보이고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정청래와 관련된 논쟁"
-    },
-    {
       "keyword": "ChatGPT",
-      "count": 4,
+      "count": 10,
       "sentiment": "positive",
-      "context": "ChatGPT의 차세대 음성모드 출시"
+      "context": "AI 기술"
     },
     {
-      "keyword": "주담대",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "주담대와 관련된 경제 및 금융 주제"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치적인 이슈"
+    },
+    {
+      "keyword": "경제",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "경제적인 이슈"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적이지만 논쟁적인 분위기"
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 및 사회 관련 주제가 여전히 인기",
-      "action": "관련 주제에 대한 콘텐츠 생성",
+      "insight": "사용자들은 AI 기술에 대해 관심을 보이고 있습니다.",
+      "action": "AI 기술 관련된 제품이나 서비스를 개발하여 출시할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 주목을 받음",
-      "action": "AI 기술 관련 콘텐츠 생성",
+      "insight": "사용자들은 정치적인 이슈에 대해 관심을 보이고 있습니다.",
+      "action": "정치적인 이슈에 대해 더 많은 정보를 제공할 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융 관련 주제가 관심을 받음",
-      "action": "관련 주제에 대한 콘텐츠 생성",
+      "insight": "사용자들은 경제적인 이슈에 대해 관심을 보이고 있습니다.",
+      "action": "경제적인 이슈에 대해 더 많은 정보를 제공할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치 및 사회, 기술 및 과학, 경제 및 금융 관련 주제가 중심을 이루고 있습니다. 정청래와 이재명의 지지자들 사이에 논쟁이 이는 등 정치 및 사회 관련 주제가 인기이며, ChatGPT의 차세대 음성모드 출시 및 AI 기술의 발전이 주목을 받고 있습니다. 또한 주담대와 미장의 급등락, 국장의 폭등 조짐 등 경제 및 금융 관련 주제가 관심을 받고 있습니다. 이러한 트렌드를 반영하여 관련 주제에 대한 콘텐츠 생성을 통해 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-07-08T18:30:33.999Z",
+  "narrative": "사용자들은 다양한 주제에 대해 관심을 보이고 있습니다. AI 기술, 정치, 경제 등 다양한 이슈에 대해 게시글이 많습니다. 사용자들의 관심을 반영하여 제품이나 서비스를 개발하여 출시할 수 있습니다. 또한, 사용자들에게 더 많은 정보를 제공하여 만족도를 높일 수 있습니다. 중립적인 태도를 유지하여 사용자들의 신뢰를 얻을 수 있습니다.",
+  "analyzed_at": "2026-07-08T20:00:34.233Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
