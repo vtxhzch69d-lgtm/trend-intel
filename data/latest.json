@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련된 다양한 주제들이 논의되고 있다. 정시확대, 자기정치, 정청래, 김민석 등이 주요 키워드이다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있다. 특히, 클리앙 커뮤니티에서는 AI 기술의 발전과 그에 따른 경제적, 사회적 영향에 대한 논의가 활발하다.",
       "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "교육정책",
+      "summary": "교육정책, 특히 대학입시 제도에 대한 논의가 활발하다. 많은 사용자들이 현재의 교육제도에 대한 문제점을 지적하고 개선방안을 제시하고 있다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "주식",
-      "summary": "주식 시장의 상황과 전망이 논의되고 있다. 하닉, 엘지, 삼성전자 등이 주요 키워드이다.",
-      "post_count": 8,
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련된 게시글이 많다. 사용자들은 현재의 경제 상황과 주식 시장의 동향에 대해 논의하고 있다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 다양한 주제들이 논의되고 있다. 엔비디아, 카이버, 피지컬 AI 등이 주요 키워드이다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
+      "keyword": "AI",
       "count": 20,
-      "sentiment": "mixed",
-      "context": "정치 관련된 다양한 주제들이 논의되고 있다."
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
+    },
+    {
+      "keyword": "교육정책",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "현재의 교육제도에 대한 문제점과 개선방안"
     },
     {
       "keyword": "주식",
-      "count": 10,
+      "count": 8,
       "sentiment": "neutral",
-      "context": "주식 시장의 상황과 전망이 논의되고 있다."
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 다양한 주제들이 논의되고 있다."
+      "context": "현재의 주식 시장의 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부 주제에서는 긍정적인 혹은 부정적인 감정이 나타난다."
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제는 밀접한 관련이 있다.",
-      "action": "정치와 경제에 대한 다양한 주제를 분석하여 시장을 이해하는 데 활용할 수 있다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾기 위해 노력해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 중요한 역할을 한다.",
-      "action": "AI 기술에 대한 투자와 개발을 고려할 수 있다.",
+      "insight": "교육정책은 국가의 미래를 결정하는 중요한 요소이다.",
+      "action": "교육정책에 대한 논의를 주시하고 개선방안을 제시해야 한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 주식 시장의 동향을 주시하는 것은 중요하다.",
+      "action": "경제 및 주식 시장의 동향을 주시하고 그에 따른 투자 전략을 수립해야 한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 주식, AI 기술 등 다양한 주제를 중심으로 형성되고 있다. 정치와 경제는 밀접한 관련이 있으며, AI 기술은 다양한 산업에서 중요한 역할을 한다. 이러한 트렌드를 분석하여 시장을 이해하고, 비즈니스 전략을 수립하는 데 활용할 수 있다. 또한, 각 주제에 대한 감정과 우선순위를 고려하여 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-07-08T01:30:34.474Z",
+  "narrative": "클리앙 커뮤니티에서는 AI 기술의 발전과 그에 따른 다양한 산업에서의 적용, 교육정책, 경제 및 주식 시장의 동향에 대한 논의가 활발하다. 사용자들은 현재의 교육제도에 대한 문제점을 지적하고 개선방안을 제시하고 있다. 또한, 경제 및 주식 시장의 동향을 주시하고 그에 따른 투자 전략을 수립해야 한다. 이러한 논의를 통해 사용자들은 새로운 기회를 찾고 미래를 준비할 수 있다.",
+  "analyzed_at": "2026-07-08T03:01:28.574Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
