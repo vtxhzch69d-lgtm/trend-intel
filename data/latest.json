@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "리센느",
-      "summary": "리센느의 노래가 멜론 1위에 오르며 팬들의 축하가 이어지고 있다. 리센느의 멤버들은 유튜브 라이브를 통해 팬들과 소통하고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "GPT-5.6",
-      "summary": "GPT-5.6의 출시와 관련된 뉴스와 의견이 커뮤니티에서 논의되고 있다. 일부 사용자들은 GPT-5.6의 가능성에 대해 긍정적인 반응을 보이고 있다.",
-      "post_count": 4,
+      "topic": "정치 및 사회",
+      "summary": "정청래와 이재명의 지지자들 사이에 논쟁이 이는 등 정치 및 사회 관련 주제가 인기",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 뉴스와 의견이 커뮤니티에서 논의되고 있다. 일부 사용자들은 정치인에 대해 비판적인 반응을 보이고 있다.",
-      "post_count": 6,
-      "sentiment": "negative",
+      "topic": "기술 및 과학",
+      "summary": "ChatGPT의 차세대 음성모드 출시 및 AI 기술의 발전이 주목을 받음",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "주담대와 미장의 급등락, 국장의 폭등 조짐 등 경제 및 금융 관련 주제가 관심을 받음",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "리센느",
-      "count": 7,
-      "sentiment": "positive",
-      "context": "리센느의 노래가 멜론 1위에 오르며 팬들의 축하가 이어지고 있다."
-    },
-    {
-      "keyword": "GPT-5.6",
+      "keyword": "정청래",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "GPT-5.6의 출시와 관련된 뉴스와 의견이 커뮤니티에서 논의되고 있다."
+      "sentiment": "negative",
+      "context": "정청래와 관련된 논쟁"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "정치 관련된 뉴스와 의견이 커뮤니티에서 논의되고 있다."
+      "keyword": "ChatGPT",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "ChatGPT의 차세대 음성모드 출시"
+    },
+    {
+      "keyword": "주담대",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "주담대와 관련된 경제 및 금융 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "neutral": 25,
+    "overall_mood": "중립적이지만 논쟁적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "리센느의 인기로 인한 음악 시장의 성장",
-      "action": "음악 시장의 트렌드를 분석하고 리센느의 인기로 인한 기회를 찾기",
-      "priority": "medium"
-    },
-    {
-      "insight": "GPT-5.6의 출시로 인한 AI 기술의 발전",
-      "action": "GPT-5.6의 기능과 가능성을 분석하고 이를 활용한 비즈니스 모델을 개발하기",
+      "insight": "정치 및 사회 관련 주제가 여전히 인기",
+      "action": "관련 주제에 대한 콘텐츠 생성",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 뉴스와 의견의 증가",
-      "action": "정치 관련된 뉴스와 의견을 분석하고 이를 활용한 마케팅 전략을 개발하기",
-      "priority": "low"
+      "insight": "AI 기술의 발전이 주목을 받음",
+      "action": "AI 기술 관련 콘텐츠 생성",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 및 금융 관련 주제가 관심을 받음",
+      "action": "관련 주제에 대한 콘텐츠 생성",
+      "priority": "medium"
     }
   ],
-  "narrative": "리센느의 인기로 인한 음악 시장의 성장은 음악 산업의 트렌드를 분석하고 리센느의 인기로 인한 기회를 찾는 데 도움이 될 수 있다. GPT-5.6의 출시로 인한 AI 기술의 발전은 GPT-5.6의 기능과 가능성을 분석하고 이를 활용한 비즈니스 모델을 개발하는 데 도움이 될 수 있다. 정치 관련된 뉴스와 의견의 증가로 인한 마케팅 전략의 개발은 정치 관련된 뉴스와 의견을 분석하고 이를 활용한 마케팅 전략을 개발하는 데 도움이 될 수 있다.",
-  "analyzed_at": "2026-07-08T16:30:34.540Z",
+  "narrative": "현재의 트렌드는 정치 및 사회, 기술 및 과학, 경제 및 금융 관련 주제가 중심을 이루고 있습니다. 정청래와 이재명의 지지자들 사이에 논쟁이 이는 등 정치 및 사회 관련 주제가 인기이며, ChatGPT의 차세대 음성모드 출시 및 AI 기술의 발전이 주목을 받고 있습니다. 또한 주담대와 미장의 급등락, 국장의 폭등 조짐 등 경제 및 금융 관련 주제가 관심을 받고 있습니다. 이러한 트렌드를 반영하여 관련 주제에 대한 콘텐츠 생성을 통해 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-08T18:30:33.999Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
