@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "ChatGPT",
-      "summary": "ChatGPT의 차세대 음성모드 출시와 관련된 게시글이 많습니다. 사용자들은 ChatGPT의 새로운 기능에 대해 관심을 보이고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많습니다. 사용자들은 정치적인 이슈에 대해 관심을 보이고 있습니다.",
+      "topic": "ChatGPT 및 AI 기술",
+      "summary": "ChatGPT의 차세대 음성모드 출시와 GPT-5.6의 사용평가가热議되고 있다. 사용자들은 새로운 기술의 가능성과 한계에 대해 논의하고 있다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련된 게시글이 많습니다. 사용자들은 경제적인 이슈에 대해 관심을 보이고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "경제 및 금융",
+      "summary": "국내외 경제 및 금융 뉴스가 많은 관심을 받고 있다. 주담대, 미장, 국장 등 다양한 주제가 논의되고 있다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스가 많은 관심을 받고 있다. 가짜뉴스법, 커뮤니티 규제 등 다양한 주제가 논의되고 있다.",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "ChatGPT",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술 및 응용"
+    },
+    {
+      "keyword": "GPT-5.6",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술"
+      "context": "AI 기술 및 응용"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치적인 이슈"
-    },
-    {
-      "keyword": "경제",
-      "count": 12,
+      "keyword": "주담대",
+      "count": 8,
       "sentiment": "negative",
-      "context": "경제적인 이슈"
+      "context": "경제 및 금융"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 30,
     "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 45,
+    "overall_mood": "중립적이며 정보를 찾는 분위기"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 AI 기술에 대해 관심을 보이고 있습니다.",
-      "action": "AI 기술 관련된 제품이나 서비스를 개발하여 출시할 수 있습니다.",
+      "insight": "AI 기술 및 응용이 많은 관심을 받고 있다.",
+      "action": "AI 기술 및 응용 관련 제품 및 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 정치적인 이슈에 대해 관심을 보이고 있습니다.",
-      "action": "정치적인 이슈에 대해 더 많은 정보를 제공할 수 있습니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "사용자들은 경제적인 이슈에 대해 관심을 보이고 있습니다.",
-      "action": "경제적인 이슈에 대해 더 많은 정보를 제공할 수 있습니다.",
+      "insight": "경제 및 금융 뉴스가 많은 관심을 받고 있다.",
+      "action": "경제 및 금융 관련 정보 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "사용자들은 다양한 주제에 대해 관심을 보이고 있습니다. AI 기술, 정치, 경제 등 다양한 이슈에 대해 게시글이 많습니다. 사용자들의 관심을 반영하여 제품이나 서비스를 개발하여 출시할 수 있습니다. 또한, 사용자들에게 더 많은 정보를 제공하여 만족도를 높일 수 있습니다. 중립적인 태도를 유지하여 사용자들의 신뢰를 얻을 수 있습니다.",
-  "analyzed_at": "2026-07-08T20:00:34.233Z",
+  "narrative": "현재의 트렌드는 AI 기술 및 응용, 경제 및 금융, 정치 및 사회 관련 주제가 많은 관심을 받고 있다. 사용자들은 새로운 기술의 가능성과 한계에 대해 논의하고 있으며, 경제 및 금융 뉴스도 많은 관심을 받고 있다. 이러한 트렌드를 반영하여 AI 기술 및 응용 관련 제품 및 서비스 개발, 경제 및 금융 관련 정보 제공 등 다양한 비즈니스 전략을 수립할 수 있을 것이다.",
+  "analyzed_at": "2026-07-08T21:30:34.146Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
