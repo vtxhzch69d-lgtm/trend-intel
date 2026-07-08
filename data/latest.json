@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 변동성과 투자 전략에 대한 관심이 높다. 최근 주가의 급등과 급락으로 인해 투자자들의 관심이 집중되고 있다.",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "최근 정치 관련 게시물이 많이 올라왔습니다. 이재명 대통령과 정부의 정책에 대한 논의가 많았습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견이 활발하게 논의되고 있다. 최근 정치 현안과 정치인들의 활동에 대한 관심이 높다.",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "경제 관련 게시물이 많이 올라왔습니다. 주택 구입자금 대출 한도 축소와 부동산 거품 붕괴에 대한 논의가 많았습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드에 대한 관심이 높다. 특히 AI와 반도체 관련 기술에 대한 논의가 활발하다.",
-      "post_count": 12,
+      "summary": "기술 관련 게시물이 많이 올라왔습니다. AI와 관련된 뉴스와 제품에 대한 논의가 많았습니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "주식 시장의 변동성과 투자 전략"
+      "keyword": "이재명",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "대통령과 정부의 정책에 대한 논의"
     },
     {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "부동산",
+      "count": 8,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스와 의견"
+      "context": "부동산 거품 붕괴와 주택 구입자금 대출 한도 축소"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드"
+      "context": "AI와 관련된 뉴스와 제품"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적이고 혼재된 분위기"
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 변동성과 투자 전략에 대한 관심이 높다.",
-      "action": "투자자들에게 주식 시장의 변동성과 투자 전략에 대한 정보를 제공한다.",
+      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높다.",
-      "action": "최신 기술 뉴스와 트렌드에 대한 정보를 제공한다.",
+      "insight": "AI와 관련된 기술에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 제품과 서비스를 개발하여 시장에 출시해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드와 키워드를 분석한 결과, 주식 시장과 정치, 기술에 대한 관심이 높다. 주식 시장의 변동성과 투자 전략에 대한 관심은 투자자들에게 중요한 정보를 제공할 수 있다. 또한, 최신 기술 뉴스와 트렌드에 대한 관심은 기술 산업의 발전에 대한 기대감을 높일 수 있다. 이러한 트렌드와 키워드를 고려하여 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-07-08T09:00:34.575Z",
-  "post_count": 61,
+  "narrative": "최근 정치와 경제에 대한 관심이 높아지고 있습니다. 사용자는 정부의 정책과 부동산 거품 붕괴에 대한 논의에 관심을 가지고 있습니다. 또한 AI와 관련된 기술에 대한 관심도 높아지고 있습니다. 이러한 관심을 반영하여 관련된 뉴스와 정보를 제공하고, 관련된 제품과 서비스를 개발하여 시장에 출시해야 합니다. 이를 통해 사용자의 관심을 끌어들이고, 시장의 트렌드를 선도할 수 있습니다.",
+  "analyzed_at": "2026-07-08T10:30:33.688Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
