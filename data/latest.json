@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "리센느",
-      "summary": "리센느의 데뷔와 인기, 음악 활동에 대한 обсуждение",
-      "post_count": 8,
+      "summary": "리센느의 노래가 멜론 1위에 오르며 팬들의 축하가 이어지고 있다. 리센느의 멤버들은 유튜브 라이브를 통해 팬들과 소통하고 있다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정청래",
-      "summary": "정청래에 대한 지지와 비판, 정치적인 обсуждение",
-      "post_count": 3,
+      "topic": "GPT-5.6",
+      "summary": "GPT-5.6의 출시와 관련된 뉴스와 의견이 커뮤니티에서 논의되고 있다. 일부 사용자들은 GPT-5.6의 가능성에 대해 긍정적인 반응을 보이고 있다.",
+      "post_count": 4,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI의 발전과 적용, 기술적인 обсуждение",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "정치 관련된 뉴스와 의견이 커뮤니티에서 논의되고 있다. 일부 사용자들은 정치인에 대해 비판적인 반응을 보이고 있다.",
+      "post_count": 6,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "리센느",
-      "count": 11,
-      "sentiment": "positive",
-      "context": "리센느의 데뷔와 인기"
-    },
-    {
-      "keyword": "정청래",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "정청래에 대한 비판"
-    },
-    {
-      "keyword": "AI",
       "count": 7,
+      "sentiment": "positive",
+      "context": "리센느의 노래가 멜론 1위에 오르며 팬들의 축하가 이어지고 있다."
+    },
+    {
+      "keyword": "GPT-5.6",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "AI의 발전과 적용"
+      "context": "GPT-5.6의 출시와 관련된 뉴스와 의견이 커뮤니티에서 논의되고 있다."
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 관련된 뉴스와 의견이 커뮤니티에서 논의되고 있다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "리센느의 인기",
-      "action": "리센느의 음악과 활동을 더 많이 홍보",
-      "priority": "high"
-    },
-    {
-      "insight": "정청래에 대한 비판",
-      "action": "정청래의 정치적인 활동을 더 많이 분석",
+      "insight": "리센느의 인기로 인한 음악 시장의 성장",
+      "action": "음악 시장의 트렌드를 분석하고 리센느의 인기로 인한 기회를 찾기",
       "priority": "medium"
     },
     {
-      "insight": "AI의 발전",
-      "action": "AI의 적용과 발전을 더 많이 연구",
+      "insight": "GPT-5.6의 출시로 인한 AI 기술의 발전",
+      "action": "GPT-5.6의 기능과 가능성을 분석하고 이를 활용한 비즈니스 모델을 개발하기",
+      "priority": "high"
+    },
+    {
+      "insight": "정치 관련된 뉴스와 의견의 증가",
+      "action": "정치 관련된 뉴스와 의견을 분석하고 이를 활용한 마케팅 전략을 개발하기",
       "priority": "low"
     }
   ],
-  "narrative": "리센느의 데뷔와 인기, 정청래에 대한 지지와 비판, AI의 발전과 적용이 주요한 트렌드입니다. 리센느의 음악과 활동을 더 많이 홍보하고, 정청래의 정치적인 활동을 더 많이 분석할 필요가 있습니다. 또한, AI의 적용과 발전을 더 많이 연구하여 미래의 기술적인 발전을 예측할 수 있습니다.",
-  "analyzed_at": "2026-07-08T15:00:33.889Z",
+  "narrative": "리센느의 인기로 인한 음악 시장의 성장은 음악 산업의 트렌드를 분석하고 리센느의 인기로 인한 기회를 찾는 데 도움이 될 수 있다. GPT-5.6의 출시로 인한 AI 기술의 발전은 GPT-5.6의 기능과 가능성을 분석하고 이를 활용한 비즈니스 모델을 개발하는 데 도움이 될 수 있다. 정치 관련된 뉴스와 의견의 증가로 인한 마케팅 전략의 개발은 정치 관련된 뉴스와 의견을 분석하고 이를 활용한 마케팅 전략을 개발하는 데 도움이 될 수 있다.",
+  "analyzed_at": "2026-07-08T16:30:34.540Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
