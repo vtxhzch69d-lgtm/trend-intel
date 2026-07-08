@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "ChatGPT 및 AI 기술",
-      "summary": "ChatGPT의 차세대 음성모드 출시와 GPT-5.6의 사용평가가热議되고 있다. 사용자들은 새로운 기술의 가능성과 한계에 대해 논의하고 있다.",
+      "topic": "정치",
+      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많이 올라왔습니다. 특히 한동훈과 윤석열 관련 게시글이 많았습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "국내외 경제 및 금융 뉴스가 많은 관심을 받고 있다. 주담대, 미장, 국장 등 다양한 주제가 논의되고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "경제",
+      "summary": "경제 관련 게시글도 많이 올라왔습니다. 특히 IMF의 한국 성장률 전망과 한화의 KAI 지분 확보 관련 게시글이 많았습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스가 많은 관심을 받고 있다. 가짜뉴스법, 커뮤니티 규제 등 다양한 주제가 논의되고 있다.",
-      "post_count": 12,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술",
+      "summary": "기술 관련 게시글도 많이 올라왔습니다. 특히 구글의 픽셀 11 공개와 애플의 보급형 XR 디스플레이 개발 백지화 관련 게시글이 많았습니다.",
+      "post_count": 6,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "ChatGPT",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술 및 응용"
-    },
-    {
-      "keyword": "GPT-5.6",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술 및 응용"
-    },
-    {
-      "keyword": "주담대",
-      "count": 8,
+      "keyword": "한동훈",
+      "count": 5,
       "sentiment": "negative",
-      "context": "경제 및 금융"
+      "context": "한동훈 관련 게시글이 많이 올라왔습니다."
+    },
+    {
+      "keyword": "윤석열",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "윤석열 관련 게시글이 많이 올라왔습니다."
+    },
+    {
+      "keyword": "IMF",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "IMF의 한국 성장률 전망 관련 게시글이 많이 올라왔습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적이며 정보를 찾는 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 및 응용이 많은 관심을 받고 있다.",
-      "action": "AI 기술 및 응용 관련 제품 및 서비스 개발",
+      "insight": "정치 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "정치 관련 게시글을 더 많이 작성해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 뉴스가 많은 관심을 받고 있다.",
-      "action": "경제 및 금융 관련 정보 제공",
+      "insight": "경제 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "경제 관련 게시글을 더 많이 작성해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "기술 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "기술 관련 게시글을 더 많이 작성해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술 및 응용, 경제 및 금융, 정치 및 사회 관련 주제가 많은 관심을 받고 있다. 사용자들은 새로운 기술의 가능성과 한계에 대해 논의하고 있으며, 경제 및 금융 뉴스도 많은 관심을 받고 있다. 이러한 트렌드를 반영하여 AI 기술 및 응용 관련 제품 및 서비스 개발, 경제 및 금융 관련 정보 제공 등 다양한 비즈니스 전략을 수립할 수 있을 것이다.",
-  "analyzed_at": "2026-07-08T21:30:34.146Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많이 올라왔습니다. 특히 한동훈과 윤석열 관련 게시글이 많았습니다. 경제 관련 게시글도 많이 올라왔습니다. 특히 IMF의 한국 성장률 전망과 한화의 KAI 지분 확보 관련 게시글이 많았습니다. 기술 관련 게시글도 많이 올라왔습니다. 특히 구글의 픽셀 11 공개와 애플의 보급형 XR 디스플레이 개발 백지화 관련 게시글이 많았습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-08T23:00:34.172Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
