@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "리센느 원 관련 논란",
-      "summary": "리센느 원 관련 논란이 클리앙 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 이용자들은 리센느 원의 발언이 일베 용어를 사용했다는 의혹을 제기했다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식 시장과 외인 투자",
-      "summary": "클리앙 커뮤니티 이용자들은 주식 시장과 외인 투자에 대한 의견을 나누었다. 일부 이용자들은 외인 투자가 주식 시장에 미치는 영향에 대해 우려를 표했다.",
+      "topic": "리센느",
+      "summary": "리센느의 데뷔와 인기, 음악 활동에 대한 обсуждение",
       "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술 발전",
-      "summary": "클리앙 커뮤니티 이용자들은 AI와 기술 발전에 대한 의견을 나누었다. 일부 이용자들은 AI의 발전이 미래에 미칠 영향에 대해 우려를 표했다.",
-      "post_count": 12,
+      "topic": "정청래",
+      "summary": "정청래에 대한 지지와 비판, 정치적인 обсуждение",
+      "post_count": 3,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI의 발전과 적용, 기술적인 обсуждение",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "리센느 원",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "일베 용어 사용 의혹"
+      "keyword": "리센느",
+      "count": 11,
+      "sentiment": "positive",
+      "context": "리센느의 데뷔와 인기"
     },
     {
-      "keyword": "주식 시장",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "외인 투자 영향"
+      "keyword": "정청래",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "정청래에 대한 비판"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 7,
       "sentiment": "neutral",
-      "context": "기술 발전"
+      "context": "AI의 발전과 적용"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티 이용자들은 리센느 원 관련 논란에 대해 관심을 보이고 있다.",
-      "action": "리센느 원 관련 논란에 대한 대응 전략 수립",
+      "insight": "리센느의 인기",
+      "action": "리센느의 음악과 활동을 더 많이 홍보",
       "priority": "high"
     },
     {
-      "insight": "클리앙 커뮤니티 이용자들은 주식 시장과 외인 투자에 대해 우려를 표하고 있다.",
-      "action": "주식 시장과 외인 투자에 대한 정보 제공",
+      "insight": "정청래에 대한 비판",
+      "action": "정청래의 정치적인 활동을 더 많이 분석",
       "priority": "medium"
     },
     {
-      "insight": "클리앙 커뮤니티 이용자들은 AI와 기술 발전에 대해 관심을 보이고 있다.",
-      "action": "AI와 기술 발전에 대한 정보 제공",
+      "insight": "AI의 발전",
+      "action": "AI의 적용과 발전을 더 많이 연구",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티 이용자들은 리센느 원 관련 논란, 주식 시장과 외인 투자, AI와 기술 발전에 대해 의견을 나누고 있다. 리센느 원 관련 논란은 클리앙 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 이용자들은 리센느 원의 발언이 일베 용어를 사용했다는 의혹을 제기했다. 주식 시장과 외인 투자는 클리앙 커뮤니티 이용자들에게 중요한 관심사이다. 일부 이용자들은 외인 투자가 주식 시장에 미치는 영향에 대해 우려를 표했다. AI와 기술 발전은 클리앙 커뮤니티 이용자들에게 미래에 미칠 영향에 대해 우려를 표했다. 클리앙 커뮤니티 이용자들은 리센느 원 관련 논란에 대한 대응 전략 수립, 주식 시장과 외인 투자에 대한 정보 제공, AI와 기술 발전에 대한 정보 제공이 필요하다.",
-  "analyzed_at": "2026-07-08T13:30:34.708Z",
+  "narrative": "리센느의 데뷔와 인기, 정청래에 대한 지지와 비판, AI의 발전과 적용이 주요한 트렌드입니다. 리센느의 음악과 활동을 더 많이 홍보하고, 정청래의 정치적인 활동을 더 많이 분석할 필요가 있습니다. 또한, AI의 적용과 발전을 더 많이 연구하여 미래의 기술적인 발전을 예측할 수 있습니다.",
+  "analyzed_at": "2026-07-08T15:00:33.889Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
