@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. AI의 응용 분야와 미래의 발전 방향에 대한 관심이 높다.",
+      "topic": "주식 시장",
+      "summary": "레버리지와 주식 시장의 상황에 대한 논의가 활발합니다. 정부와 민주당의 정책에 대한 비판도 존재합니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제가 논의되고 있다. 주식 시장과 경제 동향에 대한 관심이 높다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "테크 및 IT",
+      "summary": "신기술과 제품에 대한 소식이 많습니다. 애플, 삼성, AI 등이 주요 키워드입니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제가 논의되고 있다. 정치 현안과 사회 문제에 대한 관심이 높다.",
-      "post_count": 12,
+      "topic": "정치",
+      "summary": "정치적인 상황과 정책에 대한 논의가 존재합니다. 민주당과 정부의 정책에 대한 비판도 존재합니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용"
-    },
-    {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "주식 시장과 경제 동향"
-    },
-    {
-      "keyword": "정치",
-      "count": 12,
+      "keyword": "레버리지",
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치 현안과 사회 문제"
+      "context": "주식 시장의 상황에 대한 논의"
+    },
+    {
+      "keyword": "애플",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "신제품과 기술에 대한 소식"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "신기술과 제품에 대한 소식"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
     "negative": 20,
     "neutral": 15,
-    "overall_mood": "중립적인 분위기이지만, 일부 주제에서는 부정적인 감정도 존재한다."
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용한 비즈니스 기회를 탐색한다.",
+      "insight": "주식 시장의 상황을 주시해야 합니다.",
+      "action": "주식 시장의 동향을 분석하고 투자 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제는 계속해서 관심을 끌 수 있다.",
-      "action": "경제 및 금융 관련 뉴스와 동향을 주시하고, 이를 활용한 마케팅 전략을 개발한다.",
+      "insight": "신기술과 제품에 대한 소식에 주목해야 합니다.",
+      "action": "신제품과 기술에 대한 소식을 분석하고 사업 기회를 찾야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술과 경제 및 금융 관련 주제가 주목을 끌고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 경제 및 금융 관련 주제는 계속해서 관심을 끌 수 있다. 이러한 트렌드를 주시하고, 이를 활용한 비즈니스 기회를 탐색하는 것이 중요하다. 또한, 정치 및 사회 관련 주제도 관심을 끌고 있으며, 이러한 주제에 대한 관심은 계속해서 유지될 수 있다.",
-  "analyzed_at": "2026-07-08T04:30:34.507Z",
+  "narrative": "현재의 트렌드는 주식 시장과 테크 및 IT 분야에 대한 관심이 높습니다. 레버리지와 주식 시장의 상황에 대한 논의가 활발하며, 정부와 민주당의 정책에 대한 비판도 존재합니다. 또한, 신기술과 제품에 대한 소식이 많으며, 애플, 삼성, AI 등이 주요 키워드입니다. 이러한 트렌드를 분석하여 사업 기회를 찾고 투자 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-08T06:01:30.194Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
