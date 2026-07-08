@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "일베어 사건",
-      "summary": "일베어 사건에 대한 논란과 논의",
-      "post_count": 5,
+      "topic": "리센느 원 관련 논란",
+      "summary": "리센느 원 관련 논란이 클리앙 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 이용자들은 리센느 원의 발언이 일베 용어를 사용했다는 의혹을 제기했다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "트럼프와 나토",
-      "summary": "트럼프의 나토 협박과 그린란드에 대한 주장",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "코스피 하락",
-      "summary": "코스피의 하락과 그에 따른 경제적 영향",
-      "post_count": 4,
-      "sentiment": "negative",
+      "topic": "주식 시장과 외인 투자",
+      "summary": "클리앙 커뮤니티 이용자들은 주식 시장과 외인 투자에 대한 의견을 나누었다. 일부 이용자들은 외인 투자가 주식 시장에 미치는 영향에 대해 우려를 표했다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "AI와 기술 발전",
+      "summary": "클리앙 커뮤니티 이용자들은 AI와 기술 발전에 대한 의견을 나누었다. 일부 이용자들은 AI의 발전이 미래에 미칠 영향에 대해 우려를 표했다.",
+      "post_count": 12,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일베어",
-      "count": 7,
+      "keyword": "리센느 원",
+      "count": 15,
       "sentiment": "negative",
-      "context": "일베어 사건에 대한 논란"
+      "context": "일베 용어 사용 의혹"
     },
     {
-      "keyword": "트럼프",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "트럼프의 나토 협박과 그린란드에 대한 주장"
+      "keyword": "주식 시장",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "외인 투자 영향"
     },
     {
-      "keyword": "코스피",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "코스피의 하락과 그에 따른 경제적 영향"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 25,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "일베어 사건의 논란이 커지고 있다",
-      "action": "관련 게시물의 모니터링 강화",
+      "insight": "클리앙 커뮤니티 이용자들은 리센느 원 관련 논란에 대해 관심을 보이고 있다.",
+      "action": "리센느 원 관련 논란에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "트럼프의 나토 협박이 경제적 영향을 미칠 수 있다",
-      "action": "경제적 영향에 대한 분석 및 대책 마련",
+      "insight": "클리앙 커뮤니티 이용자들은 주식 시장과 외인 투자에 대해 우려를 표하고 있다.",
+      "action": "주식 시장과 외인 투자에 대한 정보 제공",
       "priority": "medium"
     },
     {
-      "insight": "코스피의 하락이 지속되고 있다",
-      "action": "경제적 영향에 대한 분석 및 대책 마련",
-      "priority": "medium"
+      "insight": "클리앙 커뮤니티 이용자들은 AI와 기술 발전에 대해 관심을 보이고 있다.",
+      "action": "AI와 기술 발전에 대한 정보 제공",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드는 일베어 사건, 트럼프의 나토 협박, 코스피의 하락 등 부정적인 감정의 우세를 보이고 있다. 이러한 트렌드는 관련 게시물의 모니터링 강화, 경제적 영향에 대한 분석 및 대책 마련 등의 액션을 요구한다. 또한, 이러한 트렌드의 분석을 통해 경제적 및 사회적 영향을 예측하고 대응할 수 있다.",
-  "analyzed_at": "2026-07-08T12:00:35.047Z",
+  "narrative": "클리앙 커뮤니티 이용자들은 리센느 원 관련 논란, 주식 시장과 외인 투자, AI와 기술 발전에 대해 의견을 나누고 있다. 리센느 원 관련 논란은 클리앙 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 이용자들은 리센느 원의 발언이 일베 용어를 사용했다는 의혹을 제기했다. 주식 시장과 외인 투자는 클리앙 커뮤니티 이용자들에게 중요한 관심사이다. 일부 이용자들은 외인 투자가 주식 시장에 미치는 영향에 대해 우려를 표했다. AI와 기술 발전은 클리앙 커뮤니티 이용자들에게 미래에 미칠 영향에 대해 우려를 표했다. 클리앙 커뮤니티 이용자들은 리센느 원 관련 논란에 대한 대응 전략 수립, 주식 시장과 외인 투자에 대한 정보 제공, AI와 기술 발전에 대한 정보 제공이 필요하다.",
+  "analyzed_at": "2026-07-08T13:30:34.708Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
