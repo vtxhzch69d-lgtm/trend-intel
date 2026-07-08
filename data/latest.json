@@ -2,72 +2,67 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "주식 시장의 하락장과 투자 전략에 대한 논의",
-      "post_count": 15,
-      "sentiment": "negative",
+      "summary": "주식 시장의 변동성과 투자 전략에 대한 관심이 높다. 최근 주가의 급등과 급락으로 인해 투자자들의 관심이 집중되고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 경제",
-      "summary": "정치와 경제에 대한 논의, 특히 보완수사권 폐지와 경제정책",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견이 활발하게 논의되고 있다. 최근 정치 현안과 정치인들의 활동에 대한 관심이 높다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "최신 기술과 AI 개발에 대한 논의",
-      "post_count": 8,
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드에 대한 관심이 높다. 특히 AI와 반도체 관련 기술에 대한 논의가 활발하다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "주식 시장의 하락장"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "주식 시장의 변동성과 투자 전략"
     },
     {
-      "keyword": "보완수사권",
-      "count": 5,
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치와 경제에 대한 논의"
+      "context": "정치 관련 뉴스와 의견"
     },
     {
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술과 AI 개발"
+      "context": "최신 기술 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 20,
     "negative": 25,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 우세"
+    "neutral": 30,
+    "overall_mood": "중립적이고 혼재된 분위기"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 하락장에 대한 투자 전략",
-      "action": "투자 전략의 조정",
+      "insight": "주식 시장의 변동성과 투자 전략에 대한 관심이 높다.",
+      "action": "투자자들에게 주식 시장의 변동성과 투자 전략에 대한 정보를 제공한다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제에 대한 논의의 중요성",
-      "action": "정책과 경제에 대한 관심",
+      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높다.",
+      "action": "최신 기술 뉴스와 트렌드에 대한 정보를 제공한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술과 AI 개발의 기회",
-      "action": "최신 기술과 AI 개발에 대한 투자",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 하락장과 투자 전략에 대한 논의가 가장 많이 обсужд되고 있습니다. 또한 정치와 경제에 대한 논의, 특히 보완수사권 폐지와 경제정책이 중요한 주제로 등장하고 있습니다. 최신 기술과 AI 개발에 대한 논의도 긍정적인 감정으로 обсужд되고 있습니다. 이러한 트렌드 분석 결과를 통해, 투자 전략의 조정과 정책과 경제에 대한 관심, 최신 기술과 AI 개발에 대한 투자가 필요합니다.",
-  "analyzed_at": "2026-07-08T07:30:33.743Z",
-  "post_count": 62,
+  "narrative": "最近의 트렌드와 키워드를 분석한 결과, 주식 시장과 정치, 기술에 대한 관심이 높다. 주식 시장의 변동성과 투자 전략에 대한 관심은 투자자들에게 중요한 정보를 제공할 수 있다. 또한, 최신 기술 뉴스와 트렌드에 대한 관심은 기술 산업의 발전에 대한 기대감을 높일 수 있다. 이러한 트렌드와 키워드를 고려하여 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-07-08T09:00:34.575Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
