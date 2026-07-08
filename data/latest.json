@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "레버리지와 주식 시장의 상황에 대한 논의가 활발합니다. 정부와 민주당의 정책에 대한 비판도 존재합니다.",
+      "summary": "주식 시장의 하락장과 투자 전략에 대한 논의",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크 및 IT",
-      "summary": "신기술과 제품에 대한 소식이 많습니다. 애플, 삼성, AI 등이 주요 키워드입니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치 및 경제",
+      "summary": "정치와 경제에 대한 논의, 특히 보완수사권 폐지와 경제정책",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치적인 상황과 정책에 대한 논의가 존재합니다. 민주당과 정부의 정책에 대한 비판도 존재합니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "기술 및 AI",
+      "summary": "최신 기술과 AI 개발에 대한 논의",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "레버리지",
-      "count": 10,
+      "keyword": "주식",
+      "count": 20,
       "sentiment": "negative",
-      "context": "주식 시장의 상황에 대한 논의"
+      "context": "주식 시장의 하락장"
     },
     {
-      "keyword": "애플",
+      "keyword": "보완수사권",
       "count": 5,
-      "sentiment": "positive",
-      "context": "신제품과 기술에 대한 소식"
+      "sentiment": "negative",
+      "context": "정치와 경제에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 8,
       "sentiment": "positive",
-      "context": "신기술과 제품에 대한 소식"
+      "context": "최신 기술과 AI 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "positive": 15,
+    "negative": 25,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상황을 주시해야 합니다.",
-      "action": "주식 시장의 동향을 분석하고 투자 전략을 수립해야 합니다.",
+      "insight": "주식 시장의 하락장에 대한 투자 전략",
+      "action": "투자 전략의 조정",
       "priority": "high"
     },
     {
-      "insight": "신기술과 제품에 대한 소식에 주목해야 합니다.",
-      "action": "신제품과 기술에 대한 소식을 분석하고 사업 기회를 찾야 합니다.",
+      "insight": "정치와 경제에 대한 논의의 중요성",
+      "action": "정책과 경제에 대한 관심",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술과 AI 개발의 기회",
+      "action": "최신 기술과 AI 개발에 대한 투자",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 주식 시장과 테크 및 IT 분야에 대한 관심이 높습니다. 레버리지와 주식 시장의 상황에 대한 논의가 활발하며, 정부와 민주당의 정책에 대한 비판도 존재합니다. 또한, 신기술과 제품에 대한 소식이 많으며, 애플, 삼성, AI 등이 주요 키워드입니다. 이러한 트렌드를 분석하여 사업 기회를 찾고 투자 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-08T06:01:30.194Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 하락장과 투자 전략에 대한 논의가 가장 많이 обсужд되고 있습니다. 또한 정치와 경제에 대한 논의, 특히 보완수사권 폐지와 경제정책이 중요한 주제로 등장하고 있습니다. 최신 기술과 AI 개발에 대한 논의도 긍정적인 감정으로 обсужд되고 있습니다. 이러한 트렌드 분석 결과를 통해, 투자 전략의 조정과 정책과 경제에 대한 관심, 최신 기술과 AI 개발에 대한 투자가 필요합니다.",
+  "analyzed_at": "2026-07-08T07:30:33.743Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
