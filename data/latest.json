@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "월드컵 16강전 아르헨티나 vs 이집트 경기 결과와 메시의 활약이 화제가 되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "김민석",
+      "summary": "김민석의 최근 발언과 행동에 대한 논란",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 변화가 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "월드컵",
+      "summary": "월드컵 경기 결과와 분석",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "국내외 경제 및 정치 뉴스가 다양하게 обсужд되고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술 개발과 적용",
       "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "김민석",
       "count": 12,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 산업적 활용"
+      "sentiment": "negative",
+      "context": "김민석의 최근 발언과 행동에 대한 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "최신 AI 기술 개발과 적용"
     },
     {
       "keyword": "월드컵",
       "count": 5,
-      "sentiment": "positive",
-      "context": "월드컵 경기 결과와 선수들의 활약"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "국내외 경제 뉴스와 분석"
+      "sentiment": "neutral",
+      "context": "월드컵 경기 결과와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기이지만, 일부 긍정적이고 부정적인 반응도 존재합니다."
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "중립적인 분위기이지만, 김민석에 대한 부정적인 감정과 AI 기술에 대한 긍정적인 감정이 두드러짐"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
-      "action": "AI 기술의 발전을 주목하고, 이를 활용한 비즈니스 기회를 탐색하세요.",
+      "insight": "김민석의 발언과 행동에 대한 논란이 높아지고 있음",
+      "action": "김민석의 발언과 행동에 대한 모니터링 강화",
       "priority": "high"
     },
     {
-      "insight": "월드컵과 같은 대형 스포츠 이벤트는 마케팅 기회를 제공할 수 있습니다.",
-      "action": "월드컵과 같은 이벤트를 활용한 마케팅 전략을 수립하세요.",
+      "insight": "AI 기술 개발과 적용이 급속히 진행되고 있음",
+      "action": "AI 기술에 대한 투자와 연구 강화",
+      "priority": "high"
+    },
+    {
+      "insight": "월드컵 경기 결과와 분석에 대한 관심이 높아지고 있음",
+      "action": "월드컵 관련 콘텐츠 개발과 마케팅 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 월드컵 등의 대형 스포츠 이벤트를 중심으로 형성되고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것으로 예상되며, 이를 활용한 비즈니스 기회를 탐색하는 것이 중요합니다. 또한, 월드컵과 같은 이벤트는 마케팅 기회를 제공할 수 있으므로, 이를 활용한 마케팅 전략을 수립하는 것이 필요합니다. 경제 및 정치 뉴스도 다양하게 обсужд되고 있으므로, 이러한 트렌드에 주목하고, 이를 활용한 비즈니스 기회를 탐색하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-07T22:30:34.509Z",
+  "narrative": "최근 김민석의 발언과 행동에 대한 논란이 높아지고 있으며, AI 기술 개발과 적용이 급속히 진행되고 있습니다. 또한, 월드컵 경기 결과와 분석에 대한 관심이 높아지고 있습니다. 이러한 트렌드에 따라, 김민석의 발언과 행동에 대한 모니터링을 강화하고, AI 기술에 대한 투자와 연구를 강화하며, 월드컵 관련 콘텐츠 개발과 마케팅을 강화하는 것이 필요합니다. 이러한 전략을 통해, 최신 트렌드에 대응하고, 비즈니스 기회를 잡을 수 있을 것입니다.",
+  "analyzed_at": "2026-07-08T00:00:33.774Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
