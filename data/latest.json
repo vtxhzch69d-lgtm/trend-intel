@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 게시물이 많이 올라왔습니다. 이재명 대통령과 정부의 정책에 대한 논의가 많았습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "일베어 사건",
+      "summary": "일베어 사건에 대한 논란과 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 게시물이 많이 올라왔습니다. 주택 구입자금 대출 한도 축소와 부동산 거품 붕괴에 대한 논의가 많았습니다.",
-      "post_count": 10,
+      "topic": "트럼프와 나토",
+      "summary": "트럼프의 나토 협박과 그린란드에 대한 주장",
+      "post_count": 3,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 게시물이 많이 올라왔습니다. AI와 관련된 뉴스와 제품에 대한 논의가 많았습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "코스피 하락",
+      "summary": "코스피의 하락과 그에 따른 경제적 영향",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "대통령과 정부의 정책에 대한 논의"
-    },
-    {
-      "keyword": "부동산",
-      "count": 8,
+      "keyword": "일베어",
+      "count": 7,
       "sentiment": "negative",
-      "context": "부동산 거품 붕괴와 주택 구입자금 대출 한도 축소"
+      "context": "일베어 사건에 대한 논란"
     },
     {
-      "keyword": "AI",
+      "keyword": "트럼프",
       "count": 5,
-      "sentiment": "positive",
-      "context": "AI와 관련된 뉴스와 제품"
+      "sentiment": "negative",
+      "context": "트럼프의 나토 협박과 그린란드에 대한 주장"
+    },
+    {
+      "keyword": "코스피",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "코스피의 하락과 그에 따른 경제적 영향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 5,
+    "negative": 25,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌어야 합니다.",
+      "insight": "일베어 사건의 논란이 커지고 있다",
+      "action": "관련 게시물의 모니터링 강화",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 제품과 서비스를 개발하여 시장에 출시해야 합니다.",
+      "insight": "트럼프의 나토 협박이 경제적 영향을 미칠 수 있다",
+      "action": "경제적 영향에 대한 분석 및 대책 마련",
+      "priority": "medium"
+    },
+    {
+      "insight": "코스피의 하락이 지속되고 있다",
+      "action": "경제적 영향에 대한 분석 및 대책 마련",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치와 경제에 대한 관심이 높아지고 있습니다. 사용자는 정부의 정책과 부동산 거품 붕괴에 대한 논의에 관심을 가지고 있습니다. 또한 AI와 관련된 기술에 대한 관심도 높아지고 있습니다. 이러한 관심을 반영하여 관련된 뉴스와 정보를 제공하고, 관련된 제품과 서비스를 개발하여 시장에 출시해야 합니다. 이를 통해 사용자의 관심을 끌어들이고, 시장의 트렌드를 선도할 수 있습니다.",
-  "analyzed_at": "2026-07-08T10:30:33.688Z",
+  "narrative": "最近의 트렌드는 일베어 사건, 트럼프의 나토 협박, 코스피의 하락 등 부정적인 감정의 우세를 보이고 있다. 이러한 트렌드는 관련 게시물의 모니터링 강화, 경제적 영향에 대한 분석 및 대책 마련 등의 액션을 요구한다. 또한, 이러한 트렌드의 분석을 통해 경제적 및 사회적 영향을 예측하고 대응할 수 있다.",
+  "analyzed_at": "2026-07-08T12:00:35.047Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
