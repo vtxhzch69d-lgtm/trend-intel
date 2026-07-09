@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 특히, GPT-5.6 sol의 출시와 관련된 글들이 많은 관심을 받고 있습니다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 클로드 초기화와 GPT-5.6 sol 출시 등이 포함된다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련된 주제가 논의되고 있습니다. 특히, 보완수사권과 관련된 글들이 많은 관심을 받고 있습니다.",
+      "summary": "정치 관련 주제가 논의되고 있다. 보완수사권과 검찰 개혁 등이 포함된다.",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 관련된 주제가 논의되고 있습니다. 특히, 삼성전자와 애플의 최신 기술과 관련된 글들이 많은 관심을 받고 있습니다.",
+      "topic": "기술 산업",
+      "summary": "기술 산업 관련 주제가 논의되고 있다. 삼성전자와 애플의 경쟁 등이 포함된다.",
       "post_count": 12,
       "sentiment": "neutral",
       "urgency": "low"
@@ -27,46 +27,46 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 글들에서 많이 사용되고 있습니다."
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "보완수사권",
+      "keyword": "검찰",
       "count": 10,
       "sentiment": "negative",
-      "context": "정치 관련된 글들에서 많이 사용되고 있습니다."
+      "context": "검찰 개혁"
     },
     {
       "keyword": "삼성전자",
       "count": 8,
       "sentiment": "neutral",
-      "context": "기술 뉴스와 관련된 글들에서 많이 사용되고 있습니다."
+      "context": "기술 산업"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 20,
     "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 기업의 경쟁력에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술을 도입하고 연구 개발에 투자해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치적인 안정성이 경제에 영향을 미칠 수 있습니다.",
-      "action": "정치적인 안정성을 유지하기 위해 노력해야 합니다.",
+      "insight": "검찰 개혁",
+      "action": "검찰 개혁의 영향 분석",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술 뉴스를 따라가야 합니다.",
-      "action": "최신 기술 뉴스를 모니터링하고 연구 개발에 투자해야 합니다.",
+      "insight": "기술 산업의 경쟁",
+      "action": "기술 산업의 동향 분석",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 많은 관심을 받고 있습니다. 특히, GPT-5.6 sol의 출시와 관련된 글들이 많은 관심을 받고 있습니다. 또한, 정치 관련된 주제도 논의되고 있습니다. 특히, 보완수사권과 관련된 글들이 많은 관심을 받고 있습니다. 기술 뉴스와 관련된 주제도 논의되고 있습니다. 특히, 삼성전자와 애플의 최신 기술과 관련된 글들이 많은 관심을 받고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업은 AI 기술의 발전과 정치적인 안정성을 유지하기 위해 노력해야 합니다. 또한, 최신 기술 뉴스를 따라가야 합니다.",
-  "analyzed_at": "2026-07-09T19:30:34.231Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있다. 클로드 초기화와 GPT-5.6 sol 출시 등이 포함된다. 또한, 정치 관련 주제도 논의되고 있다. 보완수사권과 검찰 개혁 등이 포함된다. 기술 산업 관련 주제도 논의되고 있다. 삼성전자와 애플의 경쟁 등이 포함된다. 이러한 트렌드들은 비즈니스 모델 개발과 시장 분석에 활용될 수 있다.",
+  "analyzed_at": "2026-07-09T21:00:34.563Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
