@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "트럼프와 윤석열의 최근 소식이 화제입니다. 트럼프는 이란과의 협상을 원하고, 윤석열은 대법원 판결을 받았습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "경제 및 금융",
+      "summary": "단일종목 레버리지, 주가상승, 투자자 책임 등 경제 및 금융 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "레버리지와 주식에 대한 논의가 활발합니다. 레버리지 규제와 주식 시장의 동향이 관심을 끌고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "정치 및 사회",
+      "summary": "윤석열, 김민석, 선거 등 정치 및 사회 관련 주제가 많은 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 기술 관련 뉴스가 많이 등장하고 있습니다. AI의 발전과 기술 компании의 동향이 관심을 끌고 있습니다.",
-      "post_count": 20,
+      "topic": "기술 및 산업",
+      "summary": "삼성전자, LG전자, 애플 등 기술 및 산업 관련 주제가 많은 관심을 받고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,52 +27,41 @@
       "keyword": "윤석열",
       "count": 5,
       "sentiment": "negative",
-      "context": "대법원 판결 관련"
+      "context": "정치 및 사회 관련 주제"
     },
     {
-      "keyword": "트럼프",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "이란과의 협상 관련"
-    },
-    {
-      "keyword": "레버리지",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "주식 시장 관련"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
+      "keyword": "삼성전자",
+      "count": 4,
       "sentiment": "positive",
-      "context": "기술 발전 관련"
+      "context": "기술 및 산업 관련 주제"
+    },
+    {
+      "keyword": "주가상승",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "경제 및 금융 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
+    "positive": 20,
+    "negative": 30,
     "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "레버리지 규제에 대한 관심이 높아지고 있습니다.",
-      "action": "관련 정책과 시장 동향을 주시하여投資 전략을 수립해야 합니다.",
+      "insight": "경제 및 금융 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 가속화되고 있습니다.",
-      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 합니다.",
+      "insight": "기술 및 산업 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적 불안정성이 경제에 미치는 영향이 있습니다.",
-      "action": "정치적 상황을 주시하여 경제적 위험을 관리해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 경제, 기술 분야에서 다양한 소식이出现하고 있습니다. 정치 분야에서는 트럼프와 윤석열의 최근 소식이 화제입니다. 경제 분야에서는 레버리지와 주식에 대한 논의가 활발합니다. 기술 분야에서는 AI와 기술 公司의 동향이 관심을 끌고 있습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-09T05:30:34.193Z",
+  "narrative": "현재의 트렌드는 경제 및 금융, 정치 및 사회, 기술 및 산업 관련 주제가 많은 관심을 받고 있습니다. 이러한 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한, 키워드 분석을 통해 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 전체적으로 중립적인 분위기이지만, 경제 및 금융 관련 주제에 대한 부정적인 감정이 많습니다.",
+  "analyzed_at": "2026-07-09T07:01:32.768Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
