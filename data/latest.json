@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "보완수사권",
-      "summary": "검찰의 수사권 남용에 대한 대비책으로 보완수사권 폐지가 논의되고 있습니다. 그러나 일부에서는 보완수사권이 필요하다고 주장합니다.",
+      "summary": "검찰의 보완수사권에 대한 논의가 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자는 보완수사권의 필요성을 강조하며, 다른 사용자는 이를 폐지해야 한다고 주장합니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "삼성전자",
-      "summary": "삼성전자가 갤럭시 S26 생산 계획을 50% 상향 조정하였으며, 애플페이 기반의 해외결제 서비스를 제공하고 있습니다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 обсужд되고 있습니다. GPT-5.6의 출시와 클라우드 리셋 등이 주요 관심사입니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술이 다양한 분야에서 적용되고 있으며, 엣지 AI 스마트워치의 출하량이 70% 증가하였습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "정치",
+      "summary": "정치 관련 주제가 다수 обсужд되고 있습니다. 대통령의 몽골 방문과 관련된 뉴스, 그리고 검찰 개혁 등이 주요 관심사입니다.",
+      "post_count": 12,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "보완수사권",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "검찰의 수사권 남용에 대한 대비책"
+      "count": 20,
+      "sentiment": "negative",
+      "context": "검찰의 보완수사권에 대한 논의"
     },
     {
-      "keyword": "삼성전자",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "갤럭시 S26 생산 계획 상향 조정"
-    },
-    {
-      "keyword": "AI 기술",
+      "keyword": "GPT-5.6",
       "count": 8,
       "sentiment": "positive",
-      "context": "엣지 AI 스마트워치 출하량 증가"
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "몽골",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "대통령의 몽골 방문"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 20,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "보완수사권 폐지에 대한 논의가 진행 중",
-      "action": "관련 법안에 대한 관심을 높이고, 법적 대응을 준비",
+      "insight": "검찰의 보완수사권에 대한 논의는 계속될 것입니다.",
+      "action": "관련 뉴스와 논의를 지속적으로 모니터링하세요.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 갤럭시 S26 생산 계획 상향 조정",
-      "action": "삼성전자 주식에 대한 투자 관심을 높이고, 관련 산업에 대한 분석을 수행",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 다양한 분야에서의 적용",
-      "action": "AI 기술에 대한 연구와 개발을 강화하고, 관련 산업에 대한 투자를 고려",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술의 최신 동향을 연구하고, 이를 비즈니스에 적용하는 방법을 고려하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 보완수사권 폐지에 대한 논의가 진행 중이며, 삼성전자의 갤럭시 S26 생산 계획 상향 조정과 AI 기술의 다양한 분야에서의 적용이 주목을 끌고 있습니다. 이러한 트렌드는 법적, 경제적, 기술적인 측면에서 다양한 영향을 미칠 수 있으며, 관련 산업과 기업에 대한 분석과 투자가 필요합니다. 또한, 보완수사권 폐지에 대한 논의는 법적 대응을 준비해야 하며, 삼성전자와 AI 기술에 대한 투자는 관련 산업의 성장과 발전에 기여할 수 있습니다.",
-  "analyzed_at": "2026-07-09T16:30:34.416Z",
+  "narrative": "커뮤니티에서는 검찰의 보완수사권에 대한 논의와 AI 기술의 발전이 주요 관심사입니다. 이러한 주제는 계속해서 논의될 것입니다. 또한, 대통령의 몽골 방문과 관련된 뉴스도 주목할 만합니다. 이러한 트렌드를 분석하여, 비즈니스에 적용할 수 있는 인사이트를 얻으세요.",
+  "analyzed_at": "2026-07-09T18:00:34.615Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
