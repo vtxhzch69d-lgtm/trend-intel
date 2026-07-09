@@ -1,67 +1,60 @@
 {
   "trending_topics": [
     {
-      "topic": "보완수사권",
-      "summary": "보완수사권 폐지와 관련된 논의가 활발하게 진행되고 있습니다. 일부 의원들은 보완수사권 폐지에 반대하는 입장을 나타내고 있습니다.",
+      "topic": "보완수사권 폐지",
+      "summary": "클리앙 커뮤니티에서 보완수사권 폐지 관련 게시글이 많이 올라왔습니다. 사용자들은 보완수사권 폐지의 필요성과 부작용에 대해 논의하고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 발전",
-      "summary": "최신 기술 발전과 관련된 뉴스가 많습니다. AI, 로봇, 전기 자동차 등 다양한 분야에서 발전이 이루어지고 있습니다.",
+      "topic": "경제 및 금융",
+      "summary": "클리앙 커뮤니티에서 경제 및 금융 관련 게시글이 많이 올라왔습니다. 사용자들은 코스피 조정, 국민연금 리밸런싱 실패, 반도체 거품 논란 등에 대해 논의하고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치와 관련된 뉴스가 많습니다. 의원들의 발언과 행동이 논란이 되고 있습니다.",
-      "post_count": 8,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "보완수사권",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "보완수사권 폐지와 관련된 논의"
+      "count": 20,
+      "sentiment": "negative",
+      "context": "보완수사권 폐지 관련 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 기술 발전"
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "경제 및 금융 관련 게시글에서 많이 언급되었습니다."
     },
     {
-      "keyword": "로봇",
+      "keyword": "반도체",
       "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 발전"
+      "sentiment": "neutral",
+      "context": "반도체 관련 게시글에서 언급되었습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 10,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정으로 가득 찬 마케팅 환경"
   },
   "business_insights": [
     {
-      "insight": "보완수사권 폐지와 관련된 논의가 활발하게 진행되고 있습니다.",
-      "action": "관련 뉴스를 지속적으로 모니터링하고 있습니다.",
+      "insight": "보완수사권 폐지 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "관련 정책 및 법안에 대한 정보를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 발전과 관련된 뉴스가 많습니다.",
-      "action": "최신 기술 동향을 분석하고 있습니다.",
+      "insight": "경제 및 금융 관련 게시글이 많이 올라오고 있습니다.",
+      "action": "관련 뉴스 및 정보를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 온라인 커뮤니티에서는 보완수사권 폐지와 관련된 논의가 활발하게 진행되고 있습니다. 일부 의원들은 보완수사권 폐지에 반대하는 입장을 나타내고 있습니다. 또한, 최신 기술 발전과 관련된 뉴스가 많습니다. AI, 로봇, 전기 자동차 등 다양한 분야에서 발전이 이루어지고 있습니다. 이러한 동향을 분석하여 최신 기술 동향을 파악하고 있습니다. 또한, 관련 뉴스를 지속적으로 모니터링하고 있습니다.",
-  "analyzed_at": "2026-07-09T12:00:35.506Z",
+  "narrative": "클리앙 커뮤니티에서 보완수사권 폐지 및 경제 및 금융 관련 게시글이 많이 올라왔습니다. 사용자들은 이러한 주제에 대해 논의하고 관심을 보이고 있습니다. 마케터들은 이러한 관심을 이용하여 관련 정책 및 법안에 대한 정보를 제공하거나 경제 및 금융 관련 뉴스 및 정보를 제공할 수 있습니다. 또한, 반도체 관련 게시글도 언급되었습니다. 마케터들은 이러한 관심을 이용하여 관련 제품이나 서비스를 홍보할 수 있습니다.",
+  "analyzed_at": "2026-07-09T13:30:34.094Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
