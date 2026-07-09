@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "보완수사권 폐지",
-      "summary": "민주당이 보완수사권 폐지 방침을 유지하고 있으며, 관련 법안이 발의될 예정입니다. 이에 대한 논의와 토론이 클리앙 커뮤니티에서 활발히 진행되고 있습니다.",
+      "summary": "보완수사권 폐지에 대한 우려와 반대 의견이 커뮤니티에서 논의되고 있습니다. 일부 사용자는 정권 연장을 위해 폐지해야 한다고 주장합니다.",
       "post_count": 5,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 발전",
-      "summary": "AI 기술이 빠르게 발전하고 있으며, 관련 뉴스와 정보가 클리앙 커뮤니티에서 많이 공유되고 있습니다. 특히, AI 모델의 발전과 그에 따른 산업의 변화에 대한 관심이 높습니다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상황과 레버리지 허가에 대한 논의가 활발합니다. 일부 사용자는 주식 시장의 불안정성과 레버리지의 위험성에 대해 우려를 표합니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 재정",
-      "summary": "경제와 재정에 대한 논의가 클리앙 커뮤니티에서 진행되고 있으며, 특히 추가세수 특별법과 국가재정법 회피 조항에 대한 관심이 높습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련 뉴스와 논의가 커뮤니티에서 이루어지고 있습니다. 일부 사용자는 AI의 발전과 기술의 진보에 대해 관심을 보입니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "보완수사권",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "민주당의 보완수사권 폐지 방침에 대한 논의"
+      "sentiment": "negative",
+      "context": "보완수사권 폐지에 대한 우려와 반대 의견"
+    },
+    {
+      "keyword": "주식",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "주식 시장의 상황과 레버리지 허가에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업의 변화"
-    },
-    {
-      "keyword": "경제",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "추가세수 특별법과 국가재정법 회피 조항에 대한 논의"
+      "context": "AI와 기술 관련 뉴스와 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정이 조금 더 강한 중립적인 분위기"
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 산업의 변화를 준비해야 합니다.",
+      "insight": "보완수사권 폐지에 대한 우려와 반대 의견",
+      "action": "정책과 법률 관련 뉴스와 논의에 주목",
       "priority": "high"
     },
     {
-      "insight": "경제와 재정에 대한 논의는 중요합니다.",
-      "action": "경제와 재정에 대한 정보를 주시하고, 관련 정책에 대한 의견을 제시해야 합니다.",
+      "insight": "주식 시장의 불안정성과 레버리지의 위험성",
+      "action": "주식 시장과 금융 관련 뉴스에 주목",
       "priority": "medium"
+    },
+    {
+      "insight": "AI와 기술의 발전",
+      "action": "AI와 기술 관련 뉴스와 논의에 주목",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 보완수사권 폐지, AI 기술 발전, 경제 및 재정에 대한 논의가 활발히 진행되고 있습니다. 특히, 보완수사권 폐지와 관련된 법안이 발의될 예정이며, AI 기술의 발전은 산업의 변화를 가져올 수 있습니다. 또한, 경제와 재정에 대한 논의는 중요하며, 관련 정책에 대한 의견을 제시해야 합니다. 이러한 논의와 정보는 클리앙 커뮤니티에서 주시하고, 산업의 변화를 준비해야 합니다.",
-  "analyzed_at": "2026-07-09T02:30:34.146Z",
+  "narrative": "커뮤니티에서는 보완수사권 폐지와 주식 시장의 상황에 대한 논의가 활발합니다. 일부 사용자는 보완수사권 폐지에 대한 우려와 반대 의견을 표합니다. 또한 주식 시장의 불안정성과 레버리지의 위험성에 대해 우려를 표합니다. 반면 AI와 기술 관련 뉴스와 논의도 이루어지고 있습니다. 이러한 논의는 정책과 법률, 금융, 기술 등 다양한 분야에 걸쳐 있습니다. 따라서 이러한 주제에 대한 뉴스와 논의에 주목하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-09T04:01:26.905Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
