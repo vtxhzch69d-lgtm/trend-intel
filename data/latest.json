@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많이 올라왔습니다. 특히 한동훈과 윤석열 관련 게시글이 많았습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용 사례",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 게시글도 많이 올라왔습니다. 특히 IMF의 한국 성장률 전망과 한화의 KAI 지분 확보 관련 게시글이 많았습니다.",
-      "post_count": 8,
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 뉴스와 분석",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 게시글도 많이 올라왔습니다. 특히 구글의 픽셀 11 공개와 애플의 보급형 XR 디스플레이 개발 백지화 관련 게시글이 많았습니다.",
-      "post_count": 6,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 뉴스와 논평",
+      "post_count": 12,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "한동훈",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "한동훈 관련 게시글이 많이 올라왔습니다."
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "윤석열",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "윤석열 관련 게시글이 많이 올라왔습니다."
-    },
-    {
-      "keyword": "IMF",
-      "count": 3,
+      "keyword": "경제",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "IMF의 한국 성장률 전망 관련 게시글이 많이 올라왔습니다."
+      "context": "경제 뉴스와 분석"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 뉴스와 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 30,
     "negative": 20,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 게시글이 많이 올라오고 있습니다.",
-      "action": "정치 관련 게시글을 더 많이 작성해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능하다",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 게시글이 많이 올라오고 있습니다.",
-      "action": "경제 관련 게시글을 더 많이 작성해야 합니다.",
+      "insight": "경제 및 금융 뉴스는 시장 동향을 파악하는 데 중요하다",
+      "action": "경제 및 금융 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "기술 관련 게시글이 많이 올라오고 있습니다.",
-      "action": "기술 관련 게시글을 더 많이 작성해야 합니다.",
+      "insight": "사회 및 정치 뉴스는 기업의 사회적 책임을 강화하는 데 중요하다",
+      "action": "사회적 책임 활동 강화",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많이 올라왔습니다. 특히 한동훈과 윤석열 관련 게시글이 많았습니다. 경제 관련 게시글도 많이 올라왔습니다. 특히 IMF의 한국 성장률 전망과 한화의 KAI 지분 확보 관련 게시글이 많았습니다. 기술 관련 게시글도 많이 올라왔습니다. 특히 구글의 픽셀 11 공개와 애플의 보급형 XR 디스플레이 개발 백지화 관련 게시글이 많았습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-07-08T23:00:34.172Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, AI 기술의 발전과 적용 사례가 주목을 받고 있다. 또한, 경제 및 금융 뉴스와 분석이 중립적인 시각에서 다루어지고 있다. 그러나, 사회 및 정치 뉴스와 논평은 다양한 의견과 감정이 존재한다. 이러한 트렌드를 고려하여, 기업은 AI 기술을 활용한 비즈니스 모델 개발과 경제 및 금융 뉴스 모니터링에 주목해야 한다. 또한, 사회적 책임 활동을 강화하여 기업의 이미지를 향상시킬 수 있다.",
+  "analyzed_at": "2026-07-09T01:00:33.626Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
