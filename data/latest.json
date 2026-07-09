@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. 클로드 초기화와 GPT-5.6 sol 출시 등이 포함된다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "보완수사권",
+      "summary": "국민을 위해서라면 사기, 폭력, 살인 이런 사건 보완수사권만 주면 됩니다. 보완수사권 작업 들어오네요.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 주제가 논의되고 있다. 보완수사권과 검찰 개혁 등이 포함된다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "클로드 초기화에 대한 OpenAI 직원의 직접적인 반응. AI 시대의 불편한 진실: 남은 6시간은 누구의 것인가",
+      "post_count": 7,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술 산업",
-      "summary": "기술 산업 관련 주제가 논의되고 있다. 삼성전자와 애플의 경쟁 등이 포함된다.",
-      "post_count": 12,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "이 대통령 “한국선 몽골이 ‘몽탄’으로 불려…핵심광물 공급 힘 합치자”. 이재명 대통령은 늘 보완수사권이 필요하다 했습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "검찰",
+      "keyword": "보완수사권",
       "count": 10,
-      "sentiment": "negative",
-      "context": "검찰 개혁"
+      "sentiment": "mixed",
+      "context": "국민을 위해서라면 사기, 폭력, 살인 이런 사건 보완수사권만 주면 됩니다."
     },
     {
-      "keyword": "삼성전자",
-      "count": 8,
+      "keyword": "AI",
+      "count": 12,
       "sentiment": "neutral",
-      "context": "기술 산업"
+      "context": "클로드 초기화에 대한 OpenAI 직원의 직접적인 반응"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "이재명 대통령은 늘 보완수사권이 필요하다 했습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "보완수사권은 정치적인 이슈로 나타나고 있습니다.",
+      "action": "정치적인 이슈에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "검찰 개혁",
-      "action": "검찰 개혁의 영향 분석",
+      "insight": "AI 기술은 다양한 분야에서 적용되고 있습니다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "기술 산업의 경쟁",
-      "action": "기술 산업의 동향 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있다. 클로드 초기화와 GPT-5.6 sol 출시 등이 포함된다. 또한, 정치 관련 주제도 논의되고 있다. 보완수사권과 검찰 개혁 등이 포함된다. 기술 산업 관련 주제도 논의되고 있다. 삼성전자와 애플의 경쟁 등이 포함된다. 이러한 트렌드들은 비즈니스 모델 개발과 시장 분석에 활용될 수 있다.",
-  "analyzed_at": "2026-07-09T21:00:34.563Z",
+  "narrative": "최근의 트렌드는 보완수사권, AI 기술, 정치 등이 나타나고 있습니다. 보완수사권은 정치적인 이슈로 나타나고 있으며, AI 기술은 다양한 분야에서 적용되고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 발굴하고, 정치적인 이슈에 대한 대응 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-09T22:30:34.278Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
