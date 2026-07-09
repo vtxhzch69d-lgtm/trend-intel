@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "사관학교 폐지, 경찰대 폐지, 보완수사권 폐지 등 정치 관련 주제가 논란이 되고 있습니다.",
+      "topic": "보완수사권",
+      "summary": "보완수사권 폐지와 관련된 논의가 활발하게 진행되고 있습니다. 일부 의원들은 보완수사권 폐지에 반대하는 입장을 나타내고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "삼성전자, LG전자, 애플 등 기술 관련 뉴스가 많이 обсужд되고 있습니다.",
+      "topic": "기술 발전",
+      "summary": "최신 기술 발전과 관련된 뉴스가 많습니다. AI, 로봇, 전기 자동차 등 다양한 분야에서 발전이 이루어지고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 주식 시장 동향이 обсужд되고 있습니다.",
+      "topic": "정치",
+      "summary": "정치와 관련된 뉴스가 많습니다. 의원들의 발언과 행동이 논란이 되고 있습니다.",
       "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 논란"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "기술 관련 뉴스"
-    },
-    {
       "keyword": "보완수사권",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "정치 관련 논란"
+      "count": 12,
+      "sentiment": "mixed",
+      "context": "보완수사권 폐지와 관련된 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 발전"
+    },
+    {
+      "keyword": "로봇",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 논란이 많은 것으로 보아 정치 관련 마케팅을 주의해야 합니다.",
-      "action": "정치 관련 마케팅을 피하는 것",
+      "insight": "보완수사권 폐지와 관련된 논의가 활발하게 진행되고 있습니다.",
+      "action": "관련 뉴스를 지속적으로 모니터링하고 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 뉴스가 많이 обсужд되고 있으므로 기술 관련 마케팅을 강화할 수 있습니다.",
-      "action": "기술 관련 마케팅을 강화하는 것",
+      "insight": "최신 기술 발전과 관련된 뉴스가 많습니다.",
+      "action": "최신 기술 동향을 분석하고 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 관련 논란과 기술 관련 뉴스가 많이 обсужд되고 있습니다. 정치 관련 마케팅을 주의하고 기술 관련 마케팅을 강화할 수 있습니다. 또한, 경제 관련 뉴스와 주식 시장 동향도 주목할 필요가 있습니다. 전체적으로 중립적이지만 약간 부정적인 분위기입니다.",
-  "analyzed_at": "2026-07-09T10:30:34.073Z",
+  "narrative": "현재 온라인 커뮤니티에서는 보완수사권 폐지와 관련된 논의가 활발하게 진행되고 있습니다. 일부 의원들은 보완수사권 폐지에 반대하는 입장을 나타내고 있습니다. 또한, 최신 기술 발전과 관련된 뉴스가 많습니다. AI, 로봇, 전기 자동차 등 다양한 분야에서 발전이 이루어지고 있습니다. 이러한 동향을 분석하여 최신 기술 동향을 파악하고 있습니다. 또한, 관련 뉴스를 지속적으로 모니터링하고 있습니다.",
+  "analyzed_at": "2026-07-09T12:00:35.506Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
