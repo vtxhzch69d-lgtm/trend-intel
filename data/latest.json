@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "보완수사권",
-      "summary": "국민을 위해서라면 사기, 폭력, 살인 이런 사건 보완수사권만 주면 됩니다. 보완수사권 작업 들어오네요.",
-      "post_count": 5,
+      "topic": "정치 및 사회",
+      "summary": "보완수사권 폐지, 계엄 선포, 정치인들의 발언 등 정치 및 사회 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "클로드 초기화에 대한 OpenAI 직원의 직접적인 반응. AI 시대의 불편한 진실: 남은 6시간은 누구의 것인가",
-      "post_count": 7,
-      "sentiment": "neutral",
+      "topic": "기술 및 산업",
+      "summary": "AI, 반도체, 메모리 가격 상승 등 기술 및 산업 관련 주제가 많은 관심을 받고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "이 대통령 “한국선 몽골이 ‘몽탄’으로 불려…핵심광물 공급 힘 합치자”. 이재명 대통령은 늘 보완수사권이 필요하다 했습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "경제 및 금융",
+      "summary": "삼성전자, SK하이닉스, 현대카드 등 경제 및 금융 관련 주제가 많은 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "보완수사권",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "국민을 위해서라면 사기, 폭력, 살인 이런 사건 보완수사권만 주면 됩니다."
+      "sentiment": "negative",
+      "context": "보완수사권 폐지에 대한 논란"
     },
     {
       "keyword": "AI",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "클로드 초기화에 대한 OpenAI 직원의 직접적인 반응"
+      "count": 8,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 ứng dụng"
     },
     {
-      "keyword": "이재명",
+      "keyword": "삼성전자",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "이재명 대통령은 늘 보완수사권이 필요하다 했습니다."
+      "sentiment": "positive",
+      "context": "삼성전자의 사업 확대와 성과"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "보완수사권은 정치적인 이슈로 나타나고 있습니다.",
-      "action": "정치적인 이슈에 대한 대응 전략 수립",
+      "insight": "기술 및 산업 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "기술 및 산업 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 분야에서 적용되고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "경제 및 금융 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "경제 및 금융 관련 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 보완수사권, AI 기술, 정치 등이 나타나고 있습니다. 보완수사권은 정치적인 이슈로 나타나고 있으며, AI 기술은 다양한 분야에서 적용되고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 기회를 발굴하고, 정치적인 이슈에 대한 대응 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-09T22:30:34.278Z",
+  "narrative": "현재의 트렌드는 정치 및 사회, 기술 및 산업, 경제 및 금융 관련 주제가 많은 관심을 받고 있습니다. 보완수사권 폐지, 계엄 선포, 정치인들의 발언 등 정치 및 사회 관련 주제는 많은 논란을 불러일으키고 있습니다. 기술 및 산업 관련 주제는 AI, 반도체, 메모리 가격 상승 등이 많은 관심을 받고 있습니다. 경제 및 금융 관련 주제는 삼성전자, SK하이닉스, 현대카드 등이 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-07-10T00:01:33.582Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
