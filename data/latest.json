@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "검찰 개혁",
-      "summary": "검찰의 권한과 책임에 대한 논의",
+      "topic": "정치",
+      "summary": "이재명 대통령과 더불어민주당의 당대표 선출에 대한 논의가 활발합니다. 또한, 검찰 개혁과 보완수사권에 대한 논의도 진행 중입니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "보완수사권 폐지",
-      "summary": "검찰의 수사권한에 대한 논의",
-      "post_count": 8,
+      "topic": "부동산",
+      "summary": "서울 부동산 시장의 상황과 정부의 부동산 정책에 대한 논의가 진행 중입니다.",
+      "post_count": 5,
       "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "삼성전자",
-      "summary": "삼성전자의 사업과 기술에 대한 논의",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드에 대한 논의가 진행 중입니다. 삼성전자와 애플의 최신 제품과 기술에 대한 소식이 포함되어 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "검찰",
-      "count": 20,
+      "keyword": "이재명",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치와 관련된 논의에서 자주 언급됩니다."
+    },
+    {
+      "keyword": "부동산",
+      "count": 8,
       "sentiment": "negative",
-      "context": "검찰의 권한과 책임에 대한 논의"
+      "context": "서울 부동산 시장의 상황과 정부의 부동산 정책에 대한 논의에서 자주 언급됩니다."
     },
     {
       "keyword": "삼성전자",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "삼성전자의 사업과 기술에 대한 논의"
-    },
-    {
-      "keyword": "보완수사권",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "검찰의 수사권한에 대한 논의"
+      "context": "최신 기술 뉴스와 트렌드에 대한 논의에서 자주 언급됩니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "검찰 개혁은 사회적 논의의 중심에 있다",
-      "action": "관련 정책과 법안을 주시한다",
+      "insight": "정치와 관련된 논의가 활발한 것으로 보아, 정치 관련된 비즈니스 기회가 있을 수 있습니다.",
+      "action": "정치 관련된 비즈니스 기회를 탐색하세요.",
       "priority": "high"
     },
     {
-      "insight": "삼성전자의 기술 개발은 산업의 트렌드를 선도한다",
-      "action": "삼성전자의 기술 개발을 주시한다",
+      "insight": "부동산 시장의 상황이 안정되지 않은 것으로 보아, 부동산 관련된 비즈니스 기회가 있을 수 있습니다.",
+      "action": "부동산 관련된 비즈니스 기회를 탐색하세요.",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 뉴스와 트렌드에 대한 논의가 활발한 것으로 보아, 기술 관련된 비즈니스 기회가 있을 수 있습니다.",
+      "action": "기술 관련된 비즈니스 기회를 탐색하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 온라인 커뮤니티 트렌드에는 검찰 개혁과 보완수사권 폐지에 대한 논의가 많았다. 이러한 논의는 사회적 관심과 우려를 반영하며, 관련 정책과 법안을 주시하는 것이 중요하다. 또한, 삼성전자의 기술 개발은 산업의 트렌드를 선도하며, 이를 주시하는 것이 필요하다. 이러한 트렌드와 인사이트는 기업과 기관의 의사결정과 전략 수립에 도움이 될 수 있다.",
-  "analyzed_at": "2026-07-10T01:30:33.706Z",
+  "narrative": "현재의 정치와 경제 상황은 매우 복잡하고 불안정합니다. 이재명 대통령과 더불어민주당의 당대표 선출에 대한 논의가 활발하고, 검찰 개혁과 보완수사권에 대한 논의도 진행 중입니다. 또한, 부동산 시장의 상황이 안정되지 않아, 부동산 관련된 비즈니스 기회가 있을 수 있습니다. 기술 분야에서는 최신 기술 뉴스와 트렌드에 대한 논의가 활발하여, 기술 관련된 비즈니스 기회가 있을 수 있습니다. 이러한 상황을 고려하여, 비즈니스 기회를 탐색하고, 적절한 전략을 수립하여 성공을 도모할 수 있습니다.",
+  "analyzed_at": "2026-07-10T03:00:34.395Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
