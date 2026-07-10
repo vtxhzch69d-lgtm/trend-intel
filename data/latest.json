@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "국내 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 검찰개혁과 민주당의 당규 준수 등이 주요 관심사였습니다.",
-      "post_count": 15,
+      "topic": "보완수사권",
+      "summary": "보완수사권 폐지와 관련된 논란",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 제품 출시가 많은 것으로 나타났습니다. 삼성전자와 애플의 신제품 출시, AI 기술 개발 등이 주요 관심사였습니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
+      "topic": "김병지",
+      "summary": "김병지의 발언과 관련된 논란",
+      "post_count": 3,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 분석이 많은 것으로 나타났습니다. 하이브리드 수직이착륙기 개발, 메모리 가격 상승 등이 주요 관심사였습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "갤럭시Z폴드8",
+      "summary": "갤럭시Z폴드8의 가격과 사양",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "검찰개혁",
-      "count": 5,
+      "keyword": "보완수사권",
+      "count": 15,
       "sentiment": "negative",
-      "context": "검찰개혁 관련 논란"
+      "context": "보완수사권 폐지와 관련된 논란"
     },
     {
-      "keyword": "삼성전자",
+      "keyword": "갤럭시Z폴드8",
       "count": 8,
-      "sentiment": "neutral",
-      "context": "삼성전자 신제품 출시와 기술 개발"
+      "sentiment": "positive",
+      "context": "갤럭시Z폴드8의 가격과 사양"
     },
     {
-      "keyword": "AI",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "AI 기술 개발과 적용"
+      "keyword": "김병지",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "김병지의 발언과 관련된 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "국내 정치 관련 뉴스와 논란이 많아 정치와 경제에 관심이 많은 것으로 나타났습니다.",
-      "action": "정치와 경제 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "보완수사권 폐지와 관련된 논란이 확대되고 있다",
+      "action": "관련 정책에 대한 관심을 높이자",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 출시가 많아 기술에 관심이 많은 것으로 나타났습니다.",
-      "action": "최신 기술 뉴스와 제품 출시를 제공하여 관심을 끌 수 있습니다.",
+      "insight": "갤럭시Z폴드8의 가격과 사양이 관심을 끌고 있다",
+      "action": "갤럭시Z폴드8의 마케팅을 강화하자",
       "priority": "medium"
+    },
+    {
+      "insight": "김병지의 발언과 관련된 논란이 발생하고 있다",
+      "action": "관련 발언에 대한 대응을 준비하자",
+      "priority": "low"
     }
   ],
-  "narrative": "국내 온라인 커뮤니티에서 정치와 경제, 기술 관련 뉴스와 논란이 많아 관심을 끌 수 있습니다. 특히 정치와 경제 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다. 또한 최신 기술 뉴스와 제품 출시를 제공하여 기술에 관심이 많은 이용자를 끌어들일 수 있습니다. 그러나 부정적인 분위기가 많아 긍정적인 콘텐츠를 제공하여 이용자의 기분을 좋게 할 수 있습니다.",
-  "analyzed_at": "2026-07-10T06:30:34.220Z",
+  "narrative": "최근의 트렌드는 보완수사권 폐지와 관련된 논란, 갤럭시Z폴드8의 가격과 사양, 김병지의 발언과 관련된 논란 등이다. 이러한 트렌드는 중립적인 분위기를 보이고 있다. 보완수사권 폐지와 관련된 논란은 확대되고 있으며, 갤럭시Z폴드8의 가격과 사양은 관심을 끌고 있다. 김병지의 발언과 관련된 논란은 발생하고 있으나, 우선순위는 낮다. 이러한 트렌드에 대한 마케팅 전략을 수립하여 대응해야 한다.",
+  "analyzed_at": "2026-07-10T08:00:34.240Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
