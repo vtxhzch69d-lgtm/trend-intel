@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 더불어민주당의 당대표 선출에 대한 논의가 활발합니다. 또한, 검찰 개혁과 보완수사권에 대한 논의도 진행 중입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "테슬라와 전기차",
+      "summary": "테슬라의 FSD Lite 기능이 국내에서 출시되며 전기차에 대한 관심이 높아지고 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "부동산",
-      "summary": "서울 부동산 시장의 상황과 정부의 부동산 정책에 대한 논의가 진행 중입니다.",
-      "post_count": 5,
+      "topic": "안규백 탈영 의혹",
+      "summary": "안규백 장관의 탈영 의혹에 대한 논란이 커지고 있다.",
+      "post_count": 4,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드에 대한 논의가 진행 중입니다. 삼성전자와 애플의 최신 제품과 기술에 대한 소식이 포함되어 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "국내 주식 시장",
+      "summary": "국내 주식 시장의 변동성에 대한 논란이 있다.",
+      "post_count": 6,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치와 관련된 논의에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "부동산",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "서울 부동산 시장의 상황과 정부의 부동산 정책에 대한 논의에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 12,
+      "keyword": "테슬라",
+      "count": 5,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드에 대한 논의에서 자주 언급됩니다."
+      "context": "전기차와 자율주행 기술에 대한 관심"
+    },
+    {
+      "keyword": "안규백",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "탈영 의혹에 대한 논란"
+    },
+    {
+      "keyword": "주식 시장",
+      "count": 6,
+      "sentiment": "neutral",
+      "context": "국내 주식 시장의 변동성에 대한 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 10,
+    "negative": 8,
+    "neutral": 12,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 관련된 논의가 활발한 것으로 보아, 정치 관련된 비즈니스 기회가 있을 수 있습니다.",
-      "action": "정치 관련된 비즈니스 기회를 탐색하세요.",
+      "insight": "전기차와 자율주행 기술에 대한 관심이 높아지고 있다.",
+      "action": "전기차와 자율주행 기술에 대한 투자를 고려한다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 상황이 안정되지 않은 것으로 보아, 부동산 관련된 비즈니스 기회가 있을 수 있습니다.",
-      "action": "부동산 관련된 비즈니스 기회를 탐색하세요.",
+      "insight": "국내 주식 시장의 변동성에 대한 논란이 있다.",
+      "action": "주식 시장의 변동성에 대한 분석을 Conduct한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 뉴스와 트렌드에 대한 논의가 활발한 것으로 보아, 기술 관련된 비즈니스 기회가 있을 수 있습니다.",
-      "action": "기술 관련된 비즈니스 기회를 탐색하세요.",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 정치와 경제 상황은 매우 복잡하고 불안정합니다. 이재명 대통령과 더불어민주당의 당대표 선출에 대한 논의가 활발하고, 검찰 개혁과 보완수사권에 대한 논의도 진행 중입니다. 또한, 부동산 시장의 상황이 안정되지 않아, 부동산 관련된 비즈니스 기회가 있을 수 있습니다. 기술 분야에서는 최신 기술 뉴스와 트렌드에 대한 논의가 활발하여, 기술 관련된 비즈니스 기회가 있을 수 있습니다. 이러한 상황을 고려하여, 비즈니스 기회를 탐색하고, 적절한 전략을 수립하여 성공을 도모할 수 있습니다.",
-  "analyzed_at": "2026-07-10T03:00:34.395Z",
+  "narrative": "최근의 트렌드 분석 결과, 테슬라와 전기차, 안규백 탈영 의혹, 국내 주식 시장의 변동성에 대한 관심이 높아지고 있다. 이러한 트렌드들은 기업과 투자자들에게 중요한 의사 결정의 기초가 될 수 있다. 특히, 전기차와 자율주행 기술에 대한 관심이 높아짐에 따라 관련 산업에 대한 투자가 증가할 수 있다. 또한, 국내 주식 시장의 변동성에 대한 분석을 Conduct함으로써 투자자들은 더 나은 의사 결정을 할 수 있을 것이다.",
+  "analyzed_at": "2026-07-10T05:01:31.064Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
