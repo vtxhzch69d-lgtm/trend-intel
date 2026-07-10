@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "테슬라와 전기차",
-      "summary": "테슬라의 FSD Lite 기능이 국내에서 출시되며 전기차에 대한 관심이 높아지고 있다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "안규백 탈영 의혹",
-      "summary": "안규백 장관의 탈영 의혹에 대한 논란이 커지고 있다.",
-      "post_count": 4,
+      "topic": "정치",
+      "summary": "국내 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 검찰개혁과 민주당의 당규 준수 등이 주요 관심사였습니다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "국내 주식 시장",
-      "summary": "국내 주식 시장의 변동성에 대한 논란이 있다.",
-      "post_count": 6,
-      "sentiment": "mixed",
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 제품 출시가 많은 것으로 나타났습니다. 삼성전자와 애플의 신제품 출시, AI 기술 개발 등이 주요 관심사였습니다.",
+      "post_count": 20,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 분석이 많은 것으로 나타났습니다. 하이브리드 수직이착륙기 개발, 메모리 가격 상승 등이 주요 관심사였습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "테슬라",
+      "keyword": "검찰개혁",
       "count": 5,
-      "sentiment": "positive",
-      "context": "전기차와 자율주행 기술에 대한 관심"
-    },
-    {
-      "keyword": "안규백",
-      "count": 4,
       "sentiment": "negative",
-      "context": "탈영 의혹에 대한 논란"
+      "context": "검찰개혁 관련 논란"
     },
     {
-      "keyword": "주식 시장",
-      "count": 6,
+      "keyword": "삼성전자",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "국내 주식 시장의 변동성에 대한 논란"
+      "context": "삼성전자 신제품 출시와 기술 개발"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "AI 기술 개발과 적용"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 8,
-    "neutral": 12,
-    "overall_mood": "중립적"
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "전기차와 자율주행 기술에 대한 관심이 높아지고 있다.",
-      "action": "전기차와 자율주행 기술에 대한 투자를 고려한다.",
+      "insight": "국내 정치 관련 뉴스와 논란이 많아 정치와 경제에 관심이 많은 것으로 나타났습니다.",
+      "action": "정치와 경제 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "국내 주식 시장의 변동성에 대한 논란이 있다.",
-      "action": "주식 시장의 변동성에 대한 분석을 Conduct한다.",
+      "insight": "최신 기술 뉴스와 제품 출시가 많아 기술에 관심이 많은 것으로 나타났습니다.",
+      "action": "최신 기술 뉴스와 제품 출시를 제공하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 테슬라와 전기차, 안규백 탈영 의혹, 국내 주식 시장의 변동성에 대한 관심이 높아지고 있다. 이러한 트렌드들은 기업과 투자자들에게 중요한 의사 결정의 기초가 될 수 있다. 특히, 전기차와 자율주행 기술에 대한 관심이 높아짐에 따라 관련 산업에 대한 투자가 증가할 수 있다. 또한, 국내 주식 시장의 변동성에 대한 분석을 Conduct함으로써 투자자들은 더 나은 의사 결정을 할 수 있을 것이다.",
-  "analyzed_at": "2026-07-10T05:01:31.064Z",
+  "narrative": "국내 온라인 커뮤니티에서 정치와 경제, 기술 관련 뉴스와 논란이 많아 관심을 끌 수 있습니다. 특히 정치와 경제 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다. 또한 최신 기술 뉴스와 제품 출시를 제공하여 기술에 관심이 많은 이용자를 끌어들일 수 있습니다. 그러나 부정적인 분위기가 많아 긍정적인 콘텐츠를 제공하여 이용자의 기분을 좋게 할 수 있습니다.",
+  "analyzed_at": "2026-07-10T06:30:34.220Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
