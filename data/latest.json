@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "국방부와 안보 문제",
-      "summary": "국방부의 민심과 안보 문제가 논란이 되고 있습니다. 탈영 제보자와 관련된 문제도 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "최근 정치 관련 게시글이 많아 정치적 관심이 높아지고 있는 것으로 보인다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "최신 테크 뉴스에 대한 관심이 높습니다. 삼성전자, 애플, 구글 등 주요 테크 기업의 소식이 논의되고 있습니다.",
+      "topic": "기술",
+      "summary": "새로운 기술 및 제품에 대한 게시글이 많아 기술에 대한 관심이 높아지고 있는 것으로 보인다.",
       "post_count": 20,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치와 사회 문제",
-      "summary": "정치와 사회 문제에 대한 관심이 높습니다. 대통령 거부권, 선호투표제, 국가 안보 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "경제",
+      "summary": "경제 관련 게시글이 많아 경제에 대한 관심이 높아지고 있는 것으로 보인다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "국방부",
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "새로운 기술에 대한 관심"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치적 관심"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
       "sentiment": "negative",
-      "context": "국방부의 민심과 안보 문제"
-    },
-    {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "테크 뉴스"
-    },
-    {
-      "keyword": "애플",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "테크 뉴스"
+      "context": "경제에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "국방부와 안보 문제에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
+      "insight": "새로운 기술에 대한 관심이 높아지고 있다.",
+      "action": "새로운 기술에 대한 마케팅을 강화해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "테크 뉴스에 대한 관심이 높습니다.",
-      "action": "최신 테크 뉴스를 제공하여 사용자의 관심을 끌 수 있습니다.",
+      "insight": "정치에 대한 관심이 높아지고 있다.",
+      "action": "정치 관련 마케팅을 강화해야 한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제에 대한 관심이 높아지고 있다.",
+      "action": "경제 관련 마케팅을 강화해야 한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 국방부와 안보 문제, 테크 뉴스, 정치와 사회 문제에 대한 관심이 높아지고 있습니다. 사용자는 이러한 주제에 대한 최신 정보를 원하고 있으며, 관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다. 또한, 테크 뉴스에 대한 관심이 높아지고 있으므로 최신 테크 뉴스를 제공하여 사용자의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-07-10T14:00:33.877Z",
+  "narrative": "최근 정치, 기술, 경제 관련 게시글이 많아 각 분야에 대한 관심이 높아지고 있는 것으로 보인다. 새로운 기술에 대한 관심이 특히 높아지고 있어 관련 마케팅을 강화해야 한다. 또한 정치와 경제에 대한 관심도 높아지고 있어 관련 마케팅을 강화해야 한다. 그러나 정치와 경제에 대한 감정은 복합적인 것으로 보이므로 마케팅 전략을 신중하게 수립해야 한다.",
+  "analyzed_at": "2026-07-10T15:30:34.332Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
