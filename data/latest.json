@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "안규백 탈영 논란",
-      "summary": "안규백 장관의 탈영 논란이 커뮤니티에서 논란이 되고 있습니다. 일부 사용자는 안규백 장관의 탈영을 비판하며 네거티브 캠페인을 벌이고 있습니다.",
+      "topic": "국방부와 안보 문제",
+      "summary": "국방부의 민심과 안보 문제가 논란이 되고 있습니다. 탈영 제보자와 관련된 문제도 논의되고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "보완수사권 폐지",
-      "summary": "보완수사권 폐지에 대한 논란이 커뮤니티에서 진행되고 있습니다. 일부 사용자는 보완수사권 폐지를 주장하며, 다른 일부 사용자는 폐지에 반대하고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "테크 뉴스",
+      "summary": "최신 테크 뉴스에 대한 관심이 높습니다. 삼성전자, 애플, 구글 등 주요 테크 기업의 소식이 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "최신 테크 뉴스가 커뮤니티에서 논란이 되고 있습니다. 새로운 제품 출시, 기술 개발 등이 주요话题입니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치와 사회 문제",
+      "summary": "정치와 사회 문제에 대한 관심이 높습니다. 대통령 거부권, 선호투표제, 국가 안보 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "안규백",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "탈영 논란"
-    },
-    {
-      "keyword": "보완수사권",
+      "keyword": "국방부",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "폐지 논란"
+      "sentiment": "negative",
+      "context": "국방부의 민심과 안보 문제"
     },
     {
-      "keyword": "테크",
-      "count": 20,
+      "keyword": "삼성전자",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "최신 뉴스"
+      "context": "테크 뉴스"
+    },
+    {
+      "keyword": "애플",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "테크 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
     "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "안규백 탈영 논란은 정치적 논란이 될 가능성이 있습니다.",
-      "action": "정치적 논란에 대한 대응 전략 수립",
+      "insight": "국방부와 안보 문제에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "보완수사권 폐지 논란은 법적 논란이 될 가능성이 있습니다.",
-      "action": "법적 논란에 대한 대응 전략 수립",
+      "insight": "테크 뉴스에 대한 관심이 높습니다.",
+      "action": "최신 테크 뉴스를 제공하여 사용자의 관심을 끌 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "테크 뉴스는 최신 기술 개발과 제품 출시에 대한 관심이 높습니다.",
-      "action": "최신 기술 개발과 제품 출시에 대한 마케팅 전략 수립",
-      "priority": "low"
     }
   ],
-  "narrative": "커뮤니티에서는 안규백 탈영 논란과 보완수사권 폐지 논란이 주요话题입니다. 테크 뉴스도 최신 기술 개발과 제품 출시에 대한 관심이 높습니다. 이러한 논란과 관심은 정치적, 법적, 기술적 측면에서 마케팅 전략을 수립하는 데 도움이 될 수 있습니다. 또한, 커뮤니티의 중립적 분위기는 다양한 의견과 관심을 수용하는 데 도움이 될 수 있습니다.",
-  "analyzed_at": "2026-07-10T12:30:34.473Z",
+  "narrative": "최근의 트렌드는 국방부와 안보 문제, 테크 뉴스, 정치와 사회 문제에 대한 관심이 높아지고 있습니다. 사용자는 이러한 주제에 대한 최신 정보를 원하고 있으며, 관련된 뉴스와 정보를 제공하여 사용자의 관심을 끌 수 있습니다. 또한, 테크 뉴스에 대한 관심이 높아지고 있으므로 최신 테크 뉴스를 제공하여 사용자의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-07-10T14:00:33.877Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
