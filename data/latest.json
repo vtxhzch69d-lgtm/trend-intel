@@ -1,45 +1,45 @@
 {
   "trending_topics": [
     {
-      "topic": "보완수사권",
-      "summary": "보완수사권 폐지와 관련된 논란",
+      "topic": "검찰 개혁",
+      "summary": "검찰 개혁 관련 논의가 활발히 진행 중이며, 보완수사권 존치와 폐지에 대한 의견이 분분하다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "김병지",
-      "summary": "김병지의 발언과 관련된 논란",
-      "post_count": 3,
-      "sentiment": "mixed",
+      "topic": "테슬라와 전기차",
+      "summary": "테슬라의 FSD 구독제 도입과 전기차 관련 뉴스가 주목을 받고 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "갤럭시Z폴드8",
-      "summary": "갤럭시Z폴드8의 가격과 사양",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "국방과 안보",
+      "summary": "국방과 안보 관련 뉴스가 증가하고 있으며, 국방부의 탈영 의혹과 안규백 장관에 대한 논의가 진행 중이다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "보완수사권",
+      "keyword": "검찰 개혁",
       "count": 15,
-      "sentiment": "negative",
-      "context": "보완수사권 폐지와 관련된 논란"
-    },
-    {
-      "keyword": "갤럭시Z폴드8",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "갤럭시Z폴드8의 가격과 사양"
-    },
-    {
-      "keyword": "김병지",
-      "count": 5,
       "sentiment": "mixed",
-      "context": "김병지의 발언과 관련된 논란"
+      "context": "검찰 개혁 관련 논의"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "테슬라의 전기차와 기술 개발"
+    },
+    {
+      "keyword": "국방",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "국방과 안보 관련 뉴스"
     }
   ],
   "sentiment_overview": {
@@ -50,23 +50,18 @@
   },
   "business_insights": [
     {
-      "insight": "보완수사권 폐지와 관련된 논란이 확대되고 있다",
-      "action": "관련 정책에 대한 관심을 높이자",
+      "insight": "검찰 개혁과 국방 관련 뉴스가 증가하고 있다.",
+      "action": "관련 정책과 법안을 주목하고 대응策을 마련해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "갤럭시Z폴드8의 가격과 사양이 관심을 끌고 있다",
-      "action": "갤럭시Z폴드8의 마케팅을 강화하자",
+      "insight": "테슬라와 전기차 관련 기술 개발이 주목을 받고 있다.",
+      "action": "전기차와 관련 기술 개발에 투자하고 연구를 진행해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "김병지의 발언과 관련된 논란이 발생하고 있다",
-      "action": "관련 발언에 대한 대응을 준비하자",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 보완수사권 폐지와 관련된 논란, 갤럭시Z폴드8의 가격과 사양, 김병지의 발언과 관련된 논란 등이다. 이러한 트렌드는 중립적인 분위기를 보이고 있다. 보완수사권 폐지와 관련된 논란은 확대되고 있으며, 갤럭시Z폴드8의 가격과 사양은 관심을 끌고 있다. 김병지의 발언과 관련된 논란은 발생하고 있으나, 우선순위는 낮다. 이러한 트렌드에 대한 마케팅 전략을 수립하여 대응해야 한다.",
-  "analyzed_at": "2026-07-10T08:00:34.240Z",
+  "narrative": "최근의 트렌드 분석 결과, 검찰 개혁과 국방 관련 뉴스가 증가하고 있으며, 테슬라와 전기차 관련 기술 개발이 주목을 받고 있다. 이러한 트렌드는 기업과 정부에게 중요한 시사점을 제공하며, 관련 정책과 법안을 주목하고 대응策을 마련해야 한다. 또한, 전기차와 관련 기술 개발에 투자하고 연구를 진행해야 한다. 중립적인 분위기에서 기업과 정부는 적극적으로 대응하고 연구를 진행해야 한다.",
+  "analyzed_at": "2026-07-10T09:30:34.021Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
