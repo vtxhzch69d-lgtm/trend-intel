@@ -1,111 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "장윤기 사태",
-      "summary": "장윤기 사태 관련하여 작전세력 언플이 이루어지고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "카타르 월드컵",
-      "summary": "카타르 월드컵 테마가 북중미 월드컵 테마보다 인기 있다.",
-      "post_count": 2,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "검찰개혁",
-      "summary": "이념적으로 검찰개혁을 바라보는 관점이 다양하다.",
-      "post_count": 3,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 나타남",
+      "post_count": 100,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "GPT-5.6",
-      "summary": "GPT-5.6 관련하여 다양한 의견이 존재한다.",
-      "post_count": 4,
-      "sentiment": "neutral",
-      "urgency": "low"
-    },
-    {
-      "topic": "호프 영화",
-      "summary": "호프 영화에 대한 리뷰가 올라오고 있다.",
-      "post_count": 2,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "장윤기",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "장윤기 사태 관련하여 언급"
-    },
-    {
-      "keyword": "카타르 월드컵",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "카타르 월드컵 테마 인기"
-    },
-    {
-      "keyword": "검찰개혁",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "이념적으로 검찰개혁을 바라보는 관점"
-    },
-    {
-      "keyword": "GPT-5.6",
-      "count": 12,
+      "keyword": "뽐뿌",
+      "count": 50,
       "sentiment": "neutral",
-      "context": "GPT-5.6 관련하여 다양한 의견"
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "호프 영화",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "호프 영화 리뷰"
+      "keyword": "이슈",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "이슈게시판에서 논란이 되는 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "장윤기 사태 관련하여 작전세력 언플이 이루어지고 있다.",
-      "action": "사태를 주시하고 대응하기",
+      "insight": "뽐뿌 커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립할 수 있음",
+      "action": "마케팅 캠페인 실행",
       "priority": "high"
-    },
-    {
-      "insight": "카타르 월드컵 테마가 인기 있다.",
-      "action": "카타르 월드컵 관련 마케팅 진행하기",
-      "priority": "medium"
-    },
-    {
-      "insight": "이념적으로 검찰개혁을 바라보는 관점이 다양하다.",
-      "action": "검찰개혁 관련하여 다양한 의견 수렴하기",
-      "priority": "medium"
-    },
-    {
-      "insight": "GPT-5.6 관련하여 다양한 의견이 존재한다.",
-      "action": "GPT-5.6 관련하여 연구 및 개발 진행하기",
-      "priority": "low"
-    },
-    {
-      "insight": "호프 영화에 대한 리뷰가 올라오고 있다.",
-      "action": "호프 영화 관련 마케팅 진행하기",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 장윤기 사태, 카타르 월드컵, 검찰개혁, GPT-5.6, 호프 영화 등 다양한 주제가 논의되고 있다. 장윤기 사태 관련하여 작전세력 언플이 이루어지고 있으며, 카타르 월드컵 테마가 인기 있다. 또한, 이념적으로 검찰개혁을 바라보는 관점이 다양하며, GPT-5.6 관련하여 다양한 의견이 존재한다. 호프 영화에 대한 리뷰도 올라오고 있다. 이러한 주제들은 클리앙 커뮤니티에서热한 논의를 불러일으키고 있으며, 각 주제에 대한 의견과 감정은 다양하다. 따라서, 이러한 주제들을 주시하고 대응하는 것이 중요하다.",
-  "analyzed_at": "2026-07-11T07:00:34.581Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글을 분석한 결과, 자유게시판과 이슈게시판에서 주로 인기 있는 주제가 나타남을 알 수 있었다. 이에 따라 마케팅 전략을 수립하여 뽐뿌 커뮤니티에서 영향력을 확대할 수 있을 것으로 기대된다. 또한, 커뮤니티의 분위기를 중립적이지만 약간 부정적인 분위기라고 분석할 수 있었다. 따라서 마케팅 캠페인을 실행하여 긍정적인 분위기를 조성할 필요가 있다.",
+  "analyzed_at": "2026-07-11T08:30:33.688Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
