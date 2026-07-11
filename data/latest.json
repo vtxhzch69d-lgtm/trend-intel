@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "보완수사권 논란",
-      "summary": "검찰과 경찰의 보완수사권 논란이 클리앙 커뮤니티에서热한 논쟁이 되고 있습니다. 일부 사용자는 검찰의 권한을 제한해야 한다고 주장하는 반면, 다른 사용자는 경찰의 권한을 강화해야 한다고 주장합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "검찰개혁",
+      "summary": "검찰의 수사권과 기소권에 대한 논의가 활발히 진행 중입니다. 일부 사용자는 검찰의 권한을 제한해야 한다고 주장합니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술 발전",
-      "summary": "클리앙 커뮤니티에서 AI 기술 발전에 대한 관심이 높아지고 있습니다. 사용자들은 AI 기술의 발전과 이를 활용한 다양한 산업의 미래에 대해 논의하고 있습니다.",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 사용자들은 AI 기술의 잠재적 가능성에 대해 관심을 보이고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "클리엔 커뮤니티에서 부동산 시장에 대한 관심이 높아지고 있습니다. 사용자들은 부동산 가격과 시장 동향에 대해 논의하고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "캣맘",
+      "summary": "캣맘에 대한 논의가 진행 중입니다. 일부 사용자는 캣맘을 옹호하며, 다른 일부 사용자는 캣맘을 비판합니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "보완수사권",
+      "keyword": "검찰",
       "count": 20,
       "sentiment": "negative",
-      "context": "검찰과 경찰의 보완수사권 논란"
+      "context": "검찰의 권한에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술 발전과 산업 활용"
+      "context": "AI 기술의 발전과 산업적 활용"
     },
     {
-      "keyword": "부동산",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "부동산 시장 동향"
+      "keyword": "캣맘",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "캣맘에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "부정적"
   },
   "business_insights": [
     {
-      "insight": "검찰과 경찰의 보완수사권 논란은 법률 및 정치 분야에서 중요한 이슈입니다.",
-      "action": "관련 법률 및 정책을 검토하고, 전문가의 의견을 수렴하여 대응 방안을 마련해야 합니다.",
+      "insight": "검찰개혁에 대한 논의가 활발히 진행 중입니다.",
+      "action": "관련 정책과 법률을 검토하여 기업의 입장을 정리합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 발전은 다양한 산업에서 중요한 역할을 할 것입니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발하고, 관련 교육 및 훈련 프로그램을 제공해야 합니다.",
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "부동산 시장은 경제 및 금융 분야에서 중요한 역할을 합니다.",
-      "action": "부동산 시장 동향을 분석하고, 관련 정책 및 법규를 검토하여 대응 방안을 마련해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 보완수사권 논란, AI 기술 발전, 부동산 시장 등 다양한 주제가 논의되고 있습니다. 이러한 주제는 법률, 정치, 경제, 금융 등 다양한 분야에서 중요한 역할을 할 것입니다. 따라서 관련 전문가와의 협력을 통해 대응 방안을 마련하고, 새로운 비즈니스 모델을 개발하여 시장의需求에 대응해야 합니다.",
-  "analyzed_at": "2026-07-11T02:01:30.545Z",
+  "narrative": "현재의 트렌드는 검찰개혁과 AI 기술의 발전에 대한 논의가 주를 이루고 있습니다. 사용자들은 검찰의 권한에 대한 논의에 관심을 보이고 있으며, AI 기술의 잠재적 가능성에 대해 관심을 보이고 있습니다. 캣맘에 대한 논의도 진행 중입니다. 이러한 트렌드를 분석하여 기업의 입장을 정리하고, 새로운 비즈니스 모델을 개발하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-11T04:00:34.052Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
