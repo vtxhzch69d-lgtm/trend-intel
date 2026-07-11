@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많아지고 있습니다. AI의 발전과 이를 활용한 다양한 산업의 성장에 대한 관심이 높아지고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "장윤기 사건",
+      "summary": "장윤기 사건에 대한 논의와 분석",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "검찰개혁",
-      "summary": "검찰개혁 관련 게시글이 클리앙 커뮤니티에서 많이 등장하고 있습니다. 검찰개혁의 필요성과 이를 위한 방안에 대한 논의가 활발하게 진행되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 게시글이 클리앙 커뮤니티에서 많이 등장하고 있습니다. 금리인상, 경제 성장, 산업 동향 등 다양한 주제에 대한 관심이 높아지고 있습니다.",
-      "post_count": 10,
+      "topic": "경제 뉴스",
+      "summary": "경제 관련 뉴스와 분석",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 산업의 성장"
+      "keyword": "장윤기",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "장윤기 사건 관련 논의"
     },
     {
-      "keyword": "검찰개혁",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "검찰개혁의 필요성과 이를 위한 방안"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 적용"
     },
     {
       "keyword": "경제",
       "count": 15,
       "sentiment": "neutral",
-      "context": "경제 성장, 산업 동향, 금리인상 등"
+      "context": "경제 관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 40,
-    "overall_mood": "중립적이고 정보를 중시하는 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "검찰개혁은 사회적 안정과 경제 성장에 긍정적인 영향을 미칠 수 있습니다.",
-      "action": "검찰개혁을 위한 정책 개발과 지원",
+      "insight": "경제 뉴스의 중요성",
+      "action": "경제 뉴스와 분석을 통한 비즈니스 의사 결정",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 관련 정보는 많은 사람들의 관심을 끌고 있습니다.",
-      "action": "경제 및 금융 관련 콘텐츠 개발과 제공",
-      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티의 최근 트렌드는 AI 기술, 검찰개혁, 경제 및 금융 관련 주제가 중심을 이루고 있습니다. 이러한 주제에 대한 관심은 사회적 안정, 경제 성장, 산업 발전에 대한 관심을 반영하고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델 개발, 정책 개발, 콘텐츠 제공 등 다양한 액션을 취할 수 있습니다.",
-  "analyzed_at": "2026-07-11T17:30:35.563Z",
+  "narrative": "최근의 트렌드는 장윤기 사건과 AI 기술의 발전이 주목을 받고 있습니다. 장윤기 사건은 많은 논의와 분석을 불러일으켰으며, AI 기술의 발전은 다양한 산업에서 적용되고 있습니다. 또한, 경제 뉴스와 분석은 비즈니스 의사 결정에 중요한 역할을 합니다. 이러한 트렌드를 고려하여, 비즈니스 모델 개발과 경제 뉴스 분석을 통한 의사 결정이 중요합니다.",
+  "analyzed_at": "2026-07-11T19:00:33.846Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
