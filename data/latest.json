@@ -1,56 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 경험과 의견을 공유하며, 이는 커뮤니티의 활성화에 기여합니다.",
-      "post_count": 1000,
-      "sentiment": "mixed",
+      "topic": "장윤기 사건",
+      "summary": "장윤기 사건과 관련된 보완수사권 폐지 논란",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "노르웨이 축구",
+      "summary": "노르웨이 축구팀의 득점과 경기 결과",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 최신 기술 트렌드와 제품에 대한 의견을 공유하며, 이는 기술 산업의 발전에 기여합니다.",
-      "post_count": 500,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 관련된 뉴스 및 소식",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일상생활",
-      "count": 500,
-      "sentiment": "neutral",
-      "context": "사용자들이 일상생활에서 경험한 에피소드와 의견을 공유하는 키워드"
+      "keyword": "장윤기",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "장윤기 사건과 관련된 보완수사권 폐지 논란"
     },
     {
-      "keyword": "기술",
-      "count": 300,
+      "keyword": "노르웨이",
+      "count": 3,
       "sentiment": "positive",
-      "context": "최신 기술 트렌드와 제품에 대한 의견을 공유하는 키워드"
+      "context": "노르웨이 축구팀의 득점과 경기 결과"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "최신 AI 기술과 관련된 뉴스 및 소식"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "사용자들은 다양한 주제에 대해 의견을 공유하며, 전체적으로 중립적인 분위기입니다."
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 일상생활과 기술에 대한 주제에 관심이 많습니다.",
-      "action": "해당 주제에 대한 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "장윤기 사건과 관련된 보완수사권 폐지 논란이 확대되고 있다.",
+      "action": "관련 정책과 법률을 검토하고 대응策을 마련한다.",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 최신 기술 트렌드와 제품에 대한 의견을 공유합니다.",
-      "action": "최신 기술 트렌드와 제품에 대한 정보를 제공하여 사용자들의 의견을 수집할 수 있습니다.",
+      "insight": "노르웨이 축구팀의 득점과 경기 결과가 팬들의 관심을 끌고 있다.",
+      "action": "관련 마케팅 캠페인을 진행하고 팬들의 참여를 유도한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 AI 기술과 관련된 뉴스 및 소식이 많아지고 있다.",
+      "action": "관련 기술과 서비스를 개발하고 제공한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "뽐뿌와 클리앙 커뮤니티는 사용자들이 다양한 주제에 대해 의견을 공유하는 활성화된 커뮤니티입니다. 사용자들은 일상생활과 기술에 대한 주제에 관심이 많으며, 최신 기술 트렌드와 제품에 대한 의견을 공유합니다. 이러한 트렌드를 분석하여 해당 주제에 대한 콘텐츠를 제공하고, 최신 기술 트렌드와 제품에 대한 정보를 제공할 수 있습니다. 이를 통해 사용자들의 관심을 끌고, 의견을 수집하여 비즈니스에 활용할 수 있습니다.",
-  "analyzed_at": "2026-07-11T21:30:34.801Z",
-  "post_count": 2,
+  "narrative": "최근 장윤기 사건과 관련된 보완수사권 폐지 논란이 확대되고 있으며, 노르웨이 축구팀의 득점과 경기 결과가 팬들의 관심을 끌고 있다. 또한, 최신 AI 기술과 관련된 뉴스 및 소식이 많아지고 있어 관련 기술과 서비스를 개발하고 제공하는 것이 중요하다. 이러한 트렌드와 인사이트를 바탕으로 관련 정책과 법률을 검토하고 대응策을 마련하며, 관련 마케팅 캠페인을 진행하고 팬들의 참여를 유도하는 것이 필요하다.",
+  "analyzed_at": "2026-07-11T23:01:32.089Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
