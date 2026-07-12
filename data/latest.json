@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "장윤기 사건",
-      "summary": "장윤기 사건과 관련된 보완수사권 폐지 논란",
+      "topic": "조국 리센느 이슈",
+      "summary": "조국 리센느 이슈가 클리앙 커뮤니티에서 논란이 되고 있습니다. 일부 사용자들은 조국의 발언을 비판하며, 다른 사용자들은 그의 발언을 옹호하고 있습니다.",
       "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "노르웨이 축구",
-      "summary": "노르웨이 축구팀의 득점과 경기 결과",
-      "post_count": 3,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련된 뉴스 및 소식",
+      "topic": "월드컵 8강전",
+      "summary": "월드컵 8강전이 클리앙 커뮤니티에서热한 관심을 받고 있습니다. 사용자들은 각 팀의 경기 결과와 전략을 분석하며, 일부 사용자들은 경기 결과를 예측하고 있습니다.",
       "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술이 클리앙 커뮤니티에서 논란이 되고 있습니다. 일부 사용자들은 AI 기술의 발전에 대한 기대감을 나타내며, 다른 사용자들은 AI 기술의 부작용에 대한 우려를 나타내고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "장윤기",
-      "count": 5,
+      "keyword": "조국",
+      "count": 10,
       "sentiment": "negative",
-      "context": "장윤기 사건과 관련된 보완수사권 폐지 논란"
+      "context": "조국 리센느 이슈"
     },
     {
-      "keyword": "노르웨이",
-      "count": 3,
+      "keyword": "월드컵",
+      "count": 15,
       "sentiment": "positive",
-      "context": "노르웨이 축구팀의 득점과 경기 결과"
+      "context": "월드컵 8강전"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "neutral",
-      "context": "최신 AI 기술과 관련된 뉴스 및 소식"
+      "context": "AI 기술"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "장윤기 사건과 관련된 보완수사권 폐지 논란이 확대되고 있다.",
-      "action": "관련 정책과 법률을 검토하고 대응策을 마련한다.",
+      "insight": "클리앙 커뮤니티에서 조국 리센느 이슈가 논란이 되고 있습니다.",
+      "action": "조국 리센느 이슈에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "노르웨이 축구팀의 득점과 경기 결과가 팬들의 관심을 끌고 있다.",
-      "action": "관련 마케팅 캠페인을 진행하고 팬들의 참여를 유도한다.",
+      "insight": "월드컵 8강전이 클리앙 커뮤니티에서热한 관심을 받고 있습니다.",
+      "action": "월드컵 8강전 관련 콘텐츠 개발",
       "priority": "medium"
     },
     {
-      "insight": "최신 AI 기술과 관련된 뉴스 및 소식이 많아지고 있다.",
-      "action": "관련 기술과 서비스를 개발하고 제공한다.",
+      "insight": "AI 기술이 클리앙 커뮤니티에서 논란이 되고 있습니다.",
+      "action": "AI 기술에 대한 교육 및 홍보",
       "priority": "low"
     }
   ],
-  "narrative": "최근 장윤기 사건과 관련된 보완수사권 폐지 논란이 확대되고 있으며, 노르웨이 축구팀의 득점과 경기 결과가 팬들의 관심을 끌고 있다. 또한, 최신 AI 기술과 관련된 뉴스 및 소식이 많아지고 있어 관련 기술과 서비스를 개발하고 제공하는 것이 중요하다. 이러한 트렌드와 인사이트를 바탕으로 관련 정책과 법률을 검토하고 대응策을 마련하며, 관련 마케팅 캠페인을 진행하고 팬들의 참여를 유도하는 것이 필요하다.",
-  "analyzed_at": "2026-07-11T23:01:32.089Z",
+  "narrative": "클리앙 커뮤니티에서 조국 리센느 이슈, 월드컵 8강전, AI 기술이 논란이 되고 있습니다. 사용자들은 각 주제에 대한 의견을 나타내며, 일부 사용자들은 각 주제에 대한 전문적인 지식을 가지고 있습니다. 클리앙 커뮤니티는 사용자들이 다양한 주제에 대한 의견을 나누고, 정보를 공유하는 장소입니다. 따라서, 마케터는 클리앙 커뮤니티에서 사용자들의 관심사를 분석하여, 효과적인 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-12T00:30:34.446Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
