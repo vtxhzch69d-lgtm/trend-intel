@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "검찰개혁",
+      "summary": "검찰개혁 관련된 다양한 의견과 논의가 진행되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제에 대한 논의와 의견",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화가 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 뉴스와 분석",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치 관련된 다양한 뉴스와 의견이 공유되고 있습니다.",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "검찰개혁",
       "count": 20,
+      "sentiment": "negative",
+      "context": "검찰개혁 관련된 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 25,
       "sentiment": "positive",
       "context": "AI 기술의 발전"
     },
     {
       "keyword": "정치",
-      "count": 15,
+      "count": 18,
       "sentiment": "negative",
-      "context": "정치 및 사회 문제"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 및 금융 뉴스"
+      "context": "정치 관련된 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 비중이 높습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
-      "action": "AI 기술의 발전을 주시하고 준비한다",
+      "insight": "검찰개혁 관련된 논의가 활발하게 진행되고 있습니다.",
+      "action": "관련된 뉴스와 의견을 주시하여 사업에 활용할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 문제는 기업의 운영에 영향을 줄 수 있다",
-      "action": "정치 및 사회 문제를 주시하고 대응한다",
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다.",
+      "action": "AI 기술을 사업에 적용하여 경쟁력을 높일 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 뉴스는 기업의 의사 결정에 영향을 줄 수 있다",
-      "action": "경제 및 금융 뉴스를 주시하고 분석한다",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 정치 및 사회 문제가 주요 관심사로 나타났다. AI 기술의 발전은 산업의 변화를 가져올 수 있으며, 기업은 이를 주시하고 준비해야 한다. 또한, 정치 및 사회 문제는 기업의 운영에 영향을 줄 수 있으므로 주시하고 대응해야 한다. 경제 및 금융 뉴스는 기업의 의사 결정에 영향을 줄 수 있으므로 주시하고 분석해야 한다. 이러한 트렌드 분석 결과를 통해 기업은 시장의 변화를 예측하고 준비할 수 있다.",
-  "analyzed_at": "2026-07-12T12:31:30.724Z",
+  "narrative": "현재의 트렌드는 검찰개혁, AI 기술, 정치 등 다양한 주제로 구성되어 있습니다. 검찰개혁 관련된 논의가 활발하게 진행되고 있으며, AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다. 이러한 트렌드를 사업에 활용하여 경쟁력을 높일 수 있습니다. 또한, 부정적인 감정의 비중이 높으므로 고객의 불만을 해결하여 만족도를 높일 수 있습니다.",
+  "analyzed_at": "2026-07-12T14:00:33.925Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
