@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "보완수사권",
-      "summary": "보완수사권 폐지 논란과 관련된 게시글이 많습니다. 일부 사용자는 보완수사권 폐지를 주장하며, 다른 사용자는 폐지에 반대합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "summary": "보완수사권 폐지에 대한 우려와 독립 위원회 설치에 대한 의견",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "사투리",
-      "summary": "사투리 관련된 게시글이 있습니다. 일부 사용자는 사투리를 잘 모른다고 말하며, 다른 사용자는 사투리를 사용하는 것을 비판합니다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
+      "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련된 뉴스 게시글이 많습니다. 일부 사용자는 AI의 발전에 대해 관심을 보이며, 다른 사용자는 AI의 잠재적인 위험에 대해 우려를 표합니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "김민석, 조국당과 합당 의견과 윤석열 지지자들에 대한 의견",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "보완수사권",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "보완수사권 폐지 논란"
-    },
-    {
-      "keyword": "사투리",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "사투리 관련된 게시글"
+      "sentiment": "negative",
+      "context": "보완수사권 폐지에 대한 우려"
     },
     {
       "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 관련된 뉴스"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 그에 따른 사회적 영향"
+    },
+    {
+      "keyword": "김민석",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "김민석, 조국당과 합당 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 10,
     "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "중립적이지만 부정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "보완수사권 폐지 논란은 여전히 논란의 여지가 있습니다.",
-      "action": "관련된 뉴스와 게시글을 계속해서 모니터링해야 합니다.",
+      "insight": "보완수사권 폐지에 대한 우려가 존재",
+      "action": "보완수사권 폐지에 대한 대책 마련",
       "priority": "high"
     },
     {
-      "insight": "사투리 관련된 게시글은 중립적인 반응을 보입니다.",
-      "action": "사투리 관련된 게시글을 더 많이 분석해야 합니다.",
-      "priority": "low"
-    },
-    {
-      "insight": "AI 관련된 뉴스는 계속해서 증가하고 있습니다.",
-      "action": "AI 관련된 뉴스를 더 많이 분석해야 합니다.",
+      "insight": "AI 기술의 발전이 사회적으로 큰 영향을 미칠 수 있음",
+      "action": "AI 기술의 발전에 대한 연구와 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 보완수사권 폐지 논란과 관련된 게시글이 많습니다. 일부 사용자는 보완수사권 폐지를 주장하며, 다른 사용자는 폐지에 반대합니다. 또한, 사투리 관련된 게시글도 있습니다. 일부 사용자는 사투리를 잘 모른다고 말하며, 다른 사용자는 사투리를 사용하는 것을 비판합니다. 마지막으로, AI 관련된 뉴스 게시글이 많습니다. 일부 사용자는 AI의 발전에 대해 관심을 보이며, 다른 사용자는 AI의 잠재적인 위험에 대해 우려를 표합니다. 이러한 트렌드 분석 결과를 통해, 관련된 뉴스와 게시글을 계속해서 모니터링해야 하며, 사투리와 AI 관련된 게시글을 더 많이 분석해야 합니다.",
-  "analyzed_at": "2026-07-12T06:30:34.334Z",
+  "narrative": "최근의 트렌드 분석 결과, 보완수사권 폐지에 대한 우려와 AI 기술의 발전이 사회적으로 큰 영향을 미칠 수 있다는 의견이 존재합니다. 또한, 김민석, 조국당과 합당 의견과 윤석열 지지자들에 대한 의견도 존재합니다. 이러한 트렌드에 대한 분석과 대책 마련이 필요합니다. 또한, AI 기술의 발전에 대한 연구와 개발이 필요합니다. 이러한 트렌드에 대한 분석과 대책 마련을 통해 사회적으로 큰 영향을 미칠 수 있는 문제에 대한 해결책을 찾을 수 있을 것입니다.",
+  "analyzed_at": "2026-07-12T08:01:30.993Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
