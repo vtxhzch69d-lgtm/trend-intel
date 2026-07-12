@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "조국 관련 논란",
-      "summary": "조국에 대한 다양한 의견과 논란이 커뮤니티에서 논의되고 있다. 일부 사용자는 조국을 비판하며, 다른 사용자는 그를 옹호한다.",
+      "topic": "보완수사권",
+      "summary": "보완수사권 폐지와 관련된 논쟁이 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자는 보완수사권 폐지가 검찰개혁에 긍정적인 영향을 미칠 수 있다고 주장하는 반면, 다른 사용자는 부작용을 우려하고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "월드컵과 축구",
-      "summary": "월드컵과 관련된 다양한 게시글이 올라오고 있으며, 사용자들은 경기 결과와 판정에 대해 논의하고 있다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "클리앙 커뮤니티에서 AI 기술과 관련된 다양한 주제들이 논의되고 있습니다. 이는 AI의 발전과 이를 활용한 다양한 산업들의 성장 가능성에 대한 관심이 높아지고 있음을 보여줍니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 관련된 다양한 뉴스와 기술적인 게시글이 올라오고 있으며, 사용자들은 이를 주목하고 있다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "조국",
+      "summary": "조국과 관련된 여러 주제들이 클리앙 커뮤니티에서 논의되고 있습니다. 일부 사용자는 조국의 행동과 발언에 대한 비판을 나타내고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "조국",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "조국에 대한 비판과 논란"
-    },
-    {
-      "keyword": "월드컵",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "월드컵과 관련된 게시글"
+      "keyword": "보완수사권",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "검찰개혁과 관련된 논쟁"
     },
     {
       "keyword": "AI",
+      "count": 30,
+      "sentiment": "positive",
+      "context": "기술 발전과 산업 성장"
+    },
+    {
+      "keyword": "조국",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "AI와 관련된 뉴스와 기술적인 게시글"
+      "sentiment": "negative",
+      "context": "개인에 대한 비판"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 40,
     "negative": 20,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기이지만, 일부 논란이 존재"
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 긍정적인 기조"
   },
   "business_insights": [
     {
-      "insight": "커뮤니티 사용자들은 다양한 주제에 대해 열의를 가지고 있다.",
-      "action": "커뮤니티 사용자의 관심사를 고려한 마케팅 전략을 수립해야 한다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 성장 가능성을 열어줍니다.",
+      "action": "AI 기술을 활용한 신규 사업 기회 탐색",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술적인 게시글이 주목을 받고 있다.",
-      "action": "AI와 관련된 기술적인 내용을 제공하여 사용자의 관심을 끌어야 한다.",
+      "insight": "검찰개혁과 관련된 논쟁은 사회적 관심을 끌어모으고 있습니다.",
+      "action": "관련 주제에 대한 콘텐츠 생성",
       "priority": "medium"
     }
   ],
-  "narrative": "커뮤니티 사용자들은 다양한 주제에 대해 열의를 가지고 있으며, 일부 논란이 존재한다. 조국에 대한 비판과 월드컵에 대한 게시글이 주목을 받고 있다. 또한, AI와 관련된 기술적인 게시글이 주목을 받고 있으며, 사용자들은 이를 주의 깊게 살펴보고 있다. 이러한 현상을 고려한 마케팅 전략을 수립하여 사용자의 관심을 끌어야 한다.",
-  "analyzed_at": "2026-07-12T02:00:34.632Z",
+  "narrative": "클리앙 커뮤니티의 최근 트렌드는 보완수사권과 AI 기술, 그리고 조국과 관련된 주제들로 대표됩니다. 보완수사권 폐지와 관련된 논쟁은 사회적 관심을 끌어모으고 있으며, AI 기술의 발전은 다양한 산업에서 성장 가능성을 열어주는 것으로 보입니다. 조국과 관련된 주제들은 일부 사용자들의 비판을 받고 있습니다. 이러한 트렌드들은 마케터와 비즈니스 리더들에게 새로운 기회와 도전을 제시하고 있습니다. 특히 AI 기술의 발전은 다양한 산업에서 성장 가능성을 열어주는 중요한 요소로 부각되고 있습니다. 따라서 관련된 콘텐츠 생성과 신규 사업 기회 탐색은 높은 우선순위를 가집니다.",
+  "analyzed_at": "2026-07-12T03:30:34.983Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
