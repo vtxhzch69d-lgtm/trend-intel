@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래, 보완수사권 대신 확인권, 면담권 주면 된다",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크",
-      "summary": "LG 씽큐앱 또 먹통이네요",
+      "topic": "정청래TV의 구독자 증가",
+      "summary": "정청래TV의 구독자가 급격히 증가하고 있으며, 신천지와의 연관성에 대한 의구심이 제기되고 있다.",
       "post_count": 3,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "삼성, 테슬라 AI5 양산 초읽기…미국 테일러 공장 가동 '청신호'",
-      "post_count": 2,
+      "topic": "AI 기술의 발전",
+      "summary": "AI 기술의 발전이 가속화되고 있으며, 다양한 산업 분야에서 적용되고 있다.",
+      "post_count": 10,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "스마트한 독재",
+      "summary": "스마트한 독재에 대한 논의가 진행되고 있으며, 다양한 관점에서 접근하고 있다.",
+      "post_count": 2,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "LG",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "씽큐앱 문제"
-    },
-    {
-      "keyword": "삼성",
-      "count": 3,
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "테슬라 AI5 양산"
+      "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "정청래",
-      "count": 2,
+      "keyword": "정청래TV",
+      "count": 3,
       "sentiment": "mixed",
-      "context": "보완수사권 논란"
+      "context": "정청래TV의 구독자 증가와 신천지 연관성"
+    },
+    {
+      "keyword": "스마트한 독재",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "스마트한 독재에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "기대와 우려가 공존하는 혼합된 분위기"
   },
   "business_insights": [
     {
-      "insight": "테크 기업의 고객 서비스 중요성",
-      "action": "고객 서비스 개선",
+      "insight": "AI 기술의 발전은 다양한 산업 분야에서 기회를 창출할 수 있다.",
+      "action": "AI 기술을 적용하여 비즈니스 모델을 혁신하고 경쟁력을 강화한다.",
       "priority": "high"
     },
     {
-      "insight": "정치적 논란의 사회적 영향",
-      "action": "사회적 책임 강화",
+      "insight": "스마트한 독재에 대한 논의는 사회적 및 정치적인 영향을 미칠 수 있다.",
+      "action": "스마트한 독재에 대한 논의를 주시하고, 사회적 및 정치적인 영향을 분석한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제적 성장의 기술 혁신 중요성",
-      "action": "기술 투자 증가",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 테크 관련 주제가 많이 обсужд되고 있습니다. 특히, 정청래의 보완수사권 논란과 LG 씽큐앱의 문제가 많은 관심을 받고 있습니다. 또한, 삼성의 테슬라 AI5 양산 소식이 경제적 성장의 기술 혁신 중요성을 강조하고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업과 정부는 고객 서비스, 사회적 책임, 기술 투자 등에 대한 중요성을 인식하고 대응해야 합니다.",
-  "analyzed_at": "2026-07-13T15:30:34.171Z",
-  "post_count": 59,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 정청래TV의 구독자 증가가 주목을 끌고 있다. AI 기술의 발전은 다양한 산업 분야에서 기회를 창출할 수 있으며, 스마트한 독재에 대한 논의는 사회적 및 정치적인 영향을 미칠 수 있다. 이러한 트렌드를 주시하고, 비즈니스 모델을 혁신하여 경쟁력을 강화하는 것이 중요하다. 또한, 스마트한 독재에 대한 논의를 주시하고, 사회적 및 정치적인 영향을 분석하여 적절한 대응책을 마련하는 것이 필요하다.",
+  "analyzed_at": "2026-07-13T17:00:39.206Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
