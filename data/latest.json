@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스와 논란이 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "post_count": 15,
+      "topic": "주식 시장",
+      "summary": "주식 시장의 분위기가 묘하고, 삼성이 하닉 보다는 장기전망이 좋지 않아 보인다. 주식 손떼야겠다는 의견도 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 관련된 기술 뉴스와 개발이 커뮤니티에서 많이 관심을 받고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 주가 변동이 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "AI 기술이 발전하고 있으며, 다양한 산업에서 적용되고 있다. OpenAI의 GPT-5.6 Sol Ultra가 50년 된 수학 추측을 1시간도 안 돼 증명했다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 뉴스가 많으며, 특검, 김건희, 윤 대통령 등이 언급되고 있다. 국민정당, 당원 중심 등이 논의되고 있다.",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
+      "keyword": "주식",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "주식 시장의 분위기"
+    },
+    {
       "keyword": "AI",
       "count": 25,
       "sentiment": "positive",
-      "context": "AI의 발전과 적용에 대한 논의"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "정치 뉴스와 논란에 대한 논의"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "경제 뉴스와 주가 변동에 대한 논의"
+      "count": 18,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기이지만, 일부 정치와 경제 관련된 주제에서는 부정적인 감정이 나타납니다."
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI와 관련된 기술 개발이 중요합니다.",
-      "action": "AI와 관련된 기술 개발에 투자하기",
+      "insight": "주식 시장의 분위기를 주시해야 한다",
+      "action": "주식 투자 전략을 재검토한다",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제 관련된 주제는 커뮤니티에서 많이 обсужд됩니다.",
-      "action": "정치와 경제 관련된 주제에 대한 콘텐츠 개발하기",
+      "insight": "AI 기술의 발전을 주시해야 한다",
+      "action": "AI 기술을 사업에 적용한다",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 뉴스를 주시해야 한다",
+      "action": "정치 관련 뉴스를 분석한다",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 커뮤니티 트렌드 분석 결과, 정치와 경제 관련된 주제는 많이 обсужд되고 있습니다. 그러나 AI와 관련된 기술 개발은 커뮤니티에서 긍정적인 반응을 받고 있습니다. 따라서, AI와 관련된 기술 개발에 투자하고, 정치와 경제 관련된 주제에 대한 콘텐츠 개발하기를 추천합니다. 또한, 커뮤니티의 중립적인 분위기를 고려하여, 콘텐츠 개발 시 부정적인 감정을 고려해야 합니다.",
-  "analyzed_at": "2026-07-12T23:30:34.243Z",
+  "narrative": "현재 주식 시장의 분위기는 묘하고, 삼성이 하닉 보다는 장기전망이 좋지 않아 보인다. 주식 손떼야겠다는 의견도 있다. AI 기술은 발전하고 있으며, 다양한 산업에서 적용되고 있다. OpenAI의 GPT-5.6 Sol Ultra가 50년 된 수학 추측을 1시간도 안 돼 증명했다. 정치 관련 뉴스는 많으며, 특검, 김건희, 윤 대통령 등이 언급되고 있다. 국민정당, 당원 중심 등이 논의되고 있다. 이러한 트렌드를 분석하여 사업 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-07-13T01:00:34.001Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
