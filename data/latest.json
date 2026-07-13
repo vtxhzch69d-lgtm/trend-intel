@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 산업",
-      "summary": "삼성 노조의 호남 반도체 교섭 의제와 노동부의 반응, 반도체 기술의 발전 등이 논의되고 있습니다.",
+      "topic": "트럼프와 경제",
+      "summary": "트럼프의 화물값 요구와 주식 시장의 반응, 美통행료와 금리 등 경제 관련 뉴스가 주목을 받고 있습니다.",
       "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "부동산과 주택",
+      "summary": "부동산 가격과 주택 정책, 장기임대주택 등 관련 뉴스가 관심을 받고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI의 발전과 ứng dụng, 정부의 AI 정책 등이 논의되고 있습니다.",
-      "post_count": 8,
+      "topic": "AI와 기술",
+      "summary": "AI의 발전과 기술 관련 뉴스, 특히 삼성과 테슬라의 동향이 주목을 받고 있습니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "부동산 시장",
-      "summary": "서울 국평 아파트의 실거래가 순위와 다주택자 통계 등이 논의되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
+      "keyword": "트럼프",
       "count": 15,
+      "sentiment": "negative",
+      "context": "트럼프의 경제 정책과 관련된 뉴스에서 자주 언급됩니다."
+    },
+    {
+      "keyword": "부동산",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "산업 동향"
+      "context": "부동산 가격과 주택 정책 관련 뉴스에서 자주 언급됩니다."
     },
     {
       "keyword": "AI",
       "count": 12,
       "sentiment": "positive",
-      "context": "기술 발전"
-    },
-    {
-      "keyword": "부동산",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "시장 동향"
+      "context": "AI의 발전과 기술 관련 뉴스에서 자주 언급됩니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
+    "negative": 25,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적이고 부정적인 기운이 강합니다."
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 성장",
-      "action": "투자 증가",
+      "insight": "트럼프의 경제 정책이 주식 시장에 미치는 영향",
+      "action": "주식 투자 전략을 재검토할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "연구 개발 투자",
+      "insight": "부동산 가격과 주택 정책의 동향",
+      "action": "주택 투자 전략을 재검토할 필요가 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "부동산 시장의 안정화",
-      "action": "정책 지원",
-      "priority": "low"
+      "insight": "AI의 발전과 기술 관련 뉴스",
+      "action": "AI 관련 기술과 서비스에 투자할 필요가 있습니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 온라인 커뮤니티 트렌드는 반도체 산업, AI 기술, 부동산 시장 등이 주를 이루고 있습니다. 반도체 산업은 성장하고 있으며, AI 기술은 발전하고 있습니다. 부동산 시장은 안정화되고 있습니다. 이러한 트렌드는 사업적 인사이트를 제공하며, 투자 증가, 연구 개발 투자, 정책 지원 등이 필요합니다.",
-  "analyzed_at": "2026-07-13T21:30:34.754Z",
+  "narrative": "최근의 트렌드 분석 결과, 트럼프의 경제 정책과 부동산 가격, AI의 발전이 주목을 받고 있습니다. 트럼프의 화물값 요구와 주식 시장의 반응, 美通행료와 금리 등 경제 관련 뉴스가 주목을 받고 있습니다. 또한, 부동산 가격과 주택 정책, 장기임대주택 등 관련 뉴스가 관심을 받고 있습니다. AI의 발전과 기술 관련 뉴스, 특히 삼성과 테슬라의 동향이 주목을 받고 있습니다. 이러한 트렌드를 분석하여, 주식 투자 전략을 재검토하고, 주택 투자 전략을 재검토하며, AI 관련 기술과 서비스에 투자할 필요가 있습니다.",
+  "analyzed_at": "2026-07-13T23:00:34.207Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
