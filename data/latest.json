@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래, 보완수사권 대신 확인권, 면담권 주면 된다. 이재명 정부 일 너무 잘 하지않나요?",
+      "summary": "정청래, 보완수사권 대신 확인권, 면담권 주면 된다",
       "post_count": 5,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "테크",
+      "summary": "LG 씽큐앱 또 먹통이네요",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "주식",
-      "summary": "하이닉스 ADR, 마이크론이 -5% 이내면 좋겠는데요. 주식을 안 하는 사람이 없는 거 같네요.",
-      "post_count": 4,
-      "sentiment": "neutral",
+      "topic": "경제",
+      "summary": "삼성, 테슬라 AI5 양산 초읽기…미국 테일러 공장 가동 '청신호'",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "low"
-    },
-    {
-      "topic": "기술",
-      "summary": "ASUS ROG Gjallar 게이밍 데스크톱 사운드바 출시. 갤럭시S26 울트라 품질 논란, 삼성 조사 착수",
-      "post_count": 6,
-      "sentiment": "neutral",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 3,
+      "keyword": "LG",
+      "count": 5,
       "sentiment": "negative",
-      "context": "정청래에 대한 비판"
+      "context": "씽큐앱 문제"
     },
     {
-      "keyword": "이재명",
-      "count": 2,
+      "keyword": "삼성",
+      "count": 3,
       "sentiment": "positive",
-      "context": "이재명 정부에 대한 지지"
+      "context": "테슬라 AI5 양산"
     },
     {
-      "keyword": "주식",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "주식 시장에 대한 관심"
+      "keyword": "정청래",
+      "count": 2,
+      "sentiment": "mixed",
+      "context": "보완수사권 논란"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 12,
+    "negative": 15,
     "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 이슈가 온라인 커뮤니티에서 큰 관심을 받고 있다.",
-      "action": "정치적 이슈에 대한 모니터링 강화",
+      "insight": "테크 기업의 고객 서비스 중요성",
+      "action": "고객 서비스 개선",
       "priority": "high"
     },
     {
-      "insight": "주식 시장에 대한 관심이 높아지고 있다.",
-      "action": "주식 시장에 대한 분석 및 보고서 제공",
+      "insight": "정치적 논란의 사회적 영향",
+      "action": "사회적 책임 강화",
       "priority": "medium"
+    },
+    {
+      "insight": "경제적 성장의 기술 혁신 중요성",
+      "action": "기술 투자 증가",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 온라인 커뮤니티에서는 정치적 이슈가 큰 관심을 받고 있다. 정청래와 이재명 정부에 대한 논의가 활발하게 이루어지고 있다. 또한 주식 시장에 대한 관심이 높아지고 있으며, 하이닉스와 마이크론에 대한 논의가 이루어지고 있다. 기술적으로는 ASUS ROG Gjallar 게이밍 데스크톱 사운드바의 출시와 갤럭시S26 울트라의 품질 논란이 관심을 받고 있다. 이러한 트렌드에 따라 정치적 이슈에 대한 모니터링과 주식 시장에 대한 분석 및 보고서 제공이 필요하다.",
-  "analyzed_at": "2026-07-13T14:00:38.182Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 테크 관련 주제가 많이 обсужд되고 있습니다. 특히, 정청래의 보완수사권 논란과 LG 씽큐앱의 문제가 많은 관심을 받고 있습니다. 또한, 삼성의 테슬라 AI5 양산 소식이 경제적 성장의 기술 혁신 중요성을 강조하고 있습니다. 이러한 트렌드 분석 결과를 통해, 기업과 정부는 고객 서비스, 사회적 책임, 기술 투자 등에 대한 중요성을 인식하고 대응해야 합니다.",
+  "analyzed_at": "2026-07-13T15:30:34.171Z",
   "post_count": 59,
   "sources": [
     "ppomppu",
