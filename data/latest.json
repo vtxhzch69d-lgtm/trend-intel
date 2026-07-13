@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래 의원과 민주당 정권에 대한 논의가 활발하다. 또한, 부동산 규제와 주식 시장 규제에 대한 의견이 분분하다.",
-      "post_count": 10,
+      "summary": "정청래, 보완수사권 대신 확인권, 면담권 주면 된다. 이재명 정부 일 너무 잘 하지않나요?",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크",
-      "summary": "AI 기술과 관련된 뉴스 및 논의가 많다. 특히, 오픈AI와 관련된 소식이 주목을 받고 있다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "주식",
+      "summary": "하이닉스 ADR, 마이크론이 -5% 이내면 좋겠는데요. 주식을 안 하는 사람이 없는 거 같네요.",
+      "post_count": 4,
+      "sentiment": "neutral",
+      "urgency": "low"
     },
     {
-      "topic": "경제",
-      "summary": "부동산 규제와 주식 시장 규제에 대한 의견이 분분하다. 또한, 레버리지 ETF와 관련된 논의가 있다.",
+      "topic": "기술",
+      "summary": "ASUS ROG Gjallar 게이밍 데스크톱 사운드바 출시. 갤럭시S26 울트라 품질 논란, 삼성 조사 착수",
       "post_count": 6,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "정청래",
-      "count": 5,
+      "count": 3,
       "sentiment": "negative",
-      "context": "정청래 의원과 관련된 논의"
+      "context": "정청래에 대한 비판"
     },
     {
-      "keyword": "AI",
-      "count": 8,
+      "keyword": "이재명",
+      "count": 2,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스 및 논의"
+      "context": "이재명 정부에 대한 지지"
     },
     {
-      "keyword": "부동산",
+      "keyword": "주식",
       "count": 4,
-      "sentiment": "negative",
-      "context": "부동산 규제와 관련된 논의"
+      "sentiment": "neutral",
+      "context": "주식 시장에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
+    "positive": 10,
+    "negative": 12,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 산업은 빠르게 성장하고 있다.",
-      "action": "테크 산업에 대한 투자와 연구를 강화해야 한다.",
+      "insight": "정치적 이슈가 온라인 커뮤니티에서 큰 관심을 받고 있다.",
+      "action": "정치적 이슈에 대한 모니터링 강화",
       "priority": "high"
     },
     {
-      "insight": "부동산 규제와 주식 시장 규제에 대한 의견이 분분하다.",
-      "action": "관련된 정책과 규제에 대한 연구와 분석을 수행해야 한다.",
+      "insight": "주식 시장에 대한 관심이 높아지고 있다.",
+      "action": "주식 시장에 대한 분석 및 보고서 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, 테크, 경제 등 다양한 주제를 포함하고 있다. 특히, 테크 산업은 빠르게 성장하고 있으며, 관련된 뉴스와 논의가 많다. 그러나, 부동산 규제와 주식 시장 규제에 대한 의견은 분분하며, 관련된 정책과 규제에 대한 연구와 분석이 필요하다. 또한, 정청래 의원과 관련된 논의가 많으며, 관련된 뉴스와 논의는 주목을 받고 있다. 따라서, 테크 산업에 대한 투자와 연구를 강화하고, 관련된 정책과 규제에 대한 연구와 분석을 수행해야 한다.",
-  "analyzed_at": "2026-07-13T12:30:34.792Z",
+  "narrative": "최근 온라인 커뮤니티에서는 정치적 이슈가 큰 관심을 받고 있다. 정청래와 이재명 정부에 대한 논의가 활발하게 이루어지고 있다. 또한 주식 시장에 대한 관심이 높아지고 있으며, 하이닉스와 마이크론에 대한 논의가 이루어지고 있다. 기술적으로는 ASUS ROG Gjallar 게이밍 데스크톱 사운드바의 출시와 갤럭시S26 울트라의 품질 논란이 관심을 받고 있다. 이러한 트렌드에 따라 정치적 이슈에 대한 모니터링과 주식 시장에 대한 분석 및 보고서 제공이 필요하다.",
+  "analyzed_at": "2026-07-13T14:00:38.182Z",
   "post_count": 59,
   "sources": [
     "ppomppu",
