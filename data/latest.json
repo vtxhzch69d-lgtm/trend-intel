@@ -1,49 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판의 글입니다. 사용자들은 다양한 주제에 대해 обсужд하고 있습니다.",
-      "post_count": 100,
+      "topic": "정청래",
+      "summary": "정청래의 불출마 선언과 관련된 다양한 의견과 반응",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "삼성",
+      "summary": "삼성의 호남 투자와 관련된 뉴스 및 의견",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 뉴스 및 의견",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "정청래",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정청래의 불출마 선언과 관련된 의견"
     },
     {
-      "keyword": "이슈",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "문제 또는 논란"
+      "keyword": "삼성",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "삼성의 호남 투자와 관련된 뉴스"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 뉴스 및 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 20,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 다양한 주제에 대해 관심이 있습니다.",
-      "action": "다양한 주제에 대한 콘텐츠를 제공하세요.",
+      "insight": "정청래의 불출마 선언이 정치계에 미치는 영향",
+      "action": "정치계 동향을 주시하고 대응 전략을 수립",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 이슈 또는 문제에 대해 논의합니다.",
-      "action": "이슈 또는 문제에 대한 해결책을 제공하세요.",
+      "insight": "삼성의 호남 투자가 지역 경제에 미치는 영향",
+      "action": "지역 경제 동향을 분석하고 투자 기회를 모색",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전이 산업계에 미치는 영향",
+      "action": "AI 기술을 적용하고 산업계 동향을 분석",
+      "priority": "high"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 обсужд과 이슈에 대한 논의가 활발하게 진행되고 있습니다. 사용자들은 중립적이지만 약간 부정적인 분위기를 보이고 있습니다. 마케터는 다양한 주제에 대한 콘텐츠를 제공하고, 이슈 또는 문제에 대한 해결책을 제공하여 사용자들의 관심을 끌 수 있습니다. 또한, 사용자들의 의견을 수집하고, 피드백을 제공하여 더 나은 서비스를 제공할 수 있습니다.",
-  "analyzed_at": "2026-07-13T08:01:27.861Z",
-  "post_count": 2,
+  "narrative": "최근 클리앙 커뮤니티에서热한 주제는 정청래의 불출마 선언과 관련된 의견 및 뉴스입니다. 또한 삼성의 호남 투자와 AI 기술의 발전도 주목할 만한 주제입니다. 이러한 주제는 정치계, 산업계, 기술계 등 다양한 분야에서 논의되고 있으며, 각 분야의 전문가와 기업은 이러한 동향을 주시하고 대응 전략을 수립해야 할 것입니다. 또한, AI 기술의 발전은 산업계에 큰 영향을 미칠 것으로 예상되며, 기업들은 AI 기술을 적용하고 산업계 동향을 분석해야 할 것입니다.",
+  "analyzed_at": "2026-07-13T09:30:34.677Z",
+  "post_count": 58,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
