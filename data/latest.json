@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "반도체 산업",
-      "summary": "반도체 산업의 최근 동향과 발전이 주목을 받고 있습니다. 클리앙 커뮤니티에서는 반도체 관련 뉴스와 정보가 활발하게 공유되고 있습니다.",
+      "summary": "삼성 노조의 호남 반도체 교섭 의제와 노동부의 반응, 반도체 기술의 발전 등이 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용이 주목을 받고 있습니다. 클리앙 커뮤니티에서는 AI 관련 뉴스와 정보가 활발하게 공유되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스와 정보가 주목을 받고 있습니다. 클리앙 커뮤니티에서는 정치 및 사회 관련 논쟁과 토론이 활발하게 진행되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI의 발전과 ứng dụng, 정부의 AI 정책 등이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "부동산 시장",
+      "summary": "서울 국평 아파트의 실거래가 순위와 다주택자 통계 등이 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "반도체",
       "count": 15,
-      "sentiment": "positive",
-      "context": "반도체 산업의 최근 동향과 발전"
+      "sentiment": "neutral",
+      "context": "산업 동향"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 응용"
+      "context": "기술 발전"
     },
     {
-      "keyword": "정치",
+      "keyword": "부동산",
       "count": 8,
-      "sentiment": "negative",
-      "context": "정치 관련 논쟁과 토론"
+      "sentiment": "neutral",
+      "context": "시장 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "반도체 산업의 발전",
-      "action": "반도체 산업에 투자",
+      "insight": "반도체 산업의 성장",
+      "action": "투자 증가",
       "priority": "high"
     },
     {
       "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "action": "연구 개발 투자",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 관련 논쟁",
-      "action": "정치 및 사회 관련 논쟁에 참여",
+      "insight": "부동산 시장의 안정화",
+      "action": "정책 지원",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 반도체 산업과 AI 기술의 발전이 주목을 받고 있습니다. 이러한 기술의 발전은 비즈니스 모델의 변화를 가져올 수 있습니다. 또한, 정치 및 사회 관련 논쟁과 토론이 활발하게 진행되고 있습니다. 이러한 동향을 분석하여 비즈니스 전략을 개발할 수 있습니다. 클리앙 커뮤니티는 이러한 기술과 사회 관련 뉴스와 정보를 공유하고 토론하는 플랫폼으로서의 역할을 하고 있습니다.",
-  "analyzed_at": "2026-07-13T20:00:33.948Z",
+  "narrative": "현재의 온라인 커뮤니티 트렌드는 반도체 산업, AI 기술, 부동산 시장 등이 주를 이루고 있습니다. 반도체 산업은 성장하고 있으며, AI 기술은 발전하고 있습니다. 부동산 시장은 안정화되고 있습니다. 이러한 트렌드는 사업적 인사이트를 제공하며, 투자 증가, 연구 개발 투자, 정책 지원 등이 필요합니다.",
+  "analyzed_at": "2026-07-13T21:30:34.754Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
