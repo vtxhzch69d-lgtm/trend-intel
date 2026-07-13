@@ -1,70 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "주식시장",
-      "summary": "주식시장의 현재 상황과 전망에 대한讨論",
-      "post_count": 10,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판을 중심으로 이루어져 있습니다. 사용자들은 다양한 주제에 대해 обсужд하고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논평",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 트렌드와 뉴스",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "주식시장의 하락"
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "이슈",
+      "count": 20,
       "sentiment": "negative",
-      "context": "정치 관련 논평"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "이슈게시판 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "주식시장의 불안정성",
-      "action": "투자 전략의 재평가",
+      "insight": "커뮤니티 사용자들은 다양한 주제에 대해 관심을 가지고 있습니다.",
+      "action": "다양한 주제에 대한 콘텐츠 제공",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술의 활용",
+      "insight": "이슈게시판에는 부정적인 감정이 많습니다.",
+      "action": "이슈게시판에 대한 모니터링 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 주식시장은 불안정한 상황이며, 정치 관련 뉴스와 논평이 많습니다. 기술 트렌드에서는 AI 기술의 발전이 두드러집니다. 이러한 상황을 고려하여 투자 전략을 재평가하고, AI 기술의 활용을 고려할 필요가 있습니다.",
-  "analyzed_at": "2026-07-13T05:30:33.363Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 обсужд과 이슈에 대한 관심이 높은 것을 알 수 있습니다. 사용자들은 자유게시판과 이슈게시판을 중심으로 활동하고 있습니다. 마케터들은 다양한 주제에 대한 콘텐츠 제공과 이슈게시판에 대한 모니터링 강화를 통해 사용자들의 관심을 끌 수 있습니다. 또한, 부정적인 감정을 줄이기 위해 이슈게시판에 대한 관리를 강화할 필요가 있습니다.",
+  "analyzed_at": "2026-07-13T07:00:34.287Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
