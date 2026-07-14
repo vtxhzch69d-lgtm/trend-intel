@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스와 논쟁이 클리앙 커뮤니티에서 인기 있는 주제입니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. AI의 잠재적 활용과 관련된 우려도 존재한다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 뉴스와 제품 출시가 클리앙 커뮤니티에서 인기 있는 주제입니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 주식 시장 관련 글들이 클리앙 커뮤니티에서 인기 있는 주제입니다.",
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련된 주제가 논의되고 있다. 정부 정책과 관련된 의견이 분분하다.",
+      "post_count": 20,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 산업",
+      "summary": "경제와 산업 관련된 주제가 논의되고 있다. 기업의 성과와 관련된 뉴스가 있다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 관련된 주제"
+    },
+    {
+      "keyword": "정부",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정부 정책과 관련된 의견"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술과 제품 출시 관련 뉴스"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 뉴스와 논쟁 관련 글"
-    },
-    {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "주식 시장 관련 뉴스와 분석"
+      "context": "기업의 성과와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
+    "positive": 15,
+    "negative": 25,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 AI와 기술 관련 주제가 인기 있습니다.",
-      "action": "AI와 기술 관련 제품이나 서비스를 출시할 때 클리앙 커뮤니티를 타겟으로 홍보할 수 있습니다.",
+      "insight": "AI 기술의 발전이 산업에 미치는 영향",
+      "action": "AI 기술의 잠재적 활용을 연구하고 투자하기",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제가 클리언 커뮤니티에서 논쟁을 일으킬 수 있습니다.",
-      "action": "정치 관련 주제를 다루는 경우에는 중립적인 태도를 유지하고 논쟁을 피하는 것이 좋습니다.",
+      "insight": "정부 정책의 경제적 영향",
+      "action": "정부 정책의 변화를 주시하고 대응하기",
       "priority": "medium"
+    },
+    {
+      "insight": "기업의 성과와 관련된 뉴스",
+      "action": "기업의 성과를 주시하고 투자하기",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티는 다양한 주제를 다루는 온라인 플랫폼입니다. 최근의 정치 뉴스와 논쟁, AI와 기술 관련 뉴스, 경제 뉴스 등이 인기 있는 주제입니다. 클리앙 커뮤니티에서 AI와 기술 관련 주제가 특히 인기 있습니다. 이는 클리앙 커뮤니티 사용자들이 기술과 관련된 주제에 관심이 많다는 것을 의미합니다. 따라서 AI와 기술 관련 제품이나 서비스를 출시할 때 클리언 커뮤니티를 타겟으로 홍보할 수 있습니다. 또한, 정치 관련 주제는 클리앙 커뮤니티에서 논쟁을 일으킬 수 있으므로 중립적인 태도를 유지하고 논쟁을 피하는 것이 좋습니다.",
-  "analyzed_at": "2026-07-14T06:30:33.964Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 많이 논의되고 있다. 그러나 정부 정책과 관련된 의견은 분분하여 부정적인 분위기가 존재한다. 또한, 기업의 성과와 관련된 뉴스가 있다. 이러한 트렌드를 바탕으로, AI 기술의 잠재적 활용을 연구하고 투자하는 것이 중요하다. 또한, 정부 정책의 변화를 주시하고 대응하는 것이 필요하다.",
+  "analyzed_at": "2026-07-14T08:00:38.651Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
