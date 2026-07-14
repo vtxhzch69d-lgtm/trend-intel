@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "트럼프와 경제",
-      "summary": "트럼프의 화물값 요구와 주식 시장의 반응, 美통행료와 금리 등 경제 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "주식 시장",
+      "summary": "현재 한국 주식 시장은 투자 심리 신뢰가 흔들린다고 봐야죠. 주식 변동성 장난 아니네요.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산과 주택",
-      "summary": "부동산 가격과 주택 정책, 장기임대주택 등 관련 뉴스가 관심을 받고 있습니다.",
+      "topic": "반도체 산업",
+      "summary": "반도체 속 '전기 병목현상' 해결 실마리 찾았다. 반도체 주가 끝이다 vs. 아니다",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI의 발전과 기술 관련 뉴스, 특히 삼성과 테슬라의 동향이 주목을 받고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
+      "topic": "AI 기술",
+      "summary": "AI가 저가 경쟁, 상향평준화 되고 있다네요. 카카오 AI 카나나, 中 천안문·위구르 질문에 '답변할 수 없다'",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
-      "count": 15,
+      "keyword": "주식",
+      "count": 20,
       "sentiment": "negative",
-      "context": "트럼프의 경제 정책과 관련된 뉴스에서 자주 언급됩니다."
+      "context": "주식 시장의 변동성과 불안정성"
     },
     {
-      "keyword": "부동산",
-      "count": 10,
+      "keyword": "반도체",
+      "count": 12,
       "sentiment": "neutral",
-      "context": "부동산 가격과 주택 정책 관련 뉴스에서 자주 언급됩니다."
+      "context": "반도체 산업의 기술적 발전과 시장 동향"
     },
     {
       "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI의 발전과 기술 관련 뉴스에서 자주 언급됩니다."
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "AI 기술의 발전과 다양한 ứng용 분야"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적이고 부정적인 기운이 강합니다."
+    "neutral": 20,
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "트럼프의 경제 정책이 주식 시장에 미치는 영향",
-      "action": "주식 투자 전략을 재검토할 필요가 있습니다.",
+      "insight": "주식 시장의 불안정성과 투자 심리",
+      "action": "투자 전략의 재평가",
       "priority": "high"
     },
     {
-      "insight": "부동산 가격과 주택 정책의 동향",
-      "action": "주택 투자 전략을 재검토할 필요가 있습니다.",
+      "insight": "반도체 산업의 기술적 발전",
+      "action": "신제품 개발과 시장 진출",
       "priority": "medium"
     },
     {
-      "insight": "AI의 발전과 기술 관련 뉴스",
-      "action": "AI 관련 기술과 서비스에 투자할 필요가 있습니다.",
+      "insight": "AI 기술의 다양한 ứng용 분야",
+      "action": "신사업 개발과 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 트럼프의 경제 정책과 부동산 가격, AI의 발전이 주목을 받고 있습니다. 트럼프의 화물값 요구와 주식 시장의 반응, 美通행료와 금리 등 경제 관련 뉴스가 주목을 받고 있습니다. 또한, 부동산 가격과 주택 정책, 장기임대주택 등 관련 뉴스가 관심을 받고 있습니다. AI의 발전과 기술 관련 뉴스, 특히 삼성과 테슬라의 동향이 주목을 받고 있습니다. 이러한 트렌드를 분석하여, 주식 투자 전략을 재검토하고, 주택 투자 전략을 재검토하며, AI 관련 기술과 서비스에 투자할 필요가 있습니다.",
-  "analyzed_at": "2026-07-13T23:00:34.207Z",
+  "narrative": "현재 한국 주식 시장은 투자 심리 신뢰가 흔들리고 있습니다. 주식 변동성 장난 아니네요. 반도체 산업은 기술적 발전을 계속하고 있으며, AI 기술은 다양한 응용 분야에서 활용되고 있습니다. 이러한 트렌드와 감성을 고려하여 사업 전략을 수립하고 투자할 수 있습니다.",
+  "analyzed_at": "2026-07-14T00:30:33.971Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
