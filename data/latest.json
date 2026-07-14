@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치이슈",
-      "summary": "최근의 정치이슈와 그에 따른 사회적 영향",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "보완수사권",
+      "summary": "보완수사권을 없애는 것이 쉽지 않을 것이라는 의견과 보완수사청을 별도로 만들자는 의견이 존재한다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "주식시장",
-      "summary": "주식시장의 동향과 투자전략",
-      "post_count": 8,
+      "topic": "레버리지",
+      "summary": "레버리지 상품에 대한 논의가 많으며, 일부 사용자는 레버리지의 위험성을 경고한다.",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련된 다양한 주제가 논의되고 있으며, 일부 사용자는 특정 정치인에 대한 비판적인 의견을 나타낸다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "keyword": "보완수사권",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "보완수사권을 없애는 것이 쉽지 않을 것이라는 의견"
+    },
+    {
+      "keyword": "레버리지",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "레버리지의 위험성을 경고"
     },
     {
       "keyword": "정치",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "최근의 정치이슈"
-    },
-    {
-      "keyword": "주식",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "주식시장의 동향"
+      "sentiment": "mixed",
+      "context": "정치 관련된 다양한 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
+    "positive": 5,
+    "negative": 10,
     "neutral": 15,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적이지만 비판적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 변화를 가져올 수 있다",
-      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾는다",
+      "insight": "레버리지 상품의 위험성을 경고",
+      "action": "투자자에게 레버리지의 위험성을 교육",
       "priority": "high"
     },
     {
-      "insight": "정치이슈는 사회적 영향을 미칠 수 있다",
-      "action": "정치이슈를 주시하고 그에 따른 위험을 관리한다",
-      "priority": "medium"
-    },
-    {
-      "insight": "주식시장은 변동성이 크다",
-      "action": "주식시장의 동향을 주시하고 투자전략을 조정한다",
+      "insight": "정치 관련된 주제가 많이 논의되고 있다",
+      "action": "정치 관련된 주제에 대한 콘텐츠를 생성",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 그에 따른 다양한 산업의 변화, 정치이슈와 그에 따른 사회적 영향, 주식시장의 동향을 중심으로 이루어져 있다. 이러한 트렌드는 기업과 개인에게 기회와 위험을 모두 제공할 수 있다. 따라서 이러한 트렌드를 주시하고 그에 따른 전략을 수립하는 것이 중요하다. AI 기술의 발전은 다양한 산업의 변화를 가져올 수 있으므로, 그에 따른 기회를 찾는 것이 중요하다. 정치이슈는 사회적 영향을 미칠 수 있으므로, 그에 따른 위험을 관리하는 것이 중요하다. 주식시장은 변동성이 크므로, 주식시장의 동향을 주시하고 투자전략을 조정하는 것이 중요하다.",
-  "analyzed_at": "2026-07-14T09:30:33.680Z",
+  "narrative": "최근의 트렌드에 따르면, 보완수사권과 레버리지 상품에 대한 논의가 많으며, 정치 관련된 주제도 많이 논의되고 있다. 사용자들은 레버리지의 위험성을 경고하며, 보완수사권을 없애는 것이 쉽지 않을 것이라는 의견이 존재한다. 정치 관련된 주제에서는 특정 정치인에 대한 비판적인 의견이 나타난다. 이러한 트렌드를 통해, 투자자에게 레버리지의 위험성을 교육하고, 정치 관련된 주제에 대한 콘텐츠를 생성하는 것이 필요하다.",
+  "analyzed_at": "2026-07-14T11:00:34.479Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
