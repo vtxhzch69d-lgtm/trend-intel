@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 상황과 전망에 대한 논의가 활발합니다. 하이닉스와 삼성의 주가 변동, 주식 투자 전략 등 다양한 주제가 논의되고 있습니다.",
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 논쟁이 클리앙 커뮤니티에서 인기 있는 주제입니다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련된 게시물이 많습니다. 대통령과 정부의 정책, 정치인들의 활동 등 다양한 정치 관련된 주제가 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련된 게시물이 많습니다. AI, 반도체, 스마트폰 등 다양한 기술 관련된 주제가 논의되고 있습니다.",
-      "post_count": 8,
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련 뉴스와 제품 출시가 클리앙 커뮤니티에서 인기 있는 주제입니다.",
+      "post_count": 20,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 뉴스와 주식 시장 관련 글들이 클리앙 커뮤니티에서 인기 있는 주제입니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "주식 시장과 투자 전략에 대한 논의"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술과 제품 출시 관련 뉴스"
     },
     {
       "keyword": "정치",
       "count": 15,
-      "sentiment": "negative",
-      "context": "정치 관련된 논의와 비판"
+      "sentiment": "mixed",
+      "context": "정치 뉴스와 논쟁 관련 글"
     },
     {
-      "keyword": "AI",
+      "keyword": "주식",
       "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술과 발전에 대한 논의"
+      "sentiment": "neutral",
+      "context": "주식 시장 관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적이고 다양한 의견이 존재하는 분위기"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 변동성에 대한 이해",
-      "action": "투자 전략의 다양화",
+      "insight": "클리앙 커뮤니티에서 AI와 기술 관련 주제가 인기 있습니다.",
+      "action": "AI와 기술 관련 제품이나 서비스를 출시할 때 클리앙 커뮤니티를 타겟으로 홍보할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술의 발전과 적용",
-      "action": "신기술에 대한 투자와 연구",
+      "insight": "정치 관련 주제가 클리언 커뮤니티에서 논쟁을 일으킬 수 있습니다.",
+      "action": "정치 관련 주제를 다루는 경우에는 중립적인 태도를 유지하고 논쟁을 피하는 것이 좋습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치와 경제의 상관관계",
-      "action": "정책과 경제 동향의 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 온라인 커뮤니티 트렌드는 주식 시장, 정치, 기술 등 다양한 주제를 포함하고 있습니다. 주식 시장의 상황과 전망에 대한 논의가 활발하며, 정치 관련된 게시물도 많습니다. 최신 기술 관련된 게시물도 많으며, AI와 반도체 등 다양한 기술 관련된 주제가 논의되고 있습니다. 이러한 트렌드는 기업과 투자자에게 다양한 의사 결정과 전략의 기회를 제공합니다. 특히, 주식 시장의 변동성에 대한 이해와 최신 기술의 발전과 적용은 중요한 비즈니스 인사이트를 제공합니다.",
-  "analyzed_at": "2026-07-14T05:00:34.006Z",
-  "post_count": 62,
+  "narrative": "클리앙 커뮤니티는 다양한 주제를 다루는 온라인 플랫폼입니다. 최근의 정치 뉴스와 논쟁, AI와 기술 관련 뉴스, 경제 뉴스 등이 인기 있는 주제입니다. 클리앙 커뮤니티에서 AI와 기술 관련 주제가 특히 인기 있습니다. 이는 클리앙 커뮤니티 사용자들이 기술과 관련된 주제에 관심이 많다는 것을 의미합니다. 따라서 AI와 기술 관련 제품이나 서비스를 출시할 때 클리언 커뮤니티를 타겟으로 홍보할 수 있습니다. 또한, 정치 관련 주제는 클리앙 커뮤니티에서 논쟁을 일으킬 수 있으므로 중립적인 태도를 유지하고 논쟁을 피하는 것이 좋습니다.",
+  "analyzed_at": "2026-07-14T06:30:33.964Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
