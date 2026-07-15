@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 유시민의 발언 및 행동에 대한 논란",
-      "post_count": 15,
+      "topic": "유시민",
+      "summary": "유시민의 의견 중 동의하기 힘든 포인트가 있는 것으로 나타났으며, 그의 행동과 발언이 논란이 되고 있다.",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "이재명",
+      "summary": "이재명 퇴임 이후를 걱정하는 분들이 있는 것으로 나타났으며, 보완수사권 폐지에 대한 논란이 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI",
-      "summary": "AI 기술의 발전과 산업 현장에서의 적용",
-      "post_count": 10,
+      "summary": "AI 관련 뉴스와 기술 개발이 활발하게 진행되고 있으며, 다양한 산업에서 AI의 적용이 증가하고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "부동산 가격과 경제 정책에 대한 논란",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "대통령의 발언 및 행동에 대한 비판"
+      "keyword": "유시민",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "유시민의 의견과 행동에 대한 논란"
     },
     {
-      "keyword": "유시민",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "유시민의 발언 및 행동에 대한 논란"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "이재명 퇴임 이후와 보완수사권 폐지에 대한 걱정"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업 현장에서의 적용"
+      "context": "AI 기술 개발과 산업 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정의 우세"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업 현장에서 큰 기회를 제공할 수 있다",
-      "action": "AI 기술의 개발과 적용에 투자하기",
+      "insight": "유시민과 이재명 관련 논란이 정치와 사회에 미치는 영향",
+      "action": "정치와 사회에 대한 관심과 참여를 높이는 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "정치적인 논란은 소비자의 감정과 행동에 큰 영향을 미칠 수 있다",
-      "action": "정치적인 논란을 주의 깊게 모니터링하고 대응하기",
+      "insight": "AI 기술 개발과 산업 적용의 증가",
+      "action": "AI 관련 제품과 서비스 개발 및 마케팅",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치적인 논란과 AI 기술의 발전이 주요 관심사로 나타났다. 이재명 대통령과 유시민의 발언 및 행동에 대한 논란은 소비자의 감정과 행동에 큰 영향을 미치고 있다. 반면, AI 기술의 발전은 산업 현장에서 큰 기회를 제공할 수 있다. 따라서, AI 기술의 개발과 적용에 투자하고 정치적인 논란을 주의 깊게 모니터링하는 것이 중요하다. 또한, 부동산 가격과 경제 정책에 대한 논란도 주목할 필요가 있다.",
-  "analyzed_at": "2026-07-15T12:01:30.397Z",
+  "narrative": "최근의 트렌드 분석 결과, 유시민과 이재명 관련 논란이 정치와 사회에 미치는 영향이 크게 나타났으며, AI 기술 개발과 산업 적용의 증가도 두드러진 특징이다. 이러한 트렌드를 반영한 마케팅 전략 수립이 필요하다. 또한, AI 관련 제품과 서비스 개발 및 마케팅에도 관심을 기울일 필요가 있다. 중립적인 마케팅 접근이 필요하며, 정치와 사회에 대한 관심과 참여를 높이는 마케팅 전략이 효과적일 수 있다.",
+  "analyzed_at": "2026-07-15T13:30:34.557Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
