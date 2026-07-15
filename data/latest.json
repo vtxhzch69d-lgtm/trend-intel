@@ -1,78 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련된 다양한 주제들이 논의되고 있습니다. 검찰개혁, 장동혁, 한동훈 등이 주요 키워드로 등장하고 있습니다.",
-      "post_count": 15,
+      "topic": "보완수사권",
+      "summary": "보완수사권에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다. 일부 사용자들은 보완수사권의 필요성을 강조하는 반면, 다른 사용자들은 이를 반대하는 입장이다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융 관련된 주제들이 논의되고 있습니다. 주담대, 국장, 반도체 등이 주요 키워드로 등장하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "클리앙 커뮤니티에서 AI 기술 관련 뉴스가 많이 공유되고 있다. 사용자들은 AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대해 관심을 보이고 있다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "기술과 AI 관련된 주제들이 논의되고 있습니다. AI, 반도체, 구글 등이 주요 키워드로 등장하고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "주식 시장",
+      "summary": "클리앙 커뮤니티에서 주식 시장 관련 게시글이 많이 올라오고 있다. 사용자들은 주식 시장의 동향과 투자 전략에 대해 논의하고 있다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "장동혁",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치와 사회 관련된 주제에서 등장"
-    },
-    {
-      "keyword": "한동훈",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "정치와 사회 관련된 주제에서 등장"
+      "keyword": "보완수사권",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "보완수사권에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 25,
       "sentiment": "positive",
-      "context": "기술과 AI 관련된 주제에서 등장"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "반도체",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "경제와 금융 관련된 주제에서 등장"
+      "keyword": "주식",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "주식 시장의 동향"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정이 다소 더 강한 것으로 나타남"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 사회 관련된 주제가 많은 관심을 받고 있습니다.",
-      "action": "정치와 사회 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
+      "insight": "보완수사권에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다.",
+      "action": "관련 정책이나 법안에 대한 정보를 제공하는 콘텐츠를 제작한다.",
       "priority": "high"
     },
     {
-      "insight": "경제와 금융 관련된 주제가 다소 부정적인 감정을 가지고 있습니다.",
-      "action": "경제와 금융 관련된 주제에 대한 콘텐츠를 생성하여 부정적인 감정을 개선할 수 있습니다.",
+      "insight": "AI 기술의 발전이 클리엔 커뮤니티에서 많은 관심을 받고 있다.",
+      "action": "AI 기술 관련 뉴스나 정보를 제공하는 콘텐츠를 제작한다.",
       "priority": "medium"
     },
     {
-      "insight": "기술과 AI 관련된 주제가 많은 관심을 받고 있습니다.",
-      "action": "기술과 AI 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-      "priority": "medium"
+      "insight": "주식 시장 관련 게시글이 클리앙 커뮤니티에서 많이 올라오고 있다.",
+      "action": "주식 시장의 동향이나 투자 전략에 대한 정보를 제공하는 콘텐츠를 제작한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 사회 관련된 주제가 많은 관심을 받고 있습니다. 특히 장동혁과 한동훈 등이 주요 키워드로 등장하고 있습니다. 또한 경제와 금융 관련된 주제가 다소 부정적인 감정을 가지고 있습니다. 반도체 등이 주요 키워드로 등장하고 있습니다. 기술과 AI 관련된 주제도 많은 관심을 받고 있습니다. AI, 반도체 등이 주요 키워드로 등장하고 있습니다. 이러한 트렌드에 따라 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한 부정적인 감정을 개선할 수 있습니다. 따라서 정치와 사회 관련된 주제, 경제와 금융 관련된 주제, 기술과 AI 관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-07-15T04:30:34.555Z",
+  "narrative": "클리앙 커뮤니티에서 보완수사권, AI 기술, 주식 시장 등 다양한 주제가 논의되고 있다. 보완수사권에 대한 논의는 매우 활발하게 진행되고 있으며, AI 기술의 발전도 많은 관심을 받고 있다. 주식 시장 관련 게시글도 많이 올라오고 있지만, 전체적인 분위기는 중립적이다. 이러한 트렌드를 고려하여 콘텐츠를 제작하고, 관련 정책이나 법안에 대한 정보를 제공하는 것이 중요하다.",
+  "analyzed_at": "2026-07-15T06:00:35.505Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
