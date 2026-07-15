@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령 관련 뉴스와 의견이 많습니다. 일부에서는 대통령의 정책을 지지하며, 다른 일부에서는 비판적입니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "정청래 대표의 사과와 민주당의 내부 분열이 논란이 되고 있습니다. 또한, 이재명 대통령의 경찰 수사권에 대한 의견이 대두되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "검찰개혁",
-      "summary": "검찰개혁 관련 뉴스와 의견이 많습니다. 일부에서는 개혁을 지지하며, 다른 일부에서는 반대합니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 산업 현장의 변화가 주목을 받고 있습니다. 특히, AI 칩 구매와 우주 클러스터 예산의 실집행률이 논란이 되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 뉴스와 의견이 많습니다. 일부에서는 기술의 발전을 기대하며, 다른 일부에서는 우려를 표합니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "호프 영화",
+      "summary": "호프 영화에 대한 개인적인 감상과 후기들이 게시되고 있습니다. 일부 사용자는 영화를 실망스럽다고 평가했습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "대통령 관련 뉴스와 의견"
-    },
-    {
-      "keyword": "검찰개혁",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "관련 뉴스와 의견"
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 관련된 게시글에서 자주 언급되고 있습니다."
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "기술 관련 뉴스와 의견"
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "기술 관련된 게시글에서 자주 언급되고 있습니다."
+    },
+    {
+      "keyword": "정청래",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련된 게시글에서 자주 언급되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 10,
     "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "neutral": 30,
+    "overall_mood": "부정적인 감정이 대부분을 차지하고 있지만, 중립적인 의견도 상당수 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령의 정책에 대한 의견을 분석하여, 정치적 트렌드를 이해할 수 있습니다.",
-      "action": "정책 관련 뉴스와 의견을 모니터링",
+      "insight": "정치 관련된 게시글이 많은 것으로 보아, 정치적인 이슈가 대두되고 있습니다.",
+      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "검찰개혁 관련 뉴스와 의견을 분석하여, 법적 트렌드를 이해할 수 있습니다.",
-      "action": "관련 뉴스와 의견을 모니터링",
+      "insight": "AI 기술 관련된 게시글이 많은 것으로 보아, 기술적인 이슈가 대두되고 있습니다.",
+      "action": "AI 기술에 대한 투자를 고려해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 기술 관련 뉴스와 의견을 분석하여, 기술적 트렌드를 이해할 수 있습니다.",
-      "action": "관련 뉴스와 의견을 모니터링",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 이재명 대통령과 검찰개혁, AI 기술 관련 뉴스와 의견이 많습니다. 일부에서는 대통령의 정책을 지지하며, 다른 일부에서는 비판적입니다. 또한, 검찰개혁 관련 뉴스와 의견이 많으며, 일부에서는 개혁을 지지하며, 다른 일부에서는 반대합니다. AI 기술 관련 뉴스와 의견도 많으며, 일부에서는 기술의 발전을 기대하며, 다른 일부에서는 우려를 표합니다. 이러한 트렌드를 분석하여, 정치적, 법적, 기술적 트렌드를 이해할 수 있습니다.",
-  "analyzed_at": "2026-07-15T07:30:34.203Z",
+  "narrative": "최근의 트렌드는 정치적인 이슈와 기술적인 이슈가 대두되고 있습니다. 특히, 정청래 대표의 사과와 민주당의 내부 분열이 논란이 되고 있습니다. 또한, AI 기술의 발전과 그에 따른 산업 현장의 변화가 주목을 받고 있습니다. 이러한 트렌드를 고려하여, 정치적인 이슈에 대한 대응과 AI 기술에 대한 투자를 준비해야 합니다.",
+  "analyzed_at": "2026-07-15T09:01:28.214Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
