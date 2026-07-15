@@ -1,23 +1,16 @@
 {
   "trending_topics": [
     {
-      "topic": "유시민",
-      "summary": "유시민에 대한 다양한 의견과 반응",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
+      "summary": "최근 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다. 특히 유시민 작가와 관련된 게시글이 많습니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "AI",
-      "summary": "AI 기술과 산업 관련 뉴스",
-      "post_count": 8,
+      "summary": "AI 관련 기술과 제품에 대한 게시글이 많아 AI가 트렌드하고 있습니다. 특히 반도체와 관련된 게시글이 많습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     }
@@ -25,43 +18,43 @@
   "keywords": [
     {
       "keyword": "유시민",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "유시민에 대한 의견과 반응"
-    },
-    {
-      "keyword": "정치",
-      "count": 18,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스와 의견"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "정치적인 주제에서 많이 언급됩니다."
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술과 산업 관련 뉴스"
+      "context": "기술과 제품에 대한 게시글에서 많이 언급됩니다."
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "最近 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "부정적인 감정의 비중이 높지만 중립적인 의견도 많다"
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만 정치적인 주제에서는 혼재된 감정이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "유시민에 대한 의견과 반응은 정치와 사회적인 이슈에 대한 관심을 나타낸다",
-      "action": "정치와 사회적인 이슈에 대한 마케팅 전략을 수립한다",
+      "insight": "정치적인 주제에서 트렌드하고 있는 키워드를 활용하여 마케팅 캠페인을 진행할 수 있습니다.",
+      "action": "마케팅 캠페인 진행",
       "priority": "high"
     },
     {
-      "insight": "AI 기술과 산업 관련 뉴스는 긍정적인 반응을 보인다",
-      "action": "AI 기술과 산업 관련 제품이나 서비스를 개발한다",
+      "insight": "AI 관련 기술과 제품에 대한 게시글이 많아 AI 관련 제품을 개발하거나 투자할 수 있습니다.",
+      "action": "AI 관련 제품 개발 또는 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 유시민과 정치 관련 뉴스가 많은 관심을 받고 있으며, AI 기술과 산업 관련 뉴스도 긍정적인 반응을 보이고 있다. 이러한 트렌드와 키워드를 활용하여 마케팅 전략을 수립하고, 제품이나 서비스를 개발할 수 있다. 또한, 부정적인 감정의 비중이 높지만 중립적인 의견도 많기 때문에, 다양한 의견과 반응을 고려하여 마케팅 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-07-15T15:00:35.271Z",
+  "narrative": "最近 정치 관련 게시글이 많아 정치적인 주제가 트렌드하고 있습니다. 특히 유시민 작가와 관련된 게시글이 많습니다. 또한 AI 관련 기술과 제품에 대한 게시글이 많아 AI가 트렌드하고 있습니다. 특히 반도체와 관련된 게시글이 많습니다. 이러한 트렌드를 활용하여 마케팅 캠페인을 진행하거나 AI 관련 제품을 개발할 수 있습니다. 하지만 정치적인 주제에서는 혼재된 감정이 나타나므로 주의가 필요합니다.",
+  "analyzed_at": "2026-07-15T16:30:33.909Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
