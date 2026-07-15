@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래 대표의 사과와 민주당의 내부 분열이 논란이 되고 있습니다. 또한, 이재명 대통령의 경찰 수사권에 대한 의견이 대두되고 있습니다.",
-      "post_count": 15,
+      "topic": "보완수사권",
+      "summary": "보완수사권 폐지에 대한 논의가 활발합니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업 현장의 변화가 주목을 받고 있습니다. 특히, AI 칩 구매와 우주 클러스터 예산의 실집행률이 논란이 되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "유시민",
+      "summary": "유시민에 대한 평가와 논의가 진행 중입니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "호프 영화",
-      "summary": "호프 영화에 대한 개인적인 감상과 후기들이 게시되고 있습니다. 일부 사용자는 영화를 실망스럽다고 평가했습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 관련된 뉴스 및 논의가 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 8,
+      "keyword": "보완수사권",
+      "count": 12,
       "sentiment": "negative",
-      "context": "정치 관련된 게시글에서 자주 언급되고 있습니다."
+      "context": "보완수사권 폐지에 대한 논의"
+    },
+    {
+      "keyword": "유시민",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "유시민에 대한 평가와 논의"
     },
     {
       "keyword": "AI",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "기술 관련된 게시글에서 자주 언급되고 있습니다."
-    },
-    {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련된 게시글에서 자주 언급되고 있습니다."
+      "count": 20,
+      "sentiment": "positive",
+      "context": "최신 AI 기술과 관련된 뉴스 및 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정이 대부분을 차지하고 있지만, 중립적인 의견도 상당수 존재합니다."
+    "positive": 25,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "정치 관련된 게시글이 많은 것으로 보아, 정치적인 이슈가 대두되고 있습니다.",
-      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
+      "insight": "보완수사권 폐지에 대한 논의가 활발합니다.",
+      "action": "관련 정책과 법안을 주시하여 사업에영향을 미칠 수 있는 요소를 파악해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술 관련된 게시글이 많은 것으로 보아, 기술적인 이슈가 대두되고 있습니다.",
-      "action": "AI 기술에 대한 투자를 고려해야 합니다.",
+      "insight": "유시민에 대한 평가와 논의가 진행 중입니다.",
+      "action": "유시민의 발언과 행동을 주시하여 사업에영향을 미칠 수 있는 요소를 파악해야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "최신 AI 기술과 관련된 뉴스 및 논의가 있습니다.",
+      "action": "최신 AI 기술을 사업에 적용하여 경쟁력을 높일 수 있는 방안을 모색해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적인 이슈와 기술적인 이슈가 대두되고 있습니다. 특히, 정청래 대표의 사과와 민주당의 내부 분열이 논란이 되고 있습니다. 또한, AI 기술의 발전과 그에 따른 산업 현장의 변화가 주목을 받고 있습니다. 이러한 트렌드를 고려하여, 정치적인 이슈에 대한 대응과 AI 기술에 대한 투자를 준비해야 합니다.",
-  "analyzed_at": "2026-07-15T09:01:28.214Z",
+  "narrative": "最近의 트렌드 분석 결과, 보완수사권 폐지에 대한 논의가 활발합니다. 또한 유시민에 대한 평가와 논의가 진행 중입니다. 최신 AI 기술과 관련된 뉴스 및 논의도 있습니다. 이러한 트렌드를 분석하여 사업에영향을 미칠 수 있는 요소를 파악하고, 경쟁력을 높일 수 있는 방안을 모색해야 합니다. 특히 보완수사권 폐지에 대한 논의는 사업에 큰 영향을 미칠 수 있으므로 주시하여야 합니다. 또한 최신 AI 기술을 사업에 적용하여 경쟁력을 높일 수 있는 방안을 모색해야 합니다.",
+  "analyzed_at": "2026-07-15T10:30:34.040Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
