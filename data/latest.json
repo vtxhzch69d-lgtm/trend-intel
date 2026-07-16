@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "레버리지 ETF",
-      "summary": "레버리지 ETF의 급락과 관련된 주제입니다. 20~30대 파산 계좌가 62%를 차지하는 등 금융당국이 긴급회의를 개최했습니다.",
-      "post_count": 5,
+      "topic": "레버리지 ETF 대책",
+      "summary": "정부가 단일종목 레버리지 마케팅 금지와 예탁금 상향 조치를 발표했습니다. 이에 따라 투자자들은 레버리지 ETF에 대한 투자를 재고하고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식시장",
-      "summary": "주식시장의 상황과 관련된 주제입니다. 패닉셀 이후 FOMO를 참은 사람을 칭찬하는 글 등이 있습니다.",
-      "post_count": 3,
+      "topic": "보완수사권",
+      "summary": "유시민씨가 언급한 보완수사권에 대한 논의가 커뮤니티에서 진행되고 있습니다. 일부 사용자들은 보완수사권의 폐지를 주장하고 있습니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI와 관련된 주제입니다. OpenAI의 물리 키패드 출시, 애플의 AI 서비스 승인 등이 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "주식시장",
+      "summary": "주식시장의 변동성에 대한 우려가 커뮤니티에서 제기되고 있습니다. 일부 사용자들은 주식시장의 위험성을 경고하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "레버리지 ETF",
-      "count": 7,
+      "keyword": "레버리지",
+      "count": 15,
       "sentiment": "negative",
-      "context": "금융당국이 긴급회의를 개최했습니다."
+      "context": "레버리지 ETF 대책에 대한 우려"
+    },
+    {
+      "keyword": "보완수사권",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "보완수사권에 대한 논의"
     },
     {
       "keyword": "주식시장",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "패닉셀 이후 FOMO를 참은 사람을 칭찬하는 글 등이 있습니다."
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "OpenAI의 물리 키패드 출시, 애플의 AI 서비스 승인 등이 있습니다."
+      "count": 12,
+      "sentiment": "negative",
+      "context": "주식시장의 변동성에 대한 우려"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 5,
-    "overall_mood": "중립적인 기분이지만 부정적인 감정도 존재합니다."
+    "positive": 10,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "금융당국의 레버리지 ETF 관련 대책이 필요합니다.",
-      "action": "금융당국에 대책 마련을 요청합니다.",
+      "insight": "레버리지 ETF 대책의 영향",
+      "action": "투자자 교육 및 자산 배분 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 것입니다.",
-      "action": "AI 기술의 발전을 주시하고 이를 활용하는 방법을 연구합니다.",
+      "insight": "보완수사권 논의의 영향",
+      "action": "법률 및 규제 변화에 대한 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "주식시장의 변동성",
+      "action": "위험 관리 전략 수립 및 투자자 교육",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 레버리지 ETF의 급락과 관련된 주제가 대부분을 차지하고 있습니다. 금융당국의 긴급회의 개최와 관련된 글들이 많습니다. 또한 AI와 관련된 주제도 존재합니다. OpenAI의 물리 키패드 출시와 애플의 AI 서비스 승인 등이 있습니다. 이러한 트렌드는 금융당국의 대책 마련과 AI 기술의 발전을 주시하는 것이 중요합니다. 또한 이러한 트렌드에 대한 분석은 다양한 산업에 영향을 미칠 것입니다.",
-  "analyzed_at": "2026-07-16T06:01:25.042Z",
+  "narrative": "커뮤니티에서는 레버리지 ETF 대책, 보완수사권, 주식시장의 변동성에 대한 논의가 활발하게 진행되고 있습니다. 이러한 논의는 투자자들의 우려와 관심을 반영하며, 금융 및 투자 관련 기업들은 이러한 트렌드에 대한 모니터링과 대응이 필요합니다. 특히, 레버리지 ETF 대책의 영향과 주식시장의 변동성에 대한 위험 관리 전략 수립은 높은 우선순위를 가집니다.",
+  "analyzed_at": "2026-07-16T07:30:34.442Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
