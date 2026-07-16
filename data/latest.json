@@ -2,53 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "권성동 징역 2년 확정, 민주당 후보자격 논의 등 정치 관련 게시물이 많습니다.",
+      "summary": "보완수사권 논란과 정치 관련된 게시글이 많습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "우버의 DH 인수, 현대차그룹의 보스턴다이나믹스 지분 인수, AI 관련 뉴스 등 테크 관련 게시물이 많습니다.",
+      "topic": "기술",
+      "summary": "AI와 반도체 관련된 게시글이 많습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "사회",
+      "summary": "여자가 잘생긴 남자를 볼 때 나오는 표정과 같은 게시글이 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "보완수사권",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술 개발과 적용에 대한 관심이 높습니다."
+      "sentiment": "negative",
+      "context": "정치 관련된 게시글에서 자주 언급됩니다."
     },
     {
-      "keyword": "정치",
+      "keyword": "AI",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견이 많습니다."
+      "sentiment": "positive",
+      "context": "기술 관련된 게시글에서 자주 언급됩니다."
+    },
+    {
+      "keyword": "반도체",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 관련된 게시글에서 자주 언급됩니다."
     }
   ],
   "sentiment_overview": {
     "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 정치 관련 게시물에서 부정적인 감정이 나타납니다."
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "중립적인 분위기이지만, 정치 관련된 게시글에서 부정적인 감정이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 적용에 대한 관심이 높아지고 있습니다.",
-      "action": "AI 관련 제품이나 서비스 개발을 고려해 볼 수 있습니다.",
+      "insight": "정치 관련된 게시글이 많기 때문에, 정치 관련된 마케팅 전략을 수립해야 합니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 게시물에서 부정적인 감정이 나타납니다.",
-      "action": "정치 관련 게시물에 대한 모니터링을 강화할 수 있습니다.",
+      "insight": "AI와 반도체 관련된 게시글이 많기 때문에, 기술 관련된 마케팅 전략을 수립해야 합니다.",
+      "action": "마케팅 전략 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드에서는 정치와 테크 관련 게시물이 많이 나타납니다. 특히, AI 기술 개발과 적용에 대한 관심이 높아지고 있습니다. 이는 기업들이 AI 관련 제품이나 서비스 개발을 고려해 볼 수 있는 기회입니다. 그러나, 정치 관련 게시물에서 부정적인 감정이 나타나고 있으므로, 관련 게시물에 대한 모니터링을 강화할 필요가 있습니다. 또한, 중립적인 분위기이지만, 정치 관련 게시물에서 부정적인 감정이 나타나므로, 기업들은 정치 관련 게시물에 대한 대응 전략을 수립할 필요가 있습니다.",
-  "analyzed_at": "2026-07-16T17:00:33.653Z",
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 정치 관련된 게시글이 많았으며, 보완수사권 논란과 관련된 게시글이 많이 나타났습니다. 또한, AI와 반도체 관련된 게시글도 많이 나타났습니다. 이러한 결과를 바탕으로, 마케팅 전략을 수립할 때 정치와 기술 관련된 요소를 고려해야 합니다. 특히, 정치 관련된 마케팅 전략을 수립할 때, 부정적인 감정을 고려해야 합니다. 또한, 기술 관련된 마케팅 전략을 수립할 때, 긍정적인 감정을 고려해야 합니다.",
+  "analyzed_at": "2026-07-16T18:30:35.458Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
