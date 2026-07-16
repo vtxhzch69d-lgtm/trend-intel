@@ -2,66 +2,53 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 검찰개혁, 수사권 폐지 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "summary": "권성동 징역 2년 확정, 민주당 후보자격 논의 등 정치 관련 게시물이 많습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "테크",
-      "summary": "AI, 반도체, 우주항공 등 기술 관련 주제가 많은 관심을 받고 있습니다.",
+      "summary": "우버의 DH 인수, 현대차그룹의 보스턴다이나믹스 지분 인수, AI 관련 뉴스 등 테크 관련 게시물이 많습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "기업 인수, 투자, 경제 성장 등 경제 관련 주제가 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "대통령과 관련된 정치적 논쟁"
-    },
-    {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 발전과 경제 성장"
+      "context": "AI 기술 개발과 적용에 대한 관심이 높습니다."
     },
     {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "기술 산업과 경제 성장"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 의견이 많습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 감정"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 정치 관련 게시물에서 부정적인 감정이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "테크 산업은 빠르게 성장하고 있습니다.",
-      "action": "테크 산업에 투자하고 기술 발전을 주도하십시오.",
+      "insight": "AI 기술 개발과 적용에 대한 관심이 높아지고 있습니다.",
+      "action": "AI 관련 제품이나 서비스 개발을 고려해 볼 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치적 불안정성은 경제 성장에 영향을 미칠 수 있습니다.",
-      "action": "정치적 상황을 주시하고 경제 성장에 영향을 미치는 요인을 분석하십시오.",
+      "insight": "정치 관련 게시물에서 부정적인 감정이 나타납니다.",
+      "action": "정치 관련 게시물에 대한 모니터링을 강화할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, 테크, 경제 등 다양한 주제를 포함하고 있습니다. 테크 산업은 빠르게 성장하고 있으며, 정치적 불안정성은 경제 성장에 영향을 미칠 수 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 테크 산업에 투자하고 기술 발전을 주도하는 것이 중요합니다. 또한, 정치적 상황을 주시하고 경제 성장에 영향을 미치는 요인을 분석하여 사업을 성공적으로 진행할 수 있습니다.",
-  "analyzed_at": "2026-07-16T15:30:34.110Z",
+  "narrative": "최근의 트렌드에서는 정치와 테크 관련 게시물이 많이 나타납니다. 특히, AI 기술 개발과 적용에 대한 관심이 높아지고 있습니다. 이는 기업들이 AI 관련 제품이나 서비스 개발을 고려해 볼 수 있는 기회입니다. 그러나, 정치 관련 게시물에서 부정적인 감정이 나타나고 있으므로, 관련 게시물에 대한 모니터링을 강화할 필요가 있습니다. 또한, 중립적인 분위기이지만, 정치 관련 게시물에서 부정적인 감정이 나타나므로, 기업들은 정치 관련 게시물에 대한 대응 전략을 수립할 필요가 있습니다.",
+  "analyzed_at": "2026-07-16T17:00:33.653Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
