@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "검찰개혁",
-      "summary": "검찰개혁에 대한 논의가 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자는 검찰개혁의 필요성을 강조하며, 정부의 개혁 약속을 지켜야 한다고 주장합니다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "이재명 대통령과 검찰개혁, 수사권 폐지 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술에 대한 관심이 커뮤니티에서 높아지고 있습니다. 새로운 AI 기술의 개발과 적용에 대한 논의가 진행되고 있습니다.",
-      "post_count": 10,
+      "topic": "테크",
+      "summary": "AI, 반도체, 우주항공 등 기술 관련 주제가 많은 관심을 받고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많이 올라오고 있습니다. 일부 사용자는 정치 현안에 대한 의견을 개진하며, 다른 사용자는 정치인에 대한 평가를 공유합니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "기업 인수, 투자, 경제 성장 등 경제 관련 주제가 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "검찰개혁",
+      "keyword": "이재명",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "검찰개혁에 대한 논의"
+      "sentiment": "negative",
+      "context": "대통령과 관련된 정치적 논쟁"
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 개발과 적용"
+      "context": "기술 발전과 경제 성장"
     },
     {
-      "keyword": "정치",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "정치 관련된 게시글"
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "기술 산업과 경제 성장"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 감정"
   },
   "business_insights": [
     {
-      "insight": "검찰개혁에 대한 논의가 커뮤니티에서 활발하게 진행되고 있습니다.",
-      "action": "검찰개혁에 대한 의견을 수렴하여 정책 개발에 반영",
+      "insight": "테크 산업은 빠르게 성장하고 있습니다.",
+      "action": "테크 산업에 투자하고 기술 발전을 주도하십시오.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술에 대한 관심이 커뮤니티에서 높아지고 있습니다.",
-      "action": "AI 기술의 개발과 적용에 대한 투자와 연구를 강화",
+      "insight": "정치적 불안정성은 경제 성장에 영향을 미칠 수 있습니다.",
+      "action": "정치적 상황을 주시하고 경제 성장에 영향을 미치는 요인을 분석하십시오.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련된 게시글이 많이 올라오고 있습니다.",
-      "action": "정치 현안에 대한 의견을 수렴하여 정책 개발에 반영",
-      "priority": "high"
     }
   ],
-  "narrative": "커뮤니티에서 검찰개혁, AI 기술, 정치 등 다양한 주제에 대한 논의가 진행되고 있습니다. 검찰개혁에 대한 논의는 커뮤니티에서 활발하게 진행되고 있으며, 일부 사용자는 검찰개혁의 필요성을 강조합니다. AI 기술에 대한 관심도 높아지고 있으며, 새로운 AI 기술의 개발과 적용에 대한 논의가 진행되고 있습니다. 정치 관련된 게시글도 많이 올라오고 있으며, 일부 사용자는 정치 현안에 대한 의견을 개진합니다. 이러한 논의를 통해 정책 개발에 반영하고, 사회적 문제를 해결하기 위한 노력이 필요합니다.",
-  "analyzed_at": "2026-07-16T14:00:35.076Z",
+  "narrative": "현재의 트렌드는 정치, 테크, 경제 등 다양한 주제를 포함하고 있습니다. 테크 산업은 빠르게 성장하고 있으며, 정치적 불안정성은 경제 성장에 영향을 미칠 수 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 테크 산업에 투자하고 기술 발전을 주도하는 것이 중요합니다. 또한, 정치적 상황을 주시하고 경제 성장에 영향을 미치는 요인을 분석하여 사업을 성공적으로 진행할 수 있습니다.",
+  "analyzed_at": "2026-07-16T15:30:34.110Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
