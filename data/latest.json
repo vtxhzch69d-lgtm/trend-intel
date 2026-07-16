@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "홍기원 의원",
-      "summary": "홍기원 의원의 발언과 행동에 대한 논란",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "보완수사권",
+      "summary": "보완수사권에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다. 일부 사용자는 보완수사권을 폐지해야 한다고 주장하는 반면, 다른 사용자는 이를 유지해야 한다고 주장한다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "유시민",
-      "summary": "유시민의 발언과 행동에 대한 논란",
-      "post_count": 3,
+      "topic": "레버리지 대책",
+      "summary": "클리앙 커뮤니티 사용자들은 레버리지 대책에 대한 우려를 표현하고 있다. 일부 사용자는 레버리지 대책이 불충분하다고 주장하는 반면, 다른 사용자는 이를 긍정적으로 평가한다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업의 동향과 기술 개발",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "AI 기술",
+      "summary": "클리앙 커뮤니티 사용자들은 AI 기술에 대한 관심을 보이고 있다. 일부 사용자는 AI 기술의 발전이 사회에 미칠 영향에 대한 우려를 표현하는 반면, 다른 사용자는 이를 긍정적으로 평가한다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "홍기원",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "홍기원 의원의 발언과 행동에 대한 논란"
+      "keyword": "보완수사권",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "보완수사권에 대한 논의"
     },
     {
-      "keyword": "유시민",
-      "count": 4,
+      "keyword": "레버리지 대책",
+      "count": 8,
       "sentiment": "negative",
-      "context": "유시민의 발언과 행동에 대한 논란"
+      "context": "레버리지 대책에 대한 우려"
     },
     {
-      "keyword": "반도체",
+      "keyword": "AI 기술",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "반도체 산업의 동향과 기술 개발"
+      "sentiment": "positive",
+      "context": "AI 기술에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
+    "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "부정적"
+    "neutral": 10,
+    "overall_mood": "클리앙 커뮤니티 사용자들은 보완수사권과 레버리지 대책에 대한 우려를 표현하고 있지만, AI 기술에 대한 관심은 긍정적으로 평가되고 있다."
   },
   "business_insights": [
     {
-      "insight": "정치적인 논란이 사회적으로 큰 영향을 미칠 수 있음",
-      "action": "정치적인 논란을 주의 깊게 모니터링하고 대응할 수 있는 전략을 수립해야 함",
+      "insight": "클리앙 커뮤니티 사용자들은 보완수사권과 레버리지 대책에 대한 우려를 표현하고 있다.",
+      "action": "관련 정책과 대책을 마련하여 사용자의 우려를 해소해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업은 기술 개발과 투자가 계속 증가할 것으로 예상됨",
-      "action": "반도체 산업에 대한 투자와 기술 개발을 강화해야 함",
+      "insight": "클리앙 커뮤니티 사용자들은 AI 기술에 대한 관심을 보이고 있다.",
+      "action": "AI 기술에 대한 교육과 홍보를 통해 사용자의 이해를 높여야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적인 논란과 반도체 산업의 동향을 중심으로 이루어져 있습니다. 홍기원 의원과 유시민의 발언과 행동에 대한 논란이 사회적으로 큰 영향을 미칠 수 있습니다. 반도체 산업은 기술 개발과 투자가 계속 증가할 것으로 예상되며, 이를 위한 전략을 수립해야 합니다. 또한, 정치적인 논란을 주의 깊게 모니터링하고 대응할 수 있는 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-07-16T00:00:34.224Z",
+  "narrative": "클리앙 커뮤니티 사용자들은 보완수사권과 레버리지 대책에 대한 우려를 표현하고 있지만, AI 기술에 대한 관심은 긍정적으로 평가되고 있다. 이는 사용자들이 사회적 이슈에 대한 관심을 보이고 있으며, 관련 정책과 대책을 마련하여 사용자의 우려를 해소해야 한다. 또한, AI 기술에 대한 교육과 홍보를 통해 사용자의 이해를 높여야 한다. 클리앙 커뮤니티는 사용자들의 의견을 수렴하여 사회적 이슈에 대한 논의를 활발히 진행하고 있다. 이는 클리앙 커뮤니티의 사용자들이 사회에 대한 관심과 참여도를 높이고 있음을 보여준다.",
+  "analyzed_at": "2026-07-16T01:30:34.475Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
