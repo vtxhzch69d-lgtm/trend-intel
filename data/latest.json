@@ -2,67 +2,67 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "유시민과 김어준에 대한 논쟁, 검찰개혁과 정치인에 대한 비판",
+      "summary": "송영길과 김용은의 불출마, 정청래 후원 등 정치 관련 주제가热",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "테크",
-      "summary": "AI와 로봇 기술의 발전, 반도체 산업의 동향",
-      "post_count": 15,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "사회",
-      "summary": "고양이와 새의 충돌, 테라포밍과 환경 문제",
+      "topic": "주식",
+      "summary": "주식시장과 레버리지 규제, 미국주식 등 주식 관련 주제가 인기",
       "post_count": 5,
       "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 주제가 많이 обсужд되고 있음",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "유시민",
+      "keyword": "송영길",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치인에 대한 비판"
+      "context": "정치 관련 주제"
+    },
+    {
+      "keyword": "주식",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "주식 관련 주제"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "테크 산업의 발전"
-    },
-    {
-      "keyword": "검찰개혁",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "정치와 사회 문제"
+      "context": "AI 기술 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 산업의 발전",
-      "action": "투자와 연구 개발",
+      "insight": "정치 관련 주제가 많이 обсужд되고 있음",
+      "action": "정치 관련 주제에 대한 분석을 강화",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회 문제",
-      "action": "대화와 이해",
+      "insight": "AI 기술이 주목받고 있음",
+      "action": "AI 기술 관련 주제에 대한 분석을 강화",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 테크 산업의 발전을 중심으로 돌아가고 있습니다. 유시민과 김어준에 대한 논쟁, 검찰개혁과 정치인에 대한 비판이 정치 분야에서 논의되고 있습니다. 반면, AI와 로봇 기술의 발전, 반도체 산업의 동향이 테크 산업에서 주목받고 있습니다. 이러한 트렌드는 기업과 개인에게 새로운 기회와 도전을 제공하고 있습니다. 따라서, 테크 산업의 발전과 정치와 사회 문제에 대한 이해와 대화가 필요합니다.",
-  "analyzed_at": "2026-07-16T21:30:33.760Z",
-  "post_count": 62,
+  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 주제가 많이 обсужд되고 있습니다. 송영길과 김용은의 불출마, 정청래 후원 등 정치 관련 주제가热입니다. 또한, 주식 관련 주제도 많이 обсужд되고 있으며, 주식시장과 레버리지 규제, 미국주식 등 주식 관련 주제가 인기입니다. AI 기술과 관련된 주제도 많이 обсужд되고 있으며, AI 기술이 주목받고 있습니다. 이러한 주제에 대한 분석을 강화하여 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-16T23:30:34.573Z",
+  "post_count": 60,
   "sources": [
     "ppomppu",
     "clien"
