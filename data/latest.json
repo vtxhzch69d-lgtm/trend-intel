@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "송영길 의원과 김용 후보의 당대표 후보자격 탈락, 권성동 징역 2년 확정 등 정치 관련 뉴스가 주목을 받고 있습니다.",
+      "summary": "유시민과 김어준에 대한 논쟁, 검찰개혁과 정치인에 대한 비판",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테크",
+      "summary": "AI와 로봇 기술의 발전, 반도체 산업의 동향",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 관련 기술 개발과 기업들의 투자가 증가하고 있으며, 우버의 DH 인수, 현대차그룹의 보스턴다이나믹스 지분 전량 인수 등이 언급되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업의 동향과 기업들의 경쟁이 치열해지고 있으며, ASML의 2분기 실적 호조, 인텔의 차세대 ASML 장비 투입 등이 언급되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "사회",
+      "summary": "고양이와 새의 충돌, 테라포밍과 환경 문제",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술 개발과 기업들의 투자"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "유시민",
+      "count": 5,
       "sentiment": "negative",
-      "context": "송영길 의원과 김용 후보의 당대표 후보자격 탈락"
+      "context": "정치인에 대한 비판"
     },
     {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "반도체 산업의 동향과 기업들의 경쟁"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "테크 산업의 발전"
+    },
+    {
+      "keyword": "검찰개혁",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "정치와 사회 문제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발과 투자가 증가하고 있습니다.",
-      "action": "AI 기술 개발에 투자하고, 관련 산업 동향을 주시하세요.",
+      "insight": "테크 산업의 발전",
+      "action": "투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 경쟁이 치열해지고 있습니다.",
-      "action": "반도체 산업의 동향을 주시하고, 관련 기업들의 경쟁력을 평가하세요.",
+      "insight": "정치와 사회 문제",
+      "action": "대화와 이해",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, AI 기술, 반도체 산업을 중심으로 형성되고 있습니다. 정치 관련 뉴스는 송영길 의원과 김용 후보의 당대표 후보자격 탈락, 권성동 징역 2년 확정 등이 주목을 받고 있습니다. AI 기술 개발과 기업들의 투자는 증가하고 있으며, 우버의 DH 인수, 현대차그룹의 보스턴다이나믹스 지분 전량 인수 등이 언급되고 있습니다. 반도체 산업의 동향과 기업들의 경쟁은 치열해지고 있으며, ASML의 2분기 실적 호조, 인텔의 차세대 ASML 장비 투입 등이 언급되고 있습니다. 이러한 트렌드에 따라 기업들은 AI 기술 개발에 투자하고, 관련 산업 동향을 주시해야 하며, 반도체 산업의 동향을 주시하고, 관련 기업들의 경쟁력을 평가해야 합니다.",
-  "analyzed_at": "2026-07-16T20:01:23.562Z",
+  "narrative": "최근의 트렌드는 정치와 테크 산업의 발전을 중심으로 돌아가고 있습니다. 유시민과 김어준에 대한 논쟁, 검찰개혁과 정치인에 대한 비판이 정치 분야에서 논의되고 있습니다. 반면, AI와 로봇 기술의 발전, 반도체 산업의 동향이 테크 산업에서 주목받고 있습니다. 이러한 트렌드는 기업과 개인에게 새로운 기회와 도전을 제공하고 있습니다. 따라서, 테크 산업의 발전과 정치와 사회 문제에 대한 이해와 대화가 필요합니다.",
+  "analyzed_at": "2026-07-16T21:30:33.760Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
