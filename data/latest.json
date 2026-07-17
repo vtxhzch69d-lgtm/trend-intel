@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래 당대표 연임에 대한 반대 의견과 더불어 민주당 예비경선 투표 안내문이 클리앙 커뮤니티에서 인기 게시글로 나타났습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시 소식이 클리앙 커뮤니티에서 인기 게시글로 나타났습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 최근 활동과 정책에 대한 논의",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "생활",
-      "summary": "일상 생활과 관련된 게시글이 클리앙 커뮤니티에서 인기 게시글로 나타났습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "반도체 산업",
+      "summary": "한국과 인도의 반도체 산업 동향",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "로봇 기술",
+      "summary": "로봇 기술의 발전과 응용",
+      "post_count": 4,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정청래 당대표 연임에 대한 반대 의견"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "이재명",
       "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시 소식"
+      "sentiment": "negative",
+      "context": "정치 논의"
     },
     {
-      "keyword": "더불어 민주당",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "더불어 민주당 예비경선 투표 안내문"
+      "keyword": "반도체",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "산업 동향"
+    },
+    {
+      "keyword": "로봇",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적인 이슈가 클리앙 커뮤니티에서 많은 관심을 받고 있습니다.",
-      "action": "정치적인 이슈에 대한 콘텐츠를 생성하여 클리앙 커뮤니티에 공유합니다.",
+      "insight": "한국의 반도체 산업은 성장하고 있다",
+      "action": "투자 고려",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 출시 소식이 클리앙 커뮤니티에서 많은 관심을 받고 있습니다.",
-      "action": "최신 기술 뉴스와 제품 출시 소식에 대한 콘텐츠를 생성하여 클리앙 커뮤니티에 공유합니다.",
+      "insight": "로봇 기술은 다양한 산업에서 응용 가능하다",
+      "action": "기술 개발 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치적인 이슈와 최신 기술 뉴스, 제품 출시 소식이 많은 관심을 받고 있습니다. 더불어 민주당 예비경선 투표 안내문과 정청래 당대표 연임에 대한 반대 의견이 인기 게시글로 나타났습니다. 또한, 최신 기술 뉴스와 제품 출시 소식이 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 생성하여 클리앙 커뮤니티에 공유할 수 있습니다.",
-  "analyzed_at": "2026-07-17T13:00:34.201Z",
+  "narrative": "最近의 트렌드 분석 결과, 이재명 대통령과 반도체 산업, 로봇 기술이 주요 관심사로 나타났습니다. 이러한 트렌드는 정치, 산업, 기술 등 다양한 분야에서 논의되고 있습니다. 반도체 산업은 성장하고 있으며, 로봇 기술은 다양한 산업에서 응용 가능합니다. 이러한 트렌드를 고려하여 사업 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-17T14:30:33.796Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
