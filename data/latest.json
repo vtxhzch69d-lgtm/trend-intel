@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령의 구조적 다수와 보완수사권 폐지에 대한 논의",
+      "summary": "이재명 대통령의 정책과 정치권의 동향이 주목을 받고 있습니다. 권성동의 유죄 판결과 노회찬 전 의원의 언급도 관심을 끌고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 로봇 기술의 발전 및 적용",
-      "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 개발이 주목을 받고 있습니다. AI, 로봇, OLED 등 다양한 기술 분야의 뉴스가 관심을 끌고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
       "topic": "경제",
-      "summary": "쿠팡의 무료 반품 허들 높여 블랙 컨슈머 막는다는 소식",
-      "post_count": 5,
+      "summary": "경제 뉴스와 기업 동향이 주목을 받고 있습니다. 쿠팡, 네이버, 삼성전자 등 다양한 기업의 뉴스가 관심을 끌고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "로봇 기술의 발전"
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 뉴스에서 자주 언급되는 이름"
     },
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 논의"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스에서 자주 언급되는 키워드"
     },
     {
       "keyword": "쿠팡",
-      "count": 5,
+      "count": 4,
       "sentiment": "neutral",
-      "context": "무료 반품 허들 높여"
+      "context": "경제 뉴스에서 자주 언급되는 기업 이름"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI와 로봇 기술의 발전은 다양한 산업에서 적용 가능",
-      "action": "투자 및 연구 개발",
+      "insight": "최신 기술 뉴스는 관심을 끌고 있습니다.",
+      "action": "최신 기술 뉴스를 제공하여 고객의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "쿠팡의 무료 반품 허들 높여는 소비자 행동에 영향을 미칠 수 있음",
-      "action": "마케팅 전략 조정",
+      "insight": "경제 뉴스는 중립적인 분위기를 보이고 있습니다.",
+      "action": "경제 뉴스를 제공하여 고객의 정보를 제공해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치, 기술, 경제 등 다양한 분야에서 나타나고 있습니다. AI와 로봇 기술의 발전은 다양한 산업에서 적용 가능하며, 쿠팡의 무료 반품 허들 높여는 소비자 행동에 영향을 미칠 수 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-17T17:31:30.840Z",
+  "narrative": "현재의 트렌드는 정치, 기술, 경제 뉴스에 집중되어 있습니다. 최신 기술 뉴스는 관심을 끌고 있으며, 경제 뉴스는 중립적인 분위기를 보이고 있습니다. 기업은 최신 기술 뉴스를 제공하여 고객의 관심을 끌어야 하며, 경제 뉴스를 제공하여 고객의 정보를 제공해야 합니다. 또한, 정치 뉴스는 중립적인 분위기를 유지해야 하며, 고객의 관심을 끌기 위해 다양한 뉴스를 제공해야 합니다.",
+  "analyzed_at": "2026-07-17T19:30:34.140Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
