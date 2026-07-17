@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래",
-      "summary": "정청래가 당대표 연임해야하는 이유와 관련된 게시글이 많습니다. 또한 정청래가 하루새 3.8억 후원금을 받은 것으로 나타났습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "유시민",
-      "summary": "유시민의 영향력이 무서워서 글을 안 올려야 한다는 게시글이 있습니다. 또한 유시민과 한동훈으로 커뮤니티가 떠들썩해질 것으로 예상됩니다.",
-      "post_count": 3,
+      "topic": "정치",
+      "summary": "수사권과 기소권 완전 분리 공약, 박시영, 송영길 등의 정치 관련 뉴스",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "리센느",
-      "summary": "리센느의 아티스트 권익 침해 제보 사이트가 있습니다. 또한 리센느 소속사의 일처리가 좋다는 게시글이 있습니다.",
-      "post_count": 3,
+      "topic": "기술",
+      "summary": "AI, 로봇, 우주 개발 등의 기술 관련 뉴스",
+      "post_count": 20,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "생활",
+      "summary": "음식, 영화, 게임 등의 생활 관련 뉴스",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 7,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "당대표 연임과 관련된 게시글"
+      "context": "기술 개발과 관련된 키워드"
     },
     {
-      "keyword": "유시민",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "글을 안 올려야 한다는 게시글"
+      "keyword": "박시영",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련된 키워드"
     },
     {
-      "keyword": "리센느",
-      "count": 4,
+      "keyword": "로봇",
+      "count": 5,
       "sentiment": "positive",
-      "context": "아티스트 권익 침해 제보 사이트"
+      "context": "기술 개발과 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적인 감정으로 나타남"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정청래와 관련된 게시글이 많아 정치적인 관심이 높아진 것으로 보임",
-      "action": "정청래와 관련된 콘텐츠를 생성하여 정치적인 관심을满足시킴",
+      "insight": "기술 개발에 대한 투자가 증가할 것으로 예상",
+      "action": "기술 개발에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "유시민의 영향력이 무서워서 글을 안 올려야 한다는 게시글이 있어 음모론적인 성향이 있는 것으로 보임",
-      "action": "유시민과 관련된 콘텐츠를 생성하여 음모론적인 성향을满足시킴",
+      "insight": "정치 관련된 뉴스가 증가할 것으로 예상",
+      "action": "정치 관련된 뉴스 모니터링 증가",
       "priority": "medium"
-    },
-    {
-      "insight": "리센느의 아티스트 권익 침해 제보 사이트가 있어 예술적인 관심이 높아진 것으로 보임",
-      "action": "리센느와 관련된 콘텐츠를 생성하여 예술적인 관심을满足시킴",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정청래와 관련된 정치적인 관심이 높아진 것으로 보임. 또한 유시민의 영향력이 무서워서 글을 안 올려야 한다는 음모론적인 성향이 있는 것으로 보임. 리센느의 아티스트 권익 침해 제보 사이트가 있어 예술적인 관심이 높아진 것으로 보임. 이러한 트렌드를滿足시키기 위해 정청래, 유시민, 리센느와 관련된 콘텐츠를 생성하여 정치적인 관심, 음모론적인 성향, 예술적인 관심을滿足시킬 수 있음.",
-  "analyzed_at": "2026-07-17T10:01:26.950Z",
+  "narrative": "최근의 트렌드는 기술 개발과 정치 관련된 뉴스가 증가하고 있습니다. AI, 로봇, 우주 개발 등의 기술 관련 뉴스가 많은 관심을 받고 있으며, 박시영, 송영길 등의 정치 관련 뉴스도 증가하고 있습니다. 이러한 트렌드는 기술 개발에 대한 투자가 증가할 것으로 예상되며, 정치 관련된 뉴스 모니터링도 증가할 것으로 예상됩니다. 또한, 생활 관련된 뉴스도 존재하며, 음식, 영화, 게임 등의 뉴스가 있습니다. 이러한 트렌드는 중립적인 분위기를 보이고 있으며, 기술 개발과 정치 관련된 뉴스가 계속해서 증가할 것으로 예상됩니다.",
+  "analyzed_at": "2026-07-17T11:30:34.501Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
