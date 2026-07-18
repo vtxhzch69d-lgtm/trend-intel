@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정부 주식 정책",
-      "summary": "정부의 주식 정책에 대한 예상과 분석이 이루어지고 있습니다. 주식 시장의 동향과 정부의 정책 결정이 투자자들에게 미치는 영향에 대한 논의가 활발합니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "검찰 개혁",
-      "summary": "검찰 개혁에 대한 논의가 진행 중입니다. 검찰의 권한과 책임에 대한 재평가와 개혁 방안에 대한 의견이 교환되고 있습니다.",
-      "post_count": 3,
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련된 주제가 많은 관심을 받고 있습니다. 보완수사권, 대통령, 검찰 개혁 등 다양한 정치 관련된 주제가 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "부동산 정책",
-      "summary": "부동산 정책에 대한 논의가 이루어지고 있습니다. 정부의 부동산 정책 결정과 그에 따른 시장의 반응에 대한 분석이 진행 중입니다.",
-      "post_count": 4,
-      "sentiment": "negative",
+      "topic": "테크 및 IT",
+      "summary": "테크 및 IT 관련된 주제가 많은 관심을 받고 있습니다. 새로운 기술, 제품 출시, 기업 동향 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련된 주제가 많은 관심을 받고 있습니다. 주식, 증시, 경제 정책 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "정부 주식 정책과 관련된 키워드입니다."
-    },
-    {
-      "keyword": "검찰",
+      "keyword": "보완수사권",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "검찰 개혁과 관련된 키워드입니다."
+      "sentiment": "negative",
+      "context": "검찰 개혁 관련된 주제"
     },
     {
-      "keyword": "부동산",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "부동산 정책과 관련된 키워드입니다."
+      "keyword": "갤럭시",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "새로운 제품 출시 관련된 주제"
+    },
+    {
+      "keyword": "쿠팡",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "기업 동향 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정이 우세합니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정부의 주식 정책 결정은 투자자들에게 큰 영향을 미칩니다.",
-      "action": "투자 전략을 조정해야 합니다.",
+      "insight": "정치 및 사회 관련된 주제가 많은 관심을 받고 있습니다.",
+      "action": "관련된 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "검찰 개혁은 사회적 안정성에 영향을 미칩니다.",
-      "action": "정책 결정에 대한 주의가 필요합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "부동산 정책은 시장의 동향에 큰 영향을 미칩니다.",
-      "action": "시장 분석을 통해 전략을 수립해야 합니다.",
+      "insight": "테크 및 IT 관련된 주제가 많은 관심을 받고 있습니다.",
+      "action": "새로운 기술 및 제품에 대한 정보를 제공하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정부의 주식 정책과 검찰 개혁, 부동산 정책에 대한 논의가 중심입니다. 투자자들은 정부의 정책 결정에 대한 주의가 필요하며, 검찰 개혁은 사회적 안정성에 영향을 미칩니다. 또한, 부동산 정책은 시장의 동향에 큰 영향을 미치므로 시장 분석을 통해 전략을 수립해야 합니다. 이러한 트렌드에 대한 분석과 이해는 사업적 의사 결정에 중요한 역할을 할 것입니다.",
-  "analyzed_at": "2026-07-18T08:30:34.202Z",
-  "post_count": 61,
+  "narrative": "현재 정치 및 사회 관련된 주제가 많은 관심을 받고 있습니다. 보완수사권, 대통령, 검찰 개혁 등 다양한 정치 관련된 주제가 논의되고 있습니다. 또한 테크 및 IT 관련된 주제도 많은 관심을 받고 있습니다. 새로운 기술, 제품 출시, 기업 동향 등 다양한 주제가 논의되고 있습니다. 경제 및 금융 관련된 주제도 관심을 받고 있습니다. 주식, 증시, 경제 정책 등 다양한 주제가 논의되고 있습니다. 이러한 주제에 대한 콘텐츠를 생성하여 관심을 끌 수 있습니다. 또한 새로운 기술 및 제품에 대한 정보를 제공하여 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-07-18T10:00:33.521Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
