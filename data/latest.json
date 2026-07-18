@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "손흥민",
-      "summary": "손흥민의 LAFC 데뷔 골에 대한 팬들의 반응",
-      "post_count": 5,
-      "sentiment": "positive",
+      "topic": "한동훈 페이스북",
+      "summary": "한동훈의 페이스북 계정에 대한 논란",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "아파트 엘베에 붙은 A4용지",
+      "summary": "아파트 엘베에 붙은 A4용지에 대한 논란",
+      "post_count": 2,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "갤럭시 Z8",
-      "summary": "갤럭시 Z8 시리즈의 새로운 유출과 홍보 이미지",
-      "post_count": 3,
-      "sentiment": "neutral",
-      "urgency": "low"
-    },
-    {
-      "topic": "OTT 서비스",
-      "summary": "넷플릭스의 라이브 TV 채널과 새로운 플랫폼 준비",
-      "post_count": 2,
-      "sentiment": "neutral",
+      "topic": "혼자 사시는 분들 요리 실력",
+      "summary": "혼자 사시는 분들의 요리 실력에 대한 이야기",
+      "post_count": 1,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "손흥민",
-      "count": 7,
-      "sentiment": "positive",
-      "context": "LAFC 데뷔 골"
+      "keyword": "한동훈",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "한동훈의 페이스북 계정에 대한 논란"
     },
     {
-      "keyword": "갤럭시 Z8",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "새로운 유출과 홍보 이미지"
-    },
-    {
-      "keyword": "OTT",
+      "keyword": "아파트",
       "count": 3,
       "sentiment": "neutral",
-      "context": "넷플릭스의 라이브 TV 채널과 새로운 플랫폼 준비"
+      "context": "아파트 엘베에 붙은 A4용지에 대한 논란"
+    },
+    {
+      "keyword": "요리",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "혼자 사시는 분들의 요리 실력에 대한 이야기"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 2,
-    "neutral": 28,
-    "overall_mood": "중립적인 반응이 대부분"
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감도는 것으로 보임"
   },
   "business_insights": [
     {
-      "insight": "손흥민의 인기",
-      "action": "손흥민과 협업",
+      "insight": "한동훈의 페이스북 계정에 대한 논란이 확대되고 있다",
+      "action": "한동훈의 페이스북 계정에 대한 논란을 주시하고 대응할 필요가 있다",
       "priority": "high"
     },
     {
-      "insight": "갤럭시 Z8의 새로운 유출",
-      "action": "갤럭시 Z8의 마케팅 전략 수립",
+      "insight": "아파트 엘베에 붙은 A4용지에 대한 논란이 발생하고 있다",
+      "action": "아파트 엘베에 붙은 A4용지에 대한 논란을 주시하고 대응할 필요가 있다",
       "priority": "medium"
     },
     {
-      "insight": "OTT 서비스의 성장",
-      "action": "OTT 서비스의 마케팅 전략 수립",
+      "insight": "혼자 사시는 분들의 요리 실력에 대한 이야기들이 증가하고 있다",
+      "action": "혼자 사시는 분들의 요리 실력에 대한 이야기를 활용하여 마케팅을 진행할 수 있다",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 손흥민의 LAFC 데뷔 골에 대한 팬들의 반응이 뜨거웠습니다. 또한 갤럭시 Z8 시리즈의 새로운 유출과 홍보 이미지에 대한 관심도 높았습니다. OTT 서비스의 성장에도 관심이 집중되었습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 손흥민의 인기와 갤럭시 Z8의 새로운 유출을 활용하여 마케팅 캠페인을 진행할 수 있습니다. 또한 OTT 서비스의 성장에 대한 분석을 통해 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-07-18T05:30:34.040Z",
-  "post_count": 62,
+  "narrative": "최근 클리앙 커뮤니티에서 한동훈의 페이스북 계정에 대한 논란이 확대되고 있다. 아파트 엘베에 붙은 A4용지에 대한 논란도 발생하고 있다. 혼자 사시는 분들의 요리 실력에 대한 이야기들도 증가하고 있다. 이러한 트렌드들을 분석하여 마케팅을 진행할 수 있다. 한동훈의 페이스북 계정에 대한 논란을 주시하고 대응할 필요가 있다. 아파트 엘베에 붙은 A4용지에 대한 논란을 주시하고 대응할 필요가 있다. 혼자 사시는 분들의 요리 실력에 대한 이야기를 활용하여 마케팅을 진행할 수 있다.",
+  "analyzed_at": "2026-07-18T07:00:33.971Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
