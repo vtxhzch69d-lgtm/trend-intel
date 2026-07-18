@@ -1,56 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 경험과 의견을 공유하며, 이는 커뮤니티의 활성화에 기여합니다.",
-      "post_count": 1000,
+      "topic": "보완수사권",
+      "summary": "클리앙 커뮤니티에서 보완수사권에 대한 논의가 활발히 진행되고 있습니다. 찬반 의견이 분분합니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "검찰개혁",
+      "summary": "검찰개혁에 대한 의견이 분분합니다. 일부 사용자는 검찰개혁을 지지하는 반면, 다른 사용자는 반대합니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 전문적인 지식과 의견을 공유하며, 이는 커뮤니티의 신뢰성에 기여합니다.",
-      "post_count": 500,
-      "sentiment": "positive",
+      "topic": "재산세",
+      "summary": "재산세에 대한 의견이 있습니다. 일부 사용자는 재산세가 높지 않다고 생각하는 반면, 다른 사용자는 반대합니다.",
+      "post_count": 2,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일상생활",
-      "count": 500,
-      "sentiment": "neutral",
-      "context": "일상생활과 관련된 주제가 인기 있습니다."
+      "keyword": "보완수사권",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "검찰개혁과 관련된 주제"
     },
     {
-      "keyword": "기술",
-      "count": 300,
-      "sentiment": "positive",
-      "context": "기술과 관련된 주제가 인기 있습니다."
+      "keyword": "검찰개혁",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "검찰개혁에 대한 의견"
+    },
+    {
+      "keyword": "재산세",
+      "count": 2,
+      "sentiment": "neutral",
+      "context": "재산세에 대한 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기입니다."
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "커뮤니티의 활성화",
-      "action": "커뮤니티의 활성화를 위한 마케팅 전략 수립",
+      "insight": "보완수사권에 대한 논의가 활발히 진행되고 있습니다.",
+      "action": "관련 주제에 대한 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킵니다.",
       "priority": "high"
     },
     {
-      "insight": "기술과 관련된 주제의 인기",
-      "action": "기술과 관련된 주제의 콘텐츠 개발",
+      "insight": "검찰개혁에 대한 의견이 분분합니다.",
+      "action": "사용자의 의견을 수집하여 검찰개혁에 대한 콘텐츠를 생성합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌와 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 일상생활과 기술과 관련된 주제가 인기 있는 것으로 나타났습니다. 커뮤니티의 활성화와 기술과 관련된 주제의 콘텐츠 개발을 위한 마케팅 전략 수립이 필요합니다. 또한, 커뮤니티의 신뢰성과 전문성을 높이기 위한 노력이 필요합니다. 이를 통해 마케터는 커뮤니티의 특성과 사용자의 니즈를 이해하고, 효과적인 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-07-18T02:30:34.029Z",
-  "post_count": 2,
+  "narrative": "클리앙 커뮤니티에서 보완수사권에 대한 논의가 활발히 진행되고 있습니다. 검찰개혁에 대한 의견도 분분합니다. 재산세에 대한 의견도 있습니다. 이러한 주제에 대한 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킬 수 있습니다. 또한, 사용자의 의견을 수집하여 검찰개혁에 대한 콘텐츠를 생성할 수 있습니다.",
+  "analyzed_at": "2026-07-18T04:00:34.029Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
