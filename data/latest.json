@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "보완수사권",
-      "summary": "클리앙 커뮤니티에서 보완수사권에 대한 논의가 활발히 진행되고 있습니다. 찬반 의견이 분분합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "검찰개혁",
-      "summary": "검찰개혁에 대한 의견이 분분합니다. 일부 사용자는 검찰개혁을 지지하는 반면, 다른 사용자는 반대합니다.",
+      "topic": "손흥민",
+      "summary": "손흥민의 LAFC 데뷔 골에 대한 팬들의 반응",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "재산세",
-      "summary": "재산세에 대한 의견이 있습니다. 일부 사용자는 재산세가 높지 않다고 생각하는 반면, 다른 사용자는 반대합니다.",
+      "topic": "갤럭시 Z8",
+      "summary": "갤럭시 Z8 시리즈의 새로운 유출과 홍보 이미지",
+      "post_count": 3,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "OTT 서비스",
+      "summary": "넷플릭스의 라이브 TV 채널과 새로운 플랫폼 준비",
       "post_count": 2,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,44 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "보완수사권",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "검찰개혁과 관련된 주제"
+      "keyword": "손흥민",
+      "count": 7,
+      "sentiment": "positive",
+      "context": "LAFC 데뷔 골"
     },
     {
-      "keyword": "검찰개혁",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "검찰개혁에 대한 의견"
-    },
-    {
-      "keyword": "재산세",
-      "count": 2,
+      "keyword": "갤럭시 Z8",
+      "count": 4,
       "sentiment": "neutral",
-      "context": "재산세에 대한 의견"
+      "context": "새로운 유출과 홍보 이미지"
+    },
+    {
+      "keyword": "OTT",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "넷플릭스의 라이브 TV 채널과 새로운 플랫폼 준비"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "negative": 2,
+    "neutral": 28,
+    "overall_mood": "중립적인 반응이 대부분"
   },
   "business_insights": [
     {
-      "insight": "보완수사권에 대한 논의가 활발히 진행되고 있습니다.",
-      "action": "관련 주제에 대한 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킵니다.",
+      "insight": "손흥민의 인기",
+      "action": "손흥민과 협업",
       "priority": "high"
     },
     {
-      "insight": "검찰개혁에 대한 의견이 분분합니다.",
-      "action": "사용자의 의견을 수집하여 검찰개혁에 대한 콘텐츠를 생성합니다.",
+      "insight": "갤럭시 Z8의 새로운 유출",
+      "action": "갤럭시 Z8의 마케팅 전략 수립",
       "priority": "medium"
+    },
+    {
+      "insight": "OTT 서비스의 성장",
+      "action": "OTT 서비스의 마케팅 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 보완수사권에 대한 논의가 활발히 진행되고 있습니다. 검찰개혁에 대한 의견도 분분합니다. 재산세에 대한 의견도 있습니다. 이러한 주제에 대한 콘텐츠를 생성하여 사용자와의 상호작용을 증가시킬 수 있습니다. 또한, 사용자의 의견을 수집하여 검찰개혁에 대한 콘텐츠를 생성할 수 있습니다.",
-  "analyzed_at": "2026-07-18T04:00:34.029Z",
+  "narrative": "최근 클리앙 커뮤니티에서는 손흥민의 LAFC 데뷔 골에 대한 팬들의 반응이 뜨거웠습니다. 또한 갤럭시 Z8 시리즈의 새로운 유출과 홍보 이미지에 대한 관심도 높았습니다. OTT 서비스의 성장에도 관심이 집중되었습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다. 손흥민의 인기와 갤럭시 Z8의 새로운 유출을 활용하여 마케팅 캠페인을 진행할 수 있습니다. 또한 OTT 서비스의 성장에 대한 분석을 통해 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-18T05:30:34.040Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
