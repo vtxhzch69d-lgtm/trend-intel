@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 특히, 애플의 AI 투자와 관련된 뉴스가 주목을 받고 있습니다.",
+      "topic": "보완수사권 폐지",
+      "summary": "검찰 보완수사권 폐지에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다. 일부 사용자는 폐지에 반대하는 의견을 제시하고 있다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "클리앙 커뮤니티에서 AI 기술 관련 뉴스가 많이 공유되고 있다. 특히 애플, 메타, 인텔 등 주요 기업의 AI 관련 소식이 관심을 끌고 있다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련된 주제가 논의되고 있습니다. 특히, 성폭력범죄와 관련된 뉴스가 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 산업",
-      "summary": "경제와 산업 관련된 주제가 논의되고 있습니다. 특히, 반도체 산업과 관련된 뉴스가 주목을 받고 있습니다.",
-      "post_count": 12,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "갤럭시 Z8 시리즈",
+      "summary": "갤럭시 Z8 시리즈의 홍보 이미지와 관련된 뉴스가 클리앙 커뮤니티에서 공유되고 있다.",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "보완수사권",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "검찰 보완수사권 폐지에 대한 논의"
+    },
+    {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술 관련 뉴스와 소식"
     },
     {
-      "keyword": "애플",
-      "count": 8,
+      "keyword": "갤럭시",
+      "count": 5,
       "sentiment": "positive",
-      "context": "애플의 AI 투자"
-    },
-    {
-      "keyword": "반도체",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "반도체 산업의 동향"
+      "context": "갤럭시 Z8 시리즈의 홍보 이미지와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "negative": 10,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주목하고, 관련 산업의 동향을 분석해야 합니다.",
-      "priority": "high"
+      "insight": "검찰 보완수사권 폐지에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다.",
+      "action": "관련 뉴스와 소식을 계속해서 모니터링하고 있다.",
+      "priority": "medium"
     },
     {
-      "insight": "반도체 산업은 계속해서 성장할 수 있습니다.",
-      "action": "반도체 산업의 동향을 분석하고, 관련 투자 기회를 tìm kiếm해야 합니다.",
-      "priority": "medium"
+      "insight": "AI 기술 관련 뉴스가 클리언 커뮤니티에서 많이 공유되고 있다.",
+      "action": "AI 기술 관련 소식을 계속해서 공유하고 있다.",
+      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 주목을 받고 있습니다. 특히, 애플의 AI 투자와 관련된 뉴스가 주목을 받고 있습니다. 또한, 정치와 사회 관련된 주제도 논의되고 있습니다. 특히, 성폭력범죄와 관련된 뉴스가 주목을 받고 있습니다. 경제와 산업 관련된 주제도 논의되고 있습니다. 특히, 반도체 산업과 관련된 뉴스가 주목을 받고 있습니다. 이러한 트렌드를 분석하여, 관련 산업의 동향을 이해하고, 투자 기회를 찾는 것이 중요합니다.",
-  "analyzed_at": "2026-07-18T13:00:33.572Z",
+  "narrative": "클리앙 커뮤니티에서 보완수사권 폐지와 AI 기술 관련 뉴스가 많이 공유되고 있다. 특히 검찰 보완수사권 폐지에 대한 논의가 활발히 진행되고 있으며, AI 기술 관련 소식이 관심을 끌고 있다. 또한 갤럭시 Z8 시리즈의 홍보 이미지와 관련된 뉴스가 공유되고 있다. 클리앙 커뮤니티의 사용자들은 다양한 주제에 대한 의견을 제시하고 있으며, 중립적인 분위기가 유지되고 있다. 관련 뉴스와 소식을 계속해서 모니터링하고 공유하는 것이 중요하다.",
+  "analyzed_at": "2026-07-18T14:30:34.473Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
