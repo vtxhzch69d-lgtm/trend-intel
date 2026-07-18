@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "보완수사권 폐지",
-      "summary": "검찰 보완수사권 폐지에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다. 일부 사용자는 폐지에 반대하는 의견을 제시하고 있다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "클리앙 커뮤니티에서 AI 기술 관련 뉴스가 많이 공유되고 있다. 특히 애플, 메타, 인텔 등 주요 기업의 AI 관련 소식이 관심을 끌고 있다.",
+      "summary": "보완수사권 폐지에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자는 폐지를 반대하는 반면, 다른 사용자는 폐지의 필요성을 주장하고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "갤럭시 Z8 시리즈",
-      "summary": "갤럭시 Z8 시리즈의 홍보 이미지와 관련된 뉴스가 클리앙 커뮤니티에서 공유되고 있다.",
-      "post_count": 2,
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 관심이 클리앙 커뮤니티에서 높아지고 있습니다. 사용자들은 AI의 발전과 그에 따른 사회적 영향에 대해 논의하고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "국방부",
+      "summary": "국방부에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 일부 사용자는 국방부의 정책과 결정에 대해 비판적입니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "보완수사권",
-      "count": 7,
+      "count": 15,
       "sentiment": "negative",
-      "context": "검찰 보완수사권 폐지에 대한 논의"
+      "context": "폐지 논의"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술 관련 뉴스와 소식"
+      "context": "기술 발전"
     },
     {
-      "keyword": "갤럭시",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "갤럭시 Z8 시리즈의 홍보 이미지와 관련된 뉴스"
+      "keyword": "국방부",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정책 비판"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적이지만 일부 논쟁적인 주제가 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "검찰 보완수사권 폐지에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다.",
-      "action": "관련 뉴스와 소식을 계속해서 모니터링하고 있다.",
+      "insight": "보완수사권 폐지에 대한 논의는 법률 및 정치 분야에서 중요한 이슈입니다.",
+      "action": "관련 법률 및 정책을 검토하고 업데이트합니다.",
+      "priority": "high"
+    },
+    {
+      "insight": "AI 기술의 발전은 다양한 산업에서 기회와 도전을 가져옵니다.",
+      "action": "AI 기술을 활용하여 비즈니스 모델을 개선합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술 관련 뉴스가 클리언 커뮤니티에서 많이 공유되고 있다.",
-      "action": "AI 기술 관련 소식을 계속해서 공유하고 있다.",
-      "priority": "high"
+      "insight": "국방부의 정책과 결정은 국가 안보에 영향을 미칩니다.",
+      "action": "국방부의 정책을 모니터링하고 업데이트합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 보완수사권 폐지와 AI 기술 관련 뉴스가 많이 공유되고 있다. 특히 검찰 보완수사권 폐지에 대한 논의가 활발히 진행되고 있으며, AI 기술 관련 소식이 관심을 끌고 있다. 또한 갤럭시 Z8 시리즈의 홍보 이미지와 관련된 뉴스가 공유되고 있다. 클리앙 커뮤니티의 사용자들은 다양한 주제에 대한 의견을 제시하고 있으며, 중립적인 분위기가 유지되고 있다. 관련 뉴스와 소식을 계속해서 모니터링하고 공유하는 것이 중요하다.",
-  "analyzed_at": "2026-07-18T14:30:34.473Z",
+  "narrative": "클리앙 커뮤니티에서는 보완수사권 폐지, AI 기술, 국방부 등 다양한 주제에 대한 논의가 진행되고 있습니다. 사용자들은 이러한 주제에 대해 관심을 가지고 있으며, 일부는 논쟁적인 의견을 제시하고 있습니다. 이러한 트렌드를 분석하여 비즈니스 인사이트를 얻을 수 있습니다. 보완수사권 폐지에 대한 논의는 법률 및 정치 분야에서 중요한 이슈이며, AI 기술의 발전은 다양한 산업에서 기회와 도전을 가져옵니다. 또한, 국방부의 정책과 결정은 국가 안보에 영향을 미칩니다. 이러한 인사이트를 통해 비즈니스 모델을 개선하고 업데이트할 수 있습니다.",
+  "analyzed_at": "2026-07-18T16:00:34.418Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
