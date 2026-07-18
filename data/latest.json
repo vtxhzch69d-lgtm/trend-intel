@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 다양한 정치적 이슈가 논의되고 있습니다. 특히, 이재명 대통령의 외연 확장과 관련된 인물 허용 여부, 민주당 경선 기탁금 상향 등이 주요한 주제입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 트렌드와 관련된 다양한 뉴스가 있습니다. 특히, AI 기술의 발전, 애플과 삼성의 최신 제품 소식, 게임과 관련된 뉴스 등이 포함됩니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 이슈",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "엔터테인먼트",
-      "summary": "최신 드라마와 영화에 대한 리뷰와 논의가 있습니다. 특히, '호프'와 '동궁'에 대한 리뷰가 포함됩니다.",
-      "post_count": 5,
+      "topic": "테크",
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "이재명 대통령과 관련된 정치적 이슈"
-    },
-    {
       "keyword": "AI",
-      "count": 5,
+      "count": 20,
       "sentiment": "positive",
-      "context": "최신 기술 트렌드와 관련된 뉴스"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "호프",
-      "count": 3,
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 이슈"
+    },
+    {
+      "keyword": "테크",
+      "count": 25,
       "sentiment": "positive",
-      "context": "최신 드라마에 대한 리뷰"
+      "context": "최신 기술 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적인 감정으로 나타남"
+    "positive": 40,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 트렌드에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 트렌드에 대한 뉴스와 정보를 제공하여 사용자들의 관심을 끌어들이세요.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치적 이슈에 대한 논의가 활발하게 진행되고 있습니다.",
-      "action": "정치적 이슈에 대한 다양한 관점의 뉴스와 정보를 제공하여 사용자들의 관심을 끌어들이세요.",
+      "insight": "정치 관련 이슈",
+      "action": "정치 관련 뉴스와 이슈를 주시하고 대응策 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "최신 기술 트렌드",
+      "action": "최신 기술 트렌드를 주시하고 적용",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 기술, 엔터테인먼트가 주요한 주제로 나타났습니다. 특히, 이재명 대통령과 관련된 정치적 이슈, 최신 기술 트렌드, 최신 드라마와 영화에 대한 리뷰가 주요한 주제로 나타났습니다. 사용자들은 이러한 주제에 대한 다양한 관점의 뉴스와 정보를 원하고 있으며, 최신 기술 트렌드에 대한 관심이 높아지고 있습니다. 따라서, 최신 기술 트렌드에 대한 뉴스와 정보를 제공하여 사용자들의 관심을 끌어들이는 것이 중요할 것입니다.",
-  "analyzed_at": "2026-07-18T17:30:34.776Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주를 이루고 있습니다. 또한 정치 관련 뉴스와 이슈도 많은 관심을 받고 있습니다. 테크 관련 뉴스와 트렌드도 많은 주목을 받고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고 최신 기술을 적용하여 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-07-18T19:00:34.144Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
