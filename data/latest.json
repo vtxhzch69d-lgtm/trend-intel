@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련된 게시글이 많아졌다. 장윤기 사건, 북한의 자국 환경미화원 월급, 정청래의 이벤트 등 다양한 정치 관련된 주제가 обсужд되고 있다.",
+      "summary": "이재명과 관련된 정치적인 글들이 많습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최근 기술 관련된 게시글이 많아졌다. AI, 로봇, 무인차량 등 다양한 기술 관련된 주제가 обсужд되고 있다.",
+      "summary": "최신 기술 관련 뉴스와 개발이 활발합니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "최근 경제 관련된 게시글이 많아졌다. 기업의 뉴스, 경제 동향 등 다양한 경제 관련된 주제가 обсужд되고 있다.",
+      "summary": "경제 관련 뉴스와 분석이 많습니다.",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,49 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "이재명",
       "count": 10,
+      "sentiment": "negative",
+      "context": "정치적인 글에서 많이 언급"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다."
+      "context": "기술 개발과 관련"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련된 주제가 다양하게 обсужд되고 있다."
-    },
-    {
-      "keyword": "로봇",
+      "keyword": "경제",
       "count": 5,
-      "sentiment": "positive",
-      "context": "로봇 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다."
+      "sentiment": "neutral",
+      "context": "관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기이지만, 일부에서는 긍정적인 반응을 보이고 있다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 관련된 주제가 증가하고 있다.",
-      "action": "기술 관련된 콘텐츠를 제공하여 사용자의 관심을 끌어야 한다.",
+      "insight": "정치적인 글들이 많은 것으로 보아 정치적인 이슈가 많습니다.",
+      "action": "정치적인 이슈에 대한 분석을 진행",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 주제가 다양하게 обсужд되고 있다.",
-      "action": "정치 관련된 콘텐츠를 제공하여 사용자의 관심을 끌어야 한다.",
+      "insight": "최신 기술 개발이 활발합니다.",
+      "action": "기술 개발에 대한 투자를 고려",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련된 주제가 상대적으로 적다.",
-      "action": "경제 관련된 콘텐츠를 제공하여 사용자의 관심을 끌어야 한다.",
+      "insight": "경제 관련 뉴스와 분석이 많습니다.",
+      "action": "경제적인 이슈에 대한 분석을 진행",
       "priority": "low"
     }
   ],
-  "narrative": "최근 정치, 기술, 경제 관련된 주제가 다양하게 обсужд되고 있다. 기술 관련된 주제가 증가하고 있으며, 로봇과 AI 기술의 발전과 ứng dụng에 대한 관심이 높아지고 있다. 정치 관련된 주제도 다양하게 обсужд되고 있으며, 일부에서는 긍정적인 반응을 보이고 있다. 경제 관련된 주제는 상대적으로 적지만, 기업의 뉴스와 경제 동향 등 다양한 주제가 обсужд되고 있다. 이러한 트렌드를 반영하여 콘텐츠를 제공하여 사용자의 관심을 끌어야 한다.",
-  "analyzed_at": "2026-07-17T22:30:35.910Z",
+  "narrative": "最近의 트렌드 분석 결과, 정치적인 글들이 많으며, 최신 기술 개발이 활발합니다. 또한 경제 관련 뉴스와 분석이 많습니다. 이러한 결과를 통해 정치적인 이슈에 대한 분석을 진행하고, 기술 개발에 대한 투자를 고려할 수 있습니다. 또한 경제적인 이슈에 대한 분석을 진행하여 시장의 동향을 파악할 수 있습니다.",
+  "analyzed_at": "2026-07-18T00:00:37.182Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
