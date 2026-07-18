@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "잉글랜드와 프랑스의 경기 결과를 중심으로 한 चर치",
-      "post_count": 3,
-      "sentiment": "mixed",
+      "summary": "잉글랜드와 프랑스의 3,4위전 경기 결과",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "보완수사권과 관련한 여론조사 및 정치인들의 발언",
-      "post_count": 5,
+      "summary": "보완수사권과 여론의 반응",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스",
-      "post_count": 10,
+      "summary": "최신 스마트폰과 기술 뉴스",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "월드컵",
-      "count": 5,
+      "count": 12,
       "sentiment": "neutral",
-      "context": "스포츠"
+      "context": "잉글랜드와 프랑스의 경기"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "기술"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "보완수사권",
+      "count": 5,
       "sentiment": "negative",
-      "context": "사회"
+      "context": "여론의 반응"
+    },
+    {
+      "keyword": "갤럭시",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "최신 스마트폰 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 강한 것으로 나타남"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "월드컵과 관련한 마케팅 기회",
-      "action": "스포츠 마케팅 캠페인 실행",
+      "insight": "스포츠 마케팅",
+      "action": "월드컵 관련 마케팅 캠페인 실행",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전과 관련한 비즈니스 기회",
-      "action": "AI 기술 투자 및 연구 개발",
+      "insight": "정치적 사회 문제",
+      "action": "보완수사권 관련 사회 문제 해결 방안 모색",
       "priority": "high"
     },
     {
-      "insight": "정치와 관련한 사회적 이슈",
-      "action": "사회적 책임을 고려한 마케팅 전략 수립",
-      "priority": "medium"
+      "insight": "기술 트렌드",
+      "action": "최신 기술 뉴스와 트렌드에 대한 연구 및 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 월드컵과 관련한 चर치가 활발하게 진행되고 있으며, 정치와 관련한 사회적 이슈도 많은 관심을 받고 있습니다. 또한, AI 기술의 발전과 관련된 뉴스도 많이 등장하고 있습니다. 이러한 트렌드를 고려한 마케팅 전략을 수립하여, 소비자들의 관심을 끌고 브랜드 이미지를 향상시키는 것이 중요합니다. 특히, AI 기술의 발전과 관련한 비즈니스 기회를 놓치지 않도록 주목해야 합니다.",
-  "analyzed_at": "2026-07-18T22:00:33.804Z",
+  "narrative": "최근의 트렌드는 월드컵과 정치, 기술 뉴스에 대한 관심이 집중되어 있습니다. 월드컵 관련 게시물은 중립적인 분위기를 보이고 있으며, 정치 관련 게시물은 부정적인 반응이 많습니다. 기술 뉴스 관련 게시물은 긍정적인 반응을 보이고 있습니다. 이러한 트렌드를 바탕으로 마케팅 캠페인과 사회 문제 해결 방안을 모색할 수 있습니다.",
+  "analyzed_at": "2026-07-18T23:30:33.529Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
