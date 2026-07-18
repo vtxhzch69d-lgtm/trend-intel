@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 외연 확장과 관련된 다양한 의견이 나타나고 있습니다. 일부에서는 노무현 시즌2로 불리우며, 일부에서는 다른 대통령들과의 차이를 두고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 이슈",
-      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 뉴스와 의견이 나타나고 있습니다. 오픈AI, 애플, 인텔 등 다양한 기업들이 관련된 소식이 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "월드컵",
+      "summary": "월드컵 3,4위 전과 관련된 다양한 의견이 나타나고 있습니다. 일부에서는 한국 팀의 경기력과 전략을 분석하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "이재명",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 이슈"
+      "context": "이재명 대통령의 외연 확장과 관련된 의견"
     },
     {
-      "keyword": "테크",
+      "keyword": "AI",
       "count": 25,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드"
+      "context": "AI 기술의 발전과 관련된 뉴스와 의견"
+    },
+    {
+      "keyword": "월드컵",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "월드컵 3,4위 전과 관련된 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
+    "positive": 30,
     "negative": 20,
-    "neutral": 30,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "neutral": 40,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발하는 것을 고려해 보세요.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 이슈",
-      "action": "정치 관련 뉴스와 이슈를 주시하고 대응策 개발",
+      "insight": "이재명 대통령의 외연 확장은 정치와 사회에 영향을 미칠 수 있습니다.",
+      "action": "정치와 사회의 동향을 주시하고, 관련된 비즈니스 기회를 찾아보세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 트렌드",
-      "action": "최신 기술 트렌드를 주시하고 적용",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주를 이루고 있습니다. 또한 정치 관련 뉴스와 이슈도 많은 관심을 받고 있습니다. 테크 관련 뉴스와 트렌드도 많은 주목을 받고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고 최신 기술을 적용하여 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-07-18T19:00:34.144Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술의 발전과 이재명 대통령의 외연 확장이 주요한 주제로 나타났습니다. 이러한 트렌드는 다양한 산업과 비즈니스에 영향을 미칠 수 있습니다. 따라서, AI 기술을 활용한 새로운 비즈니스 모델을 개발하는 것을 고려해 보시고, 정치와 사회의 동향을 주시하고, 관련된 비즈니스 기회를 찾아보시는 것을 추천드립니다. 또한, 월드컵과 관련된 의견도 나타나고 있으므로, 관련된 마케팅 전략을 개발하는 것을 고려해 보시기 바랍니다.",
+  "analyzed_at": "2026-07-18T20:30:34.138Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
