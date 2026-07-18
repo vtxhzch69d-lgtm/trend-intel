@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "한동훈 페이스북",
-      "summary": "한동훈의 페이스북 계정에 대한 논란",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "아파트 엘베에 붙은 A4용지",
-      "summary": "아파트 엘베에 붙은 A4용지에 대한 논란",
-      "post_count": 2,
-      "sentiment": "mixed",
+      "topic": "정부 주식 정책",
+      "summary": "정부의 주식 정책에 대한 예상과 분석이 이루어지고 있습니다. 주식 시장의 동향과 정부의 정책 결정이 투자자들에게 미치는 영향에 대한 논의가 활발합니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "혼자 사시는 분들 요리 실력",
-      "summary": "혼자 사시는 분들의 요리 실력에 대한 이야기",
-      "post_count": 1,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "검찰 개혁",
+      "summary": "검찰 개혁에 대한 논의가 진행 중입니다. 검찰의 권한과 책임에 대한 재평가와 개혁 방안에 대한 의견이 교환되고 있습니다.",
+      "post_count": 3,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "부동산 정책",
+      "summary": "부동산 정책에 대한 논의가 이루어지고 있습니다. 정부의 부동산 정책 결정과 그에 따른 시장의 반응에 대한 분석이 진행 중입니다.",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "한동훈",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "한동훈의 페이스북 계정에 대한 논란"
-    },
-    {
-      "keyword": "아파트",
-      "count": 3,
+      "keyword": "주식",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "아파트 엘베에 붙은 A4용지에 대한 논란"
+      "context": "정부 주식 정책과 관련된 키워드입니다."
     },
     {
-      "keyword": "요리",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "혼자 사시는 분들의 요리 실력에 대한 이야기"
+      "keyword": "검찰",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "검찰 개혁과 관련된 키워드입니다."
+    },
+    {
+      "keyword": "부동산",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "부동산 정책과 관련된 키워드입니다."
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감도는 것으로 보임"
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정이 우세합니다."
   },
   "business_insights": [
     {
-      "insight": "한동훈의 페이스북 계정에 대한 논란이 확대되고 있다",
-      "action": "한동훈의 페이스북 계정에 대한 논란을 주시하고 대응할 필요가 있다",
+      "insight": "정부의 주식 정책 결정은 투자자들에게 큰 영향을 미칩니다.",
+      "action": "투자 전략을 조정해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "아파트 엘베에 붙은 A4용지에 대한 논란이 발생하고 있다",
-      "action": "아파트 엘베에 붙은 A4용지에 대한 논란을 주시하고 대응할 필요가 있다",
+      "insight": "검찰 개혁은 사회적 안정성에 영향을 미칩니다.",
+      "action": "정책 결정에 대한 주의가 필요합니다.",
       "priority": "medium"
     },
     {
-      "insight": "혼자 사시는 분들의 요리 실력에 대한 이야기들이 증가하고 있다",
-      "action": "혼자 사시는 분들의 요리 실력에 대한 이야기를 활용하여 마케팅을 진행할 수 있다",
-      "priority": "low"
+      "insight": "부동산 정책은 시장의 동향에 큰 영향을 미칩니다.",
+      "action": "시장 분석을 통해 전략을 수립해야 합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 한동훈의 페이스북 계정에 대한 논란이 확대되고 있다. 아파트 엘베에 붙은 A4용지에 대한 논란도 발생하고 있다. 혼자 사시는 분들의 요리 실력에 대한 이야기들도 증가하고 있다. 이러한 트렌드들을 분석하여 마케팅을 진행할 수 있다. 한동훈의 페이스북 계정에 대한 논란을 주시하고 대응할 필요가 있다. 아파트 엘베에 붙은 A4용지에 대한 논란을 주시하고 대응할 필요가 있다. 혼자 사시는 분들의 요리 실력에 대한 이야기를 활용하여 마케팅을 진행할 수 있다.",
-  "analyzed_at": "2026-07-18T07:00:33.971Z",
+  "narrative": "현재의 트렌드는 정부의 주식 정책과 검찰 개혁, 부동산 정책에 대한 논의가 중심입니다. 투자자들은 정부의 정책 결정에 대한 주의가 필요하며, 검찰 개혁은 사회적 안정성에 영향을 미칩니다. 또한, 부동산 정책은 시장의 동향에 큰 영향을 미치므로 시장 분석을 통해 전략을 수립해야 합니다. 이러한 트렌드에 대한 분석과 이해는 사업적 의사 결정에 중요한 역할을 할 것입니다.",
+  "analyzed_at": "2026-07-18T08:30:34.202Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
