@@ -2,71 +2,59 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정치 관련 주제가 많은 관심을 받고 있습니다. 특히, 당대표 선거와 관련된 글들이 많습니다.",
+      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많은 관심을 받고 있습니다. 특히 김민석, 김용범, 이재명 등 정치인에 대한 논의가 활발합니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "기술 관련 주제가 많은 관심을 받고 있습니다. 특히, AI와 관련된 글들이 많습니다.",
+      "summary": "클리앙 커뮤니티에서 기술 관련 게시글도 많은 관심을 받고 있습니다. 특히 갤럭시 Z 시리즈, 애플, AI 등에 대한 논의가 활발합니다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "사회",
-      "summary": "사회 관련 주제가 많은 관심을 받고 있습니다. 특히, 가정폭력피해자 보호시설과 관련된 글들이 많습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "유시민",
+      "keyword": "김민석",
       "count": 5,
       "sentiment": "negative",
-      "context": "유시민에 대한 비판적인 글들이 많습니다."
+      "context": "김민석에 대한 비판적인 의견이 많습니다."
+    },
+    {
+      "keyword": "갤럭시 Z 시리즈",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "갤럭시 Z 시리즈에 대한 호평이 많습니다."
     },
     {
       "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "AI에 대한 긍정적인 글들이 많습니다."
-    },
-    {
-      "keyword": "당대표",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "당대표 선거와 관련된 글들이 많습니다."
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "AI에 대한 중립적인 의견이 많습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 게시글에서는 부정적인 분위기가 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "정치 관련 주제에 대한 콘텐츠를 생성하세요.",
+      "insight": "정치 관련 게시글이 많은 관심을 받고 있습니다.",
+      "action": "정치 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "기술 관련 주제에 대한 콘텐츠를 생성하세요.",
+      "insight": "기술 관련 게시글도 많은 관심을 받고 있습니다.",
+      "action": "기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "사회 관련 주제에 대한 콘텐츠를 생성하세요.",
-      "priority": "low"
     }
   ],
-  "narrative": "이번 주에는 정치, 기술, 사회 관련 주제가 많은 관심을 받고 있습니다. 특히, 당대표 선거와 관련된 글들이 많습니다. 또한, AI에 대한 긍정적인 글들이 많습니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하면 효과적인 마케팅이 가능할 것입니다. 그러나, 유시민에 대한 비판적인 글들이 많기 때문에 관련된 콘텐츠를 생성할 때에는 주의가 필요합니다.",
-  "analyzed_at": "2026-07-19T02:30:34.029Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많은 관심을 받고 있습니다. 특히 김민석, 김용범, 이재명 등 정치인에 대한 논의가 활발합니다. 또한 기술 관련 게시글도 많은 관심을 받고 있습니다. 특히 갤럭시 Z 시리즈, 애플, AI 등에 대한 논의가 활발합니다. 이러한 트렌드를 반영하여 정치 및 기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다. 또한 중립적인 의견을 제공하여 사용자들의 신뢰를 얻을 수 있습니다.",
+  "analyzed_at": "2026-07-19T04:00:33.802Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
