@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "월드컵 결승전이 생각보다 재미없다는 의견과 BTS의 월드컵 공연에 대한 논의가 클리앙 커뮤니티에서 활발히 진행 중입니다.",
-      "post_count": 10,
+      "summary": "월드컵 결승전에서 스페인이 아르헨을 상대로 승리했다. 경기는 매우 치열했으며, 아르헨의 도발적인 플레이가 논란이 되고 있다.",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술이 빠르게 발전하고 있으며, 여러 기업들이 AI에 대한 투자를 확대하고 있다. 그러나 AI의 오남용에 대한 우려도 존재한다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 민주당에 대한 비판과 조롱이 클리앙 커뮤니티에서 나타나고 있습니다.",
-      "post_count": 8,
+      "summary": "정치 관련된 게시글이 여러 개 존재하며, 특히 이재명 대통령과 민주당에 대한 논란이 있다.",
+      "post_count": 5,
       "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 뉴스와 정보가 클리앙 커뮤니티에서 많이 공유되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "월드컵",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "월드컵 관련 뉴스와 논의"
-    },
-    {
-      "keyword": "BTS",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "BTS의 월드컵 공연에 대한 논의"
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "월드컵 결승전과 관련된 게시글"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "AI와 기술 관련 뉴스와 정보"
+      "context": "AI 기술과 관련된 게시글"
+    },
+    {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "이재명 대통령과 관련된 정치적인 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적이고 정보 중심적인 분위기"
+    "neutral": 20,
+    "overall_mood": "중立적인 분위기이지만, 일부에서는 부정적인 감정도 존재한다."
   },
   "business_insights": [
     {
-      "insight": "월드컵과 스포츠 관련 마케팅 기회",
-      "action": "월드컵과 스포츠 관련 콘텐츠와 프로모션 개발",
+      "insight": "월드컵과 관련된 마케팅 기회",
+      "action": "월드컵과 관련된 프로모션과 광고를 진행한다.",
+      "priority": "high"
+    },
+    {
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 제품과 서비스를 개발한다.",
       "priority": "medium"
     },
     {
-      "insight": "AI와 기술 관련 정보와 뉴스의 수요",
-      "action": "AI와 기술 관련 콘텐츠와 뉴스 제공",
+      "insight": "정치적인 논란",
+      "action": "정치적인 논란에 대한 대응 전략을 수립한다.",
       "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 월드컵과 정치, AI와 기술 관련 주제가 많이 논의되고 있습니다. 월드컵 관련 뉴스와 정보는 중립적인 분위기이며, 정치 관련 논의는 부정적인 감정이 많습니다. AI와 기술 관련 뉴스와 정보는 중립적인 분위기이며, 많은 사용자가 관심을 가지고 있습니다. 마케터는 이러한 트렌드와 주제를 고려하여 콘텐츠와 프로모션을 개발할 수 있습니다.",
-  "analyzed_at": "2026-07-19T20:30:33.893Z",
+  "narrative": "최근의 트렌드는 월드컵과 AI 기술의 발전이 주를 이루고 있다. 월드컵과 관련된 게시글은 매우 많으며, AI 기술도 빠르게 발전하고 있다. 그러나 일부에서는 정치적인 논란도 존재한다. 이러한 트렌드를 통해 기업들은 새로운 마케팅 기회와 기술적인 발전을 추구할 수 있다. 그러나 정치적인 논란에 대한 대응 전략도 수립해야 한다.",
+  "analyzed_at": "2026-07-19T22:00:34.293Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
