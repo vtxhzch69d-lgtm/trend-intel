@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
+      "topic": "월드컵",
+      "summary": "월드컵 관련 게시글이 많습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
       "topic": "정치",
-      "summary": "정청래 신천지 관련 의혹과 대통령의 성과에 대한 의문점이 제기되고 있습니다.",
+      "summary": "정치 관련 게시글이 많습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "AI와 반도체 관련 뉴스가 많이 보도되고 있으며, 애플과 삼성의 경쟁이 치열합니다.",
+      "topic": "기술",
+      "summary": "기술 관련 게시글이 많습니다.",
       "post_count": 15,
       "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "스포츠",
-      "summary": "DK의 EWC 우승과 아르헨티나와 스페인의 결승전이 관심을 모으고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "월드컵",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "AI 관련 뉴스와 기술 개발에 대한 관심이 높습니다."
+      "sentiment": "positive",
+      "context": "월드컵 관련 게시글"
     },
     {
-      "keyword": "정청래",
-      "count": 5,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "negative",
-      "context": "정청래 신천지 관련 의혹에 대한 비판과 의문점이 제기되고 있습니다."
+      "context": "정치 관련 게시글"
     },
     {
-      "keyword": "삼성",
-      "count": 5,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "neutral",
-      "context": "삼성의 기술 개발과 경쟁에 대한 관심이 높습니다."
+      "context": "기술 관련 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 주제에서는 부정적인 감정이 나타납니다."
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI와 반도체 기술 개발에 대한 투자가 증가할 것으로 예상됩니다.",
-      "action": "관련 기술 개발에 투자하고, 경쟁사 동향을 주시하세요.",
+      "insight": "월드컵 관련 마케팅을 진행할 수 있습니다.",
+      "action": "마케팅 캠페인 진행",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 게시글을 주의해야 합니다.",
+      "action": "게시글 모니터링",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제에서는 부정적인 감정이 나타나고 있으므로, 기업의 이미지를 관리해야 합니다.",
-      "action": "기업의 이미지를 관리하고, 정치 관련 주제에 대한 대응 전략을 수립하세요.",
-      "priority": "medium"
+      "insight": "기술 관련 게시글을 통해 트렌드를 파악할 수 있습니다.",
+      "action": "기술 트렌드 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 테크 관련 주제가 많이 보도되고 있습니다. 특히, 정청래 신천지 관련 의혹과 대통령의 성과에 대한 의문점이 제기되고 있으며, AI와 반도체 기술 개발에 대한 관심이 높습니다. 또한, 일부 정치 관련 주제에서는 부정적인 감정이 나타나고 있으므로, 기업의 이미지를 관리해야 합니다. 따라서, 관련 기술 개발에 투자하고, 경쟁사 동향을 주시하며, 기업의 이미지를 관리해야 합니다.",
-  "analyzed_at": "2026-07-19T17:30:34.440Z",
+  "narrative": "최근 클리앙 커뮤니티에서는 월드컵, 정치, 기술 관련 게시글이 많이 올라왔습니다. 월드컵 관련 게시글은 긍정적인 반응을 보였으며, 정치 관련 게시글은 부정적인 반응을 보였습니다. 기술 관련 게시글은 중립적인 반응을 보였습니다. 이러한 트렌드를 파악하여 마케팅 캠페인이나 기술 트렌드 분석을 진행할 수 있습니다.",
+  "analyzed_at": "2026-07-19T19:00:33.200Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
