@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정민철",
-      "summary": "정민철에 대한 논란과 책 판매 순위 1위",
+      "topic": "호프 영화",
+      "summary": "호프 영화에 대한 후기가 많습니다. 관람객들의 반응은 대부분 긍정적입니다.",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령의 행보와 보완수사권에 대한 논란",
-      "post_count": 7,
+      "topic": "이재명 정부",
+      "summary": "이재명 정부에 대한 논의가 많습니다. 일부에서는 정부의 정책을 비판하고 있습니다.",
+      "post_count": 4,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "summary": "AI 기술에 대한 관심이 많습니다. 특히 ChatGPT와 관련된 게시글이 많습니다.",
+      "post_count": 6,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정민철",
+      "keyword": "호프",
       "count": 7,
-      "sentiment": "negative",
-      "context": "정민철에 대한 논란"
+      "sentiment": "positive",
+      "context": "호프 영화에 대한 후기가 많습니다."
     },
     {
-      "keyword": "이재명 대통령",
-      "count": 10,
+      "keyword": "이재명",
+      "count": 5,
       "sentiment": "negative",
-      "context": "이재명 대통령의 행보"
+      "context": "이재명 정부에 대한 비판이 있습니다."
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "AI 기술에 대한 관심이 많습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 우세"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기이지만, 일부에서는 정부의 정책을 비판하고 있습니다."
   },
   "business_insights": [
     {
-      "insight": "정치적인 이슈가 소셜미디어에서 큰 영향을 미치고 있다",
-      "action": "정치적인 이슈에 대한 모니터링 강화",
+      "insight": "호프 영화의 성공",
+      "action": "영화 산업에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 적용되고 있다",
-      "action": "AI 기술에 대한 투자와 연구 강화",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술에 대한 연구 개발 투자 증가",
       "priority": "medium"
+    },
+    {
+      "insight": "이재명 정부의 정책",
+      "action": "정부의 정책에 대한 비판과 개선 필요",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정민철과 이재명 대통령에 대한 논란이 소셜미디어에서 큰 영향을 미치고 있다. 또한 AI 기술의 발전이 다양한 산업에서 적용되고 있다. 이러한 트렌드에 대한 모니터링과 분석이 중요하다. 정치적인 이슈에 대한 모니터링을 강화하고, AI 기술에 대한 투자와 연구를 강화해야 한다. 이러한 노력으로 인해 기업과 조직은 소셜미디어에서 일어나는 트렌드에 대한 이해를 높이고, 이를 통해 경쟁력을 강화할 수 있을 것이다.",
-  "analyzed_at": "2026-07-19T08:30:34.080Z",
+  "narrative": "최근의 트렌드에는 호프 영화, 이재명 정부, AI 기술이 포함되어 있습니다. 호프 영화는 관람객들의 긍정적인 반응을 얻었으며, 이재명 정부는 일부에서 비판을 받고 있습니다. AI 기술은 많은 관심을 받고 있습니다. 이러한 트렌드는 영화 산업, 기술 산업, 政治 분야에서 사업 기회를 찾을 수 있습니다. 그러나 정부의 정책에 대한 비판과 개선 필요도 있어 보입니다.",
+  "analyzed_at": "2026-07-19T10:00:34.278Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
