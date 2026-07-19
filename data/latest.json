@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "잉글랜드와 프랑스의 3,4위전 경기 결과",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "정청래 전대표, 이해찬 전 총리님의 사모님이 제 후원회장을 맡아주십니다. 유시민한테 할욕 국힘에게 좀 해보지",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "보완수사권과 여론의 반응",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "테크",
+      "summary": "갤럭시Z 시리즈 '와이드 폴드' 가장 많이 만든다. 애플, 오픈AI로 옮긴 직원들에 경고장…'기밀 탈취' 공세",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 스마트폰과 기술 뉴스",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "경제",
+      "summary": "현대차 노조는 순이익에 30% 성과급 요구 하는군요. 메모리 SSD 가격 정말 장난이 아니군요.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "잉글랜드와 프랑스의 경기"
-    },
-    {
-      "keyword": "보완수사권",
+      "keyword": "유시민",
       "count": 5,
       "sentiment": "negative",
-      "context": "여론의 반응"
+      "context": "정치 관련된 글에서 많이 언급됨"
     },
     {
-      "keyword": "갤럭시",
-      "count": 4,
+      "keyword": "갤럭시Z",
+      "count": 3,
       "sentiment": "positive",
-      "context": "최신 스마트폰 뉴스"
+      "context": "신제품 관련된 글에서 많이 언급됨"
+    },
+    {
+      "keyword": "메모리 SSD",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "가격 관련된 글에서 많이 언급됨"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 글들이 더 많음"
   },
   "business_insights": [
     {
-      "insight": "스포츠 마케팅",
-      "action": "월드컵 관련 마케팅 캠페인 실행",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치적 사회 문제",
-      "action": "보완수사권 관련 사회 문제 해결 방안 모색",
+      "insight": "테크 관련된 글들이 많은 관심을 받고 있음",
+      "action": "테크 관련된 마케팅을 강화할 필요가 있음",
       "priority": "high"
     },
     {
-      "insight": "기술 트렌드",
-      "action": "최신 기술 뉴스와 트렌드에 대한 연구 및 개발",
-      "priority": "low"
+      "insight": "경제 관련된 글들이 많은 부정적인 감정을 가지고 있음",
+      "action": "경제 관련된 마케팅을 부정적인 감정을 고려하여 진행할 필요가 있음",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 정치, 기술 뉴스에 대한 관심이 집중되어 있습니다. 월드컵 관련 게시물은 중립적인 분위기를 보이고 있으며, 정치 관련 게시물은 부정적인 반응이 많습니다. 기술 뉴스 관련 게시물은 긍정적인 반응을 보이고 있습니다. 이러한 트렌드를 바탕으로 마케팅 캠페인과 사회 문제 해결 방안을 모색할 수 있습니다.",
-  "analyzed_at": "2026-07-18T23:30:33.529Z",
+  "narrative": "최근의 트렌드는 정치, 테크, 경제 관련된 글들이 많습니다. 테크 관련된 글들은 많은 관심을 받고 있지만, 경제 관련된 글들은 많은 부정적인 감정을 가지고 있습니다. 따라서 테크 관련된 마케팅을 강화하고, 경제 관련된 마케팅을 부정적인 감정을 고려하여 진행할 필요가 있습니다. 또한, 유시민, 갤럭시Z, 메모리 SSD와 같은 키워드들이 많이 언급되고 있으므로, 이러한 키워드들을 고려하여 마케팅을 진행할 필요가 있습니다.",
+  "analyzed_at": "2026-07-19T01:01:30.916Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
