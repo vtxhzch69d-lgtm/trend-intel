@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아졌습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "정청래 신천지 관련 의혹과 대통령의 성과에 대한 의문점이 제기되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 관련 뉴스와 기술이 클리앙 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "테크",
+      "summary": "AI와 반도체 관련 뉴스가 많이 보도되고 있으며, 애플과 삼성의 경쟁이 치열합니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "스포츠",
-      "summary": "DK의 EWC 우승과 아르헨:스페인 결승전이 클리앙 커뮤니티에서 인기 있습니다.",
+      "summary": "DK의 EWC 우승과 아르헨티나와 스페인의 결승전이 관심을 모으고 있습니다.",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "low"
@@ -25,48 +25,43 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 뉴스"
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "AI 관련 뉴스와 기술 개발에 대한 관심이 높습니다."
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 게시글"
-    },
-    {
-      "keyword": "스포츠",
+      "keyword": "정청래",
       "count": 5,
-      "sentiment": "positive",
-      "context": "스포츠 관련 게시글"
+      "sentiment": "negative",
+      "context": "정청래 신천지 관련 의혹에 대한 비판과 의문점이 제기되고 있습니다."
+    },
+    {
+      "keyword": "삼성",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "삼성의 기술 개발과 경쟁에 대한 관심이 높습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 주제에서는 부정적인 감정이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 클리앙 커뮤니티에서 큰 관심을 받고 있습니다.",
-      "action": "AI 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에 홍보할 수 있습니다.",
+      "insight": "AI와 반도체 기술 개발에 대한 투자가 증가할 것으로 예상됩니다.",
+      "action": "관련 기술 개발에 투자하고, 경쟁사 동향을 주시하세요.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 게시글은 클리언 커뮤니티에서 많이 обсужд되고 있습니다.",
-      "action": "정치 관련 뉴스나 분석을 클리앙 커뮤니티에 제공하여 관심을 끌 수 있습니다.",
+      "insight": "정치 관련 주제에서는 부정적인 감정이 나타나고 있으므로, 기업의 이미지를 관리해야 합니다.",
+      "action": "기업의 이미지를 관리하고, 정치 관련 주제에 대한 대응 전략을 수립하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "스포츠 관련 게시글은 클리앙 커뮤니티에서 인기 있습니다.",
-      "action": "스포츠 관련 뉴스나 분석을 클리앙 커뮤니티에 제공하여 관심을 끌 수 있습니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치, AI 기술, 스포츠 관련 게시글이 많이 обсужд되고 있습니다. AI 기술은 클리앙 커뮤니티에서 큰 관심을 받고 있으며, 정치 관련 게시글은 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 스포츠 관련 게시글은 클리앙 커뮤니티에서 인기 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-07-19T16:00:33.539Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 테크 관련 주제가 많이 보도되고 있습니다. 특히, 정청래 신천지 관련 의혹과 대통령의 성과에 대한 의문점이 제기되고 있으며, AI와 반도체 기술 개발에 대한 관심이 높습니다. 또한, 일부 정치 관련 주제에서는 부정적인 감정이 나타나고 있으므로, 기업의 이미지를 관리해야 합니다. 따라서, 관련 기술 개발에 투자하고, 경쟁사 동향을 주시하며, 기업의 이미지를 관리해야 합니다.",
+  "analyzed_at": "2026-07-19T17:30:34.440Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
