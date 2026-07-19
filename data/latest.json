@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명과 윤석열에 대한 논의",
-      "post_count": 10,
+      "topic": "정치 및 사회",
+      "summary": "최근 정치 및 사회 관련 뉴스와 논란이 클리앙 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 반도체에 대한 뉴스",
-      "post_count": 15,
+      "topic": "테크 및 IT",
+      "summary": "신제품 출시, 기술 발전, AI 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "기업 뉴스와 경제 동향",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "엔터테인먼트",
+      "summary": "신작 게임, 영화, 드라마 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 논의"
-    },
-    {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "AI 기술 발전과 관련된 뉴스"
     },
     {
-      "keyword": "삼성",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정치 관련 논란과 뉴스"
+    },
+    {
+      "keyword": "갤럭시",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "갤럭시 신제품 출시와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "클리앙 커뮤니티의 전반적인 분위기는 긍정적입니다."
   },
   "business_insights": [
     {
-      "insight": "정치 논의가 증가하고 있다",
-      "action": "정치 관련 콘텐츠 생성",
+      "insight": "클리앙 커뮤니티의 사용자들은 기술과 정치에 관심이 많습니다.",
+      "action": "기술과 정치 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술에 대한 관심이 높아지고 있다",
-      "action": "기술 관련 콘텐츠 생성",
+      "insight": "클리앙 커뮤니티의 사용자들은 새로운 기술과 제품에 대해 관심이 많습니다.",
+      "action": "신제품 출시와 관련된 뉴스와 정보를 제공하여 사용자들의 관심을 끌어야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 뉴스가 다양화되고 있다",
-      "action": "경제 관련 콘텐츠 생성",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술에 대한 논의가 증가하고 있다. 이재명과 윤석열에 대한 논의가 많으며, AI와 반도체에 대한 뉴스도 많다. 또한, 기업 뉴스와 경제 동향도 다양화되고 있다. 이러한 트렌드를 반영하여 콘텐츠를 생성하고, 정치, 기술, 경제에 대한 관심을 높일 수 있는 전략을 수립할 필요가 있다.",
-  "analyzed_at": "2026-07-19T13:00:33.540Z",
+  "narrative": "클리앙 커뮤니티의 사용자들은 기술과 정치에 관심이 많습니다. 최근 AI 기술 발전과 관련된 뉴스가 많이 обсужд되고 있습니다. 또한, 갤럭시 신제품 출시와 관련된 뉴스도 많이 обсужд되고 있습니다. 클리앙 커뮤니티의 전반적인 분위기는 긍정적입니다. 기술과 정치 관련된 콘텐츠를 제공하여 사용자들의 관심을 끌어야 합니다. 또한, 신제품 출시와 관련된 뉴스와 정보를 제공하여 사용자들의 관심을 끌어야 합니다.",
+  "analyzed_at": "2026-07-19T14:30:33.996Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
