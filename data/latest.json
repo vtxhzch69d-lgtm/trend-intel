@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "월드컵",
-      "summary": "월드컵 관련 게시글이 많습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
+      "summary": "월드컵 결승전이 생각보다 재미없다는 의견과 BTS의 월드컵 공연에 대한 논의가 클리앙 커뮤니티에서 활발히 진행 중입니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련 게시글이 많습니다.",
-      "post_count": 10,
+      "summary": "이재명 대통령과 민주당에 대한 비판과 조롱이 클리앙 커뮤니티에서 나타나고 있습니다.",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 게시글이 많습니다.",
-      "post_count": 15,
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련 뉴스와 정보가 클리앙 커뮤니티에서 많이 공유되고 있습니다.",
+      "post_count": 20,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -25,48 +25,43 @@
   "keywords": [
     {
       "keyword": "월드컵",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "월드컵 관련 게시글"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "월드컵 관련 뉴스와 논의"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "정치 관련 게시글"
+      "keyword": "BTS",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "BTS의 월드컵 공연에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "기술 관련 게시글"
+      "context": "AI와 기술 관련 뉴스와 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적이고 정보 중심적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "월드컵 관련 마케팅을 진행할 수 있습니다.",
-      "action": "마케팅 캠페인 진행",
+      "insight": "월드컵과 스포츠 관련 마케팅 기회",
+      "action": "월드컵과 스포츠 관련 콘텐츠와 프로모션 개발",
       "priority": "medium"
     },
     {
-      "insight": "정치 관련 게시글을 주의해야 합니다.",
-      "action": "게시글 모니터링",
-      "priority": "high"
-    },
-    {
-      "insight": "기술 관련 게시글을 통해 트렌드를 파악할 수 있습니다.",
-      "action": "기술 트렌드 분석",
+      "insight": "AI와 기술 관련 정보와 뉴스의 수요",
+      "action": "AI와 기술 관련 콘텐츠와 뉴스 제공",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 월드컵, 정치, 기술 관련 게시글이 많이 올라왔습니다. 월드컵 관련 게시글은 긍정적인 반응을 보였으며, 정치 관련 게시글은 부정적인 반응을 보였습니다. 기술 관련 게시글은 중립적인 반응을 보였습니다. 이러한 트렌드를 파악하여 마케팅 캠페인이나 기술 트렌드 분석을 진행할 수 있습니다.",
-  "analyzed_at": "2026-07-19T19:00:33.200Z",
+  "narrative": "클리앙 커뮤니티에서는 월드컵과 정치, AI와 기술 관련 주제가 많이 논의되고 있습니다. 월드컵 관련 뉴스와 정보는 중립적인 분위기이며, 정치 관련 논의는 부정적인 감정이 많습니다. AI와 기술 관련 뉴스와 정보는 중립적인 분위기이며, 많은 사용자가 관심을 가지고 있습니다. 마케터는 이러한 트렌드와 주제를 고려하여 콘텐츠와 프로모션을 개발할 수 있습니다.",
+  "analyzed_at": "2026-07-19T20:30:33.893Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
