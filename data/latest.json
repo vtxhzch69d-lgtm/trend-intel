@@ -1,60 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많은 관심을 받고 있습니다. 특히 김민석, 김용범, 이재명 등 정치인에 대한 논의가 활발합니다.",
-      "post_count": 15,
+      "topic": "정청래와 민주당",
+      "summary": "정청래와 민주당의 관계와 최근의 정치적 상황에 대한 논의",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "클리앙 커뮤니티에서 기술 관련 게시글도 많은 관심을 받고 있습니다. 특히 갤럭시 Z 시리즈, 애플, AI 등에 대한 논의가 활발합니다.",
-      "post_count": 10,
+      "topic": "AI와 기술",
+      "summary": "AI와 기술의 발전 및 관련 뉴스와 논의",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제와 산업",
+      "summary": "경제와 산업의 동향 및 관련 뉴스와 논의",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김민석",
-      "count": 5,
+      "keyword": "정청래",
+      "count": 12,
       "sentiment": "negative",
-      "context": "김민석에 대한 비판적인 의견이 많습니다."
-    },
-    {
-      "keyword": "갤럭시 Z 시리즈",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "갤럭시 Z 시리즈에 대한 호평이 많습니다."
+      "context": "정청래와 민주당의 관계에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "AI에 대한 중립적인 의견이 많습니다."
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI와 기술의 발전에 대한 논의"
+    },
+    {
+      "keyword": "민주당",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "민주당과 정치적 상황에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 게시글에서는 부정적인 분위기가 감지됩니다."
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 게시글이 많은 관심을 받고 있습니다.",
-      "action": "정치 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "정청래와 민주당의 관계는 정치적 상황에 큰 영향을 미칠 수 있다",
+      "action": "정치적 상황을 주시하고 대응 策略을 수립한다",
       "priority": "high"
     },
     {
-      "insight": "기술 관련 게시글도 많은 관심을 받고 있습니다.",
-      "action": "기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "AI와 기술의 발전은 산업과 경제에 큰 영향을 미칠 수 있다",
+      "action": "AI와 기술의 발전을 주시하고 투자 및 협력을 고려한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많은 관심을 받고 있습니다. 특히 김민석, 김용범, 이재명 등 정치인에 대한 논의가 활발합니다. 또한 기술 관련 게시글도 많은 관심을 받고 있습니다. 특히 갤럭시 Z 시리즈, 애플, AI 등에 대한 논의가 활발합니다. 이러한 트렌드를 반영하여 정치 및 기술 관련 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있습니다. 또한 중립적인 의견을 제공하여 사용자들의 신뢰를 얻을 수 있습니다.",
-  "analyzed_at": "2026-07-19T04:00:33.802Z",
+  "narrative": "最近의 정치적 상황과 기술의 발전이 사회와 산업에 큰 영향을 미치고 있다. 정청래와 민주당의 관계는 정치적 상황에 큰 영향을 미칠 수 있다. 또한, AI와 기술의 발전은 산업과 경제에 큰 영향을 미칠 수 있다. 이러한 상황을 주시하고 대응 策略을 수립하는 것이 중요하다. 또한, AI와 기술의 발전을 주시하고 투자 및 협력을 고려하는 것이 필요하다.",
+  "analyzed_at": "2026-07-19T05:30:33.819Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
