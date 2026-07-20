@@ -1,55 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령 아파트 거래",
-      "summary": "이재명 대통령의 아파트 거래가 커뮤니티에서 논란이 되고 있습니다. 일부 사용자는 거래 가격이 비싼 것으로 보고 있으며, 다른 사용자는 거래가 정상적으로 이루어졌다고 주장합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "대통령의 부동산 거래",
+      "summary": "대통령의 부동산 거래가 논란이 되고 있습니다. 일부에서는 거래가 공정하지 않다고 주장합니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술이 커뮤니티에서 많이 обсужд되고 있습니다. 일부 사용자는 AI 기술의 발전이 빠르다고 주장하며, 다른 사용자는 AI 기술의 발전이 느리다고 주장합니다.",
-      "post_count": 15,
+      "summary": "AI 기술이 발전하고 있으며, 다양한 산업에서 적용되고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 재정",
+      "summary": "경제 및 재정 관련 뉴스가 많이 обсужд되고 있습니다. 일부에서는 경제 상황이 좋지 않다고 주장합니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "대통령",
       "count": 20,
       "sentiment": "negative",
-      "context": "이재명 대통령의 아파트 거래에 대한 논란"
+      "context": "대통령의 부동산 거래에 대한 논란"
     },
     {
       "keyword": "AI",
-      "count": 30,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술의 발전과 산업에서의 적용"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "경제 상황에 대한 우려"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
+    "positive": 25,
     "negative": 30,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령의 아파트 거래 논란은 정치적 이슈로 남게 될 가능성이 있습니다.",
-      "action": "정치적 이슈에 대한 대응 전략 수립",
+      "insight": "대통령의 부동산 거래에 대한 논란은 정치적인 문제가 될 수 있습니다.",
+      "action": "정치적인 문제에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 적용될 가능성이 있습니다.",
-      "action": "AI 기술의 적용을 위한 연구 및 개발 투자",
+      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있습니다.",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제 상황에 대한 우려는 소비자 행동에 영향을 줄 수 있습니다.",
+      "action": "소비자 행동에 대한 대응을 준비해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 커뮤니티에서는 이재명 대통령의 아파트 거래와 AI 기술이 많이 обсужд되고 있습니다. 이재명 대통령의 아파트 거래는 정치적 이슈로 남게 될 가능성이 있으며, AI 기술의 발전은 다양한 산업에서 적용될 가능성이 있습니다. 따라서, 관련 기업이나 기관은 이러한 이슈에 대한 대응 전략을 수립하고, AI 기술의 적용을 위한 연구 및 개발 투자를 고려해야 합니다. 또한, 커뮤니티의 논란과 관심을 고려하여, 관련된 마케팅 전략을 수립하는 것이 중요할 것입니다.",
-  "analyzed_at": "2026-07-20T08:30:35.043Z",
-  "post_count": 62,
+  "narrative": "최근 대통령의 부동산 거래에 대한 논란이 정치적인 문제가 되고 있습니다. 일부에서는 거래가 공정하지 않다고 주장합니다. 또한, AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있습니다. 그러나, 경제 상황에 대한 우려는 소비자 행동에 영향을 줄 수 있습니다. 따라서, 정치적인 문제에 대한 대응을 준비하고, AI 기술을 활용하여 새로운 비즈니스 모델을 개발해야 합니다. 또한, 소비자 행동에 대한 대응을 준비해야 합니다.",
+  "analyzed_at": "2026-07-20T10:00:35.031Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
