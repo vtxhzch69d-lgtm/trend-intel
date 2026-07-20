@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "월드컵",
-      "summary": "스페인이 아르헨티나를 꺾고 16년 만에 우승하였다. 골든볼은 메시가 수상하였다.",
+      "topic": "주식 시장",
+      "summary": "코스피와 코스닥의 급락장에 대한 우려가 커지고 있습니다. 사이드카 발동과 시장의 불안정성이 주요 관심사입니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "주식",
-      "summary": "주식 시장의 변동성에 대한 우려가 높아지고 있다. 일부 주가는 급등하였다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 이해찬 전 총리의 활동에 대한 논의가 활발하다.",
-      "post_count": 6,
+      "topic": "부동산 시장",
+      "summary": "부동산 가격과 정책에 대한 논의가 활발하게 진행되고 있습니다. 정부의 정책 실패와 시장의 불안정성이 주요 관심사입니다.",
+      "post_count": 5,
       "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화에 대한 관심이 커지고 있습니다. AI의 잠재적 가능성과 도전에 대한 논의가 진행되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "월드컵",
+      "keyword": "코스피",
       "count": 15,
-      "sentiment": "positive",
-      "context": "스포츠 이벤트"
-    },
-    {
-      "keyword": "주식",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "금융 시장"
-    },
-    {
-      "keyword": "이재명",
-      "count": 8,
       "sentiment": "negative",
-      "context": "정치 인물"
+      "context": "주식 시장의 급락장"
+    },
+    {
+      "keyword": "부동산",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "부동산 가격과 정책"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 산업의 변화"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정과 불안정성이 높은 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "스포츠 마케팅",
-      "action": "월드컵 관련 이벤트參加",
+      "insight": "주식 시장의 불안정성에 대한 대응 전략 수립",
+      "action": "주식 투자 전략의 재평가",
       "priority": "high"
     },
     {
-      "insight": "금융 시장 분석",
-      "action": "주식 시장 변동성에 대한 연구",
+      "insight": "부동산 시장의 정책 실패에 대한 분석",
+      "action": "부동산 투자 전략의 재평가",
       "priority": "medium"
     },
     {
-      "insight": "정치 마케팅",
-      "action": "정치 인물에 대한 연구",
-      "priority": "low"
+      "insight": "AI 기술의 발전과 산업의 변화에 대한 기회 탐색",
+      "action": "AI 기술의 도입과 활용",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 월드컵과 주식 시장의 변동성에 대한 우려가 높아지고 있다. 정치 관련된 주제도 활발하게 논의되고 있다. 이러한 트렌드를 분석하여 마케팅 전략을 수립할 수 있다. 월드컵과 주식 시장의 변동성에 대한 연구를 통해 마케팅 기회를 찾을 수 있다. 또한 정치 관련된 주제에 대한 연구를 통해 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-07-19T23:30:33.703Z",
+  "narrative": "현재의 트렌드와 감정은 주식 시장과 부동산 시장의 불안정성에 대한 우려가 크게 나타나고 있습니다. 그러나 AI 기술의 발전과 산업의 변화에 대한 기회도 탐색할 수 있습니다. 따라서 주식 시장과 부동산 시장의 불안정성에 대한 대응 전략을 수립하고, AI 기술의 도입과 활용을 통해 새로운 기회를 창출할 수 있습니다.",
+  "analyzed_at": "2026-07-20T02:30:34.414Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
