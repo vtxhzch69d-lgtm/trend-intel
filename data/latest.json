@@ -1,75 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피와 코스닥의 급락장에 대한 우려가 커지고 있습니다. 사이드카 발동과 시장의 불안정성이 주요 관심사입니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "신제품 출시",
+      "summary": "새로운 제품이 출시되어 많은 관심을 받고 있습니다. 제품의 특징과 가격에 대한 논의가 활발합니다.",
+      "post_count": 500,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "부동산 가격과 정책에 대한 논의가 활발하게 진행되고 있습니다. 정부의 정책 실패와 시장의 불안정성이 주요 관심사입니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화에 대한 관심이 커지고 있습니다. AI의 잠재적 가능성과 도전에 대한 논의가 진행되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "사회 문제",
+      "summary": "最近 社會問題에 대한 논의가 커뮤니티에서 활발히 진행되고 있습니다. 다양한 의견이 교환되고 있습니다.",
+      "post_count": 300,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "주식 시장의 급락장"
-    },
-    {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "부동산 가격과 정책"
-    },
-    {
-      "keyword": "AI",
-      "count": 12,
+      "keyword": "신제품",
+      "count": 200,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업의 변화"
+      "context": "새로운 제품에 대한 관심이 많습니다."
+    },
+    {
+      "keyword": "사회 문제",
+      "count": 150,
+      "sentiment": "negative",
+      "context": "사회 문제에 대한 우려가 많습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 40,
     "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정과 불안정성이 높은 것으로 나타났습니다."
+    "neutral": 30,
+    "overall_mood": "복합적인 감정들이 공존하는 커뮤니티입니다."
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성에 대한 대응 전략 수립",
-      "action": "주식 투자 전략의 재평가",
+      "insight": "신제품 출시에 대한 관심이 많습니다.",
+      "action": "신제품에 대한 정보를 제공하고 홍보해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 정책 실패에 대한 분석",
-      "action": "부동산 투자 전략의 재평가",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전과 산업의 변화에 대한 기회 탐색",
-      "action": "AI 기술의 도입과 활용",
+      "insight": "사회 문제에 대한 논의가 활발합니다.",
+      "action": "사회 문제에 대한 의견을 수렴하고 해결책을 제시해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드와 감정은 주식 시장과 부동산 시장의 불안정성에 대한 우려가 크게 나타나고 있습니다. 그러나 AI 기술의 발전과 산업의 변화에 대한 기회도 탐색할 수 있습니다. 따라서 주식 시장과 부동산 시장의 불안정성에 대한 대응 전략을 수립하고, AI 기술의 도입과 활용을 통해 새로운 기회를 창출할 수 있습니다.",
-  "analyzed_at": "2026-07-20T02:30:34.414Z",
-  "post_count": 62,
+  "narrative": "最近 커뮤니티에서는 신제품 출시와 사회 문제에 대한 논의가 활발히 진행되고 있습니다. 신제품에 대한 관심이 많으며, 사회 문제에 대한 우려도 많습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다. 신제품에 대한 정보를 제공하고 홍보하며, 사회 문제에 대한 의견을 수렴하고 해결책을 제시하는 것이 필요합니다. 이를 통해 커뮤니티와의 소통을 강화하고, 사업의 성공을 도모할 수 있습니다.",
+  "analyzed_at": "2026-07-20T04:00:34.163Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
