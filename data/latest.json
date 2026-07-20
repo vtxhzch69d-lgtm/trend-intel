@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "대통령과 부동산",
-      "summary": "대통령의 부동산 문제와 관련된 게시글이 많이 올라왔습니다. 대통령의 부동산 거래와 관련된 의혹이 제기되었습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 관련된 기술 뉴스가 많이 올라왔습니다. AI의 발전과 관련된 다양한 주제가 논의되었습니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제와 재정",
-      "summary": "경제와 재정 관련된 게시글이 많이 올라왔습니다. 부동산 규제와 관련된 의견이 분분합니다.",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 이슈",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 이슈",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "대통령",
-      "count": 25,
-      "sentiment": "negative",
-      "context": "대통령의 부동산 문제와 관련된 의혹"
-    },
-    {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "AI의 발전과 관련된 기술 뉴스"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "부동산",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "부동산 규제와 관련된 의견"
+      "keyword": "삼성",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "삼성전자 관련 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 30,
+    "positive": 30,
+    "negative": 15,
     "neutral": 40,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "대통령의 부동산 문제는 여론의 관심을 끌고 있습니다.",
-      "action": "대통령의 부동산 문제와 관련된 의혹을 해소하기 위한 대응책을 마련해야 합니다.",
+      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
+      "action": "AI 기술의 발전을 주시하고 산업의 변화를 준비한다",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술 뉴스는 많은 관심을 끌고 있습니다.",
-      "action": "AI와 관련된 기술 뉴스를 적극적으로 활용하여 사업 기회를 창출해야 합니다.",
+      "insight": "정치 관련 뉴스는 계속해서 주목할 필요가 있다",
+      "action": "정치 관련 뉴스를 계속해서 주시한다",
       "priority": "medium"
     },
     {
-      "insight": "부동산 규제와 관련된 의견은 분분합니다.",
-      "action": "부동산 규제와 관련된 의견을 수렴하여 정책을 개선해야 합니다.",
-      "priority": "medium"
+      "insight": "경제 관련 뉴스는 중립적인 시각으로 바라본다",
+      "action": "경제 관련 뉴스를 중립적인 시각으로 분석한다",
+      "priority": "low"
     }
   ],
-  "narrative": "대통령의 부동산 문제와 관련된 의혹이 제기되었습니다. 대통령의 부동산 거래와 관련된 의혹은 여론의 관심을 끌고 있습니다. 또한, AI와 관련된 기술 뉴스는 많은 관심을 끌고 있습니다. AI의 발전과 관련된 다양한 주제가 논의되었습니다. 부동산 규제와 관련된 의견은 분분합니다. 부동산 규제와 관련된 의견을 수렴하여 정책을 개선해야 합니다. 대통령의 부동산 문제와 관련된 의혹을 해소하기 위한 대응책을 마련해야 합니다. AI와 관련된 기술 뉴스를 적극적으로 활용하여 사업 기회를 창출해야 합니다.",
-  "analyzed_at": "2026-07-20T11:30:34.149Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 정치, 경제 관련 뉴스이다. AI 기술의 발전은 산업의 변화를 가져올 수 있으므로 주시하고 준비해야 한다. 정치 관련 뉴스는 계속해서 주목할 필요가 있다. 경제 관련 뉴스는 중립적인 시각으로 바라보는 것이 중요하다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-07-20T13:00:34.932Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
