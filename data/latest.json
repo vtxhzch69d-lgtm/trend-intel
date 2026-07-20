@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 시장",
-      "summary": "대통령의 부동산 매매와 관련된 논란, 부동산 가격의 안정성에 대한 우려",
-      "post_count": 15,
+      "topic": "대통령 행보",
+      "summary": "대통령의 최근 행보가 불안정하다는 의견이 많다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI의 발전과 그에 따른 산업의 변화, 정부의 AI 정책",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "부동산 시장",
+      "summary": "부동산 시장의 상황이 불안정하다는 의견이 많다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "대통령의 정책과 그에 대한 반응, 정치적 논란",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전이 빠르다는 의견이 많다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 20,
+      "keyword": "대통령",
+      "count": 15,
       "sentiment": "negative",
-      "context": "대통령의 부동산 매매와 관련된 논란"
+      "context": "대통령의 행보에 대한 비판"
+    },
+    {
+      "keyword": "부동산",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "부동산 시장의 상황"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI의 발전과 그에 따른 산업의 변화"
-    },
-    {
-      "keyword": "대통령",
       "count": 12,
-      "sentiment": "mixed",
-      "context": "대통령의 정책과 그에 대한 반응"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정이 많다."
   },
   "business_insights": [
     {
-      "insight": "부동산 시장의 불안정성",
-      "action": "부동산 투자에 대한 재고 필요",
+      "insight": "대통령의 행보가 불안정하면 경제에 부정적인 영향을 미칠 수 있다.",
+      "action": "정부의 정책을 주시하고 대응策을 마련해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "부동산 시장의 상황이 불안정하면 소비자들의 신뢰가 떨어질 수 있다.",
+      "action": "부동산 시장의 상황을 주시하고 안정적인 정책을 마련해야 한다.",
       "priority": "medium"
     },
     {
-      "insight": "정치적 논란",
-      "action": "정치적リスク를 고려한 비즈니스 전략 수립",
-      "priority": "high"
+      "insight": "AI 기술의 발전은 새로운 기회를 창출할 수 있다.",
+      "action": "AI 기술을 활용한 새로운 사업을 개발해야 한다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 부동산 시장의 불안정성과 AI 기술의 발전을 중심으로 형성되고 있습니다. 대통령의 부동산 매매와 관련된 논란이 부동산 가격의 안정성에 대한 우려를 가중시키고 있습니다. 또한, AI 기술의 발전은 산업의 변화를 가져올 것으로 예상되며, 정부의 AI 정책이 이러한 변화에 대응하기 위한 중요한 역할을 할 것입니다. 이러한 트렌드에 대한 분석을 통해, 비즈니스 리더들은 부동산 투자에 대한 재고와 AI 기술을 활용한 새로운 비즈니스 모델 개발, 정치적 리스크를 고려한 비즈니스 전략 수립 등의 액션을 취할 수 있습니다.",
-  "analyzed_at": "2026-07-20T05:30:33.879Z",
+  "narrative": "最近의 대통령의 행보가 불안정하다는 의견이 많다. 부동산 시장의 상황도 불안정하다는 의견이 많다. 그러나 AI 기술의 발전은 새로운 기회를 창출할 수 있다. 정부의 정책을 주시하고 대응策을 마련해야 하며, 부동산 시장의 상황을 주시하고 안정적인 정책을 마련해야 한다. 또한 AI 기술을 활용한 새로운 사업을 개발해야 한다.",
+  "analyzed_at": "2026-07-20T07:01:30.536Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
