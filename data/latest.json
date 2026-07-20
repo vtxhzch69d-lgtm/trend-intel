@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "넷플릭스 드라마",
-      "summary": "클리앙 커뮤니티에서 넷플릭스 드라마에 대한讨論이 활발하게 진행되고 있습니다. 특히 '동궁'과 '어벤져스: 둠스데이'에 대한 감상평과 예고편이 많은 관심을 받고 있습니다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "부동산",
-      "summary": "클리앙 커뮤니티에서 부동산에 대한 논의가 진행되고 있습니다. 특히 올림픽공원 손해액과 부동산 업계의 근저당 문제에 대한 우려가 있습니다.",
-      "post_count": 4,
-      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "클리앙 커뮤니티에서 AI와 기술에 대한 논의가 진행되고 있습니다. 특히 AI의 발전과 그에 따른 사회적影响에 대한 관심이 있습니다.",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 분석",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "넷플릭스",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "넷플릭스 드라마에 대한讨論"
-    },
-    {
-      "keyword": "부동산",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "부동산 업계의 문제점"
-    },
-    {
       "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "AI의 발전과 사회적 영향"
+      "context": "경제 관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 8,
-    "neutral": 12,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 넷플릭스 드라마에 대한 관심이 높습니다.",
-      "action": "넷플릭스 드라마 관련 콘텐츠를 제공합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "클리앙 커뮤니티에서 부동산에 대한 우려가 있습니다.",
-      "action": "부동산 업계의 문제점을 해결하기 위한 대책을 마련합니다.",
+      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
+      "action": "AI 기술의 발전을 주시하고 이를 활용한 비즈니스 기회를 찾는다",
       "priority": "high"
     },
     {
-      "insight": "클리앙 커뮤니티에서 AI와 기술에 대한 관심이 있습니다.",
-      "action": "AI와 기술 관련 콘텐츠를 제공합니다.",
+      "insight": "정치와 경제는 밀접한 관련이 있다",
+      "action": "정치와 경제의 동향을 주시하고 이를 활용한 비즈니스 전략을 수립한다",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 넷플릭스 드라마, 부동산, AI와 기술에 대한 논의가 진행되고 있습니다. 넷플릭스 드라마에 대한 관심은 높지만, 부동산 업계의 문제점에 대한 우려도 있습니다. 또한 AI와 기술에 대한 관심은 중립적입니다. 이러한 트렌드를 반영하여, 넷플릭스 드라마 관련 콘텐츠를 제공하고, 부동산 업계의 문제점을 해결하기 위한 대책을 마련하며, AI와 기술 관련 콘텐츠를 제공하는 것이 좋을 것입니다.",
-  "analyzed_at": "2026-07-20T14:30:34.373Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 정치, 경제 관련 뉴스와 의견이 주를 이루고 있다. AI 기술의 발전은 산업의 변화를 가져올 수 있으므로 이를 주시하고 이를 활용한 비즈니스 기회를 찾는 것이 중요하다. 또한, 정치와 경제는 밀접한 관련이 있으므로 이를 주시하고 이를 활용한 비즈니스 전략을 수립하는 것이 필요하다. 중립적인 의견이 많지만, 긍정적인 의견도 상당수 존재한다. 따라서, 이러한 트렌드를 주시하고 이를 활용한 비즈니스 전략을 수립하는 것이 중요하다.",
+  "analyzed_at": "2026-07-20T16:00:36.068Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
