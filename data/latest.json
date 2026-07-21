@@ -1,103 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "유시민",
-      "summary": "유시민에 대한 다양한 의견과 토론",
-      "post_count": 10,
+      "topic": "주식 시장",
+      "summary": "주식 시장의 변동성과 투자 전략에 대한 관심이 높아지고 있습니다. 특히, 마이크론과 미국 반도체주의 상승에 대한 분석이 많습니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 움직임과 전망",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "high"
-    },
-    {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용",
-      "post_count": 8,
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용에 대한 관심이 높아지고 있습니다. 특히, OpenAI와 Chat GPT에 대한 논의가 많습니다.",
+      "post_count": 7,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
-      "post_count": 12,
-      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 전망",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련된 다양한 주제에 대한 관심이 높아지고 있습니다. 특히, 대통령과 정치인에 대한 논의가 많습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "유시민",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "유시민에 대한 의견과 토론"
-    },
-    {
       "keyword": "주식",
       "count": 10,
       "sentiment": "neutral",
-      "context": "주식 시장의 움직임과 전망"
+      "context": "주식 시장과 투자 전략"
     },
     {
       "keyword": "AI",
       "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술과 산업 적용"
     },
     {
       "keyword": "정치",
-      "count": 18,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스와 의견"
-    },
-    {
-      "keyword": "경제",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 전망"
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치와 사회 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "유시민에 대한 의견과 토론이 많아 정치와 사회적인 이슈에 관심이 집중됨",
-      "action": "유시민과 관련된 콘텐츠를 제공",
+      "insight": "주식 시장의 변동성에 대한 분석",
+      "action": "투자 전략의 조정",
       "priority": "medium"
     },
     {
-      "insight": "주식 시장의 움직임과 전망에 관심이 많아 경제적인 이슈에 관심이 집중됨",
-      "action": "주식 시장과 관련된 콘텐츠를 제공",
+      "insight": "AI 기술의 발전과 산업 적용",
+      "action": "AI 기술의 도입과 활용",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 적용에 관심이 많아 기술적인 이슈에 관심이 집중됨",
-      "action": "AI 기술과 관련된 콘텐츠를 제공",
+      "insight": "정치와 사회 관련된 주제의 분석",
+      "action": "정책과 사회적 책임의 강화",
       "priority": "medium"
-    },
-    {
-      "insight": "정치와 경제적인 이슈에 관심이 많아 뉴스와 전망에 대한 콘텐츠를 제공해야 함",
-      "action": "정치와 경제적인 뉴스와 전망을 제공",
-      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 유시민, 주식 시장, AI 기술, 정치, 경제와 같은 다양한 주제에 대한 의견과 토론이 많아 정치와 사회적인 이슈, 경제적인 이슈, 기술적인 이슈에 관심이 집중됨을 보여줌. 이러한 트렌드를 반영하여 콘텐츠를 제공하고, 정치와 경제적인 뉴스와 전망, 주식 시장과 관련된 콘텐츠, AI 기술과 관련된 콘텐츠를 제공하여 사용자의 관심을 끌 수 있을 것으로 기대됨.",
-  "analyzed_at": "2026-07-21T18:00:34.706Z",
+  "narrative": "현재의 트렌드는 주식 시장, AI 기술, 그리고 정치 및 사회 관련된 주제를 중심으로 형성되고 있습니다. 주식 시장의 변동성과 투자 전략에 대한 관심이 높아지고 있으며, AI 기술의 발전과 다양한 산업에서의 적용에 대한 논의가 많습니다. 또한, 정치와 사회 관련된 주제에 대한 관심이 높아지고 있으며, 대통령과 정치인에 대한 논의가 많습니다. 이러한 트렌드에 대한 분석과 이해는 비즈니스와 마케팅 전략의 수립에 중요한 역할을 할 것입니다.",
+  "analyzed_at": "2026-07-21T19:30:34.236Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
