@@ -1,72 +1,103 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 주목을 받고 있습니다. AI 기술은 의료, 금융, 교육 등 다양한 분야에서 활용되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제 및 주식",
-      "summary": "경제 및 주식 관련 뉴스가 많이 обсужд되고 있습니다. 주식 시장의 동향과 경제 지표가 주목을 받고 있습니다.",
+      "topic": "유시민",
+      "summary": "유시민에 대한 다양한 의견과 토론",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 뉴스가 많이 обсужд되고 있습니다. 정치인들의 발언과 사회 문제가 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 움직임과 전망",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 전망",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+      "keyword": "유시민",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "유시민에 대한 의견과 토론"
     },
     {
       "keyword": "주식",
       "count": 10,
       "sentiment": "neutral",
-      "context": "주식 시장의 동향과 경제 지표"
+      "context": "주식 시장의 움직임과 전망"
+    },
+    {
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 적용"
     },
     {
       "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치인들의 발언과 사회 문제"
+      "count": 18,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "경제",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스와 전망"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
+    "positive": 20,
+    "negative": 30,
     "neutral": 40,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
-      "priority": "high"
-    },
-    {
-      "insight": "주식 시장의 동향을 분석하여 투자 전략을 수립할 수 있습니다.",
-      "action": "주식 시장 분석과 투자 전략 수립",
+      "insight": "유시민에 대한 의견과 토론이 많아 정치와 사회적인 이슈에 관심이 집중됨",
+      "action": "유시민과 관련된 콘텐츠를 제공",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 사회 관련 뉴스를 분석하여 기업의 사회적 책임을 강화할 수 있습니다.",
-      "action": "기업의 사회적 책임 강화",
-      "priority": "low"
+      "insight": "주식 시장의 움직임과 전망에 관심이 많아 경제적인 이슈에 관심이 집중됨",
+      "action": "주식 시장과 관련된 콘텐츠를 제공",
+      "priority": "high"
+    },
+    {
+      "insight": "AI 기술의 발전과 적용에 관심이 많아 기술적인 이슈에 관심이 집중됨",
+      "action": "AI 기술과 관련된 콘텐츠를 제공",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치와 경제적인 이슈에 관심이 많아 뉴스와 전망에 대한 콘텐츠를 제공해야 함",
+      "action": "정치와 경제적인 뉴스와 전망을 제공",
+      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술, 경제 및 주식, 정치 및 사회 관련 뉴스입니다. AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있습니다. 주식 시장의 동향을 분석하여 투자 전략을 수립할 수 있습니다. 정치 및 사회 관련 뉴스를 분석하여 기업의 사회적 책임을 강화할 수 있습니다. 중립적인 분위기에서 기업은 다양한 기회와 도전을 맞이할 수 있습니다.",
-  "analyzed_at": "2026-07-21T16:30:34.134Z",
+  "narrative": "최근의 트렌드는 유시민, 주식 시장, AI 기술, 정치, 경제와 같은 다양한 주제에 대한 의견과 토론이 많아 정치와 사회적인 이슈, 경제적인 이슈, 기술적인 이슈에 관심이 집중됨을 보여줌. 이러한 트렌드를 반영하여 콘텐츠를 제공하고, 정치와 경제적인 뉴스와 전망, 주식 시장과 관련된 콘텐츠, AI 기술과 관련된 콘텐츠를 제공하여 사용자의 관심을 끌 수 있을 것으로 기대됨.",
+  "analyzed_at": "2026-07-21T18:00:34.706Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
