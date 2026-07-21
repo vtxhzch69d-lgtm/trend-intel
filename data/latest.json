@@ -1,98 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "테슬라",
-      "summary": "테슬라 관련 뉴스와 핫도그 박스",
-      "post_count": 2,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "주식",
-      "summary": "주식 시장과 램 가격",
-      "post_count": 3,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 기술과 응용",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치",
-      "summary": "정치 뉴스와 대통령",
-      "post_count": 4,
-      "sentiment": "negative",
-      "urgency": "high"
+      "summary": "유시민에 대한 분석과 토론, 대통령의 말빨 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "신기술과 발명",
-      "post_count": 6,
+      "summary": "AI, 로봇, 전투기 등 기술 관련 주제가 많은 관심을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "주식, 증여, 상속 등 경제 관련 주제가 관심을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "테슬라",
-      "count": 2,
+      "keyword": "유시민",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "유시민에 대한 분석과 토론"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "테슬라 관련 뉴스"
+      "context": "AI 기술의 발전과 ứng dụng"
     },
     {
       "keyword": "주식",
       "count": 3,
-      "sentiment": "mixed",
-      "context": "주식 시장과 램 가격"
-    },
-    {
-      "keyword": "AI",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "AI 기술과 응용"
-    },
-    {
-      "keyword": "대통령",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "정치 뉴스와 대통령"
-    },
-    {
-      "keyword": "기술",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "신기술과 발명"
+      "sentiment": "neutral",
+      "context": "주식 시장과 경제 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 8,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적이고 정보적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "테슬라와 AI 기술의 발전",
-      "action": "투자와 연구",
+      "insight": "기술 분야의 발전이 경제와 정치에 미치는 영향",
+      "action": "기술 분야의 동향을 주시하고, 이를 경제와 정치에 어떻게 적용할 수 있는지 연구하는 것이 필요합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동성",
-      "action": "투자 전략의 조정",
-      "priority": "medium"
-    },
-    {
-      "insight": "신기술의 등장",
-      "action": "연구와 개발",
+      "insight": "유시민에 대한 분석과 토론의 의미",
+      "action": "유시민에 대한 분석과 토론을 통해 정치와 경제에 대한 더 깊은 이해를 얻을 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 테슬라와 AI 기술의 발전, 주식 시장의 변동성, 그리고 신기술의 등장입니다. 이러한 트렌드는 기업과 투자자들에게 새로운 기회와 도전을 제공합니다. 테슬라와 AI 기술의 발전은 새로운 산업과 직업의 창출을 의미합니다. 주식 시장의 변동성은 투자 전략의 조정을 요구합니다. 신기술의 등장은 연구와 개발의 필요성을 강조합니다. 이러한 트렌드를 분석하여 기업과 투자자들은 새로운 기회를 잡고 도전을 극복할 수 있습니다.",
-  "analyzed_at": "2026-07-21T21:00:34.374Z",
+  "narrative": "현재의 트렌드는 정치, 기술, 경제 등 다양한 분야에서 관심을 받고 있습니다. 특히, 기술 분야의 발전이 경제와 정치에 미치는 영향이 크게 관심을 받고 있습니다. 또한, 유시민에 대한 분석과 토론도 많은 관심을 받고 있습니다. 이러한 트렌드를 통해, 기술 분야의 동향을 주시하고, 이를 경제와 정치에 어떻게 적용할 수 있는지 연구하는 것이 필요합니다. 또한, 유시민에 대한 분석과 토론을 통해 정치와 경제에 대한 더 깊은 이해를 얻을 수 있습니다.",
+  "analyzed_at": "2026-07-21T22:31:28.996Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
