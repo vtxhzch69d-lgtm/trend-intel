@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 글들이 많은 것으로 나타났습니다. 특히 이재명 정부와 관련된 글들이 많았습니다.",
+      "summary": "박나래 갑질 의혹, 이재명 대통령에 대한 아쉬운 점, 김민석 후보에 대한 언어 분석 등 정치 관련 주제가热",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 글들이 많이 나타났습니다. 특히 주식과 관련된 글들이 많았습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "기술 관련 글들이 많이 나타났습니다. 특히 AI와 관련된 글들이 많았습니다.",
-      "post_count": 8,
+      "summary": "AI, 로봇, 전투기 등 기술 관련 주제가 인기",
+      "post_count": 10,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 주제가 일부 인기",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
+      "keyword": "박나래",
+      "count": 5,
       "sentiment": "negative",
-      "context": "이재명 정부와 관련된 글들에서 많이 언급되었습니다."
+      "context": "갑질 의혹"
     },
     {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "주식과 관련된 글들에서 많이 언급되었습니다."
+      "keyword": "이재명",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "대통령에 대한 아쉬운 점"
     },
     {
       "keyword": "AI",
-      "count": 6,
+      "count": 5,
       "sentiment": "positive",
-      "context": "기술 관련 글들에서 많이 언급되었습니다."
+      "context": "기술 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 글들이 많은 것으로 나타났습니다.",
-      "action": "정치 관련 글들을 더 많이 게시하여 사용자들의 관심을 끌어야 합니다.",
-      "priority": "high"
-    },
-    {
-      "insight": "경제 관련 글들이 많이 나타났습니다.",
-      "action": "경제 관련 글들을 더 많이 게시하여 사용자들의 관심을 끌어야 합니다.",
+      "insight": "정치 관련 주제가 인기",
+      "action": "정치 관련 콘텐츠 생성",
       "priority": "medium"
     },
     {
-      "insight": "기술 관련 글들이 많이 나타났습니다.",
-      "action": "기술 관련 글들을 더 많이 게시하여 사용자들의 관심을 끌어야 합니다.",
-      "priority": "low"
+      "insight": "기술 관련 주제가 인기",
+      "action": "기술 관련 콘텐츠 생성",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 정치 관련 글들이 많은 것으로 나타났습니다. 특히 이재명 정부와 관련된 글들이 많았습니다. 또한 경제 관련 글들이 많이 나타났습니다. 특히 주식과 관련된 글들이 많았습니다. 기술 관련 글들도 많이 나타났습니다. 특히 AI와 관련된 글들이 많았습니다. 이러한 트렌드를 반영하여 정치, 경제, 기술 관련 글들을 더 많이 게시하여 사용자들의 관심을 끌어야 합니다.",
-  "analyzed_at": "2026-07-21T09:01:34.052Z",
+  "narrative": "현재의 트렌드는 정치와 기술 관련 주제가 인기입니다. 박나래 갑질 의혹, 이재명 대통령에 대한 아쉬운 점, 김민석 후보에 대한 언어 분석 등 정치 관련 주제가熱합니다. 또한, AI, 로봇, 전투기 등 기술 관련 주제가 인기입니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하면 효과적일 것입니다.",
+  "analyzed_at": "2026-07-21T10:31:22.735Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
