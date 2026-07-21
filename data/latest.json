@@ -1,54 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "유시민 특집",
-      "summary": "유시민의 2분 뉴스 특집이 클리앙 커뮤니티에서 인기 있는 주제입니다. 사용자들은 유시민의 발언과 정치적인 견해에 대해 논의하고 있습니다.",
-      "post_count": 10,
+      "topic": "유시민",
+      "summary": "유시민에 대한 다양한 의견과 반응",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "부동산 정책",
-      "summary": "클리앙 커뮤니티에서 부동산 정책에 대한 논의가 활발하게 진행되고 있습니다. 사용자들은 정부의 정책에 대해 비판적입니다.",
+      "topic": "부동산",
+      "summary": "부동산 가격과 관련된 논의",
+      "post_count": 4,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 뉴스 및 의견",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술과 관련된 뉴스",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "유시민",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "유시민의 2분 뉴스 특집과 정치적인 견해에 대한 논의"
+      "count": 7,
+      "sentiment": "negative",
+      "context": "유시민에 대한 비판"
     },
     {
       "keyword": "부동산",
-      "count": 8,
+      "count": 5,
       "sentiment": "negative",
-      "context": "정부의 부동산 정책에 대한 비판"
+      "context": "부동산 가격과 관련된 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 6,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "기술",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "사용자들은 부동산 정책과 정치적인 견해에 대해 비판적입니다."
+    "positive": 15,
+    "negative": 25,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 부동산 정책에 대한 논의가 활발하게 진행되고 있습니다.",
-      "action": "부동산 정책에 대한 마케팅 전략을 수립해야 합니다.",
+      "insight": "부동산 가격과 관련된 논의가 많아, 관련 산업에 영향을 줄 수 있음",
+      "action": "부동산 산업에 대한 분석 및 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "유시민의 2분 뉴스 특집이 클리앙 커뮤니티에서 인기 있는 주제입니다.",
-      "action": "유시민의 발언과 정치적인 견해에 대한 마케팅 전략을 수립해야 합니다.",
+      "insight": "AI 기술과 관련된 뉴스가 많아, 관련 산업에 기회가 있을 수 있음",
+      "action": "AI 기술에 대한 연구 및 투자",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 뉴스와 의견이 많아, 정치적 안정성에 영향을 줄 수 있음",
+      "action": "정치적 안정성에 대한 분석 및 대응",
+      "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 부동산 정책과 유시민의 2분 뉴스 특집이 인기 있는 주제입니다. 사용자들은 부동산 정책에 대해 비판적이며, 유시민의 발언과 정치적인 견해에 대해 논의하고 있습니다. 마케터는 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 부동산 정책에 대한 마케팅 전략을 수립하여 사용자의 관심을 끌어야 하며, 유시민의 발언과 정치적인 견해에 대한 마케팅 전략을 수립하여 사용자의 관심을 유지해야 합니다.",
-  "analyzed_at": "2026-07-21T13:30:34.357Z",
+  "narrative": "최근 클리앙 커뮤니티에서 부동산 가격과 관련된 논의가 많아, 관련 산업에 영향을 줄 수 있음. 또한 AI 기술과 관련된 뉴스가 많아, 관련 산업에 기회가 있을 수 있음. 그러나 정치 관련 뉴스와 의견이 많아, 정치적 안정성에 영향을 줄 수 있음. 따라서 관련 산업에 대한 분석 및 전략 수립, AI 기술에 대한 연구 및 투자, 정치적 안정성에 대한 분석 및 대응이 필요함.",
+  "analyzed_at": "2026-07-21T15:01:30.620Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
