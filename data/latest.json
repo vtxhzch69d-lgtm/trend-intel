@@ -1,70 +1,62 @@
 {
   "trending_topics": [
     {
-      "topic": "오세훈 판결",
-      "summary": "오세훈 판결에 대한 논의와 반응",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다.",
+      "post_count": 100,
+      "sentiment": "positive",
+      "urgency": "medium"
     },
     {
-      "topic": "이대통령 해외방문",
-      "summary": "이대통령의 해외방문에 대한 논의",
-      "post_count": 2,
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 최신 기술이나 제품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 새로운 기술이나 제품에 대한 정보를 얻을 수 있습니다.",
+      "post_count": 50,
       "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "오세훈",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "오세훈 판결에 대한 논의"
+      "keyword": "무료",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "무료 상품에 대한 정보"
     },
     {
-      "keyword": "이대통령",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "이대통령의 해외방문에 대한 논의"
+      "keyword": "할인",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "할인된 상품에 대한 정보"
     },
     {
-      "keyword": "경제",
-      "count": 5,
+      "keyword": "최신 기술",
+      "count": 10,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련 뉴스와 논의"
+      "context": "최신 기술에 대한 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
+    "positive": 60,
+    "negative": 10,
     "neutral": 30,
-    "overall_mood": "중립적이고 부정적인 감정의 혼재"
+    "overall_mood": "대체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "오세훈 판결에 대한 논의가 높아짐",
-      "action": "관련 뉴스와 논의를 주시하고 대응策을 마련함",
+      "insight": "무료나 할인된 상품에 대한 정보를 제공하면 사용자들의 관심을 끌 수 있습니다.",
+      "action": "무료나 할인된 상품에 대한 정보를 제공하는 마케팅 캠페인을 실행합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스가 증가함",
-      "action": "관련 뉴스와 논의를 주시하고 시장 동향을 분석함",
+      "insight": "최신 기술이나 제품에 대한 정보를 제공하면 사용자들의 관심을 끌 수 있습니다.",
+      "action": "최신 기술이나 제품에 대한 정보를 제공하는 마케팅 캠페인을 실행합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 오세훈 판결에 대한 논의와 반응이 높아졌습니다. 또한, 이대통령의 해외방문과 경제 및 금융 관련 뉴스도 증가했습니다. 이러한 논의와 뉴스는 중립적이고 부정적인 감정의 혼재를 보이고 있습니다. 따라서, 관련 뉴스와 논의를 주시하고 대응策을 마련하는 것이 중요합니다. 또한, 시장 동향을 분석하고 경제 및 금융 관련 뉴스를 주시하는 것도 필요합니다.",
-  "analyzed_at": "2026-07-22T10:30:34.141Z",
-  "post_count": 62,
+  "narrative": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다. 또한, 최신 기술이나 제품에 대한 정보도 사용자들의 관심을 끌 수 있습니다. 따라서, 무료나 할인된 상품에 대한 정보를 제공하는 마케팅 캠페인을 실행하고, 최신 기술이나 제품에 대한 정보를 제공하는 마케팅 캠페인을 실행하면 사용자들의 관심을 끌 수 있습니다. 대체적으로 긍정적인 분위기이므로, 마케팅 캠페인을 통해 사용자들의 관심을 끌 수 있을 것입니다.",
+  "analyzed_at": "2026-07-22T12:00:35.299Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
