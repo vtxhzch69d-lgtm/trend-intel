@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "유시민에 대한 분석과 토론, 대통령의 말빨 등 정치 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI, 로봇, 전투기 등 기술 관련 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 15,
+      "topic": "SK하이닉스",
+      "summary": "SK하이닉스의 승부수와 인텔의 오하이오 공장 산다는 소식이 전해짐",
+      "post_count": 3,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "주식, 증여, 상속 등 경제 관련 주제가 관심을 받고 있습니다.",
-      "post_count": 8,
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 논의됨",
+      "post_count": 5,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견이 다양하게 논의됨",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "유시민",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "유시민에 대한 분석과 토론"
+      "keyword": "SK하이닉스",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "인텔의 오하이오 공장 산다는 소식"
     },
     {
       "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "다양한 산업에서의 적용"
     },
     {
-      "keyword": "주식",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "주식 시장과 경제 관련 주제"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "다양한 정치 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적이고 정보적인 분위기"
+    "positive": 5,
+    "negative": 3,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 분야의 발전이 경제와 정치에 미치는 영향",
-      "action": "기술 분야의 동향을 주시하고, 이를 경제와 정치에 어떻게 적용할 수 있는지 연구하는 것이 필요합니다.",
+      "insight": "SK하이닉스의 승부수",
+      "action": "주식 투자",
       "priority": "high"
     },
     {
-      "insight": "유시민에 대한 분석과 토론의 의미",
-      "action": "유시민에 대한 분석과 토론을 통해 정치와 경제에 대한 더 깊은 이해를 얻을 수 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술 연구 및 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 관련 뉴스",
+      "action": "정책 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, 기술, 경제 등 다양한 분야에서 관심을 받고 있습니다. 특히, 기술 분야의 발전이 경제와 정치에 미치는 영향이 크게 관심을 받고 있습니다. 또한, 유시민에 대한 분석과 토론도 많은 관심을 받고 있습니다. 이러한 트렌드를 통해, 기술 분야의 동향을 주시하고, 이를 경제와 정치에 어떻게 적용할 수 있는지 연구하는 것이 필요합니다. 또한, 유시민에 대한 분석과 토론을 통해 정치와 경제에 대한 더 깊은 이해를 얻을 수 있습니다.",
-  "analyzed_at": "2026-07-21T22:31:28.996Z",
+  "narrative": "최근의 트렌드에는 SK하이닉스의 승부수와 인텔의 오하이오 공장 산다는 소식이 전해짐. 또한, AI 기술의 발전과 다양한 산업에서의 적용이 논의됨. 정치 관련 뉴스와 의견도 다양하게 논의됨. 이러한 트렌드는 중립적인 분위기를 보임. SK하이닉스의 승부수와 AI 기술의 발전은 높은 우선순위를 가지고, 정치 관련 뉴스는 낮은 우선순위를 가짐.",
+  "analyzed_at": "2026-07-22T00:00:34.053Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
