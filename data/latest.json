@@ -1,60 +1,79 @@
 {
   "trending_topics": [
     {
-      "topic": "대통령 근저당 논란",
-      "summary": "대통령의 17억 근저당에 대한 논란이 클리앙 커뮤니티에서 뜨거운 감자로 떠올랐다. 일부 유저들은 대통령의 행동을 비판하며 법적 조치가 필요하다고 주장했다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "오세훈 재판",
+      "summary": "오세훈의 재판 관련 뉴스와 논란이 클리앙 커뮤니티에서 많이 논의되고 있습니다. 오세훈의 유무죄 여부와 관련된 다양한 의견이 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장 분석",
-      "summary": "클리앙 커뮤니티에서는 주식 시장에 대한 분석과 전망이 활발하게 이루어지고 있다. 일부 유저들은 레버리지와 저점매수에 대한 의견을 나누었다.",
-      "post_count": 5,
+      "topic": "정청래",
+      "summary": "정청래와 관련된 뉴스와 논란이 클리앙 커뮤니티에서 논의되고 있습니다. 정청래의 정치 활동과 관련된 다양한 의견이 있습니다.",
+      "post_count": 3,
       "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 산업",
+      "summary": "최신 기술과 산업 관련 뉴스와 논란이 클리앙 커뮤니티에서 논의되고 있습니다. AI, 로봇, OLED 등 다양한 기술과 산업 관련된 다양한 의견이 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "대통령",
+      "keyword": "오세훈",
       "count": 15,
-      "sentiment": "negative",
-      "context": "대통령의 17억 근저당 논란"
+      "sentiment": "mixed",
+      "context": "오세훈의 재판과 정치 활동 관련 뉴스와 논란"
     },
     {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "주식 시장 분석과 전망"
-    },
-    {
-      "keyword": "레버리지",
+      "keyword": "정청래",
       "count": 3,
       "sentiment": "neutral",
-      "context": "레버리지와 저점매수에 대한 의견"
+      "context": "정청래의 정치 활동과 관련된 뉴스와 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술과 산업 관련 뉴스와 논란"
+    },
+    {
+      "keyword": "로봇",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "최신 기술과 산업 관련 뉴스와 논란"
+    },
+    {
+      "keyword": "OLED",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "최신 기술과 산업 관련 뉴스와 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적이고 다양한 의견이 있습니다."
   },
   "business_insights": [
     {
-      "insight": "대통령의 17억 근저당 논란은 정치적 이슈로 이어질 가능성이 있다.",
-      "action": "정치적 이슈에 대한 모니터링과 대응 전략 수립",
+      "insight": "최신 기술과 산업 관련 뉴스와 논란이 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "최신 기술과 산업 관련 뉴스와 논란을 주시하고, 관련된 마케팅 전략을 수립하세요.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장에 대한 분석과 전망은 투자자들의 관심을 끌고 있다.",
-      "action": "주식 시장 분석과 전망에 대한 콘텐츠 제공",
+      "insight": "오세훈의 재판과 정치 활동 관련 뉴스와 논란이 클리언 커뮤니티에서 많이 논의되고 있습니다.",
+      "action": "오세훈의 재판과 정치 활동 관련 뉴스와 논란을 주시하고, 관련된 마케팅 전략을 수립하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 대통령의 17억 근저당 논란과 주식 시장 분석이 뜨거운 감자로 떠올랐다. 대통령의 행동을 비판하는 유저들이 많으며, 일부 유저들은 레버리지와 저점매수에 대한 의견을 나누었다. 이러한 트렌드는 정치적 이슈와 주식 시장에 대한 관심을 높이는 데 기여할 수 있다. 따라서 정치적 이슈에 대한 모니터링과 대응 전략 수립, 주식 시장 분석과 전망에 대한 콘텐츠 제공이 필요하다.",
-  "analyzed_at": "2026-07-22T04:30:34.125Z",
+  "narrative": "클리앙 커뮤니티에서 최신 기술과 산업 관련 뉴스와 논란이 많이 논의되고 있습니다. 오세훈의 재판과 정치 활동 관련 뉴스와 논란도 많이 논의되고 있습니다. 이러한 트렌드를 주시하고, 관련된 마케팅 전략을 수립하여 사업에 활용할 수 있습니다. 또한, 클리앙 커뮤니티의 중립적이고 다양한 의견을 고려하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-22T06:01:28.082Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
