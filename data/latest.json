@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "갤럭시 폴드8",
-      "summary": "갤럭시 폴드8의 출시와 관련된 게시글이 많습니다. 사용자들은 폴드8의 디자인과 성능에 대해 논의하고 있습니다.",
+      "summary": "삼성전자 갤럭시 폴드8이 출시되었습니다. 사용자들은 제품의 디자인과 성능을 높이 평가하고 있습니다.",
       "post_count": 5,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
       "topic": "신천지",
-      "summary": "신천지와 관련된 게시글이 많습니다. 사용자들은 신천지의 활동과 관련된 논란에 대해 논의하고 있습니다.",
-      "post_count": 4,
+      "summary": "신천지 관련된 여러 가지 논란이 있습니다. 사용자들은 신천지의 활동과 정치권과의 연관성을 의심하고 있습니다.",
+      "post_count": 7,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정청래",
-      "summary": "정청래와 관련된 게시글이 많습니다. 사용자들은 정청래의 발언과 관련된 논란에 대해 논의하고 있습니다.",
-      "post_count": 3,
+      "topic": "AI",
+      "summary": "AI 기술이 빠르게 발전하고 있습니다. 사용자들은 AI의 잠재적 위험과 기회에 대해 논의하고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     }
@@ -27,41 +27,46 @@
       "keyword": "갤럭시 폴드8",
       "count": 10,
       "sentiment": "positive",
-      "context": "갤럭시 폴드8의 출시와 관련된 게시글"
+      "context": "새로운 스마트폰 모델"
     },
     {
       "keyword": "신천지",
-      "count": 8,
+      "count": 12,
       "sentiment": "negative",
-      "context": "신천지와 관련된 논란"
+      "context": "종교 단체와 관련된 논란"
     },
     {
-      "keyword": "정청래",
-      "count": 6,
-      "sentiment": "mixed",
-      "context": "정청래의 발언과 관련된 논란"
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "인공지능 기술"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 부정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "갤럭시 폴드8의 출시가 성공적일 수 있을 것",
-      "action": "갤럭시 폴드8의 마케팅과 홍보에 집중",
+      "insight": "갤럭시 폴드8의 출시로 삼성전자의 시장 점유율이 증가할 수 있습니다.",
+      "action": "삼성전자 주식 투자",
       "priority": "high"
     },
     {
-      "insight": "신천지와 관련된 논란이 계속될 수 있을 것",
-      "action": "신천지와 관련된 논란에 대한 대응을 준비",
+      "insight": "신천지 관련된 논란이 계속되면 정치권과 종교 단체에 대한 신뢰도가 떨어질 수 있습니다.",
+      "action": "정책 및 법적 대응",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술 연구 및 개발",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 갤럭시 폴드8의 출시와 신천지와 관련된 논란이 주목을 받고 있습니다. 사용자들은 갤럭시 폴드8의 디자인과 성능에 대해 논의하고 있으며, 신천지와 관련된 논란에 대해 논의하고 있습니다. 또한, 정청래의 발언과 관련된 논란도 주목을 받고 있습니다. 이러한 트렌드를 고려하여, 마케터는 갤럭시 폴드8의 마케팅과 홍보에 집중하고, 신천지와 관련된 논란에 대한 대응을 준비해야 할 것입니다.",
-  "analyzed_at": "2026-07-22T16:30:34.369Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 갤럭시 폴드8, 신천지, AI 기술 등이 주를 이루고 있습니다. 사용자들은 새로운 스마트폰 모델의 출시와 신천지 관련된 논란에 대해 관심을 보이고 있습니다. 또한 AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다. 이러한 트렌드를 분석하여 사업적 인사이트를 얻을 수 있습니다.",
+  "analyzed_at": "2026-07-22T18:00:34.655Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
