@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "갤럭시 폴드8",
-      "summary": "삼성전자 갤럭시 폴드8이 출시되었습니다. 사용자들은 제품의 디자인과 성능을 높이 평가하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "신천지",
-      "summary": "신천지 관련된 여러 가지 논란이 있습니다. 사용자들은 신천지의 활동과 정치권과의 연관성을 의심하고 있습니다.",
-      "post_count": 7,
+      "topic": "정치",
+      "summary": "김민석 후보의 불법 정치 자금 수수 대법 확정 처벌 판결과 민주당 전대 신천지 개입설 등 정치 관련 주제가热",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술이 빠르게 발전하고 있습니다. 사용자들은 AI의 잠재적 위험과 기회에 대해 논의하고 있습니다.",
+      "topic": "갤럭시 폴드8",
+      "summary": "삼성전자 갤럭시 폴드8의 출시와 관련된 주제가 인기",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 관련된 기술 뉴스와 제품 출시가 인기",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시 폴드8",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "새로운 스마트폰 모델"
+      "keyword": "김민석",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "불법 정치 자금 수수 대법 확정 처벌 판결"
     },
     {
-      "keyword": "신천지",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "종교 단체와 관련된 논란"
+      "keyword": "갤럭시 폴드8",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼성전자 갤럭시 폴드8의 출시"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "인공지능 기술"
+      "context": "AI와 관련된 기술 뉴스와 제품 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "갤럭시 폴드8의 출시로 삼성전자의 시장 점유율이 증가할 수 있습니다.",
-      "action": "삼성전자 주식 투자",
+      "insight": "정치 관련 주제가热",
+      "action": "정치 관련 주제에 대한 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "신천지 관련된 논란이 계속되면 정치권과 종교 단체에 대한 신뢰도가 떨어질 수 있습니다.",
-      "action": "정책 및 법적 대응",
+      "insight": "갤럭시 폴드8의 출시가 인기",
+      "action": "갤럭시 폴드8 관련 제품이나 서비스 개발",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술 연구 및 개발",
-      "priority": "high"
+      "insight": "AI와 관련된 기술 뉴스와 제품 출시가 인기",
+      "action": "AI와 관련된 기술 개발이나 서비스 제공",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 갤럭시 폴드8, 신천지, AI 기술 등이 주를 이루고 있습니다. 사용자들은 새로운 스마트폰 모델의 출시와 신천지 관련된 논란에 대해 관심을 보이고 있습니다. 또한 AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다. 이러한 트렌드를 분석하여 사업적 인사이트를 얻을 수 있습니다.",
-  "analyzed_at": "2026-07-22T18:00:34.655Z",
+  "narrative": "최근 정치 관련 주제가熱であり、김민석 후보의 불법 정치 자금 수수 대법 확정 처벌 판결과 민주당 전대 신천지 개입설 등이 주목을 받고 있다. 또한, 삼성전자 갤럭시 폴드8의 출시와 관련된 주제가 인기であり、삼성전자 갤럭시 폴드8의 출시가 많은 사람들의 관심을 끌고 있다. 또한, AI와 관련된 기술 뉴스와 제품 출시가 인기であり、AI와 관련된 기술 개발이나 서비스 제공이 필요하다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하고、제품이나 서비스 개발에 활용할 수 있다.",
+  "analyzed_at": "2026-07-22T19:30:34.189Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
