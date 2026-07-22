@@ -1,80 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "오세훈 재판",
-      "summary": "오세훈의 재판 관련 뉴스와 논란이 클리앙 커뮤니티에서 많이 논의되고 있습니다. 오세훈의 유무죄 여부와 관련된 다양한 의견이 있습니다.",
+      "topic": "서울시장 보궐선거",
+      "summary": "서울시장 보궐선거 관련글이 많은 것으로 나타났습니다. 오세훈의 재판과 관련된 글도 많이 등장했습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정청래",
-      "summary": "정청래와 관련된 뉴스와 논란이 클리앙 커뮤니티에서 논의되고 있습니다. 정청래의 정치 활동과 관련된 다양한 의견이 있습니다.",
-      "post_count": 3,
-      "sentiment": "neutral",
+      "topic": "김민석의 예언",
+      "summary": "김민석의 예언이 적중했다는 글들이 많이 등장했습니다. 그의 예언이 실제로 이루어졌는지에 대한 관심이 많았습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술과 산업 관련 뉴스와 논란이 클리앙 커뮤니티에서 논의되고 있습니다. AI, 로봇, OLED 등 다양한 기술과 산업 관련된 다양한 의견이 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련글이 많이 등장했습니다. 챗GPT의 보안사고와 새로운 기술 개발 등 다양한 주제가 다루어졌습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "오세훈",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "오세훈의 재판과 정치 활동 관련 뉴스와 논란"
+      "count": 10,
+      "sentiment": "negative",
+      "context": "서울시장 보궐선거와 관련된 글에서 많이 등장했습니다."
     },
     {
-      "keyword": "정청래",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "정청래의 정치 활동과 관련된 뉴스와 논란"
+      "keyword": "김민석",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "김민석의 예언이 적중했다는 글에서 많이 등장했습니다."
     },
     {
       "keyword": "AI",
       "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술과 산업 관련 뉴스와 논란"
-    },
-    {
-      "keyword": "로봇",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "최신 기술과 산업 관련 뉴스와 논란"
-    },
-    {
-      "keyword": "OLED",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "최신 기술과 산업 관련 뉴스와 논란"
+      "sentiment": "neutral",
+      "context": "新的 기술 개발과 보안사고 등 다양한 주제에서 많이 등장했습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적이고 다양한 의견이 있습니다."
+    "positive": 10,
+    "negative": 15,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기이지만, 일부 글에서는 부정적인 감정도 많이 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술과 산업 관련 뉴스와 논란이 클리앙 커뮤니티에서 많이 논의되고 있습니다.",
-      "action": "최신 기술과 산업 관련 뉴스와 논란을 주시하고, 관련된 마케팅 전략을 수립하세요.",
+      "insight": "서울시장 보궐선거는 중요한 정치적 사건입니다.",
+      "action": "관련된 뉴스와 정보를 제공하여 이용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "오세훈의 재판과 정치 활동 관련 뉴스와 논란이 클리언 커뮤니티에서 많이 논의되고 있습니다.",
-      "action": "오세훈의 재판과 정치 활동 관련 뉴스와 논란을 주시하고, 관련된 마케팅 전략을 수립하세요.",
+      "insight": "김민석의 예언은 많은 이용자들의 관심을 끌었습니다.",
+      "action": "관련된 글을 제공하여 이용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "AI와 기술은 많은 이용자들의 관심을 끌었습니다.",
+      "action": "관련된 뉴스와 정보를 제공하여 이용자들의 관심을 끌 수 있습니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 최신 기술과 산업 관련 뉴스와 논란이 많이 논의되고 있습니다. 오세훈의 재판과 정치 활동 관련 뉴스와 논란도 많이 논의되고 있습니다. 이러한 트렌드를 주시하고, 관련된 마케팅 전략을 수립하여 사업에 활용할 수 있습니다. 또한, 클리앙 커뮤니티의 중립적이고 다양한 의견을 고려하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-07-22T06:01:28.082Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 서울시장 보궐선거와 관련된 글들이 많은 것으로 나타났습니다. 오세훈의 재판과 관련된 글도 많이 등장했습니다. 또한, 김민석의 예언이 적중했다는 글들이 많이 등장했습니다. 그의 예언이 실제로 이루어졌는지에 대한 관심이 많았습니다. AI와 기술 관련글도 많이 등장했습니다. 챗GPT의 보안사고와 새로운 기술 개발 등 다양한 주제가 다루어졌습니다. 이러한 트렌드를 통해 이용자들의 관심과需求을 파악할 수 있습니다. 관련된 뉴스와 정보를 제공하여 이용자들의 관심을 끌 수 있습니다. 또한, 이용자들의 감정과需求을 고려하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-22T07:30:34.414Z",
+  "post_count": 59,
   "sources": [
     "ppomppu",
     "clien"
