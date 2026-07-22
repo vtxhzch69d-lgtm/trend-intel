@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "갤럭시 폴드8",
-      "summary": "새로운 갤럭시 폴드8이 출시되었습니다. 사용자들은 디자인과 성능에 대해 호평을 하고 있습니다.",
+      "topic": "갤럭시 Z 폴드8",
+      "summary": "새로운 폴드8 시리즈의 출시와 그립감, 펜 지원 여부에 대한 논의",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "신천지",
-      "summary": "신천지와 관련된 여러 가지 논란이 있습니다. 사용자들은 신천지의 활동에 대해 우려를 표하고 있습니다.",
+      "topic": "김민석",
+      "summary": "김민석의 정치 자금 수수와 신천지 관련 논란",
       "post_count": 4,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 기술이 발전하고 있습니다. 사용자들은 AI 기술의 가능성에 대해 관심을 가지고 있습니다.",
-      "post_count": 3,
+      "summary": "최신 AI 기술 개발과 그 응용에 대한 논의",
+      "post_count": 7,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시 폴드8",
+      "keyword": "갤럭시 Z 폴드8",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "새로운 폴드8 시리즈의 출시"
+    },
+    {
+      "keyword": "김민석",
+      "count": 6,
+      "sentiment": "negative",
+      "context": "김민석의 정치 자금 수수와 신천지 관련 논란"
+    },
+    {
+      "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "새로운 갤럭시 폴드8의 출시"
-    },
-    {
-      "keyword": "신천지",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "신천지와 관련된 논란"
-    },
-    {
-      "keyword": "AI 기술",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "최신 AI 기술 개발과 그 응용"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 15,
+    "negative": 12,
+    "neutral": 20,
+    "overall_mood": "중립적이며 정보를 공유하고 논의하는 분위기"
   },
   "business_insights": [
     {
-      "insight": "갤럭시 폴드8의 출시로 삼성전자에 대한 관심이 증가할 수 있습니다.",
-      "action": "삼성전자에 대한 마케팅을 강화할 필요가 있습니다.",
+      "insight": "최신 기술 개발에 대한 관심이 높아지고 있다",
+      "action": "최신 기술 개발에 대한 정보를 제공하고 고객의 관심을 끌기 위한 마케팅 전략을 수립해야 한다",
       "priority": "high"
     },
     {
-      "insight": "신천지와 관련된 논란이 계속되면 사회적으로 큰 문제가 될 수 있습니다.",
-      "action": "신천지와 관련된 문제를 해결하기 위한 대책을 마련할 필요가 있습니다.",
-      "priority": "high"
-    },
-    {
-      "insight": "AI 기술의 발전으로 새로운 비즈니스 기회가 생길 수 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발할 필요가 있습니다.",
+      "insight": "정치와 사회 문제에 대한 논의가 활발하다",
+      "action": "정치와 사회 문제에 대한 정보를 제공하고 고객의 관심을 끌기 위한 마케팅 전략을 수립해야 한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 갤럭시 폴드8의 출시와 신천지와 관련된 논란이 사회적으로 큰 관심을 끌고 있습니다. 또한 AI 기술의 발전으로 새로운 비즈니스 기회가 생길 수 있습니다. 이러한 상황을 고려하여 마케팅 전략을 수립할 필요가 있습니다. 특히 삼성전자에 대한 마케팅을 강화하고 신천지와 관련된 문제를 해결하기 위한 대책을 마련할 필요가 있습니다. 또한 AI 기술을 활용한 새로운 비즈니스 모델을 개발할 필요가 있습니다.",
-  "analyzed_at": "2026-07-22T21:01:30.943Z",
+  "narrative": "최근의 트렌드는 최신 기술 개발과 정치, 사회 문제에 대한 논의가 활발한 것을 보여준다. 특히 갤럭시 Z 폴드8와 김민석의 정치 자금 수수와 신천지 관련 논란이 많은 관심을 끌고 있다. 또한 AI 기술 개발에 대한 관심이 높아지고 있으며, 최신 기술 개발에 대한 정보를 제공하고 고객의 관심을 끌기 위한 마케팅 전략을 수립해야 한다. 또한 정치와 사회 문제에 대한 정보를 제공하고 고객의 관심을 끌기 위한 마케팅 전략을 수립해야 한다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하면 고객의 관심을 끌고 사업을 성장시킬 수 있을 것이다.",
+  "analyzed_at": "2026-07-22T22:30:34.986Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
