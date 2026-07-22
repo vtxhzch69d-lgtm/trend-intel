@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산",
-      "summary": "부동산 가격 상승세와 관련된 게시글이 많습니다. 일부 사용자는 부동산 가격이 상승세로 돌아선 것에 대해 우려를 나타내고 있습니다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 게시글이 많습니다. 일부 사용자는 정치 현안에 대해 우려를 나타내고 있습니다.",
+      "topic": "보완수사권 폐지",
+      "summary": "보완수사권 폐지에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다. 일부 사용자는 폐지를 주장하는 반면, 다른 사용자는 폐지에 대한 우려를 나타내고 있다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "테크 관련 게시글이 많습니다. 일부 사용자는 새로운 기술에 대해 관심을 나타내고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "김민석",
+      "summary": "김민석에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다. 일부 사용자는 김민석의 발언에 대한 비판을 나타내고 있다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부동산",
+      "summary": "부동산 관련된 논의가 클리앙 커뮤니티에서 진행되고 있다. 일부 사용자는 부동산 정책에 대한 우려를 나타내고 있다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
+      "keyword": "보완수사권",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "보완수사권 폐지에 대한 논의"
+    },
+    {
+      "keyword": "김민석",
       "count": 10,
       "sentiment": "negative",
-      "context": "부동산 가격 상승세와 관련된 게시글"
+      "context": "김민석의 발언에 대한 비판"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 게시글"
-    },
-    {
-      "keyword": "테크",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "테크 관련 게시글"
+      "keyword": "부동산",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "부동산 정책에 대한 우려"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 가격 상승세와 관련된 게시글이 많습니다.",
-      "action": "부동산 가격에 대한 우려를 고려하여 마케팅 전략을 수립합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 게시글이 많습니다.",
-      "action": "정치 현안에 대한 우려를 고려하여 마케팅 전략을 수립합니다.",
+      "insight": "보완수사권 폐지에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다.",
+      "action": "관련 정책에 대한 우려를 고려하여 대응할 필요가 있다.",
       "priority": "high"
     },
     {
-      "insight": "테크 관련 게시글이 많습니다.",
-      "action": "新的 기술에 대한 관심을 고려하여 마케팅 전략을 수립합니다.",
-      "priority": "low"
+      "insight": "김민석에 대한 논의가 클리언 커뮤니티에서 진행되고 있다.",
+      "action": "김민석의 발언에 대한 비판을 고려하여 대응할 필요가 있다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 부동산 가격 상승세와 관련된 게시글이 많습니다. 일부 사용자는 부동산 가격이 상승세로 돌아선 것에 대해 우려를 나타내고 있습니다. 또한, 정치 관련 게시글이 많습니다. 일부 사용자는 정치 현안에 대해 우려를 나타내고 있습니다. 테크 관련 게시글도 많습니다. 일부 사용자는 새로운 기술에 대해 관심을 나타내고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-07-22T01:30:34.240Z",
+  "narrative": "클리앙 커뮤니티에서 보완수사권 폐지, 김민석, 부동산 등 다양한 주제에 대한 논의가 진행되고 있다. 보완수사권 폐지에 대한 논의는 클리앙 커뮤니티에서 활발히 진행되고 있으며, 일부 사용자는 폐지를 주장하는 반면, 다른 사용자는 폐지에 대한 우려를 나타내고 있다. 김민석에 대한 논의도 클리앙 커뮤니티에서 진행되고 있으며, 일부 사용자는 김민석의 발언에 대한 비판을 나타내고 있다. 이러한 논의는 클리앙 커뮤니티에서 다양한 주제에 대한 관심을 나타내고 있으며, 관련 정책에 대한 우려를 고려하여 대응할 필요가 있다.",
+  "analyzed_at": "2026-07-22T03:01:24.777Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
