@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "부동산",
-      "summary": "부동산 가격 상승과 정책에 대한 논의",
+      "summary": "부동산 가격 안정화와 관련된 다양한 의견이 나타나고 있습니다. 일부 사용자는 정부의 정책이 부동산 가격을 안정화하는 데 도움이 되지 않는다고 생각합니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발과 적용에 대한 논의",
+      "summary": "최신 AI 기술과 관련된 다양한 뉴스가 나타나고 있습니다. 일부 사용자는 AI 기술의 발전이 인류에게 긍정적인 영향을 미칠 것이라고 생각합니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 논의",
+      "summary": "정치와 관련된 다양한 의견이 나타나고 있습니다. 일부 사용자는 최근의 정치 상황에 대해 비판적입니다.",
       "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "부동산",
       "count": 20,
       "sentiment": "negative",
-      "context": "부동산 가격 상승과 정책에 대한 논의"
+      "context": "부동산 가격 안정화와 관련된 의견"
     },
     {
       "keyword": "AI",
       "count": 25,
       "sentiment": "positive",
-      "context": "최신 AI 기술 개발과 적용에 대한 논의"
+      "context": "최신 AI 기술과 관련된 뉴스"
     },
     {
       "keyword": "정치",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 논의"
+      "sentiment": "negative",
+      "context": "정치와 관련된 의견"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 25,
-    "neutral": 20,
-    "overall_mood": "부정적"
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정이 강조됨"
   },
   "business_insights": [
     {
-      "insight": "부동산 가격 상승에 대한 우려",
-      "action": "부동산 정책에 대한 관심 증가",
+      "insight": "부동산 가격 안정화에 대한 정부의 정책이 효과적이지 않다는 의견이 있습니다.",
+      "action": "정부의 정책을 재검토하여 부동산 가격 안정화를 도모할 필요가 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술에 대한 투자 증가",
-      "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 논의의 증가",
-      "action": "정치 관련 뉴스와 논의에 대한 관심 증가",
+      "insight": "AI 기술의 발전이 인류에게 긍정적인 영향을 미칠 것이라는 의견이 있습니다.",
+      "action": "AI 기술의 발전을 지원하고 투자할 필요가 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 부동산 가격 상승과 정책에 대한 논의가 가장 많이 나타났습니다. 또한, 최신 AI 기술 개발과 적용에 대한 논의도 많이 나타났습니다. 정치 관련 뉴스와 논의도 증가한 것으로 나타났습니다. 이러한 트렌드 분석 결과를 통해, 부동산 정책에 대한 관심 증가와 AI 기술에 대한 투자 증가를 예상할 수 있습니다. 또한, 정치 관련 뉴스와 논의에 대한 관심 증가도 예상할 수 있습니다.",
-  "analyzed_at": "2026-07-23T11:01:34.339Z",
+  "narrative": "최근의 트렌드 분석 결과, 부동산 가격 안정화와 관련된 의견이 많았으며, 일부 사용자는 정부의 정책이 부동산 가격을 안정화하는 데 도움이 되지 않는다고 생각합니다. 또한, AI 기술과 관련된 뉴스가 많았으며, 일부 사용자는 AI 기술의 발전이 인류에게 긍정적인 영향을 미칠 것이라고 생각합니다. 이러한 트렌드를 고려하여, 정부의 정책을 재검토하고 AI 기술의 발전을 지원하는 것이 필요합니다.",
+  "analyzed_at": "2026-07-23T12:30:35.854Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
