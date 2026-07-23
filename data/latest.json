@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "정치 및 사회",
-      "summary": "最近 보수 시의원 미성년자 성매수 사건과 검사의 보완수사권, 트럼프 관련 뉴스 등 정치 및 사회 관련 주제가 인기 있습니다.",
+      "summary": "최근 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 트럼프의 무역법 301조 적용과 한국의 대응, 성범죄 의심사건 등이 논란이 되고 있습니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크 및 IT",
-      "summary": "AI, GPU, OLED 등 테크 및 IT 관련 뉴스가 많이 등장하고 있습니다.",
-      "post_count": 20,
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 한미조선협력센터 개소, 현대차그룹의 새만금 수소 플랜 등이 논란이 되고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "금리, 부동산, 투자 등 경제 및 금융 관련 주제가 관심을 끌고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. AI 관련 기술과 제품이 개발되고 있으며, 삼성과 LG의 OLED 투자 등이 논란이 되고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
@@ -27,41 +27,41 @@
       "keyword": "트럼프",
       "count": 5,
       "sentiment": "negative",
-      "context": "트럼프 관련 뉴스"
+      "context": "무역법 301조 적용과 관련한 논란"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "AI 기술 및 뉴스"
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 개발과 제품 출시 관련한 뉴스"
     },
     {
-      "keyword": "금리",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "금리 관련 뉴스"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "한미조선협력센터 개소, 현대차그룹의 새만금 수소 플랜 등"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
+    "positive": 20,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적이지만 부정적인 기운이 감지됩니다."
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "테크 및 IT 관련 뉴스가 많이 등장하고 있습니다.",
-      "action": "테크 및 IT 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
+      "insight": "기술 개발과 투자가 증가하고 있습니다.",
+      "action": "기술 개발에 투자하고, 관련된 뉴스와 이슈를 주시하세요.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 주제가 관심을 끌고 있습니다.",
-      "action": "경제 및 금융 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
+      "insight": "경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
+      "action": "경제 및 금융 관련 뉴스와 이슈를 주시하고, 관련된 분야에 투자하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, 정치 및 사회 관련 주제가 많이 등장하고 있습니다. 특히 트럼프 관련 뉴스가 많이 등장하고 있으며, 테크 및 IT 관련 뉴스도 많이 등장하고 있습니다. 또한 경제 및 금융 관련 주제가 관심을 끌고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 제작하여 관심을 끌 수 있습니다. 테크 및 IT 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다. 또한 경제 및 금융 관련 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-07-23T21:00:34.174Z",
+  "narrative": "최근 정치 및 사회, 경제 및 금융, 기술 및 과학 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 트럼프의 무역법 301조 적용과 한국의 대응, 성범죄 의심사건 등이 논란이 되고 있습니다. 기술 개발과 투자가 증가하고 있으며, 경제 및 금융 관련 뉴스와 이슈도 많은 관심을 받고 있습니다. 이러한 뉴스와 이슈를 주시하고, 관련된 분야에 투자하면 좋은 기회가 될 수 있습니다.",
+  "analyzed_at": "2026-07-23T23:01:23.760Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
