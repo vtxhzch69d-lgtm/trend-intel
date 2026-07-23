@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. AI의 발전은 다양한 산업에 영향을 미치고 있다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "부동산",
+      "summary": "부동산 가격 상승과 정책에 대한 논의",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 가격과 관련된 다양한 주제가 논의되고 있다. 주거지 문제와 관련된 다양한 의견이 존재한다.",
+      "topic": "정치",
+      "summary": "정치 현안과 선거에 대한 논의",
       "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치와 관련된 다양한 주제가 논의되고 있다. 정치인과 관련된 다양한 의견이 존재한다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 산업 동향에 대한 논의",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "keyword": "부동산",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "가격 상승과 정책에 대한 논의"
     },
     {
-      "keyword": "부동산",
+      "keyword": "AI",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "주거지 문제"
+      "sentiment": "positive",
+      "context": "최신 기술과 산업 동향에 대한 논의"
     },
     {
       "keyword": "정치",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "정치인과 관련된 의견"
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치 현안과 선거에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 30,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정이 우세하지만, AI 기술과 관련된 주제에서는 긍정적인 감정이 나타남"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 사업을 발전시키는 방안을 모색하자",
+      "insight": "부동산 가격 상승과 정책에 대한 논의가 활발",
+      "action": "부동산 정책과 가격 동향을 주시",
       "priority": "high"
     },
     {
-      "insight": "부동산 가격과 관련된 주제는 많은 사람들의 관심을 끌고 있다.",
-      "action": "부동산 가격과 관련된 주제에 대한 의견을 수집하고, 이를 통해 사업을 발전시키는 방안을 모색하자",
+      "insight": "AI 기술이 산업에서 점점 더 중요한 역할을 함",
+      "action": "AI 기술과 산업 동향을 연구",
       "priority": "medium"
-    },
-    {
-      "insight": "정치와 관련된 주제는 많은 사람들의 관심을 끌고 있다.",
-      "action": "정치와 관련된 주제에 대한 의견을 수집하고, 이를 통해 사업을 발전시키는 방안을 모색하자",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 많은 사람들의 관심을 끌고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으므로, 이를 주시하고, 이를 활용하여 사업을 발전시키는 방안을 모색하는 것이 중요하다. 또한, 부동산 가격과 관련된 주제는 많은 사람들의 관심을 끌고 있으므로, 이를 통해 사업을 발전시키는 방안을 모색하는 것이 중요하다. 그러나, 정치와 관련된 주제는 많은 사람들의 관심을 끌고 있지만, 이를 통해 사업을 발전시키는 방안을 모색하는 것은 쉽지 않을 수 있다. 따라서, 이러한 트렌드 분석 결과를 통해, 사업을 발전시키는 방안을 모색하는 것이 중요하다.",
-  "analyzed_at": "2026-07-23T14:01:27.156Z",
-  "post_count": 61,
+  "narrative": "最近의 트렌드는 부동산 가격 상승과 정책에 대한 논의, 정치 현안과 선거에 대한 논의, 최신 AI 기술과 산업 동향에 대한 논의 등으로 구성되어 있다. 부동산 가격 상승과 정책에 대한 논의는 매우 활발하며, 부동산 정책과 가격 동향을 주시하는 것이 중요하다. 또한, AI 기술이 산업에서 점점 더 중요한 역할을 하므로, AI 기술과 산업 동향을 연구하는 것이 필요하다.",
+  "analyzed_at": "2026-07-23T15:31:27.004Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
