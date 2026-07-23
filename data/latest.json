@@ -1,70 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산",
-      "summary": "부동산 가격 상승과 정책에 대한 논의",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 현안과 선거에 대한 논의",
-      "post_count": 8,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 올라오는 글입니다. 사용자들은 다양한 주제에 대해 의견을 나누고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 산업 동향에 대한 논의",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 15,
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
+    },
+    {
+      "keyword": "이슈",
+      "count": 20,
       "sentiment": "negative",
-      "context": "가격 상승과 정책에 대한 논의"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술과 산업 동향에 대한 논의"
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 현안과 선거에 대한 논의"
+      "context": "문제 또는 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
+    "positive": 30,
+    "negative": 40,
     "neutral": 30,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "부동산 가격 상승과 정책에 대한 논의가 활발",
-      "action": "부동산 정책과 가격 동향을 주시",
+      "insight": "뽐뿌 커뮤니티 사용자들은 다양한 주제에 대해 관심이 많습니다.",
+      "action": "다양한 주제에 대한 콘텐츠 제공",
       "priority": "high"
     },
     {
-      "insight": "AI 기술이 산업에서 점점 더 중요한 역할을 함",
-      "action": "AI 기술과 산업 동향을 연구",
+      "insight": "뽐뿌 커뮤니티 사용자들은 이슈 또는 문제에 대해 의견을 나누고 있습니다.",
+      "action": "이슈 또는 문제에 대한 해법 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드는 부동산 가격 상승과 정책에 대한 논의, 정치 현안과 선거에 대한 논의, 최신 AI 기술과 산업 동향에 대한 논의 등으로 구성되어 있다. 부동산 가격 상승과 정책에 대한 논의는 매우 활발하며, 부동산 정책과 가격 동향을 주시하는 것이 중요하다. 또한, AI 기술이 산업에서 점점 더 중요한 역할을 하므로, AI 기술과 산업 동향을 연구하는 것이 필요하다.",
-  "analyzed_at": "2026-07-23T15:31:27.004Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 의견을 나누는 공간입니다. 사용자들은 자유게시판과 이슈게시판에서 다양한 주제에 대해 글을 올리고 의견을 나누고 있습니다. 사용자들의 관심사와 의견을 분석하여 다양한 주제에 대한 콘텐츠를 제공하고, 이슈 또는 문제에 대한 해법을 제공할 수 있습니다. 이를 통해 뽐뿌 커뮤니티 사용자들과의 관계를 강화하고, 브랜드 이미지를 향상시킬 수 있습니다.",
+  "analyzed_at": "2026-07-23T17:00:34.688Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
