@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 문제",
-      "summary": "부동산 문제는 완전공공임대 왕창지어야죠. 부동산 증세에 왜 찬성하시나요",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "신천지 관련 논란",
+      "summary": "신천지의 간첩 의혹과 관련된 논란이 커뮤니티에서 논의되고 있다. 일부 사용자는 신천지의 활동을 비판하며, 다른 사용자는 신천지의 입장을 옹호하고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "신천지 선거",
-      "summary": "신천지 묻은 선거, 비밀3자연합, 김민석의 합동연설회 발언 원문",
-      "post_count": 6,
+      "topic": "보완수사 폐지",
+      "summary": "보완수사 폐지와 관련된 논란이 커뮤니티에서 논의되고 있다. 일부 사용자는 보완수사 폐지를 지지하며, 다른 사용자는 반대하고 있다.",
+      "post_count": 5,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 반도체 호황, 엔비디아 GPU, 달 표면 밟는다, KAIST-엔비디아, AI 공동연구소 설립",
-      "post_count": 8,
+      "summary": "AI 기술과 관련된 뉴스와 정보가 커뮤니티에서 공유되고 있다. 사용자들은 AI 기술의 발전과 이를 활용한 다양한 ứng용에 대해 관심을 보이고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 7,
+      "keyword": "신천지",
+      "count": 20,
       "sentiment": "negative",
-      "context": "부동산 문제에 대한 부정적인 의견"
+      "context": "신천지의 간첩 의혹과 관련된 논란"
     },
     {
-      "keyword": "신천지",
-      "count": 5,
+      "keyword": "보완수사",
+      "count": 10,
       "sentiment": "negative",
-      "context": "신천지와 관련된 선거 문제"
+      "context": "보완수사 폐지와 관련된 논란"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 30,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "AI 기술과 관련된 뉴스와 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "부정적인 의견이 다소 많지만, AI 기술에 대한 긍정적인 의견도 존재"
+    "positive": 40,
+    "negative": 30,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 문제는 한국 사회에서 중요한 문제로 대두되고 있다",
-      "action": "부동산 정책에 대한 심도 있는 분석과 해결책 마련",
+      "insight": "신천지 관련 논란은 커뮤니티에서 큰 관심을 끌고 있다.",
+      "action": "신천지 관련 논란에 대한 대응 전략을 수립해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 적용되고 있다",
-      "action": "AI 기술에 대한 투자와 연구 개발",
+      "insight": "AI 기술은 커뮤니티에서 큰 관심을 끌고 있다.",
+      "action": "AI 기술과 관련된 뉴스와 정보를 제공해야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 부동산 문제와 신천지 선거 문제가 큰 이슈로 부상하고 있다. 부동산 문제는 완전공공임대 王창지어야죠라는 의견이 나타나고 있으며, 신천지 선거 문제는 비밀3자연합, 김민석의 합동연설회 발언 원문 등 다양한 의견이 존재한다. 또한, AI 기술은 다양한 산업에서 적용되고 있으며, 엔비디아 GPU, 달 표면 밟는다, KAIST-엔비디아, AI 공동연구소 설립 등 다양한 뉴스가 보도되고 있다. 이러한 이슈들은 한국 사회에서 중요한 문제로 대두되고 있으며, 심도 있는 분석과 해결책 마련이 필요하다.",
-  "analyzed_at": "2026-07-24T09:30:34.388Z",
+  "narrative": "최근 커뮤니티에서는 신천지 관련 논란과 보완수사 폐지, AI 기술과 관련된 뉴스와 정보가 큰 관심을 끌고 있다. 신천지 관련 논란은 커뮤니티에서 큰 관심을 끌고 있지만, 일부 사용자는 신천지의 활동을 비판하며, 다른 사용자는 신천지의 입장을 옹호하고 있다. 보완수사 폐지와 관련된 논란도 커뮤니티에서 논의되고 있다. AI 기술은 커뮤니티에서 큰 관심을 끌고 있으며, 사용자들은 AI 기술의 발전과 이를 활용한 다양한 ứng용에 대해 관심을 보이고 있다. 이러한 트렌드를 고려하여, 신천지 관련 논란에 대한 대응 전략을 수립하고, AI 기술과 관련된 뉴스와 정보를 제공해야 한다.",
+  "analyzed_at": "2026-07-24T11:00:34.223Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
