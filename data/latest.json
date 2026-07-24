@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "신천지",
-      "summary": "신천지 관련 논란과 비판",
+      "topic": "부동산 문제",
+      "summary": "부동산 문제는 완전공공임대 왕창지어야죠. 부동산 증세에 왜 찬성하시나요",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식",
-      "summary": "삼전닉스 주식 관련 논란",
-      "post_count": 3,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "신천지 선거",
+      "summary": "신천지 묻은 선거, 비밀3자연합, 김민석의 합동연설회 발언 원문",
+      "post_count": 6,
+      "sentiment": "negative",
+      "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술과 산업 관련 뉴스",
-      "post_count": 10,
+      "topic": "AI 기술",
+      "summary": "AI 반도체 호황, 엔비디아 GPU, 달 표면 밟는다, KAIST-엔비디아, AI 공동연구소 설립",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "신천지",
+      "keyword": "부동산",
       "count": 7,
       "sentiment": "negative",
-      "context": "신천지 관련 논란"
+      "context": "부동산 문제에 대한 부정적인 의견"
     },
     {
-      "keyword": "삼전닉스",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "삼전닉스 주식 관련 논란"
+      "keyword": "신천지",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "신천지와 관련된 선거 문제"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술과 산업 관련 뉴스"
+      "context": "AI 기술의 발전과 적용"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 15,
+    "negative": 20,
     "neutral": 10,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "overall_mood": "부정적인 의견이 다소 많지만, AI 기술에 대한 긍정적인 의견도 존재"
   },
   "business_insights": [
     {
-      "insight": "신천지 관련 논란이 계속되면 브랜드 이미지에 악영향을 미칠 수 있음",
-      "action": "신천지 관련 논란에 대한 대응 전략 수립",
+      "insight": "부동산 문제는 한국 사회에서 중요한 문제로 대두되고 있다",
+      "action": "부동산 정책에 대한 심도 있는 분석과 해결책 마련",
       "priority": "high"
     },
     {
-      "insight": "AI 기술과 산업 관련 뉴스가 증가하고 있음",
-      "action": "AI 기술과 산업 관련 사업 기회 탐색",
+      "insight": "AI 기술은 다양한 산업에서 적용되고 있다",
+      "action": "AI 기술에 대한 투자와 연구 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 신천지 관련 논란과 주식 관련 논란이 계속되고 있음. 또한 AI 기술과 산업 관련 뉴스가 증가하고 있음. 이러한 트렌드를 분석하여 브랜드 이미지에 악영향을 미칠 수 있는 신천지 관련 논란에 대한 대응 전략을 수립하고, AI 기술과 산업 관련 사업 기회를 탐색할 필요가 있음. 또한 중립적인 감정을 유지하면서 부정적인 감정을 최소화할 수 있는 전략을 수립할 필요가 있음.",
-  "analyzed_at": "2026-07-24T08:01:22.121Z",
+  "narrative": "최근 한국 온라인 커뮤니티에서는 부동산 문제와 신천지 선거 문제가 큰 이슈로 부상하고 있다. 부동산 문제는 완전공공임대 王창지어야죠라는 의견이 나타나고 있으며, 신천지 선거 문제는 비밀3자연합, 김민석의 합동연설회 발언 원문 등 다양한 의견이 존재한다. 또한, AI 기술은 다양한 산업에서 적용되고 있으며, 엔비디아 GPU, 달 표면 밟는다, KAIST-엔비디아, AI 공동연구소 설립 등 다양한 뉴스가 보도되고 있다. 이러한 이슈들은 한국 사회에서 중요한 문제로 대두되고 있으며, 심도 있는 분석과 해결책 마련이 필요하다.",
+  "analyzed_at": "2026-07-24T09:30:34.388Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
