@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 증가하고 있다. 클리앙 커뮤니티에서는 AI 기술의 잠재적 위험과 기회에 대한 논의가 활발하다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "정성호 법무장관 사의 표명, 이재명 대통령과 관련된 정치 뉴스",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많다. 특히 이재명 대통령과 관련된 게시글이 많이 나타난다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 산업",
-      "summary": "기술 산업 관련된 게시글이 많다. 특히 반도체와 관련된 게시글이 많이 나타난다.",
+      "topic": "경제",
+      "summary": "한국 경제와 관련된 뉴스, 환율, 수출 등",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
@@ -26,47 +26,47 @@
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
-    },
-    {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치 관련된 게시글"
-    },
-    {
-      "keyword": "반도체",
-      "count": 8,
       "sentiment": "positive",
-      "context": "기술 산업 관련된 게시글"
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치 뉴스와 관련된 글"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "한국 경제와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
+    "positive": 25,
+    "negative": 20,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있다.",
-      "action": "AI 기술의 발전을 주시하고 다양한 산업에서의 적용을 연구한다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 게시글은 많은 관심을 끌고 있다.",
-      "action": "정치 관련된 게시글을 주시하고 대응한다.",
+      "insight": "정치 뉴스는 여전히 많은 관심을 받고 있다.",
+      "action": "정치 뉴스와 관련된 콘텐츠 개발",
       "priority": "medium"
     },
     {
-      "insight": "기술 산업은 계속해서 성장할 것으로 예상된다.",
-      "action": "기술 산업의 동향을 주시하고 기회를 찾는다.",
-      "priority": "medium"
+      "insight": "한국 경제는 안정적인 성장을 유지하고 있다.",
+      "action": "한국 경제와 관련된 투자 기회 탐색",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 AI 기술, 정치, 기술 산업 관련된 게시글이 많이 나타난다. AI 기술의 발전과 다양한 산업에서의 적용은 많은 관심을 끌고 있다. 정치 관련된 게시글은 많은 관심을 끌고 있지만 부정적인 감정이 많다. 기술 산업은 계속해서 성장할 것으로 예상된다. 이러한 동향을 주시하고 기회를 찾는 것이 중요하다.",
-  "analyzed_at": "2026-07-24T20:00:33.869Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 정치 뉴스가 많은 관심을 받고 있다. 또한, 한국 경제는 안정적인 성장을 유지하고 있다. 이러한 트렌드는 비즈니스에 영향을 미칠 수 있으므로, 관련된 산업과 기업은 이러한 트렌드를 주시하고, 새로운 비즈니스 모델을 개발해야 한다. 또한, 정치 뉴스와 관련된 콘텐츠 개발과 한국 경제와 관련된 투자 기회 탐색도 중요하다.",
+  "analyzed_at": "2026-07-24T21:30:33.771Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
