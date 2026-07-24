@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 증가하고 있습니다. 클리앙 커뮤니티에서는 AI 기술의 발전과 그에 따른 사회적 영향에 대한 논의가 활발하게 진행되고 있습니다.",
+      "summary": "AI 기술의 발전과 다양한 산업에서의 적용이 증가하고 있다. 클리앙 커뮤니티에서는 AI 기술의 잠재적 위험과 기회에 대한 논의가 활발하다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련된 주제가 많은 관심을 받고 있습니다. 특히, 이재명 대통령과 관련된 주제가 많이 논의되고 있습니다.",
+      "topic": "정치",
+      "summary": "정치 관련된 게시글이 많다. 특히 이재명 대통령과 관련된 게시글이 많이 나타난다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "기술 및 산업 관련된 주제가 많은 관심을 받고 있습니다. 특히, 반도체와 관련된 주제가 많이 논의되고 있습니다.",
+      "topic": "기술 산업",
+      "summary": "기술 산업 관련된 게시글이 많다. 특히 반도체와 관련된 게시글이 많이 나타난다.",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
@@ -26,47 +26,47 @@
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "context": "AI 기술의 발전과 다양한 산업에서의 적용"
     },
     {
       "keyword": "이재명",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 및 사회 관련된 주제"
+      "sentiment": "negative",
+      "context": "정치 관련된 게시글"
     },
     {
       "keyword": "반도체",
       "count": 8,
       "sentiment": "positive",
-      "context": "기술 및 산업 관련된 주제"
+      "context": "기술 산업 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "긍정적"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에서의 적용을 증가시킴",
-      "action": "AI 기술의 발전을 주시하고, 다양한 산업에서의 적용을 탐색",
+      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 다양한 산업에서의 적용을 연구한다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련된 주제가 많은 관심을 받음",
-      "action": "정치 및 사회 관련된 주제를 주시하고, 관련된 뉴스와 정보를 제공",
+      "insight": "정치 관련된 게시글은 많은 관심을 끌고 있다.",
+      "action": "정치 관련된 게시글을 주시하고 대응한다.",
       "priority": "medium"
     },
     {
-      "insight": "기술 및 산업 관련된 주제가 많은 관심을 받음",
-      "action": "기술 및 산업 관련된 주제를 주시하고, 관련된 뉴스와 정보를 제공",
+      "insight": "기술 산업은 계속해서 성장할 것으로 예상된다.",
+      "action": "기술 산업의 동향을 주시하고 기회를 찾는다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 AI 기술의 발전과 다양한 산업에서의 적용, 정치 및 사회 관련된 주제, 기술 및 산업 관련된 주제가 많은 관심을 받고 있습니다. 이러한 주제들은 클리앙 커뮤니티의 사용자们에게 중요한 관심사이며, 관련된 뉴스와 정보를 제공하는 것이 중요합니다. 또한, AI 기술의 발전과 다양한 산업에서의 적용을 주시하고, 관련된 기회와 위협을 탐색하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-24T18:00:34.297Z",
+  "narrative": "클리앙 커뮤니티에서는 AI 기술, 정치, 기술 산업 관련된 게시글이 많이 나타난다. AI 기술의 발전과 다양한 산업에서의 적용은 많은 관심을 끌고 있다. 정치 관련된 게시글은 많은 관심을 끌고 있지만 부정적인 감정이 많다. 기술 산업은 계속해서 성장할 것으로 예상된다. 이러한 동향을 주시하고 기회를 찾는 것이 중요하다.",
+  "analyzed_at": "2026-07-24T20:00:33.869Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
