@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "최근 정치 및 사회 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 트럼프의 무역법 301조 적용과 한국의 대응, 성범죄 의심사건 등이 논란이 되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "경제 및 금융",
+      "summary": "주택담보대출, 빚, 레버리지 효과적인 규제안 등 경제 및 금융 관련 주제가 인기 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 한미조선협력센터 개소, 현대차그룹의 새만금 수소 플랜 등이 논란이 되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "윤석열 대통령, 김건희, 오세훈 등 정치 관련 주제가 인기 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "기술 및 과학",
-      "summary": "기술 및 과학 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. AI 관련 기술과 제품이 개발되고 있으며, 삼성과 LG의 OLED 투자 등이 논란이 되고 있습니다.",
-      "post_count": 12,
+      "summary": "AI, 반도체, OLED 등 기술 및 과학 관련 주제가 인기 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "트럼프",
+      "keyword": "빚",
       "count": 5,
       "sentiment": "negative",
-      "context": "무역법 301조 적용과 관련한 논란"
+      "context": "주택담보대출과 관련된 주제입니다."
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 개발과 제품 출시 관련한 뉴스"
+      "context": "기술 및 과학 관련 주제입니다."
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "한미조선협력센터 개소, 현대차그룹의 새만금 수소 플랜 등"
+      "keyword": "윤석열",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "정치 관련 주제입니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 비중이 높지만, 기술 및 과학 관련 주제에서는 긍정적인 감정이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "기술 개발과 투자가 증가하고 있습니다.",
-      "action": "기술 개발에 투자하고, 관련된 뉴스와 이슈를 주시하세요.",
+      "insight": "경제 및 금융 관련 주제가 인기 있습니다.",
+      "action": "경제 및 금융 관련 콘텐츠를 생성하여 이용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
-      "action": "경제 및 금융 관련 뉴스와 이슈를 주시하고, 관련된 분야에 투자하세요.",
+      "insight": "기술 및 과학 관련 주제가 긍정적인 감정을 유발합니다.",
+      "action": "기술 및 과학 관련 콘텐츠를 생성하여 이용자들의 만족도를 높일 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 및 사회, 경제 및 금융, 기술 및 과학 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 트럼프의 무역법 301조 적용과 한국의 대응, 성범죄 의심사건 등이 논란이 되고 있습니다. 기술 개발과 투자가 증가하고 있으며, 경제 및 금융 관련 뉴스와 이슈도 많은 관심을 받고 있습니다. 이러한 뉴스와 이슈를 주시하고, 관련된 분야에 투자하면 좋은 기회가 될 수 있습니다.",
-  "analyzed_at": "2026-07-23T23:01:23.760Z",
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서는 경제 및 금융 관련 주제가 인기 있습니다. 주택담보대출, 빚, 레버리지 효과적인 규제안 등이 주요 주제입니다. 그러나 기술 및 과학 관련 주제에서는 긍정적인 감정이 나타나며, AI, 반도체, OLED 등이 주요 주제입니다. 정치 관련 주제에서는 혼합된 감정이 나타나며, 윤석열 대통령, 김건희, 오세훈 등이 주요 인물입니다. 이러한 주제와 키워드를 분석하여, 마케터는 이용자들의 관심과 감정을 이해하고, 효과적인 콘텐츠 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-24T00:30:36.784Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
