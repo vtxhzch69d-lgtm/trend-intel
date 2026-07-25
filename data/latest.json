@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 20,
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "한국 정치 상황과 관련된 다양한 의견과 논쟁",
-      "post_count": 15,
+      "topic": "경제 및 정치",
+      "summary": "한국 경제와 정치 상황에 대한 다양한 의견과 분석",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "한국 경제 상황과 관련된 뉴스 및 의견",
+      "topic": "기술 및 산업",
+      "summary": "최신 기술과 산업 동향에 대한 обсужд",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
@@ -25,49 +25,44 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 30,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 산업에서의 활용"
-    },
-    {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "한국 정치 상황과 관련된 논쟁"
+      "context": "AI 기술의 발전과 이를 활용한 산업의 성장"
     },
     {
       "keyword": "경제",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "한국 경제 상황과 관련된 뉴스"
+      "count": 15,
+      "sentiment": "negative",
+      "context": "한국 경제 상황에 대한 우려"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "한국 정치 상황에 대한 다양한 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
+    "positive": 30,
     "negative": 20,
-    "neutral": 30,
-    "overall_mood": "한국 온라인 커뮤니티에서는 AI 기술과 관련된 주제가 가장 많이 논의되고 있으며, 대부분의 의견이 긍정적이다. 그러나 정치와 관련된 주제에서는 부정적인 의견이 많다."
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 성장의 기회를 제공한다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발한다",
+      "insight": "AI 기술의 발전이 다양한 산업의 성장에 기여할 수 있음",
+      "action": "AI 기술에 대한 투자와 연구를 강화",
       "priority": "high"
     },
     {
-      "insight": "한국 정치 상황은 불안정하여 기업의 의사 결정에 영향을 줄 수 있다",
-      "action": "정치 상황을 주시하고 기업의 리스크 관리를 강화한다",
+      "insight": "한국 경제와 정치 상황에 대한 다양한 의견과 분석이 필요",
+      "action": "관련된 정보와 분석을 수집하고 연구",
       "priority": "medium"
-    },
-    {
-      "insight": "한국 경제 상황은 안정적이며 성장의 기회가 있다",
-      "action": "한국 시장에서 새로운 비즈니스 기회를 탐색한다",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서는 AI 기술과 관련된 주제가 가장 많이 논의되고 있으며, 대부분의 의견이 긍정적이다. 이는 AI 기술의 발전이 다양한 산업에서 성장의 기회를 제공하고 있기 때문이다. 그러나 정치와 관련된 주제에서는 부정적인 의견이 많다. 이는 한국 정치 상황이 불안정하여 기업의 의사 결정에 영향을 줄 수 있기 때문이다. 따라서 기업은 정치 상황을 주시하고 리스크 관리를 강화해야 한다. 또한, 한국 경제 상황은 안정적이며 성장의 기회가 있다. 따라서 기업은 한국 시장에서 새로운 비즈니스 기회를 탐색해야 한다.",
-  "analyzed_at": "2026-07-25T13:01:26.864Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드에 따르면, AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 관심이 높아지고 있습니다. 또한, 한국 경제와 정치 상황에 대한 다양한 의견과 분석이 필요합니다. 이러한 트렌드와 키워드를 분석하여, 관련된 산업과 기업에 대한洞察과 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-25T15:00:33.792Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
