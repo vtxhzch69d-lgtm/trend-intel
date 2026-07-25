@@ -1,60 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI와 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI와 기술 관련 주제가 많이 обсужд되고 있습니다. 특히 엔비디아와 삼성전자 등의 기업이 AI 기술 개발에 적극적으로 참여하고 있습니다.",
-      "post_count": 15,
+      "topic": "AI 및 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 특히, AI의 발전과 그에 따른 산업의 변화에 대한 관심이 높습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "클리앙 커뮤니티에서 정치 관련 주제도 많이 обсужд되고 있습니다. 특히 민주당과 이재명 대통령에 대한 의견이 분분합니다.",
-      "post_count": 10,
+      "topic": "정치 및 경제",
+      "summary": "정치와 경제에 대한 주제가 논의되고 있습니다. 특히, 부동산 정책과 경제 성장에 대한 관심이 높습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "문화 및 엔터테인먼트",
+      "summary": "문화와 엔터테인먼트에 대한 주제가 논의되고 있습니다. 특히, 영화와 음악에 대한 관심이 높습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술 개발과 관련된 주제"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
-      "keyword": "엔비디아",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "엔비디아의 AI 기술 개발과 관련된 주제"
+      "keyword": "부동산",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "부동산 정책과 경제 성장에 대한 관심"
     },
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "이재명 대통령에 대한 의견"
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "경제 성장과 산업의 변화에 대한 관심"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
+    "negative": 15,
     "neutral": 20,
-    "overall_mood": "클리앙 커뮤니티의 전체적인 분위기는 긍정적입니다."
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발에 대한 투자가 증가할 것으로 예상됩니다.",
-      "action": "AI 기술 개발에 대한 투자를 고려해 보세요.",
+      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고 산업의 변화를 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제에 대한 관심이 높아질 것으로 예상됩니다.",
-      "action": "정치 관련 주제에 대한 의견을 수집하고 분석해 보세요.",
+      "insight": "부동산 정책은 경제 성장에 영향을 줄 수 있습니다.",
+      "action": "부동산 정책의 변화를 주시하고 경제 성장에 대한 전략을 수립해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 AI와 기술 관련 주제가 많이 обсужд되고 있습니다. 특히 엔비디아와 삼성전자 등의 기업이 AI 기술 개발에 적극적으로 참여하고 있습니다. 또한 정치 관련 주제도 많이 обсужд되고 있습니다. 특히 민주당과 이재명 대통령에 대한 의견이 분분합니다. 클리언 커뮤니티의 전체적인 분위기는 긍정적입니다. AI 기술 개발에 대한 투자가 증가할 것으로 예상됩니다. 따라서 AI 기술 개발에 대한 투자를 고려해 보세요. 또한 정치 관련 주제에 대한 의견을 수집하고 분석해 보세요.",
-  "analyzed_at": "2026-07-25T16:30:33.662Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있습니다. 특히, AI 기술의 발전과 그에 따른 산업의 변화에 대한 관심이 높습니다. 또한, 부동산 정책과 경제 성장에 대한 관심도 높습니다. 이러한 트렌드를 분석하여 산업의 변화를 준비하고 경제 성장에 대한 전략을 수립하는 것이 중요합니다. 또한, AI 기술의 발전을 주시하고 산업의 변화를 준비해야 합니다. 부동산 정책의 변화를 주시하고 경제 성장에 대한 전략을 수립하는 것도 중요합니다.",
+  "analyzed_at": "2026-07-25T18:01:26.235Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
