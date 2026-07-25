@@ -1,62 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다.",
-      "post_count": 100,
+      "topic": "AI 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 관련 주제가 많이 обсужд되고 있습니다. 특히 엔비디아와 네이버의 투자 및 기술 개발이 주목을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 주제도 많이 обсужд되고 있습니다. 특히 전건송치 법안과 정치인의 지지자들에 대한 논의가 활발합니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 최신 기술이나 제품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 새로운 기술이나 제품에 대한 정보를 얻을 수 있습니다.",
-      "post_count": 50,
+      "topic": "기술 제품",
+      "summary": "갤럭시폴드8, 로지텍 마우스 G502X 등 기술 제품에 대한 리뷰와 논의가 있습니다.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "무료",
-      "count": 50,
-      "sentiment": "positive",
-      "context": "무료 상품에 대한 정보"
-    },
-    {
-      "keyword": "할인",
-      "count": 30,
-      "sentiment": "positive",
-      "context": "할인된 상품에 대한 정보"
-    },
-    {
-      "keyword": "최신 기술",
+      "keyword": "AI",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "최신 기술에 대한 정보"
+      "sentiment": "positive",
+      "context": "엔비디아와 네이버의 투자 및 기술 개발"
+    },
+    {
+      "keyword": "엔비디아",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "엔비디아의 기술 개발과 투자"
+    },
+    {
+      "keyword": "네이버",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "네이버의 투자와 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 60,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "대체적으로 긍정적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "무료나 할인된 상품에 대한 정보는 사용자들에게 큰 관심을 끌 수 있습니다.",
-      "action": "무료나 할인된 상품을 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "AI 기술 개발과 투자가 중요합니다.",
+      "action": "AI 기술 개발과 투자에 집중하세요.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술이나 제품에 대한 정보는 사용자들에게 새로운 정보를 제공할 수 있습니다.",
-      "action": "최신 기술이나 제품에 대한 정보를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "기술 제품의 품질과 성능이 중요합니다.",
+      "action": "기술 제품의 품질과 성능을 개선하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다. 또한, 최신 기술이나 제품에 대한 정보도 사용자들에게 큰 관심을 끌 수 있습니다. 따라서, 무료나 할인된 상품을 제공하거나 최신 기술이나 제품에 대한 정보를 제공하여 사용자들의 관심을 끌 수 있습니다. 이러한 전략을 통해 사용자들의 만족도를 높이고, 커뮤니티의 활성화를 도모할 수 있습니다.",
-  "analyzed_at": "2026-07-25T01:01:27.389Z",
-  "post_count": 2,
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술과 정치 관련 주제가 많이 обсужд되고 있습니다. 특히 엔비디아와 네이버의 투자 및 기술 개발이 주목을 받고 있습니다. 기술 제품의 품질과 성능도 중요합니다. 따라서 AI 기술 개발과 투자에 집중하고, 기술 제품의 품질과 성능을 개선하는 것이 중요합니다. 중립적인 분위기에서 기업은 고객의需求을 이해하고, 이를满足하는 제품과 서비스를 제공해야 합니다.",
+  "analyzed_at": "2026-07-25T02:30:34.286Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
