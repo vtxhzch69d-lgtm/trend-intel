@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 발전이 산업과 사회에 미치는 영향에 대한 관심이 높아지고 있습니다.",
-      "post_count": 20,
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화가 주목을 받고 있다. 특히, 개방형 AI 생태계 구축과 관련된 뉴스가 많이 보도되었다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 관련된 다양한 주제가 논의되고 있습니다. 부동산 가격과 정책에 대한 관심이 높아지고 있습니다.",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스가 많이 보도되었다. 특히, 김민석의 신천지 연설과 관련된 뉴스가 주목을 받았다.",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 다양한 주제가 논의되고 있습니다. 정치적 상황과 정책에 대한 관심이 높아지고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "경제 관련 뉴스가 많이 보도되었다. 특히, 보유세 인상과 관련된 뉴스가 주목을 받았다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 30,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "부동산",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "부동산 가격과 정책에 대한 관심"
-    },
-    {
-      "keyword": "정치",
       "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 그에 따른 산업의 변화"
+    },
+    {
+      "keyword": "김민석",
+      "count": 5,
       "sentiment": "mixed",
-      "context": "정치적 상황과 정책에 대한 관심"
+      "context": "김민석의 신천지 연설과 관련된 뉴스"
+    },
+    {
+      "keyword": "보유세",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "보유세 인상과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 30,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 산업과 사회에 미치는 영향",
-      "action": "AI 기술의 발전을 주도하는 기업과 기관에 대한 투자와 협력",
+      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다.",
+      "action": "AI 기술의 발전을 주목하고, 산업의 변화에 대응하기 위한 전략을 수립해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 가격과 정책에 대한 관심",
-      "action": "부동산 시장의 동향을 주시하고 정책에 대한 관심을 가지는 것",
+      "insight": "정치 관련 뉴스는 여론을 형성하는 데 중요한 역할을 한다.",
+      "action": "정치 관련 뉴스를 주목하고, 여론을 형성하는 데 기여해야 한다.",
       "priority": "medium"
     },
     {
-      "insight": "정치적 상황과 정책에 대한 관심",
-      "action": "정치적 상황과 정책에 대한 관심을 가지는 것",
-      "priority": "high"
+      "insight": "경제 관련 뉴스는 산업의 변화를 예측하는 데 중요한 역할을 한다.",
+      "action": "경제 관련 뉴스를 주목하고, 산업의 변화를 예측하는 데 기여해야 한다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있습니다. 부동산과 정치도 관심을 끌고 있습니다. 이러한 트렌드는 산업과 사회에 미치는 영향을 주의 깊게 관찰하고 대응하는 것이 중요합니다. 또한, AI 기술의 발전을 주도하는 기업과 기관에 대한 투자와 협력, 부동산 시장의 동향을 주시하고 정책에 대한 관심을 가지는 것이 필요합니다.",
-  "analyzed_at": "2026-07-25T06:01:22.025Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 산업의 변화가 주목을 받고 있다. 특히, 개방형 AI 생태계 구축과 관련된 뉴스가 많이 보도되었다. 또한, 정치 관련 뉴스가 많이 보도되었으며, 김민석의 신천지 연설과 관련된 뉴스가 주목을 받았다. 경제 관련 뉴스도 많이 보도되었으며, 보유세 인상과 관련된 뉴스가 주목을 받았다. 이러한 트렌드 분석 결과를 바탕으로, 산업의 변화를 예측하고, 여론을 형성하는 데 기여하는 전략을 수립해야 한다.",
+  "analyzed_at": "2026-07-25T09:00:37.942Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
