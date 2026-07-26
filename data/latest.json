@@ -2,15 +2,22 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 관심이 높아지고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많아지고 있으며, 이를 둘러싼 다양한 의견과 소식이 공유되고 있다.",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부동산 정책",
+      "summary": "클리앙 커뮤니티에서 부동산 정책 관련 게시글이 많아지고 있으며, 이를 둘러싼 다양한 의견과 소식이 공유되고 있다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 게시글도 많이 올라왔습니다. 최근의 경제 상황과 정치적인 이슈에 대한 관심이 높아지고 있습니다.",
-      "post_count": 15,
+      "topic": "경제 및 금융",
+      "summary": "클리앙 커뮤니티에서 경제 및 금융 관련 게시글이 많아지고 있으며, 이를 둘러싼 다양한 의견과 소식이 공유되고 있다.",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     }
@@ -18,43 +25,43 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 30,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 산업의 성장"
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술 및 관련 소식"
+    },
+    {
+      "keyword": "부동산",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "부동산 정책 및 관련 소식"
     },
     {
       "keyword": "경제",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "最近의 경제 상황"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "정치적인 이슈"
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "경제 및 금융 관련 소식"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
+    "positive": 10,
     "negative": 20,
     "neutral": 30,
-    "overall_mood": "관심과 호기심이 높아지는 추세"
+    "overall_mood": "중립적이고 다양한 의견이 존재하는 것으로 나타났다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 산업의 성장",
+      "insight": "AI 기술은 최근 클리앙 커뮤니티에서 많은 관심을 받고 있다.",
+      "action": "AI 기술 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에 홍보할 수 있다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치적인 이슈",
-      "action": "경제 및 정치적인 이슈에 대한 관심과 이해",
+      "insight": "부동산 정책은 클리언 커뮤니티에서 많은 논쟁을 일으키고 있다.",
+      "action": "부동산 정책 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에 홍보할 수 있다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 관심이 높아지고 있습니다. 또한 경제 및 정치적인 이슈에 대한 관심도 높아지고 있습니다. 이러한 추세는 기업과 마케터에게 새로운 기회와 도전을 제공합니다. AI 기술을 활용한 산업의 성장과 경제 및 정치적인 이슈에 대한 관심과 이해를 통해 기업과 마케터는 새로운 기회를 잡을 수 있을 것입니다.",
-  "analyzed_at": "2026-07-26T05:00:34.298Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 및 부동산 정책 관련 게시글이 많아지고 있으며, 이를 둘러싼 다양한 의견과 소식이 공유되고 있다. 이러한 트렌드를 분석하여 AI 기술 및 부동산 정책 관련 제품이나 서비스를 개발하여 클리앙 커뮤니티에 홍보할 수 있다. 또한, 클리앙 커뮤니티의 중립적이고 다양한 의견을 고려하여 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-07-26T06:30:33.432Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
