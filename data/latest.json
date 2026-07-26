@@ -1,68 +1,61 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래 지지선언한 김부선, 친청계 의원 3명은 신천지 문제 등 정치 관련 글들이热한 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "부동산",
-      "summary": "부동산 관련 글들이 많은 관심을 받고 있으며, 보유세인상과 셀러 파이낸싱 등 다양한 주제들이 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 글들이 많은 관심을 받고 있으며, 엔비디아와 삼성전자 등 주요 기업들의 움직임이 주목되고 있습니다.",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 관심이 높아지고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 게시글도 많이 올라왔습니다. 최근의 경제 상황과 정치적인 이슈에 대한 관심이 높아지고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정청래 지지선언한 김부선 등 정치 관련 글에서 자주 언급되고 있습니다."
-    },
-    {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "부동산 관련 글에서 자주 언급되고 있으며, 보유세인상과 셀러 파이낸싱 등 다양한 주제들이 논의되고 있습니다."
-    },
-    {
       "keyword": "AI",
-      "count": 12,
+      "count": 30,
       "sentiment": "positive",
-      "context": "AI와 기술 관련 글에서 자주 언급되고 있으며, 엔비디아와 삼성전자 등 주요 기업들의 움직임이 주목되고 있습니다."
+      "context": "AI 기술의 발전과 이를 활용한 산업의 성장"
+    },
+    {
+      "keyword": "경제",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "最近의 경제 상황"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "정치적인 이슈"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
+    "positive": 40,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "관심과 호기심이 높아지는 추세"
   },
   "business_insights": [
     {
-      "insight": "부동산 관련 정책과 법안이 곧 발표될 가능성이 있습니다.",
-      "action": "부동산 관련 정책과 법안에 대한 준비를 해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 산업의 성장",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련 투자가 증가할 가능성이 있습니다.",
-      "action": "AI와 기술 관련 투자 기회를 찾아야 합니다.",
+      "insight": "경제 및 정치적인 이슈",
+      "action": "경제 및 정치적인 이슈에 대한 관심과 이해",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 부동산, AI와 기술 관련 주제들이 많은 관심을 받고 있습니다. 특히, 정청래 지지선언한 김부선과 친청계 의원 3명은 신천지 문제 등 정치 관련 글들이熱한 관심을 받고 있으며, 부동산 관련 글들은 보유세인상과 셀러 파이낸싱 등 다양한 주제들이 논의되고 있습니다. 또한, AI와 기술 관련 글들은 엔비디아와 삼성전자 등 주요 기업들의 움직임이 주목되고 있습니다. 이러한 트렌드들을 분석하여, 부동산 관련 정책과 법안에 대한 준비를 해야 하며, AI와 기술 관련 투자 기회를 찾아야 합니다.",
-  "analyzed_at": "2026-07-26T03:31:26.126Z",
-  "post_count": 61,
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. AI 기술의 발전과 이를 활용한 다양한 산업의 성장에 대한 관심이 높아지고 있습니다. 또한 경제 및 정치적인 이슈에 대한 관심도 높아지고 있습니다. 이러한 추세는 기업과 마케터에게 새로운 기회와 도전을 제공합니다. AI 기술을 활용한 산업의 성장과 경제 및 정치적인 이슈에 대한 관심과 이해를 통해 기업과 마케터는 새로운 기회를 잡을 수 있을 것입니다.",
+  "analyzed_at": "2026-07-26T05:00:34.298Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
