@@ -3,21 +3,21 @@
     {
       "topic": "AI 기술",
       "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 이슈",
-      "post_count": 10,
+      "summary": "정치 관련 뉴스와 이슈",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "경제",
-      "summary": "최근 경제 관련 뉴스와 이슈",
-      "post_count": 8,
+      "summary": "경제 관련 뉴스와 산업 동향",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 30,
       "sentiment": "positive",
       "context": "AI 기술의 발전"
     },
     {
       "keyword": "이재명",
-      "count": 5,
+      "count": 10,
       "sentiment": "mixed",
       "context": "정치 관련 뉴스"
     },
     {
-      "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "positive",
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
       "context": "경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
+    "positive": 40,
+    "negative": 20,
+    "neutral": 30,
     "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 사업 기회를 탐색",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장에 기여할 수 있다",
+      "action": "AI 기술을 활용한 신규 사업 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스",
-      "action": "정치 관련 뉴스를 주시하고 이를 활용한 마케팅 전략을 수립",
+      "insight": "정치 관련 뉴스와 이슈는 소셜 미디어에서 많은 관심을 받고 있다",
+      "action": "정치 관련 뉴스와 이슈에 대한 분석과 해석",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 뉴스",
-      "action": "경제 관련 뉴스를 주시하고 이를 활용한 마케팅 전략을 수립",
+      "insight": "경제 관련 뉴스와 산업 동향은 기업의 의사 결정에 중요한 역할을 한다",
+      "action": "경제 관련 뉴스와 산업 동향에 대한 분석과 해석",
       "priority": "low"
     }
   ],
-  "narrative": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 또한, 정치 관련 뉴스와 경제 관련 뉴스도 주목을 받고 있습니다. 이러한 트렌드를 반영하여 마케팅 전략을 수립하고, 새로운 사업 기회를 탐색하는 것이 중요합니다. 특히, AI 기술의 발전을 활용한 새로운 사업 기회를 탐색하는 것이 높은 우선순위를 가집니다.",
-  "analyzed_at": "2026-07-26T20:00:34.670Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장입니다. 정치 관련 뉴스와 이슈도 많은 관심을 받고 있습니다. 경제 관련 뉴스와 산업 동향은 기업의 의사 결정에 중요한 역할을 합니다. 이러한 트렌드와 키워드를 분석하여 기업은 신규 사업 개발과 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-26T21:30:33.249Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
