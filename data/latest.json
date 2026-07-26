@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 정청래 후보에 대한 논의가 활발합니다. 정치 게시판에 써보는 IT 이야기도 관심을 끌고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 관련 뉴스와 기술 발전이 주목을 끌고 있습니다. 삼성전자와 현대차그룹의 AI 협력 확대도 관심을 끌고 있습니다.",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령의 활동과 정책에 대한 논의",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 기업 동향이 관심을 끌고 있습니다. 쿠팡 사태와 외환시장의 변동도 주목을 끌고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 산업에 미치는 영향",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 정책",
+      "summary": "경제 정책과 관련된 논의",
       "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 논의에서 빈번하게 언급됩니다."
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "이재명 대통령의 활동과 정책"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 25,
       "sentiment": "positive",
-      "context": "기술 발전과 기업 협력의 관점에서 관심을 끌고 있습니다."
+      "context": "AI 기술의 발전과 산업에 미치는 영향"
     },
     {
-      "keyword": "쿠팡",
-      "count": 2,
-      "sentiment": "neutral",
-      "context": "경제 뉴스와 기업 동향에서 언급됩니다."
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "경제 정책과 관련된 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 논의에서 부정적인 감정이 나타납니다."
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 기업의 경쟁력에 큰 영향을 미칠 것입니다.",
-      "action": "AI 기술에 대한 투자와 연구를 강화해야 합니다.",
+      "insight": "AI 기술의 발전은 산업에 큰 기회를 제공할 수 있다",
+      "action": "AI 기술에 대한 투자와 연구를 강화한다",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 논의가 기업의 이미지를影响할 수 있습니다.",
-      "action": "기업의 사회적 책임과 이미지 관리에 주목해야 합니다.",
+      "insight": "이재명 대통령의 활동과 정책은 여론의 관심을 끌고 있다",
+      "action": "이재명 대통령의 활동과 정책에 대한 분석과 연구를 실시한다",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, AI, 경제 등 다양한 주제로 나뉘어 있습니다. 정치 관련 논의에서 이재명 대통령과 정청래 후보에 대한 관심이 높습니다. AI 기술의 발전은 기업의 경쟁력에 큰 영향을 미칠 것으로 예상됩니다. 쿠팡 사태와 외환시장의 변동도 주목을 끌고 있습니다. 중립적인 분위기이지만, 일부 정치 관련 논의에서 부정적인 감정이 나타납니다. 기업은 AI 기술에 대한 투자와 연구를 강화하고, 사회적 책임과 이미지 관리에 주목해야 합니다.",
-  "analyzed_at": "2026-07-26T15:01:34.236Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술과 이재명 대통령의 활동과 정책이 주목을 끌고 있는 것으로 나타났다. AI 기술의 발전은 산업에 큰 기회를 제공할 수 있으므로, 관련된 투자와 연구를 강화하는 것이 중요하다. 또한, 이재명 대통령의 활동과 정책에 대한 분석과 연구를 실시하여, 여론의 관심과 요구에 대한 이해를 높이는 것이 필요하다. 이러한 분석과 연구를 통해, 기업과 기관은 시장의 트렌드와 요구에 대한 이해를 높이고, 이를 바탕으로 전략과 정책을 수립할 수 있을 것이다.",
+  "analyzed_at": "2026-07-26T17:00:33.851Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
