@@ -1,45 +1,38 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근의 정치 뉴스와 이슈에 대한 논의가 활발합니다. 선호투표제, 형소법 개정안, 대통령 지지율 등 다양한 주제가 논의되고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. 특히 삼성전자와 LG전자 등 국내 기업들의 AI 기술 개발과 적용에 대한 관심이 높아졌습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술 뉴스와 트렌드에 대한 논의가 활발합니다. AI, 삼성전자, 애플 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "최근의 경제 뉴스와 이슈에 대한 논의가 활발합니다. 주식, 환율, 경제 성장 등 다양한 주제가 논의되고 있습니다.",
+      "topic": "정치",
+      "summary": "정치 관련 게시글도 많이 올라왔습니다. 특히 민주당 지지율과 대통령 지지율에 대한 논의가 많았습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 25,
       "sentiment": "positive",
-      "context": "최신 기술 트렌드"
+      "context": "AI 기술 개발과 적용"
     },
     {
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "테크 뉴스"
+      "context": "삼성전자의 AI 기술 개발과 적용"
     },
     {
       "keyword": "정치",
       "count": 15,
       "sentiment": "mixed",
-      "context": "최근의 정치 뉴스"
+      "context": "정치 관련 논의"
     }
   ],
   "sentiment_overview": {
@@ -50,18 +43,18 @@
   },
   "business_insights": [
     {
-      "insight": "최신 기술 트렌드에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 뉴스와 트렌드에 대한 콘텐츠를 제공하세요.",
+      "insight": "AI 기술 개발과 적용",
+      "action": "AI 기술 개발과 적용에 대한 투자와 연구",
       "priority": "high"
     },
     {
-      "insight": "정치 뉴스와 이슈에 대한 논의가 활발합니다.",
-      "action": "정치 뉴스와 이슈에 대한 콘텐츠를 제공하세요.",
+      "insight": "정치 관련 논의",
+      "action": "정치 관련 논의에 대한 분석과 이해",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치 뉴스와 이슈에 대한 논의가 활발합니다. 선호투표제, 형소법 개정안, 대통령 지지율 등 다양한 주제가 논의되고 있습니다. 또한, 최신 기술 뉴스와 트렌드에 대한 논의도 활발합니다. AI, 삼성전자, 애플 등 다양한 주제가 논의되고 있습니다. 이러한 트렌드와 이슈에 대한 콘텐츠를 제공하면 사용자들의 관심을 끌 수 있을 것입니다. 또한, 최신 기술 트렌드에 대한 관심이 높아지고 있으므로, 관련 콘텐츠를 제공하여 사용자들의 니즈를 충족시킬 수 있습니다.",
-  "analyzed_at": "2026-07-27T01:00:34.300Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 올라왔습니다. 특히 삼성전자와 LG전자 등 국내 기업들의 AI 기술 개발과 적용에 대한 관심이 높아졌습니다. 또한 정치 관련 게시글도 많이 올라왔습니다. 특히 민주당 지지율과 대통령 지지율에 대한 논의가 많았습니다. 이러한 트렌드와 키워드를 분석하여 사업 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-27T02:30:33.663Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
