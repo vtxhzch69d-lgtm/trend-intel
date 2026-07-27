@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "부동산 정책",
-      "summary": "부동산 정책이 총선과 대선에 영향을 미칠 수 있다는 우려가 있습니다. 집값이 안올랐던 지역의 이야기가 공유되고 있습니다.",
+      "summary": "국토장관의 그린벨트 풀기 발언과 관련된 게시글이 많은 것으로 나타났습니다. 게시글에서는 부동산 정책과 관련된 다양한 의견이 나타났습니다.",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다. 삼성전자와 LG전자 등이 AI 기술을 개발하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "금연",
+      "summary": "금연에 대한 게시글이 여러 개 나타났습니다. 게시글에서는 금연의 어려움과 금연을 위한 방법에 대한 의견이 나타났습니다.",
+      "post_count": 3,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 상황",
-      "summary": "경제 상황이 안정되지 못하고 있습니다. 야간선물 마이너스 5% 등의 뉴스가 있습니다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 뉴스 게시글이 많았습니다. 게시글에서는 AI 기술의 발전과 관련된 다양한 주제가 다루어졌습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "부동산",
-      "count": 7,
+      "count": 10,
       "sentiment": "negative",
-      "context": "부동산 정책과 관련된 글"
+      "context": "부동산 정책과 관련된 게시글에서 많이 등장했습니다."
+    },
+    {
+      "keyword": "금연",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "금연에 대한 게시글에서 많이 등장했습니다."
     },
     {
       "keyword": "AI",
       "count": 15,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 글"
-    },
-    {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "경제 상황과 관련된 글"
+      "context": "AI 기술과 관련된 뉴스 게시글에서 많이 등장했습니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 기분이 더 많습니다."
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정이 다소 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "부동산 정책의 변화가 총선과 대선에 영향을 미칠 수 있습니다.",
-      "action": "부동산 정책의 변화를 주시하고 대응 策略을 마련해야 합니다.",
+      "insight": "부동산 정책은 현재 많은 논란이 있는 주제입니다.",
+      "action": "부동산 정책과 관련된 의견을 수렴하여 고객의 니즈를 파악하는 것이 필요합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다.",
-      "action": "AI 기술을 개발하고 투자해야 합니다.",
+      "insight": "금연은 많은 사람들이 관심을 가지고 있는 주제입니다.",
+      "action": "금연을 위한 제품이나 서비스를 개발하여 고객의 니즈를 충족시키는 것이 필요합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술은 빠르게 발전하고 있는 분야입니다.",
+      "action": "AI 기술을 활용하여 새로운 제품이나 서비스를 개발하는 것이 필요합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 부동산 정책과 AI 기술, 경제 상황에 관한 것입니다. 부동산 정책의 변화가 총선과 대선에 영향을 미칠 수 있습니다. AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다. 경제 상황이 안정되지 못하고 있습니다. 이러한 트렌드를 주시하고 대응 策略을 마련해야 합니다. 또한, AI 기술을 개발하고 투자해야 합니다.",
-  "analyzed_at": "2026-07-27T16:00:34.514Z",
+  "narrative": "현재 부동산 정책과 관련된 논란이 많은 것으로 나타났습니다. 금연은 많은 사람들이 관심을 가지고 있는 주제입니다. AI 기술은 빠르게 발전하고 있는 분야로, 새로운 제품이나 서비스를 개발하는 데 활용할 수 있습니다. 이러한 주제에 대한 의견을 수렴하여 고객의 니즈를 파악하고, 이를 충족시키는 제품이나 서비스를 개발하는 것이 필요합니다.",
+  "analyzed_at": "2026-07-27T17:30:34.458Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
