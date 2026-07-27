@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 발전이 미치는 영향과 이를 활용한 새로운 기술들이 등장하고 있습니다.",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제가 논의되고 있습니다. 주식 시장의 변동과 경제 정책이 미치는 영향이 논의되고 있습니다.",
+      "topic": "경제 및 정치",
+      "summary": "부동산 정책과 경제 성장에 대한 우려",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 주제가 논의되고 있습니다. 정치적 상황과 사회 문제가 논의되고 있습니다.",
+      "topic": "테크 및 과학",
+      "summary": "신기술과 과학적 발견에 대한 관심",
       "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -30,43 +30,38 @@
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "주식",
+      "keyword": "부동산",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "주식 시장의 변동"
+      "sentiment": "negative",
+      "context": "부동산 정책에 대한 우려"
     },
     {
-      "keyword": "정치",
+      "keyword": "테크",
       "count": 8,
-      "sentiment": "negative",
-      "context": "정치적 상황"
+      "sentiment": "neutral",
+      "context": "신기술과 과학적 발견"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
     "negative": 20,
     "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "overall_mood": "관심과 우려가 공존"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 서비스 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있다",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 시장의 변동",
-      "action": "시장의 변동에 대응하는 전략 개발",
+      "insight": "부동산 정책은 경제 성장에 큰 영향을 미칠 수 있다",
+      "action": "부동산 정책에 대한 관심과 대응",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 및 정치적 상황",
-      "action": "사회 및 정치적 상황에 대응하는 전략 개발",
-      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있습니다. AI 기술의 발전이 미치는 영향과 이를 활용한 새로운 기술들이 등장하고 있습니다. 또한, 경제 및 금융 시장의 변동과 사회 및 정치적 상황이 논의되고 있습니다. 이러한 트렌드를 분석하여 새로운 서비스 개발과 시장의 변동에 대응하는 전략 개발이 필요합니다.",
-  "analyzed_at": "2026-07-27T19:00:34.016Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 그러나 부동산 정책과 경제 성장에 대한 우려도 존재한다. 이러한 트렌드를 고려하여, AI 기술을 활용한 비즈니스 모델 개발과 부동산 정책에 대한 관심과 대응이 필요하다. 또한, 신기술과 과학적 발견에 대한 관심도 높아지고 있다. 이러한 트렌드와 키워드를 고려하여, 마케팅 전략을 수립하고 비즈니스 기회를 발굴할 수 있을 것이다.",
+  "analyzed_at": "2026-07-27T20:30:34.807Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
