@@ -9,16 +9,16 @@
     },
     {
       "topic": "경제 및 정치",
-      "summary": "부동산 정책과 경제 성장에 대한 우려",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "경제 및 정치 관련 뉴스와 논평",
+      "post_count": 20,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "테크 및 과학",
-      "summary": "신기술과 과학적 발견에 대한 관심",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "summary": "최신 기술 및 과학 관련 뉴스",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
@@ -30,38 +30,38 @@
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "부동산 정책에 대한 우려"
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스"
     },
     {
-      "keyword": "테크",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "신기술과 과학적 발견"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 논평"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 30,
     "negative": 20,
-    "neutral": 15,
-    "overall_mood": "관심과 우려가 공존"
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 가져올 수 있다",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발한다",
       "priority": "high"
     },
     {
-      "insight": "부동산 정책은 경제 성장에 큰 영향을 미칠 수 있다",
-      "action": "부동산 정책에 대한 관심과 대응",
+      "insight": "경제 및 정치 관련 뉴스는 계속해서 주목할 필요가 있다",
+      "action": "경제 및 정치 관련 뉴스를 계속해서 모니터링한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있다. 그러나 부동산 정책과 경제 성장에 대한 우려도 존재한다. 이러한 트렌드를 고려하여, AI 기술을 활용한 비즈니스 모델 개발과 부동산 정책에 대한 관심과 대응이 필요하다. 또한, 신기술과 과학적 발견에 대한 관심도 높아지고 있다. 이러한 트렌드와 키워드를 고려하여, 마케팅 전략을 수립하고 비즈니스 기회를 발굴할 수 있을 것이다.",
-  "analyzed_at": "2026-07-27T20:30:34.807Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목할 만하다. 또한, 경제 및 정치 관련 뉴스와 논평도 계속해서 주목할 필요가 있다. 이러한 트렌드와 인사이트를 바탕으로, 새로운 비즈니스 모델을 개발하고 경제 및 정치 관련 뉴스를 모니터링하는 것이 중요하다.",
+  "analyzed_at": "2026-07-27T22:00:34.050Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
