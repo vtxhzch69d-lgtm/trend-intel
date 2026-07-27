@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시글이 많이 등장하고 있습니다. AI 기술의 발전과 그에 따른 사회적 영향에 대한 관심이 높아지고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "부동산 정책",
+      "summary": "부동산 정책이 총선과 대선에 영향을 미칠 수 있다는 우려가 있습니다. 집값이 안올랐던 지역의 이야기가 공유되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "클리앙 커뮤니티에서 부동산 시장 관련 게시글도 많이 등장하고 있습니다. 특히 집값과 임대료에 대한 논의가 활발하게 진행되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다. 삼성전자와 LG전자 등이 AI 기술을 개발하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 게시글도 많이 등장하고 있습니다. 특히 최근의 선거와 정치 현안에 대한 논의가 활발하게 진행되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "경제 상황",
+      "summary": "경제 상황이 안정되지 못하고 있습니다. 야간선물 마이너스 5% 등의 뉴스가 있습니다.",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 사회적 영향"
-    },
-    {
       "keyword": "부동산",
-      "count": 10,
+      "count": 7,
       "sentiment": "negative",
-      "context": "집값과 임대료에 대한 논의"
+      "context": "부동산 정책과 관련된 글"
     },
     {
-      "keyword": "정치",
+      "keyword": "AI",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "최근의 선거와 정치 현안에 대한 논의"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 관련된 글"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "경제 상황과 관련된 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부 주제에 대한 긍정적 또는 부정적 감정도 존재합니다."
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 기분이 더 많습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 새로운 비즈니스 기회를 찾습니다.",
+      "insight": "부동산 정책의 변화가 총선과 대선에 영향을 미칠 수 있습니다.",
+      "action": "부동산 정책의 변화를 주시하고 대응 策略을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 변동은 많은 사람들의 관심을 끌고 있습니다.",
-      "action": "부동산 시장의 변동을 주시하고, 이를 활용하여 새로운 비즈니스 기회를 찾습니다.",
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다.",
+      "action": "AI 기술을 개발하고 투자해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 현안은 많은 사람들의 관심을 끌고 있습니다.",
-      "action": "정치 현안을 주시하고, 이를 활용하여 새로운 비즈니스 기회를 찾습니다.",
-      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술, 부동산 시장, 정치 등 다양한 주제가 논의되고 있습니다. AI 기술의 발전은 다양한 산업에 큰 영향을 미칠 것입니다. 부동산 시장의 변동은 많은 사람들의 관심을 끌고 있습니다. 정치 현안은 많은 사람들의 관심을 끌고 있습니다. 이러한 주제에 대한 관심과 논의는 계속 증가할 것으로 예상됩니다. 따라서, 이러한 주제에 대한 정보를 주시하고, 이를 활용하여 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
-  "analyzed_at": "2026-07-27T14:31:31.958Z",
+  "narrative": "현재의 트렌드는 부동산 정책과 AI 기술, 경제 상황에 관한 것입니다. 부동산 정책의 변화가 총선과 대선에 영향을 미칠 수 있습니다. AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다. 경제 상황이 안정되지 못하고 있습니다. 이러한 트렌드를 주시하고 대응 策略을 마련해야 합니다. 또한, AI 기술을 개발하고 투자해야 합니다.",
+  "analyzed_at": "2026-07-27T16:00:34.514Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
