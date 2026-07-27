@@ -2,53 +2,59 @@
   "trending_topics": [
     {
       "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 관련된 주제입니다. 사용자들은 다양한 주제에 대해 обсужд하고 있습니다.",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 저렴한 가격에 상품을 구매할 수 있습니다.",
       "post_count": 100,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 관련된 주제입니다. 사용자들은 다양한 기술 주제에 대해 обсужд하고 있습니다.",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 최신 기술이나 제품에 대한 정보입니다. 사용자들은 이러한 게시글을 통해 새로운 기술이나 제품에 대한 정보를 얻을 수 있습니다.",
       "post_count": 50,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "일상생활",
+      "keyword": "무료",
       "count": 50,
-      "sentiment": "neutral",
-      "context": "일상생활과 관련된 주제"
+      "sentiment": "positive",
+      "context": "무료 상품이나 서비스에 대한 정보"
     },
     {
-      "keyword": "기술",
+      "keyword": "할인",
       "count": 30,
       "sentiment": "positive",
-      "context": "기술과 관련된 주제"
+      "context": "할인된 상품이나 서비스에 대한 정보"
+    },
+    {
+      "keyword": "최신 기술",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "최신 기술이나 제품에 대한 정보"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 60,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "대체로 긍정적인 반응"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 일상생활과 기술에 대해 관심이 많습니다.",
-      "action": "관련된 제품이나 서비스를 제공합니다.",
+      "insight": "무료나 할인된 상품에 대한 정보가 인기",
+      "action": "마케팅 전략에 무료나 할인된 상품을 포함",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 다양한 주제에 대해 обсужд하고 있습니다.",
-      "action": "커뮤니티를 통해 사용자와 소통합니다.",
+      "insight": "최신 기술이나 제품에 대한 정보가 필요",
+      "action": "최신 기술이나 제품에 대한 정보를 제공",
       "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글은 주로 일상생활과 기술에 관련된 주제입니다. 사용자들은 다양한 주제에 대해 обсужд하고 있으며, 관련된 제품이나 서비스를 제공하는 것이 중요합니다. 또한, 커뮤니티를 통해 사용자와 소통하는 것이 중요합니다. 사용자들의 관심과 필요를 파악하여 맞춤형 마케팅 전략을 수립하는 것이 필요합니다.",
-  "analyzed_at": "2026-07-27T05:00:34.036Z",
+  "narrative": "뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글은 주로 무료나 할인된 상품, 최신 기술이나 제품에 대한 정보입니다. 사용자들은 이러한 정보를 통해 저렴한 가격에 상품을 구매하거나 새로운 기술이나 제품에 대한 정보를 얻을 수 있습니다. 마케터들은 이러한 정보를 활용하여 마케팅 전략을 수립할 수 있습니다. 또한, 최신 기술이나 제품에 대한 정보를 제공하여 사용자들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-07-27T06:00:34.244Z",
   "post_count": 2,
   "sources": [
     "ppomppu"
