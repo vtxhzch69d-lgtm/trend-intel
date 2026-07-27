@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "폴드8",
-      "summary": "폴드8의 인기와 관련된 게시글이 많습니다. 폴드8의 성능과 디자인에 대한 논의가 활발합니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 게시글이 많습니다. AI의 발전과 ứng용에 대한 논의가 활발합니다.",
+      "topic": "정치",
+      "summary": "정성호 장관의 발언과 민주당의 반응, 신천지 수사 등 정치 관련 주제가热을 끌고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치와 관련된 게시글이 많습니다. 정치인과 정당에 대한 논의가 활발합니다.",
+      "topic": "경제",
+      "summary": "삼성전자, LG전자, 현대차 등 대기업의 뉴스와 경제 동향이 관심을 끌고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI, 5G, 반도체 등 기술 관련 뉴스가 많이 등장하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "폴드8",
+      "keyword": "정성호",
       "count": 5,
-      "sentiment": "positive",
-      "context": "폴드8의 성능과 디자인에 대한 논의"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 논의"
+      "sentiment": "negative",
+      "context": "정성호 장관의 발언에 대한 반응"
     },
     {
       "keyword": "삼성전자",
-      "count": 3,
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "삼성전자의 뉴스와 경제 동향"
+    },
+    {
+      "keyword": "AI",
+      "count": 6,
       "sentiment": "positive",
-      "context": "삼성전자의 신제품과 기술에 대한 논의"
+      "context": "AI 기술과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "긍정적"
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "폴드8의 인기",
-      "action": "폴드8의 마케팅과 판매 전략을 강화해야 합니다.",
+      "insight": "정치 관련 주제가 많은 관심을 끌고 있습니다.",
+      "action": "정치 관련 뉴스와 분석을 제공하여 고객의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신제품과 서비스를 개발해야 합니다.",
+      "insight": "기술 관련 뉴스가 많이 등장하고 있습니다.",
+      "action": "기술 관련 뉴스와 분석을 제공하여 고객의 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 폴드8과 AI 기술이 주목을 받고 있습니다. 폴드8의 성능과 디자인에 대한 논의가 활발하며, AI 기술의 발전과 ứng용에 대한 논의도 활발합니다. 이러한 트렌드를 반영하여 마케팅과 판매 전략을 강화하고, AI 기술을 활용한 신제품과 서비스를 개발해야 합니다. 또한, 정치와 관련된 논의가 많으며, 정치인과 정당에 대한 논의가 활발합니다. 이러한 트렌드를 고려하여 마케팅과 판매 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-07-27T11:30:33.724Z",
+  "narrative": "현재의 트렌드는 정치, 경제, 기술 관련 주제가 많은 관심을 끌고 있습니다. 정성호 장관의 발언과 민주당의 반응, 신천지 수사 등 정치 관련 주제가熱을 끌고 있습니다. 또한, 삼성전자, LG전자, 현대차 등 대기업의 뉴스와 경제 동향이 관심을 끌고 있습니다. 기술 관련 뉴스도 많이 등장하고 있습니다. 이러한 트렌드를 분석하여 고객의 관심을 끌 수 있는 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-27T13:01:26.878Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
