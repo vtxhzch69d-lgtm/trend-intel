@@ -1,49 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 논란이 되는 주제들입니다. 사용자들은 다양한 의견을 공유하며 활발한 토론을 진행합니다.",
-      "post_count": 1000,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "정청래 대표 관련 허위사실유포 혐의 박영식·조계원 고발사건 진행상황 안내, 윤석열 허위사실 공표 혐의 1심 중형 선고에 여야 반응",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AMD, 한국에 AI 연구센터 설립, 네이버, 엔비디아와 2028년까지 200MW AI 팩토리 구축",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "주식배당금 연 천만원 받는 직장인, 건보료 더 뗀다, 자동차세는 배기량이 아니라, 차량 무게 제곱에 비례해서 내도록 바꾸어야 한다",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이벤트",
-      "count": 500,
-      "sentiment": "positive",
-      "context": "사용자들이 이벤트에 대한 정보를 공유하고 참여합니다."
+      "keyword": "윤석열",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 글"
     },
     {
-      "keyword": "논란",
-      "count": 300,
-      "sentiment": "negative",
-      "context": "사용자들이 특정 주제에 대한 논란을 논의합니다."
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 관련 글"
+    },
+    {
+      "keyword": "주식",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "경제 관련 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 30,
-    "neutral": 30,
-    "overall_mood": "사용자들은 다양한 주제에 대한 의견을 공유하며 활발한 토론을 진행합니다."
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "사용자들이 이벤트와 프로모션에 대한 정보를 찾는 것을 확인했습니다.",
-      "action": "이벤트와 프로모션을 제공하여 사용자들의 참여를 유도합니다.",
+      "insight": "AI 기술은 빠르게 성장하고 있다",
+      "action": "AI 기술에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "사용자들이 특정 주제에 대한 논란을 논의합니다.",
-      "action": "사용자들의 의견을 수렴하여 서비스를 개선합니다.",
+      "insight": "정치 관련 글은 여전히 많은 관심을 받고 있다",
+      "action": "정치 관련 글을 작성하기",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 글은 중립적인 반응을 보이고 있다",
+      "action": "경제 관련 글을 작성하기",
+      "priority": "low"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 사용자들이 다양한 주제에 대한 의견을 공유하며 활발한 토론을 진행하는 공간입니다. 사용자들은 이벤트와 프로모션에 대한 정보를 찾는 것을 확인했습니다. 또한, 사용자들이 특정 주제에 대한 논란을 논의합니다. 이러한 현상을 분석하여 서비스를 개선하고 사용자들의 참여를 유도하는 전략을 수립할 수 있습니다. 마케터들은 이러한 분석 결과를 바탕으로 사용자들의 니즈를 충족시키는 전략을 개발하여 서비스의 품질을 향상시킬 수 있습니다.",
-  "analyzed_at": "2026-07-27T07:00:34.559Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드는 AI 기술과 정치 관련 글이 많은 관심을 받고 있다. AI 기술은 빠르게 성장하고 있으며, 많은 기업들이 AI 기술에 투자하고 있다. 정치 관련 글은 여전히 많은 관심을 받고 있지만, 부정적인 반응을 보이고 있다. 경제 관련 글은 중립적인 반응을 보이고 있으며, 주식과 자동차세 등 다양한 주제가 обсужд되고 있다. 이러한 트렌드를 분석하여, 마케터는 자신의 목표에 맞는 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-07-27T08:30:33.915Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
