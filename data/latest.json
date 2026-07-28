@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스와 논평",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 뉴스와 분석",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "테크 및 과학",
-      "summary": "최신 기술 및 과학 관련 뉴스",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치 뉴스와 분석",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -31,37 +31,42 @@
     },
     {
       "keyword": "경제",
-      "count": 15,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스"
+      "context": "경제 뉴스와 분석"
     },
     {
       "keyword": "정치",
-      "count": 10,
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치 관련 논평"
+      "context": "정치 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 30,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발한다",
+      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
+      "action": "AI 기술의 발전을 주시하고 산업의 변화를 준비한다",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스는 계속해서 주목할 필요가 있다",
-      "action": "경제 및 정치 관련 뉴스를 계속해서 모니터링한다",
+      "insight": "경제 및 금융 뉴스는 중립적인 시각에서 분석해야 한다",
+      "action": "경제 및 금융 뉴스를 중립적인 시각에서 분석한다",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 뉴스는 부정적인 시각에서 분석될 수 있다",
+      "action": "정치 뉴스를 부정적인 시각에서 분석한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목할 만하다. 또한, 경제 및 정치 관련 뉴스와 논평도 계속해서 주목할 필요가 있다. 이러한 트렌드와 인사이트를 바탕으로, 새로운 비즈니스 모델을 개발하고 경제 및 정치 관련 뉴스를 모니터링하는 것이 중요하다.",
-  "analyzed_at": "2026-07-27T22:00:34.050Z",
+  "narrative": "最近의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 산업의 변화가 주목을 받고 있다. 또한, 경제 및 금융 뉴스와 분석이 중립적인 시각에서 이루어지고 있으며, 정치 뉴스는 부정적인 시각에서 분석될 수 있다. 이러한 분석 결과를 바탕으로, 산업의 변화를 준비하고 중립적인 시각에서 뉴스를 분석하는 것이 중요하다. 또한, 부정적인 시각에서 정치 뉴스를 분석하는 것도 필요하다.",
+  "analyzed_at": "2026-07-28T00:00:34.126Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
