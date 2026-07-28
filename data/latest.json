@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 연임과 관련된 기사 및 의견이 많음",
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련된 주제가 많은 관심을 받고 있습니다. 특히, AI의 발전과 그에 따른 산업의 변화가 주목을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치와 사회",
+      "summary": "정치와 사회 관련된 주제가 많은 논의를 불러일으키고 있습니다. 특히, 정치인들의 발언과 행동이 주목을 받고 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 및 제품에 대한 기사 및 의견이 많음",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "주식 및 경제 관련 기사 및 의견이 많음",
+      "topic": "경제와 산업",
+      "summary": "경제와 산업 관련된 주제가 많은 관심을 받고 있습니다. 특히, 기업들의 실적과 산업의 동향이 주목을 받고 있습니다.",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 기사 및 의견"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI의 발전과 그에 따른 산업의 변화"
     },
     {
-      "keyword": "AI",
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치인들의 발언과 행동"
+    },
+    {
+      "keyword": "경제",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 및 제품 관련 기사 및 의견"
-    },
-    {
-      "keyword": "주식",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 관련 기사 및 의견"
+      "context": "기업들의 실적과 산업의 동향"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 25,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 및 경제 관련 기사 및 의견이 많아 정치 및 경제 분야의 마케팅 전략을 수립해야 함",
-      "action": "마케팅 전략 수립",
+      "insight": "AI와 기술의 발전이 산업의 변화를 가져올 수 있습니다.",
+      "action": "AI와 기술의 발전을 주목하고, 산업의 변화를 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 관련된 기술 및 제품에 대한 관심이 많아 AI 관련 제품 및 서비스를 개발해야 함",
-      "action": "제품 개발",
+      "insight": "정치와 사회의 동향이 기업들의 실적에 영향을 줄 수 있습니다.",
+      "action": "정치와 사회의 동향을 주목하고, 기업들의 실적에 영향을 줄 수 있는 요인을 분석해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제와 산업의 동향이 기업들의 전략에 영향을 줄 수 있습니다.",
+      "action": "경제와 산업의 동향을 주목하고, 기업들의 전략을 수립해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 정치 및 경제 관련 기사 및 의견이 많아 정치 및 경제 분야의 마케팅 전략을 수립해야 함. 또한, AI와 관련된 기술 및 제품에 대한 관심이 많아 AI 관련 제품 및 서비스를 개발해야 함. 중립적인 감정으로 전체적인 분위기는 중립적임.",
-  "analyzed_at": "2026-07-28T21:00:34.221Z",
+  "narrative": "最近のオンラインコミュニティのトレンドを分析した結果、AIと技術、政治と社会、経済と産業が主要なトピックであることがわかりました。AIと技術の進歩が産業の変化をもたらす可能性があり、政治と社会の動向が企業の業績に影響を与える可能性があります。経済と産業の動向が企業の戦略に影響を与える可能性があります。したがって、企業はこれらのトピックを注目し、戦略を立てる必要があります。",
+  "analyzed_at": "2026-07-28T22:30:34.336Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
