@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "김민석 대표와 민주당 전당대회, 보완수사권 폐지 법안이 논의되고 있습니다.",
-      "post_count": 10,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 관련 뉴스와 기술 개발이 활발히 진행되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "最近의 정치 뉴스와 논란",
+      "post_count": 12,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "삼성전자와 애플의 OLED 패널 개발, 카카오모빌리티의 자율주행 서비스 등이 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "기술 산업",
+      "summary": "최신 기술 산업 동향",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김민석",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "민주당 대표와 관련된 논의"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 개발과 혁신"
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "삼성전자",
-      "count": 3,
-      "sentiment": "neutral",
-      "context": "OLED 패널 개발"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "最近의 정치 뉴스와 논란"
+    },
+    {
+      "keyword": "기술",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "최신 기술 산업 동향"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "negative": 25,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술 개발",
-      "action": "투자와 연구 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 동향",
-      "action": "시장 분석과 전략 수립",
+      "insight": "정치적 논란은 소비자의 구매 결정에 영향을 미칠 수 있다.",
+      "action": "정치적 논란에 대한 대응 전략 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "기술 산업은 지속적인 성장과 발전을 예상할 수 있다.",
+      "action": "기술 산업에 대한 투자와 연구 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 정치와 AI 기술 개발이 주요 관심사로 나타났습니다. 김민석 대표와 민주당 전당대회, 보완수사권 폐지 법안 등이 논의되고 있습니다. 또한, AI 관련 뉴스와 기술 개발이 활발히 진행되고 있습니다. 경제 동향도 중요한 관심사로, 삼성전자와 애플의 OLED 패널 개발, 카카오모빌리티의 자율주행 서비스 등이 논의되고 있습니다. 이러한 분석 결과를 바탕으로, 기업과 기관은 AI 기술 개발과 경제 동향을 주시하며, 시장 분석과 전략 수립을 통해 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-07-28T15:01:22.041Z",
+  "narrative": "最近의 온라인 커뮤니티 트렌드는 AI 기술, 정치, 기술 산업 등 다양한 주제를 다루고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 정치적 논란은 소비자의 구매 결정에 영향을 미칠 수 있다. 기술 산업은 지속적인 성장과 발전을 예상할 수 있다. 이러한 트렌드에 대한 분석과 이해는 비즈니스 전략 개발과 마케팅에 중요한 역할을 할 수 있다.",
+  "analyzed_at": "2026-07-28T16:30:35.362Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
