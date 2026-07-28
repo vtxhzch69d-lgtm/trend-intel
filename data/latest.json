@@ -1,60 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 및 기술",
-      "summary": "반도체 관련 뉴스와 기술 발전이 클리앙 커뮤니티에서 주목을 받고 있습니다. 특히, 삼성과 애플의 최신 제품과 기술 경쟁이 चर목적을 이루고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련된 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 특히, 보완수사권 폐지와 관련된 뉴스가 큰 관심을 받고 있습니다.",
+      "topic": "정치",
+      "summary": "이재명 연임과 관련된 기사 및 의견이 많음",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "AI와 관련된 기술 및 제품에 대한 기사 및 의견이 많음",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "주식 및 경제 관련 기사 및 의견이 많음",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "반도체",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "기술과 산업 관련된 키워드"
-    },
-    {
-      "keyword": "삼성",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "기업과 기술 관련된 키워드"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "이재명",
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치와 사회 관련된 키워드"
+      "context": "정치 관련 기사 및 의견"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술 및 제품 관련 기사 및 의견"
+    },
+    {
+      "keyword": "주식",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 관련 기사 및 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적이고 정보 중심적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "반도체 기술은 계속 발전하고 있습니다.",
-      "action": "최신 기술 동향을 주시하고, 관련된 제품과 서비스를 개발하는 것을 고려해야 합니다.",
+      "insight": "정치 및 경제 관련 기사 및 의견이 많아 정치 및 경제 분야의 마케팅 전략을 수립해야 함",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회 관련된 주제가 많은 관심을 받고 있습니다.",
-      "action": "관련된 뉴스와 논제를 주시하고, 기업의 사회적 책임을 강화하는 것을 고려해야 합니다.",
+      "insight": "AI와 관련된 기술 및 제품에 대한 관심이 많아 AI 관련 제품 및 서비스를 개발해야 함",
+      "action": "제품 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 반도체 및 기술 관련된 주제가 많은 관심을 받고 있습니다. 특히, 삼성과 애플의 최신 제품과 기술 경쟁이 चर목적을 이루고 있습니다. 또한, 정치와 사회 관련된 주제도 많이 논의되고 있습니다. 이러한 주제들은 중립적이고 정보 중심적인 분위기를 형성하고 있습니다. 따라서, 기업은 최신 기술 동향을 주시하고, 관련된 제품과 서비스를 개발하는 것을 고려해야 합니다. 또한, 관련된 뉴스와 논제를 주시하고, 기업의 사회적 책임을 강화하는 것을 고려해야 합니다.",
-  "analyzed_at": "2026-07-28T19:30:34.263Z",
+  "narrative": "최근의 트렌드에 따르면, 정치 및 경제 관련 기사 및 의견이 많아 정치 및 경제 분야의 마케팅 전략을 수립해야 함. 또한, AI와 관련된 기술 및 제품에 대한 관심이 많아 AI 관련 제품 및 서비스를 개발해야 함. 중립적인 감정으로 전체적인 분위기는 중립적임.",
+  "analyzed_at": "2026-07-28T21:00:34.221Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
