@@ -1,67 +1,60 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 사회적 영향",
+      "topic": "반도체 및 기술",
+      "summary": "반도체 관련 뉴스와 기술 발전이 클리앙 커뮤니티에서 주목을 받고 있습니다. 특히, 삼성과 애플의 최신 제품과 기술 경쟁이 चर목적을 이루고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업의 동향과 기술 발전",
-      "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회 문제",
-      "summary": "정치 및 사회 문제에 대한 논의",
-      "post_count": 12,
-      "sentiment": "negative",
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련된 주제가 클리앙 커뮤니티에서 많이 논의되고 있습니다. 특히, 보완수사권 폐지와 관련된 뉴스가 큰 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "반도체",
       "count": 20,
       "sentiment": "neutral",
-      "context": "AI 기술의 발전"
+      "context": "기술과 산업 관련된 키워드"
     },
     {
-      "keyword": "반도체",
-      "count": 10,
+      "keyword": "삼성",
+      "count": 15,
       "sentiment": "positive",
-      "context": "반도체 산업의 동향"
+      "context": "기업과 기술 관련된 키워드"
     },
     {
       "keyword": "정치",
-      "count": 15,
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치 및 사회 문제"
+      "context": "정치와 사회 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "복합적인 기분"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적이고 정보 중심적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다",
-      "action": "AI 기술의 발전을 주시하고 그에 따른 기회를 찾는다",
+      "insight": "반도체 기술은 계속 발전하고 있습니다.",
+      "action": "최신 기술 동향을 주시하고, 관련된 제품과 서비스를 개발하는 것을 고려해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업은 기술 발전과 함께 성장할 수 있다",
-      "action": "반도체 산업의 동향을 주시하고 투자 기회를 찾는다",
+      "insight": "정치와 사회 관련된 주제가 많은 관심을 받고 있습니다.",
+      "action": "관련된 뉴스와 논제를 주시하고, 기업의 사회적 책임을 강화하는 것을 고려해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술과 반도체 산업이 주목을 받고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 반도체 산업은 기술 발전과 함께 성장할 수 있다. 그러나 정치 및 사회 문제에 대한 논의도 활발하게 진행되고 있다. 이러한 트렌드에 주목하여 기회를 찾고, 그에 따른 도전을 준비해야 한다. 또한, 정치 및 사회 문제에 대한 논의는 사회적 안정과 발전에 중요한 역할을 할 수 있다. 따라서 이러한 트렌드에 주목하고, 그에 따른 기회와 도전을 준비하는 것이 중요하다.",
-  "analyzed_at": "2026-07-28T18:00:34.296Z",
+  "narrative": "클리앙 커뮤니티에서는 반도체 및 기술 관련된 주제가 많은 관심을 받고 있습니다. 특히, 삼성과 애플의 최신 제품과 기술 경쟁이 चर목적을 이루고 있습니다. 또한, 정치와 사회 관련된 주제도 많이 논의되고 있습니다. 이러한 주제들은 중립적이고 정보 중심적인 분위기를 형성하고 있습니다. 따라서, 기업은 최신 기술 동향을 주시하고, 관련된 제품과 서비스를 개발하는 것을 고려해야 합니다. 또한, 관련된 뉴스와 논제를 주시하고, 기업의 사회적 책임을 강화하는 것을 고려해야 합니다.",
+  "analyzed_at": "2026-07-28T19:30:34.263Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
