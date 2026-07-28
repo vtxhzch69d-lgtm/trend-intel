@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
+      "topic": "경제 및 주식",
+      "summary": "코스닥 처참하고, 삼전닉스 폭등, 양도세 10억 기사 등 경제 및 주식 관련 게시물이 많습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
-    },
-    {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 뉴스와 분석",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 뉴스와 분석",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "summary": "정상화는 도대체 누구의 기준으로 정해지는 걸까요, 향후 대통령 지지율 부정적으로 전망하는 이유 등 정치 관련 게시물이 많습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 AI",
+      "summary": "AI 관련 게시물이 많습니다. KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립, 애플, 엔비디아 제치고 시총 1위 탈환 등",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 뉴스와 분석"
-    },
-    {
-      "keyword": "정치",
+      "keyword": "코스닥",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 뉴스와 분석"
+      "context": "코스닥 처참하네요."
+    },
+    {
+      "keyword": "삼전",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "삼전닉스 폭등"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 게시물이 많지만, AI 관련 게시물은 긍정적인 감정을 보입니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
-      "action": "AI 기술의 발전을 주시하고 산업의 변화를 준비한다",
+      "insight": "경제 및 주식 관련 게시물이 많습니다. 투자자들이 주식 시장에 관심을 가지고 있는 것으로 보입니다.",
+      "action": "주식 시장에 대한 분석을 제공하고, 투자자들에게 정보를 제공하는 서비스를 개발할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 뉴스는 중립적인 시각에서 분석해야 한다",
-      "action": "경제 및 금융 뉴스를 중립적인 시각에서 분석한다",
+      "insight": "AI 관련 게시물이 많습니다. 기술 분야에서 AI가 중요한 역할을 하고 있는 것으로 보입니다.",
+      "action": "AI 관련 기술을 개발하고, 서비스를 제공하는 회사와 협력할 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 뉴스는 부정적인 시각에서 분석될 수 있다",
-      "action": "정치 뉴스를 부정적인 시각에서 분석한다",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 산업의 변화가 주목을 받고 있다. 또한, 경제 및 금융 뉴스와 분석이 중립적인 시각에서 이루어지고 있으며, 정치 뉴스는 부정적인 시각에서 분석될 수 있다. 이러한 분석 결과를 바탕으로, 산업의 변화를 준비하고 중립적인 시각에서 뉴스를 분석하는 것이 중요하다. 또한, 부정적인 시각에서 정치 뉴스를 분석하는 것도 필요하다.",
-  "analyzed_at": "2026-07-28T00:00:34.126Z",
+  "narrative": "최근의 트렌드는 경제 및 주식, 정치, 기술 및 AI 관련 게시물이 많습니다. 특히, 코스닥 처참하고, 삼전닉스 폭등, 양도세 10억 기사 등 경제 및 주식 관련 게시물이 많습니다. 또한, KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립, 애플, 엔비디아 제치고 시총 1위 탈환 등 AI 관련 게시물이 많습니다. 이러한 트렌드를 분석하여, 주식 시장에 대한 분석을 제공하고, 투자자들에게 정보를 제공하는 서비스를 개발할 수 있습니다. 또한, AI 관련 기술을 개발하고, 서비스를 제공하는 회사와 협력할 수 있습니다.",
+  "analyzed_at": "2026-07-28T01:30:34.283Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
