@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI와 가상인물 보호법",
-      "summary": "AI 가상인물 보호법에 대한 논의와 규제에 관한 게시글이 많습니다. 일부 사용자는 법안의 필요성을 강조하며, 다른 사용자는 과도한 규제라고 반대합니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "주식과 경제",
-      "summary": "주식 투자와 경제 관련 게시글이 많습니다. 사용자들은 주식 투자 전략과 경제 뉴스에 대한 의견을 공유합니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치와 사회",
-      "summary": "정치와 사회 관련 게시글이 많습니다. 사용자들은 정치 뉴스와 사회 문제에 대한 의견을 공유합니다.",
-      "post_count": 12,
+      "topic": "일본 구마모토 지진",
+      "summary": "일본 구마모토 지진이 발생하여 많은 피해가 보고되고 있습니다. 구마모토 쇼핑몰에서 20~30명이 생사 불명 상태입니다.",
+      "post_count": 3,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "에어프라이어",
+      "summary": "에어프라이어를 사용하여 과자를 먹으면 맛이 좋다고 합니다. 에어프라이어의 사용법과 추천 레시피가 चर्च되고 있습니다.",
+      "post_count": 2,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치권에서 다양한 이슈가 논란이 되고 있습니다. 검열 규제, 성폭력 처벌법 개정안 등이 चर्च되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술과 가상인물 보호법에 관한 논의"
+      "keyword": "구마모토 지진",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "일본 구마모토 지진의 피해와 관련된 게시물"
     },
     {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "주식 투자와 경제 뉴스"
+      "keyword": "에어프라이어",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "에어프라이어의 사용법과 추천 레시피"
     },
     {
       "keyword": "정치",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "정치 뉴스와 사회 문제"
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치권에서 다양한 이슈가 논란이 되는 게시물"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
     "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적이며 약간 부정적인 분위기"
+    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술과 가상인물 보호법에 관한 논의가 증가하고 있습니다.",
-      "action": "AI 기술과 관련된 법적 규제에 대한 연구와 준비가 필요합니다.",
+      "insight": "일본 구마모토 지진의 피해가 기업에 미치는 영향",
+      "action": "일본 지진의 피해를 최소화하기 위한 대책을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 투자와 경제 뉴스에 대한 관심이 높습니다.",
-      "action": "주식 투자와 경제 뉴스에 대한 정보와 분석을 제공하여 사용자들의 관심을 끌 수 있습니다.",
+      "insight": "에어프라이어의 인기",
+      "action": "에어프라이어의 사용법과 추천 레시피를 제공하여 고객의 만족도를 높여야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "정치권의 이슈",
+      "action": "정치권의 이슈를 주시하고 대응해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술과 가상인물 보호법에 관한 논의가 증가하고 있습니다. 일부 사용자는 법안의 필요성을 강조하며, 다른 사용자는 과도한 규제라고 반대합니다. 또한 주식 투자와 경제 뉴스에 대한 관심이 높습니다. 사용자들은 주식 투자 전략과 경제 뉴스에 대한 의견을 공유합니다. 정치와 사회 관련 게시글도 많습니다. 사용자들은 정치 뉴스와 사회 문제에 대한 의견을 공유합니다. 전체적으로 중립적이며 약간 부정적인 분위기입니다. AI 기술과 관련된 법적 규제에 대한 연구와 준비가 필요하며, 주식 투자와 경제 뉴스에 대한 정보와 분석을 제공하여 사용자들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-07-28T12:00:38.671Z",
+  "narrative": "최근 일본 구마모토 지진이 발생하여 많은 피해가 보고되고 있습니다. 구마모토 쇼핑몰에서 20~30명이 생사 불명 상태입니다. 또한, 에어프라이어의 사용법과 추천 레시피가 चर्च되고 있습니다. 정치권에서도 다양한 이슈가 논란이 되고 있습니다. 이러한 이슈를 주시하고 대응하여 고객의 만족도를 높여야 합니다. 또한, 일본 지진의 피해를 최소화하기 위한 대책을 마련해야 합니다.",
+  "analyzed_at": "2026-07-28T13:30:34.580Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
