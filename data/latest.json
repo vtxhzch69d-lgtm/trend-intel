@@ -2,67 +2,67 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "코스피는 아직 6천이지만 체감은 2천인 듯 하네요. 주식 시장의 상황을 논의하는 게시글이 많습니다.",
-      "post_count": 15,
+      "summary": "코스닥 8%대 급락에 700선마저 이탈…1년 3개월만에 최저치 기록",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스 및 논의가 활발합니다. 애플, 엔비디아 제치고 시총 1위 탈환…'AI 과잉투자 피한 승자' 등이 대표적입니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "국회의장 연임 논란, 대통령 해외순방 중인데 국회의장이라는게...",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 논의가 있습니다. 이재명대통령 나라가 난리인데 해외에서 쇼좀 안했으면 등의 게시글이 있습니다.",
+      "topic": "AI 기술",
+      "summary": "카카오, 경량 언어모델 4종 오픈소스로 공개... “글로벌 수준 성능”",
       "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
-      "count": 20,
+      "count": 15,
       "sentiment": "negative",
-      "context": "주식 시장의 상황을 논의하는 게시글에서 자주 등장합니다."
+      "context": "코스닥 급락 관련 게시물"
+    },
+    {
+      "keyword": "국회의장",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "연임 논란 관련 게시물"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스 및 논의에서 자주 등장합니다."
-    },
-    {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치와 관련된 논의에서 자주 등장합니다."
+      "context": "신기술 개발 및 적용 관련 게시물"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정이 대부분입니다."
+    "neutral": 50,
+    "overall_mood": "부정적인 감정의 게시물이 다수 존재"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상황을 주의 깊게 관찰해야 합니다.",
-      "action": "주식 투자 전략을 재검토해야 합니다.",
+      "insight": "주식 시장의 불안정성",
+      "action": "투자 전략 재검토",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전을 주목해야 합니다.",
-      "action": "AI 기술을 활용한 비즈니스 모델을 개발해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "신기술 개발 및 적용 투자",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 온라인 커뮤니티 트렌드는 주식 시장의 상황과 AI 기술의 발전을 중심으로 형성되고 있습니다. 주식 시장의 상황은 부정적인 감정을 자극하고 있으며, 투자자들은 주의 깊게 관찰해야 합니다. 반면, AI 기술의 발전은 긍정적인 감정을 자극하고 있으며, 비즈니스 모델을 개발하기 위한 기회를 제공하고 있습니다. 또한, 정치와 관련된 논의도 활발하게 진행되고 있습니다. 이러한 트렌드를 고려하여 비즈니스 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-07-28T04:30:34.488Z",
-  "post_count": 62,
+  "narrative": "최근 클리앙 커뮤니티의 게시물은 주식 시장의 불안정성과 정치적인 논란을 중심으로 회전하고 있습니다. 특히 코스닥의 급락과 국회의장의 연임 논란이 많은 관심을 받고 있습니다. 또한 AI 기술의 발전과 관련된 게시물도 다수 존재합니다. 이러한 트렌드에 따라 사업 전략을 재검토하고 신기술 개발 및 적용에 투자하는 것이 필요해 보입니다.",
+  "analyzed_at": "2026-07-28T06:00:34.148Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
