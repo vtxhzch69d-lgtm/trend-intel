@@ -1,25 +1,25 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스닥 8%대 급락에 700선마저 이탈…1년 3개월만에 최저치 기록",
-      "post_count": 10,
+      "topic": "경제 및 정치",
+      "summary": "실물경제 물가가 심각하고, 정권재창출이 쉬워보이며, 주식시장 붕괴 등 경제 및 정치 관련 주제가 인기입니다.",
+      "post_count": 20,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "국회의장 연임 논란, 대통령 해외순방 중인데 국회의장이라는게...",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "기술 및 과학",
+      "summary": "최신 기술 및 과학 관련 뉴스와 제품 출시 등이 인기입니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "카카오, 경량 언어모델 4종 오픈소스로 공개... “글로벌 수준 성능”",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "주식 및 금융",
+      "summary": "주식시장 붕괴와 관련된 주제가 인기입니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,42 +27,42 @@
       "keyword": "주식",
       "count": 15,
       "sentiment": "negative",
-      "context": "코스닥 급락 관련 게시물"
+      "context": "주식시장 붕괴와 관련된 키워드입니다."
     },
     {
-      "keyword": "국회의장",
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "실물경제 물가와 관련된 키워드입니다."
+    },
+    {
+      "keyword": "정치",
       "count": 8,
       "sentiment": "mixed",
-      "context": "연임 논란 관련 게시물"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "신기술 개발 및 적용 관련 게시물"
+      "context": "정권재창출과 관련된 키워드입니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 30,
-    "neutral": 50,
-    "overall_mood": "부정적인 감정의 게시물이 다수 존재"
+    "neutral": 20,
+    "overall_mood": "부정적인 감정으로 가득 찬 마켓입니다."
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "투자 전략 재검토",
+      "insight": "주식시장 붕괴와 관련된 뉴스를 주시하여 투자 전략을 조정해야 합니다.",
+      "action": "투자 전략 조정",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "신기술 개발 및 적용 투자",
+      "insight": "경제 및 정치 관련 뉴스를 주시하여 시장 동향을 파악해야 합니다.",
+      "action": "시장 동향 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 게시물은 주식 시장의 불안정성과 정치적인 논란을 중심으로 회전하고 있습니다. 특히 코스닥의 급락과 국회의장의 연임 논란이 많은 관심을 받고 있습니다. 또한 AI 기술의 발전과 관련된 게시물도 다수 존재합니다. 이러한 트렌드에 따라 사업 전략을 재검토하고 신기술 개발 및 적용에 투자하는 것이 필요해 보입니다.",
-  "analyzed_at": "2026-07-28T06:00:34.148Z",
-  "post_count": 61,
+  "narrative": "현재 마켓은 주식시장 붕괴와 경제 및 정치 관련 뉴스로 가득 차 있습니다. 이러한 뉴스들은 투자자와 기업에게 큰 영향을 미치므로, 주시하여 투자 전략을 조정하고 시장 동향을 파악해야 합니다. 또한, 기술 및 과학 관련 뉴스와 제품 출시 등도 주목할 만합니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립하고, 기업의 성장을 도모할 수 있습니다.",
+  "analyzed_at": "2026-07-28T07:30:33.831Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
