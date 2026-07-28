@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "일본 구마모토 지진",
-      "summary": "일본 구마모토 지진이 발생하여 많은 피해가 보고되고 있습니다. 구마모토 쇼핑몰에서 20~30명이 생사 불명 상태입니다.",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "김민석 대표와 민주당 전당대회, 보완수사권 폐지 법안이 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "에어프라이어",
-      "summary": "에어프라이어를 사용하여 과자를 먹으면 맛이 좋다고 합니다. 에어프라이어의 사용법과 추천 레시피가 चर्च되고 있습니다.",
-      "post_count": 2,
+      "topic": "AI 기술",
+      "summary": "AI 관련 뉴스와 기술 개발이 활발히 진행되고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치권에서 다양한 이슈가 논란이 되고 있습니다. 검열 규제, 성폭력 처벌법 개정안 등이 चर्च되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "경제",
+      "summary": "삼성전자와 애플의 OLED 패널 개발, 카카오모빌리티의 자율주행 서비스 등이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "구마모토 지진",
+      "keyword": "김민석",
       "count": 5,
       "sentiment": "negative",
-      "context": "일본 구마모토 지진의 피해와 관련된 게시물"
+      "context": "민주당 대표와 관련된 논의"
     },
     {
-      "keyword": "에어프라이어",
-      "count": 3,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "에어프라이어의 사용법과 추천 레시피"
+      "context": "기술 개발과 혁신"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치권에서 다양한 이슈가 논란이 되는 게시물"
+      "keyword": "삼성전자",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "OLED 패널 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "일본 구마모토 지진의 피해가 기업에 미치는 영향",
-      "action": "일본 지진의 피해를 최소화하기 위한 대책을 마련해야 합니다.",
+      "insight": "AI 기술 개발",
+      "action": "투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "에어프라이어의 인기",
-      "action": "에어프라이어의 사용법과 추천 레시피를 제공하여 고객의 만족도를 높여야 합니다.",
+      "insight": "경제 동향",
+      "action": "시장 분석과 전략 수립",
       "priority": "medium"
-    },
-    {
-      "insight": "정치권의 이슈",
-      "action": "정치권의 이슈를 주시하고 대응해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 일본 구마모토 지진이 발생하여 많은 피해가 보고되고 있습니다. 구마모토 쇼핑몰에서 20~30명이 생사 불명 상태입니다. 또한, 에어프라이어의 사용법과 추천 레시피가 चर्च되고 있습니다. 정치권에서도 다양한 이슈가 논란이 되고 있습니다. 이러한 이슈를 주시하고 대응하여 고객의 만족도를 높여야 합니다. 또한, 일본 지진의 피해를 최소화하기 위한 대책을 마련해야 합니다.",
-  "analyzed_at": "2026-07-28T13:30:34.580Z",
+  "narrative": "최근 클리앙 커뮤니티의 인기 게시글을 분석한 결과, 정치와 AI 기술 개발이 주요 관심사로 나타났습니다. 김민석 대표와 민주당 전당대회, 보완수사권 폐지 법안 등이 논의되고 있습니다. 또한, AI 관련 뉴스와 기술 개발이 활발히 진행되고 있습니다. 경제 동향도 중요한 관심사로, 삼성전자와 애플의 OLED 패널 개발, 카카오모빌리티의 자율주행 서비스 등이 논의되고 있습니다. 이러한 분석 결과를 바탕으로, 기업과 기관은 AI 기술 개발과 경제 동향을 주시하며, 시장 분석과 전략 수립을 통해 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-07-28T15:01:22.041Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
