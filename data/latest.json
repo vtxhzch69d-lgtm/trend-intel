@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "실물경제 물가가 심각하고, 정권재창출이 쉬워보이며, 주식시장 붕괴 등 경제 및 정치 관련 주제가 인기입니다.",
-      "post_count": 20,
+      "topic": "구마모토 지진",
+      "summary": "일본 구마모토에서 발생한 지진으로 인해 TSMC 공장이 운영을 중단하고 직원들이 대피 중이다. 이 지진은 한국에도 영향을 미칠 수 있어 주목된다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 관련 뉴스와 제품 출시 등이 인기입니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "레버리지 대책",
+      "summary": "레버리지 대책에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다. 일부 사용자들은 레버리지가 하락의 원인이 아니라고 주장한다.",
+      "post_count": 4,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "주식 및 금융",
-      "summary": "주식시장 붕괴와 관련된 주제가 인기입니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "AI 기술",
+      "summary": "KAIST와 엔비디아가 함께 피지컬 AI 테크놀로지센터를 설립했다. 이 센터는 인간의 움직임을 이해하는 기술을 개발할 예정이다.",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
+      "keyword": "구마모토 지진",
+      "count": 7,
       "sentiment": "negative",
-      "context": "주식시장 붕괴와 관련된 키워드입니다."
+      "context": "일본 구마모토에서 발생한 지진"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "실물경제 물가와 관련된 키워드입니다."
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
+      "keyword": "레버리지",
+      "count": 5,
       "sentiment": "mixed",
-      "context": "정권재창출과 관련된 키워드입니다."
+      "context": "레버리지 대책에 대한 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "KAIST와 엔비디아의 피지컬 AI 테크놀로지센터"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 30,
+    "negative": 15,
     "neutral": 20,
-    "overall_mood": "부정적인 감정으로 가득 찬 마켓입니다."
+    "overall_mood": "중립적인 감정"
   },
   "business_insights": [
     {
-      "insight": "주식시장 붕괴와 관련된 뉴스를 주시하여 투자 전략을 조정해야 합니다.",
-      "action": "투자 전략 조정",
+      "insight": "구마모토 지진으로 인한 공급망 영향",
+      "action": "공급망 다각화",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스를 주시하여 시장 동향을 파악해야 합니다.",
-      "action": "시장 동향 분석",
+      "insight": "레버리지 대책에 대한 논의",
+      "action": "레버리지 대책에 대한 연구",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술에 대한 투자",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 마켓은 주식시장 붕괴와 경제 및 정치 관련 뉴스로 가득 차 있습니다. 이러한 뉴스들은 투자자와 기업에게 큰 영향을 미치므로, 주시하여 투자 전략을 조정하고 시장 동향을 파악해야 합니다. 또한, 기술 및 과학 관련 뉴스와 제품 출시 등도 주목할 만합니다. 이러한 트렌드와 키워드를 분석하여 마케팅 전략을 수립하고, 기업의 성장을 도모할 수 있습니다.",
-  "analyzed_at": "2026-07-28T07:30:33.831Z",
+  "narrative": "클리앙 커뮤니티에서 구마모토 지진과 레버리지 대책에 대한 논의가 활발하게 진행되고 있다. 또한, KAIST와 엔비디아의 피지컬 AI 테크놀로지센터 설립에 대한 소식도 주목된다. 이러한 트렌드와 인사이트를 통해 사업적 의사결정을 내릴 수 있을 것이다.",
+  "analyzed_at": "2026-07-28T09:00:34.287Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
