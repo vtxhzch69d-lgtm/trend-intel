@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 주식",
-      "summary": "코스닥 처참하고, 삼전닉스 폭등, 양도세 10억 기사 등 경제 및 주식 관련 게시물이 많습니다.",
+      "topic": "주식 시장",
+      "summary": "코스피와 코스닥 지수가 하락하고 있으며, 주식 투자자들이 손실을 보는 중이다. 정부의 경제 정책이 비판을 받고 있다.",
       "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정상화는 도대체 누구의 기준으로 정해지는 걸까요, 향후 대통령 지지율 부정적으로 전망하는 이유 등 정치 관련 게시물이 많습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 AI",
-      "summary": "AI 관련 게시물이 많습니다. KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립, 애플, 엔비디아 제치고 시총 1위 탈환 등",
+      "topic": "AI 기술",
+      "summary": "AI 기술이 발전하고 있으며, 다양한 산업에서 적용되고 있다. 애플, 삼성전자, 엔비디아 등이 AI 기술을 개발하고 있다.",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제 정책",
+      "summary": "정부의 경제 정책이 비판을 받고 있다. 일부 사용자들은 정부의 정책이 경제를 악화시켰다고 주장한다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스닥",
-      "count": 5,
+      "keyword": "주식",
+      "count": 20,
       "sentiment": "negative",
-      "context": "코스닥 처참하네요."
-    },
-    {
-      "keyword": "삼전",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "삼전닉스 폭등"
+      "context": "주식 투자자들이 손실을 보는 중이다."
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립"
+      "context": "AI 기술이 발전하고 있다."
+    },
+    {
+      "keyword": "경제",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "정부의 경제 정책이 비판을 받고 있다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
+    "negative": 30,
     "neutral": 10,
-    "overall_mood": "부정적인 감정의 게시물이 많지만, AI 관련 게시물은 긍정적인 감정을 보입니다."
+    "overall_mood": "부정적인 감정으로 가득 차 있다."
   },
   "business_insights": [
     {
-      "insight": "경제 및 주식 관련 게시물이 많습니다. 투자자들이 주식 시장에 관심을 가지고 있는 것으로 보입니다.",
-      "action": "주식 시장에 대한 분석을 제공하고, 투자자들에게 정보를 제공하는 서비스를 개발할 수 있습니다.",
+      "insight": "주식 시장의 불안정성이 계속될 수 있다.",
+      "action": "투자자들에게 주식 투자에 대한 교육과 정보를 제공한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 관련 게시물이 많습니다. 기술 분야에서 AI가 중요한 역할을 하고 있는 것으로 보입니다.",
-      "action": "AI 관련 기술을 개발하고, 서비스를 제공하는 회사와 협력할 수 있습니다.",
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술을 개발하고 적용하는 회사에 투자한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "정부의 경제 정책이 경제를 악화시킬 수 있다.",
+      "action": "정부의 경제 정책을 비판하고 대안을 제시한다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 경제 및 주식, 정치, 기술 및 AI 관련 게시물이 많습니다. 특히, 코스닥 처참하고, 삼전닉스 폭등, 양도세 10억 기사 등 경제 및 주식 관련 게시물이 많습니다. 또한, KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립, 애플, 엔비디아 제치고 시총 1위 탈환 등 AI 관련 게시물이 많습니다. 이러한 트렌드를 분석하여, 주식 시장에 대한 분석을 제공하고, 투자자들에게 정보를 제공하는 서비스를 개발할 수 있습니다. 또한, AI 관련 기술을 개발하고, 서비스를 제공하는 회사와 협력할 수 있습니다.",
-  "analyzed_at": "2026-07-28T01:30:34.283Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장의 불안정성과 정부의 경제 정책이 사용자들의 관심을 끌고 있다. 또한, AI 기술의 발전이 다양한 산업에 영향을 미칠 수 있다. 이러한 트렌드에 따라, 투자자들에게 주식 투자에 대한 교육과 정보를 제공하고, AI 기술을 개발하고 적용하는 회사에 투자하는 것이 중요할 수 있다. 또한, 정부의 경제 정책을 비판하고 대안을 제시하는 것이 필요하다.",
+  "analyzed_at": "2026-07-28T03:01:29.071Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
