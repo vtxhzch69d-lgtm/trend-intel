@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령에 대한 의견과 정치 현안에 대한 토론",
-      "post_count": 15,
+      "topic": "AI와 가상인물 보호법",
+      "summary": "AI 가상인물 보호법에 대한 논의와 규제에 관한 게시글이 많습니다. 일부 사용자는 법안의 필요성을 강조하며, 다른 사용자는 과도한 규제라고 반대합니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식",
-      "summary": "주식 시장의 상황과 투자 전략에 대한 토론",
-      "post_count": 10,
+      "topic": "주식과 경제",
+      "summary": "주식 투자와 경제 관련 게시글이 많습니다. 사용자들은 주식 투자 전략과 경제 뉴스에 대한 의견을 공유합니다.",
+      "post_count": 15,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 발전에 대한 토론",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치와 사회",
+      "summary": "정치와 사회 관련 게시글이 많습니다. 사용자들은 정치 뉴스와 사회 문제에 대한 의견을 공유합니다.",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "대통령에 대한 의견"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술과 가상인물 보호법에 관한 논의"
     },
     {
       "keyword": "주식",
-      "count": 8,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "투자 전략"
+      "context": "주식 투자와 경제 뉴스"
     },
     {
-      "keyword": "기술",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "정치 뉴스와 사회 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 10,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적이며 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치적 불안정성이 경제에 미치는 영향",
-      "action": "정치적 위험을 고려한 투자 전략 수립",
+      "insight": "AI 기술과 가상인물 보호법에 관한 논의가 증가하고 있습니다.",
+      "action": "AI 기술과 관련된 법적 규제에 대한 연구와 준비가 필요합니다.",
       "priority": "high"
     },
     {
-      "insight": "기술 발전의 기회와 도전",
-      "action": "최신 기술 트렌드에 대한 연구와 투자",
+      "insight": "주식 투자와 경제 뉴스에 대한 관심이 높습니다.",
+      "action": "주식 투자와 경제 뉴스에 대한 정보와 분석을 제공하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치적 상황과 경제적 불안정성이 주식 시장에 미치는 영향에 대한 토론이 활발히 진행되고 있습니다. 또한, 최신 기술 뉴스와 발전에 대한 관심도 높아지고 있습니다. 이러한 상황에서 기업들은 정치적 위험을 고려한 투자 전략을 수립하고, 최신 기술 트렌드에 대한 연구와 투자를 통해 기회를 찾는 것이 중요합니다.",
-  "analyzed_at": "2026-07-28T10:30:33.896Z",
+  "narrative": "최근 클리앙 커뮤니티에서 AI 기술과 가상인물 보호법에 관한 논의가 증가하고 있습니다. 일부 사용자는 법안의 필요성을 강조하며, 다른 사용자는 과도한 규제라고 반대합니다. 또한 주식 투자와 경제 뉴스에 대한 관심이 높습니다. 사용자들은 주식 투자 전략과 경제 뉴스에 대한 의견을 공유합니다. 정치와 사회 관련 게시글도 많습니다. 사용자들은 정치 뉴스와 사회 문제에 대한 의견을 공유합니다. 전체적으로 중립적이며 약간 부정적인 분위기입니다. AI 기술과 관련된 법적 규제에 대한 연구와 준비가 필요하며, 주식 투자와 경제 뉴스에 대한 정보와 분석을 제공하여 사용자들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-07-28T12:00:38.671Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
