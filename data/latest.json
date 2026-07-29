@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "레버리지/인버스 폐지안과 주식 시장의 급락",
-      "post_count": 15,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "이재명 대통령과 정부의 정책에 대한 논의",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "당대표 투표와 정치 현안",
+      "topic": "주식",
+      "summary": "삼전닉스와 쿠팡플레이에 대한 투자 논의",
       "post_count": 5,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "AI와 기술 관련 뉴스",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "summary": "AI와 반도체 기술에 대한 논의",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "레버리지",
-      "count": 10,
+      "keyword": "이재명",
+      "count": 5,
       "sentiment": "negative",
-      "context": "주식 시장과 관련된 키워드"
+      "context": "대통령에 대한 비판"
     },
     {
-      "keyword": "인버스",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "주식 시장과 관련된 키워드"
+      "keyword": "삼전닉스",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "주식 투자"
     },
     {
       "keyword": "AI",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "기술 관련 키워드"
+      "count": 4,
+      "sentiment": "positive",
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정으로 주도되는 트렌드"
+    "positive": 15,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "투자 전략 재평가",
+      "insight": "정치와 경제는 밀접한 관련이 있다",
+      "action": "정치적 리스크를 고려한 투자 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "기술의 발전",
-      "action": "신기술에 대한 투자 증가",
+      "insight": "AI와 반도체 기술은 미래의 핵심 산업이다",
+      "action": "관련 기술에 대한 투자와 연구 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적 불안정성",
-      "action": "정치적 리스크 관리",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 주식 시장의 불안정성과 정치적 불안정성으로 특징지어지며, 기술의 발전은 중립적인 감정을 보이고 있습니다. 주식 시장의 급락과 레버리지/인버스 폐지안은 많은 게시글에서 논의되고 있으며, 정치적 현안도 일부 게시글에서 다루어지고 있습니다. 기술 관련 뉴스는 중립적인 감정을 보이며, AI와 관련된 키워드가 일부 게시글에서 등장하고 있습니다. 이러한 트렌드는 투자 전략의 재평가와 신기술에 대한 투자 증가를 필요로 하며, 정치적 리스크 관리도 중요합니다.",
-  "analyzed_at": "2026-07-29T13:30:34.018Z",
+  "narrative": "최근의 정치적 상황과 경제적 동향은 밀접한 관련이 있다. 이재명 대통령과 정부의 정책에 대한 논의는 많은 사람들의 관심을 끌고 있다. 또한, 삼전닉스와 쿠팡플레이에 대한 투자 논의도 활발하다. 기술적으로는 AI와 반도체 기술에 대한 논의가 많다. 이러한 상황을 고려하여, 정치적 리스크를 고려한 투자 전략을 수립하고, 관련 기술에 대한 투자와 연구 개발을 진행하는 것이 중요하다.",
+  "analyzed_at": "2026-07-29T15:00:34.750Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
