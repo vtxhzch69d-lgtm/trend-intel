@@ -1,72 +1,60 @@
 {
   "trending_topics": [
     {
-      "topic": "주식/코인 시장",
-      "summary": "최근 5년간 주식/코인 시장의 동향과 전망에 대한讨論",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "부동산 시장",
-      "summary": "서울 중저가 아파트의 가격 동향과 주택 보유세에 대한 논의",
-      "post_count": 8,
+      "topic": "주식 시장",
+      "summary": "클리앙 커뮤니티에서 주식 시장에 대한 논의가 활발히 진행되고 있습니다. 주식 투자와 관련된 다양한 주제들이 논의되고 있습니다.",
+      "post_count": 20,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI의 발전과 이를 활용한 다양한 산업의 동향",
-      "post_count": 12,
-      "sentiment": "positive",
+      "topic": "정부와 정치",
+      "summary": "클리앙 커뮤니티에서 정부와 정치에 대한 논의가 진행되고 있습니다. 대통령과 정부에 대한 신뢰가 무너졌다는 의견이 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "주식 시장의 동향과 전망"
-    },
-    {
-      "keyword": "부동산",
-      "count": 10,
+      "count": 25,
       "sentiment": "negative",
-      "context": "서울 중저가 아파트의 가격 동향"
+      "context": "주식 투자와 관련된 논의"
     },
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI의 발전과 이를 활용한 다양한 산업"
+      "keyword": "정부",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정부와 정치에 대한 논의"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제와 관련된 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 5,
     "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적인 분위기"
+    "neutral": 10,
+    "overall_mood": "부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "주식/코인 시장의 동향을 주시하여 투자 전략을 수립해야 한다",
-      "action": "주식/코인 시장의 동향을 분석하고 투자 전략을 수립한다",
+      "insight": "주식 시장의 불안정성",
+      "action": "투자 전략의 재평가",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 가격 동향을 주시하여 투자 전략을 수립해야 한다",
-      "action": "부동산 시장의 가격 동향을 분석하고 투자 전략을 수립한다",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전을 주시하여 새로운 비즈니스 기회를 발굴해야 한다",
-      "action": "AI 기술의 발전을 분석하고 새로운 비즈니스 기회를 발굴한다",
+      "insight": "정부와 정치에 대한 불신",
+      "action": "정부와 정치에 대한 관심 증가",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식/코인 시장과 부동산 시장의 동향이 주목을 끌고 있습니다. 또한, AI 기술의 발전이 새로운 비즈니스 기회를 창출하고 있습니다. 이러한 트렌드에 대한 분석과 전략 수립이 필요합니다. 또한, 부동산 시장의 가격 동향과 주택 보유세에 대한 논의가 필요합니다. 마지막으로, AI 기술의 발전을 주시하여 새로운 비즈니스 기회를 발굴해야 합니다.",
-  "analyzed_at": "2026-07-29T01:30:33.845Z",
+  "narrative": "클리앙 커뮤니티에서 주식 시장과 정부, 정치에 대한 논의가 활발히 진행되고 있습니다. 주식 투자와 관련된 다양한 주제들이 논의되고 있습니다. 그러나 정부와 정치에 대한 신뢰가 무너졌다는 의견이 있습니다. 이러한 상황에서 기업과 정부는 투자자와 시민들의 불안정성을 줄이기 위해 노력해야 합니다. 또한, 주식 시장의 불안정성과 정부, 정치에 대한 불신을 고려하여 투자 전략을 재평가하고, 정부와 정치에 대한 관심을 높여야 합니다.",
+  "analyzed_at": "2026-07-29T03:00:36.069Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
