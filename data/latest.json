@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "경제 및 금융",
-      "summary": "금리 동결, 야선 상승세, 애플 주가 오름 등 경제 및 금융 관련 주제가 인기",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "당대표 후보자 토론회, 정부 정책, 대통령 관련 주제가 인기",
+      "summary": "코스피 5000 아래로는 절대 안 내려가겠죠?와 같은 주식 및 경제 관련 게시글이 많습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI, 반도체, 스마트폰, 자율주행 등 기술 및 과학 관련 주제가 인기",
+      "topic": "정치",
+      "summary": "이재명 정부에 대한 평가와 지방선거 패배에 대한 책임에 대한 게시글이 많습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 산업",
+      "summary": "AI와 관련된 기술 및 산업에 대한 게시글이 많습니다.",
       "post_count": 12,
       "sentiment": "positive",
       "urgency": "medium"
@@ -24,44 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 ứng dụng"
-    },
-    {
-      "keyword": "금리",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "금리 동결과 경제 영향"
+      "sentiment": "negative",
+      "context": "이재명 정부에 대한 평가"
     },
     {
-      "keyword": "애플",
-      "count": 4,
+      "keyword": "코스피",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "주식 시장의 상황"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "애플 주가 오름과 기술 발전"
+      "context": "기술 및 산업의 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 경제와 산업에 큰 영향을 미칠 수 있다",
-      "action": "AI 기술의 발전을 주시하고 ứng용을 연구한다",
+      "insight": "경제 및 금융 관련 게시글이 많아 경제에 대한 관심이 높습니다.",
+      "action": "경제 및 금융 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "금리 동결은 경제에 긍정적인 영향을 미칠 수 있다",
-      "action": "금리 동결의 경제 영향에 주시한다",
+      "insight": "AI와 관련된 기술 및 산업에 대한 게시글이 많아 기술에 대한 관심이 높습니다.",
+      "action": "AI와 관련된 기술 및 산업에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 인기 주제는 경제 및 금융, 정치, 기술 및 과학 등이다. AI 기술의 발전과 금리 동결은 경제와 산업에 큰 영향을 미칠 수 있다. 애플 주가 오름과 기술 발전도 주목할 만하다. 중립적인 기조를 유지하면서도 긍정적인 요소도 존재한다. AI 기술의 발전과 응용을 연구하고 금리 동결의 경제 영향에 주시하는 것이 중요하다.",
-  "analyzed_at": "2026-07-29T19:30:34.214Z",
+  "narrative": "最近의 트렌드에 따르면, 경제 및 금융, 정치, 기술 및 산업에 대한 관심이 높습니다. 특히, 이재명 정부에 대한 평가와 지방선거 패배에 대한 책임, 코스피의 상황, AI와 관련된 기술 및 산업에 대한 게시글이 많습니다. 이러한 트렌드를 고려하여, 경제 및 금융 관련 콘텐츠를 제공하여 관심을 끌 수 있습니다. 또한, AI와 관련된 기술 및 산업에 대한 콘텐츠를 제공하여 관심을 끌 수 있습니다. 이러한 콘텐츠를 제공함으로써, 사용자의 관심을 끌고, 사용자의 니즈를 충족시킬 수 있습니다.",
+  "analyzed_at": "2026-07-29T21:00:34.348Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
