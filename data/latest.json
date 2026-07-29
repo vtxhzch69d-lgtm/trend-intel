@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "주식 시장의 변동성과 투자 전략에 대한 관심이 높아지고 있습니다. 투자자들은 시장의 추세를 분석하고, 올바른 투자 결정을 내리기 위해 노력하고 있습니다.",
+      "summary": "레버리지/인버스 폐지안과 주식 시장의 급락",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제와 정치에 대한 관심이 높아지고 있습니다. 정부의 정책과 경제 동향에 대한 논의가 활발하게 진행되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "당대표 투표와 정치 현안",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "기술과 산업에 대한 관심이 높아지고 있습니다. 새로운 기술의 개발과 산업의 동향에 대한 논의가 활발하게 진행되고 있습니다.",
+      "topic": "기술",
+      "summary": "AI와 기술 관련 뉴스",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 25,
-      "sentiment": "neutral",
-      "context": "주식 시장의 변동성과 투자 전략"
-    },
-    {
-      "keyword": "경제",
-      "count": 20,
+      "keyword": "레버리지",
+      "count": 10,
       "sentiment": "negative",
-      "context": "경제와 정치에 대한 관심"
+      "context": "주식 시장과 관련된 키워드"
     },
     {
-      "keyword": "기술",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "기술과 산업에 대한 관심"
+      "keyword": "인버스",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "주식 시장과 관련된 키워드"
+    },
+    {
+      "keyword": "AI",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "기술 관련 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 5,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정으로 주도되는 트렌드"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 변동성에 대한 관심이 높아지고 있습니다.",
-      "action": "투자 전략을 재평가하고, 시장의 추세를 분석하여 올바른 투자 결정을 내리기 위한 전략을 수립해야 합니다.",
+      "insight": "주식 시장의 불안정성",
+      "action": "투자 전략 재평가",
       "priority": "high"
     },
     {
-      "insight": "경제와 정치에 대한 관심이 높아지고 있습니다.",
-      "action": "정부의 정책과 경제 동향을 분석하여 비즈니스 전략을 수립해야 합니다.",
+      "insight": "기술의 발전",
+      "action": "신기술에 대한 투자 증가",
       "priority": "medium"
     },
     {
-      "insight": "기술과 산업에 대한 관심이 높아지고 있습니다.",
-      "action": "新的 기술의 개발과 산업의 동향을 분석하여 비즈니스 기회를 발굴해야 합니다.",
+      "insight": "정치적 불안정성",
+      "action": "정치적 리스크 관리",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 주식 시장의 변동성과 투자 전략, 경제와 정치, 기술과 산업에 대한 관심이 높아지고 있습니다. 투자자들은 시장의 추세를 분석하고, 올바른 투자 결정을 내리기 위해 노력하고 있습니다. 정부의 정책과 경제 동향을 분석하여 비즈니스 전략을 수립해야 합니다. 또한 새로운 기술의 개발과 산업의 동향을 분석하여 비즈니스 기회를 발굴해야 합니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립하고, 시장의 추세를 분석하여 올바른 투자 결정을 내리면 성공할 수 있을 것입니다.",
-  "analyzed_at": "2026-07-29T12:00:34.438Z",
+  "narrative": "현재의 트렌드는 주식 시장의 불안정성과 정치적 불안정성으로 특징지어지며, 기술의 발전은 중립적인 감정을 보이고 있습니다. 주식 시장의 급락과 레버리지/인버스 폐지안은 많은 게시글에서 논의되고 있으며, 정치적 현안도 일부 게시글에서 다루어지고 있습니다. 기술 관련 뉴스는 중립적인 감정을 보이며, AI와 관련된 키워드가 일부 게시글에서 등장하고 있습니다. 이러한 트렌드는 투자 전략의 재평가와 신기술에 대한 투자 증가를 필요로 하며, 정치적 리스크 관리도 중요합니다.",
+  "analyzed_at": "2026-07-29T13:30:34.018Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
