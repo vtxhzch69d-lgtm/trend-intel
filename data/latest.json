@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련된 게시글이 많아졌습니다. 특히 당대표 후보자 토론회와 관련된 게시글이 많은 관심을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "경제 및 금융",
+      "summary": "금리 동결, 야선 상승세, 애플 주가 오름 등 경제 및 금융 관련 주제가 인기",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 관련된 기술과 뉴스가 많이 등장하고 있습니다. 특히 AI의 발전과 그에 따른 사회적 영향에 대한 게시글이 많습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련된 뉴스와 게시글이 많아졌습니다. 특히 레버리지 상황과 관련된 게시글이 많은 관심을 받고 있습니다.",
-      "post_count": 6,
+      "topic": "정치",
+      "summary": "당대표 후보자 토론회, 정부 정책, 대통령 관련 주제가 인기",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "AI, 반도체, 스마트폰, 자율주행 등 기술 및 과학 관련 주제가 인기",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 사회적 영향"
+      "context": "AI 기술의 발전과 ứng dụng"
     },
     {
-      "keyword": "정치",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "당대표 후보자 토론회와 관련된 게시글"
+      "keyword": "금리",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "금리 동결과 경제 영향"
     },
     {
-      "keyword": "레버리지",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "레버리지 상황과 관련된 게시글"
+      "keyword": "애플",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "애플 주가 오름과 기술 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 사회적으로 많은 영향을 미칠 것입니다.",
-      "action": "AI 기술의 발전을 주시하고 그에 따른 사회적影響을 분석해야 합니다.",
+      "insight": "AI 기술의 발전은 경제와 산업에 큰 영향을 미칠 수 있다",
+      "action": "AI 기술의 발전을 주시하고 ứng용을 연구한다",
       "priority": "high"
     },
     {
-      "insight": "레버리지 상황이 경제적으로 많은 영향을 미칠 것입니다.",
-      "action": "레버리지 상황을 주시하고 그에 따른 경제적 영향을 분석해야 합니다.",
-      "priority": "high"
+      "insight": "금리 동결은 경제에 긍정적인 영향을 미칠 수 있다",
+      "action": "금리 동결의 경제 영향에 주시한다",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 정치, AI, 경제 관련된 게시글이 많아졌습니다. 특히 당대표 후보자 토론회와 관련된 게시글이 많은 관심을 받고 있습니다. AI 기술의 발전과 그에 따른 사회적 영향에 대한 게시글도 많습니다. 레버리지 상황과 관련된 게시글도 많은 관심을 받고 있습니다. 이러한 트렌드와 키워드를 분석하여 사업 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-07-29T18:00:34.163Z",
+  "narrative": "최근의 인기 주제는 경제 및 금융, 정치, 기술 및 과학 등이다. AI 기술의 발전과 금리 동결은 경제와 산업에 큰 영향을 미칠 수 있다. 애플 주가 오름과 기술 발전도 주목할 만하다. 중립적인 기조를 유지하면서도 긍정적인 요소도 존재한다. AI 기술의 발전과 응용을 연구하고 금리 동결의 경제 영향에 주시하는 것이 중요하다.",
+  "analyzed_at": "2026-07-29T19:30:34.214Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
