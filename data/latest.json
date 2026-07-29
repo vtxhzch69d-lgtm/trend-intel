@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "현재 주식 시장의 상황과 정부의 대책에 대한 논의",
-      "post_count": 20,
+      "summary": "주식 시장의 상황과 전망에 대한 논의가 활발합니다. 투자자들의 우려와 불안정성이 증가하고 있습니다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "반도체 산업의 동향과 기술 개발에 대한 소식",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "경제 정책",
+      "summary": "정부의 경제 정책과 세금에 대한 논의가 진행 중입니다. 시민들의 불만과 우려가 표출되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 다양한 산업에서의 적용",
-      "post_count": 8,
+      "topic": "기술 발전",
+      "summary": "최신 기술 발전과 관련된 뉴스와 논의가 있습니다. AI, 로봇, 전기차 등 다양한 주제가 포함됩니다.",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
-      "count": 25,
+      "count": 20,
       "sentiment": "negative",
-      "context": "주식 시장의 상황"
+      "context": "주식 시장의 상황과 전망"
     },
     {
-      "keyword": "반도체",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "반도체 산업의 동향"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정부의 경제 정책과 세금"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "최신 기술 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 15,
-    "negative": 25,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정의 비중이 높음"
+    "negative": 20,
+    "neutral": 10,
+    "overall_mood": "우려와 불안정성이 증가"
   },
   "business_insights": [
     {
       "insight": "주식 시장의 불안정성",
-      "action": "투자 전략의 재검토",
+      "action": "투자자들에게 주의와 준비를 권고",
       "priority": "high"
     },
     {
-      "insight": "반도체 산업의 성장",
-      "action": "반도체 산업에 대한 투자",
+      "insight": "경제 정책의 효과",
+      "action": "정부의 경제 정책을 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술의 활용",
-      "priority": "medium"
+      "insight": "기술 발전의 기회",
+      "action": "최신 기술을 연구하고 투자",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 주식 시장은 불안정한 상황이 지속되고 있으며, 정부의 대책에 대한 논의가 활발히 진행되고 있다. 반도체 산업은 성장세를 보이고 있으며, AI 기술의 발전은 다양한 산업에서 활용되고 있다. 이러한 상황에서 기업들은 주식 시장의 불안정성에 대비하여 투자 전략을 재검토하고, 반도체 산업과 AI 기술에 대한 투자와 활용을 고려해야 한다.",
-  "analyzed_at": "2026-07-29T04:30:33.600Z",
+  "narrative": "현재 주식 시장의 상황과 전망에 대한 논의가 활발합니다. 투자자들의 우려와 불안정성이 증가하고 있습니다. 정부의 경제 정책과 세금에 대한 논의도 진행 중입니다. 시민들의 불만과 우려가 표출되고 있습니다. 최신 기술 발전과 관련된 뉴스와 논의도 있습니다. AI, 로봇, 전기차 등 다양한 주제가 포함됩니다. 이러한 상황에서 기업과 투자자들은 주의와 준비를 해야 합니다. 또한, 정부의 경제 정책을 모니터링하고 최신 기술을 연구하고 투자해야 합니다.",
+  "analyzed_at": "2026-07-29T06:00:37.619Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
