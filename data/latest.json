@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 및 경제",
-      "summary": "하이닉스 실적이 전망을 하회했으며, 부동산 가격이 잡아야 한다는 의견이 많다.",
-      "post_count": 15,
+      "topic": "주식/코인 시장",
+      "summary": "최근 5년간 주식/코인 시장의 동향과 전망에 대한讨論",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부동산 시장",
+      "summary": "서울 중저가 아파트의 가격 동향과 주택 보유세에 대한 논의",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목을 받고 있다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI의 발전과 이를 활용한 다양한 산업의 동향",
+      "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "정부의 정책과 대통령의 지지율이 논란이 되고 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "하이닉스",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "하이닉스 실적이 전망을 하회했다."
-    },
-    {
-      "keyword": "AI",
+      "keyword": "주식",
       "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전이 주목을 받고 있다."
+      "sentiment": "neutral",
+      "context": "주식 시장의 동향과 전망"
     },
     {
       "keyword": "부동산",
-      "count": 8,
+      "count": 10,
       "sentiment": "negative",
-      "context": "부동산 가격이 잡아야 한다는 의견이 많다."
+      "context": "서울 중저가 아파트의 가격 동향"
+    },
+    {
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI의 발전과 이를 활용한 다양한 산업"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 30,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정이 조금 더 강하다."
+    "positive": 30,
+    "negative": 25,
+    "neutral": 45,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "하이닉스 실적이 전망을 하회했다.",
-      "action": "하이닉스 주식을 매도하는 것을 고려해 보아야 한다.",
+      "insight": "주식/코인 시장의 동향을 주시하여 투자 전략을 수립해야 한다",
+      "action": "주식/코인 시장의 동향을 분석하고 투자 전략을 수립한다",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 주목을 받고 있다.",
-      "action": "AI 기술을 활용한 산업에 투자하는 것을 고려해 보아야 한다.",
+      "insight": "부동산 시장의 가격 동향을 주시하여 투자 전략을 수립해야 한다",
+      "action": "부동산 시장의 가격 동향을 분석하고 투자 전략을 수립한다",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전을 주시하여 새로운 비즈니스 기회를 발굴해야 한다",
+      "action": "AI 기술의 발전을 분석하고 새로운 비즈니스 기회를 발굴한다",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 주식 및 경제, AI 및 기술, 정치 및 사회 등 다양한 분야에서 형성되고 있다. 하이닉스 실적이 전망을 하회했고, 부동산 가격이 잡아야 한다는 의견이 많다. 또한, AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목을 받고 있다. 이러한 트렌드를 분석하여, 하이닉스 주식을 매도하는 것을 고려해 보아야 하며, AI 기술을 활용한 산업에 투자하는 것을 고려해 보아야 한다.",
-  "analyzed_at": "2026-07-29T00:00:34.187Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식/코인 시장과 부동산 시장의 동향이 주목을 끌고 있습니다. 또한, AI 기술의 발전이 새로운 비즈니스 기회를 창출하고 있습니다. 이러한 트렌드에 대한 분석과 전략 수립이 필요합니다. 또한, 부동산 시장의 가격 동향과 주택 보유세에 대한 논의가 필요합니다. 마지막으로, AI 기술의 발전을 주시하여 새로운 비즈니스 기회를 발굴해야 합니다.",
+  "analyzed_at": "2026-07-29T01:30:33.845Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
