@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련된 주제가 많은 관심을 받고 있습니다. 특히, AI의 발전과 그에 따른 산업의 변화가 주목을 받고 있습니다.",
+      "topic": "주식 및 경제",
+      "summary": "하이닉스 실적이 전망을 하회했으며, 부동산 가격이 잡아야 한다는 의견이 많다.",
       "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치와 사회",
-      "summary": "정치와 사회 관련된 주제가 많은 논의를 불러일으키고 있습니다. 특히, 정치인들의 발언과 행동이 주목을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제와 산업",
-      "summary": "경제와 산업 관련된 주제가 많은 관심을 받고 있습니다. 특히, 기업들의 실적과 산업의 동향이 주목을 받고 있습니다.",
-      "post_count": 8,
+      "topic": "AI 및 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목을 받고 있다.",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정부의 정책과 대통령의 지지율이 논란이 되고 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI의 발전과 그에 따른 산업의 변화"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치인들의 발언과 행동"
-    },
-    {
-      "keyword": "경제",
+      "keyword": "하이닉스",
       "count": 10,
+      "sentiment": "negative",
+      "context": "하이닉스 실적이 전망을 하회했다."
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "positive",
-      "context": "기업들의 실적과 산업의 동향"
+      "context": "AI 기술의 발전이 주목을 받고 있다."
+    },
+    {
+      "keyword": "부동산",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "부동산 가격이 잡아야 한다는 의견이 많다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정이 조금 더 강하다."
   },
   "business_insights": [
     {
-      "insight": "AI와 기술의 발전이 산업의 변화를 가져올 수 있습니다.",
-      "action": "AI와 기술의 발전을 주목하고, 산업의 변화를 준비해야 합니다.",
+      "insight": "하이닉스 실적이 전망을 하회했다.",
+      "action": "하이닉스 주식을 매도하는 것을 고려해 보아야 한다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회의 동향이 기업들의 실적에 영향을 줄 수 있습니다.",
-      "action": "정치와 사회의 동향을 주목하고, 기업들의 실적에 영향을 줄 수 있는 요인을 분석해야 합니다.",
+      "insight": "AI 기술의 발전이 주목을 받고 있다.",
+      "action": "AI 기술을 활용한 산업에 투자하는 것을 고려해 보아야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제와 산업의 동향이 기업들의 전략에 영향을 줄 수 있습니다.",
-      "action": "경제와 산업의 동향을 주목하고, 기업들의 전략을 수립해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "最近のオンラインコミュニティのトレンドを分析した結果、AIと技術、政治と社会、経済と産業が主要なトピックであることがわかりました。AIと技術の進歩が産業の変化をもたらす可能性があり、政治と社会の動向が企業の業績に影響を与える可能性があります。経済と産業の動向が企業の戦略に影響を与える可能性があります。したがって、企業はこれらのトピックを注目し、戦略を立てる必要があります。",
-  "analyzed_at": "2026-07-28T22:30:34.336Z",
+  "narrative": "현재의 트렌드는 주식 및 경제, AI 및 기술, 정치 및 사회 등 다양한 분야에서 형성되고 있다. 하이닉스 실적이 전망을 하회했고, 부동산 가격이 잡아야 한다는 의견이 많다. 또한, AI 기술의 발전과 이를 활용한 다양한 산업의 발전이 주목을 받고 있다. 이러한 트렌드를 분석하여, 하이닉스 주식을 매도하는 것을 고려해 보아야 하며, AI 기술을 활용한 산업에 투자하는 것을 고려해 보아야 한다.",
+  "analyzed_at": "2026-07-29T00:00:34.187Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
