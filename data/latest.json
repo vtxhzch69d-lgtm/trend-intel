@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "레버리지 후폭풍",
-      "summary": "레버리지 후폭풍으로 인한 시장 불안정성과 정부의 대책 마련 필요성",
-      "post_count": 10,
+      "topic": "경제 및 정치",
+      "summary": "최근의 경제 및 정치 관련 뉴스와 정책에 대한 논의가 활발합니다. 레버리지, 부동산 감독원, 청와대 외압 등이 주요 주제입니다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "주식 및 금융",
+      "summary": "주식 시장과 금융 관련 뉴스에 대한 관심이 집중되고 있습니다. 삼전, 현대차, KF-21 등이 주요 주제입니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "코스피 및 나스닥 수익",
-      "summary": "코스피 및 나스닥의 수익률과 투자 전략",
+      "topic": "AI 및 기술",
+      "summary": "AI와 기술 관련 뉴스에 대한 관심이 증가하고 있습니다. 오픈AI, 챗GPT, 메모리 대란 등이 주요 주제입니다.",
       "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "low"
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "레버리지",
-      "count": 20,
+      "count": 5,
       "sentiment": "negative",
-      "context": "레버리지 후폭풍으로 인한 시장 불안정성"
+      "context": "레버리지에 대한 논의가 활발합니다."
+    },
+    {
+      "keyword": "부동산",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "부동산 관련 뉴스와 정책에 대한 관심이 집중되고 있습니다."
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장"
-    },
-    {
-      "keyword": "코스피",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "코스피의 수익률과 투자 전략"
+      "context": "AI와 관련된 기술 뉴스에 대한 관심이 증가하고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
+    "positive": 20,
+    "negative": 30,
     "neutral": 20,
-    "overall_mood": "부정적인 감정과 긍정적인 감정이 혼재"
+    "overall_mood": "부정적인 감정으로 치우쳐 있습니다."
   },
   "business_insights": [
     {
-      "insight": "레버리지 후폭풍으로 인한 시장 불안정성",
-      "action": "정부의 대책 마련 필요성",
+      "insight": "레버리지와 부동산 관련 정책에 대한 관심이 집중되고 있습니다.",
+      "action": "관련 정책과 뉴스를 주시하여 대응해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 산업 투자",
+      "insight": "AI와 기술 관련 뉴스에 대한 관심이 증가하고 있습니다.",
+      "action": "관련 기술과 뉴스를 주시하여 기회를 찾아야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "코스피 및 나스닥의 수익률",
-      "action": "투자 전략 수립",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 레버리지 후폭풍과 관련된 게시글이 많이 올라왔습니다. 이는 레버리지 후폭풍으로 인한 시장 불안정성과 정부의 대책 마련 필요성을 보여줍니다. 또한, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 코스피 및 나스닥의 수익률과 투자 전략도 중요한 주제로 떠올랐습니다. 이러한 트렌드와 감정을 분석하여, 기업과 투자자는 시장의 변화를 예측하고 대응할 수 있습니다.",
-  "analyzed_at": "2026-07-29T09:00:34.206Z",
-  "post_count": 61,
+  "narrative": "최근의 경제 및 정치 관련 뉴스와 정책에 대한 논의가 활발합니다. 레버리지, 부동산 감독원, 청와대 외압 등이 주요 주제입니다. 또한, 주식 시장과 금융 관련 뉴스에 대한 관심이 집중되고 있습니다. 삼전, 현대차, KF-21 등이 주요 주제입니다. AI와 기술 관련 뉴스에 대한 관심도 증가하고 있습니다. 오픈AI, 챗GPT, 메모리 대란 등이 주요 주제입니다. 이러한 트렌드에 따라 관련 정책과 뉴스를 주시하여 대응하고, 기회를 찾아야 합니다.",
+  "analyzed_at": "2026-07-29T10:30:34.675Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
