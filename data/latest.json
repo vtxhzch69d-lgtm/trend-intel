@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "현재 주식 시장의 상황과 투자자들의 반응이 주목을 받고 있다. 많은 사람들이 주식에 대한 관심을 보이고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "레버리지 후폭풍",
+      "summary": "레버리지 후폭풍으로 인한 시장 불안정성과 정부의 대책 마련 필요성",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 제품 출시가 주목을 받고 있다. 특히 AI와 관련된 기술이 많은 관심을 받고 있다.",
-      "post_count": 20,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 상황",
-      "summary": "현재 경제 상황과 정부의 정책이 주목을 받고 있다. 많은 사람들이 경제 상황에 대한 우려를 보이고 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "코스피 및 나스닥 수익",
+      "summary": "코스피 및 나스닥의 수익률과 투자 전략",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 25,
-      "sentiment": "mixed",
-      "context": "주식 시장과 투자에 대한 관심"
+      "keyword": "레버리지",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "레버리지 후폭풍으로 인한 시장 불안정성"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 25,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 제품 출시"
+      "context": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "현재 경제 상황과 정부의 정책"
+      "keyword": "코스피",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "코스피의 수익률과 투자 전략"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 25,
     "neutral": 20,
-    "overall_mood": "복합적인 감정"
+    "overall_mood": "부정적인 감정과 긍정적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상황을 주시하고 투자 전략을 조정할 필요가 있다.",
-      "action": "투자 전략 조정",
+      "insight": "레버리지 후폭풍으로 인한 시장 불안정성",
+      "action": "정부의 대책 마련 필요성",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 출시를 주시하고 새로운 기회를 찾을 필요가 있다.",
-      "action": "기술 뉴스 모니터링",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 산업 투자",
       "priority": "medium"
     },
     {
-      "insight": "현재 경제 상황과 정부의 정책을 주시하고 비즈니스 전략을 조정할 필요가 있다.",
-      "action": "경제 상황 모니터링",
-      "priority": "high"
+      "insight": "코스피 및 나스닥의 수익률",
+      "action": "투자 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 주식 시장의 상황과 투자자들의 반응이 주목을 받고 있다. 많은 사람들이 주식에 대한 관심을 보이고 있다. 또한 최신 기술 뉴스와 제품 출시가 주목을 받고 있다. 특히 AI와 관련된 기술이 많은 관심을 받고 있다. 그러나 현재 경제 상황과 정부의 정책이 우려를 불러일으키고 있다. 따라서 비즈니스 전략을 조정하고 새로운 기회를 찾는 것이 중요하다.",
-  "analyzed_at": "2026-07-29T07:30:34.294Z",
-  "post_count": 62,
+  "narrative": "최근 클리앙 커뮤니티에서 레버리지 후폭풍과 관련된 게시글이 많이 올라왔습니다. 이는 레버리지 후폭풍으로 인한 시장 불안정성과 정부의 대책 마련 필요성을 보여줍니다. 또한, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 코스피 및 나스닥의 수익률과 투자 전략도 중요한 주제로 떠올랐습니다. 이러한 트렌드와 감정을 분석하여, 기업과 투자자는 시장의 변화를 예측하고 대응할 수 있습니다.",
+  "analyzed_at": "2026-07-29T09:00:34.206Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
