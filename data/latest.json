@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련된 게시글이 많습니다. 유시민 작가 방송 후 삭제 요청한 내용과 임오경의 헛소리 등 다양한 정치 관련된 주제가 обсужд되고 있습니다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상승과 하락에 대한 논의가 활발하게 진행되고 있습니다. 투자자들은 주식 시장의 동향을 주시하고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련된 게시글이 많습니다. 주식, 코스닥, Kospi200 등 다양한 경제 관련된 주제가 обсужд되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "테크 뉴스",
+      "summary": "최신 테크 뉴스에 대한 논의가 진행되고 있습니다. 새로운 기술과 제품에 대한 관심이 높습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련된 게시글이 많습니다. AI, OLED, 리지드 OLED 등 다양한 기술 관련된 주제가 обсужд되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 논제에 대한 논의가 진행되고 있습니다. 정치적 이슈에 대한 관심이 높습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "유시민",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "유시민 작가 방송 후 삭제 요청한 내용"
-    },
-    {
-      "keyword": "임오경",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "임오경의 헛소리"
-    },
-    {
       "keyword": "주식",
-      "count": 5,
+      "count": 20,
       "sentiment": "neutral",
-      "context": "주식 관련된 게시글"
+      "context": "주식 시장에 대한 논의"
+    },
+    {
+      "keyword": "테크",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "최신 테크 뉴스에 대한 논의"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 논제에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련된 게시글이 많기 때문에 정치 관련된 마케팅 전략을 수립할 필요가 있습니다.",
-      "action": "정치 관련된 마케팅 전략 수립",
+      "insight": "주식 시장의 동향을 주시하여 투자 전략을 수립할 필요가 있습니다.",
+      "action": "주식 시장 분석",
       "priority": "high"
     },
     {
-      "insight": "경제 관련된 게시글이 많기 때문에 경제 관련된 마케팅 전략을 수립할 필요가 있습니다.",
-      "action": "경제 관련된 마케팅 전략 수립",
+      "insight": "최신 테크 뉴스를 통해 새로운 기술과 제품에 대한 정보를 얻을 수 있습니다.",
+      "action": "테크 뉴스 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "정치적 이슈에 대한 관심이 높으므로 관련 뉴스를 주시할 필요가 있습니다.",
+      "action": "정치 뉴스 모니터링",
+      "priority": "high"
     }
   ],
-  "narrative": "정치와 경제 관련된 게시글이 많습니다. 정치 관련된 마케팅 전략을 수립하고 경제 관련된 마케팅 전략을 수립할 필요가 있습니다. 기술 관련된 게시글도 많기 때문에 기술 관련된 마케팅 전략을 수립할 필요가 있습니다. 중립적인 마케팅 전략을 수립하여 다양한 고객을 대상으로 할 필요가 있습니다.",
-  "analyzed_at": "2026-07-30T13:30:35.353Z",
+  "narrative": "현재 주식 시장의 상승과 하락에 대한 논의가 활발하게 진행되고 있습니다. 투자자들은 주식 시장의 동향을 주시하고 있습니다. 또한, 최신 테크 뉴스에 대한 논의가 진행되고 있으며 새로운 기술과 제품에 대한 관심이 높습니다. 정치 관련 뉴스와 논제에 대한 논의도 진행되고 있으며 정치적 이슈에 대한 관심이 높습니다. 이러한 동향을 통해 사업 전략을 수립하고 시장의 기회를 포착할 수 있습니다.",
+  "analyzed_at": "2026-07-30T15:01:27.725Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
