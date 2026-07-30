@@ -1,24 +1,24 @@
 {
   "trending_topics": [
     {
-      "topic": "한국 주식시장",
-      "summary": "최근 한 달 사이 코스피에서 2800조가 증발했다는 뉴스와 관련된 주제입니다. 주식시장의 상황과 관련된 다양한 의견이 있습니다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 최근 동향과 전망에 대한 논의",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 그 응용에 대한 관심",
+      "post_count": 8,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "스파이더맨",
-      "summary": "스파이더맨 영화에 대한 리뷰와 감상평이 많은 주제입니다. 영화의 내용과 관련된 다양한 의견이 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
-      "topic": "이재명 정부",
-      "summary": "이재명 정부의 정책과 관련된 주제입니다. 정부의 정책과 관련된 다양한 의견이 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "경제 정책",
+      "summary": "정부의 경제 정책과 그 영향에 대한 토론",
+      "post_count": 6,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
@@ -26,47 +26,47 @@
     {
       "keyword": "주식",
       "count": 15,
-      "sentiment": "negative",
-      "context": "한국 주식시장의 상황과 관련된 키워드입니다."
+      "sentiment": "neutral",
+      "context": "주식 시장의 동향과 전망"
     },
     {
-      "keyword": "스파이더맨",
-      "count": 5,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "스파이더맨 영화에 대한 키워드입니다."
+      "context": "최신 AI 기술과 그 응용"
     },
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "이재명 정부의 정책과 관련된 키워드입니다."
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "정부의 경제 정책과 그 영향"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적인 분위기입니다."
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "한국 주식시장의 상황을 주시해야 합니다.",
-      "action": "주식시장의 동향을 분석하고 대응해야 합니다.",
+      "insight": "주식 시장의 불안정성",
+      "action": "투자 전략의 조정",
       "priority": "high"
     },
     {
-      "insight": "스파이더맨 영화의 인기를 활용해야 합니다.",
-      "action": "스파이더맨 영화와 관련된 마케팅을 진행해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "최신 기술의 적용",
       "priority": "medium"
     },
     {
-      "insight": "이재명 정부의 정책을 주시해야 합니다.",
-      "action": "정부의 정책을 분석하고 대응해야 합니다.",
+      "insight": "정부의 경제 정책",
+      "action": "정책의 분석과 대응",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 한국 온라인 커뮤니티에서 주식시장의 상황과 스파이더맨 영화, 이재명 정부의 정책이 주목을 받고 있습니다. 주식시장의 상황은 부정적인 분위기이고, 스파이더맨 영화는 긍정적인 반응을 보이고 있습니다. 이재명 정부의 정책은 중립적인 분위기입니다. 이러한 주제와 키워드를 분석하고 대응하는 것이 중요합니다. 또한, 한국 주식시장의 상황을 주시하고 스파이더맨 영화의 인기와 이재명 정부의 정책을 활용하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-30T16:31:26.571Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 주식 시장, AI 기술, 경제 정책 등 다양한 주제에 대한 관심과 논의를 보여주고 있다. 주식 시장의 동향과 전망, 최신 AI 기술과 그 응용, 정부의 경제 정책과 그 영향 등에 대한 토론이 활발하게 진행되고 있다. 이러한 트렌드의 분석을 통해 사업적 인사이트를 얻고, 적절한 전략을 수립할 수 있을 것이다.",
+  "analyzed_at": "2026-07-30T18:00:33.946Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
