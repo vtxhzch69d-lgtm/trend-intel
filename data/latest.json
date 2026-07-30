@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "주식 시장의 최근 동향과 전망에 대한 게시글이 많습니다. 미장과 코스피의 수익율과 반등에 대한 분석이 주를 이루고 있습니다.",
+      "summary": "주식 시장의 변동성과 투자 전략에 대한 논의가 활발하다. 투자심리가 죽어버렸다는 의견도 있지만, 일부 투자자들은 여전히 주식 시장에 대한 낙관적인 전망을 가지고 있다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 AI",
-      "summary": "최신 기술과 AI 관련된 게시글이 많습니다. 구글의 제미나이 스파크와 딥페이크 방지법에 대한 소송 등이 포함됩니다.",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융 관련된 게시글이 많습니다. GDP 성장률과 연기금의 비중이슈 등이 포함됩니다.",
+      "topic": "애플과 삼성전자",
+      "summary": "애플과 삼성전자의 최근 실적과 전략에 대한 논의가 있다. 애플의 실적 발표와 삼성전자의 평택 LNG 발전소 수소로 전환 계획이 주목을 받고 있다.",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 기술에 대한 논의가 활발하다. 오픈AI의 챗GPT 출시와 구글의 음악 생성 모델 리리아 3.5 출시가 주목을 받고 있다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     }
   ],
@@ -26,42 +26,47 @@
     {
       "keyword": "주식",
       "count": 20,
-      "sentiment": "mixed",
-      "context": "주식 시장의 최근 동향과 전망"
+      "sentiment": "neutral",
+      "context": "주식 시장의 변동성과 투자 전략"
+    },
+    {
+      "keyword": "애플",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "애플의 최근 실적과 전략"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술과 AI 관련된 게시글"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "경제와 금융 관련된 게시글"
+      "context": "AI와 기술의 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정과 혼합된 감정이 많습니다."
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "낙관적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 최근 동향과 전망을 분석하여 투자 전략을 수립할 수 있습니다.",
-      "action": "주식 시장의 동향을 지속적으로 분석하고 투자 전략을 조정합니다.",
+      "insight": "주식 시장의 변동성에 대비하여 투자 전략을 다각화해야 한다.",
+      "action": "다각화된 투자 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "최신 기술과 AI 관련된 게시글을 분석하여 새로운 비즈니스 기회를 찾을 수 있습니다.",
-      "action": "최신 기술과 AI 관련된 게시글을 지속적으로 분석하고 새로운 비즈니스 기회를 탐색합니다.",
+      "insight": "애플과 삼성전자의 기술 발전을 주목해야 한다.",
+      "action": "기술 발전을 주목하고 투자 기회를 탐색",
       "priority": "medium"
+    },
+    {
+      "insight": "AI와 기술의 발전을 주목해야 한다.",
+      "action": "AI와 기술의 발전을 주목하고 투자 기회를 탐색",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드 분석 결과, 주식 시장과 기술 및 AI 관련된 게시글이 많습니다. 주식 시장의 최근 동향과 전망에 대한 분석이 주를 이루고 있으며, 최신 기술과 AI 관련된 게시글도 많은 관심을 받고 있습니다. 또한, 경제와 금융 관련된 게시글도 많습니다. 이러한 트렌드 분석 결과를 통해 비즈니스 기회를 찾고 투자 전략을 수립할 수 있습니다. 그러나, 부정적인 감정과 혼합된 감정이 많기 때문에 시장의 동향을 지속적으로 분석하고 전략을 조정하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-30T21:00:34.480Z",
+  "narrative": "최근의 주식 시장은 변동성이 크게 나타나고 있다. 투자자들은 주식 시장의 변동성에 대비하여 투자 전략을 다각화해야 한다. 또한, 애플과 삼성전자의 최근 실적과 전략에 대한 주목이 필요하다. 특히, 애플의 실적 발표와 삼성전자의 평택 LNG 발전소 수소로 전환 계획이 주목을 받고 있다. 또한, AI와 기술의 발전을 주목해야 한다. 오픈AI의 챗GPT 출시와 구글의 음악 생성 모델 리리아 3.5 출시가 주목을 받고 있다. 이러한 기술 발전은 새로운 투자 기회를 제공할 수 있다.",
+  "analyzed_at": "2026-07-30T22:30:34.668Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
