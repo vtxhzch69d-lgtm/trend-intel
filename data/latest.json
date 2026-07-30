@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "2030 세대와 정치",
-      "summary": "2030 세대가 정치에 대한 관심과 참여가 증가하고 있으며, 특히 민주당에 대한 지지와 비판이 두드러짐. 젊은 세대의 정치적 성향과 가치관이 다르게 변화하고 있음",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상황과 투자 전략에 대한 논의",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "주식 시장과 경제",
-      "summary": "주식 시장의 변동과 경제적 영향을 두고 많은 논의가 이루어짐. 특히 레버리지 상품과 주식 시장의 미래에 대한 우려가 제기됨",
+      "topic": "정치",
+      "summary": "정치 상황과 정부 정책에 대한 논의",
       "post_count": 12,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술과 산업",
-      "summary": "최신 기술과 산업 동향에 대한 관심이 높음. 특히 AI, 자율주행, 전기차 등이 주요 관심사로 등장함",
+      "topic": "기술",
+      "summary": "최신 기술 트렌드와 제품에 대한 논의",
       "post_count": 10,
       "sentiment": "positive",
       "urgency": "low"
@@ -24,49 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "2030",
+      "keyword": "주식",
       "count": 20,
       "sentiment": "neutral",
-      "context": "2030 세대와 정치, 경제, 사회에 대한 논의"
+      "context": "주식 시장과 투자 전략"
     },
     {
-      "keyword": "주식",
+      "keyword": "정치",
       "count": 15,
       "sentiment": "negative",
-      "context": "주식 시장의 변동과 경제적 영향"
+      "context": "정치 상황과 정부 정책"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술과 산업 동향"
+      "context": "최신 기술 트렌드와 제품"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 30,
     "neutral": 50,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "2030 세대가 정치와 경제에 대한 관심이 증가하고 있음",
-      "action": "젊은 세대의 니즈와 가치관을 이해하고 대응하는 마케팅 전략 수립",
+      "insight": "주식 시장의 불안정성",
+      "action": "투자 전략 조정",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동이 경제적 영향을 미침",
-      "action": "주식 시장의 동향을 주시하고 경제적 영향을 최소화하는 전략 수립",
+      "insight": "정치 상황의 불확실성",
+      "action": "정책 분석과 대응",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술과 산업 동향에 대한 관심이 높음",
-      "action": "최신 기술과 산업 동향을 주시하고 이를 활용하는 마케팅 전략 수립",
+      "insight": "기술 트렌드의 중요성",
+      "action": "최신 기술에 대한 연구와 투자",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 2030 세대와 정치, 주식 시장과 경제, 최신 기술과 산업 동향이 주요 관심사로 등장하고 있음. 특히 2030 세대가 정치와 경제에 대한 관심이 증가하고 있으며, 주식 시장의 변동이 경제적 영향을 미치고 있음. 또한 최신 기술과 산업 동향에 대한 관심이 높아지고 있음. 이러한 트렌드와 키워드를 이해하고 이를 활용하는 마케팅 전략을 수립하는 것이 중요할 것으로 보임.",
-  "analyzed_at": "2026-07-30T06:00:34.352Z",
+  "narrative": "최근의 트렌드 분석 결과, 주식 시장과 정치 상황이 주요 관심사로 나타났습니다. 주식 시장의 불안정성과 정치 상황의 불확실성은 기업과 개인에게 큰 영향을 미칠 수 있습니다. 따라서 투자 전략의 조정과 政策 분석 및 대응이 필요합니다. 또한, 최신 기술 트렌드와 제품에 대한 연구와 투자는 미래의 성장과 발전에 중요한 역할을 할 것입니다.",
+  "analyzed_at": "2026-07-30T07:30:33.640Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
