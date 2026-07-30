@@ -1,72 +1,78 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 주식",
-      "summary": "코스피 5000 아래로는 절대 안 내려가겠죠? 반도체 오늘도 마음 준비해야할듯합니다.",
-      "post_count": 10,
+      "topic": "주식 및 경제",
+      "summary": "삼성전자 2분기 영업이익 89조4천924억원…작년 대비 1813.8%↑, 코스피 차트를 보니 정말 무섭네요",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "이재명 정부 잘하고 있다고 봅니다. 이재명 대통령님 덕택에 9300 찍어봤네요",
-      "post_count": 8,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "AI 시대에 오히려 애플의 가치가 커지는 이유. 포스코DX, ‘AI 네이티브 컴퍼니’로 대전환",
-      "post_count": 12,
+      "topic": "부동산",
+      "summary": "돌고 돌아 부동산이 답이네요, 부동산 정책 근황",
+      "post_count": 3,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 산업",
+      "summary": "포스코DX, ‘AI 네이티브 컴퍼니’로 대전환… 피지컬AI와 에이전틱AI로 AI 시장 선도, 크래프톤, 2026년 상반기 역대 최대 매출 2조 6,616억 원·영업이익 9,725억 원 달성",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "삼성전자",
       "count": 5,
       "sentiment": "positive",
-      "context": "이재명 정부 및 대통령님에 대한 긍정적 언급"
+      "context": "영업이익 증가"
     },
     {
-      "keyword": "반도체",
-      "count": 4,
+      "keyword": "코스피",
+      "count": 3,
       "sentiment": "negative",
-      "context": "반도체 시장의 불안정성에 대한 우려"
+      "context": "차트 분석"
+    },
+    {
+      "keyword": "부동산",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "시장 동향"
     },
     {
       "keyword": "AI",
-      "count": 6,
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술의 발전 및 적용에 대한 기대"
+      "context": "기술 개발 및 적용"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "호재와 악재가 혼재된 혼합된 분위기"
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "반도체 시장의 불안정성",
-      "action": "주식 투자 전략 조정",
+      "insight": "주식 및 경제 분야의 인기 게시글은 주로 삼성전자와 코스피 관련 뉴스입니다.",
+      "action": "주식 투자 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술 적용 및 투자",
+      "insight": "부동산 분야의 인기 게시글은 주로 시장 동향과 정책 관련 뉴스입니다.",
+      "action": "부동산 투자 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "이재명 정부의 경제 정책",
-      "action": "정부 정책에 대한 지속적 모니터링",
-      "priority": "low"
+      "insight": "기술 및 산업 분야의 인기 게시글은 주로 AI와 관련된 뉴스입니다.",
+      "action": "AI 기술 개발 및 적용",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 경제 및 주식, 정치, 기술 및 AI를 중심으로 형성되고 있습니다. 이재명 정부 및 대통령님에 대한 긍정적 언급이 많으며, 반도체 시장의 불안정성에 대한 우려도 존재합니다. 또한, AI 기술의 발전 및 적용에 대한 기대가 높아지고 있습니다. 이러한 트렌드를 고려하여, 주식 투자 전략을 조정하고, AI 기술을 적용 및 투자하는 것이 좋을 것입니다. 또한, 정부 정책에 대한 지속적 모니터링이 필요합니다.",
-  "analyzed_at": "2026-07-29T22:30:34.415Z",
+  "narrative": "최근의 인기 게시글은 주로 주식 및 경제, 부동산, 기술 및 산업 분야의 뉴스입니다. 삼성전자와 코스피 관련 뉴스가 주를 이루고 있으며, 부동산 시장 동향과 정책 관련 뉴스도 관심을 끌고 있습니다. 또한, AI와 관련된 기술 개발 및 적용이 주목받고 있습니다. 이러한 트렌드를 분석하여 사업 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-07-30T00:00:34.270Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
