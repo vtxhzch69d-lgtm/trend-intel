@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 정부 경제 정책",
-      "summary": "이재명 정부의 경제 정책이 실패했다는 의견이 많다. 경제 상황이 좋지 않아 불경기 우려가 높다.",
+      "topic": "정치",
+      "summary": "이재명 민주당 지지사이트 및 정치 관련 논쟁",
       "post_count": 10,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 상황이 좋지 않아 투자자들이 우려한다. 주가 하락으로 인한 손실이 크다.",
+      "topic": "경제",
+      "summary": "하닉, 삼전 레버리지 및 경제 관련 뉴스",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전이 빠르다. 다양한 분야에서 적용이 가능해 지고 있다.",
-      "post_count": 12,
+      "topic": "스포츠",
+      "summary": "축구 및 스포츠 관련 뉴스",
+      "post_count": 5,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 15,
+      "count": 5,
       "sentiment": "negative",
-      "context": "이재명 정부의 경제 정책에 대한 비판"
+      "context": "민주당 지지사이트 관련 논쟁"
     },
     {
-      "keyword": "주식",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "주식 시장의 상황에 대한 우려"
+      "keyword": "하닉",
+      "count": 4,
+      "sentiment": "neutral",
+      "context": "레버리지 및 경제 관련 뉴스"
     },
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "keyword": "삼전",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "레버리지 및 경제 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "이재명 정부의 경제 정책이 실패했다는 인식이 높아 경제 상황이 좋지 않을 수 있다.",
-      "action": "경제 정책에 대한 비판을 주의 깊게 관찰하고 대응해야 한다.",
+      "insight": "정치 및 경제 관련 뉴스가 많은 것으로 보아 이용자들은 이러한 주제에 관심이 많다.",
+      "action": "관련 콘텐츠를 제공하여 이용자들의 관심을 끌어야 한다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 상황이 좋지 않아 투자자들이 우려한다.",
-      "action": "주식 시장의 상황을 주의 깊게 관찰하고 투자 전략을 조정해야 한다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전이 빠르다.",
-      "action": "AI 기술의 발전을 주의 깊게 관찰하고 다양한 분야에서 적용할 수 있는 기회를 찾야 한다.",
+      "insight": "스포츠 관련 뉴스도 일부 존재한다.",
+      "action": "스포츠 관련 콘텐츠를 제공하여 이용자들의 관심을 끌어야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "이재명 정부의 경제 정책이 실패했다는 의견이 많아 경제 상황이 좋지 않을 수 있다. 주식 시장의 상황도 좋지 않아 투자자들이 우려한다. 그러나 AI 기술의 발전이 빠르다. 이러한 상황을 주의 깊게 관찰하고 대응해야 한다. 또한 AI 기술의 발전을 주의 깊게 관찰하고 다양한 분야에서 적용할 수 있는 기회를 찾아야 한다.",
-  "analyzed_at": "2026-07-30T10:30:34.476Z",
+  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치 및 경제 관련 뉴스가 많은 것으로 보인다. 이용자들은 이러한 주제에 관심이 많으며, 관련 콘텐츠를 제공하여 이용자들의 관심을 끌어야 한다. 또한, 스포츠 관련 뉴스도 일부 존재하며, 이러한 주제에 대한 콘텐츠를 제공하여 이용자들의 관심을 끌어야 한다. 전체적으로 이용자들의 감정은 중립적이며, 일부 이용자들은 정치 및 경제 관련 뉴스에 대해 부정적인 감정을 가지고 있다.",
+  "analyzed_at": "2026-07-30T12:00:35.605Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
