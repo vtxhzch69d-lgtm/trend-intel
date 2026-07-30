@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "코스피지수와 주식 시장의 상황에 대한 논의가 활발합니다. 일부 사용자는 주식 시장의 폭락을 우려하며, 다른 사용자는 시장의 상황을 분석하고 전망합니다.",
+      "summary": "주식 시장의 변동성과 정부의 책임, 개인의 책임에 대한 논의가 활발합니다. 또한, 특정 주식의 상승과 하락에 대한 예측과 분석이 이루어지고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제와 금융 관련된 다양한 주제가 논의되고 있습니다. 이는 금융 투자, 증시, 및 경제 정책 등에 대한 관심을 보여줍니다.",
-      "post_count": 20,
-      "sentiment": "neutral",
+      "topic": "정치",
+      "summary": "정치 현안과 정치인의 행동에 대한 논의가 활발합니다. 특히, 이재명 대통령과 김민석에 대한 지지와 비판이 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술과 산업 동향에 대한 관심이 높습니다. 이는 AI, 반도체, 및 자동차 산업 등에 대한 뉴스와 개발이 포함됩니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "최신 기술 동향과 발전에 대한 논의가 이루어지고 있습니다. 특히, AI와 반도체 기술에 대한 관심이 높습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "코스피",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "코스피지수의 하락과 관련된 우려"
+      "keyword": "주식",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "주식 시장과 관련된 키워드"
     },
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "삼성전자의 실적과 전망에 대한 논의"
+      "keyword": "이재명",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "이재명 대통령과 관련된 키워드"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 потен셜에 대한 관심"
+      "context": "인공지능 기술과 관련된 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정이 다소 강하지만, 중立적인 의견도 많습니다."
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "투자 전략의 재평가",
+      "insight": "주식 시장의 변동성에 대한 예측과 분석",
+      "action": "주식 투자 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 정책의 중요성",
-      "action": "정책 분석과 이해",
+      "insight": "정치 현안과 정치인의 행동에 대한 분석",
+      "action": "정책과 법률에 대한 이해",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술의 발전",
-      "action": "기술 동향의 지속적인 모니터링",
+      "insight": "최신 기술 동향과 발전",
+      "action": "기술 투자와 개발",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 주식 시장과 경제 및 금융 관련된 주제가 중심입니다. 사용자들은 주식 시장의 상황과 경제 정책에 대한 관심이 높으며, 일부에서는 최신 기술의 발전도 주목하고 있습니다. 이러한 트렌드는 비즈니스와 투자 전략에 대한 재평가를 요구하며, 최신 기술의 동향을 지속적으로 모니터링할 필요가 있습니다. 또한, 부정적인 감정과 중립적인 의견이 공존하는 것을 고려하여, 다양한 시각을 포함한 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-30T01:30:34.667Z",
+  "narrative": "현재의 트렌드는 주식 시장과 정치 현안에 대한 논의가 활발합니다. 주식 시장의 변동성과 정부의 책임, 개인의 책임에 대한 논의가 이루어지고 있습니다. 또한, 정치 현안과 정치인의 행동에 대한 논의가 활발합니다. 특히, 이재명 대통령과 김민석에 대한 지지와 비판이 있습니다. 기술 동향과 발전에도 관심이 높습니다. 특히, AI와 반도체 기술에 대한 관심이 높습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 투자와 개발을 진행할 수 있습니다.",
+  "analyzed_at": "2026-07-30T03:01:29.928Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
