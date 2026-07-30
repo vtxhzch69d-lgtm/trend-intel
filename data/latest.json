@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "현재 주식 시장의 상황과 전망에 대한讨論",
+      "topic": "이재명 정부 경제 정책",
+      "summary": "이재명 정부의 경제 정책이 실패했다는 의견이 많다. 경제 상황이 좋지 않아 불경기 우려가 높다.",
       "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "최근의 정치 뉴스와 이슈에 대한 논의",
-      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드에 대한 논의",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상황이 좋지 않아 투자자들이 우려한다. 주가 하락으로 인한 손실이 크다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전이 빠르다. 다양한 분야에서 적용이 가능해 지고 있다.",
       "post_count": 12,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
+      "keyword": "이재명",
       "count": 15,
-      "sentiment": "neutral",
-      "context": "주식 시장에 대한 논의"
+      "sentiment": "negative",
+      "context": "이재명 정부의 경제 정책에 대한 비판"
     },
     {
-      "keyword": "정치",
+      "keyword": "주식",
       "count": 10,
       "sentiment": "negative",
-      "context": "최근의 정치 뉴스와 이슈"
+      "context": "주식 시장의 상황에 대한 우려"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 12,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드"
+      "context": "AI 기술의 발전과 적용"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "투자 전략의 조정",
+      "insight": "이재명 정부의 경제 정책이 실패했다는 인식이 높아 경제 상황이 좋지 않을 수 있다.",
+      "action": "경제 정책에 대한 비판을 주의 깊게 관찰하고 대응해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "기술의 발전",
-      "action": "최신 기술 트렌드의 연구",
+      "insight": "주식 시장의 상황이 좋지 않아 투자자들이 우려한다.",
+      "action": "주식 시장의 상황을 주의 깊게 관찰하고 투자 전략을 조정해야 한다.",
       "priority": "medium"
     },
     {
-      "insight": "정치의 불확실성",
-      "action": "정치 뉴스와 이슈의 모니터링",
-      "priority": "low"
+      "insight": "AI 기술의 발전이 빠르다.",
+      "action": "AI 기술의 발전을 주의 깊게 관찰하고 다양한 분야에서 적용할 수 있는 기회를 찾야 한다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 온라인 커뮤니티 트렌드는 주식 시장, 정치, 기술 등 다양한 주제에 대한 논의를 보여주고 있습니다. 주식 시장의 불안정성과 정치의 불확실성은 많은 사용자의 관심을 끌고 있습니다. 기술의 발전은 최신 기술 트렌드의 연구와 개발의 필요성을 강조하고 있습니다. 이러한 트렌드와 인사이트를 고려하여, 비즈니스 전략을 조정하고 최신 기술 트렌드의 연구를进行하는 것이 중요합니다.",
-  "analyzed_at": "2026-07-30T09:00:33.755Z",
-  "post_count": 61,
+  "narrative": "이재명 정부의 경제 정책이 실패했다는 의견이 많아 경제 상황이 좋지 않을 수 있다. 주식 시장의 상황도 좋지 않아 투자자들이 우려한다. 그러나 AI 기술의 발전이 빠르다. 이러한 상황을 주의 깊게 관찰하고 대응해야 한다. 또한 AI 기술의 발전을 주의 깊게 관찰하고 다양한 분야에서 적용할 수 있는 기회를 찾아야 한다.",
+  "analyzed_at": "2026-07-30T10:30:34.476Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
