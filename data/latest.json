@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 민주당 지지사이트 및 정치 관련 논쟁",
-      "post_count": 10,
+      "summary": "정치 관련된 게시글이 많습니다. 유시민 작가 방송 후 삭제 요청한 내용과 임오경의 헛소리 등 다양한 정치 관련된 주제가 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "하닉, 삼전 레버리지 및 경제 관련 뉴스",
-      "post_count": 8,
+      "summary": "경제 관련된 게시글이 많습니다. 주식, 코스닥, Kospi200 등 다양한 경제 관련된 주제가 обсужд되고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "스포츠",
-      "summary": "축구 및 스포츠 관련 뉴스",
-      "post_count": 5,
+      "topic": "기술",
+      "summary": "기술 관련된 게시글이 많습니다. AI, OLED, 리지드 OLED 등 다양한 기술 관련된 주제가 обсужд되고 있습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "유시민",
       "count": 5,
       "sentiment": "negative",
-      "context": "민주당 지지사이트 관련 논쟁"
+      "context": "유시민 작가 방송 후 삭제 요청한 내용"
     },
     {
-      "keyword": "하닉",
-      "count": 4,
-      "sentiment": "neutral",
-      "context": "레버리지 및 경제 관련 뉴스"
-    },
-    {
-      "keyword": "삼전",
+      "keyword": "임오경",
       "count": 3,
+      "sentiment": "negative",
+      "context": "임오경의 헛소리"
+    },
+    {
+      "keyword": "주식",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "레버리지 및 경제 관련 뉴스"
+      "context": "주식 관련된 게시글"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
     "negative": 15,
-    "neutral": 25,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 및 경제 관련 뉴스가 많은 것으로 보아 이용자들은 이러한 주제에 관심이 많다.",
-      "action": "관련 콘텐츠를 제공하여 이용자들의 관심을 끌어야 한다.",
+      "insight": "정치 관련된 게시글이 많기 때문에 정치 관련된 마케팅 전략을 수립할 필요가 있습니다.",
+      "action": "정치 관련된 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "스포츠 관련 뉴스도 일부 존재한다.",
-      "action": "스포츠 관련 콘텐츠를 제공하여 이용자들의 관심을 끌어야 한다.",
+      "insight": "경제 관련된 게시글이 많기 때문에 경제 관련된 마케팅 전략을 수립할 필요가 있습니다.",
+      "action": "경제 관련된 마케팅 전략 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티의 트렌드는 정치 및 경제 관련 뉴스가 많은 것으로 보인다. 이용자들은 이러한 주제에 관심이 많으며, 관련 콘텐츠를 제공하여 이용자들의 관심을 끌어야 한다. 또한, 스포츠 관련 뉴스도 일부 존재하며, 이러한 주제에 대한 콘텐츠를 제공하여 이용자들의 관심을 끌어야 한다. 전체적으로 이용자들의 감정은 중립적이며, 일부 이용자들은 정치 및 경제 관련 뉴스에 대해 부정적인 감정을 가지고 있다.",
-  "analyzed_at": "2026-07-30T12:00:35.605Z",
+  "narrative": "정치와 경제 관련된 게시글이 많습니다. 정치 관련된 마케팅 전략을 수립하고 경제 관련된 마케팅 전략을 수립할 필요가 있습니다. 기술 관련된 게시글도 많기 때문에 기술 관련된 마케팅 전략을 수립할 필요가 있습니다. 중립적인 마케팅 전략을 수립하여 다양한 고객을 대상으로 할 필요가 있습니다.",
+  "analyzed_at": "2026-07-30T13:30:35.353Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
