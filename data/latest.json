@@ -2,22 +2,22 @@
   "trending_topics": [
     {
       "topic": "주식 시장",
-      "summary": "주식 시장의 상황과 투자 전략에 대한 논의",
-      "post_count": 15,
+      "summary": "현재 주식 시장의 상황과 전망에 대한讨論",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 상황과 정부 정책에 대한 논의",
-      "post_count": 12,
+      "summary": "최근의 정치 뉴스와 이슈에 대한 논의",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 트렌드와 제품에 대한 논의",
-      "post_count": 10,
+      "summary": "최신 기술 뉴스와 트렌드에 대한 논의",
+      "post_count": 12,
       "sentiment": "positive",
       "urgency": "low"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "주식",
-      "count": 20,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "주식 시장과 투자 전략"
+      "context": "주식 시장에 대한 논의"
     },
     {
       "keyword": "정치",
-      "count": 15,
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치 상황과 정부 정책"
+      "context": "최근의 정치 뉴스와 이슈"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술 트렌드와 제품"
+      "context": "최신 기술 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
+    "negative": 25,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
       "insight": "주식 시장의 불안정성",
-      "action": "투자 전략 조정",
+      "action": "투자 전략의 조정",
       "priority": "high"
     },
     {
-      "insight": "정치 상황의 불확실성",
-      "action": "정책 분석과 대응",
+      "insight": "기술의 발전",
+      "action": "최신 기술 트렌드의 연구",
       "priority": "medium"
     },
     {
-      "insight": "기술 트렌드의 중요성",
-      "action": "최신 기술에 대한 연구와 투자",
+      "insight": "정치의 불확실성",
+      "action": "정치 뉴스와 이슈의 모니터링",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 주식 시장과 정치 상황이 주요 관심사로 나타났습니다. 주식 시장의 불안정성과 정치 상황의 불확실성은 기업과 개인에게 큰 영향을 미칠 수 있습니다. 따라서 투자 전략의 조정과 政策 분석 및 대응이 필요합니다. 또한, 최신 기술 트렌드와 제품에 대한 연구와 투자는 미래의 성장과 발전에 중요한 역할을 할 것입니다.",
-  "analyzed_at": "2026-07-30T07:30:33.640Z",
+  "narrative": "현재의 온라인 커뮤니티 트렌드는 주식 시장, 정치, 기술 등 다양한 주제에 대한 논의를 보여주고 있습니다. 주식 시장의 불안정성과 정치의 불확실성은 많은 사용자의 관심을 끌고 있습니다. 기술의 발전은 최신 기술 트렌드의 연구와 개발의 필요성을 강조하고 있습니다. 이러한 트렌드와 인사이트를 고려하여, 비즈니스 전략을 조정하고 최신 기술 트렌드의 연구를进行하는 것이 중요합니다.",
+  "analyzed_at": "2026-07-30T09:00:33.755Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
