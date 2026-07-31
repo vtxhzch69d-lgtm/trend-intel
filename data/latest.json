@@ -2,23 +2,23 @@
   "trending_topics": [
     {
       "topic": "수사권 조정",
-      "summary": "수사권 조정에 대한 논란과 검찰의 반응",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "수사권 조정에 대한 찬반 논란이 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자는 수사권 조정에 대해 긍정적인 반응을 보이면서 검찰의 권한을 제한하는 것이 필요하다고 주장합니다. 그러나 다른 사용자는 수사권 조정으로 인해 실제 수사 능력이 약화될 수 있다고 우려합니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "보완수사권 폐지",
-      "summary": "보완수사권 폐지에 대한 찬반 논란",
-      "post_count": 8,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 관심이 커뮤니티에서 증가하고 있습니다. 새로운 AI 모델과 기술에 대한 소식이 계속해서 공유되고 있으며, 사용자들은 AI 기술의 발전과 그에 따른 영향에 대해 논의하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 산업 동향",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제가 커뮤니티에서 논의되고 있습니다. 사용자들은 최근의 경제 동향과 금융 소식에 대해 관심을 보이고 있으며, 투자와 경제에 대한 의견을 공유하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
@@ -26,42 +26,47 @@
     {
       "keyword": "수사권",
       "count": 20,
-      "sentiment": "negative",
-      "context": "수사권 조정과 폐지에 대한 논란"
+      "sentiment": "mixed",
+      "context": "수사권 조정에 대한 찬반 논란"
     },
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 15,
       "sentiment": "positive",
-      "context": "최신 AI 기술과 산업 동향"
+      "context": "AI 기술의 발전과 그에 따른 영향"
     },
     {
-      "keyword": "검찰",
-      "count": 15,
-      "sentiment": "negative",
-      "context": "수사권 조정과 폐지에 대한 논란"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 동향과 금융 소식"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 20,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "부정적인 감정의 우세"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "수사권 조정과 폐지에 대한 논란은 법률 및 정치 분야에서 주요 이슈로 남아 있을 것",
-      "action": "관련 정책과 법률을 주시하고 대응 策略을 수립",
+      "insight": "수사권 조정에 대한 논란은 법률 및 정치 분야에서 중요한 이슈입니다.",
+      "action": "관련 법률 및 정책을 분석하고, 수사권 조정의 영향에 대한 연구를 수행합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 산업에서 점점 더 중요한 역할을 할 것",
-      "action": "AI 기술을 활용한 신규 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 기회와 도전을 가져옵니다.",
+      "action": "AI 기술의 최신 동향을 분석하고, 그에 따른 비즈니스 기회를 탐색합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 금융 관련 주제는 사용자들의 관심을 끌고 있습니다.",
+      "action": "경제 및 금융 관련 콘텐츠를 개발하고, 사용자들의 관심을满足합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 수사권 조정과 폐지에 대한 논란이 법률 및 정치 분야에서 주요 이슈로 남아 있습니다. 이에 따라 관련 정책과 법률을 주시하고 대응 策略을 수립하는 것이 중요합니다. 또한, AI 기술은 산업에서 점점 더 중요한 역할을 할 것으로 예상되며, AI 기술을 활용한 신규 비즈니스 모델 개발을 통해 경쟁력을 높일 수 있습니다.",
-  "analyzed_at": "2026-07-31T22:00:33.694Z",
+  "narrative": "커뮤니티에서는 수사권 조정, AI 기술, 경제 및 금융 관련 주제가 활발하게 논의되고 있습니다. 수사권 조정에 대한 찬반 논란은 법률 및 정치 분야에서 중요한 이슈입니다. AI 기술의 발전은 다양한 산업에서 기회와 도전을 가져옵니다. 경제 및 금융 관련 주제는 사용자들의 관심을 끌고 있습니다. 이러한 주제에 대한 분석과 연구를 통해 비즈니스 기회를 탐색하고, 사용자들의 관심을滿足할 수 있습니다.",
+  "analyzed_at": "2026-07-31T23:30:34.941Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
