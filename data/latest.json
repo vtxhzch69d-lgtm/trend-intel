@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "검찰개혁",
-      "summary": "검찰개혁 관련 게시물이 많이 올라왔습니다. 보완수사권 폐지와 관련된 게시물이 주를 이루고 있습니다.",
+      "topic": "수사권 조정",
+      "summary": "수사권 조정에 대한 논란과 검찰의 반응",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 게시물이 많이 올라왔습니다. 주식시장과 관련된 게시물이 주를 이루고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "보완수사권 폐지",
+      "summary": "보완수사권 폐지에 대한 찬반 논란",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 게시물이 많이 올라왔습니다. AI 기술과 관련된 게시물이 주를 이루고 있습니다.",
-      "post_count": 12,
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 산업 동향",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "검찰개혁",
+      "keyword": "수사권",
       "count": 20,
-      "sentiment": "positive",
-      "context": "검찰개혁 관련 게시물"
-    },
-    {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "주식시장 관련 게시물"
+      "sentiment": "negative",
+      "context": "수사권 조정과 폐지에 대한 논란"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술 관련 게시물"
+      "context": "최신 AI 기술과 산업 동향"
+    },
+    {
+      "keyword": "검찰",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "수사권 조정과 폐지에 대한 논란"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "검찰개혁 관련 게시물이 많이 올라오고 있습니다.",
-      "action": "검찰개혁 관련 정책을 검토하여 대응해야 합니다.",
+      "insight": "수사권 조정과 폐지에 대한 논란은 법률 및 정치 분야에서 주요 이슈로 남아 있을 것",
+      "action": "관련 정책과 법률을 주시하고 대응 策略을 수립",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 게시물이 많이 올라오고 있습니다.",
-      "action": "경제 관련 데이터를 분석하여 시장 동향을 파악해야 합니다.",
+      "insight": "AI 기술은 산업에서 점점 더 중요한 역할을 할 것",
+      "action": "AI 기술을 활용한 신규 비즈니스 모델 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 관련 게시물이 많이 올라오고 있습니다.",
-      "action": "AI 기술을 활용하여 비즈니스 모델을 개선해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 검찰개혁 관련 게시물이 많이 올라왔습니다. 보완수사권 폐지와 관련된 게시물이 주를 이루고 있습니다. 또한, 경제 관련 게시물도 많이 올라왔습니다. 주식시장과 관련된 게시물이 주를 이루고 있습니다. AI 관련 게시물도 많이 올라왔습니다. AI 기술과 관련된 게시물이 주를 이루고 있습니다. 이러한 게시물들을 분석하여 비즈니스 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-07-31T20:31:32.600Z",
+  "narrative": "최근 수사권 조정과 폐지에 대한 논란이 법률 및 정치 분야에서 주요 이슈로 남아 있습니다. 이에 따라 관련 정책과 법률을 주시하고 대응 策略을 수립하는 것이 중요합니다. 또한, AI 기술은 산업에서 점점 더 중요한 역할을 할 것으로 예상되며, AI 기술을 활용한 신규 비즈니스 모델 개발을 통해 경쟁력을 높일 수 있습니다.",
+  "analyzed_at": "2026-07-31T22:00:33.694Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
