@@ -1,44 +1,76 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 논란이 되는 주제들입니다. 사용자들은 다양한 의견을 공유하며 활발한 토론을 진행합니다.",
-      "post_count": 1000,
+      "topic": "주식 시장",
+      "summary": "하이닉스와 삼성전자 등 주식이 상한가를 기록하며 시장에 큰 영향을 미치고 있습니다. 투자자들은 주식 시장의 변동에 관심을 가지고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 AI",
+      "summary": "국내외 기술 기업들의 새로운 기술 개발과 AI 모델 공개가 주목을 받고 있습니다. 이에 대한 관심과 논의가 커뮤니티에서 활발하게 이루어지고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제와 금융 관련 뉴스와 분석이 커뮤니티에서 많이 обсужд되고 있습니다. 특히, 주식 시장과 경제 지표에 대한 관심이 높습니다.",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 500,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "하이닉스",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "상한가 기록"
     },
     {
-      "keyword": "이슈",
-      "count": 200,
-      "sentiment": "negative",
-      "context": "논란이 되는 주제"
+      "keyword": "삼성전자",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "주식 시장 영향"
+    },
+    {
+      "keyword": "AI",
+      "count": 6,
+      "sentiment": "neutral",
+      "context": "기술 개발과 모델 공개"
+    },
+    {
+      "keyword": "주식",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "시장 변동과 투자"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 논란이 있는 분위기"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "투자와 기술에 대한 관심이 높으며, 시장의 변동에 대한 논의가 활발합니다."
   },
   "business_insights": [
     {
-      "insight": "사용자들은 다양한 주제에 대해 열린 토론을 원합니다.",
-      "action": "커뮤니티 내에서 다양한 주제의 게시판을 개설하고 사용자들의 의견을 수렴합니다.",
+      "insight": "주식 시장의 변동에 대한 투자자들의 관심이 높아지고 있습니다.",
+      "action": "투자자들에게 시장 정보와 분석을 제공하여 투자 quyết策을 지원할 수 있습니다.",
       "priority": "high"
+    },
+    {
+      "insight": "기술과 AI에 대한 관심이 증가하고 있습니다.",
+      "action": "최신 기술 개발과 AI 모델에 대한 정보를 제공하여 고객들의 관심을满足할 수 있습니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 사용자들이 다양한 의견을 공유하고 토론하는 공간입니다. 최근 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 논란이 되는 주제들입니다. 사용자들은 이러한 주제들에 대해 열린 토론을 원하며, 커뮤니티 내에서 다양한 주제의 게시판을 개설하고 사용자들의 의견을 수렴하는 것이 중요합니다. 또한, 커뮤니티의 분위기는 중립적이지만 논란이 있는 분위기입니다. 따라서, 마케터들은 이러한 분위기를 고려하여 커뮤니티 내에서 효과적인 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-07-31T04:00:34.206Z",
-  "post_count": 2,
+  "narrative": "현재 주식 시장과 기술 분야에서 큰 관심을 끌고 있는 주제들이 있습니다. 하이닉스와 삼성전자 등 주식이 상한가를 기록하며 시장에 큰 영향을 미치고 있습니다. 또한, 기술 기업들의 새로운 기술 개발과 AI 모델 공개가 주목을 받고 있습니다. 이러한 관심과 논의는 커뮤니티에서 활발하게 이루어지고 있으며, 투자자들과 기술에 관심 있는 사람들을 위한 정보와 분석을 제공하는 것이 중요합니다. 또한, 시장의 변동에 대한 논의가 활발하여 투자자들에게 시장 정보와 분석을 제공하여 투자 결정에 도움을 줄 수 있습니다.",
+  "analyzed_at": "2026-07-31T05:30:34.329Z",
+  "post_count": 60,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
