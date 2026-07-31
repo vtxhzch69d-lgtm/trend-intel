@@ -1,63 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 상승과 하락에 대한 논의가 많습니다. 특히, 삼전과 하닉의 상한가에 대한 관심이 집중되어 있습니다.",
-      "post_count": 15,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판을 중심으로 활발한讨論이 이루어지고 있습니다.",
+      "post_count": 1000,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스에 대한 관심이 많습니다. 특히, AI와 OLED 모니터에 대한 논의가 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "주식 시장의 상승과 하락에 대한 논의"
+      "keyword": "뽐뿌",
+      "count": 500,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스에 대한 관심"
-    },
-    {
-      "keyword": "OLED",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스에 대한 관심"
+      "keyword": "이슈",
+      "count": 200,
+      "sentiment": "negative",
+      "context": "이슈게시판 관련 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 300,
+    "negative": 400,
+    "neutral": 300,
     "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승과 하락에 대한 관심이 높습니다.",
-      "action": "주식 시장의 동향을 주시하고, 투자 전략을 조정해야 합니다.",
+      "insight": "커뮤니티 이용자들의 관심사에 대한 분석",
+      "action": "마케팅 전략 수립",
       "priority": "high"
-    },
-    {
-      "insight": "최신 기술 뉴스에 대한 관심이 많습니다.",
-      "action": "최신 기술 뉴스를 주시하고, 기술 개발에 투자해야 합니다.",
-      "priority": "medium"
     }
   ],
-  "narrative": "현재 주식 시장의 상승과 하락에 대한 논의가 많습니다. 특히, 삼전과 하닉의 상한가에 대한 관심이 집중되어 있습니다. 또한, 최신 기술 뉴스에 대한 관심이 많습니다. 특히, AI와 OLED 모니터에 대한 논의가 있습니다. 이러한 동향을 고려하여, 투자 전략을 조정하고, 최신 기술 개발에 투자해야 합니다. 또한, 주식 시장의 동향을 주시하고, 기술 개발에 투자해야 합니다.",
-  "analyzed_at": "2026-07-31T01:30:33.717Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티의 인기 게시글을 분석한 결과, 자유게시판과 이슈게시판이 중심이 되는 것으로 나타났습니다. 이용자들의 관심사는 다양하지만, 주로 이슈게시판 관련 글에서 부정적인 감정이 나타나는 것을 확인할 수 있습니다. 이러한 분석 결과를 바탕으로 마케팅 전략을 수립하여 이용자들의 관심사를满足하고, 부정적인 감정을 개선하는 방안을 모색할 수 있습니다.",
+  "analyzed_at": "2026-07-31T03:00:34.172Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
