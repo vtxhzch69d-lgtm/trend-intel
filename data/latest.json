@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "코스피 상승률 18.3% 역대 1위, 하이닉스 미국장에서도 상승",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "보완수사권 폐지",
+      "summary": "형사소송법 개정안이 국회 본회의에서 통과되었습니다. 이에 따라 경찰의 수사권이 강화될 것으로 예상됩니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "반도체 산업",
-      "summary": "메모리 수요 증가, HBM시장 1위 교체 전망",
-      "post_count": 8,
+      "topic": "주식 시장",
+      "summary": "주식 시장에서 폭등이 발생했습니다. 이는 대통령 정부의 정책에 대한 반응으로 보입니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "AI 기술",
-      "summary": "AI 성능경쟁에서 가성비경쟁으로, 오픈AI 기업요금 최대 80%↓",
-      "post_count": 10,
+      "summary": "AI 기술이 다양한 분야에서 적용되고 있습니다. 이는 기업의 경쟁력을 높일 수 있을 것입니다.",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "코스피 상승률 18.3%"
+      "keyword": "보완수사권",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "형사소송법 개정안에 대한 반대 의견"
     },
     {
-      "keyword": "반도체",
-      "count": 12,
+      "keyword": "주식",
+      "count": 10,
       "sentiment": "positive",
-      "context": "메모리 수요 증가"
+      "context": "주식 시장에서 폭등이 발생했습니다."
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 성능경쟁에서 가성비경쟁으로"
+      "context": "AI 기술이 다양한 분야에서 적용되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 35,
-    "negative": 5,
+    "positive": 20,
+    "negative": 15,
     "neutral": 10,
-    "overall_mood": "iyim"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 상승세를 타기 위해 반도체 산업에 투자하는 것이 좋을 수 있음",
-      "action": "반도체 산업에 투자하기",
+      "insight": "형사소송법 개정안이 통과됨에 따라 경찰의 수사권이 강화될 것입니다.",
+      "action": "경찰의 수사권 강화에 대한 대응책을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전으로 인해 관련 산업에 투자하는 것이 좋을 수 있음",
-      "action": "AI 관련 산업에 투자하기",
+      "insight": "주식 시장에서 폭등이 발생했습니다.",
+      "action": "주식 투자에 대한 전략을 재검토해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "AI 기술이 다양한 분야에서 적용되고 있습니다.",
+      "action": "AI 기술을 활용한 비즈니스 모델을 개발해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 주식 시장은 상승세를 보이고 있으며, 반도체 산업은 메모리 수요 증가로 인해 호조를 보이고 있습니다. 또한, AI 기술의 발전으로 인해 관련 산업에 투자하는 것이 좋을 수 있습니다. 따라서, 주식 시장의 상승세를 타기 위해 반도체 산업에 투자하는 것이 좋을 수 있으며, AI 기술의 발전으로 인해 관련 산업에 투자하는 것이 좋을 수 있습니다.",
-  "analyzed_at": "2026-07-31T07:00:33.487Z",
+  "narrative": "현재의 트렌드는 형사소송법 개정안과 주식 시장의 폭등, AI 기술의 적용입니다. 이러한 트렌드에 대한 대응책을 마련하고, 비즈니스 모델을 개발해야 합니다. 또한,警察의 수사권 강화에 대한 대응책을 마련해야 합니다. 주식 투자에 대한 전략을 재검토해야 합니다. AI 기술을 활용한 비즈니스 모델을 개발해야 합니다.",
+  "analyzed_at": "2026-07-31T08:31:24.268Z",
   "post_count": 60,
   "sources": [
     "ppomppu",
