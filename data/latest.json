@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "주식 시장",
-      "summary": "최근 주식 시장의 급등과 급락에 대한 논의가 많다. 일부 투자자들은 큰 수익을 얻었지만, 다른 일부는 손실을 보았다.",
+      "topic": "경제 및 금융",
+      "summary": "코스피 하락과 반도체 산업의 상황이 논의되고 있습니다. 또한, 마이클 버리가 한국인들한테 경고한 내용도 관심을 모으고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "검찰 개혁",
-      "summary": "검찰 개혁에 대한 논의가 활발하다. 일부 사용자들은 개혁의 필요성을 강조하는 반면, 다른 일부는 우려를 표명한다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "정치 및 사회",
+      "summary": "형소법 개정안과 수사 기소 분리의 효과, 검언유착의 청산 등이 논의되고 있습니다. 또한, 안규백 장관의 사임과 거부권 행사 등도 관심을 모으고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 논의가 많다. 일부 사용자들은 AI의 잠재적ประโยชน을 강조하는 반면, 다른 일부는 우려를 표명한다.",
-      "post_count": 8,
+      "topic": "기술 및 산업",
+      "summary": "삼성전자와 현대차의 사업 계획, AI 기술의 발전과 그应用 등이 논의되고 있습니다. 또한, 에이전틱 AI와 LG AI연구원의 연구 성과도 관심을 모으고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "주식 시장의 급등과 급락"
+      "keyword": "코스피",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "코스피 하락과 관련된 게시물"
     },
     {
-      "keyword": "검찰",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "검찰 개혁에 대한 논의"
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "반도체 산업의 상황과 관련된 게시물"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 응용"
+      "context": "AI 기술의 발전과 그 적용 등과 관련된 게시물"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "주식 시장의 불안정성",
-      "action": "투자자들에게 주식 시장의 위험성을 강조",
+      "insight": "경제 및 금융 분야의 부정적인 감정은 높은 것으로 나타났습니다.",
+      "action": "경제 및 금융 분야의 상황을 주시하고, 필요한 대응책을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "검찰 개혁의 필요성",
-      "action": "검찰 개혁을 지원하는 캠페인을 진행",
+      "insight": "AI 기술의 발전은 긍정적인 감정을 유발하고 있습니다.",
+      "action": "AI 기술의 발전을 주시하고, 그 적용을 위한 투자를 고려해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 주식 시장의 급등과 급락, 검찰 개혁, AI 기술의 발전 등 다양한 주제에 대한 논의가 온라인 커뮤니티에서 활발하게 진행되고 있다. 이러한 논의는 비즈니스와 사회에 대한 다양한 인사이트를 제공하며, 기업과 기관들은 이러한 인사이트를 활용하여 새로운 비즈니스 모델을 개발하고, 사회적인 문제를 해결하는 데 기여할 수 있다.",
-  "analyzed_at": "2026-07-31T13:00:34.236Z",
+  "narrative": "최근의 트렌드 분석 결과, 경제 및 금융 분야의 부정적인 감정이 높은 것으로 나타났습니다. 특히, 코스피 하락과 반도체 산업의 상황이 논의되고 있습니다. 또한, 정치 및 사회 분야에서도 다양한 이슈가 논의되고 있습니다. 기술 및 산업 분야에서는 AI 기술의 발전이 긍정적인 감정을 유발하고 있습니다. 이러한 트렌드 분석 결과를 바탕으로, 경제 및 금융 분야의 상황을 주시하고, 필요한 대응책을 마련해야 합니다. 또한, AI 기술의 발전을 주시하고, 그 적용을 위한 투자를 고려해야 합니다.",
+  "analyzed_at": "2026-07-31T14:30:34.583Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
