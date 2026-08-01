@@ -1,72 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "갤럭시 폴드8",
-      "summary": "갤럭시 폴드8의 초기 접힘 주름이 없고, 물량이 부족한 것으로 나타났습니다. 또한, 아이폰과 갤럭시의 비교가热해지고 있습니다.",
+      "topic": "최민희",
+      "summary": "최민희 의원에 대한 다양한 의견과 논란",
       "post_count": 5,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "반도체",
-      "summary": "반도체 성과급 지급과 관련된 주제가 논의되고 있습니다. 또한, 반도체 관련 뉴스가 많이出现하고 있습니다.",
+      "topic": "스파이더맨",
+      "summary": "스파이더맨 영화에 대한 리뷰와 감상",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 산업 동향",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 기술과 제품이 다양한 분야에서 적용되고 있습니다. 또한, AI 관련 뉴스가 많이出现하고 있습니다.",
-      "post_count": 15,
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "전자제품",
+      "summary": "최신 전자제품과 기술",
+      "post_count": 8,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시 폴드8",
+      "keyword": "최민희",
       "count": 5,
-      "sentiment": "positive",
-      "context": "갤럭시 폴드8의 초기 접힘 주름이 없고, 물량이 부족한 것으로 나타났습니다."
+      "sentiment": "negative",
+      "context": "최민희 의원에 대한 논란"
     },
     {
-      "keyword": "반도체",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "반도체 성과급 지급과 관련된 주제가 논의되고 있습니다."
+      "keyword": "스파이더맨",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "스파이더맨 영화 리뷰"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 관련 기술과 제품이 다양한 분야에서 적용되고 있습니다."
+      "context": "최신 AI 기술과 산업 동향"
+    },
+    {
+      "keyword": "정치",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "전자제품",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 전자제품과 기술"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "긍정적인 분위기"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 기분이지만 일부 논란과 부정적인 의견이 존재"
   },
   "business_insights": [
     {
-      "insight": "갤럭시 폴드8의 초기 접힘 주름이 없고, 물량이 부족한 것으로 나타났습니다.",
-      "action": "갤럭시 폴드8의 마케팅 전략을 재검토하여 물량 부족 문제를 해결할 수 있습니다.",
+      "insight": "최신 AI 기술은 산업에서 큰 영향을 미칠 수 있다",
+      "action": "AI 기술에 대한 투자와 연구를 강화",
       "priority": "high"
     },
     {
-      "insight": "반도체 성과급 지급과 관련된 주제가 논의되고 있습니다.",
-      "action": "반도체 관련 기업의 마케팅 전략을 재검토하여 성과급 지급 문제를 해결할 수 있습니다.",
+      "insight": "전자제품 시장은 지속적으로 성장할 수 있다",
+      "action": "최신 전자제품에 대한 마케팅과 판매를 강화",
       "priority": "medium"
     },
     {
-      "insight": "AI 관련 기술과 제품이 다양한 분야에서 적용되고 있습니다.",
-      "action": "AI 관련 기술과 제품을 개발하여 다양한 분야에서 적용할 수 있습니다.",
-      "priority": "high"
+      "insight": "정치와 사회적 논란은 소비자들의 기분을 영향을 미칠 수 있다",
+      "action": "정치와 사회적 논란에 대한 대응과 관리를 강화",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 갤럭시 폴드8, 반도체, AI 관련 주제가 많이 논의되고 있습니다. 갤럭시 폴드8의 초기 접힘 주름이 없고, 물량이 부족한 것으로 나타났습니다. 반도체 성과급 지급과 관련된 주제가 논의되고 있습니다. AI 관련 기술과 제품이 다양한 분야에서 적용되고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 재검토하여 물량 부족 문제를 해결할 수 있습니다. 또한, AI 관련 기술과 제품을 개발하여 다양한 분야에서 적용할 수 있습니다.",
-  "analyzed_at": "2026-08-01T07:01:33.841Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 최민희 의원과 스파이더맨 영화가 주목을 받고 있는 것으로 나타났습니다. 또한, 최신 AI 기술과 전자제품이 산업에서 큰 영향을 미칠 수 있는 것으로 나타났습니다. 그러나, 정치와 사회적 논란은 소비자들의 기분을 영향을 미칠 수 있으므로, 이를 관리하고 대응하는 것이 중요합니다. 이러한 트렌드와 키워드를 고려하여, 마케팅과 판매 전략을 강화하고, 소비자들의 기분과 요구를 이해하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-01T08:30:34.668Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
