@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. OpenAI의 아스트라 비공개 시연, 클로드의 해킹 등이 언급되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련 주제가 논의되고 있습니다. 당대표 선거, 보완수사권 폐지 등이 언급되고 있습니다.",
-      "post_count": 8,
+      "topic": "민주당 전당대회",
+      "summary": "김민석, 충청 경선서 승리… 金 45.08%·정청래 44.63%·송영길 10.34%",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 주제가 논의되고 있습니다. 메모리 수요, 반도체 산업 등이 언급되고 있습니다.",
-      "post_count": 6,
+      "topic": "AI 기술",
+      "summary": "삼성전자, LG AI연구원, KAI 등이 AI 기술 개발과 적용에 박차를 가하고 있다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "국제 뉴스",
+      "summary": "아르헨티나산 원유 88만 배럴 국내 첫 도입, 스페인 세우타 '수만명 월경' 사태 진정",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "정치",
+      "keyword": "김민석",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련 주제"
+      "sentiment": "positive",
+      "context": "민주당 전당대회 관련 뉴스"
     },
     {
-      "keyword": "경제",
+      "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "경제 관련 주제"
+      "context": "기술 개발과 적용 관련 뉴스"
+    },
+    {
+      "keyword": "정청래",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "민주당 전당대회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 25,
     "negative": 15,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 관련 산업의 동향을 분석합니다.",
+      "insight": "AI 기술 개발과 적용이 중요하다",
+      "action": "AI 기술 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제는 사회적으로 큰 관심을 끌 수 있습니다.",
-      "action": "정치 관련 주제를 주시하고, 관련 뉴스를 분석합니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 주제는 산업의 동향을 분석하는 데 중요합니다.",
-      "action": "경제 관련 주제를 주시하고, 관련 산업의 동향을 분석합니다.",
+      "insight": "민주당 전당대회 결과가 정치와 경제에 영향을 미친다",
+      "action": "정치와 경제 동향을 주시하기",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술, 정치, 경제 관련 주제가 주목을 끌고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 정치 관련 주제는 사회적으로 큰 관심을 끌 수 있습니다. 또한, 경제 관련 주제는 산업의 동향을 분석하는 데 중요합니다. 이러한 트렌드를 주시하고, 관련 산업의 동향을 분석하여 사업을 발전시키는 데 활용할 수 있습니다.",
-  "analyzed_at": "2026-08-01T10:01:29.754Z",
+  "narrative": "현재의 트렌드는 민주당 전당대회와 AI 기술 개발과 적용에 관한 뉴스입니다. 김민석과 정청래는 민주당 전당대회 관련 뉴스에서 많이 언급되었습니다. AI 기술 개발과 적용은 삼성전자, LG AI연구원, KAI 등에서 진행되고 있습니다. 이러한 트렌드는 정치와 경제에 영향을 미칠 수 있습니다. 따라서 AI 기술 개발에 투자하고 정치와 경제 동향을 주시하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-01T11:30:34.024Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
