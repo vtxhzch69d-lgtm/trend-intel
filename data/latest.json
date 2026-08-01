@@ -8,32 +8,25 @@
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 뉴스와 분석",
+      "topic": "경제 및 주식",
+      "summary": "경제 및 주식 관련 뉴스와 분석",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
+    },
+    {
+      "topic": "스마트폰 및 가전",
+      "summary": "최신 스마트폰 및 가전 제품 뉴스",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     },
     {
       "topic": "사회 및 정치",
-      "summary": "사회 및 정치 뉴스와 논평",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술 및 가전",
-      "summary": "신규 기술과 가전 제품에 대한 정보",
+      "summary": "사회 및 정치 관련 뉴스와 논평",
       "post_count": 7,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "생활 및 문화",
-      "summary": "생활과 문화에 관련된 다양한 주제",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -44,55 +37,49 @@
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "경제 뉴스와 분석"
-    },
-    {
       "keyword": "삼성전자",
       "count": 5,
-      "sentiment": "positive",
-      "context": "삼성전자 뉴스와 제품 정보"
-    },
-    {
-      "keyword": "애플",
-      "count": 3,
       "sentiment": "neutral",
-      "context": "애플 뉴스와 제품 정보"
+      "context": "삼성전자 관련 뉴스"
     },
     {
-      "keyword": "쿠팡",
-      "count": 2,
-      "sentiment": "negative",
-      "context": "쿠팡 관련 논란"
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "경제 관련 뉴스와 분석"
+    },
+    {
+      "keyword": "스파이더맨",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "스파이더맨 영화 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 15,
+    "negative": 20,
     "neutral": 40,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 기회를 창출할 수 있다",
-      "action": "AI 기술을 활용한 신규 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에서 적용 가능하다",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제 및 금융 뉴스와 분석은 비즈니스 의사 결정에 중요한 역할을 한다",
-      "action": "경제 및 금융 뉴스와 분석을 주기적으로 모니터링",
+      "insight": "경제 및 주식 시장은 계속해서 변동할 것이다",
+      "action": "주기적인 시장 분석과 예측",
       "priority": "medium"
     },
     {
-      "insight": "사회 및 정치 뉴스와 논평은 비즈니스에 영향을 미칠 수 있다",
-      "action": "사회 및 정치 뉴스와 논평을 주기적으로 모니터링",
-      "priority": "medium"
+      "insight": "스마트폰 및 가전 제품 시장은 경쟁이 심화할 것이다",
+      "action": "신제품 개발과 마케팅 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목을 받고 있습니다. 또한, 경제 및 금융 뉴스와 분석은 비즈니스 의사 결정에 중요한 역할을 합니다. 그러나, 사회 및 정치 뉴스와 논평은 비즈니스에 영향을 미칠 수 있으므로 주기적으로 모니터링하는 것이 중요합니다. 이러한 트렌드와 키워드를 분석하여 비즈니스 전략을 개발하고, 신규 비즈니스 모델을 창출할 수 있습니다.",
-  "analyzed_at": "2026-08-01T01:00:34.546Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 다양한 산업에서의 적용이 주목을 받고 있다. 또한, 경제 및 주식 시장은 계속해서 변동할 것으로 예상되며, 스마트폰 및 가전 제품 시장은 경쟁이 심화할 것이다. 이러한 트렌드에 따라, 기업들은 AI 기술을 활용한 새로운 비즈니스 모델 개발과 주기적인 시장 분석 및 예측, 신제품 개발과 마케팅 전략 수립 등에 집중해야 할 것이다. 또한, 사회 및 정치 관련 뉴스와 논평도 주목을 받고 있으며, 이러한 트렌드에 따라 기업들은 사회적 책임과 정치적 리스크 관리에도 관심을 가져야 할 것이다.",
+  "analyzed_at": "2026-08-01T02:30:36.049Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
