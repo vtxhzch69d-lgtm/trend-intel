@@ -1,54 +1,42 @@
 {
   "trending_topics": [
     {
-      "topic": "신제품 출시",
-      "summary": "새로운 스마트폰이 출시되었습니다. 많은 사람들이 관심을 보이고 있습니다.",
+      "topic": "고민 상담",
+      "summary": "고민 상담 게시글이 많은 관심을 받고 있습니다. 사용자들은 다양한 고민을 공유하고 있습니다.",
       "post_count": 100,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "사회 문제",
-      "summary": "最近 社会 문제에 대한 관심이 높아지고 있습니다. 많은 사람들이 의견을 나누고 있습니다.",
-      "post_count": 50,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "신제품",
+      "keyword": "고민",
       "count": 50,
-      "sentiment": "positive",
-      "context": "새로운 스마트폰"
+      "sentiment": "negative",
+      "context": "고민 상담 게시글에서 자주 등장하는 키워드"
     },
     {
-      "keyword": "사회 문제",
+      "keyword": "상담",
       "count": 30,
-      "sentiment": "negative",
-      "context": "最近 社会 문제"
+      "sentiment": "neutral",
+      "context": "고민 상담 게시글에서 자주 등장하는 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 60,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "대체적으로 긍정적인 분위기입니다."
+    "positive": 20,
+    "negative": 40,
+    "neutral": 40,
+    "overall_mood": "부정적인 감정이 많지만 중립적인 감정도 많습니다."
   },
   "business_insights": [
     {
-      "insight": "신제품 출시에 대한 관심이 높아지고 있습니다.",
-      "action": "신제품에 대한 마케팅을 강화하세요.",
+      "insight": "고민 상담 게시글이 많은 관심을 받고 있습니다.",
+      "action": "고민 상담 게시글에 대한 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
-    },
-    {
-      "insight": "사회 문제에 대한 관심이 높아지고 있습니다.",
-      "action": "사회 문제에 대한 의견을 수렴하고 해결책을 제시하세요.",
-      "priority": "medium"
     }
   ],
-  "narrative": "最近 온라인 커뮤니티에서 신제품 출시와 사회 문제에 대한 관심이 높아지고 있습니다. 신제품 출시에 대한 관심은 매우 높으며, 많은 사람들이 새로운 스마트폰에 대한 정보를 찾고 있습니다. 사회 문제에 대한 관심도 높아지고 있으며, 많은 사람들이 의견을 나누고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다. 신제품에 대한 마케팅을 강화하고, 사회 문제에 대한 의견을 수렴하여 해결책을 제시하는 것이 좋습니다.",
-  "analyzed_at": "2026-08-01T20:30:34.112Z",
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 고민 상담 게시글이 많은 관심을 받고 있습니다. 사용자들은 다양한 고민을 공유하고 있으며, 이에 대한 마케팅 전략을 수립해야 합니다. 고민 상담 게시글에서 자주 등장하는 키워드는 '고민'과 '상담'입니다. 부정적인 감정이 많지만 중립적인 감정도 많습니다. 따라서 마케팅 전략을 수립할 때 이러한 감정을 고려해야 합니다.",
+  "analyzed_at": "2026-08-01T21:30:33.612Z",
   "post_count": 2,
   "sources": [
     "ppomppu"
