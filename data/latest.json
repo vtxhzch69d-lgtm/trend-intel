@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래와 김민석의 정치 관련 뉴스와 의견이 많습니다. 최근 정치 관련 게시글이 많아졌습니다.",
+      "topic": "AI 기술",
+      "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI와 기술 관련 뉴스와 의견이 많습니다. 최근 AI와 기술 관련 게시글이 많아졌습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "현재 진행 중인 정치적 이슈와 관련된 게시글",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "생활 및 일상",
-      "summary": "생활과 일상 관련 뉴스와 의견이 많습니다. 최근 생활과 일상 관련 게시글이 많아졌습니다.",
-      "post_count": 10,
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스와 관련된 게시글",
+      "post_count": 20,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정청래와 관련된 정치 뉴스와 의견"
-    },
-    {
       "keyword": "AI",
-      "count": 15,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI와 기술 관련 뉴스와 의견"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "삼성전자",
-      "count": 5,
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "현재 진행 중인 정치적 이슈"
+    },
+    {
+      "keyword": "기술",
+      "count": 30,
       "sentiment": "neutral",
-      "context": "삼성전자와 관련된 기술 뉴스와 의견"
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 뉴스와 의견이 많아졌습니다.",
-      "action": "정치 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킵니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 산업의 성장",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련 뉴스와 의견이 많아졌습니다.",
-      "action": "AI와 기술 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킵니다.",
+      "insight": "정치적 이슈",
+      "action": "정치적 이슈에 대한 대응",
       "priority": "medium"
     },
     {
-      "insight": "생활과 일상 관련 뉴스와 의견이 많아졌습니다.",
-      "action": "생활과 일상 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킵니다.",
+      "insight": "최신 기술 뉴스",
+      "action": "최신 기술 뉴스에 대한 분석",
       "priority": "low"
     }
   ],
-  "narrative": "최근 정치 관련 뉴스와 의견이 많아졌습니다. 정청래와 김민석의 정치 관련 뉴스와 의견이 많아졌습니다. 또한 AI와 기술 관련 뉴스와 의견이 많아졌습니다. 삼성전자와 관련된 기술 뉴스와 의견도 많아졌습니다. 이러한 트렌드를 반영하여 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킬 수 있습니다. 정치 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킬 수 있습니다. 또한 AI와 기술 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킬 수 있습니다. 생활과 일상 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킬 수 있습니다.",
-  "analyzed_at": "2026-08-01T16:00:34.461Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 또한, 현재 진행 중인 정치적 이슈와 관련된 게시글이 많습니다. 기술 뉴스도 많은 관심을 받고 있습니다. 이러한 트렌드에 대한 분석과 대응이 필요합니다.",
+  "analyzed_at": "2026-08-01T19:00:34.080Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
