@@ -1,75 +1,56 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
-      "post_count": 15,
+      "topic": "신제품 출시",
+      "summary": "새로운 스마트폰이 출시되었습니다. 많은 사람들이 관심을 보이고 있습니다.",
+      "post_count": 100,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "현재 진행 중인 정치적 이슈와 관련된 게시글",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "사회 문제",
+      "summary": "最近 社会 문제에 대한 관심이 높아지고 있습니다. 많은 사람들이 의견을 나누고 있습니다.",
+      "post_count": 50,
+      "sentiment": "negative",
       "urgency": "medium"
-    },
-    {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스와 관련된 게시글",
-      "post_count": 20,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 25,
+      "keyword": "신제품",
+      "count": 50,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "새로운 스마트폰"
     },
     {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "현재 진행 중인 정치적 이슈"
-    },
-    {
-      "keyword": "기술",
+      "keyword": "사회 문제",
       "count": 30,
-      "sentiment": "neutral",
-      "context": "최신 기술 뉴스"
+      "sentiment": "negative",
+      "context": "最近 社会 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 60,
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "대체적으로 긍정적인 분위기입니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 산업의 성장",
+      "insight": "신제품 출시에 대한 관심이 높아지고 있습니다.",
+      "action": "신제품에 대한 마케팅을 강화하세요.",
       "priority": "high"
     },
     {
-      "insight": "정치적 이슈",
-      "action": "정치적 이슈에 대한 대응",
+      "insight": "사회 문제에 대한 관심이 높아지고 있습니다.",
+      "action": "사회 문제에 대한 의견을 수렴하고 해결책을 제시하세요.",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 뉴스",
-      "action": "최신 기술 뉴스에 대한 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 주목을 받고 있습니다. 또한, 현재 진행 중인 정치적 이슈와 관련된 게시글이 많습니다. 기술 뉴스도 많은 관심을 받고 있습니다. 이러한 트렌드에 대한 분석과 대응이 필요합니다.",
-  "analyzed_at": "2026-08-01T19:00:34.080Z",
-  "post_count": 61,
+  "narrative": "最近 온라인 커뮤니티에서 신제품 출시와 사회 문제에 대한 관심이 높아지고 있습니다. 신제품 출시에 대한 관심은 매우 높으며, 많은 사람들이 새로운 스마트폰에 대한 정보를 찾고 있습니다. 사회 문제에 대한 관심도 높아지고 있으며, 많은 사람들이 의견을 나누고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다. 신제품에 대한 마케팅을 강화하고, 사회 문제에 대한 의견을 수렴하여 해결책을 제시하는 것이 좋습니다.",
+  "analyzed_at": "2026-08-01T20:30:34.112Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
