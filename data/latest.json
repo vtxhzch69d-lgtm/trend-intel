@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "갤럭시 폴드 8",
-      "summary": "갤럭시 폴드 8의 물량 부족과 예판 상황에 대한 논의",
+      "topic": "갤럭시 폴드8",
+      "summary": "갤럭시 폴드8의 초기 접힘 주름이 없고, 물량이 부족한 것으로 나타났습니다. 또한, 아이폰과 갤럭시의 비교가热해지고 있습니다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "검찰 개혁",
-      "summary": "검찰 개혁과 수사권에 대한 논의",
+      "topic": "반도체",
+      "summary": "반도체 성과급 지급과 관련된 주제가 논의되고 있습니다. 또한, 반도체 관련 뉴스가 많이出现하고 있습니다.",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 산업 동향에 대한 논의",
+      "topic": "AI",
+      "summary": "AI 관련 기술과 제품이 다양한 분야에서 적용되고 있습니다. 또한, AI 관련 뉴스가 많이出现하고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시 폴드 8",
-      "count": 7,
-      "sentiment": "neutral",
-      "context": "신제품 출시와 물량 부족"
+      "keyword": "갤럭시 폴드8",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "갤럭시 폴드8의 초기 접힘 주름이 없고, 물량이 부족한 것으로 나타났습니다."
     },
     {
-      "keyword": "검찰 개혁",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "정치와 사회적 논의"
+      "keyword": "반도체",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "반도체 성과급 지급과 관련된 주제가 논의되고 있습니다."
     },
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 발전과 산업 동향"
+      "context": "AI 관련 기술과 제품이 다양한 분야에서 적용되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적이고 정보 중심적인 분위기"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "갤럭시 폴드 8의 물량 부족은 소비자들의 구매 의사를 높일 수 있다",
-      "action": "제품 공급량을 증가시키거나 마케팅 전략을 조정한다",
+      "insight": "갤럭시 폴드8의 초기 접힘 주름이 없고, 물량이 부족한 것으로 나타났습니다.",
+      "action": "갤럭시 폴드8의 마케팅 전략을 재검토하여 물량 부족 문제를 해결할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "검찰 개혁은 정치와 사회적 논의를 불러일으킬 수 있다",
-      "action": "정책과 법률을 검토하고 대응 전략을 수립한다",
+      "insight": "반도체 성과급 지급과 관련된 주제가 논의되고 있습니다.",
+      "action": "반도체 관련 기업의 마케팅 전략을 재검토하여 성과급 지급 문제를 해결할 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술은 다양한 산업에서 적용될 수 있다",
-      "action": "AI 기술을 연구하고 개발하여 산업에 적용한다",
-      "priority": "low"
+      "insight": "AI 관련 기술과 제품이 다양한 분야에서 적용되고 있습니다.",
+      "action": "AI 관련 기술과 제품을 개발하여 다양한 분야에서 적용할 수 있습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 온라인 커뮤니티 트렌드는 갤럭시 폴드 8의 물량 부족과 검찰 개혁, AI 기술 등 다양한 주제를 다루고 있다. 이러한 주제들은 소비자들의 구매 의사와 정치적 논의, 기술 발전을 포함하여 다양한 산업과 사회적 현상을 반영하고 있다. 따라서 기업과 기관은 이러한 트렌드를 분석하고 대응 전략을 수립하여 시장과 사회적 요구에 부응할 수 있어야 한다.",
-  "analyzed_at": "2026-08-01T05:30:34.274Z",
+  "narrative": "최근의 트렌드 분석 결과, 갤럭시 폴드8, 반도체, AI 관련 주제가 많이 논의되고 있습니다. 갤럭시 폴드8의 초기 접힘 주름이 없고, 물량이 부족한 것으로 나타났습니다. 반도체 성과급 지급과 관련된 주제가 논의되고 있습니다. AI 관련 기술과 제품이 다양한 분야에서 적용되고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 재검토하여 물량 부족 문제를 해결할 수 있습니다. 또한, AI 관련 기술과 제품을 개발하여 다양한 분야에서 적용할 수 있습니다.",
+  "analyzed_at": "2026-08-01T07:01:33.841Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
