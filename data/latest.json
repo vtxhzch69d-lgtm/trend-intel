@@ -1,44 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "고민 상담",
-      "summary": "고민 상담 게시글이 많은 관심을 받고 있습니다. 사용자들은 다양한 고민을 공유하고 있습니다.",
-      "post_count": 100,
-      "sentiment": "mixed",
+      "topic": "AI 및 기술",
+      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히 AI의 발전과 그에 따른 보안 위험, 새로운 기술의 등장 등이 주요话题입니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 주제도 많이 обсужд되고 있습니다. 특히 정치인에 대한 논평, 사회 문제 등이 주요话题입니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "생활 및 문화",
+      "summary": "생활 및 문화 관련 주제도 일부 обсужд되고 있습니다. 특히 여름 휴가, 맥주 등이 주요话题입니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "고민",
-      "count": 50,
-      "sentiment": "negative",
-      "context": "고민 상담 게시글에서 자주 등장하는 키워드"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI의 발전과 그에 따른 보안 위험"
     },
     {
-      "keyword": "상담",
-      "count": 30,
-      "sentiment": "neutral",
-      "context": "고민 상담 게시글에서 자주 등장하는 키워드"
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치인에 대한 논평, 사회 문제"
+    },
+    {
+      "keyword": "기술",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "새로운 기술의 등장"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 40,
-    "neutral": 40,
-    "overall_mood": "부정적인 감정이 많지만 중립적인 감정도 많습니다."
+    "positive": 10,
+    "negative": 5,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "고민 상담 게시글이 많은 관심을 받고 있습니다.",
-      "action": "고민 상담 게시글에 대한 마케팅 전략을 수립해야 합니다.",
+      "insight": "AI 및 기술 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "AI 및 기술 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다.",
       "priority": "high"
+    },
+    {
+      "insight": "정치 및 사회 관련 주제가 많이 обсужд되고 있습니다.",
+      "action": "정치 및 사회 관련 주제에 대한 의견을 수렴하여 제품이나 서비스를 개발할 수 있습니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 고민 상담 게시글이 많은 관심을 받고 있습니다. 사용자들은 다양한 고민을 공유하고 있으며, 이에 대한 마케팅 전략을 수립해야 합니다. 고민 상담 게시글에서 자주 등장하는 키워드는 '고민'과 '상담'입니다. 부정적인 감정이 많지만 중립적인 감정도 많습니다. 따라서 마케팅 전략을 수립할 때 이러한 감정을 고려해야 합니다.",
-  "analyzed_at": "2026-08-01T21:30:33.612Z",
-  "post_count": 2,
+  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히 AI의 발전과 그에 따른 보안 위험, 새로운 기술의 등장 등이 주요话题입니다. 또한 정치 및 사회 관련 주제도 많이 обсужд되고 있습니다. 이러한 트렌드를 분석하여 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다. 또한 정치 및 사회 관련 주제에 대한 의견을 수렴하여 제품이나 서비스를 개발할 수 있습니다.",
+  "analyzed_at": "2026-08-01T23:01:30.109Z",
+  "post_count": 61,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
