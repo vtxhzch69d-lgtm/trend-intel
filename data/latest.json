@@ -1,98 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "최민희",
-      "summary": "최민희 의원에 대한 다양한 의견과 논란",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "스파이더맨",
-      "summary": "스파이더맨 영화에 대한 리뷰와 감상",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "low"
-    },
-    {
       "topic": "AI 기술",
-      "summary": "최신 AI 기술과 산업 동향",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. OpenAI의 아스트라 비공개 시연, 클로드의 해킹 등이 언급되고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "summary": "정치 관련 주제가 논의되고 있습니다. 당대표 선거, 보완수사권 폐지 등이 언급되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     },
     {
-      "topic": "전자제품",
-      "summary": "최신 전자제품과 기술",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "경제 관련 주제가 논의되고 있습니다. 메모리 수요, 반도체 산업 등이 언급되고 있습니다.",
+      "post_count": 6,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "최민희",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "최민희 의원에 대한 논란"
-    },
-    {
-      "keyword": "스파이더맨",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "스파이더맨 영화 리뷰"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "최신 AI 기술과 산업 동향"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
       "keyword": "정치",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스와 의견"
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련 주제"
     },
     {
-      "keyword": "전자제품",
+      "keyword": "경제",
       "count": 8,
       "sentiment": "positive",
-      "context": "최신 전자제품과 기술"
+      "context": "경제 관련 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적인 기분이지만 일부 논란과 부정적인 의견이 존재"
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 AI 기술은 산업에서 큰 영향을 미칠 수 있다",
-      "action": "AI 기술에 대한 투자와 연구를 강화",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있습니다.",
+      "action": "AI 기술의 발전을 주시하고, 관련 산업의 동향을 분석합니다.",
       "priority": "high"
     },
     {
-      "insight": "전자제품 시장은 지속적으로 성장할 수 있다",
-      "action": "최신 전자제품에 대한 마케팅과 판매를 강화",
+      "insight": "정치 관련 주제는 사회적으로 큰 관심을 끌 수 있습니다.",
+      "action": "정치 관련 주제를 주시하고, 관련 뉴스를 분석합니다.",
       "priority": "medium"
     },
     {
-      "insight": "정치와 사회적 논란은 소비자들의 기분을 영향을 미칠 수 있다",
-      "action": "정치와 사회적 논란에 대한 대응과 관리를 강화",
+      "insight": "경제 관련 주제는 산업의 동향을 분석하는 데 중요합니다.",
+      "action": "경제 관련 주제를 주시하고, 관련 산업의 동향을 분석합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 최민희 의원과 스파이더맨 영화가 주목을 받고 있는 것으로 나타났습니다. 또한, 최신 AI 기술과 전자제품이 산업에서 큰 영향을 미칠 수 있는 것으로 나타났습니다. 그러나, 정치와 사회적 논란은 소비자들의 기분을 영향을 미칠 수 있으므로, 이를 관리하고 대응하는 것이 중요합니다. 이러한 트렌드와 키워드를 고려하여, 마케팅과 판매 전략을 강화하고, 소비자들의 기분과 요구를 이해하는 것이 중요합니다.",
-  "analyzed_at": "2026-08-01T08:30:34.668Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술, 정치, 경제 관련 주제가 주목을 끌고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 정치 관련 주제는 사회적으로 큰 관심을 끌 수 있습니다. 또한, 경제 관련 주제는 산업의 동향을 분석하는 데 중요합니다. 이러한 트렌드를 주시하고, 관련 산업의 동향을 분석하여 사업을 발전시키는 데 활용할 수 있습니다.",
+  "analyzed_at": "2026-08-01T10:01:29.754Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
