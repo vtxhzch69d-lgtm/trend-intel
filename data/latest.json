@@ -1,54 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래 당선",
-      "summary": "클리앙 커뮤니티에서 정청래의 당선이 큰 이슈로 떠올랐습니다. 많은 사용자들이 정청래의 당선에 대해 논의하고 있습니다.",
+      "topic": "정청래",
+      "summary": "정청래의 민주당 대표 후보 지명과 관련된 다양한 의견과 반응",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "조국 연구원장",
-      "summary": "클리앙 커뮤니티에서 조국 연구원장에 대한 논의가 있습니다. 일부 사용자들은 조국 연구원장의 행동에 대해 비판적입니다.",
+      "topic": "주식",
+      "summary": "주식 투자와 관련된 다양한 의견과 반응",
       "post_count": 5,
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "urgency": "medium"
+    },
+    {
+      "topic": "KTX 요금",
+      "summary": "KTX 요금에 대한 다양한 의견과 반응",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "정청래",
       "count": 15,
-      "sentiment": "positive",
-      "context": "클리앙 커뮤니티에서 정청래의 당선에 대해 논의"
+      "sentiment": "mixed",
+      "context": "민주당 대표 후보 지명"
     },
     {
-      "keyword": "조국",
+      "keyword": "주식",
       "count": 8,
+      "sentiment": "neutral",
+      "context": "투자와 관련된 의견"
+    },
+    {
+      "keyword": "KTX",
+      "count": 5,
       "sentiment": "negative",
-      "context": "클리앙 커뮤니티에서 조국 연구원장에 대한 비판"
+      "context": "요금에 대한 불만"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "클리앙 커뮤니티의 전반적인 분위기는 긍정적입니다."
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적인 반응이 대부분이지만, 일부 주제에서는 부정적인 반응이 나타남"
   },
   "business_insights": [
     {
-      "insight": "정청래의 당선은 정치적 이슈로 큰 관심을 받고 있습니다.",
-      "action": "정치적 이슈에 대한 관심을 높여야 합니다.",
+      "insight": "정청래의 민주당 대표 후보 지명은 다양한 반응을 불러일으킴",
+      "action": "정치 관련 주제에 대한 의견을 수집하고 분석함",
       "priority": "high"
     },
     {
-      "insight": "클리앙 커뮤니티에서 조국 연구원장에 대한 비판이 있습니다.",
-      "action": "조국 연구원장의 행동에 대한 비판을 주시해야 합니다.",
+      "insight": "주식 투자와 관련된 의견은 중립적인 반응이 대부분",
+      "action": "주식 투자와 관련된 의견을 수집하고 분석함",
       "priority": "medium"
+    },
+    {
+      "insight": "KTX 요금에 대한 불만은 일부 사용자에게서 나타남",
+      "action": "KTX 요금에 대한 의견을 수집하고 분석함",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정청래의 당선이 큰 이슈로 떠올랐습니다. 많은 사용자들이 정청래의 당선에 대해 논의하고 있습니다. 또한, 일부 사용자들은 조국 연구원장의 행동에 대해 비판적입니다. 클리언 커뮤니티의 전반적인 분위기는 긍정적입니다. 그러나, 조국 연구원장에 대한 비판이 있습니다. 따라서, 정치적 이슈에 대한 관심을 높여야 하며, 조국 연구원장의 행동에 대한 비판을 주시해야 합니다.",
-  "analyzed_at": "2026-08-02T12:30:33.572Z",
+  "narrative": "최근의 트렌드는 정청래의 민주당 대표 후보 지명과 관련된 다양한 의견과 반응을 보여줌. 주식 투자와 관련된 의견은 중립적인 반응이 대부분이지만, KTX 요금에 대한 불만은 일부 사용자에게서 나타남. 이러한 트렌드는 정치, 경제, 사회 등 다양한 분야에서 의견을 수집하고 분석하는 데 활용될 수 있음. 또한, 이러한 트렌드는 마케팅 전략을 수립하고, 제품이나 서비스를 개발하는 데에도 활용될 수 있음.",
+  "analyzed_at": "2026-08-02T14:01:22.462Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
