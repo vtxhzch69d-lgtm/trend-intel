@@ -1,67 +1,78 @@
 {
   "trending_topics": [
     {
-      "topic": "스파이더맨",
-      "summary": "스파이더맨 영화에 대한 감상과 평가",
-      "post_count": 2,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정청래와 이재명에 대한 논의",
+      "post_count": 5,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정청래의 발언과 민주당의 현실에 대한 논의",
-      "post_count": 3,
-      "sentiment": "mixed",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품에 대한 소개",
+      "topic": "경제",
+      "summary": "경제 뉴스와 분석",
       "post_count": 10,
       "sentiment": "neutral",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "스파이더맨",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "영화 감상"
-    },
-    {
       "keyword": "정청래",
-      "count": 2,
+      "count": 5,
       "sentiment": "negative",
       "context": "정치 논의"
     },
     {
-      "keyword": "삼성",
+      "keyword": "이재명",
       "count": 3,
-      "sentiment": "neutral",
+      "sentiment": "positive",
+      "context": "정치 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
       "context": "기술 뉴스"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 5,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 제품에 대한 관심이 높아지고 있다",
-      "action": "최신 기술 제품에 대한 마케팅을 강화할 필요가 있다",
+      "insight": "정치 논의가 증가하고 있다",
+      "action": "정치 관련 콘텐츠 생성",
+      "priority": "medium"
+    },
+    {
+      "insight": "기술 뉴스가 많은 관심을 받고 있다",
+      "action": "기술 관련 콘텐츠 생성",
       "priority": "high"
     },
     {
-      "insight": "정치 논의가 활발하게 진행되고 있다",
-      "action": "정치 논의에 대한 분석과 해석을 제공할 필요가 있다",
+      "insight": "경제 뉴스가 중립적인 반응을 보이고 있다",
+      "action": "경제 관련 콘텐츠 생성",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서는 스파이더맨 영화와 정치 논의가 주목을 받고 있다. 또한 최신 기술 제품에 대한 관심이 높아지고 있다. 이러한 트렌드에 대한 분석과 해석을 제공함으로써 마케터는 최신 기술 제품에 대한 마케팅을 강화하고 정치 논의에 대한 분석을 제공할 수 있다. 또한 중립적인 마케팅 전략을 통해 다양한 고객의 니즈를 충족시킬 수 있다.",
-  "analyzed_at": "2026-08-02T03:30:33.836Z",
+  "narrative": "최근의 트렌드는 정치와 기술 뉴스에 대한 관심이 증가하고 있다. 정청래와 이재명에 대한 논의가 많으며, 최신 기술 뉴스와 트렌드도 많은 관심을 받고 있다. 경제 뉴스는 중립적인 반응을 보이고 있다. 이러한 트렌드를 반영하여 콘텐츠를 생성하고, 정치와 기술 관련 콘텐츠에 중점을 두는 것이 효과적일 수 있다.",
+  "analyzed_at": "2026-08-02T05:00:33.815Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
