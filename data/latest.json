@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근의 정치 상황과 관련된 게시글이 많습니다. 당내 감정싸움, 대선, 당대표 선거 등 다양한 정치 관련 주제가 논의되고 있습니다.",
+      "summary": "최근 정치 관련 게시글이 많아 정치적인 이슈가 뜨거운 것으로 보임",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "신규 기술과 관련된 게시글이 많습니다. AI, 로봇, 반도체 등 다양한 기술 관련 주제가 논의되고 있습니다.",
+      "topic": "테크",
+      "summary": "신제품 출시나 기술 발전에 대한 게시글이 많아 테크 분야가 활발한 것으로 보임",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "생활",
-      "summary": "생활과 관련된 게시글이 많습니다. 에어컨, 모바일 크롬, 스파이더맨 등 다양한 생활 관련 주제가 논의되고 있습니다.",
+      "summary": "생활 관련 게시글이 많아 일상생활에 대한 관심이 많음",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,44 +24,49 @@
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "最近의 정치 상황과 관련된 게시글이 많습니다."
+      "keyword": "갤럭시",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "신제품 출시"
+    },
+    {
+      "keyword": "폴드",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "신제품 출시"
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "신규 기술과 관련된 게시글이 많습니다."
-    },
-    {
-      "keyword": "에어컨",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "생활과 관련된 게시글이 많습니다."
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "기술 발전"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 많이 논의되고 있습니다.",
-      "action": "정치 관련 주제에 대한 컨텐츠를 생성하여 유저들의 관심을 끌 수 있습니다.",
+      "insight": "신제품 출시를 통해 시장 점유율을 높일 수 있음",
+      "action": "신제품 개발 및 출시",
       "priority": "high"
     },
     {
-      "insight": "신규 기술과 관련된 주제가 많이 논의되고 있습니다.",
-      "action": "신규 기술과 관련된 주제에 대한 컨텐츠를 생성하여 유저들의 관심을 끌 수 있습니다.",
+      "insight": "테크 분야의 기술 발전을 주시하여 시장 동향을 파악할 수 있음",
+      "action": "테크 분야 시장 조사",
       "priority": "medium"
+    },
+    {
+      "insight": "생활 관련 게시글을 통해 소비자들의 관심사를 파악할 수 있음",
+      "action": "소비자 조사",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 정치 상황과 관련된 게시글이 많습니다. 당내 감정싸움, 대선, 당대표 선거 등 다양한 정치 관련 주제가 논의되고 있습니다. 또한, 신규 기술과 관련된 주제가 많이 논의되고 있습니다. AI, 로봇, 반도체 등 다양한 기술 관련 주제가 논의되고 있습니다. 생활과 관련된 게시글도 많습니다. 에어컨, 모바일 크롬, 스파이더맨 등 다양한 생활 관련 주제가 논의되고 있습니다. 이러한 주제에 대한 컨텐츠를 생성하여 유저들의 관심을 끌 수 있습니다.",
-  "analyzed_at": "2026-08-02T15:30:33.991Z",
+  "narrative": "최근 정치, 테크, 생활 관련 게시글이 많아 다양한 분야의 관심사가 존재함. 신제품 출시를 통해 시장 점유율을 높일 수 있으며, 테크 분야의 기술 발전을 주시하여 시장 동향을 파악할 수 있음. 또한, 생활 관련 게시글을 통해 소비자들의 관심사를 파악할 수 있어 마케팅 전략 수립에 도움이 될 수 있음.",
+  "analyzed_at": "2026-08-02T17:00:33.588Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
