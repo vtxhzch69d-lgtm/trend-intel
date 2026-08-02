@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래",
-      "summary": "정청래의 민주당 대표 후보 지명과 관련된 다양한 의견과 반응",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "최근의 정치 상황과 관련된 게시글이 많습니다. 당내 감정싸움, 대선, 당대표 선거 등 다양한 정치 관련 주제가 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식",
-      "summary": "주식 투자와 관련된 다양한 의견과 반응",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "신규 기술과 관련된 게시글이 많습니다. AI, 로봇, 반도체 등 다양한 기술 관련 주제가 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "KTX 요금",
-      "summary": "KTX 요금에 대한 다양한 의견과 반응",
-      "post_count": 3,
-      "sentiment": "negative",
+      "topic": "생활",
+      "summary": "생활과 관련된 게시글이 많습니다. 에어컨, 모바일 크롬, 스파이더맨 등 다양한 생활 관련 주제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 15,
+      "keyword": "정치",
+      "count": 20,
       "sentiment": "mixed",
-      "context": "민주당 대표 후보 지명"
+      "context": "最近의 정치 상황과 관련된 게시글이 많습니다."
     },
     {
-      "keyword": "주식",
-      "count": 8,
-      "sentiment": "neutral",
-      "context": "투자와 관련된 의견"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "신규 기술과 관련된 게시글이 많습니다."
     },
     {
-      "keyword": "KTX",
+      "keyword": "에어컨",
       "count": 5,
-      "sentiment": "negative",
-      "context": "요금에 대한 불만"
+      "sentiment": "neutral",
+      "context": "생활과 관련된 게시글이 많습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
+    "positive": 30,
+    "negative": 20,
     "neutral": 50,
-    "overall_mood": "중립적인 반응이 대부분이지만, 일부 주제에서는 부정적인 반응이 나타남"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정청래의 민주당 대표 후보 지명은 다양한 반응을 불러일으킴",
-      "action": "정치 관련 주제에 대한 의견을 수집하고 분석함",
+      "insight": "정치 관련 주제가 많이 논의되고 있습니다.",
+      "action": "정치 관련 주제에 대한 컨텐츠를 생성하여 유저들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 투자와 관련된 의견은 중립적인 반응이 대부분",
-      "action": "주식 투자와 관련된 의견을 수집하고 분석함",
+      "insight": "신규 기술과 관련된 주제가 많이 논의되고 있습니다.",
+      "action": "신규 기술과 관련된 주제에 대한 컨텐츠를 생성하여 유저들의 관심을 끌 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "KTX 요금에 대한 불만은 일부 사용자에게서 나타남",
-      "action": "KTX 요금에 대한 의견을 수집하고 분석함",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정청래의 민주당 대표 후보 지명과 관련된 다양한 의견과 반응을 보여줌. 주식 투자와 관련된 의견은 중립적인 반응이 대부분이지만, KTX 요금에 대한 불만은 일부 사용자에게서 나타남. 이러한 트렌드는 정치, 경제, 사회 등 다양한 분야에서 의견을 수집하고 분석하는 데 활용될 수 있음. 또한, 이러한 트렌드는 마케팅 전략을 수립하고, 제품이나 서비스를 개발하는 데에도 활용될 수 있음.",
-  "analyzed_at": "2026-08-02T14:01:22.462Z",
+  "narrative": "최근의 정치 상황과 관련된 게시글이 많습니다. 당내 감정싸움, 대선, 당대표 선거 등 다양한 정치 관련 주제가 논의되고 있습니다. 또한, 신규 기술과 관련된 주제가 많이 논의되고 있습니다. AI, 로봇, 반도체 등 다양한 기술 관련 주제가 논의되고 있습니다. 생활과 관련된 게시글도 많습니다. 에어컨, 모바일 크롬, 스파이더맨 등 다양한 생활 관련 주제가 논의되고 있습니다. 이러한 주제에 대한 컨텐츠를 생성하여 유저들의 관심을 끌 수 있습니다.",
+  "analyzed_at": "2026-08-02T15:30:33.991Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
