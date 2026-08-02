@@ -2,77 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래와 이재명에 대한 논의",
-      "post_count": 5,
+      "summary": "이재명 대통령과 관련된 정치적 이슈가 많은 관심을 받고 있습니다. 여론조사와 관련된 게시글도 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 뉴스와 분석",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 관련된 게시글이 많습니다. AI, 반도체, 스마트폰 등 다양한 주제가 포함되어 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "사회",
+      "summary": "사회적인 문제와 관련된 게시글이 있습니다. 교육, 취업, 환경 등 다양한 주제가 포함되어 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
+      "keyword": "이재명",
       "count": 5,
       "sentiment": "negative",
-      "context": "정치 논의"
-    },
-    {
-      "keyword": "이재명",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "정치 논의"
+      "context": "정치적인 이슈와 관련된 게시글에서 많이 언급됩니다."
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 뉴스"
+      "context": "최신 기술 뉴스와 관련된 게시글에서 많이 언급됩니다."
     },
     {
-      "keyword": "삼성전자",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "keyword": "취업",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "사회적인 문제와 관련된 게시글에서 많이 언급됩니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기이지만, 일부에서는 부정적인 감정도 있습니다."
   },
   "business_insights": [
     {
-      "insight": "정치 논의가 증가하고 있다",
-      "action": "정치 관련 콘텐츠 생성",
-      "priority": "medium"
-    },
-    {
-      "insight": "기술 뉴스가 많은 관심을 받고 있다",
-      "action": "기술 관련 콘텐츠 생성",
+      "insight": "최신 기술 뉴스를 따라가야 합니다.",
+      "action": "최신 기술 뉴스를 모니터링하고, 관련된 제품이나 서비스를 개발해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 뉴스가 중립적인 반응을 보이고 있다",
-      "action": "경제 관련 콘텐츠 생성",
+      "insight": "사회적인 문제에 대한 해결책을 제공해야 합니다.",
+      "action": "교육, 취업, 환경 등 다양한 사회적인 문제에 대한 해결책을 제공해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술 뉴스에 대한 관심이 증가하고 있다. 정청래와 이재명에 대한 논의가 많으며, 최신 기술 뉴스와 트렌드도 많은 관심을 받고 있다. 경제 뉴스는 중립적인 반응을 보이고 있다. 이러한 트렌드를 반영하여 콘텐츠를 생성하고, 정치와 기술 관련 콘텐츠에 중점을 두는 것이 효과적일 수 있다.",
-  "analyzed_at": "2026-08-02T05:00:33.815Z",
+  "narrative": "최근의 트렌드는 정치적인 이슈와 최신 기술 뉴스가 주를 이루고 있습니다. 이재명 대통령과 관련된 정치적 이슈가 많은 관심을 받고 있습니다. 또한, AI, 반도체, 스마트폰 등 다양한 기술 뉴스가 많이 언급되고 있습니다. 그러나, 일부에서는 사회적인 문제와 관련된 부정적인 감정도 있습니다. 따라서, 최신 기술 뉴스를 따라가고, 사회적인 문제에 대한 해결책을 제공해야 합니다. 또한, 정치적인 이슈에 대한 중립적인 입장을 유지해야 합니다.",
+  "analyzed_at": "2026-08-02T06:30:34.261Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
