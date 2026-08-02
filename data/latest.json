@@ -2,71 +2,59 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "민주당 대표 선거와 관련된 다양한 의견과 분석이 나타남",
-      "post_count": 10,
+      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많아졌습니다. 특히 민주당 당대표 선거와 관련된 게시글이 많은 관심을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 제품과 서비스에 대한 소감과 뉴스가 나타남",
-      "post_count": 15,
+      "summary": "클리앙 커뮤니티에서 기술 관련 게시글이 많아졌습니다. 특히 AI, 로봇, 반도체 관련 게시글이 많은 관심을 받고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "생활",
-      "summary": "일상 생활과 관련된 다양한 주제가 논의됨",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "민주당",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "대표 선거 관련 논의"
-    },
-    {
-      "keyword": "갤럭시",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "최신 제품 소감"
-    },
-    {
-      "keyword": "에어컨",
-      "count": 2,
+      "count": 10,
       "sentiment": "neutral",
-      "context": "생활 관련 논의"
+      "context": "민주당 당대표 선거 관련 게시글"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "AI 기술 관련 게시글"
+    },
+    {
+      "keyword": "반도체",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "반도체 기술 관련 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
+    "positive": 25,
     "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적이고 다양한 의견이 나타나는 추세"
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 제품에 대한 소비자 관심이 높아짐",
-      "action": "마케팅 전략 조정",
+      "insight": "클리앙 커뮤니티에서 정치 관련 게시글이 많아졌습니다.",
+      "action": "정치 관련 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 논의가 증가함에 따라 관련 콘텐츠 제공 필요",
-      "action": "콘텐츠 개발",
+      "insight": "클리앙 커뮤니티에서 기술 관련 게시글이 많아졌습니다.",
+      "action": "기술 관련 콘텐츠 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "생활 관련 주제에 대한 관심이 지속됨",
-      "action": "관련 제품이나 서비스 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드分析 결과, 정치와 기술, 생활 관련 주제가 주요하게 나타남. 민주당 대표 선거와 최신 기술 제품에 대한 소비자 관심이 높아짐. 또한, 생활 관련 주제에 대한 관심이 지속됨. 이러한 트렌드를 반영하여 마케팅 전략을 조정하고, 관련 콘텐츠와 제품을 개발하는 것이 필요함.",
-  "analyzed_at": "2026-08-02T20:01:33.345Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많아졌습니다. 특히 민주당 당대표 선거와 관련된 게시글이 많은 관심을 받고 있습니다. 또한 기술 관련 게시글도 많아졌습니다. 특히 AI, 로봇, 반도체 관련 게시글이 많은 관심을 받고 있습니다. 이러한 트렌드를 반영하여 정치와 기술 관련 콘텐츠를 개발할 필요가 있습니다. 또한 클리앙 커뮤니티의 중립적 분위기를 고려하여 콘텐츠를 개발할 필요가 있습니다.",
+  "analyzed_at": "2026-08-02T21:30:33.448Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
