@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래의 연설과 김민석의 분석 등 정치 관련 주제가热하다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI, 로봇, 반도체 등 기술 관련 주제가 많이 обсужд되고 있다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 ứng용 및 논란",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 주제가 많이 обсужд되고 있다.",
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 논쟁",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 제품",
+      "summary": "신규 기술 및 제품 출시와 관련된 뉴스",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 그에 따른 다양한 응용"
+    },
+    {
+      "keyword": "정치",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI의 발전과 적용에 대한 обсужд"
+      "sentiment": "negative",
+      "context": "정치 관련 뉴스와 논쟁"
     },
     {
-      "keyword": "정청래",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정청래의 연설과 정치 관련 주제"
-    },
-    {
-      "keyword": "반도체",
+      "keyword": "기술",
       "count": 8,
       "sentiment": "positive",
-      "context": "반도체 산업의 발전과 관련 주제"
+      "context": "신규 기술 및 제품 출시와 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
+    "negative": 25,
     "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI와 로봇 기술의 발전이 산업에 미치는 영향",
-      "action": "관련 기술의 개발과 투자",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 신규 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제의 관련성",
-      "action": "정치와 경제의 동향을 주시",
+      "insight": "정치 및 사회 관련 논쟁",
+      "action": "정치 및 사회 관련 뉴스와 논쟁에 대한 분석",
+      "priority": "medium"
+    },
+    {
+      "insight": "신규 기술 및 제품 출시",
+      "action": "신규 기술 및 제품 출시와 관련된 마케팅 전략 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, 기술, 경제 등 다양한 주제가 混在되어 있다. AI와 로봇 기술의 발전이 산업에 미치는 영향이 크고, 정치와 경제의 관련성도 중요하다. 이러한 트렌드를 분석하여 관련 기술의 개발과 투자, 정치와 경제의 동향을 주시하는 것이 중요하다.",
-  "analyzed_at": "2026-08-02T08:00:34.126Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 다양한 응용 및 논쟁이 주목을 받고 있습니다. 또한, 정치 및 사회 관련 뉴스와 논쟁이 많은 관심을 받고 있으며, 신규 기술 및 제품 출시와 관련된 뉴스도 주목을 받고 있습니다. 이러한 트렌드에 대한 분석과洞察은 기업의 마케팅 전략 개발과 사업 확장에 도움이 될 수 있습니다.",
+  "analyzed_at": "2026-08-02T09:30:33.992Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
