@@ -2,59 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많아졌습니다. 특히 민주당 당대표 선거와 관련된 게시글이 많은 관심을 받고 있습니다.",
+      "summary": "국내 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, 대통령 지지율과 정치인들의 활동이 주목을 받고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
+      "topic": "경제",
+      "summary": "국내 경제와 관련된 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, 증권시장과 기업들의 활동이 주목을 받고 있습니다.",
+      "post_count": 12,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
       "topic": "기술",
-      "summary": "클리앙 커뮤니티에서 기술 관련 게시글이 많아졌습니다. 특히 AI, 로봇, 반도체 관련 게시글이 많은 관심을 받고 있습니다.",
-      "post_count": 20,
+      "summary": "최신 기술과 관련된 뉴스와 의견이 많은 관심을 받고 있습니다. 특히, AI와 반도체 관련 뉴스가 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "삼성전자의 최신 기술과 제품이 주목을 받고 있습니다."
+    },
+    {
+      "keyword": "정치",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "민주당 당대표 선거 관련 게시글"
+      "sentiment": "mixed",
+      "context": "국내 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다."
     },
     {
       "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "AI 기술 관련 게시글"
-    },
-    {
-      "keyword": "반도체",
       "count": 5,
       "sentiment": "positive",
-      "context": "반도체 기술 관련 게시글"
+      "context": "AI와 관련된 기술과 제품이 주목을 받고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
+    "positive": 20,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "클리앙 커뮤니티에서 정치 관련 게시글이 많아졌습니다.",
-      "action": "정치 관련 콘텐츠 개발",
+      "insight": "국내 정치와 경제는 밀접한 관련이 있습니다.",
+      "action": "정치와 경제 관련 뉴스를 주목하고, 이를 사업에 활용할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "클리앙 커뮤니티에서 기술 관련 게시글이 많아졌습니다.",
-      "action": "기술 관련 콘텐츠 개발",
+      "insight": "최신 기술은 사업에 큰 영향을 미칠 수 있습니다.",
+      "action": "최신 기술을 주목하고, 이를 사업에 활용할 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 정치 관련 게시글이 많아졌습니다. 특히 민주당 당대표 선거와 관련된 게시글이 많은 관심을 받고 있습니다. 또한 기술 관련 게시글도 많아졌습니다. 특히 AI, 로봇, 반도체 관련 게시글이 많은 관심을 받고 있습니다. 이러한 트렌드를 반영하여 정치와 기술 관련 콘텐츠를 개발할 필요가 있습니다. 또한 클리앙 커뮤니티의 중립적 분위기를 고려하여 콘텐츠를 개발할 필요가 있습니다.",
-  "analyzed_at": "2026-08-02T21:30:33.448Z",
+  "narrative": "국내 정치와 경제는 밀접한 관련이 있습니다. 특히, 대통령 지지율과 정치인들의 활동이 주목을 받고 있습니다. 또한, 최신 기술과 관련된 뉴스와 의견이 많은 관심을 받고 있습니다. 이러한 트렌드를 주목하고, 이를 사업에 활용할 수 있습니다. 특히, 삼성전자의 최신 기술과 제품이 주목을 받고 있습니다. 따라서, 이러한 트렌드를 주목하고, 이를 사업에 활용할 수 있습니다.",
+  "analyzed_at": "2026-08-02T23:01:32.241Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
