@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 및 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히 AI의 발전과 그에 따른 보안 위험, 새로운 기술의 등장 등이 주요话题입니다.",
+      "topic": "정치",
+      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아 정치적인 주제가 트렌딩하고 있습니다.",
       "post_count": 15,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "정치 및 사회",
-      "summary": "정치 및 사회 관련 주제도 많이 обсужд되고 있습니다. 특히 정치인에 대한 논평, 사회 문제 등이 주요话题입니다.",
-      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "생활 및 문화",
-      "summary": "생활 및 문화 관련 주제도 일부 обсужд되고 있습니다. 특히 여름 휴가, 맥주 등이 주요话题입니다.",
-      "post_count": 5,
+      "topic": "기술",
+      "summary": "클리앙 커뮤니티에서 기술 관련 게시글이 많아 기술적인 주제가 트렌딩하고 있습니다.",
+      "post_count": 20,
       "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "사회",
+      "summary": "클리앙 커뮤니티에서 사회 관련 게시글이 많아 사회적인 주제가 트렌딩하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "김민석",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치적인 주제에서 많이 언급됩니다."
+    },
+    {
       "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI의 발전과 그에 따른 보안 위험"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치인에 대한 논평, 사회 문제"
-    },
-    {
-      "keyword": "기술",
       "count": 10,
       "sentiment": "positive",
-      "context": "새로운 기술의 등장"
+      "context": "기술적인 주제에서 많이 언급됩니다."
+    },
+    {
+      "keyword": "정청래",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "정치적인 주제에서 언급됩니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 5,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 및 기술 관련 주제가 많이 обсужд되고 있습니다.",
-      "action": "AI 및 기술 관련 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다.",
+      "insight": "클리앙 커뮤니티에서 정치적인 주제가 많이 논의되고 있습니다.",
+      "action": "정치적인 주제에 대한 콘텐츠를 생성하여 클리앙 커뮤니티와 상호작용합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 및 사회 관련 주제가 많이 обсужд되고 있습니다.",
-      "action": "정치 및 사회 관련 주제에 대한 의견을 수렴하여 제품이나 서비스를 개발할 수 있습니다.",
+      "insight": "클리앙 커뮤니티에서 기술적인 주제가 많이 논의되고 있습니다.",
+      "action": "기술적인 주제에 대한 콘텐츠를 생성하여 클리앙 커뮤니티와 상호작용합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 및 기술 관련 주제가 많이 обсужд되고 있습니다. 특히 AI의 발전과 그에 따른 보안 위험, 새로운 기술의 등장 등이 주요话题입니다. 또한 정치 및 사회 관련 주제도 많이 обсужд되고 있습니다. 이러한 트렌드를 분석하여 제품이나 서비스를 개발하여 시장에 출시할 수 있습니다. 또한 정치 및 사회 관련 주제에 대한 의견을 수렴하여 제품이나 서비스를 개발할 수 있습니다.",
-  "analyzed_at": "2026-08-01T23:01:30.109Z",
+  "narrative": "클리앙 커뮤니티는 정치적인 주제와 기술적인 주제를 중심으로 논의가 이루어지고 있습니다. 클리앙 커뮤니티와 상호작용하기 위해서는 정치적인 주제와 기술적인 주제에 대한 콘텐츠를 생성하는 것이 중요합니다. 또한, 클리앙 커뮤니티에서 많이 언급되는 키워드인 '김민석', 'AI', '정청래'에 대한 콘텐츠를 생성하여 클리앙 커뮤니티와 상호작용할 수 있습니다.",
+  "analyzed_at": "2026-08-02T00:30:33.649Z",
   "post_count": 61,
   "sources": [
     "ppomppu",
