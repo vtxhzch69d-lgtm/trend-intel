@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "부동산 정책",
-      "summary": "부동산 정책 관련 게시물이 많습니다. 정부의 부동산 정책이 논란이 되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "negative",
-      "urgency": "high"
+      "summary": "최근 부동산 정책에 대한 논의가 활발히 진행 중이다. 정부의 부동산 정책이 부자 될 기회를 낮추는 것은 좋아보이지만, 일부에서는 이해가 안 간다는 의견도 있다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     },
     {
       "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 게시물이 많습니다. 새로운 기술의 개발과 적용이 논란이 되고 있습니다.",
-      "post_count": 10,
+      "summary": "AI와 기술 관련된 주제가 많이 обсужд되고 있다. 구글의 크롬에 제미나이 스파크 통합, 엔비디아의 지포스 RTX 50 그래픽카드 가격 인상 등 다양한 뉴스가 나오고 있다.",
+      "post_count": 15,
       "sentiment": "neutral",
-      "urgency": "medium"
+      "urgency": "low"
     },
     {
-      "topic": "경제와 금융",
-      "summary": "경제와 금융 관련 게시물이 많습니다. 경제와 금융 정책이 논란이 되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "경제와 정치",
+      "summary": "경제와 정치 관련된 주제가 많이 обсужд되고 있다. 쿠팡의 결제액 감소, 서울시장 선거 등 다양한 뉴스가 나오고 있다.",
+      "post_count": 12,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
@@ -27,46 +27,46 @@
       "keyword": "부동산",
       "count": 20,
       "sentiment": "negative",
-      "context": "부동산 정책 관련 게시물에서 자주 등장하는 키워드입니다."
+      "context": "부동산 정책에 대한 논의"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "neutral",
-      "context": "AI와 기술 관련 게시물에서 자주 등장하는 키워드입니다."
+      "context": "AI와 기술 관련된 뉴스"
     },
     {
       "keyword": "경제",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "경제와 금융 관련 게시물에서 자주 등장하는 키워드입니다."
+      "count": 15,
+      "sentiment": "negative",
+      "context": "경제와 정치 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 20,
+    "negative": 25,
     "neutral": 30,
-    "overall_mood": "부정적인 감정이 강합니다."
+    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재"
   },
   "business_insights": [
     {
-      "insight": "부동산 정책은 중요한 이슈입니다.",
-      "action": "부동산 정책 관련 게시물에 주목하세요.",
+      "insight": "부동산 정책에 대한 논의가 활발히 진행 중이다.",
+      "action": "부동산 정책에 대한 의견을 수렴하고, 정부의 정책에 대한 반응을 모니터링한다.",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술은 중요한 트렌드입니다.",
-      "action": "AI와 기술 관련 게시물에 주목하세요.",
+      "insight": "AI와 기술 관련된 주제가 많이 обсужд되고 있다.",
+      "action": "AI와 기술 관련된 뉴스를 모니터링하고, 관련된 제품이나 서비스에 대한 개발을 고려한다.",
       "priority": "medium"
     },
     {
-      "insight": "경제와 금융은 중요한 이슈입니다.",
-      "action": "경제와 금융 관련 게시물에 주목하세요.",
-      "priority": "medium"
+      "insight": "경제와 정치 관련된 주제가 많이 обсужд되고 있다.",
+      "action": "경제와 정치 관련된 뉴스를 모니터링하고, 관련된 정책이나 법안에 대한 반응을 준비한다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 부동산 정책, AI와 기술, 경제와 금융 관련 게시물이 많습니다. 부동산 정책은 중요한 이슈이며, AI와 기술은 중요한 트렌드입니다. 경제와 금융은 중요한 이슈이며, 관련 게시물에 주목하세요. 부정적인 감정이 강합니다. 따라서 부동산 정책과 경제와 금융 관련 게시물에 주목하고, AI와 기술 관련 게시물에도 주목하세요.",
-  "analyzed_at": "2026-08-03T18:00:33.931Z",
+  "narrative": "최근 부동산 정책에 대한 논의가 활발히 진행 중이다. 정부의 부동산 정책이 부자 될 기회를 낮추는 것은 좋아보이지만, 일부에서는 이해가 안 간다는 의견도 있다. 또한, AI와 기술 관련된 주제가 많이 обсужд되고 있다. 구글의 크롬에 제미나이 스파크 통합, 엔비디아의 지포스 RTX 50 그래픽카드 가격 인상 등 다양한 뉴스가 나오고 있다. 경제와 정치 관련된 주제도 많이 обсужд되고 있다. 쿠팡의 결제액 감소, 서울시장 선거 등 다양한 뉴스가 나오고 있다. 이러한 트렌드와 감정 분석을 통해, 기업은 부동산 정책, AI와 기술, 경제와 정치 등 다양한 주제에 대한 의견을 수렴하고, 관련된 제품이나 서비스에 대한 개발을 고려할 수 있다.",
+  "analyzed_at": "2026-08-03T19:30:34.625Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
