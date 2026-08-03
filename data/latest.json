@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "세제개편안",
-      "summary": "정부의 세제개편안이 발표되었습니다. 주택 관련 세제 개편안이 포함되어 있습니다.",
+      "topic": "부동산 대책",
+      "summary": "부동산 대책의 효과와 영향에 대한 논의",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산시장",
-      "summary": "부동산시장의 전망이 논란이 되고 있습니다. 일부에서는 하락할 것으로 예상합니다.",
+      "topic": "증세",
+      "summary": "증세의 영향과 예측에 대한 논의",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 관련 뉴스가 여러개 나왔습니다. 다양한 분야에서 적용되고 있습니다.",
-      "post_count": 7,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "민주당",
+      "summary": "민주당의 정책과 분열에 대한 논의",
+      "post_count": 6,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "세제개편안",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "정부의 세제개편안"
-    },
-    {
       "keyword": "부동산",
-      "count": 12,
+      "count": 15,
       "sentiment": "negative",
-      "context": "부동산시장의 전망"
+      "context": "부동산 대책과 가격에 대한 논의"
     },
     {
-      "keyword": "AI",
+      "keyword": "증세",
       "count": 10,
-      "sentiment": "positive",
-      "context": "최신 AI 기술"
+      "sentiment": "negative",
+      "context": "증세의 영향과 예측에 대한 논의"
+    },
+    {
+      "keyword": "민주당",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "민주당의 정책과 분열에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 비중이 높습니다."
+    "positive": 10,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "부동산시장의 전망은 부정적으로 예상됩니다.",
-      "action": "부동산 투자에 대한 재고가 필요합니다.",
+      "insight": "부동산 대책의 효과와 영향에 대한 논의가 많아지고 있다.",
+      "action": "부동산 정책에 대한 연구와 분석을 강화해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 분야에서 적용되고 있습니다.",
-      "action": "AI 기술을 활용한 비즈니스 모델을 개발할 수 있습니다.",
+      "insight": "증세의 영향과 예측에 대한 논의가 많아지고 있다.",
+      "action": "세제 개편에 대한 연구와 분석을 강화해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정부의 세제개편안은 주택 관련 세제 개편안을 포함합니다.",
-      "action": "세제개편안의 내용을 분석하여 비즈니스 전략을 수립할 수 있습니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 부동산시장의 전망과 정부의 세제개편안이 주를 이루고 있습니다. 부동산시장의 전망은 부정적으로 예상되며, 정부의 세제개편안은 주택 관련 세제 개편안을 포함합니다. 또한, 최신 AI 기술 관련 뉴스가 여러개 나왔습니다. 이러한 트렌드를 분석하여 비즈니스 전략을 수립할 수 있습니다. 부동산 투자에 대한 재고가 필요하며, AI 기술을 활용한 비즈니스 모델을 개발할 수 있습니다. 또한, 세제개편안의 내용을 분석하여 비즈니스 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-08-03T10:30:33.993Z",
+  "narrative": "최근의 트렌드 분석 결과, 부동산 대책과 증세에 대한 논의가 많아지고 있는 것으로 나타났다. 부동산 대책의 효과와 영향에 대한 논의는 부동산 가격과 관련된 정책에 대한 관심이 높아지고 있음을 보여준다. 또한, 증세의 영향과 예측에 대한 논의는 세제 개편에 대한 연구와 분석을 강화해야 함을 시사한다. 민주당의 정책과 분열에 대한 논의도 많아지고 있으나, 감정은 혼재되어 있다. 이러한 트렌드 분석 결과를 통해, 관련 정책과 연구를 강화하고, 소비자와 투자자의 관심과 우려를 이해할 수 있을 것이다.",
+  "analyzed_at": "2026-08-03T12:01:32.825Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
