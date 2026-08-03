@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "수능",
-      "summary": "수능 관련 논란과 고온 기록",
-      "post_count": 5,
+      "topic": "스파이더맨 영화",
+      "summary": "스파이더맨 영화에 대한 감상평과 후기",
+      "post_count": 3,
+      "sentiment": "positive",
+      "urgency": "low"
+    },
+    {
+      "topic": "학벌과 학연",
+      "summary": "학벌과 학연에 대한 논의와 의견",
+      "post_count": 4,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 논란과 선거 운동",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 개발 동향",
-      "post_count": 15,
+      "topic": "AI와 기술",
+      "summary": "AI와 기술에 대한 뉴스와 의견",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "수능",
+      "keyword": "스파이더맨",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "수능 관련 논란"
-    },
-    {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "정치 관련 논란"
+      "sentiment": "positive",
+      "context": "영화 감상평"
     },
     {
       "keyword": "AI",
-      "count": 4,
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "context": "기술 뉴스와 의견"
+    },
+    {
+      "keyword": "학벌",
+      "count": 4,
+      "sentiment": "mixed",
+      "context": "학벌과 학연에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "positive": 20,
+    "negative": 5,
+    "neutral": 10,
+    "overall_mood": "긍정적"
   },
   "business_insights": [
     {
-      "insight": "수능과 정치 관련 논란이 많아 지속적인 모니터링이 필요하다",
-      "action": "정책 및 대응 전략 수립",
+      "insight": "스파이더맨 영화의 인기",
+      "action": "영화 관련 콘텐츠 개발",
+      "priority": "low"
+    },
+    {
+      "insight": "AI와 기술의 발전",
+      "action": "AI와 기술에 대한 투자와 연구",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 개발 동향을 주시하여 사업 기회를 발굴할 수 있다",
-      "action": "기술 개발 및 투자",
+      "insight": "학벌과 학연의 논의",
+      "action": "교육과 인사 정책 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 수능과 정치 관련 논란이 많아 지속적인 모니터링이 필요하다. 또한, 최신 기술 뉴스와 개발 동향을 주시하여 사업 기회를 발굴할 수 있다. 이러한 동향을 고려하여 정책 및 대응 전략을 수립하고, 기술 개발 및 투자를 통해 사업 기회를 확대할 수 있을 것이다.",
-  "analyzed_at": "2026-08-03T04:00:34.275Z",
+  "narrative": "최근의 트렌드는 스파이더맨 영화와 AI 및 기술에 대한 관심이 높아지고 있습니다. 또한 학벌과 학연에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드를 분석하여 사업적 인사이트를 도출할 수 있습니다. 스파이더맨 영화의 인기와 AI 및 기술의 발전은 새로운 사업 기회를 창출할 수 있습니다. 또한 학벌과 학연에 대한 논의는 교육과 인사 정책 개발에 대한 필요성을 강조합니다.",
+  "analyzed_at": "2026-08-03T05:30:34.000Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
