@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명과 민주당에 대한 논의",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령에 대한 찬반 논란이 커뮤니티에서 활발하게 진행되고 있습니다. 일부 사용자는 대통령을 비판하며 형사소송법 개정안 거부권을 사용할 것을 주장합니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 반도체 기술의 발전",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "쿠팡 이커머스",
+      "summary": "쿠팡의 7월 결제액이 10.9% 감소한 것으로 나타났습니다. 이에 대해 일부 사용자는 쿠팡의 경영 전략을 비판하며, 다른 사용자는 쿠팡의 발전 가능성을 언급합니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "금융위와 레버리지 ETF에 대한 논의",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "AI 기술",
+      "summary": "AI 기술에 대한 관심이 커뮤니티에서 증가하고 있습니다. 일부 사용자는 AI 기술의 발전 가능성을 언급하며, 다른 사용자는 AI 기술의 부정적인 영향에 대해 우려를 표합니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
+      "count": 15,
       "sentiment": "negative",
-      "context": "민주당과 정치에 대한 논의"
+      "context": "이재명 대통령에 대한 비판"
+    },
+    {
+      "keyword": "쿠팡",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "쿠팡의 이커머스 사업"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술의 발전과 미래에 대한 기대"
-    },
-    {
-      "keyword": "레버리지 ETF",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "금융위와 경제에 대한 논의"
+      "context": "AI 기술의 발전 가능성"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 경제에 대한 논의가 증가하고 있다",
-      "action": "정치와 경제에 대한 최신 정보를 제공",
+      "insight": "이재명 대통령에 대한 찬반 논란이 커뮤니티에서 활발하게 진행되고 있습니다.",
+      "action": "정치적 이슈에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI와 반도체 기술의 발전이 가속화되고 있다",
-      "action": "기술에 대한 투자와 연구를 강화",
+      "insight": "쿠팡의 이커머스 사업이 커뮤니티에서 관심을 끌고 있습니다.",
+      "action": "이커머스 사업 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "금융위와 레버리지 ETF에 대한 논의가 증가하고 있다",
-      "action": "금융위와 레버리지 ETF에 대한 정보를 제공",
-      "priority": "high"
+      "insight": "AI 기술에 대한 관심이 커뮤니티에서 증가하고 있습니다.",
+      "action": "AI 기술의 발전 가능성에 대한 연구",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드分析 결과, 정치와 경제에 대한 논의가 증가하고 있으며, AI와 반도체 기술의 발전이 가속화되고 있다. 또한, 금융위와 레버리지 ETF에 대한 논의가 증가하고 있다. 이러한 트렌드는 정치, 경제, 기술 등 다양한 분야에서 복합적인 감정을 나타내고 있다. 따라서, 최신 정보를 제공하고, 기술에 대한 투자와 연구를 강화하며, 금융위와 레버리지 ETF에 대한 정보를 제공하는 것이 중요하다.",
-  "analyzed_at": "2026-08-03T07:01:22.505Z",
+  "narrative": "커뮤니티에서 이재명 대통령에 대한 찬반 논란이 활발하게 진행되고 있습니다. 쿠팡의 이커머스 사업과 AI 기술에 대한 관심도 증가하고 있습니다. 이러한 이슈에 대한 대응 전략을 수립하고, 이커머스 사업과 AI 기술의 발전 가능성을 연구하는 것이 중요합니다. 중립적인 태도를 유지하고, 다양한 의견을 수용하는 것이 커뮤니티에서 성공을 위한关键입니다.",
+  "analyzed_at": "2026-08-03T09:00:34.478Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
