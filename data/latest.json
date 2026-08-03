@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "스파이더맨 영화",
-      "summary": "스파이더맨 영화에 대한 감상평과 후기",
-      "post_count": 3,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "이재명과 민주당에 대한 논의",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
     },
     {
-      "topic": "학벌과 학연",
-      "summary": "학벌과 학연에 대한 논의와 의견",
-      "post_count": 4,
-      "sentiment": "mixed",
+      "topic": "기술",
+      "summary": "AI와 반도체 기술의 발전",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술에 대한 뉴스와 의견",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "금융위와 레버리지 ETF에 대한 논의",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "스파이더맨",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "positive",
-      "context": "영화 감상평"
+      "sentiment": "negative",
+      "context": "민주당과 정치에 대한 논의"
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "기술 뉴스와 의견"
+      "context": "기술의 발전과 미래에 대한 기대"
     },
     {
-      "keyword": "학벌",
-      "count": 4,
-      "sentiment": "mixed",
-      "context": "학벌과 학연에 대한 논의"
+      "keyword": "레버리지 ETF",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "금융위와 경제에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
+    "negative": 15,
     "neutral": 10,
-    "overall_mood": "긍정적"
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "스파이더맨 영화의 인기",
-      "action": "영화 관련 콘텐츠 개발",
-      "priority": "low"
-    },
-    {
-      "insight": "AI와 기술의 발전",
-      "action": "AI와 기술에 대한 투자와 연구",
+      "insight": "정치와 경제에 대한 논의가 증가하고 있다",
+      "action": "정치와 경제에 대한 최신 정보를 제공",
       "priority": "high"
     },
     {
-      "insight": "학벌과 학연의 논의",
-      "action": "교육과 인사 정책 개발",
+      "insight": "AI와 반도체 기술의 발전이 가속화되고 있다",
+      "action": "기술에 대한 투자와 연구를 강화",
       "priority": "medium"
+    },
+    {
+      "insight": "금융위와 레버리지 ETF에 대한 논의가 증가하고 있다",
+      "action": "금융위와 레버리지 ETF에 대한 정보를 제공",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 스파이더맨 영화와 AI 및 기술에 대한 관심이 높아지고 있습니다. 또한 학벌과 학연에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드를 분석하여 사업적 인사이트를 도출할 수 있습니다. 스파이더맨 영화의 인기와 AI 및 기술의 발전은 새로운 사업 기회를 창출할 수 있습니다. 또한 학벌과 학연에 대한 논의는 교육과 인사 정책 개발에 대한 필요성을 강조합니다.",
-  "analyzed_at": "2026-08-03T05:30:34.000Z",
+  "narrative": "최근의 트렌드分析 결과, 정치와 경제에 대한 논의가 증가하고 있으며, AI와 반도체 기술의 발전이 가속화되고 있다. 또한, 금융위와 레버리지 ETF에 대한 논의가 증가하고 있다. 이러한 트렌드는 정치, 경제, 기술 등 다양한 분야에서 복합적인 감정을 나타내고 있다. 따라서, 최신 정보를 제공하고, 기술에 대한 투자와 연구를 강화하며, 금융위와 레버리지 ETF에 대한 정보를 제공하는 것이 중요하다.",
+  "analyzed_at": "2026-08-03T07:01:22.505Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
