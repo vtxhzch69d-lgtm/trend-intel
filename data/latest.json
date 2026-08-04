@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 세제 개편",
-      "summary": "부동산 세제 개편으로 인한 세입자 피해, 보유세 importance",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "最近의 정치 관련 게시글이 많아졌습니다.",
+      "post_count": 15,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 뉴스 및 의견",
-      "post_count": 10,
+      "topic": "테크",
+      "summary": "신규 기술과 제품에 대한 게시글이 증가했습니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 뉴스 및 의견",
-      "post_count": 8,
+      "topic": "경제",
+      "summary": "경제 관련 게시글이 많아졌습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 7,
+      "keyword": "민주당",
+      "count": 5,
       "sentiment": "negative",
-      "context": "부동산 세제 개편 관련"
+      "context": "정치 관련 게시글에서 많이 언급"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련"
+      "context": "신규 기술에 대한 게시글에서 많이 언급"
     },
     {
-      "keyword": "경제",
+      "keyword": "부동산",
       "count": 5,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련"
+      "context": "경제 관련 게시글에서 많이 언급"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "부동산 세제 개편으로 인한 세입자 피해가 증가할 수 있음",
-      "action": "세입자 지원 정책 마련",
+      "insight": "정치 관련 게시글이 많아졌습니다.",
+      "action": "정치 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킵니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전으로 인한 새로운 비즈니스 기회",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "신규 기술에 대한 게시글이 증가했습니다.",
+      "action": "신규 기술 관련 콘텐츠를 생성하여 이용자에게 제공합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 게시글이 많아졌습니다.",
+      "action": "경제 관련 콘텐츠를 생성하여 이용자에게 제공합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 부동산 세제 개편으로 인한 세입자 피해가 증가하고 있으며, AI 기술의 발전으로 인한 새로운 비즈니스 기회가 나타나고 있습니다. 이러한 트렌드를 고려하여, 세입자 지원 정책을 마련하고 AI 기술을 활용한 새로운 비즈니스 모델을 개발하는 것이 중요할 것으로 보입니다. 또한, 경제 및 금융 관련 뉴스 및 의견도 주목할 필요가 있습니다.",
-  "analyzed_at": "2026-08-04T08:00:34.154Z",
-  "post_count": 61,
+  "narrative": "最近의 정치 관련 게시글이 많아졌습니다. 이는 최근의 정치 상황이 이용자들에게 큰 관심을 끌고 있음을 나타냅니다. 또한, 신규 기술에 대한 게시글이 증가했습니다. 이는 이용자들이 새로운 기술에 대한 정보를 찾고 있음을 나타냅니다. 경제 관련 게시글도 많아졌습니다. 이는 이용자들이 경제 상황에 대한 정보를 찾고 있음을 나타냅니다. 이러한 분석 결과를 바탕으로, 정치, 기술, 경제 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시키고, 이용자에게 필요한 정보를 제공할 수 있습니다.",
+  "analyzed_at": "2026-08-04T09:31:22.036Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
