@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "갤럭시 폴드8",
-      "summary": "갤럭시 폴드8의 출시와 성공에 대한 논의",
+      "topic": "전기요금 누진제 폐지",
+      "summary": "전기요금 누진제 폐지에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다. 일부 사용자들은 전기요금 누진제 폐지를 통해 전기료 부담을 줄일 수 있을 것으로 기대한다.",
       "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "부동산 시장의 상황과 정책에 대한 논의",
-      "post_count": 7,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "신안군 추경예산",
+      "summary": "신안군 추경예산에 대한 논의가 클리앙 커뮤니티에서 진행되고 있다. 일부 사용자들은 신안군 추경예산이 지역 경제 발전에 기여할 수 있을 것으로 기대한다.",
+      "post_count": 3,
+      "sentiment": "neutral",
+      "urgency": "low"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용에 대한 논의",
-      "post_count": 10,
+      "topic": "폴드8",
+      "summary": "폴드8에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다. 일부 사용자들은 폴드8의 성능과 디자인을 높이 평가한다.",
+      "post_count": 4,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시 폴드8",
+      "keyword": "전기요금",
       "count": 10,
-      "sentiment": "positive",
-      "context": "갤럭시 폴드8의 출시와 성공"
-    },
-    {
-      "keyword": "부동산",
-      "count": 12,
       "sentiment": "negative",
-      "context": "부동산 시장의 상황과 정책"
+      "context": "전기요금 누진제 폐지에 대한 논의"
     },
     {
-      "keyword": "AI",
-      "count": 15,
+      "keyword": "신안군",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "신안군 추경예산에 대한 논의"
+    },
+    {
+      "keyword": "폴드8",
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "context": "폴드8에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 10,
-    "overall_mood": "긍정적"
+    "positive": 20,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "클리앙 커뮤니티의 전반적인 기분은 긍정적이다."
   },
   "business_insights": [
     {
-      "insight": "갤럭시 폴드8의 성공은 삼성전자에 긍정적인 영향을 미칠 수 있다",
-      "action": "삼성전자 주식 투자 고려",
+      "insight": "전기요금 누진제 폐지에 대한 논의가 클리엔 커뮤니티에서 활발히 진행되고 있다.",
+      "action": "전기요금 누진제 폐지에 대한 정책을 검토한다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "폴드8에 대한 논의가 클리앙 커뮤니티에서 활발히 진행되고 있다.",
+      "action": "폴드8의 성능과 디자인을 높이 평가하는 사용자들을 대상으로 마케팅 캠페인을 진행한다.",
       "priority": "high"
-    },
-    {
-      "insight": "부동산 시장의 상황은 정부의 정책에 의해 영향을 받을 수 있다",
-      "action": "정부의 부동산 정책 모니터링",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전은 다양한 산업에 적용될 수 있다",
-      "action": "AI 기술의 적용 가능성 연구",
-      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 갤럭시 폴드8의 출시와 성공, 부동산 시장의 상황, AI 기술의 발전이 주요 논제로 등장했습니다. 갤럭시 폴드8의 성공은 삼성전자에 긍정적인 영향을 미칠 수 있으며, 부동산 시장의 상황은 정부의 정책에 의해 영향을 받을 수 있습니다. 또한, AI 기술의 발전은 다양한 산업에 적용될 수 있으며, 이를 위한 연구와 투자가 필요합니다. 이러한 트렌드와 인사이트를 고려하여, 사업 전략을 수립하고 투자 결정을 내릴 수 있습니다.",
-  "analyzed_at": "2026-08-04T05:00:34.494Z",
-  "post_count": 61,
+  "narrative": "클리앙 커뮤니티의 사용자들은 전기요금 누진제 폐지와 폴드8에 대한 논의를 활발히 진행하고 있다. 전기요금 누진제 폐지에 대한 논의는 일부 사용자들에게 전기료 부담을 줄일 수 있는 기회로 여겨지고 있다. 폴드8에 대한 논의는 일부 사용자들에게 새로운 기술과 디자인을 경험할 수 있는 기회로 여겨지고 있다. 이러한 논의를 통해 클리앙 커뮤니티의 사용자들은 자신의 관심사와 필요에 따라 다양한 주제에 대한 논의를 진행하고 있다.",
+  "analyzed_at": "2026-08-04T06:30:34.344Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
