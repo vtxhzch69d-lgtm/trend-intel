@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 세제개편안",
-      "summary": "부동산 세제개편안에 따른 시장 영향과 관련된 게시글이 많습니다.",
+      "topic": "부동산",
+      "summary": "최근 부동산 관련된 여러 뉴스와 의견이 나오고 있습니다. 노인의 보유세와 주거의 부담, 부동산 재산과 소득을 고려하는게 필요하지 않을까요?",
       "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 게시글이 많습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련된 게시글이 많습니다.",
-      "post_count": 8,
+      "topic": "테크",
+      "summary": "테크 관련 뉴스가 많습니다. 삼성D, 차세대 폴더블 OLED에 '중앙 얇게 식각 UTG' 적용 추진, 마이크로LED 국책 과제 수율, 올해 목표 60% 미달 등",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스가 많습니다. 쿠팡에서 카드대출 받는다, 리벨리온, 공공 CCTV 관제에 서버형 NPU 대규모 인프라 공급 등",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     }
@@ -25,48 +25,48 @@
   "keywords": [
     {
       "keyword": "부동산",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "부동산 세제개편안에 따른 시장 영향"
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "노인의 보유세와 주거의 부담"
     },
     {
-      "keyword": "AI",
-      "count": 12,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "keyword": "테크",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "삼성D, 차세대 폴더블 OLED에 '중앙 얇게 식각 UTG' 적용 추진"
     },
     {
       "keyword": "경제",
-      "count": 9,
+      "count": 15,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련된 게시글"
+      "context": "쿠팡에서 카드대출 받는다"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 10,
+    "negative": 5,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 세제개편안에 따른 시장 영향",
-      "action": "시장 동향을 주시하고 대응 전략을 수립해야 합니다.",
+      "insight": "부동산 관련된 뉴스와 의견이 많아지고 있습니다.",
+      "action": "부동산 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델을 개발해야 합니다.",
+      "insight": "테크 관련된 뉴스가 많습니다.",
+      "action": "테크 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융 동향",
-      "action": "경제 및 금융 동향을 주시하고 비즈니스 전략을 조정해야 합니다.",
+      "insight": "경제 관련된 뉴스가 많습니다.",
+      "action": "경제 관련된 마케팅 전략을 수립해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 부동산 세제개편안에 따른 시장 영향과 AI 기술의 발전이 주목을 받고 있습니다. 또한, 경제 및 금융 동향도 주시해야 합니다. 이러한 트렌드에 대한 분석과 전략 수립은 비즈니스 성공을 위한 중요한 요소입니다. 따라서, 관련된 게시글을 분석하고 시장 동향을 주시하여 비즈니스 전략을 조정해야 합니다.",
-  "analyzed_at": "2026-08-04T17:00:35.063Z",
+  "narrative": "최근 부동산, 테크, 경제 관련된 뉴스와 의견이 많아지고 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 수립해야 합니다. 부동산 관련된 뉴스와 의견이 많아지고 있으므로, 부동산 관련된 마케팅 전략을 수립해야 합니다. 또한, 테크와 경제 관련된 뉴스도 많으므로, 이러한 분야에 대한 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-08-04T18:30:34.358Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
