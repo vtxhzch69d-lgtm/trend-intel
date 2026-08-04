@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 관련 게시글이 많아졌습니다.",
-      "post_count": 15,
+      "summary": "이재명tv '정청래, 알정찍' 금지어 논란과 김민석 후보의 연설이 논란이 되고 있습니다.",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "신규 기술과 제품에 대한 게시글이 증가했습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "양도세가 높아질수록 부동산 쏠림 현상은 더커집니다. 또한, 쿠팡의 카드대출과 마이크로LED 국책 과제 수율이 올해 목표 60% 미달로 경제 관련 뉴스가 많습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 게시글이 많아졌습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "기술",
+      "summary": "삼성전자, 아마존 프라임 비디오에 ‘HDR10+ 어드밴스드’ 기술 선보여와 폴드 시리즈 쓰시는 분들께 추천드리는 원핸드 오퍼레이션 설정 등 기술 관련 뉴스가 많습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
-      "count": 5,
+      "keyword": "이재명",
+      "count": 3,
       "sentiment": "negative",
-      "context": "정치 관련 게시글에서 많이 언급"
+      "context": "정치 관련 논란"
     },
     {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "신규 기술에 대한 게시글에서 많이 언급"
-    },
-    {
-      "keyword": "부동산",
-      "count": 5,
+      "keyword": "쿠팡",
+      "count": 2,
       "sentiment": "neutral",
-      "context": "경제 관련 게시글에서 많이 언급"
+      "context": "경제 관련 뉴스"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 2,
+      "sentiment": "positive",
+      "context": "기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정이 강한 것으로 나타났습니다."
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 게시글이 많아졌습니다.",
-      "action": "정치 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시킵니다.",
+      "insight": "정치 관련 논란이 많아 정치적 중립성을 유지하는 것이 중요합니다.",
+      "action": "정치 관련 뉴스에 대한 대응을 준비합니다.",
       "priority": "high"
     },
     {
-      "insight": "신규 기술에 대한 게시글이 증가했습니다.",
-      "action": "신규 기술 관련 콘텐츠를 생성하여 이용자에게 제공합니다.",
+      "insight": "경제 관련 뉴스가 많아 경제 동향을 주시하는 것이 필요합니다.",
+      "action": "경제 관련 뉴스를 분석하고 대응합니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제 관련 게시글이 많아졌습니다.",
-      "action": "경제 관련 콘텐츠를 생성하여 이용자에게 제공합니다.",
+      "insight": "기술 관련 뉴스가 많아 기술 동향을 주시하는 것이 필요합니다.",
+      "action": "기술 관련 뉴스를 분석하고 대응합니다.",
       "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 관련 게시글이 많아졌습니다. 이는 최근의 정치 상황이 이용자들에게 큰 관심을 끌고 있음을 나타냅니다. 또한, 신규 기술에 대한 게시글이 증가했습니다. 이는 이용자들이 새로운 기술에 대한 정보를 찾고 있음을 나타냅니다. 경제 관련 게시글도 많아졌습니다. 이는 이용자들이 경제 상황에 대한 정보를 찾고 있음을 나타냅니다. 이러한 분석 결과를 바탕으로, 정치, 기술, 경제 관련 콘텐츠를 생성하여 이용자와의 상호작용을 증가시키고, 이용자에게 필요한 정보를 제공할 수 있습니다.",
-  "analyzed_at": "2026-08-04T09:31:22.036Z",
+  "narrative": "최근의 트렌드는 정치, 경제, 기술 관련 뉴스가 많습니다. 정치 관련 논란이 많아 정치적 중립성을 유지하는 것이 중요합니다. 또한, 경제 관련 뉴스가 많아 경제 동향을 주시하는 것이 필요합니다. 기술 관련 뉴스도 많아 기술 동향을 주시하는 것이 필요합니다. 이러한 트렌드를 분석하여 대응하는 것이 중요합니다. 정치 관련 뉴스에 대한 대응을 준비하고, 경제 관련 뉴스를 분석하여 대응합니다. 또한, 기술 관련 뉴스를 분석하여 대응합니다. 이러한 분석을 통해 사업에 대한 인사이트를 얻을 수 있습니다.",
+  "analyzed_at": "2026-08-04T11:00:34.336Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
