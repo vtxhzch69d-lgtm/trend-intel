@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 세제개편안",
-      "summary": "부동산 세제개편안에 따른 시장 영향과 관련된 게시글이 많습니다. 노인의 보유세와 주거의 부담에 대한 논의도 활발합니다.",
-      "post_count": 10,
+      "topic": "경제 및 정치",
+      "summary": "쿠팡의 2분기 매출 증가와 영업손실, 민주당의 패턴, 세금과 시장경제의 관계 등이 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 게시글이 많습니다. 마이크로소프트의 AI 활용 음악 저작권료 받는 길 열리기 등이 논의되고 있습니다.",
-      "post_count": 8,
+      "topic": "기술 및 과학",
+      "summary": "AMD의 막판 10% 꼴아박기, 엔비디아의 알파마요 2 수퍼 공개, 마이크로LED 국책 과제 수율 등이 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련된 게시글이 많습니다. 나스닥 반도체 종목의 상승과 관련된 게시글이 있습니다.",
-      "post_count": 12,
-      "sentiment": "neutral",
+      "topic": "여행 및 문화",
+      "summary": "도버해협의 석양, 새로운 여행 유튜버, 귀귀 처키만화 등이 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 15,
+      "keyword": "쿠팡",
+      "count": 5,
       "sentiment": "negative",
-      "context": "부동산 세제개편안과 관련된 게시글에서 많이 언급됩니다."
+      "context": "영업손실과 매출 증가에 대한 논의"
     },
     {
-      "keyword": "AI",
-      "count": 10,
+      "keyword": "엔비디아",
+      "count": 3,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 게시글에서 많이 언급됩니다."
+      "context": "알파마요 2 수퍼 공개와 기술革新"
     },
     {
-      "keyword": "경제",
-      "count": 8,
+      "keyword": "세금",
+      "count": 2,
       "sentiment": "neutral",
-      "context": "경제 및 금융 관련된 게시글에서 많이 언급됩니다."
+      "context": "세금과 시장경제의 관계에 대한 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "부동산 세제개편안에 따른 시장 영향",
-      "action": "관련된 정책과 시장 동향을 주시해야 합니다.",
+      "insight": "쿠팡의 영업손실과 매출 증가에 대한 분석",
+      "action": "쿠팡의 재무 상태와 시장 경쟁력을 분석하여 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발해야 합니다.",
+      "insight": "엔비디아의 기술革新과 시장 경쟁력",
+      "action": "엔비디아의 기술革新을 분석하여 시장 경쟁력과 기회를 평가",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 및 금융 동향",
-      "action": "경제 및 금융 동향을 주시하고 대응해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 부동산 세제개편안과 관련된 시장 영향, AI 기술의 발전, 경제 및 금융 동향입니다. 이러한 트렌드에 대한 이해와 대응이 중요합니다. 부동산 세제개편안에 따른 시장 영향은 중립적이며, AI 기술의 발전은 긍정적입니다. 경제 및 금융 동향은 중립적입니다. 이러한 트렌드에 대한 분석과 이해를 통해 비즈니스 전략을 수립하고 대응해야 합니다.",
-  "analyzed_at": "2026-08-04T20:00:33.986Z",
+  "narrative": "현재의 트렌드는 경제 및 정치, 기술 및 과학, 여행 및 문화 등 다양한 주제로 구성되어 있습니다. 쿠팡의 2분기 매출 증가와 영업손실, 민주당의 패턴, 세금과 시장경제의 관계 등이 논의되고 있습니다. 또한, 엔비디아의 알파마요 2 수퍼 공개와 마이크로LED 국책 과제 수율 등이 기술革新的 대표적인 예입니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 시장 경쟁력을 평가할 수 있습니다.",
+  "analyzed_at": "2026-08-04T21:31:26.106Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
