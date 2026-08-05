@@ -1,23 +1,23 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "소득세, 아파트 가격, 정부 정책 등 경제 및 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 특히, AI 칩 열풍과 관련된 뉴스들이 많이 보도되고 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 및 과학",
-      "summary": "AI, 스마트폰, 반도체 등 기술 및 과학 관련 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 20,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "생활 및 문화",
-      "summary": "생활, 문화, 예술 등 관련 주제가 일부 관심을 받고 있습니다.",
+      "topic": "정치",
+      "summary": "정치 관련된 주제가 많이 논의되고 있습니다. 특히, 김민석과 이재명에 대한 토론과 발언이 많이 보도되고 있습니다.",
       "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련된 주제가 많이 논의되고 있습니다. 특히, 주식 시장과 물가 상승에 대한 우려가 많이 보도되고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "low"
     }
@@ -25,43 +25,43 @@
   "keywords": [
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용에 대한 관심"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
-      "keyword": "소득세",
+      "keyword": "김민석",
       "count": 5,
       "sentiment": "negative",
-      "context": "소득세에 대한 불만과 논란"
+      "context": "김민석의 발언과 관련된 정치 주제"
     },
     {
-      "keyword": "아파트",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "아파트 가격과 관련된 다양한 의견"
+      "keyword": "이재명",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "이재명과 관련된 정치 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적이며 약간 긍정적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
       "priority": "high"
     },
     {
-      "insight": "소득세와 경제 정책",
-      "action": "소득세와 경제 정책에 대한 분석과 대응 전략 개발",
+      "insight": "정치와 경제는 밀접한 관련이 있습니다.",
+      "action": "정치와 경제의 동향을 주시하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 경제 및 정치, 기술 및 과학, 생활 및 문화 등 다양한 주제로 나뉘어 있습니다. AI 기술의 발전과 적용, 소득세와 경제 정책 등은 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델 개발과 소득세 및 경제 정책에 대한 대응 전략 개발 등이 필요합니다. 또한, 소비자들의 관심과 의견을 분석하여 마케팅 전략을 개발할 수 있습니다.",
-  "analyzed_at": "2026-08-05T19:30:33.815Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 많이 논의되고 있습니다. 특히, AI 칩 열풍과 관련된 뉴스들이 많이 보도되고 있습니다. 또한, 정치와 경제의 동향도 주목할 만합니다. 김민석과 이재명에 대한 토론과 발언이 많이 보도되고 있습니다. 이러한 트렌드를 주시하고, 이를 활용하여 비즈니스 기회를 찾는 것이 중요합니다. 특히, AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다. 따라서, AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 기회를 찾는 것이 중요합니다.",
+  "analyzed_at": "2026-08-05T21:00:34.989Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
