@@ -1,67 +1,80 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. 특히, AI 칩 열풍과 관련된 뉴스들이 많이 보도되고 있습니다.",
+      "topic": "정치",
+      "summary": "한국 정치와 관련된 다양한 의견과 논쟁",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 주제가 많이 논의되고 있습니다. 특히, 김민석과 이재명에 대한 토론과 발언이 많이 보도되고 있습니다.",
+      "topic": "경제",
+      "summary": "한국 경제와 관련된 뉴스 및 분석",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련된 주제가 많이 논의되고 있습니다. 특히, 주식 시장과 물가 상승에 대한 우려가 많이 보도되고 있습니다.",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
+    },
+    {
+      "topic": "사회",
+      "summary": "한국 사회와 관련된 다양한 의견과 논쟁",
+      "post_count": 7,
+      "sentiment": "neutral",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "한국",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
-    },
-    {
-      "keyword": "김민석",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "김민석의 발언과 관련된 정치 주제"
-    },
-    {
-      "keyword": "이재명",
-      "count": 3,
       "sentiment": "neutral",
-      "context": "이재명과 관련된 정치 주제"
+      "context": "한국 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "한국 정치와 관련된 의견과 논쟁"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "한국 경제와 관련된 뉴스 및 분석"
+    },
+    {
+      "keyword": "기술",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스와 트렌드"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 10,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "한국 온라인 커뮤니티의 전반적인 분위기는 중립적이지만, 정치와 경제 관련된 의견은 부정적인 경향이 있습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
-      "action": "AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
+      "insight": "한국 정치와 경제에 대한 의견과 논쟁이 온라인 커뮤니티에서 활발하게 진행되고 있습니다.",
+      "action": "관련 뉴스와 의견을 모니터링하고, 이를 통해 시장의 동향을 파악할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치와 경제는 밀접한 관련이 있습니다.",
-      "action": "정치와 경제의 동향을 주시하고, 이를 활용하여 비즈니스 기회를 찾습니다.",
+      "insight": "최신 기술 뉴스와 트렌드가 온라인 커뮤니티에서 관심을 끌고 있습니다.",
+      "action": "최신 기술 뉴스와 트렌드를 모니터링하고, 이를 통해 새로운 비즈니스 기회를 찾을 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 관련된 주제가 많이 논의되고 있습니다. 특히, AI 칩 열풍과 관련된 뉴스들이 많이 보도되고 있습니다. 또한, 정치와 경제의 동향도 주목할 만합니다. 김민석과 이재명에 대한 토론과 발언이 많이 보도되고 있습니다. 이러한 트렌드를 주시하고, 이를 활용하여 비즈니스 기회를 찾는 것이 중요합니다. 특히, AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다. 따라서, AI 기술의 발전을 주시하고, 이를 활용하여 비즈니스 기회를 찾는 것이 중요합니다.",
-  "analyzed_at": "2026-08-05T21:00:34.989Z",
+  "narrative": "한국 온라인 커뮤니티는 다양한 주제와 의견을 공유하는 공간입니다. 정치와 경제에 대한 의견과 논쟁이 활발하게 진행되고 있으며, 최신 기술 뉴스와 트렌드도 관심을 끌고 있습니다. 이러한 의견과 논쟁을 모니터링하고 분석함으로써, 시장의 동향을 파악하고 새로운 비즈니스 기회를 찾을 수 있습니다. 또한, 온라인 커뮤니티의 전반적인 분위기를 중립적이지만, 정치와 경제 관련된 의견은 부정적인 경향이 있으므로, 이를 고려하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-08-05T22:30:34.185Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
