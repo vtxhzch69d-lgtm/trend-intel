@@ -1,67 +1,78 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 정책",
-      "summary": "부동산 정책에 대한 여론이 안좋고, 정부의 대책이 필요함",
+      "topic": "경제",
+      "summary": "레버리지와 청년들, ETF 거래 등 경제 관련 주제가热하다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
+      "topic": "기술",
+      "summary": "AI, 반도체, 로봇 등 기술 관련 주제가 인기다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "신남성연대",
-      "summary": "신남성연대 배인규 대표의 사망과 그에 따른 사회적 논란",
-      "post_count": 5,
+      "topic": "사회",
+      "summary": "취업, 물가 상승, 민생 지원 등 사회 관련 주제가 관심을 끌고 있다.",
+      "post_count": 8,
       "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 20,
+      "keyword": "레버리지",
+      "count": 5,
       "sentiment": "negative",
-      "context": "부동산 정책에 대한 비판"
+      "context": "청년들의 경제 어려움"
     },
     {
       "keyword": "AI",
-      "count": 30,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 산업의 변화"
+      "context": "기술 발전과 미래 가능성"
     },
     {
-      "keyword": "신남성연대",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "신남성연대 배인규 대표의 사망과 그에 따른 사회적 논란"
+      "keyword": "반도체",
+      "count": 6,
+      "sentiment": "positive",
+      "context": "한국의 기술 강국으로서의 위상"
+    },
+    {
+      "keyword": "취업",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "청년들의 취업 어려움"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 20,
     "negative": 25,
-    "neutral": 20,
-    "overall_mood": "부정적인 여론이 많지만, AI 기술에 대한 긍정적인 시각도 존재"
+    "neutral": 15,
+    "overall_mood": "부정적인 감정들이 다소 더 강하다."
   },
   "business_insights": [
     {
-      "insight": "부동산 정책에 대한 여론이 안좋기 때문에, 정부는 대책을 마련해야 함",
-      "action": "정부의 대책을 주시하고, 부동산 정책에 대한 여론을 분석",
+      "insight": "청년들의 경제 어려움을 해결하기 위한 정책이 필요하다.",
+      "action": "정부와 기업의 공동 대책 마련",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있음",
-      "action": "AI 기술의 발전을 주시하고, 그에 따른 산업의 변화를 분석",
+      "insight": "AI와 반도체 기술을 활용한 새로운 비즈니스 모델을 개발할 수 있다.",
+      "action": "기술 투자와 연구 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "사회적인 문제들에 대한 관심과 이해가 필요하다.",
+      "action": "사회 공헌 활동과 커뮤니케이션 강화",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 부동산 정책에 대한 여론이 안좋고, 정부의 대책이 필요함. 또한, AI 기술의 발전은 산업의 변화를 가져올 수 있음. 신남성연대 배인규 대표의 사망과 그에 따른 사회적 논란도 존재. 이러한 트렌드를 주시하고, 그에 따른 산업의 변화를 분석하여, 사업을 발전시키는 데 도움이 될 수 있음.",
-  "analyzed_at": "2026-08-05T05:30:33.776Z",
+  "narrative": "최근의 트렌드 분석 결과, 경제와 기술, 사회 등 다양한 주제들이 관심을 끌고 있다. 특히 청년들의 경제 어려움과 관련된 주제들이 부정적인 감정들을 불러일으키고 있다. 반면에 AI와 반도체 기술 등은 긍정적인 감정들과 미래의 가능성을 제시하고 있다. 이러한 트렌드들을 분석하여 기업과 정부가 공동으로 대책을 마련하고, 기술 투자와 연구 개발을 통해 새로운 비즈니스 모델을 개발할 수 있을 것이다. 또한 사회적인 문제들에 대한 관심과 이해를 높여 커뮤니케이션을 강화할 필요가 있다.",
+  "analyzed_at": "2026-08-05T07:00:34.634Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
