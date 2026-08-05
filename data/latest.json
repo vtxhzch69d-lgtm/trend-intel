@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 관련된 다양한 정치 뉴스 및 논평",
-      "post_count": 15,
+      "summary": "정청래 후보와 관련된 게시글이 많으며, 정치적인 이슈가 많은 것으로 보인다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 가격과 관련된 문제 및 논평",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "AI와 관련된 기술 뉴스가 많으며, 삼성전자와 애플의 소식이 많은 것으로 보인다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 제품 정보",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제",
+      "summary": "주식 시장과 경제 뉴스가 많으며, 코스피와 관련된 게시글이 많은 것으로 보인다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술 뉴스와 관련된 게시글"
+    },
+    {
+      "keyword": "정청래",
       "count": 10,
       "sentiment": "mixed",
-      "context": "정치 뉴스 및 논평"
+      "context": "정청래 후보와 관련된 정치적인 이슈"
     },
     {
-      "keyword": "부동산",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "부동산 가격과 관련된 문제"
-    },
-    {
-      "keyword": "삼성",
-      "count": 5,
+      "keyword": "삼성전자",
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스 및 제품 정보"
+      "context": "삼성전자와 관련된 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치 뉴스와 부동산 가격은 계속해서 관심을 끌고 있다",
-      "action": "관련된 콘텐츠를 제공하여 사용자들의 관심을 끌기",
+      "insight": "AI 기술은 빠르게 발전하고 있으며, 관련된 뉴스가 많다.",
+      "action": "AI 기술에 대한 투자와 연구를 강화해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 제품 정보는 사용자들의 관심을 끌고 있다",
-      "action": "관련된 콘텐츠를 제공하여 사용자들의 관심을 끌기",
+      "insight": "정치적인 이슈는 여전히 많은 관심을 받고 있다.",
+      "action": "정치적인 이슈에 대한 분석과 대응을 강화해야 한다.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 뉴스는 중립적인 분위기를 보이고 있다.",
+      "action": "경제 뉴스에 대한 분석과 대응을 지속적으로 해야 한다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치 뉴스와 부동산 가격은 계속해서 관심을 끌고 있다. 또한, 최신 기술 뉴스와 제품 정보는 사용자들의 관심을 끌고 있다. 이러한 트렌드를 반영하여 콘텐츠를 제공하여 사용자들의 관심을 끌 수 있을 것으로 예상된다. 또한, 부동산 가격과 관련된 문제를 해결하기 위한 노력이 필요하다. 기술 뉴스와 제품 정보를 제공하여 사용자들의 관심을 끌 수 있을 것으로 예상된다.",
-  "analyzed_at": "2026-08-05T13:30:34.524Z",
+  "narrative": "최근의 트렌드는 AI 기술과 정치적인 이슈가 많은 것으로 보인다. AI 기술은 빠르게 발전하고 있으며, 관련된 뉴스가 많다. 정치적인 이슈는 여전히 많은 관심을 받고 있다. 경제 뉴스는 중립적인 분위기를 보이고 있다. 이러한 트렌드를 분석하여, AI 기술에 대한 투자와 연구를 강화하고, 정치적인 이슈에 대한 분석과 대응을 강화해야 한다. 또한, 경제 뉴스에 대한 분석과 대응을 지속적으로 해야 한다.",
+  "analyzed_at": "2026-08-05T15:00:34.563Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
