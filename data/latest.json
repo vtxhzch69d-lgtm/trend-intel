@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명",
-      "summary": "이재명에 대한 찬양과 비판",
+      "topic": "부동산 세금",
+      "summary": "서울 자가 보유자 입장에서 솔직하게 원하는 것, 강남 노인들 걱정, 부동산 세금 형평 안 맞아",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "스타벅스 압수수색",
+      "summary": "탱크데이 논란 스타벅스 첫 압수수색, 5·18 모욕 혐의",
       "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제 및 정치",
+      "summary": "직장인 3명 1명 소득세 '0원', 각종 세액공제, 면세자 비율 33%, 김민석 후보가 전북에서 한 이야기를 MBC 기사를 이용해서",
+      "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 논평",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 관련 뉴스와 기술",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치"
+      "keyword": "부동산",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "부동산 세금, 강남 노인들 걱정"
+    },
+    {
+      "keyword": "스타벅스",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "탱크데이 논란, 압수수색"
     },
     {
       "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "경제"
-    },
-    {
-      "keyword": "AI",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "기술"
+      "context": "직장인 3명 1명 소득세 '0원', 각종 세액공제, 면세자 비율 33%"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "positive": 5,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "AI 기술은 빠르게 발전하고 있다",
-      "action": "AI 기술에 투자하기",
+      "insight": "부동산 세금에 대한 논란이 지속되고 있다",
+      "action": "부동산 세금 정책에 대한 재검토",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스는 많은 관심을 받고 있다",
-      "action": "경제 관련 뉴스에 주목하기",
+      "insight": "스타벅스 압수수색으로 인한 브랜드 이미지 손상",
+      "action": "스타벅스 브랜드 이미지 회복을 위한 마케팅 전략 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드에 따르면, 이재명과 경제, AI 기술이 주목을 받고 있다. 이재명에 대한 찬양과 비판이 혼재하고 있으며, 경제 관련 뉴스는 많은 관심을 받고 있다. AI 기술은 빠르게 발전하고 있으며, 많은 사람들이 이를 주목하고 있다. 이러한 트렌드를 고려하여, AI 기술에 투자하고 경제 관련 뉴스에 주목하는 것이 좋을 것으로 보인다.",
-  "analyzed_at": "2026-08-04T23:31:32.200Z",
+  "narrative": "최근 클리앙 커뮤니티에서 부동산 세금과 스타벅스 압수수색이 주요하게 논의되고 있다. 부동산 세금에 대한 논란은 지속되고 있으며, 스타벅스 압수수색으로 인한 브랜드 이미지 손상도 우려된다. 이러한 상황에서 기업과 정부는 부동산 세금 정책에 대한 재검토와 스타벅스 브랜드 이미지 회복을 위한 마케팅 전략 수립이 필요하다. 또한, 경제 및 정치 관련된 주제도 중요한 이슈로 등장하고 있다.",
+  "analyzed_at": "2026-08-05T01:00:35.146Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
