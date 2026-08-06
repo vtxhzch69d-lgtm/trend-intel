@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "아파트 가격 상승",
-      "summary": "아파트 가격이 상승하고 있으며, 정책 효과가 있음을 확인할 수 있다. 임대료 상한제와 관련된 정책이 논의되고 있다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI 기술 개발",
-      "summary": "AI 기술 개발이 활발하게 진행되고 있으며, 다양한 기업들이 AI 관련 사업에 참여하고 있다. AI 기술의 발전이 사회에 미치는 영향이 논의되고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "정치 및 사회",
+      "summary": "이재명 대통령의 발언과 축협 성접대 의혹 등 정치 및 사회 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제가 많이 논의되고 있으며, 다양한 경제 지표와 금융 정책이 분석되고 있다. 경제 상황이 안정적이지 않아 우려하는 목소리가 있다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "경제 및 주식",
+      "summary": "주식 시장과 경제 관련 뉴스가 많은 관심을 받고 있으며, 주가 누르기 방지법 문제 등이 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "AI 기술과 반도체 산업 등 기술 및 과학 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "아파트",
-      "count": 7,
-      "sentiment": "neutral",
-      "context": "아파트 가격 상승과 관련된 정책이 논의되고 있다."
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "이재명 대통령의 발언과 행보에 대한 비판"
+    },
+    {
+      "keyword": "축협",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "축협 성접대 의혹과 관련된 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 12,
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술 개발이 활발하게 진행되고 있으며, 다양한 기업들이 AI 관련 사업에 참여하고 있다."
-    },
-    {
-      "keyword": "경제",
-      "count": 9,
-      "sentiment": "negative",
-      "context": "경제 상황이 안정적이지 않아 우려하는 목소리가 있다."
+      "context": "AI 기술의 발전과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 12,
-    "neutral": 10,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지된다."
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "아파트 가격 상승과 관련된 정책이 논의되고 있다.",
-      "action": "관련 정책을 주시하고, 아파트 가격 동향을 분석한다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술 개발이 활발하게 진행되고 있다.",
-      "action": "AI 기술 개발을 주시하고, 관련 사업 기회를 탐색한다.",
+      "insight": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다.",
+      "action": "관련 뉴스와 주제에 대한 분석을 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 상황이 안정적이지 않아 우려하는 목소리가 있다.",
-      "action": "경제 지표를 주시하고, 경제 상황에 대비한다.",
+      "insight": "AI 기술과 반도체 산업 등 기술 및 과학 관련 뉴스가 많은 관심을 받고 있습니다.",
+      "action": "관련 기술과 산업에 대한 투자와 연구를 강화해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드에 따르면, 아파트 가격 상승과 관련된 정책이 논의되고 있으며, AI 기술 개발이 활발하게 진행되고 있다. 그러나 경제 상황이 안정적이지 않아 우려하는 목소리가 있다. 이러한 트렌드를 주시하고, 관련 정책과 사업 기회를 탐색하는 것이 중요하다. 또한, 경제 지표를 주시하고, 경제 상황에 대비하는 것이 필요하다.",
-  "analyzed_at": "2026-08-06T10:30:35.381Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치 및 사회 관련 주제가 많은 관심을 받고 있습니다. 특히, 이재명 대통령의 발언과 축협 성접대 의혹 등이热한 관심을 받고 있습니다. 또한, AI 기술과 반도체 산업 등 기술 및 과학 관련 뉴스가 많은 관심을 받고 있으며, 관련 기술과 산업에 대한 투자와 연구를 강화해야 합니다. 중립적인 시각에서 관련 뉴스와 주제에 대한 분석을 강화해야 합니다.",
+  "analyzed_at": "2026-08-06T12:01:32.789Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
