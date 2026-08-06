@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "갤럭시 폴드8",
-      "summary": "갤럭시 폴드8의 출시와 관련된 게시글이 많습니다. 사용자들은 폴드8의 성능과 디자인에 대해 긍정적인 반응을 보이고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "주식 시장",
-      "summary": "주식 시장의 상황과 관련된 게시글이 많습니다. 사용자들은 주식 시장의 변동에 대해 관심을 보이고 있습니다.",
+      "topic": "부동산 정책",
+      "summary": "부동산 정책과 주택 공급에 대한 논의가 활발합니다. 공공임대 주택 확대와 주52시간 제한 등 다양한 의견이 있습니다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술과 관련된 게시글이 많습니다. 사용자들은 AI 기술의 발전과 ứng dụng에 대해 관심을 보이고 있습니다.",
-      "post_count": 15,
+      "topic": "반도체 산업",
+      "summary": "반도체 산업의 발전과 투자에 대한 논의가 있습니다. 산업장관의 발언과 관련된 기사들이 많이 보입니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 기사들이 많이 보입니다. 메타 AI의 해킹과 카카오의 AI 에이전트 마켓플레이스 개발 등 다양한 주제가 있습니다.",
+      "post_count": 7,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "갤럭시 폴드8",
+      "keyword": "부동산",
+      "count": 15,
+      "sentiment": "negative",
+      "context": "주택 공급과 가격에 대한 논의"
+    },
+    {
+      "keyword": "반도체",
       "count": 10,
       "sentiment": "positive",
-      "context": "갤럭시 폴드8의 출시와 관련된 게시글"
+      "context": "산업 발전과 투자"
     },
     {
-      "keyword": "주식 시장",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "주식 시장의 상황과 관련된 게시글"
-    },
-    {
-      "keyword": "AI 기술",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 게시글"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "기술 발전과 관련된 기사"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "긍정적인 반응이 많습니다."
+    "positive": 20,
+    "negative": 25,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 부동산 정책에 대한 우려가 있습니다."
   },
   "business_insights": [
     {
-      "insight": "갤럭시 폴드8의 출시가 성공적입니다.",
-      "action": "마케팅 전략을 조정하여 갤럭시 폴드8의 판매를 증가시킵니다.",
+      "insight": "부동산 정책에 대한 우려가 높아지고 있습니다.",
+      "action": "부동산 정책에 대한 대응 전략을 수립해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동이 사용자들에게 관심을 끌고 있습니다.",
-      "action": "주식 시장의 상황을 분석하여 사용자들에게 정보를 제공합니다.",
+      "insight": "반도체 산업의 발전이 계속되고 있습니다.",
+      "action": "반도체 산업에 대한 투자와 협력을 강화해야 합니다.",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전이 사용자들에게 관심을 끌고 있습니다.",
-      "action": "AI 기술의 ứng dụng을 연구하여 새로운 비즈니스 기회를 찾습니다.",
-      "priority": "medium"
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다.",
+      "action": "AI 기술의 발전을 주시하고 관련된 기회를 탐색해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 갤럭시 폴드8의 출시와 주식 시장의 상황, AI 기술의 발전에 대한 관심이 높습니다. 사용자들은 갤럭시 폴드8의 성능과 디자인에 대해 긍정적인 반응을 보이고 있습니다. 주식 시장의 변동은 사용자들에게 관심을 끌고 있습니다. AI 기술의 발전은 새로운 비즈니스 기회를 제공할 수 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 조정하고 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
-  "analyzed_at": "2026-08-06T04:30:35.210Z",
+  "narrative": "最近의 트렌드 분석 결과, 부동산 정책과 반도체 산업, AI 기술이 주요 주제로 나타났습니다. 부동산 정책에 대한 우려가 높아지고 있으므로 관련된 대응 전략을 수립해야 합니다. 또한, 반도체 산업의 발전을 주시하고 관련된 기회를 탐색해야 합니다. AI 기술의 발전도 다양한 산업에 영향을 미치고 있으므로 관련된 기회를 탐색해야 합니다. 이러한 트렌드 분석 결과를 바탕으로, 기업은 시장의 동향을 파악하고 관련된 전략을 수립하여 경쟁력을 강화할 수 있습니다.",
+  "analyzed_at": "2026-08-06T06:00:34.913Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
