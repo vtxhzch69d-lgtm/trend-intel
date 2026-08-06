@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령 지지와 반대, 선거 규칙 변경 등 정치 관련 주제가 뜨겁다.",
+      "summary": "이재명 대통령 지지와 반대, 선거 규칙 변경 등 정치 관련 주제가热한 논쟁을 벌이고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "신기술과 제품에 대한 관심이 높다. 특히 AI와 전기차 관련 주제가 인기가 있다.",
+      "topic": "기술",
+      "summary": "최신 기술 동향과 제품 출시, AI와 관련된 주제가 많은 관심을 받고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "사회",
-      "summary": "사회 문제와 사건에 대한 관심이 있다. 특히 분열과 통합, 범죄 등에 대한 주제가 논의된다.",
+      "summary": "사회적인 문제와 사건, 사고 등이 논의되고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -33,35 +33,35 @@
       "keyword": "AI",
       "count": 8,
       "sentiment": "positive",
-      "context": "신기술과 제품"
+      "context": "최신 기술 동향"
     },
     {
-      "keyword": "전기차",
+      "keyword": "선거",
       "count": 5,
-      "sentiment": "positive",
-      "context": "신제품과 기술"
+      "sentiment": "negative",
+      "context": "규칙 변경 등 논쟁"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적이고 다양한 의견이 존재한다."
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "신기술과 제품에 대한 관심이 높아지고 있다.",
-      "action": "신제품 개발과 마케팅에 집중할 필요가 있다.",
+      "insight": "최신 기술 동향을 주시하여 시장에 앞서갈 수 있습니다.",
+      "action": "기술 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "정치와 사회 문제에 대한 관심이 높아지고 있다.",
-      "action": "정책과 사회 문제에 대한 의견을 수렴하고 대응할 필요가 있다.",
+      "insight": "소셜 미디어에서 정치 관련 주제가 많은 관심을 받고 있으므로, 정치적인이슈에 대한 대응 전략을 수립해야 합니다.",
+      "action": "PR 전략 수립",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 테크, 사회 문제에 대한 관심이 높아지고 있다. 특히 신기술과 제품에 대한 관심이 높아지고 있으며, 정치와 사회 문제에 대한 의견도 다양하게 존재한다. 이러한 트렌드를 고려하여 마케팅과 제품 개발에 대한 전략을 수립할 필요가 있다. 또한, 정치와 사회 문제에 대한 의견을 수렴하고 대응할 필요가 있으며, 신기술과 제품에 대한 관심을 고려하여 마케팅과 제품 개발에 대한 전략을 수립할 필요가 있다.",
-  "analyzed_at": "2026-08-06T19:30:33.923Z",
+  "narrative": "현재의 트렌드는 정치와 기술, 사회적인 문제가 복합적으로 얽혀있는 모습을 보이고 있습니다. 최신 기술 동향과 제품 출시, AI와 관련된 주제가 많은 관심을 받고 있습니다. 또한, 정치적인 이슈에 대한 대응 전략을 수립하여 소셜 미디어에서 긍정적인 이미지를 유지할 수 있습니다. 이러한 트렌드를 주시하여 시장에 앞서갈 수 있는 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-06T21:00:34.612Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
