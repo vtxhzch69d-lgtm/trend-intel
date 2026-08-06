@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래",
-      "summary": "정청래 관련 게시물이 클리앙 커뮤니티에서 많이 올라왔습니다. 그의 대표성과 정통성에 대한 논란이 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "테슬라와 전기차",
+      "summary": "테슬라의 전기차 기술과 그로크의 성능에 대한 관심이 높아지고 있습니다. 또한, 충전없는 전기차에 대한 소식도 주목을 받고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 게시물이 클리앙 커뮤니티에서 많이 올라왔습니다. AI의 발전과 그에 따른 산업의 변화에 대한 관심이 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치와 사회",
+      "summary": "정치와 사회 관련된 주제가 많은 관심을 받고 있습니다. 이재명 대통령과 더불어 민주당에 대한 지지와 비판이 교차하고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "아반떼",
-      "summary": "신형 아반떼의 계약 첫날 판매량이 1만 대를 돌파했습니다. 이는 자동차 시장의 호조를 나타내는 지표입니다.",
-      "post_count": 2,
+      "topic": "기술과 과학",
+      "summary": "기술과 과학 관련된 주제가 많은 관심을 받고 있습니다. AI와 반도체에 대한 소식이 주목을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 10,
+      "keyword": "테슬라",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "전기차 기술과 그로크의 성능에 대한 관심"
+    },
+    {
+      "keyword": "이재명",
+      "count": 3,
       "sentiment": "mixed",
-      "context": "정청래 관련 게시물"
+      "context": "정치와 사회 관련된 주제"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 관련 게시물"
-    },
-    {
-      "keyword": "아반떼",
-      "count": 2,
-      "sentiment": "positive",
-      "context": "신형 아반떼의 판매량"
+      "context": "기술과 과학 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적이고 호의적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 신제품 개발",
+      "insight": "전기차와 기술에 대한 관심이 높아지고 있습니다.",
+      "action": "전기차와 기술에 대한 마케팅을 강화하세요.",
       "priority": "high"
     },
     {
-      "insight": "자동차 시장의 호조",
-      "action": "신형 자동차 모델 출시",
+      "insight": "정치와 사회 관련된 주제가 많은 관심을 받고 있습니다.",
+      "action": "정치와 사회 관련된 주제에 대한 마케팅을 강화하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티의 인기 게시글을 분석한 결과, 정청래와 AI 관련 게시물이 많이 올라왔습니다. 이는 정청래의 대표성과 정통성에 대한 논란과 AI의 발전과 그에 따른 산업의 변화에 대한 관심이 있음을 나타냅니다. 또한, 신형 아반떼의 계약 첫날 판매량이 1만 대를 돌파한 것으로 나타났습니다. 이는 자동차 시장의 호조를 나타내는 지표입니다. 이러한 분석 결과를 바탕으로, 기업은 AI 기술을 활용한 신제품 개발과 신형 자동차 모델 출시를 통해 시장의 변화를 선도할 수 있을 것입니다.",
-  "analyzed_at": "2026-08-06T15:01:32.059Z",
+  "narrative": "최근의 트렌드는 전기차와 기술, 정치와 사회 관련된 주제가 많은 관심을 받고 있습니다. 테슬라와 이재명 대통령에 대한 관심이 높아지고 있습니다. 또한, AI와 반도체에 대한 소식이 주목을 받고 있습니다. 이러한 트렌드를 고려하여 마케팅을 강화하면 효과적인 결과를 얻을 수 있을 것입니다.",
+  "analyzed_at": "2026-08-06T16:30:34.168Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
