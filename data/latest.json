@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령 지지와 반대, 선거 규칙 변경 등 정치 관련 주제가热한 논쟁을 벌이고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "summary": "윤석열 탄핵과 장동혁 사퇴 관련 논의가 활발합니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 동향과 제품 출시, AI와 관련된 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 20,
+      "topic": "테크",
+      "summary": "신규 스마트폰과 카메라 관련 제품이 출시되었습니다.",
+      "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "사회적인 문제와 사건, 사고 등이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "경제",
+      "summary": "국내 기업의 수출과 투자 관련 뉴스가 있습니다.",
+      "post_count": 6,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "대통령 지지와 반대"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 기술 동향"
-    },
-    {
-      "keyword": "선거",
-      "count": 5,
+      "keyword": "윤석열",
+      "count": 15,
       "sentiment": "negative",
-      "context": "규칙 변경 등 논쟁"
+      "context": "탄핵 관련 논의"
+    },
+    {
+      "keyword": "장동혁",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "사퇴 관련 논의"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "신규 제품 출시"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 동향을 주시하여 시장에 앞서갈 수 있습니다.",
-      "action": "기술 연구 개발",
+      "insight": "정치 관련 논의가 증가하고 있습니다.",
+      "action": "정치 관련 콘텐츠를 생성하세요.",
       "priority": "high"
     },
     {
-      "insight": "소셜 미디어에서 정치 관련 주제가 많은 관심을 받고 있으므로, 정치적인이슈에 대한 대응 전략을 수립해야 합니다.",
-      "action": "PR 전략 수립",
+      "insight": "신규 기술 제품이 출시되고 있습니다.",
+      "action": "신규 제품 관련 콘텐츠를 생성하세요.",
       "priority": "medium"
+    },
+    {
+      "insight": "국내 기업의 수출과 투자 관련 뉴스가 있습니다.",
+      "action": "경제 관련 콘텐츠를 생성하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 정치와 기술, 사회적인 문제가 복합적으로 얽혀있는 모습을 보이고 있습니다. 최신 기술 동향과 제품 출시, AI와 관련된 주제가 많은 관심을 받고 있습니다. 또한, 정치적인 이슈에 대한 대응 전략을 수립하여 소셜 미디어에서 긍정적인 이미지를 유지할 수 있습니다. 이러한 트렌드를 주시하여 시장에 앞서갈 수 있는 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-08-06T21:00:34.612Z",
+  "narrative": "최근의 트렌드는 정치와 기술 관련 주제가 중심입니다. 윤석열 탄핵과 장동혁 사퇴 관련 논의가 활발합니다. 또한 신규 스마트폰과 카메라 관련 제품이 출시되었습니다. 국내 기업의 수출과 투자 관련 뉴스가 있습니다. 이러한 트렌드를 고려하여 콘텐츠를 생성하면 효과적일 것입니다.",
+  "analyzed_at": "2026-08-06T22:31:27.224Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
