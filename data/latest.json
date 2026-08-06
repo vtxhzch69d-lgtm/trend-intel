@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "이재명 대통령의 발언과 축협 성접대 의혹 등 정치 및 사회 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "negative",
+      "topic": "정청래",
+      "summary": "정청래에 대한 논의와 지지 및 비판",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 주식",
-      "summary": "주식 시장과 경제 관련 뉴스가 많은 관심을 받고 있으며, 주가 누르기 방지법 문제 등이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "김민석",
+      "summary": "김민석의 행동과 그에 대한 반응",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "AI 기술과 반도체 산업 등 기술 및 과학 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "post_count": 12,
+      "topic": "AI와 기술",
+      "summary": "최신 기술 개발과 적용",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "이재명 대통령의 발언과 행보에 대한 비판"
+      "keyword": "정청래",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정청래에 대한 논의"
     },
     {
-      "keyword": "축협",
-      "count": 3,
+      "keyword": "김민석",
+      "count": 8,
       "sentiment": "negative",
-      "context": "축협 성접대 의혹과 관련된 뉴스"
+      "context": "김민석의 행동"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 뉴스"
+      "context": "최신 기술 개발"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "복합적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정치 및 사회 관련 주제가 많은 관심을 받고 있습니다.",
-      "action": "관련 뉴스와 주제에 대한 분석을 강화해야 합니다.",
+      "insight": "정치적 논의가 커뮤니티에서 활발하게 진행",
+      "action": "정치적 이슈에 대한 커뮤니티 참여 tăng",
       "priority": "high"
     },
     {
-      "insight": "AI 기술과 반도체 산업 등 기술 및 과학 관련 뉴스가 많은 관심을 받고 있습니다.",
-      "action": "관련 기술과 산업에 대한 투자와 연구를 강화해야 합니다.",
+      "insight": "최신 기술 개발에 대한 관심",
+      "action": "기술 개발에 대한 투자 증가",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치 및 사회 관련 주제가 많은 관심을 받고 있습니다. 특히, 이재명 대통령의 발언과 축협 성접대 의혹 등이热한 관심을 받고 있습니다. 또한, AI 기술과 반도체 산업 등 기술 및 과학 관련 뉴스가 많은 관심을 받고 있으며, 관련 기술과 산업에 대한 투자와 연구를 강화해야 합니다. 중립적인 시각에서 관련 뉴스와 주제에 대한 분석을 강화해야 합니다.",
-  "analyzed_at": "2026-08-06T12:01:32.789Z",
+  "narrative": "최근 커뮤니티에서는 정청래와 김민석에 대한 논의가 활발하게 진행되고 있습니다. 또한, 최신 기술 개발에 대한 관심이 높아지고 있습니다. 이러한 트렌드는 정치적 이슈와 기술 개발에 대한 투자의 증가로 이어질 수 있습니다. 그러나, 커뮤니티의 분위기는 복합적인 편으로, 다양한 의견과 감정이 존재합니다. 따라서, 이러한 트렌드에 대한 깊은 분석과 이해가 필요합니다.",
+  "analyzed_at": "2026-08-06T13:31:28.809Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
