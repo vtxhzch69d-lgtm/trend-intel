@@ -1,80 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "한국 정치와 관련된 다양한 의견과 논쟁",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "신천지",
+      "summary": "신천지 관련 게시물이 많이 올라왔으며, 신천지의 문제점과 정치적 연관성이 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "한국 경제와 관련된 뉴스 및 분석",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드",
-      "post_count": 8,
+      "topic": "AI 기술",
+      "summary": "AI 기술 관련 게시물이 많이 올라왔으며, AI의 발전과 다양한 산업에서의 적용이 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "한국 사회와 관련된 다양한 의견과 논쟁",
-      "post_count": 7,
-      "sentiment": "neutral",
-      "urgency": "medium"
+      "topic": "정치",
+      "summary": "정치 관련 게시물이 많이 올라왔으며, 정치인과 정당의 문제점이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
+      "keyword": "신천지",
       "count": 20,
-      "sentiment": "neutral",
-      "context": "한국 관련 뉴스와 의견"
+      "sentiment": "negative",
+      "context": "신천지의 문제점과 정치적 연관성"
+    },
+    {
+      "keyword": "AI",
+      "count": 25,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
     },
     {
       "keyword": "정치",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "한국 정치와 관련된 의견과 논쟁"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
       "sentiment": "negative",
-      "context": "한국 경제와 관련된 뉴스 및 분석"
-    },
-    {
-      "keyword": "기술",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 기술 뉴스와 트렌드"
+      "context": "정치인과 정당의 문제점"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "한국 온라인 커뮤니티의 전반적인 분위기는 중립적이지만, 정치와 경제 관련된 의견은 부정적인 경향이 있습니다."
+    "positive": 20,
+    "negative": 30,
+    "neutral": 10,
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "한국 정치와 경제에 대한 의견과 논쟁이 온라인 커뮤니티에서 활발하게 진행되고 있습니다.",
-      "action": "관련 뉴스와 의견을 모니터링하고, 이를 통해 시장의 동향을 파악할 수 있습니다.",
+      "insight": "신천지의 문제점과 정치적 연관성",
+      "action": "신천지와 관련된 정치적 이슈에 대한 주의가 필요합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 트렌드가 온라인 커뮤니티에서 관심을 끌고 있습니다.",
-      "action": "최신 기술 뉴스와 트렌드를 모니터링하고, 이를 통해 새로운 비즈니스 기회를 찾을 수 있습니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발을 고려해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "정치인의 문제점",
+      "action": "정치인의 문제점에 대한 대응 전략을 수립해야 합니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "한국 온라인 커뮤니티는 다양한 주제와 의견을 공유하는 공간입니다. 정치와 경제에 대한 의견과 논쟁이 활발하게 진행되고 있으며, 최신 기술 뉴스와 트렌드도 관심을 끌고 있습니다. 이러한 의견과 논쟁을 모니터링하고 분석함으로써, 시장의 동향을 파악하고 새로운 비즈니스 기회를 찾을 수 있습니다. 또한, 온라인 커뮤니티의 전반적인 분위기를 중립적이지만, 정치와 경제 관련된 의견은 부정적인 경향이 있으므로, 이를 고려하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-08-05T22:30:34.185Z",
+  "narrative": "최근의 트렌드는 신천지와 관련된 정치적 이슈, AI 기술의 발전, 정치인의 문제점 등입니다. 이러한 트렌드에 대한 분석과 대응 전략을 수립하는 것이 중요합니다. 신천지와 관련된 정치적 이슈는 높은 우선순위를 가지고 있으며, AI 기술의 발전은 중간 우선순위를 가지고 있습니다. 정치인의 문제점은 높은 우선순위를 가지고 있으며, 대응 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-08-06T00:01:22.864Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
