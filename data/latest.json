@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 경제",
-      "summary": "최근 정치 및 경제 관련된 게시글이 많이 올라왔습니다. 주식, 부동산, 정부 정책 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 및 기술",
-      "summary": "AI 및 기술 관련된 게시글이 많이 올라왔습니다. 새로운 기술 개발, 기업의 기술 투자 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
+      "topic": "갤럭시 폴드8",
+      "summary": "갤럭시 폴드8의 출시와 관련된 게시글이 많습니다. 사용자들은 폴드8의 성능과 디자인에 대해 긍정적인 반응을 보이고 있습니다.",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "최근 사회 및 문화 관련된 게시글이 많이 올라왔습니다. 교육, 환경, 사회 문제 등 다양한 주제가 논의되고 있습니다.",
+      "topic": "주식 시장",
+      "summary": "주식 시장의 상황과 관련된 게시글이 많습니다. 사용자들은 주식 시장의 변동에 대해 관심을 보이고 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술과 관련된 게시글이 많습니다. 사용자들은 AI 기술의 발전과 ứng dụng에 대해 관심을 보이고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "주식",
+      "keyword": "갤럭시 폴드8",
       "count": 10,
-      "sentiment": "negative",
-      "context": "주식 시장의 불안정성에 대한 우려"
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 잠재적 활용"
+      "context": "갤럭시 폴드8의 출시와 관련된 게시글"
     },
     {
-      "keyword": "부동산",
-      "count": 6,
+      "keyword": "주식 시장",
+      "count": 15,
       "sentiment": "mixed",
-      "context": "부동산 시장의 변동성과 정부 정책의 영향"
+      "context": "주식 시장의 상황과 관련된 게시글"
+    },
+    {
+      "keyword": "AI 기술",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정과 중립적인 감정이 혼재되어 있습니다."
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "긍정적인 반응이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "정부 정책과 경제 상황에 대한 관심이 높아지고 있습니다.",
-      "action": "정부 정책과 경제 상황에 대한 정보를 제공하고, 이를 활용한 마케팅 전략을 수립하는 것이 필요합니다.",
+      "insight": "갤럭시 폴드8의 출시가 성공적입니다.",
+      "action": "마케팅 전략을 조정하여 갤럭시 폴드8의 판매를 증가시킵니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 잠재적 활용에 대한 관심이 높아지고 있습니다.",
-      "action": "AI 기술의 발전과 잠재적 활용에 대한 정보를 제공하고, 이를 활용한 마케팅 전략을 수립하는 것이 필요합니다.",
+      "insight": "주식 시장의 변동이 사용자들에게 관심을 끌고 있습니다.",
+      "action": "주식 시장의 상황을 분석하여 사용자들에게 정보를 제공합니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 발전이 사용자들에게 관심을 끌고 있습니다.",
+      "action": "AI 기술의 ứng dụng을 연구하여 새로운 비즈니스 기회를 찾습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치 및 경제 관련된 게시글이 많이 올라왔습니다. 주식, 부동산, 정부 정책 등 다양한 주제가 논의되고 있습니다. 또한, AI 및 기술 관련된 게시글이 많이 올라왔습니다. 새로운 기술 개발, 기업의 기술 투자 등 다양한 주제가 논의되고 있습니다. 이러한 트렌드에 따라, 정부 정책과 경제 상황에 대한 정보를 제공하고, 이를 활용한 마케팅 전략을 수립하는 것이 필요합니다. 또한, AI 기술의 발전과 잠재적 활용에 대한 정보를 제공하고, 이를 활용한 마케팅 전략을 수립하는 것이 필요합니다.",
-  "analyzed_at": "2026-08-06T03:00:33.781Z",
-  "post_count": 60,
+  "narrative": "최근의 트렌드는 갤럭시 폴드8의 출시와 주식 시장의 상황, AI 기술의 발전에 대한 관심이 높습니다. 사용자들은 갤럭시 폴드8의 성능과 디자인에 대해 긍정적인 반응을 보이고 있습니다. 주식 시장의 변동은 사용자들에게 관심을 끌고 있습니다. AI 기술의 발전은 새로운 비즈니스 기회를 제공할 수 있습니다. 이러한 트렌드를 분석하여 마케팅 전략을 조정하고 새로운 비즈니스 기회를 찾는 것이 중요합니다.",
+  "analyzed_at": "2026-08-06T04:30:35.210Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
