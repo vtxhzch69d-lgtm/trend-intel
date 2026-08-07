@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래와 이재명에 대한 논의가 활발합니다. 최근 정치 상황과 관련된 게시글이 많습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 기술 관련된 뉴스가 많습니다. 새로운 기술 개발과 관련된 게시글이 활발합니다.",
-      "post_count": 15,
+      "topic": "오디세이 영화",
+      "summary": "오디세이 영화에 대한 감상평과 후기",
+      "post_count": 5,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "영화",
-      "summary": "오디세이와 다른 영화에 대한 감상평이 있습니다. 영화에 대한 논의가 활발합니다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "정청래와 이재명에 대한 정치적 논의",
+      "post_count": 4,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스 및 논의",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 관련된 게시글에서 많이 언급됩니다."
+      "keyword": "오디세이",
+      "count": 7,
+      "sentiment": "positive",
+      "context": "영화 감상평"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 관련된 뉴스에서 많이 언급됩니다."
+      "context": "기술 발전과 관련된 뉴스"
     },
     {
-      "keyword": "오디세이",
+      "keyword": "정청래",
       "count": 3,
-      "sentiment": "positive",
-      "context": "영화 감상평에서 많이 언급됩니다."
+      "sentiment": "negative",
+      "context": "정치적 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 10,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련된 게시글에서 부정적인 감정이 나타납니다."
+    "neutral": 15,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "기술 관련된 뉴스가 많아, 기술 관련된 사업을 하는 기업에게는 기회가 될 수 있습니다.",
-      "action": "기술 관련된 사업에 투자하거나, 기술 관련된 제품을 개발하는 것을 고려해 볼 수 있습니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 게시글이 많아, 정치 관련된 사업을 하는 기업에게는 위험이 될 수 있습니다.",
-      "action": "정치 관련된 사업을 하는 경우, 위험을 관리하는 방안을 고려해 볼 수 있습니다.",
+      "insight": "영화 산업은 소셜 미디어를 통해 홍보할 수 있다",
+      "action": "소셜 미디어를 활용한 영화 홍보",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 기술 관련된 뉴스가 많습니다. 기술 관련된 뉴스는 대부분 긍정적인 반면, 정치 관련된 뉴스는 부정적인 감정이 나타납니다. 기술 관련된 사업을 하는 기업에게는 기회가 될 수 있지만, 정치 관련된 사업을 하는 경우에는 위험이 될 수 있습니다. 따라서, 기술 관련된 사업에 투자하거나, 기술 관련된 제품을 개발하는 것을 고려해 볼 수 있습니다. 또한, 정치 관련된 사업을 하는 경우, 위험을 관리하는 방안을 고려해 볼 수 있습니다.",
-  "analyzed_at": "2026-08-07T17:01:27.022Z",
+  "narrative": "최근 클리앙 커뮤니티에서는 오디세이 영화와 관련된 감상평 및 후기, 정치적 논의, AI 기술의 발전과 관련된 뉴스 및 논의가 주로 обсужд되고 있습니다. 오디세이 영화에 대한 감상평은 대부분 긍정적이며, 정치적 논의는 혼재된 감정을 보이고 있습니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 비즈니스 모델 개발을 위한 기회로 활용할 수 있습니다. 또한, 영화 산업은 소셜 미디어를 통해 홍보할 수 있으며, 이는 마케팅 전략의 하나로 활용할 수 있습니다.",
+  "analyzed_at": "2026-08-07T18:31:23.558Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
