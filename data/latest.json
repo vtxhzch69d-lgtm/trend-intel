@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산",
-      "summary": "부동산 관련 게시물이 많이 올라왔습니다. 특히, 부동산 보유세와 실거주 1주택자에 대한 논의가 많았습니다.",
-      "post_count": 5,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "주식 시장",
+      "summary": "주식 시장의 동향과 투자 전략",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "코스피",
-      "summary": "코스피 관련 게시물이 많이 올라왔습니다. 특히, 코스피 순환매와 주식 투자에 대한 논의가 많았습니다.",
-      "post_count": 4,
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 문제에 대한 논의",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
-    },
-    {
-      "topic": "테슬라",
-      "summary": "테슬라 관련 게시물이 많이 올라왔습니다. 특히, 테슬라의 테라펩 규모에 대한 논의가 많았습니다.",
-      "post_count": 2,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "주식",
       "count": 10,
       "sentiment": "neutral",
-      "context": "부동산 관련 게시물"
+      "context": "주식 시장의 동향"
     },
     {
-      "keyword": "코스피",
+      "keyword": "정치",
       "count": 8,
-      "sentiment": "mixed",
-      "context": "코스피 관련 게시물"
-    },
-    {
-      "keyword": "테슬라",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "테슬라 관련 게시물"
+      "sentiment": "negative",
+      "context": "정치와 사회 문제"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
+    "positive": 25,
+    "negative": 15,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 관련 게시물이 많이 올라옴",
-      "action": "부동산 관련 제품이나 서비스를 제공",
-      "priority": "medium"
-    },
-    {
-      "insight": "코스피 관련 게시물이 많이 올라옴",
-      "action": "주식 투자 관련 제품이나 서비스를 제공",
+      "insight": "AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있다",
+      "action": "AI 기술을 활용한 산업의 투자",
       "priority": "high"
     },
     {
-      "insight": "테슬라 관련 게시물이 많이 올라옴",
-      "action": "테슬라 관련 제품이나 서비스를 제공",
+      "insight": "주식 시장의 동향을 분석하여 투자 전략을 수립할 수 있다",
+      "action": "주식 시장의 동향 분석",
+      "priority": "medium"
+    },
+    {
+      "insight": "정치와 사회 문제는 기업의 운영에 영향을 미칠 수 있다",
+      "action": "정치와 사회 문제를 모니터링",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 부동산과 코스피 관련 게시물이 많이 올라왔습니다. 특히, 부동산 보유세와 실거주 1주택자에 대한 논의가 많았습니다. 또한, 코스피 순환매와 주식 투자에 대한 논의가 많았습니다. 테슬라 관련 게시물도 많이 올라왔습니다. 이러한 트렌드를 반영하여, 부동산 관련 제품이나 서비스를 제공하거나 주식 투자 관련 제품이나 서비스를 제공할 수 있습니다. 또한, 테슬라 관련 제품이나 서비스를 제공할 수 있습니다. 그러나, 이러한 트렌드가 지속될지 여부는 불확실합니다. 따라서, 이러한 트렌드를 지속적으로 모니터링하고, 시장의 변화를 예측하여 제품이나 서비스를 제공하는 것이 중요합니다.",
-  "analyzed_at": "2026-08-07T01:30:34.147Z",
+  "narrative": "최근의 온라인 커뮤니티 트렌드는 AI 기술의 발전과 이를 활용한 다양한 산업의 성장, 주식 시장의 동향, 정치 및 사회 문제에 대한 논의를 중심으로 이루어지고 있다. AI 기술의 발전은 다양한 산업의 성장을 촉진할 수 있으며, 주식 시장의 동향을 분석하여 투자 전략을 수립할 수 있다. 그러나 정치와 사회 문제는 기업의 운영에 영향을 미칠 수 있으므로 모니터링이 필요하다. 이러한 트렌드를 분석하여 기업은 새로운 기회를 발굴하고, 위험을 관리할 수 있다.",
+  "analyzed_at": "2026-08-07T03:30:33.899Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
