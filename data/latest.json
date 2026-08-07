@@ -1,68 +1,99 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있습니다. 특히, 챗GPT의 무료 무제한 선언과 오픈AI의 구독 전략이 다시 짜지는 등 AI 관련 뉴스가 많습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정청래",
+      "summary": "정청래와 관련된 여러 가지 논란",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "하이닉스와 삼성의 주식 관련 뉴스가 많이 보도되고 있습니다. 특히, 하이닉스의 배당율과 삼성의 새로운 기술 개발이 주목을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "노사모",
+      "summary": "노사모와 관련된 여러 가지 논란",
+      "post_count": 3,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치와 사회 관련 뉴스가 많습니다. 특히, 지역화폐와 학군지에 대한 논의가 활발합니다.",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 관련된 여러 가지 뉴스",
       "post_count": 10,
-      "sentiment": "mixed",
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "테슬라코리아",
+      "summary": "테슬라코리아의 FSD 구독제 도입",
+      "post_count": 1,
+      "sentiment": "neutral",
+      "urgency": "low"
+    },
+    {
+      "topic": "삼성전자",
+      "summary": "삼성전자의 최신 기술과 관련된 여러 가지 뉴스",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
+      "keyword": "정청래",
+      "count": 7,
+      "sentiment": "negative",
+      "context": "정청래와 관련된 논란"
+    },
+    {
+      "keyword": "노사모",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "노사모와 관련된 논란"
+    },
+    {
       "keyword": "AI",
-      "count": 20,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
+      "context": "최신 AI 기술과 관련된 뉴스"
     },
     {
-      "keyword": "주식",
-      "count": 10,
+      "keyword": "테슬라",
+      "count": 2,
       "sentiment": "neutral",
-      "context": "하이닉스와 삼성의 주식 관련 뉴스"
+      "context": "테슬라코리아의 FSD 구독제 도입"
     },
     {
-      "keyword": "정치",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치와 사회 관련 뉴스"
+      "keyword": "삼성",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "삼성전자의 최신 기술과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
+    "positive": 15,
+    "negative": 12,
+    "neutral": 10,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다.",
-      "action": "AI 기술의 적용을 위한 투자와 연구를 진행해야 합니다.",
+      "insight": "최신 AI 기술은 많은 관심을 받고 있다",
+      "action": "AI 기술에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 동향을 주시해야 합니다.",
-      "action": "주식 시장의 뉴스와 분석을 지속적으로 모니터링해야 합니다.",
+      "insight": "정청래와 노사모와 관련된 논란은 많은 관심을 받고 있다",
+      "action": "정치적 논란에 대한 대응",
+      "priority": "medium"
+    },
+    {
+      "insight": "삼성전자의 최신 기술은 많은 관심을 받고 있다",
+      "action": "삼성전자에 대한 투자 증가",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 주식 시장의 동향을 중심으로 형성되고 있습니다. 특히, 챗GPT의 무료 무제한 선언과 오픈AI의 구독 전략이 다시 짜지는 등 AI 관련 뉴스가 많습니다. 또한, 하이닉스와 삼성의 주식 관련 뉴스가 많이 보도되고 있습니다. 정치와 사회 관련 뉴스도 많습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 투자와 연구를 진행해야 합니다.",
-  "analyzed_at": "2026-08-07T08:00:33.947Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드는 최신 AI 기술과 관련된 뉴스와 정청래, 노사모와 관련된 논란이 많은 관심을 받고 있다. 또한 삼성전자의 최신 기술도 많은 관심을 받고 있다. 이러한 트렌드는 기업과 정치계에 대한 관심이 높아지고 있음을 보여준다. 따라서 기업과 정치계는 이러한 트렌드에 대한 대응을 통해 자신의 입지를 강화할 수 있을 것이다.",
+  "analyzed_at": "2026-08-07T09:30:34.083Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
