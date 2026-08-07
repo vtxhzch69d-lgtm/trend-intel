@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "경제 및 정치",
-      "summary": "最近의 경제 및 정치 뉴스가 주목을 받고 있습니다. 대통령의 정책과 경제 상황에 대한 논의가 활발합니다.",
-      "post_count": 15,
+      "topic": "정치",
+      "summary": "정청래와 이재명에 대한 논의가 활발합니다. 최근 정치 상황과 관련된 게시글이 많습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "신기술과 과학 뉴스가 주목을 받고 있습니다. AI와 로봇 기술에 대한 논의가 활발합니다.",
-      "post_count": 20,
+      "topic": "기술",
+      "summary": "AI와 기술 관련된 뉴스가 많습니다. 새로운 기술 개발과 관련된 게시글이 활발합니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 뉴스가 주목을 받고 있습니다. 교육과 부동산에 대한 논의가 활발합니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "영화",
+      "summary": "오디세이와 다른 영화에 대한 감상평이 있습니다. 영화에 대한 논의가 활발합니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 관련된 게시글에서 많이 언급됩니다."
+    },
+    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전에 대한 논의"
+      "context": "기술 관련된 뉴스에서 많이 언급됩니다."
     },
     {
-      "keyword": "경제",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "경제 상황에 대한 우려"
-    },
-    {
-      "keyword": "정치",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "정치 상황에 대한 논의"
+      "keyword": "오디세이",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "영화 감상평에서 많이 언급됩니다."
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적인 분위기"
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련된 게시글에서 부정적인 감정이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술에 대한 투자 증가",
+      "insight": "기술 관련된 뉴스가 많아, 기술 관련된 사업을 하는 기업에게는 기회가 될 수 있습니다.",
+      "action": "기술 관련된 사업에 투자하거나, 기술 관련된 제품을 개발하는 것을 고려해 볼 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 상황의 불안정",
-      "action": "경제 상황에 대한 모니터링 증가",
+      "insight": "정치 관련된 게시글이 많아, 정치 관련된 사업을 하는 기업에게는 위험이 될 수 있습니다.",
+      "action": "정치 관련된 사업을 하는 경우, 위험을 관리하는 방안을 고려해 볼 수 있습니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 및 문화의 다양성",
-      "action": "사회 및 문화에 대한 이해 증가",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 온라인 커뮤니티 트렌드는 경제 및 정치, 기술 및 과학, 사회 및 문화 등 다양한 주제를 다루고 있습니다. AI 기술의 발전과 경제 상황의 불안정에 대한 논의가 주목을 받고 있습니다. 이러한 트렌드를 분석하여 비즈니스 인사이트를 얻을 수 있습니다. 또한, 주요 키워드와 감성 분석을 통해 시장의 동향을 파악할 수 있습니다.",
-  "analyzed_at": "2026-08-07T15:31:31.765Z",
+  "narrative": "최근의 트렌드는 정치와 기술 관련된 뉴스가 많습니다. 기술 관련된 뉴스는 대부분 긍정적인 반면, 정치 관련된 뉴스는 부정적인 감정이 나타납니다. 기술 관련된 사업을 하는 기업에게는 기회가 될 수 있지만, 정치 관련된 사업을 하는 경우에는 위험이 될 수 있습니다. 따라서, 기술 관련된 사업에 투자하거나, 기술 관련된 제품을 개발하는 것을 고려해 볼 수 있습니다. 또한, 정치 관련된 사업을 하는 경우, 위험을 관리하는 방안을 고려해 볼 수 있습니다.",
+  "analyzed_at": "2026-08-07T17:01:27.022Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
