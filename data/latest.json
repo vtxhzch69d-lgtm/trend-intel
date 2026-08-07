@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "금융 및 경제",
-      "summary": "미국 고용ショック과 금값 급상승, 금융 자산에 금을 포함시켜야 했던 이유 등이 논의되고 있습니다.",
-      "post_count": 10,
+      "topic": "경제 및 정치",
+      "summary": "最近의 경제 및 정치 뉴스가 주목을 받고 있습니다. 대통령의 정책과 경제 상황에 대한 논의가 활발합니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 AI",
-      "summary": "AI 모델의 발전과 그로 인한 산업의 변화, 새로운 기술의 등장 등이 논의되고 있습니다.",
-      "post_count": 15,
+      "topic": "기술 및 과학",
+      "summary": "신기술과 과학 뉴스가 주목을 받고 있습니다. AI와 로봇 기술에 대한 논의가 활발합니다.",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 사회",
-      "summary": "정치적인 이슈와 사회적인 문제가 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "사회 및 문화",
+      "summary": "사회 및 문화 뉴스가 주목을 받고 있습니다. 교육과 부동산에 대한 논의가 활발합니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 20,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 모델의 발전과 그로 인한 산업의 변화"
+      "context": "AI 기술의 발전에 대한 논의"
     },
     {
-      "keyword": "금융",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "미국 고용ショック과 금값 급상승"
+      "keyword": "경제",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "경제 상황에 대한 우려"
     },
     {
       "keyword": "정치",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "정치적인 이슈와 사회적인 문제"
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "정치 상황에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있습니다.",
-      "action": "AI 기술의 발전을 주시하고, 산업의 변화를 예측하여 대응해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술에 대한 투자 증가",
       "priority": "high"
     },
     {
-      "insight": "금융 시장의 변동은 경제에 큰 영향을 줄 수 있습니다.",
-      "action": "금융 시장의 변동을 주시하고, 경제에 대한 예측을 해야 합니다.",
+      "insight": "경제 상황의 불안정",
+      "action": "경제 상황에 대한 모니터링 증가",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 문화의 다양성",
+      "action": "사회 및 문화에 대한 이해 증가",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 금융 및 경제, 기술 및 AI, 정치 및 사회 등 다양한 주제가 논의되고 있습니다. AI 기술의 발전은 산업의 변화를 가져올 수 있으며, 금융 시장의 변동은 경제에 큰 영향을 줄 수 있습니다. 이러한 트렌드에 대한 분석과 예측은 비즈니스 및 마케팅 전략을 수립하는 데 중요한 역할을 할 수 있습니다.",
-  "analyzed_at": "2026-08-07T14:00:34.243Z",
+  "narrative": "最近의 온라인 커뮤니티 트렌드는 경제 및 정치, 기술 및 과학, 사회 및 문화 등 다양한 주제를 다루고 있습니다. AI 기술의 발전과 경제 상황의 불안정에 대한 논의가 주목을 받고 있습니다. 이러한 트렌드를 분석하여 비즈니스 인사이트를 얻을 수 있습니다. 또한, 주요 키워드와 감성 분석을 통해 시장의 동향을 파악할 수 있습니다.",
+  "analyzed_at": "2026-08-07T15:31:31.765Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
