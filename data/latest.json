@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있다. AI의 발전이 산업과 사회에 미치는 영향에 대한 관심이 높다.",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용이 주목을 받고 있습니다. 특히, 챗GPT의 무료 무제한 선언과 오픈AI의 구독 전략이 다시 짜지는 등 AI 관련 뉴스가 많습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "주식 시장",
-      "summary": "주식 시장의 동향과 관련된 주제가 논의되고 있다. 투자자들의 관심이 집중되는 주식 시장의 상황에 대한 분석이 이루어지고 있다.",
+      "summary": "하이닉스와 삼성의 주식 관련 뉴스가 많이 보도되고 있습니다. 특히, 하이닉스의 배당율과 삼성의 새로운 기술 개발이 주목을 받고 있습니다.",
       "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "부동산 시장의 동향과 관련된 주제가 논의되고 있다. 부동산 가격의 상승과 하락에 대한 분석이 이루어지고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "정치 및 사회",
+      "summary": "정치와 사회 관련 뉴스가 많습니다. 특히, 지역화폐와 학군지에 대한 논의가 활발합니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "context": "AI 기술의 발전과 그에 따른 다양한 산업에서의 적용"
     },
     {
       "keyword": "주식",
       "count": 10,
       "sentiment": "neutral",
-      "context": "주식 시장의 동향과 관련된 주제"
+      "context": "하이닉스와 삼성의 주식 관련 뉴스"
     },
     {
-      "keyword": "부동산",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "부동산 시장의 동향과 관련된 주제"
+      "keyword": "정치",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "정치와 사회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 25,
     "negative": 15,
-    "neutral": 40,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 산업과 사회에 미치는 영향",
-      "action": "AI 기술의 발전을 주시하고 이를 산업과 사회에 적용하는 방안을 모색",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다.",
+      "action": "AI 기술의 적용을 위한 투자와 연구를 진행해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 동향과 관련된 분석",
-      "action": "주식 시장의 동향을 분석하고 투자자들에게 정보를 제공",
+      "insight": "주식 시장의 동향을 주시해야 합니다.",
+      "action": "주식 시장의 뉴스와 분석을 지속적으로 모니터링해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "부동산 시장의 동향과 관련된 분석",
-      "action": "부동산 시장의 동향을 분석하고 관련된 정책을 제안",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 중심이 되고 있다. AI 기술의 발전이 산업과 사회에 미치는 영향에 대한 관심이 높다. 또한, 주식 시장과 부동산 시장의 동향과 관련된 주제도 논의되고 있다. 이러한 트렌드를 분석하여 산업과 사회에 미치는 영향을 이해하고, 이를 활용하여 새로운 기회를 창출할 수 있을 것이다. 또한, 투자자들에게 정확한 정보를 제공하고, 관련된 정책을 제안하여 산업과 사회의 발전에 기여할 수 있을 것이다.",
-  "analyzed_at": "2026-08-07T06:30:34.523Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 주식 시장의 동향을 중심으로 형성되고 있습니다. 특히, 챗GPT의 무료 무제한 선언과 오픈AI의 구독 전략이 다시 짜지는 등 AI 관련 뉴스가 많습니다. 또한, 하이닉스와 삼성의 주식 관련 뉴스가 많이 보도되고 있습니다. 정치와 사회 관련 뉴스도 많습니다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 투자와 연구를 진행해야 합니다.",
+  "analyzed_at": "2026-08-07T08:00:33.947Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
