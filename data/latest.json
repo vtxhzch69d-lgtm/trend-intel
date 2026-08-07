@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 관련 게시글이 많이 올라왔습니다. 선거와 관련된 글들이 주를 이루고 있습니다.",
-      "post_count": 15,
+      "topic": "부동산",
+      "summary": "부동산 관련 게시물이 많이 올라왔습니다. 특히, 부동산 보유세와 실거주 1주택자에 대한 논의가 많았습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "코스피",
+      "summary": "코스피 관련 게시물이 많이 올라왔습니다. 특히, 코스피 순환매와 주식 투자에 대한 논의가 많았습니다.",
+      "post_count": 4,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "신기술과 관련된 게시글이 많이 올라왔습니다. AI와 관련된 글들이 주를 이루고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "생활",
-      "summary": "생활과 관련된 게시글이 많이 올라왔습니다. 음식과 관련된 글들이 주를 이루고 있습니다.",
-      "post_count": 8,
+      "topic": "테슬라",
+      "summary": "테슬라 관련 게시물이 많이 올라왔습니다. 특히, 테슬라의 테라펩 규모에 대한 논의가 많았습니다.",
+      "post_count": 2,
       "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "선거",
+      "keyword": "부동산",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "最近의 선거와 관련된 게시글"
+      "sentiment": "neutral",
+      "context": "부동산 관련 게시물"
     },
     {
-      "keyword": "AI",
+      "keyword": "코스피",
       "count": 8,
-      "sentiment": "positive",
-      "context": "신기술과 관련된 게시글"
+      "sentiment": "mixed",
+      "context": "코스피 관련 게시물"
     },
     {
-      "keyword": "음식",
-      "count": 5,
+      "keyword": "테슬라",
+      "count": 3,
       "sentiment": "positive",
-      "context": "생활과 관련된 게시글"
+      "context": "테슬라 관련 게시물"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 15,
     "negative": 10,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "最近의 정치 관련 게시글이 많이 올라왔습니다.",
-      "action": "정치 관련 게시글을 분석하여 선거와 관련된 트렌드를 파악합니다.",
-      "priority": "high"
-    },
-    {
-      "insight": "신기술과 관련된 게시글이 많이 올라왔습니다.",
-      "action": "신기술과 관련된 게시글을 분석하여 기술 트렌드를 파악합니다.",
+      "insight": "부동산 관련 게시물이 많이 올라옴",
+      "action": "부동산 관련 제품이나 서비스를 제공",
       "priority": "medium"
     },
     {
-      "insight": "생활과 관련된 게시글이 많이 올라왔습니다.",
-      "action": "생활과 관련된 게시글을 분석하여 생활 트렌드를 파악합니다.",
+      "insight": "코스피 관련 게시물이 많이 올라옴",
+      "action": "주식 투자 관련 제품이나 서비스를 제공",
+      "priority": "high"
+    },
+    {
+      "insight": "테슬라 관련 게시물이 많이 올라옴",
+      "action": "테슬라 관련 제품이나 서비스를 제공",
       "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 관련 게시글이 많이 올라왔습니다. 선거와 관련된 글들이 주를 이루고 있습니다. 또한 신기술과 관련된 게시글이 많이 올라왔습니다. AI와 관련된 글들이 주를 이루고 있습니다. 생활과 관련된 게시글도 많이 올라왔습니다. 음식과 관련된 글들이 주를 이루고 있습니다. 이러한 트렌드를 파악하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-08-07T00:00:33.789Z",
+  "narrative": "최근 클리앙 커뮤니티에서 부동산과 코스피 관련 게시물이 많이 올라왔습니다. 특히, 부동산 보유세와 실거주 1주택자에 대한 논의가 많았습니다. 또한, 코스피 순환매와 주식 투자에 대한 논의가 많았습니다. 테슬라 관련 게시물도 많이 올라왔습니다. 이러한 트렌드를 반영하여, 부동산 관련 제품이나 서비스를 제공하거나 주식 투자 관련 제품이나 서비스를 제공할 수 있습니다. 또한, 테슬라 관련 제품이나 서비스를 제공할 수 있습니다. 그러나, 이러한 트렌드가 지속될지 여부는 불확실합니다. 따라서, 이러한 트렌드를 지속적으로 모니터링하고, 시장의 변화를 예측하여 제품이나 서비스를 제공하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-07T01:30:34.147Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
