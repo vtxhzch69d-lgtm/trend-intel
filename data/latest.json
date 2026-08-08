@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "김민석과 정청래의 경선 결과 및 여론조사 결과가 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그로 인한 다양한 산업에서의 적용이 논의되고 있습니다.",
+      "summary": "AI 기술의 발전과 그로 인한 다양한 산업의 변화",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "스마트폰 및 전자제품",
-      "summary": "최신 스마트폰 및 전자제품의 기능과 성능이 논의되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부동산",
+      "summary": "부동산 시장과 관련된 뉴스",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "김민석",
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "부동산",
       "count": 5,
       "sentiment": "neutral",
-      "context": "정치인"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술"
-    },
-    {
-      "keyword": "스마트폰",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "전자제품"
+      "context": "부동산 시장과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 15,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다.",
-      "action": "AI 기술의 적용을 위한 투자와 연구를 강화해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것",
+      "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "스마트폰 및 전자제품의 시장은 점점 더 경쟁적이 되어가고 있습니다.",
-      "action": "최신 기술과 기능을 적용하여 경쟁력을 강화해야 합니다.",
+      "insight": "정치 관련 뉴스와 의견은 계속해서 증가할 것",
+      "action": "정치 관련 뉴스와 의견을 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "부동산 시장은 안정적인 추세를 보일 것",
+      "action": "부동산 시장의 변화를 모니터링",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 AI 기술이 주요한 주제로 등장했습니다. 김민석과 정청래의 경선 결과 및 여론조사 결과가 논의되고 있으며, AI 기술의 발전과 그로 인한 다양한 산업에서의 적용이 논의되고 있습니다. 또한, 최신 스마트폰 및 전자제품의 기능과 성능이 논의되고 있습니다. 이러한 트렌드는 미래의 기술과 산업의 발전에 대한 기대와 관심을 나타내고 있습니다. 따라서, AI 기술의 적용을 위한 투자와 연구를 강화하고, 최신 기술과 기능을 적용하여 경쟁력을 강화하는 것이 중요합니다.",
-  "analyzed_at": "2026-08-08T11:00:33.655Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그로 인한 다양한 산업의 변화가 주목을 끌고 있습니다. 또한, 정치 관련 뉴스와 의견은 계속해서 증가하고 있습니다. 부동산 시장은 안정적인 추세를 보이고 있습니다. 이러한 트렌드와 키워드를 분석하여, 비즈니스 모델 개발과 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-08-08T12:30:34.172Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
