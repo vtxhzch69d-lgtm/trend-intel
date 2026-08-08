@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령에 대한 반감을 노골적으로 표현하는 분들이 많으며, 그의 정책과 행보에 대한 논란이 지속되고 있습니다.",
+      "topic": "정치",
+      "summary": "김민석과 정청래의 경선 결과 및 여론조사 결과가 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높아지고 있으며, 관련 뉴스와 기사들이 많이 공유되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 경제",
-      "summary": "정치와 경제에 대한 관심이 높아지고 있으며, 관련 뉴스와 기사들이 많이 공유되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그로 인한 다양한 산업에서의 적용이 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "스마트폰 및 전자제품",
+      "summary": "최신 스마트폰 및 전자제품의 기능과 성능이 논의되고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "이재명 대통령에 대한 반감을 노골적으로 표현하는 분들이 많습니다."
+      "keyword": "김민석",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "정치인"
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높아지고 있습니다."
+      "count": 10,
+      "sentiment": "positive",
+      "context": "기술"
     },
     {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치에 대한 관심이 높아지고 있으며, 관련 뉴스와 기사들이 많이 공유되고 있습니다."
+      "keyword": "스마트폰",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "전자제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정의 비중이 높지만, 중립적인 감정도 많습니다."
+    "positive": 20,
+    "negative": 5,
+    "neutral": 15,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령에 대한 반감을 노골적으로 표현하는 분들이 많습니다.",
-      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있습니다.",
+      "action": "AI 기술의 적용을 위한 투자와 연구를 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높아지고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발해야 합니다.",
+      "insight": "스마트폰 및 전자제품의 시장은 점점 더 경쟁적이 되어가고 있습니다.",
+      "action": "최신 기술과 기능을 적용하여 경쟁력을 강화해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 이재명 대통령에 대한 반감을 노골적으로 표현하는 분들이 많으며, 그의 정책과 행보에 대한 논란이 지속되고 있습니다. 또한, AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높아지고 있으며, 관련 뉴스와 기사들이 많이 공유되고 있습니다. 이러한 트렌드에 따라, 정치적인 이슈에 대한 대응을 준비해야 하며, AI 기술을 활용한 새로운 비즈니스 모델을 개발해야 합니다. 또한, 부정적인 감정의 비중이 높지만, 중립적인 감정도 많으므로, 다양한 관점을 고려한 마케팅 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-08-08T09:31:28.389Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, 정치와 AI 기술이 주요한 주제로 등장했습니다. 김민석과 정청래의 경선 결과 및 여론조사 결과가 논의되고 있으며, AI 기술의 발전과 그로 인한 다양한 산업에서의 적용이 논의되고 있습니다. 또한, 최신 스마트폰 및 전자제품의 기능과 성능이 논의되고 있습니다. 이러한 트렌드는 미래의 기술과 산업의 발전에 대한 기대와 관심을 나타내고 있습니다. 따라서, AI 기술의 적용을 위한 투자와 연구를 강화하고, 최신 기술과 기능을 적용하여 경쟁력을 강화하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-08T11:00:33.655Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
