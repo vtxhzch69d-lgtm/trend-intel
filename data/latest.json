@@ -1,44 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 обсужд되고 있습니다.",
-      "post_count": 100,
-      "sentiment": "mixed",
+      "topic": "정치",
+      "summary": "이재명 정부와 민주당에 대한 비판 및 논의",
+      "post_count": 15,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술 및 제품에 대한 소식과 논의",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "국내외 경제 소식과 분석",
+      "post_count": 8,
+      "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "이재명",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "이재명 정부와 민주당에 대한 비판"
     },
     {
-      "keyword": "이슈",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "이슈게시판에서 обсужд되는 주제"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 AI 기술 및 제품에 대한 소식과 논의"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "국내외 경제 소식과 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "positive": 15,
+    "negative": 20,
+    "neutral": 25,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-      "action": "마케팅 전략 수립",
+      "insight": "정치적인 논의가 온라인 커뮤니티에서 활발하게 진행되고 있다",
+      "action": "정치적인 논의에 대한 분석과 이해를 높이자",
       "priority": "high"
+    },
+    {
+      "insight": "AI 기술에 대한 관심이 증가하고 있다",
+      "action": "AI 기술에 대한 콘텐츠와 서비스를 개발하자",
+      "priority": "medium"
+    },
+    {
+      "insight": "경제적인 논의가 온라인 커뮤니티에서 진행되고 있다",
+      "action": "경제적인 논의에 대한 분석과 이해를 높이자",
+      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글을 분석한 결과, 자유게시판과 이슈게시판에서 обсужд되는 주제가 대부분입니다. 이에 따라 마케팅 전략을 수립하여 커뮤니티에서 인기 있는 주제를 활용할 수 있습니다. 또한, 커뮤니티의 분위기를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-08-08T17:01:30.129Z",
-  "post_count": 2,
+  "narrative": "최근 온라인 커뮤니티에서는 정치적인 논의가 활발하게 진행되고 있다. 특히 이재명 정부와 민주당에 대한 비판 및 논의가 많다. 또한 AI 기술에 대한 관심이 증가하고 있으며, 최신 AI 기술 및 제품에 대한 소식과 논의가 진행되고 있다. 경제적인 논의도 진행되고 있으나, 중립적인 분위기가 지배적이다. 이러한 트렌드를 분석하여 정치적인 논의에 대한 분석과 이해를 높이고, AI 기술에 대한 콘텐츠와 서비스를 개발하여 고객의 관심을 끌 수 있을 것이다.",
+  "analyzed_at": "2026-08-08T18:30:34.115Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
