@@ -1,70 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래 의원님의 친명팔이와 당대표 선거 관련글이 많습니다.",
-      "post_count": 10,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에서 обсужд되고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "AI 관련 기술과 기업의 동향이 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "부동산",
-      "summary": "부동산 가격과 정책 관련글이 많습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
+    },
+    {
+      "keyword": "이슈",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술과 기업의 동향"
-    },
-    {
-      "keyword": "정청래",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정청래 의원님의 친명팔이와 당대표 선거"
-    },
-    {
-      "keyword": "부동산",
-      "count": 12,
       "sentiment": "negative",
-      "context": "부동산 가격과 정책"
+      "context": "이슈게시판에서 обсужд되는 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 25,
-    "neutral": 20,
-    "overall_mood": "중립적이지만 부정적인 감정도 존재"
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술과 기업의 동향을 주목해야 합니다.",
-      "action": "AI 관련 기술과 기업의 동향을 분석하고 투자할 것을 고려합니다.",
+      "insight": "커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
-    },
-    {
-      "insight": "부동산 가격과 정책을 주목해야 합니다.",
-      "action": "부동산 가격과 정책을 분석하고 투자할 것을 고려합니다.",
-      "priority": "medium"
     }
   ],
-  "narrative": "현재 정치와 AI 기술이 주목을 받고 있습니다. 특히 AI 기술과 기업의 동향은 많은 관심을 받고 있으며, 부동산 가격과 정책도 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 사업적으로 활용할 수 있는 기회를 찾는 것이 중요합니다. 또한, 부동산 가격과 정책을 주목하여 투자할 것을 고려합니다.",
-  "analyzed_at": "2026-08-08T15:30:33.656Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티에서 인기 있는 게시글을 분석한 결과, 자유게시판과 이슈게시판에서 обсужд되는 주제가 대부분입니다. 이에 따라 마케팅 전략을 수립하여 커뮤니티에서 인기 있는 주제를 활용할 수 있습니다. 또한, 커뮤니티의 분위기를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+  "analyzed_at": "2026-08-08T17:01:30.129Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
