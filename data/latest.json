@@ -1,67 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "테슬라와 전기차",
-      "summary": "테슬라 모델Y 스탠다드 FSD 라이트 출시와 전기차 관련 뉴스",
-      "post_count": 3,
+      "topic": "정치",
+      "summary": "이재명 대통령과 윤석열 대통령의 정책과 행동에 대한 논의",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 트렌드에 대한 논의",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "갤럭시 Z 폴드8",
-      "summary": "삼성의 새로운 폴더블폰 갤럭시 Z 폴드8에 대한 논의",
-      "post_count": 2,
+      "topic": "경제",
+      "summary": "경제 뉴스와 시장 트렌드에 대한 논의",
+      "post_count": 8,
       "sentiment": "neutral",
-      "urgency": "low"
-    },
-    {
-      "topic": "정치와 사회",
-      "summary": "현재의 정치와 사회 문제에 대한 다양한 의견과 논의",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "테슬라",
-      "count": 3,
+      "keyword": "이재명",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "정치 논의"
+    },
+    {
+      "keyword": "윤석열",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "정치 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "전기차와 기술에 대한 관심"
+      "context": "기술 뉴스"
     },
     {
-      "keyword": "갤럭시",
-      "count": 2,
+      "keyword": "경제",
+      "count": 6,
       "sentiment": "neutral",
-      "context": "새로운 스마트폰 모델에 대한 정보"
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "현재의 정치와 사회 문제에 대한 논의"
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 5,
-    "negative": 3,
-    "neutral": 7,
-    "overall_mood": "중립적이지만 정치와 사회 문제에 대한 우려가 존재"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "전기차와 기술에 대한 관심이 증가하고 있다",
-      "action": "관련 제품과 서비스를 개발하고 홍보할 필요가 있다",
+      "insight": "정치와 경제에 대한 관심이 높아지고 있다",
+      "action": "관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다",
       "priority": "high"
     },
     {
-      "insight": "현재의 정치와 사회 문제에 대한 논의가 많다",
-      "action": "관련된 정책과 사회적 책임을 고려해야 한다",
+      "insight": "최신 기술 트렌드에 대한 관심이 높아지고 있다",
+      "action": "최신 기술 뉴스를 제공하여 사용자들의 관심을 끌어야 한다",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 전기차와 기술, 정치와 사회 문제에 대한 관심이 증가하고 있다. 테슬라와 갤럭시 같은 브랜드는 관련된 제품과 서비스를 개발하고 홍보할 필요가 있다. 또한, 정치와 사회 문제에 대한 논의가 많아 관련된 정책과 사회적 책임을 고려해야 한다. 중립적인 의견이 많지만, 정치와 사회 문제에 대한 우려가 존재한다. 따라서, 관련된 기업과 기관은 이러한 트렌드에 주목하고 적절한 대응을 해야 한다.",
-  "analyzed_at": "2026-08-08T02:01:27.816Z",
+  "narrative": "최근의 트렌드는 정치와 경제에 대한 관심이 높아지고 있으며, 최신 기술 트렌드에 대한 관심도 높아지고 있다. 사용자들은 다양한 주제에 대한 정보를 찾고 있으며, 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다. 또한, 최신 기술 뉴스를 제공하여 사용자들의 관심을 끌어야 한다. 전체적으로 중립적인 분위기이지만, 정치와 경제에 대한 관심이 높아지고 있으므로 관련 콘텐츠를 제공하여 사용자들의 관심을 끌어야 한다.",
+  "analyzed_at": "2026-08-08T03:30:33.844Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
