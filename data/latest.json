@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있습니다. 다양한 산업에서 AI의 활용이 증가하고 있습니다.",
+      "topic": "정치",
+      "summary": "정청래와 김민석의 정치 활동 및 논란이 커뮤니티에서热한議論을 일으키고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 주제가 많이 обсужд되고 있습니다. 특히 민주당과 관련된 주제가 많이 등장하고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 및 기술",
+      "summary": "AI 기술의 발전과 그 적용 분야가 커뮤니티에서 많이 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련된 주제가 많이 обсужд되고 있습니다. 특히 경기도 재정과 관련된 주제가 많이 등장하고 있습니다.",
-      "post_count": 8,
+      "topic": "사회 및 경제",
+      "summary": "노인 문제, 층간소음, 경제 투자 등 다양한 사회 및 경제적인 문제가 논의되고 있습니다.",
+      "post_count": 10,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 응용"
-    },
-    {
-      "keyword": "민주당",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련된 주제"
-    },
-    {
-      "keyword": "경기도",
-      "count": 8,
+      "keyword": "정청래",
+      "count": 5,
       "sentiment": "negative",
-      "context": "경제 관련된 주제"
+      "context": "정청래의 정치 활동 및 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술의 발전과 그 적용 분야"
+    },
+    {
+      "keyword": "김민석",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "김민석의 정치 활동 및 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 서비스나 제품을 개발하는 것을 고려해 보세요.",
+      "insight": "AI 기술의 발전이 다양한 산업에 적용되고 있습니다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련된 주제가 많이 обсужд되고 있습니다.",
-      "action": "정치 관련된 주제에 대한 관심을 가지고 있는 고객을 타겟으로 하는 마케팅 전략을 고려해 보세요.",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 관련된 주제가 많이 обсужд되고 있습니다.",
-      "action": "경제 관련된 주제에 대한 관심을 가지고 있는 고객을 타겟으로 하는 마케팅 전략을 고려해 보세요.",
+      "insight": "정치적인 논란이 커뮤니티에서 많은 관심을 받고 있습니다.",
+      "action": "정치적인 논란에 대한 대응 전략 개발",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있습니다. 다양한 산업에서 AI의 활용이 증가하고 있습니다. 또한 정치 관련된 주제가 많이 обсужд되고 있습니다. 특히 민주당과 관련된 주제가 많이 등장하고 있습니다. 경제 관련된 주제도 많이 обсужд되고 있습니다. 특히 경기도 재정과 관련된 주제가 많이 등장하고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다. AI 기술을 활용한 새로운 서비스나 제품을 개발하는 것을 고려해 보세요. 또한 정치 관련된 주제에 대한 관심을 가지고 있는 고객을 타겟으로 하는 마케팅 전략을 고려해 보세요. 경제 관련된 주제에 대한 관심을 가지고 있는 고객을 타겟으로 하는 마케팅 전략도 고려해 보세요.",
-  "analyzed_at": "2026-08-08T06:30:34.055Z",
-  "post_count": 61,
+  "narrative": "현재 커뮤니티에서는 정치적인 논란과 AI 기술의 발전이 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 정치적인 논란에 대한 대응 전략을 개발할 필요가 있습니다. 또한, 커뮤니티의 감정은 복합적인 편으로, 다양한 주제에 대한 논의가 이루어지고 있습니다.",
+  "analyzed_at": "2026-08-08T08:00:34.541Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
