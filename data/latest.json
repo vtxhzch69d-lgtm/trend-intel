@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그로 인한 다양한 산업의 변화",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "부동산",
+      "summary": "집값이 오르거나 내리는 문제에 대한 관심이 많습니다. 특히 서울 집값이 다른 나라 도시와 비교하여 안 오른다는 주장에 대한 반론이 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 обсужд되고 있습니다. 특히 오픈AI의 차세대 AI 모델 출시 연기와 관련된 뉴스가 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 시장과 관련된 뉴스",
+      "topic": "영화와 엔터테인먼트",
+      "summary": "영화 작품에 대한 관심이 많습니다. 특히 영화관이 살아났다는 주장과 관련된 뉴스가 있습니다.",
       "post_count": 5,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "정치",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
-    },
-    {
       "keyword": "부동산",
-      "count": 5,
+      "count": 20,
+      "sentiment": "negative",
+      "context": "집값이 오르거나 내리는 문제에 대한 관심"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
       "sentiment": "neutral",
-      "context": "부동산 시장과 관련된 뉴스"
+      "context": "AI 기술의 발전과 관련된 다양한 주제"
+    },
+    {
+      "keyword": "영화",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "영화 작품에 대한 관심"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
+    "positive": 20,
+    "negative": 30,
     "neutral": 50,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "부동산 시장의 변동에 대한 관심이 높아지고 있습니다.",
+      "action": "부동산 관련 서비스나 제품을 개발하여 시장의需求을 충족시킬 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견은 계속해서 증가할 것",
-      "action": "정치 관련 뉴스와 의견을 모니터링",
+      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다.",
+      "action": "AI 기술을 활용하여 새로운 비즈니스 모델을 개발할 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "부동산 시장은 안정적인 추세를 보일 것",
-      "action": "부동산 시장의 변화를 모니터링",
+      "insight": "영화와 엔터테인먼트에 대한 관심이 있습니다.",
+      "action": "영화와 엔터테인먼트 관련 서비스나 제품을 개발하여 시장의需求을 충족시킬 수 있습니다.",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그로 인한 다양한 산업의 변화가 주목을 끌고 있습니다. 또한, 정치 관련 뉴스와 의견은 계속해서 증가하고 있습니다. 부동산 시장은 안정적인 추세를 보이고 있습니다. 이러한 트렌드와 키워드를 분석하여, 비즈니스 모델 개발과 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-08-08T12:30:34.172Z",
+  "narrative": "현재의 트렌드는 부동산, AI 기술, 영화와 엔터테인먼트에 대한 관심이 높습니다. 특히 부동산 시장의 변동에 대한 관심이 높아지고 있습니다. 이는 부동산 관련 서비스나 제품을 개발하여 시장의需求을 충족시킬 수 있는 기회를 제공합니다. 또한 AI 기술의 발전이 다양한 산업에 영향을 미치고 있습니다. 이는 AI 기술을 활용하여 새로운 비즈니스 모델을 개발할 수 있는 기회를 제공합니다. 영화와 엔터테인먼트에 대한 관심도 있습니다. 이는 영화와 엔터테인먼트 관련 서비스나 제품을 개발하여 시장의需求을 충족시킬 수 있는 기회를 제공합니다.",
+  "analyzed_at": "2026-08-08T14:01:29.278Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
