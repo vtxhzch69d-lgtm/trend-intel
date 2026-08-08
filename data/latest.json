@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래와 김민석의 정치 활동 및 논란이 커뮤니티에서热한議論을 일으키고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령에 대한 반감을 노골적으로 표현하는 분들이 많으며, 그의 정책과 행보에 대한 논란이 지속되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI 기술의 발전과 그 적용 분야가 커뮤니티에서 많이 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높아지고 있으며, 관련 뉴스와 기사들이 많이 공유되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 경제",
-      "summary": "노인 문제, 층간소음, 경제 투자 등 다양한 사회 및 경제적인 문제가 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "negative",
-      "urgency": "low"
+      "topic": "정치 및 경제",
+      "summary": "정치와 경제에 대한 관심이 높아지고 있으며, 관련 뉴스와 기사들이 많이 공유되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 5,
+      "keyword": "이재명",
+      "count": 20,
       "sentiment": "negative",
-      "context": "정청래의 정치 활동 및 논란"
+      "context": "이재명 대통령에 대한 반감을 노골적으로 표현하는 분들이 많습니다."
     },
     {
       "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 적용 분야"
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높아지고 있습니다."
     },
     {
-      "keyword": "김민석",
-      "count": 3,
+      "keyword": "정치",
+      "count": 10,
       "sentiment": "mixed",
-      "context": "김민석의 정치 활동 및 논란"
+      "context": "정치에 대한 관심이 높아지고 있으며, 관련 뉴스와 기사들이 많이 공유되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정"
+    "positive": 10,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "부정적인 감정의 비중이 높지만, 중립적인 감정도 많습니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 적용되고 있습니다.",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "이재명 대통령에 대한 반감을 노골적으로 표현하는 분들이 많습니다.",
+      "action": "정치적인 이슈에 대한 대응을 준비해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치적인 논란이 커뮤니티에서 많은 관심을 받고 있습니다.",
-      "action": "정치적인 논란에 대한 대응 전략 개발",
+      "insight": "AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높아지고 있습니다.",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델을 개발해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 커뮤니티에서는 정치적인 논란과 AI 기술의 발전이 많은 관심을 받고 있습니다. 이러한 트렌드를 분석하여 새로운 비즈니스 모델을 개발하고, 정치적인 논란에 대한 대응 전략을 개발할 필요가 있습니다. 또한, 커뮤니티의 감정은 복합적인 편으로, 다양한 주제에 대한 논의가 이루어지고 있습니다.",
-  "analyzed_at": "2026-08-08T08:00:34.541Z",
+  "narrative": "최근의 트렌드 분석 결과, 이재명 대통령에 대한 반감을 노골적으로 표현하는 분들이 많으며, 그의 정책과 행보에 대한 논란이 지속되고 있습니다. 또한, AI 기술의 발전과 그에 따른 다양한 산업의 변화에 대한 관심이 높아지고 있으며, 관련 뉴스와 기사들이 많이 공유되고 있습니다. 이러한 트렌드에 따라, 정치적인 이슈에 대한 대응을 준비해야 하며, AI 기술을 활용한 새로운 비즈니스 모델을 개발해야 합니다. 또한, 부정적인 감정의 비중이 높지만, 중립적인 감정도 많으므로, 다양한 관점을 고려한 마케팅 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-08-08T09:31:28.389Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
