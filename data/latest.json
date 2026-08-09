@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 적용 분야에 대한 관심이 높아지고 있다. 특히, AI의 보안과 프라이버시 문제가 논의되고 있다.",
-      "post_count": 15,
-      "sentiment": "neutral",
+      "topic": "이재명과 민주당",
+      "summary": "이재명과 민주당의 관련된 게시글이 많습니다. 이재명의 민주당에 대한 생각과 다른 민주당과의 차이점이 обсужд되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 글들이 많이 올라오고 있다. 특히, 이재명과 관련된 글들이 많다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련된 게시글이 많습니다. 새로운 기술의 개발과 적용, 그리고 그에 따른 사회적 영향이 논의되고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "기술 뉴스",
-      "summary": "최신 기술 뉴스들이 많이 올라오고 있다. 특히, 아이폰과 관련된 뉴스가 많다.",
+      "topic": "부동산과 경제",
+      "summary": "부동산과 경제 관련된 게시글이 많습니다. 부동산 가격과 경제 상황이 обсужд되고 있습니다.",
       "post_count": 8,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 그 적용 분야"
-    },
-    {
       "keyword": "이재명",
-      "count": 10,
+      "count": 12,
       "sentiment": "mixed",
-      "context": "정치 관련 글"
+      "context": "이재명과 민주당 관련된 게시글에서 자주 등장"
     },
     {
-      "keyword": "아이폰",
-      "count": 5,
+      "keyword": "AI",
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "context": "AI와 기술 관련된 게시글에서 자주 등장"
+    },
+    {
+      "keyword": "부동산",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "부동산과 경제 관련된 게시글에서 자주 등장"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "neutral": 10,
+    "overall_mood": "복합적인 감정으로 긍정적과 부정적 감정이 공존"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것이다.",
-      "action": "AI 기술을 연구하고 개발하여 사업에 적용할 수 있는 방안을 모색한다.",
+      "insight": "이재명과 민주당에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI와 기술에 대한 관심이 높아지고 있습니다.",
+      "action": "새로운 기술을 적용하여 서비스를 개선할 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 글들은 많은 관심을 끌고 있다.",
-      "action": "정치 관련 글을 분석하여 사업에 활용할 수 있는 방안을 모색한다.",
+      "insight": "부동산과 경제에 대한 관심이 높아지고 있습니다.",
+      "action": "관련된 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술과 정치 관련 글이 주를 이루고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것이며, 정치 관련 글들은 많은 관심을 끌고 있다. 이러한 트렌드를 분석하여 사업에 활용할 수 있는 방안을 모색하는 것이 중요하다. 또한, 최신 기술 뉴스들은 많은 관심을 끌고 있으므로, 이러한 뉴스들을 분석하여 사업에 활용할 수 있는 방안을 모색하는 것이 필요하다.",
-  "analyzed_at": "2026-08-09T05:00:34.399Z",
+  "narrative": "최근의 트렌드는 이재명과 민주당, AI와 기술, 부동산과 경제를 중심으로 형성되고 있습니다. 이재명과 민주당에 대한 관심은 높아지고 있지만, 복합적인 감정으로 긍정적과 부정적 감정이 공존합니다. AI와 기술에 대한 관심은 높아지고 있으며, 새로운 기술의 개발과 적용, 그리고 그에 따른 사회적 영향이 논의되고 있습니다. 부동산과 경제에 대한 관심도 높아지고 있으며, 부동산 가격과 경제 상황이 обсужд되고 있습니다. 이러한 트렌드를 분석하여 관련된 콘텐츠를 제작하거나, 새로운 기술을 적용하여 서비스를 개선할 수 있습니다.",
+  "analyzed_at": "2026-08-09T06:30:34.029Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
