@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 обсужд되고 있습니다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 주제가 많이 обсужд되고 있으며, 특히 김민석과 관련된 주제가 인기가 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "갤럭시 폴드8",
+      "summary": "갤럭시 폴드8의 출시와 관련된 주제가 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "최신 기술 뉴스와 관련된 주제가 많이 обсужд되고 있습니다.",
-      "post_count": 12,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "여론조사",
+      "summary": "여론조사와 관련된 다양한 주제가 논의되고 있습니다.",
+      "post_count": 5,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -30,43 +30,43 @@
       "context": "AI 기술의 발전"
     },
     {
-      "keyword": "김민석",
-      "count": 8,
-      "sentiment": "mixed",
-      "context": "정치 관련 주제"
+      "keyword": "갤럭시",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "갤럭시 폴드8의 출시"
     },
     {
-      "keyword": "테슬라",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "테크 뉴스"
+      "keyword": "여론조사",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "여론조사와 관련된 주제"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 15,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기"
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "insight": "AI 기술의 발전",
       "action": "AI 기술을 활용한 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제는 계속해서 обсужд될 것입니다.",
-      "action": "정치 관련 주제에 대한 모니터링",
+      "insight": "갤럭시 폴드8의 출시",
+      "action": "갤럭시 폴드8의 마케팅 전략 개발",
       "priority": "medium"
     },
     {
-      "insight": "테크 뉴스는 계속해서 발전할 것입니다.",
-      "action": "최신 테크 뉴스에 대한 모니터링",
-      "priority": "low"
+      "insight": "여론조사와 관련된 주제",
+      "action": "여론조사와 관련된 비즈니스 모델 개발",
+      "priority": "medium"
     }
   ],
-  "narrative": "最近의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 많이 обсужд되고 있습니다. 특히 AI 기술의 발전은 다양한 산업에 영향을 미칠 것으로 예상되며, 이를 활용한 비즈니스 모델 개발이 필요합니다. 또한 정치 관련 주제는 계속해서 обсужд될 것입니다. 테크 뉴스도 계속해서 발전할 것으로 예상되며, 최신 뉴스에 대한 모니터링이 필요합니다. 이러한 트렌드 분석 결과를 통해, 비즈니스 전략을 개발하고, 시장의 동향을 파악할 수 있습니다.",
-  "analyzed_at": "2026-08-09T11:30:34.001Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있습니다. 갤럭시 폴드8의 출시와 여론조사와 관련된 주제도 중요한 트렌드입니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개발하고 마케팅 전략을 수립하는 것이 중요합니다. 또한, 여론조사와 관련된 주제를 분석하여 비즈니스 모델을 개발하는 것도 중요합니다.",
+  "analyzed_at": "2026-08-09T13:00:33.736Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
