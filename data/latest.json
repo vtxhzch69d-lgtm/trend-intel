@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 정책",
-      "summary": "부동산 과세표준에 대한 논의와 종부세에 대한 우려",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI의 발전과 다양한 산업에서의 적용",
+      "topic": "정치",
+      "summary": "最近의 정치 상황과 관련된 다양한 의견",
       "post_count": 10,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치 및 선거",
-      "summary": "민주당의 총선 지지율과 당대표 후보에 대한 논의",
+      "topic": "테크",
+      "summary": "최신 기술 제품과 서비스에 대한 정보",
       "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "과세표준과 종부세에 대한 우려"
-    },
-    {
       "keyword": "AI",
-      "count": 12,
+      "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "민주당",
-      "count": 6,
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "mixed",
-      "context": "총선 지지율과 당대표 후보에 대한 논의"
+      "context": "最近의 정치 상황"
+    },
+    {
+      "keyword": "갤럭시",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 12,
-    "neutral": 10,
-    "overall_mood": "중립적인 분위기이지만 부동산 정책과 정치에 대한 부정적인 감정도 존재"
+    "positive": 30,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "전체적으로 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "부동산 정책에 대한 우려가 높아지고 있다",
-      "action": "부동산 정책에 대한 대응 전략 수립",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술을 활용한 새로운 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 적용되고 있다",
-      "action": "AI 기술의 적용 가능성을 연구하고 투자하기",
+      "insight": "정치 상황의 변화",
+      "action": "정치 상황을 주시하고 대응策을 마련",
       "priority": "medium"
     },
     {
-      "insight": "정치 및 선거에 대한 논의가 활발하다",
-      "action": "정치 및 선거에 대한 분석과 전략 수립",
-      "priority": "high"
+      "insight": "테크 제품의 발전",
+      "action": "최신 테크 제품을 활용한 마케팅 전략 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 부동산 정책, AI 기술, 정치 및 선거를 중심으로 형성되고 있다. 부동산 정책에 대한 우려가 높아지고 있으며, AI 기술의 발전이 다양한 산업에 적용되고 있다. 정치 및 선거에 대한 논의도 활발하다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 부동산 정책과 AI 기술의 적용 가능성을 연구하는 것이 중요하다.",
-  "analyzed_at": "2026-08-09T16:00:33.989Z",
+  "narrative": "最近의 온라인 커뮤니티 트렌드 분석 결과, AI 기술의 발전과 정치 상황의 변화가 주요 관심사로 나타났습니다. AI 기술의 발전은 다양한 산업의 변화를 가져올 것으로 예상되며, 정치 상황의 변화는 다양한 의견과 논란을 불러일으키고 있습니다. 또한, 최신 테크 제품에 대한 정보도 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여, AI 기술을 활용한 새로운 서비스 개발과 정치 상황을 주시하고 대응策을 마련하는 것이 중요할 것으로 보입니다.",
+  "analyzed_at": "2026-08-09T17:30:34.294Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
