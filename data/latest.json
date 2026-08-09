@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 관련 반응을 보면 신기하다는 의견이 많다. 민주당 전당대회와 관련된 다양한 의견이 나타난다.",
+      "summary": "최근 정치 관련 게시글이 많이 올라왔습니다. 특히 당내 갈등과 선거 관련 게시글이 많았습니다.",
       "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI 관련 기술과 제품에 대한 게시글이 많았습니다. 특히 OpenAI와 차세대 AI 모델에 대한 관심이 높았습니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "부동산",
-      "summary": "부동산 관련 반응이 최근 신기하다는 의견이 있다. 전세가와 관련된 문제가 많이 논의된다.",
+      "summary": "부동산 관련 게시글이 많이 올라왔습니다. 특히 전세가와 주택시장에 대한 관심이 높았습니다.",
       "post_count": 5,
       "sentiment": "negative",
-      "urgency": "high"
-    },
-    {
-      "topic": "테크",
-      "summary": "최신 기술 관련 뉴스가 많이 등장한다. AI와 관련된 뉴스가 특히 많다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "민주당 전당대회와 관련된 의견"
+      "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI 기술과 제품에 대한 관심이 높음"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 게시글이 많이 올라옴"
     },
     {
       "keyword": "부동산",
-      "count": 8,
+      "count": 10,
       "sentiment": "negative",
-      "context": "부동산 관련 문제"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "최신 기술 관련 뉴스"
+      "context": "부동산 관련 게시글이 많이 올라옴"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정의 비중이 높지만, 테크 관련 뉴스에 대한 긍정적인 반응도 많다."
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 관련 문제가 많이 논의되고 있다.",
-      "action": "부동산 관련 서비스나 제품을 제공하는 기업은 이를 고려하여 마케팅 전략을 수립해야 한다.",
+      "insight": "AI 기술과 제품에 대한 관심이 높아지고 있음",
+      "action": "AI 관련 제품과 서비스 개발에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "테크 관련 뉴스가 많이 등장한다.",
-      "action": "테크 관련 기업은 이를 이용하여 최신 기술을 홍보하고, 고객의 관심을 끌어야 한다.",
+      "insight": "정치 관련 게시글이 많이 올라오고 있음",
+      "action": "정치 관련 콘텐츠 개발에 투자하기",
       "priority": "medium"
+    },
+    {
+      "insight": "부동산 관련 게시글이 많이 올라오고 있음",
+      "action": "부동산 관련 콘텐츠 개발에 투자하기",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 관련 반응을 보면 신기하다는 의견이 많다. 민주당 전당대회와 관련된 다양한 의견이 나타난다. 또한, 부동산 관련 문제가 많이 논의되고 있다. 테크 관련 뉴스가 많이 등장하며, AI와 관련된 뉴스가 특히 많다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요하다. 부동산 관련 서비스나 제품을 제공하는 기업은 이를 고려하여 마케팅 전략을 수립해야 한다. 테크 관련 기업은 이를 이용하여 최신 기술을 홍보하고, 고객의 관심을 끌어야 한다.",
-  "analyzed_at": "2026-08-09T08:01:30.815Z",
+  "narrative": "최근 클리앙 커뮤니티에서 정치와 AI 관련 게시글이 많이 올라왔습니다. 특히 AI 기술과 제품에 대한 관심이 높아지고 있으며, 정치 관련 게시글은 당내 갈등과 선거 관련 내용이 많았습니다. 또한 부동산 관련 게시글이 많이 올라왔으며, 대부분의 게시글은 전세가와 주택시장에 대한 관심이 높았습니다. 이러한 트렌드를 반영하여 AI 관련 제품과 서비스 개발에 투자하고, 정치와 부동산 관련 콘텐츠 개발에 투자하는 것이 좋을 것입니다.",
+  "analyzed_at": "2026-08-09T10:00:33.774Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
