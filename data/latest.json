@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "민주당 전당대회와 관련된 다양한 의견이 제기되고 있습니다. 당대표 후보와 관련된 글도 많습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "부동산",
+      "summary": "부동산 과세표준과 종부세에 대한 의견이 있습니다. 비거주 공동명의에 대한 글도 있습니다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "갤럭시 폴드8",
-      "summary": "갤럭시 폴드8의 출시와 관련된 주제가 논의되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
-      "urgency": "medium"
-    },
-    {
-      "topic": "여론조사",
-      "summary": "여론조사와 관련된 다양한 주제가 논의되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
-      "urgency": "medium"
+      "topic": "AI",
+      "summary": "AI 기술과 관련된 다양한 뉴스가 있습니다. AI의 발전과 그에 따른 영향에 대한 글도 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
-    },
-    {
-      "keyword": "갤럭시",
+      "keyword": "민주당",
       "count": 10,
-      "sentiment": "neutral",
-      "context": "갤럭시 폴드8의 출시"
+      "sentiment": "mixed",
+      "context": "정치 관련 글에서 자주 언급됩니다."
     },
     {
-      "keyword": "여론조사",
+      "keyword": "부동산",
       "count": 5,
-      "sentiment": "mixed",
-      "context": "여론조사와 관련된 주제"
+      "sentiment": "negative",
+      "context": "과세표준과 종부세에 대한 의견이 있습니다."
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "AI 기술과 관련된 다양한 뉴스가 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 비즈니스 모델 개발",
+      "insight": "정치와 부동산에 대한 관심이 높습니다.",
+      "action": "관련된 뉴스와 의견을 모니터링하세요.",
       "priority": "high"
     },
     {
-      "insight": "갤럭시 폴드8의 출시",
-      "action": "갤럭시 폴드8의 마케팅 전략 개발",
-      "priority": "medium"
-    },
-    {
-      "insight": "여론조사와 관련된 주제",
-      "action": "여론조사와 관련된 비즈니스 모델 개발",
+      "insight": "AI 기술은 다양한 분야에서 발전하고 있습니다.",
+      "action": "AI 기술과 관련된 뉴스를 모니터링하세요.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 관련된 주제가 가장 많이 논의되고 있습니다. 갤럭시 폴드8의 출시와 여론조사와 관련된 주제도 중요한 트렌드입니다. 이러한 트렌드를 분석하여 비즈니스 모델을 개발하고 마케팅 전략을 수립하는 것이 중요합니다. 또한, 여론조사와 관련된 주제를 분석하여 비즈니스 모델을 개발하는 것도 중요합니다.",
-  "analyzed_at": "2026-08-09T13:00:33.736Z",
+  "narrative": "최근의 트렌드는 정치와 부동산에 대한 관심이 높습니다. 민주당 전당대회와 관련된 다양한 의견이 제기되고 있으며, 부동산 과세표준과 종부세에 대한 의견도 있습니다. 또한, AI 기술과 관련된 다양한 뉴스가 있습니다. 이러한 트렌드를 모니터링하여 사업에 활용할 수 있습니다.",
+  "analyzed_at": "2026-08-09T14:30:33.780Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
