@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "민주당 전당대회와 관련된 다양한 의견이 제기되고 있습니다. 당대표 후보와 관련된 글도 많습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "부동산",
-      "summary": "부동산 과세표준과 종부세에 대한 의견이 있습니다. 비거주 공동명의에 대한 글도 있습니다.",
+      "topic": "부동산 정책",
+      "summary": "부동산 과세표준에 대한 논의와 종부세에 대한 우려",
       "post_count": 5,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술과 관련된 다양한 뉴스가 있습니다. AI의 발전과 그에 따른 영향에 대한 글도 있습니다.",
-      "post_count": 15,
+      "topic": "AI 기술",
+      "summary": "AI의 발전과 다양한 산업에서의 적용",
+      "post_count": 10,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치 및 선거",
+      "summary": "민주당의 총선 지지율과 당대표 후보에 대한 논의",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 관련 글에서 자주 언급됩니다."
-    },
-    {
       "keyword": "부동산",
-      "count": 5,
+      "count": 7,
       "sentiment": "negative",
-      "context": "과세표준과 종부세에 대한 의견이 있습니다."
+      "context": "과세표준과 종부세에 대한 우려"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 12,
       "sentiment": "positive",
-      "context": "AI 기술과 관련된 다양한 뉴스가 있습니다."
+      "context": "AI 기술의 발전과 다양한 산업에서의 적용"
+    },
+    {
+      "keyword": "민주당",
+      "count": 6,
+      "sentiment": "mixed",
+      "context": "총선 지지율과 당대표 후보에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 15,
+    "negative": 12,
     "neutral": 10,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기이지만 부동산 정책과 정치에 대한 부정적인 감정도 존재"
   },
   "business_insights": [
     {
-      "insight": "정치와 부동산에 대한 관심이 높습니다.",
-      "action": "관련된 뉴스와 의견을 모니터링하세요.",
+      "insight": "부동산 정책에 대한 우려가 높아지고 있다",
+      "action": "부동산 정책에 대한 대응 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "AI 기술은 다양한 분야에서 발전하고 있습니다.",
-      "action": "AI 기술과 관련된 뉴스를 모니터링하세요.",
+      "insight": "AI 기술의 발전이 다양한 산업에 적용되고 있다",
+      "action": "AI 기술의 적용 가능성을 연구하고 투자하기",
       "priority": "medium"
+    },
+    {
+      "insight": "정치 및 선거에 대한 논의가 활발하다",
+      "action": "정치 및 선거에 대한 분석과 전략 수립",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 부동산에 대한 관심이 높습니다. 민주당 전당대회와 관련된 다양한 의견이 제기되고 있으며, 부동산 과세표준과 종부세에 대한 의견도 있습니다. 또한, AI 기술과 관련된 다양한 뉴스가 있습니다. 이러한 트렌드를 모니터링하여 사업에 활용할 수 있습니다.",
-  "analyzed_at": "2026-08-09T14:30:33.780Z",
+  "narrative": "현재의 트렌드는 부동산 정책, AI 기술, 정치 및 선거를 중심으로 형성되고 있다. 부동산 정책에 대한 우려가 높아지고 있으며, AI 기술의 발전이 다양한 산업에 적용되고 있다. 정치 및 선거에 대한 논의도 활발하다. 이러한 트렌드를 분석하여 사업 전략을 수립하고, 부동산 정책과 AI 기술의 적용 가능성을 연구하는 것이 중요하다.",
+  "analyzed_at": "2026-08-09T16:00:33.989Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
