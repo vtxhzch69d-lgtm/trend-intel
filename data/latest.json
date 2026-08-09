@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명과 민주당",
-      "summary": "이재명과 민주당의 관련된 게시글이 많습니다. 이재명의 민주당에 대한 생각과 다른 민주당과의 차이점이 обсужд되고 있습니다.",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "最近의 정치 관련 반응을 보면 신기하다는 의견이 많다. 민주당 전당대회와 관련된 다양한 의견이 나타난다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련된 게시글이 많습니다. 새로운 기술의 개발과 적용, 그리고 그에 따른 사회적 영향이 논의되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "부동산",
+      "summary": "부동산 관련 반응이 최근 신기하다는 의견이 있다. 전세가와 관련된 문제가 많이 논의된다.",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "부동산과 경제",
-      "summary": "부동산과 경제 관련된 게시글이 많습니다. 부동산 가격과 경제 상황이 обсужд되고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "테크",
+      "summary": "최신 기술 관련 뉴스가 많이 등장한다. AI와 관련된 뉴스가 특히 많다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 12,
-      "sentiment": "mixed",
-      "context": "이재명과 민주당 관련된 게시글에서 자주 등장"
-    },
-    {
-      "keyword": "AI",
+      "keyword": "민주당",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI와 기술 관련된 게시글에서 자주 등장"
+      "sentiment": "negative",
+      "context": "민주당 전당대회와 관련된 의견"
     },
     {
       "keyword": "부동산",
       "count": 8,
       "sentiment": "negative",
-      "context": "부동산과 경제 관련된 게시글에서 자주 등장"
+      "context": "부동산 관련 문제"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "positive",
+      "context": "최신 기술 관련 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "복합적인 감정으로 긍정적과 부정적 감정이 공존"
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 비중이 높지만, 테크 관련 뉴스에 대한 긍정적인 반응도 많다."
   },
   "business_insights": [
     {
-      "insight": "이재명과 민주당에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI와 기술에 대한 관심이 높아지고 있습니다.",
-      "action": "새로운 기술을 적용하여 서비스를 개선할 수 있습니다.",
+      "insight": "부동산 관련 문제가 많이 논의되고 있다.",
+      "action": "부동산 관련 서비스나 제품을 제공하는 기업은 이를 고려하여 마케팅 전략을 수립해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "부동산과 경제에 대한 관심이 높아지고 있습니다.",
-      "action": "관련된 콘텐츠를 제작하여 관심을 끌 수 있습니다.",
+      "insight": "테크 관련 뉴스가 많이 등장한다.",
+      "action": "테크 관련 기업은 이를 이용하여 최신 기술을 홍보하고, 고객의 관심을 끌어야 한다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 이재명과 민주당, AI와 기술, 부동산과 경제를 중심으로 형성되고 있습니다. 이재명과 민주당에 대한 관심은 높아지고 있지만, 복합적인 감정으로 긍정적과 부정적 감정이 공존합니다. AI와 기술에 대한 관심은 높아지고 있으며, 새로운 기술의 개발과 적용, 그리고 그에 따른 사회적 영향이 논의되고 있습니다. 부동산과 경제에 대한 관심도 높아지고 있으며, 부동산 가격과 경제 상황이 обсужд되고 있습니다. 이러한 트렌드를 분석하여 관련된 콘텐츠를 제작하거나, 새로운 기술을 적용하여 서비스를 개선할 수 있습니다.",
-  "analyzed_at": "2026-08-09T06:30:34.029Z",
+  "narrative": "最近의 정치 관련 반응을 보면 신기하다는 의견이 많다. 민주당 전당대회와 관련된 다양한 의견이 나타난다. 또한, 부동산 관련 문제가 많이 논의되고 있다. 테크 관련 뉴스가 많이 등장하며, AI와 관련된 뉴스가 특히 많다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요하다. 부동산 관련 서비스나 제품을 제공하는 기업은 이를 고려하여 마케팅 전략을 수립해야 한다. 테크 관련 기업은 이를 이용하여 최신 기술을 홍보하고, 고객의 관심을 끌어야 한다.",
+  "analyzed_at": "2026-08-09T08:01:30.815Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
