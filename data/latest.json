@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
+      "summary": "AI 기술의 발전과 그에 따른 산업의 변화",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "정치",
-      "summary": "最近의 정치 상황과 관련된 다양한 의견",
+      "summary": "정치 관련 뉴스와 의견",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "테크",
-      "summary": "최신 기술 제품과 서비스에 대한 정보",
+      "summary": "신제품 출시와 기술 발전",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
@@ -33,40 +33,40 @@
       "keyword": "정치",
       "count": 15,
       "sentiment": "mixed",
-      "context": "最近의 정치 상황"
+      "context": "정치 관련 뉴스와 의견"
     },
     {
-      "keyword": "갤럭시",
-      "count": 5,
+      "keyword": "테크",
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술 제품"
+      "context": "신제품 출시와 기술 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
     "negative": 10,
     "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "overall_mood": "기대와 관심"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 서비스 개발",
+      "insight": "AI 기술의 발전은 산업의 변화를 가져올 수 있다",
+      "action": "AI 기술의 발전을 주시하고 산업의 변화를 준비한다",
       "priority": "high"
     },
     {
-      "insight": "정치 상황의 변화",
-      "action": "정치 상황을 주시하고 대응策을 마련",
+      "insight": "정치 관련 뉴스와 의견은 소셜미디어에서 많이 논의된다",
+      "action": "정치 관련 뉴스와 의견을 주시하고 브랜드 이미지를 관리한다",
       "priority": "medium"
     },
     {
-      "insight": "테크 제품의 발전",
-      "action": "최신 테크 제품을 활용한 마케팅 전략 개발",
-      "priority": "low"
+      "insight": "신제품 출시와 기술 발전은 소비자의 관심을 끌 수 있다",
+      "action": "신제품 출시와 기술 발전을 주시하고 마케팅 전략을 수립한다",
+      "priority": "medium"
     }
   ],
-  "narrative": "最近의 온라인 커뮤니티 트렌드 분석 결과, AI 기술의 발전과 정치 상황의 변화가 주요 관심사로 나타났습니다. AI 기술의 발전은 다양한 산업의 변화를 가져올 것으로 예상되며, 정치 상황의 변화는 다양한 의견과 논란을 불러일으키고 있습니다. 또한, 최신 테크 제품에 대한 정보도 많은 관심을 받고 있습니다. 이러한 트렌드를 고려하여, AI 기술을 활용한 새로운 서비스 개발과 정치 상황을 주시하고 대응策을 마련하는 것이 중요할 것으로 보입니다.",
-  "analyzed_at": "2026-08-09T17:30:34.294Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 그에 따른 산업의 변화, 정치 관련 뉴스와 의견, 신제품 출시와 기술 발전이 주를 이루고 있다. 이러한 트렌드는 소비자의 관심과 기대를 끌 수 있으며, 기업은 이러한 트렌드를 주시하고 마케팅 전략을 수립하여 브랜드 이미지를 관리하고 소비자의 관심을 끌 수 있어야 한다. 특히, AI 기술의 발전은 산업의 변화를 가져올 수 있으므로, 기업은 AI 기술의 발전을 주시하고 산업의 변화를 준비하여 경쟁력을 유지할 수 있어야 한다.",
+  "analyzed_at": "2026-08-09T19:00:34.445Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
