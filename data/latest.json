@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련된 게시글이 많아졌습니다. 특히 민주당과 관련된 글들이 많습니다.",
+      "summary": "국민의힘과 민주당의 총선 전략 및 당대표 선출에 대한 논의가 활발합니다.",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "테크",
-      "summary": "최신 기술 관련된 게시글이 많아졌습니다. 특히 AI와 관련된 글들이 많습니다.",
+      "summary": "최신 기술 뉴스와 제품 출시 정보가 주목을 받고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 관련된 게시글이 많아졌습니다. 특히 공급과 수요 관련된 글들이 많습니다.",
-      "post_count": 5,
+      "topic": "경제",
+      "summary": "국내외 경제 동향과 기업 뉴스가 관심을 끌고 있습니다.",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
+      "keyword": "총선",
       "count": 10,
       "sentiment": "negative",
-      "context": "민주당 관련된 글들이 많아졌습니다."
+      "context": "총선 관련 논의"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 8,
       "sentiment": "positive",
-      "context": "최신 기술 관련된 글들이 많아졌습니다."
+      "context": "최신 기술 뉴스"
     },
     {
-      "keyword": "부동산",
+      "keyword": "국민의힘",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "부동산 관련된 글들이 많아졌습니다."
+      "sentiment": "mixed",
+      "context": "정치 관련 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "부정적인 감정이 많지만, 긍정적인 감정도 존재합니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "최근 정치 관련된 글들이 많아졌습니다.",
-      "action": "정치 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "총선과 정치 관련 논의가 증가하고 있습니다.",
+      "action": "정치 관련 콘텐츠를 강화합니다.",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 관련된 글들이 많아졌습니다.",
-      "action": "최신 기술 관련된 마케팅 전략을 수립해야 합니다.",
+      "insight": "최신 기술 뉴스가 주목을 받고 있습니다.",
+      "action": "테크 관련 콘텐츠를 확대합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "부동산 관련된 글들이 많아졌습니다.",
-      "action": "부동산 관련된 마케팅 전략을 수립해야 합니다.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 정치 관련된 글들이 많아졌습니다. 특히 민주당과 관련된 글들이 많습니다. 또한, 최신 기술 관련된 글들이 많아졌습니다. 특히 AI와 관련된 글들이 많습니다. 부동산 관련된 글들도 존재하지만, 그 수는 상대적으로 적습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립해야 합니다. 정치 관련된 마케팅 전략을 수립하여 부정적인 감정을 활용할 수 있습니다. 또한, 최신 기술 관련된 마케팅 전략을 수립하여 긍정적인 감정을 활용할 수 있습니다. 부동산 관련된 마케팅 전략을 수립하여 중립적인 감정을 활용할 수 있습니다.",
-  "analyzed_at": "2026-08-08T23:00:34.204Z",
+  "narrative": "현재 정치와 테크 관련 주제가 온라인 커뮤니티에서 주목을 받고 있습니다. 총선과 정치 관련 논의가 증가하고 있으며, 최신 기술 뉴스와 제품 출시 정보도 관심을 끌고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 강화하고 확대하는 것이 필요합니다. 또한, 중립적인 분위기를 유지하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-09T00:31:32.830Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
