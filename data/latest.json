@@ -1,72 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정치 관련 글들이 많은 것으로 보아 정치적인 관심이 높은 것으로 보임",
-      "post_count": 15,
+      "topic": "이재명",
+      "summary": "이재명에 대한 다양한 의견과 논란",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "금리 인상과 주식 관련 글들이 많은 것으로 보아 경제적인 관심이 높은 것으로 보임",
-      "post_count": 10,
+      "topic": "국힘",
+      "summary": "국힘의 당권파 징계와 관련된 뉴스",
+      "post_count": 5,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "AI와 관련된 글들이 많은 것으로 보아 기술적인 관심이 높은 것으로 보임",
+      "topic": "AI",
+      "summary": "최신 AI 기술과 관련된 뉴스",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "스마트폰",
+      "summary": "최신 스마트폰 기술과 관련된 뉴스",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "최신 정치 뉴스와 의견",
+      "post_count": 20,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
+      "keyword": "이재명",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "이재명에 대한 다양한 의견과 논란"
+    },
+    {
+      "keyword": "국힘",
+      "count": 8,
+      "sentiment": "negative",
+      "context": "국힘의 당권파 징계와 관련된 뉴스"
+    },
+    {
       "keyword": "AI",
+      "count": 20,
+      "sentiment": "positive",
+      "context": "최신 AI 기술과 관련된 뉴스"
+    },
+    {
+      "keyword": "스마트폰",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 글들"
+      "context": "최신 스마트폰 기술과 관련된 뉴스"
     },
     {
       "keyword": "정치",
-      "count": 15,
+      "count": 25,
       "sentiment": "mixed",
-      "context": "정치적인 관심과 관련된 글들"
-    },
-    {
-      "keyword": "경제",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "경제적인 관심과 관련된 글들"
+      "context": "최신 정치 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "중립적인 기분이 강함"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적이며 다양한 의견이 존재하는 것으로 나타남"
   },
   "business_insights": [
     {
-      "insight": "정치적인 관심이 높은 것으로 보아 정치 관련된 마케팅이 효과적일 수 있음",
-      "action": "정치 관련된 마케팅 캠페인 실행",
+      "insight": "최신 AI 기술은 다양한 산업에서 활용될 수 있음",
+      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
       "priority": "high"
     },
     {
-      "insight": "경제적인 관심이 높은 것으로 보아 경제 관련된 마케팅이 효과적일 수 있음",
-      "action": "경제 관련된 마케팅 캠페인 실행",
+      "insight": "스마트폰 기술은 계속 발전하고 있음",
+      "action": "최신 스마트폰 기술을 활용한 새로운 제품 개발",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술의 발전과 관련된 관심이 높은 것으로 보아 기술 관련된 마케팅이 효과적일 수 있음",
-      "action": "기술 관련된 마케팅 캠페인 실행",
+      "insight": "정치 뉴스와 의견은 계속적으로 변화함",
+      "action": "정치 뉴스와 의견을 분석하여 새로운 비즈니스 기회를 찾음",
       "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치적인 관심이 높은 것으로 보아 정치 관련된 마케팅이 효과적일 수 있음. 또한, 경제적인 관심이 높은 것으로 보아 경제 관련된 마케팅이 효과적일 수 있음. 기술적인 관심도 높은 것으로 보아 기술 관련된 마케팅이 효과적일 수 있음. 이러한 결과를 바탕으로 마케팅 캠페인을 실행하여 효과적인 결과를 얻을 수 있을 것으로 기대됨.",
-  "analyzed_at": "2026-08-09T02:01:25.520Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 이재명과 국힘에 대한 논란, 최신 AI 기술, 스마트폰 기술, 그리고 정치 뉴스와 의견이 주요한 주제로 나타남. 이러한 주제는 다양한 산업과 비즈니스에 영향을 미칠 수 있으며, 최신 기술과 트렌드를 분석하여 새로운 비즈니스 기회를 찾는 것이 중요함. 또한, 정치 뉴스와 의견을 분석하여 새로운 비즈니스 기회를 찾는 것도 중요함. 그러나, 이러한 주제는 계속적으로 변화하므로, 최신 정보를 분석하여 새로운 비즈니스 기회를 찾는 것이 중요함.",
+  "analyzed_at": "2026-08-09T03:31:31.988Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
