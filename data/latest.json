@@ -1,98 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명",
-      "summary": "이재명에 대한 다양한 의견과 논란",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 적용 분야에 대한 관심이 높아지고 있다. 특히, AI의 보안과 프라이버시 문제가 논의되고 있다.",
+      "post_count": 15,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "정치",
+      "summary": "정치 관련 글들이 많이 올라오고 있다. 특히, 이재명과 관련된 글들이 많다.",
       "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "국힘",
-      "summary": "국힘의 당권파 징계와 관련된 뉴스",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI",
-      "summary": "최신 AI 기술과 관련된 뉴스",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "스마트폰",
-      "summary": "최신 스마트폰 기술과 관련된 뉴스",
+      "topic": "기술 뉴스",
+      "summary": "최신 기술 뉴스들이 많이 올라오고 있다. 특히, 아이폰과 관련된 뉴스가 많다.",
       "post_count": 8,
       "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "정치",
-      "summary": "최신 정치 뉴스와 의견",
-      "post_count": 20,
-      "sentiment": "mixed",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "이재명에 대한 다양한 의견과 논란"
-    },
-    {
-      "keyword": "국힘",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "국힘의 당권파 징계와 관련된 뉴스"
-    },
-    {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
-      "context": "최신 AI 기술과 관련된 뉴스"
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 그 적용 분야"
     },
     {
-      "keyword": "스마트폰",
+      "keyword": "이재명",
       "count": 10,
-      "sentiment": "positive",
-      "context": "최신 스마트폰 기술과 관련된 뉴스"
+      "sentiment": "mixed",
+      "context": "정치 관련 글"
     },
     {
-      "keyword": "정치",
-      "count": 25,
-      "sentiment": "mixed",
-      "context": "최신 정치 뉴스와 의견"
+      "keyword": "아이폰",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적이며 다양한 의견이 존재하는 것으로 나타남"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 AI 기술은 다양한 산업에서 활용될 수 있음",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것이다.",
+      "action": "AI 기술을 연구하고 개발하여 사업에 적용할 수 있는 방안을 모색한다.",
       "priority": "high"
     },
     {
-      "insight": "스마트폰 기술은 계속 발전하고 있음",
-      "action": "최신 스마트폰 기술을 활용한 새로운 제품 개발",
+      "insight": "정치 관련 글들은 많은 관심을 끌고 있다.",
+      "action": "정치 관련 글을 분석하여 사업에 활용할 수 있는 방안을 모색한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 뉴스와 의견은 계속적으로 변화함",
-      "action": "정치 뉴스와 의견을 분석하여 새로운 비즈니스 기회를 찾음",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 이재명과 국힘에 대한 논란, 최신 AI 기술, 스마트폰 기술, 그리고 정치 뉴스와 의견이 주요한 주제로 나타남. 이러한 주제는 다양한 산업과 비즈니스에 영향을 미칠 수 있으며, 최신 기술과 트렌드를 분석하여 새로운 비즈니스 기회를 찾는 것이 중요함. 또한, 정치 뉴스와 의견을 분석하여 새로운 비즈니스 기회를 찾는 것도 중요함. 그러나, 이러한 주제는 계속적으로 변화하므로, 최신 정보를 분석하여 새로운 비즈니스 기회를 찾는 것이 중요함.",
-  "analyzed_at": "2026-08-09T03:31:31.988Z",
+  "narrative": "최근의 트렌드는 AI 기술과 정치 관련 글이 주를 이루고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것이며, 정치 관련 글들은 많은 관심을 끌고 있다. 이러한 트렌드를 분석하여 사업에 활용할 수 있는 방안을 모색하는 것이 중요하다. 또한, 최신 기술 뉴스들은 많은 관심을 끌고 있으므로, 이러한 뉴스들을 분석하여 사업에 활용할 수 있는 방안을 모색하는 것이 필요하다.",
+  "analyzed_at": "2026-08-09T05:00:34.399Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
