@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "반도체 및 기술",
-      "summary": "인텔의 반도체 사업과 기술 발전에 대한 관심이 높다. 또한, 삼성전자와 애플의 OLED 패널 관련 뉴스가 주목을 받고 있다.",
-      "post_count": 15,
+      "topic": "반도체 산업",
+      "summary": "호남 반도체 공장 건설과 관련된 논의가 활발합니다. 정부의 지원과 기업들의 투자가 필요합니다.",
+      "post_count": 5,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 정치",
-      "summary": "박선원과 관련된 뉴스, 친일파에 대한 논란, 그리고 교육과 관련된 문제들이 사회적으로 논의되고 있다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "topic": "이재명 체포동의안",
+      "summary": "이재명 체포동의안에 대한 논의가 진행 중입니다. 정치권의 반응과 여론의 관심이 집중되고 있습니다.",
+      "post_count": 3,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "한화와 KAI의 지분 투자, 애플의 OLED 패널 주문량 증가, 그리고 배민의 라이더 PASS 본인인증 도입 등이 경제와 산업에 영향을 미치고 있다.",
-      "post_count": 8,
-      "sentiment": "neutral",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스와 논의가 많습니다. 기업들의 투자와 연구 개발이 진행 중입니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성전자",
+      "keyword": "반도체",
       "count": 7,
       "sentiment": "neutral",
-      "context": "OLED 패널과 반도체 기술에 대한 관심"
+      "context": "호남 반도체 공장 건설"
     },
     {
-      "keyword": "애플",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "OLED 패널 주문량 증가와 스마트워치 라인업 대개편"
+      "sentiment": "mixed",
+      "context": "체포동의안 논의"
     },
     {
-      "keyword": "박선원",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "친일파에 대한 논란"
+      "keyword": "AI",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "기술 발전과 기업들의 투자"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감돌고 있다."
+    "positive": 20,
+    "negative": 10,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기이지만, 일부 정치적인 주제에서는 혼재된 감정들이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "기술과 산업의 발전이 빠르게 진행되고 있다.",
-      "action": "최신 기술과 산업 동향을 주시하고, 이를 사업에 적용할 수 있는 기회를 찾는다.",
+      "insight": "반도체 산업의 성장",
+      "action": "투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "사회적인 문제와 논란이 많다.",
-      "action": "사회적인 문제와 논란을 주시하고, 이를 해결하기 위한 방법을 찾는다.",
+      "insight": "AI 기술의 발전",
+      "action": "기업들의 투자와 연구 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "정치적인 안정성",
+      "action": "여론의 관심과 정치권의 반응",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 기술과 산업의 발전, 사회적인 문제와 논란, 그리고 경제와 산업의 동향을 중심으로 진행되고 있다. 기술과 산업의 발전은 빠르게 진행되고 있으며, 이를 사업에 적용할 수 있는 기회를 찾는 것이 중요하다. 또한, 사회적인 문제와 논란을 주시하고, 이를 해결하기 위한 방법을 찾는 것이 필요하다. 경제와 산업의 동향도 주시해야 하며, 이를 통해 사업을 발전시키기 위한 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-08-10T12:01:25.038Z",
+  "narrative": "현재의 트렌드는 반도체 산업과 AI 기술의 발전에 대한 관심이 집중되고 있습니다. 정치적인 주제에서는 이재명 체포동의안에 대한 논의가 진행 중입니다. 기업들은 반도체 산업과 AI 기술에 대한 투자와 연구 개발을 진행 중입니다. 그러나 정치적인 안정성은 여론의 관심과 정치권의 반응에 따라 달라질 수 있습니다. 따라서, 기업들은 이러한 트렌드에 대한 주의 깊은 관찰과 대응이 필요합니다.",
+  "analyzed_at": "2026-08-10T13:30:33.989Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
