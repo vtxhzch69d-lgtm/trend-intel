@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래",
-      "summary": "정청래의 발언과 행동에 대한 논란",
-      "post_count": 5,
-      "sentiment": "negative",
+      "topic": "정치",
+      "summary": "이재명 대통령 지지율, 민주당 전당대회, 황희 의원 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "삼성 월렛",
-      "summary": "삼성 월렛에 코레일의 종이 없는 승차권 서비스 출시",
-      "post_count": 2,
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전, 애플의 AI 칩 적용, 중국의 AI 추격 등이 주목을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술의 발전과 ứng dụng",
-      "post_count": 10,
+      "topic": "경제",
+      "summary": "부동산 세제개편, 재건축 초과이익환수, 삼성전자와 현대차의 사업 확장 등 경제 관련 주제가 관심을 받고 있습니다.",
+      "post_count": 8,
       "sentiment": "neutral",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 7,
-      "sentiment": "negative",
-      "context": "정청래의 발언과 행동에 대한 논란"
-    },
-    {
-      "keyword": "삼성",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "positive",
-      "context": "삼성의 기술과 서비스에 대한 언급"
+      "sentiment": "negative",
+      "context": "대통령 지지율과 관련된 글에서 자주 등장합니다."
     },
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI 기술의 발전과 ứng dụng에 대한 언급"
+      "count": 8,
+      "sentiment": "positive",
+      "context": "기술 발전과 관련된 글이 많습니다."
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 4,
+      "sentiment": "positive",
+      "context": "사업 확장과 기술 개발에 대한 글이 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 20,
     "negative": 15,
     "neutral": 25,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적인 분위기이지만, 일부 정치 관련 주제에서는 부정적인 감정이 나타납니다."
   },
   "business_insights": [
     {
-      "insight": "정청래의 발언과 행동에 대한 논란이 높아지고 있다",
-      "action": "정청래의 발언과 행동에 대한 대응 전략 수립",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술을 활용한 신규 사업 개발을 고려해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "삼성의 기술과 서비스가 긍정적으로 평가되고 있다",
-      "action": "삼성의 기술과 서비스에 대한 마케팅 전략 수립",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전과 응용이 증가하고 있다",
-      "action": "AI 기술의 발전과 응용에 대한 연구와 개발",
+      "insight": "정치 관련 주제는 여전히 많은 관심을 받고 있습니다.",
+      "action": "정치 관련 주제에 대한 콘텐츠를 개발하여 이용자들의 관심을 끌어야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정청래의 발언과 행동에 대한 논란이 높아지고 있으며, 삼성의 기술과 서비스가 긍정적으로 평가되고 있다. 또한, AI 기술의 발전과 응용이 증가하고 있어, 이를 위한 연구와 개발이 필요하다. 이러한 트렌드에 대한 마케팅 전략 수립과 대응이 필요하다.",
-  "analyzed_at": "2026-08-10T01:31:29.329Z",
-  "post_count": 62,
+  "narrative": "최근의 트렌드 분석 결과, 정치, AI 기술, 경제 등 다양한 주제가 이용자들의 관심을 받고 있습니다. 특히, AI 기술의 발전은 다양한 산업에 영향을 미칠 것으로 예상되며, 이를 활용한 신규 사업 개발을 고려해야 합니다. 또한, 정치 관련 주제는 여전히 많은 관심을 받고 있으므로, 관련 콘텐츠를 개발하여 이용자들의 관심을 끌어야 합니다. 중립적인 분위기이지만, 일부 정치 관련 주제에서는 부정적인 감정이 나타나므로, 이를 고려하여 콘텐츠를 개발해야 합니다.",
+  "analyzed_at": "2026-08-10T03:00:35.056Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
