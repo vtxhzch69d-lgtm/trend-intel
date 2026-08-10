@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 관련된 다양한 정치적 이슈가 논의되고 있습니다. 클리앙 커뮤니티에서는 이재명 대통령의 1년은 여당이 없었던 점을 चर치하고 있습니다.",
+      "summary": "이재명 대통령과 관련된 정치 뉴스 및 논평",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 트렌드와 관련된 다양한 뉴스가 올라오고 있습니다. 특히 AI와 관련된 기술이 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제와 관련된 뉴스가 올라오고 있습니다. 특히 기업의 투자와 기술 개발이 주목을 받고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술 및 제품 뉴스",
       "post_count": 8,
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "국내외 경제 뉴스 및 분석",
+      "post_count": 6,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치적 이슈"
+      "count": 12,
+      "sentiment": "negative",
+      "context": "정치 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 트렌드"
+      "context": "기술 뉴스"
     },
     {
       "keyword": "경제",
-      "count": 5,
+      "count": 8,
       "sentiment": "neutral",
       "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 10,
+    "negative": 25,
     "neutral": 30,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 트렌드에 대한 관심이 높아지고 있습니다.",
-      "action": "최신 기술 트렌드에 대한 콘텐츠를 제공하여 관심을 유도합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "투자 및 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "경제와 관련된 뉴스가 주목을 받고 있습니다.",
-      "action": "경제와 관련된 뉴스를 제공하여 관심을 유도합니다.",
+      "insight": "정치적 불안정",
+      "action": "리스크 관리",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 성장",
+      "action": "투자 및 확장",
+      "priority": "low"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 다양한 정치적 이슈와 기술 트렌드, 경제 뉴스가 논의되고 있습니다. 특히 최신 기술 트렌드에 대한 관심이 높아지고 있으며, 경제와 관련된 뉴스도 주목을 받고 있습니다. 이러한 트렌드를 반영하여 콘텐츠를 제공함으로써 관심을 유도할 수 있습니다. 또한, 중립적인 분위기를 유지하는 것이 중요합니다.",
-  "analyzed_at": "2026-08-10T19:30:33.726Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치와 AI 기술이 주요 관심사로 나타났습니다. 정치 뉴스와 관련된 게시글이 많았으며, AI 기술의 발전도 주목을 받았습니다. 그러나 경제 성장과 관련된 뉴스도 일부 존재했습니다. 이러한 트렌드를 바탕으로, 기업은 AI 기술의 발전을 주목하고, 정치적 불안정에 대한 리스크 관리를 Conduct해야 할 것입니다. 또한, 경제 성장과 관련된 기회를 찾는 것도 중요할 것입니다.",
+  "analyzed_at": "2026-08-10T21:00:33.736Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
