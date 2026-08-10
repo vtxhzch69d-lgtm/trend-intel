@@ -1,75 +1,44 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 관련된 정치 뉴스 및 논평",
-      "post_count": 10,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판의 글들입니다. 사용자들은 다양한 주제에 대해 의견을 나누고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 및 제품 뉴스",
-      "post_count": 8,
-      "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "국내외 경제 뉴스 및 분석",
-      "post_count": 6,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 12,
-      "sentiment": "negative",
-      "context": "정치 뉴스"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "기술 뉴스"
-    },
-    {
-      "keyword": "경제",
-      "count": 8,
+      "keyword": "뽐뿌",
+      "count": 50,
       "sentiment": "neutral",
-      "context": "경제 뉴스"
+      "context": "커뮤니티 이름"
+    },
+    {
+      "keyword": "이슈",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "이슈게시판 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 25,
+    "positive": 30,
+    "negative": 40,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됩니다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "투자 및 연구 개발",
+      "insight": "커뮤니티 사용자들은 다양한 주제에 대해 의견을 나누고 있습니다.",
+      "action": "의견을 수집하여 마케팅 전략을 수립합니다.",
       "priority": "high"
-    },
-    {
-      "insight": "정치적 불안정",
-      "action": "리스크 관리",
-      "priority": "medium"
-    },
-    {
-      "insight": "경제 성장",
-      "action": "투자 및 확장",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치와 AI 기술이 주요 관심사로 나타났습니다. 정치 뉴스와 관련된 게시글이 많았으며, AI 기술의 발전도 주목을 받았습니다. 그러나 경제 성장과 관련된 뉴스도 일부 존재했습니다. 이러한 트렌드를 바탕으로, 기업은 AI 기술의 발전을 주목하고, 정치적 불안정에 대한 리스크 관리를 Conduct해야 할 것입니다. 또한, 경제 성장과 관련된 기회를 찾는 것도 중요할 것입니다.",
-  "analyzed_at": "2026-08-10T21:00:33.736Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 의견을 나누는 공간입니다. 사용자들은 자유게시판과 이슈게시판에서 의견을 나누고 있습니다. 마케터들은 이러한 의견을 수집하여 마케팅 전략을 수립할 수 있습니다. 그러나 부정적인 의견도 존재하므로 이를 고려하여 전략을 수립해야 합니다. 또한, 커뮤니티 사용자들의 관심사를 파악하여 타겟 마케팅을 진행할 수 있습니다.",
+  "analyzed_at": "2026-08-10T22:30:33.633Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
