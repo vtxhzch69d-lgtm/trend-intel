@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 분야에서 AI의 활용이 증가하고 있다.",
+      "summary": "AI 기술의 발전과 관련된 다양한 주제가 논의되고 있습니다. AI의 발전이 미치는 영향과 관련된 글들이 많습니다.",
       "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 이슈에 대한 관심이 높아지고 있다. 특히, 정부의 정책과 정치인들의 활동에 대한 논의가 활발하다.",
+      "summary": "정치 관련된 주제가 많이 논의되고 있습니다. 대통령 지지율과 관련된 글들이 많습니다.",
       "post_count": 10,
       "sentiment": "mixed",
-      "urgency": "medium"
+      "urgency": "high"
     },
     {
-      "topic": "테크 뉴스",
-      "summary": "최신 기술 뉴스와 제품 출시에 대한 관심이 높아지고 있다. 특히, 스마트폰과 관련된 뉴스에 대한 관심이 높다.",
+      "topic": "기술 제품",
+      "summary": "새로운 기술 제품과 관련된 주제가 논의되고 있습니다. 새로운 스마트폰과 관련된 글들이 많습니다.",
       "post_count": 8,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
       "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 그 응용"
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 관련된 글"
     },
     {
       "keyword": "정치",
       "count": 15,
       "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 이슈"
+      "context": "정치 관련된 주제"
     },
     {
       "keyword": "스마트폰",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 스마트폰 뉴스와 제품 출시"
+      "context": "새로운 스마트폰과 관련된 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "전체적으로 긍정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전이 다양한 산업에 영향을 미칠 것",
-      "action": "AI 기술의 발전을 주시하고, 그 응용을 위한 투자를 고려",
+      "insight": "AI 기술의 발전이 산업에 미치는 영향",
+      "action": "AI 기술의 발전을 주시하고 산업에 미치는 영향을 분석",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 이슈에 대한 관심이 높아지고 있다",
-      "action": "정치 관련 뉴스와 이슈에 대한 분석을 수행",
-      "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 뉴스와 제품 출시에 대한 관심이 높아지고 있다",
-      "action": "최신 기술 뉴스와 제품 출시에 대한 정보를 제공",
+      "insight": "새로운 기술 제품의 출시",
+      "action": "새로운 기술 제품의 출시를 주시하고 시장에 미치는 영향을 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 또한, 정치 관련 뉴스와 이슈에 대한 관심이 높아지고 있으며, 최신 기술 뉴스와 제품 출시에 대한 관심도 높아지고 있다. 이러한 트렌드는 다양한 산업에 영향을 미칠 것으로 예상되며, 기업들은 이러한 트렌드에 대한 분석을 수행하고, 그에 따른 전략을 수립해야 할 것이다.",
-  "analyzed_at": "2026-08-09T22:31:30.591Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 관련된 주제가 많이 논의되고 있습니다. 또한 정치 관련된 주제도 많이 논의되고 있습니다. 새로운 기술 제품과 관련된 주제도 논의되고 있습니다. 이러한 트렌드는 산업에 미치는 영향을 분석하고 새로운 기회를 찾는 데 도움이 될 수 있습니다. 또한 이러한 트렌드를 주시하고 시장에 미치는 영향을 분석하면 산업의 발전에 기여할 수 있습니다.",
+  "analyzed_at": "2026-08-10T00:00:34.131Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
