@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아지고 있다. 대통령과 정부의 정책에 대한 논의가 활발하다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 관련된 기술 뉴스가 많아지고 있다. 삼성, 구글, 애플 등 주요 기업들의 기술 개발과 출시가 활발하다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스가 많아지고 있다. 경기 침체와 관련된 논의가 활발하다.",
+      "topic": "친일 논쟁",
+      "summary": "클리앙 커뮤니티에서 친일 논쟁이 뜨거운 감자로 떠올랐습니다. 사용자들은 친일인명사전에 올라가는 기준과 친일파 후손 배우에 대한 벌을 논의하고 있습니다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
+    },
+    {
+      "topic": "애플 아이폰",
+      "summary": "애플 아이폰의 가격 인하와 새로운 모델 출시가 예정되어 있습니다. 사용자들은 아이폰의 가격과 성능에 대해 논의하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "삼성전자",
+      "summary": "삼성전자가 새로운 기술을 개발하고 있습니다. 사용자들은 삼성전자의 기술 개발과 시장 경쟁에 대해 논의하고 있습니다.",
+      "post_count": 8,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "기술 개발과 관련된 키워드"
-    },
-    {
-      "keyword": "대통령",
+      "keyword": "친일",
       "count": 15,
-      "sentiment": "mixed",
-      "context": "정치 관련 키워드"
+      "sentiment": "negative",
+      "context": "친일 논쟁"
     },
     {
-      "keyword": "경제",
+      "keyword": "애플",
       "count": 10,
-      "sentiment": "negative",
-      "context": "경제 관련 키워드"
+      "sentiment": "neutral",
+      "context": "애플 아이폰"
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 12,
+      "sentiment": "positive",
+      "context": "삼성전자 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
+    "positive": 20,
     "negative": 25,
-    "neutral": 20,
-    "overall_mood": "복합적인 감정"
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "기술 개발에 대한 투자가 증가하고 있다.",
-      "action": "기술 개발에 대한 투자 증가",
+      "insight": "친일 논쟁은 사용자들의 관심을 끌고 있습니다.",
+      "action": "친일 논쟁에 대한 콘텐츠를 생성하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스가 많아지고 있다.",
-      "action": "경제 관련 뉴스 모니터링",
+      "insight": "애플 아이폰의 가격 인하와 새로운 모델 출시가 예정되어 있습니다.",
+      "action": "애플 아이폰의 가격 인하와 새로운 모델 출시를 홍보하여 사용자들의 관심을 끌 수 있습니다.",
       "priority": "medium"
     },
     {
-      "insight": "정치 관련 논의가 활발하다.",
-      "action": "정치 관련 논의 모니터링",
-      "priority": "low"
+      "insight": "삼성전자가 새로운 기술을 개발하고 있습니다.",
+      "action": "삼성전자의 기술 개발을 홍보하여 사용자들의 관심을 끌 수 있습니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서 정치, 기술, 경제 관련 뉴스가 많아지고 있다. 기술 개발에 대한 투자가 증가하고 있으며, 경제 관련 뉴스는 경기 침체와 관련된 논의가 활발하다. 정치 관련 논의도 활발하지만, 전체적인 감정은 복합적인 감정이다. 기술 개발에 대한 투자 증가와 경제 관련 뉴스 모니터링이 필요하다.",
-  "analyzed_at": "2026-08-10T07:30:33.455Z",
+  "narrative": "클리앙 커뮤니티에서 친일 논쟁이 뜨거운 감자로 떠올랐습니다. 사용자들은 친일인명사전에 올라가는 기준과 친일파 후손 배우에 대한 벌을 논의하고 있습니다. 또한, 애플 아이폰의 가격 인하와 새로운 모델 출시가 예정되어 있습니다. 사용자들은 아이폰의 가격과 성능에 대해 논의하고 있습니다. 삼성전자가 새로운 기술을 개발하고 있습니다. 사용자들은 삼성전자의 기술 개발과 시장 경쟁에 대해 논의하고 있습니다. 이러한 트렌드와 인사이트를 통해 마케터는 사용자들의 관심을 끌고 시장 경쟁에서 앞서갈 수 있습니다.",
+  "analyzed_at": "2026-08-10T09:00:34.692Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
