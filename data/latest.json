@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "김민석",
-      "summary": "김민석 관련 게시물이 많은 것으로 나타났습니다. 총 5개의 게시물이 있었습니다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많아지고 있다. 대통령과 정부의 정책에 대한 논의가 활발하다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령 관련 게시물이 많은 것으로 나타났습니다. 총 3개의 게시물이 있었습니다.",
-      "post_count": 3,
-      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술 관련 게시물이 많은 것으로 나타났습니다. 총 10개의 게시물이 있었습니다.",
-      "post_count": 10,
+      "topic": "기술",
+      "summary": "AI와 관련된 기술 뉴스가 많아지고 있다. 삼성, 구글, 애플 등 주요 기업들의 기술 개발과 출시가 활발하다.",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스가 많아지고 있다. 경기 침체와 관련된 논의가 활발하다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "김민석",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "김민석 관련 게시물"
-    },
-    {
-      "keyword": "이재명 대통령",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "이재명 대통령 관련 게시물"
-    },
-    {
-      "keyword": "AI 기술",
-      "count": 10,
+      "keyword": "AI",
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI 기술 관련 게시물"
+      "context": "기술 개발과 관련된 키워드"
+    },
+    {
+      "keyword": "대통령",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정치 관련 키워드"
+    },
+    {
+      "keyword": "경제",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "경제 관련 키워드"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
+    "positive": 30,
+    "negative": 25,
     "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "김민석 관련 게시물이 많은 것으로 나타났습니다.",
-      "action": "김민석 관련 게시물에 대한 분석을 수행해야 합니다.",
+      "insight": "기술 개발에 대한 투자가 증가하고 있다.",
+      "action": "기술 개발에 대한 투자 증가",
+      "priority": "high"
+    },
+    {
+      "insight": "경제 관련 뉴스가 많아지고 있다.",
+      "action": "경제 관련 뉴스 모니터링",
       "priority": "medium"
     },
     {
-      "insight": "AI 기술 관련 게시물이 많은 것으로 나타났습니다.",
-      "action": "AI 기술 관련 게시물에 대한 분석을 수행해야 합니다.",
+      "insight": "정치 관련 논의가 활발하다.",
+      "action": "정치 관련 논의 모니터링",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 김민석과 이재명 대통령 관련 게시물이 많이 등장했습니다. 또한 AI 기술 관련 게시물도 많은 것으로 나타났습니다. 이러한 게시물들은 중립적인 분위기를 보였으며, 김민석 관련 게시물은 중립적인 감정으로 나타났습니다. 반면 이재명 대통령 관련 게시물은 부정적인 감정으로 나타났습니다. 이러한 분석 결과를 바탕으로 김민석과 이재명 대통령 관련 게시물에 대한 분석을 수행해야 하며, AI 기술 관련 게시물에 대한 분석도 수행해야 합니다.",
-  "analyzed_at": "2026-08-10T06:01:24.559Z",
+  "narrative": "클리앙 커뮤니티에서 정치, 기술, 경제 관련 뉴스가 많아지고 있다. 기술 개발에 대한 투자가 증가하고 있으며, 경제 관련 뉴스는 경기 침체와 관련된 논의가 활발하다. 정치 관련 논의도 활발하지만, 전체적인 감정은 복합적인 감정이다. 기술 개발에 대한 투자 증가와 경제 관련 뉴스 모니터링이 필요하다.",
+  "analyzed_at": "2026-08-10T07:30:33.455Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
