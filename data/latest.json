@@ -1,54 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "김민석 당대표 지지선언",
-      "summary": "여성 기초의원 모임 '첫만남'에서 김민석 당대표 지지선언이 이뤄졌습니다. 이는 정치계에서 큰 관심을 모으고 있습니다.",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "김민석 당대표 지지선언, 정치 관련 논쟁",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "부동산",
+      "summary": "1주택 실거주 정책, 부동산 시장 변동",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "재생에너지 이격거리 규제",
-      "summary": "재생에너지 이격거리 규제 상한 도입이 예정되어 있습니다. 이는 환경과 에너지 정책에 큰 영향을 미칠 것입니다.",
-      "post_count": 2,
+      "topic": "기술",
+      "summary": "AI, IT 기술 관련 뉴스와 논쟁",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "김민석",
-      "count": 7,
+      "count": 10,
       "sentiment": "mixed",
-      "context": "정치계에서 큰 관심을 모으고 있는 인물"
+      "context": "정치 관련 논쟁"
     },
     {
-      "keyword": "재생에너지",
-      "count": 3,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "환경과 에너지 정책에서 중요한 역할을 하는 키워드"
+      "context": "기술 관련 뉴스"
+    },
+    {
+      "keyword": "부동산",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "부동산 시장 변동"
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 25,
-    "overall_mood": "중립적이고 다양한 의견이 존재하는 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치계에서 큰 관심을 모으고 있는 인물과 이슈에 대한 분석이 필요합니다.",
-      "action": "관련 키워드와 주제에 대한 깊은 분석을 수행해야 합니다.",
+      "insight": "정치와 부동산 관련 논쟁이 많아지고 있다.",
+      "action": "정치와 부동산 관련 콘텐츠를 생성하여 사용자와의 상호작용을 tăng强시킨다.",
       "priority": "high"
     },
     {
-      "insight": "환경과 에너지 정책에 대한 이해가 필요합니다.",
-      "action": "관련 뉴스와 데이터를 수집하여 분석해야 합니다.",
+      "insight": "AI와 IT 기술 관련 뉴스가 많아지고 있다.",
+      "action": "AI와 IT 기술 관련 콘텐츠를 생성하여 사용자와의 상호작용을 tăng强시킨다.",
       "priority": "medium"
     }
   ],
-  "narrative": "현재 정치계에서 큰 관심을 모으고 있는 김민석 당대표 지지선언과 재생에너지 이격거리 규제 상한 도입 등 다양한 이슈가 존재합니다. 이러한 이슈에 대한 깊은 분석과 이해가 필요하며, 관련 키워드와 주제에 대한 분석을 수행해야 합니다. 또한, 환경과 에너지 정책에 대한 이해가 필요하며, 관련 뉴스와 데이터를 수집하여 분석해야 합니다. 이러한 분석을 통해 마케터는 다양한 의견과 이슈를 이해하고, 이를 활용하여 효과적인 마케팅 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-08-11T19:00:34.025Z",
+  "narrative": "최근의 트렌드는 정치와 부동산 관련 논쟁이 많아지고 있으며, AI와 IT 기술 관련 뉴스가 많아지고 있다. 이러한 트렌드를 반영하여 콘텐츠를 생성하여 사용자와의 상호작용을 tăng强시킬 수 있다. 또한, 정치와 부동산 관련 콘텐츠를 생성하여 사용자와의 상호작용을 tăng强시킬 수 있다. 반면, AI와 IT 기술 관련 뉴스를 생성하여 사용자와의 상호작용을 tăng强시킬 수 있다.",
+  "analyzed_at": "2026-08-11T20:30:34.826Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
