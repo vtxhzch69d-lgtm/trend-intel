@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많이 올라왔으며, 정치인에 대한 비판과 지지의견이 분분하다.",
+      "summary": "最近의 정치 관련 뉴스와 의견",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "부동산",
-      "summary": "부동산 가격과 정책에 대한 논의가 활발하게 이루어지고 있다.",
-      "post_count": 5,
+      "summary": "最近의 부동산 관련 뉴스와 의견",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 제품과 혁신에 대한 관심이 높다.",
-      "post_count": 10,
+      "topic": "테크",
+      "summary": "最近의 테크 관련 뉴스와 의견",
+      "post_count": 20,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
-      "count": 20,
+      "keyword": "김민석",
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치인에 대한 비판"
+      "context": "정치 관련 글"
     },
     {
       "keyword": "부동산",
-      "count": 10,
+      "count": 8,
       "sentiment": "negative",
-      "context": "부동산 가격에 대한 우려"
+      "context": "부동산 관련 글"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "테크 관련 글"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 게시글이 많지만, 기술 관련 게시글에서는 긍정적인 감정이 나타남"
+    "negative": 25,
+    "neutral": 15,
+    "overall_mood": "부정적인 감정의 글들이 많지만, 테크 관련 글이 긍정적인 감정을 보임"
   },
   "business_insights": [
     {
-      "insight": "정치와 부동산 관련 게시글이 많이 올라오고 있으므로, 관련된 기업은 소비자의 우려를 고려한 마케팅 전략을 수립해야 한다.",
-      "action": "소비자 우려에 대한 대응 마케팅",
+      "insight": "정치 관련 뉴스와 의견이 많아, 정치 관련 마케팅이 필요할 수 있음",
+      "action": "정치 관련 마케팅 캠페인 실행",
       "priority": "high"
     },
     {
-      "insight": "AI 기술에 대한 관심이 높아지고 있으므로, 관련된 기업은 AI 기술을 활용한 제품 개발과 마케팅에 집중해야 한다.",
-      "action": "AI 기술을 활용한 제품 개발",
+      "insight": "부동산 관련 뉴스와 의견이 많아, 부동산 관련 마케팅이 필요할 수 있음",
+      "action": "부동산 관련 마케팅 캠페인 실행",
+      "priority": "medium"
+    },
+    {
+      "insight": "테크 관련 뉴스와 의견이 많아, 테크 관련 마케팅이 필요할 수 있음",
+      "action": "테크 관련 마케팅 캠페인 실행",
       "priority": "medium"
     }
   ],
-  "narrative": "최근 정치와 부동산 관련 게시글이 많이 올라오고 있으며, 소비자는 정치인과 부동산 가격에 대한 우려를 나타내고 있다. 그러나 기술 관련 게시글에서는 긍정적인 감정이 나타나고 있으며, AI 기술에 대한 관심이 높아지고 있다. 따라서 관련된 기업은 소비자의 우려를 고려한 마케팅 전략을 수립하고, AI 기술을 활용한 제품 개발과 마케팅에 집중해야 한다.",
-  "analyzed_at": "2026-08-11T14:30:34.829Z",
+  "narrative": "最近의 정치 관련 뉴스와 의견이 많아, 정치 관련 마케팅이 필요할 수 있음. 또한, 부동산 관련 뉴스와 의견이 많아, 부동산 관련 마케팅이 필요할 수 있음. 테크 관련 뉴스와 의견이 많아, 테크 관련 마케팅이 필요할 수 있음. 하지만, 부정적인 감정의 글들이 많아, 마케팅 캠페인 실행 시 긍정적인 감정을 고려해야 함.",
+  "analyzed_at": "2026-08-11T16:00:33.952Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
