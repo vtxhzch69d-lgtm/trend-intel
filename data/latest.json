@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 정책",
-      "summary": "국토부 장관이 정부의 부동산 정책을 옳다고 말한 것에 대한 논의가 진행 중입니다. 또한, 오세훈법과 관련된 내용도 논의되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "mixed",
+      "topic": "리센느",
+      "summary": "리센느 관련 콘텐츠가 인기입니다. PD의 역대급 서사와 안원잘부의 구도가 호평을 받고 있습니다.",
+      "post_count": 3,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "최신 기술과 산업 관련 뉴스 및 제품 출시가 활발하게 진행 중입니다. 특히, AI와 관련된 내용이 많이 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "KF-21",
+      "summary": "KF-21 보라매의 공군 첫 인도와 성능개량 사업이 언급되고 있습니다.",
+      "post_count": 2,
+      "sentiment": "neutral",
       "urgency": "high"
     },
     {
-      "topic": "생활 및 여가",
-      "summary": "생활과 여가 관련된 내용이 다양하게 논의되고 있습니다. 특히, 운동, 여행, 게임 등이 많이 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "부동산",
+      "summary": "수도권 부동산 가격과 세금이 논란이 되고 있습니다.",
+      "post_count": 2,
+      "sentiment": "negative",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정부의 부동산 정책에 대한 비판"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
-      "sentiment": "positive",
-      "context": "최신 기술과 산업 관련 뉴스"
-    },
-    {
-      "keyword": "게임",
+      "keyword": "리센느",
       "count": 5,
       "sentiment": "positive",
-      "context": "최신 게임 관련 뉴스"
+      "context": "리센느 관련 콘텐츠"
+    },
+    {
+      "keyword": "KF-21",
+      "count": 3,
+      "sentiment": "neutral",
+      "context": "KF-21 보라매의 공군 첫 인도"
+    },
+    {
+      "keyword": "부동산",
+      "count": 2,
+      "sentiment": "negative",
+      "context": "수도권 부동산 가격과 세금"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
+    "positive": 10,
+    "negative": 5,
+    "neutral": 15,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 정책에 대한 논의가 활발하게 진행 중입니다.",
-      "action": "정부의 정책에 대한 관심을 높이고, 관련된 뉴스를 모니터링해야 합니다.",
+      "insight": "리센느의 인기 콘텐츠를 활용한 마케팅 전략",
+      "action": "리센느 관련 콘텐츠 제작",
+      "priority": "high"
+    },
+    {
+      "insight": "KF-21 보라매의 공군 첫 인도와 성능개량 사업의 비즈니스 기회",
+      "action": "방산 산업 관련 투자",
       "priority": "medium"
     },
     {
-      "insight": "최신 기술과 산업 관련 뉴스가 많이 논의되고 있습니다.",
-      "action": "최신 기술과 산업 관련 뉴스를 모니터링하고, 관련된 제품이나 서비스에 대한 정보를 수집해야 합니다.",
-      "priority": "high"
+      "insight": "부동산 가격과 세금의 논란을 해결하기 위한 정책 마케팅",
+      "action": "부동산 정책 관련 콘텐츠 제작",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 부동산 정책과 최신 기술 및 산업 관련 뉴스가 많이 논의되고 있습니다. 특히, AI와 관련된 내용이 많이 논의되고 있습니다. 또한, 생활과 여가 관련된 내용도 다양하게 논의되고 있습니다. 이러한 트렌드에 대한 관심을 높이고, 관련된 뉴스를 모니터링하는 것이 중요합니다. 또한, 최신 기술과 산업 관련 뉴스를 모니터링하고, 관련된 제품이나 서비스에 대한 정보를 수집하는 것이 필요합니다.",
-  "analyzed_at": "2026-08-11T11:30:34.013Z",
+  "narrative": "현재의 트렌드는 리센느 관련 콘텐츠와 KF-21 보라매의 공군 첫 인도, 부동산 가격과 세금의 논란을 중심으로 형성되고 있습니다. 리센느의 인기 콘텐츠를 활용한 마케팅 전략과 KF-21 보라매의 공군 첫 인도와 성능개량 사업의 비즈니스 기회를 찾는 것이 중요합니다. 또한, 부동산 가격과 세금의 논란을 해결하기 위한 정책 마케팅이 필요합니다.",
+  "analyzed_at": "2026-08-11T13:01:28.014Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
