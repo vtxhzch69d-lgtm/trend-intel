@@ -1,22 +1,22 @@
 {
   "trending_topics": [
     {
-      "topic": "내란청산",
-      "summary": "국정과제 1호로 내란청산이 논의되고 있으며, 일부에서는 이에 대한 피로감과 조롱이 나타나고 있다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 이를 활용한 다양한 산업의 성장이 나타나고 있다.",
+      "topic": "정치 및 사회",
+      "summary": "수도 이전, 대운하, 선거 공약 등 정치 및 사회 관련 주제가热議되고 있습니다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "부동산 세제 개편",
-      "summary": "부동산 세제 개편이 논의되고 있으며, 이를 통해 부동산 시장의 안정화가 기대되고 있다.",
+      "topic": "기술 및 산업",
+      "summary": "AI, 로봇, OLED 등 기술 및 산업 관련 주제가 많이讨論되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 금융",
+      "summary": "경제 및 금융 관련 주제가 일부讨論되고 있습니다.",
       "post_count": 5,
       "sentiment": "neutral",
       "urgency": "low"
@@ -24,44 +24,44 @@
   ],
   "keywords": [
     {
-      "keyword": "내란청산",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "국정과제 1호로 논의되고 있는 내란청산"
-    },
-    {
       "keyword": "AI",
-      "count": 30,
+      "count": 10,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 이를 활용한 산업의 성장"
+      "context": "AI 기술의 발전과 적용"
     },
     {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "부동산 세제 개편과 관련된 논의"
+      "keyword": "로봇",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "로봇 기술의 발전과 적용"
+    },
+    {
+      "keyword": "수도 이전",
+      "count": 3,
+      "sentiment": "mixed",
+      "context": "수도 이전에 대한 찬반 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 15,
+    "overall_mood": "중립적이고 정보적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 산업의 성장",
+      "insight": "AI 기술의 발전과 적용",
+      "action": "AI 기술을 활용한 신제품 개발",
       "priority": "high"
     },
     {
-      "insight": "부동산 세제 개편",
-      "action": "부동산 시장의 안정화",
-      "priority": "low"
+      "insight": "로봇 기술의 발전과 적용",
+      "action": "로봇 기술을 활용한 생산성 향상",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 내란청산과 관련된 논의와 AI 기술의 발전이 주를 이루고 있다. 내란청산은 국정과제 1호로 논의되고 있으며, 일부에서는 이에 대한 피로감과 조롱이 나타나고 있다. AI 기술의 발전은 다양한 산업의 성장을 가져올 것으로 기대되고 있다. 또한, 부동산 세제 개편과 관련된 논의도 나타나고 있다. 이러한 트렌드를 통해 기업은 AI 기술을 활용한 산업의 성장과 부동산 시장의 안정화를 위한 전략을 수립할 수 있을 것이다.",
-  "analyzed_at": "2026-08-11T02:30:33.880Z",
+  "narrative": "최근의 트렌드 분석 결과, 정치 및 사회, 기술 및 산업, 경제 및 금융 등 다양한 주제가讨論되고 있습니다. 특히 AI와 로봇 기술의 발전과 적용이 많은 관심을 받고 있습니다. 이러한 트렌드를 반영하여 AI 기술을 활용한 신제품 개발이나 로봇 기술을 활용한 생산성 향상을 위한 액션을 취할 수 있습니다.",
+  "analyzed_at": "2026-08-11T04:00:34.580Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
