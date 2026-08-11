@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 경제",
-      "summary": "最近의 정치 및 경제 뉴스와 관련된 게시글이 많습니다. 종부세, 다주택자, 대통령 등과 관련된 글들이热議中입니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "김민석 신천지 발언",
+      "summary": "김민석의 신천지 발언 관련하여 고발장 완성 단계, 내일 서울경찰청 2차 고발 예정",
+      "post_count": 5,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술 및 과학",
-      "summary": "최신 기술 및 과학 뉴스와 관련된 게시글이 많습니다. AI, 로봇, 스마트폰 등과 관련된 글들이 인기중입니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령, 국립소방병원 개원식 참석",
+      "post_count": 2,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "사회 및 문화",
-      "summary": "사회 및 문화 관련된 게시글이 많습니다. 영화, 드라마, 음악 등과 관련된 글들이人気中입니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
+      "topic": "삼양라면",
+      "summary": "옛날 삼양라면의 공업용우지 사건을 아시죠? 삼양이 경쟁상 ㄴㅅ을 한방 먹이는거 같네요",
+      "post_count": 1,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "김민석",
       "count": 10,
-      "sentiment": "positive",
-      "context": "최신 기술 및 과학 뉴스와 관련된 키워드입니다."
-    },
-    {
-      "keyword": "종부세",
-      "count": 5,
       "sentiment": "negative",
-      "context": "정치 및 경제 뉴스와 관련된 키워드입니다."
+      "context": "신천지 발언 관련하여 논란"
     },
     {
-      "keyword": "로봇",
+      "keyword": "이재명",
       "count": 3,
+      "sentiment": "neutral",
+      "context": "대통령 관련 뉴스"
+    },
+    {
+      "keyword": "삼양라면",
+      "count": 1,
       "sentiment": "positive",
-      "context": "최신 기술 및 과학 뉴스와 관련된 키워드입니다."
+      "context": "옛날 삼양라면의 공업용우지 사건"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
+    "positive": 5,
     "negative": 15,
     "neutral": 10,
-    "overall_mood": "중립적인 감정으로 나타나고 있습니다."
+    "overall_mood": "부정적인 감정의 우세"
   },
   "business_insights": [
     {
-      "insight": "최신 기술 및 과학 뉴스와 관련된 게시글이 많습니다.",
-      "action": "최신 기술 및 과학 뉴스와 관련된 콘텐츠를 제작하여 게시글을 증가시킬 수 있습니다.",
+      "insight": "김민석의 신천지 발언 관련하여 논란",
+      "action": "김민석의 이미지를 회복하기 위한 대응책 마련",
       "priority": "high"
     },
     {
-      "insight": "정치 및 경제 뉴스와 관련된 게시글이 많습니다.",
-      "action": "정치 및 경제 뉴스와 관련된 콘텐츠를 제작하여 게시글을 증가시킬 수 있습니다.",
+      "insight": "이재명 대통령의 국립소방병원 개원식 참석",
+      "action": "이재명 대통령의 활동에 대한 지속적인 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "삼양라면의 옛날 공업용우지 사건",
+      "action": "삼양라면의 브랜드 이미지를 회복하기 위한 마케팅 전략 수립",
+      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 및 경제 뉴스와 관련된 게시글이 많습니다. 최신 기술 및 과학 뉴스와 관련된 게시글도 많습니다. 이러한 트렌드를 반영하여 최신 기술 및 과학 뉴스와 관련된 콘텐츠를 제작하여 게시글을 증가시킬 수 있습니다. 또한, 정치 및 경제 뉴스와 관련된 콘텐츠를 제작하여 게시글을 증가시킬 수 있습니다. 이러한 콘텐츠를 통해 사용자의 관심을 끌고, 게시글을 증가시킬 수 있습니다.",
-  "analyzed_at": "2026-08-11T08:30:33.951Z",
-  "post_count": 59,
+  "narrative": "최근 클리앙 커뮤니티에서 김민석의 신천지 발언 관련하여 논란이 일고 있습니다. 이재명 대통령의 국립소방병원 개원식 참석도 언급되고 있습니다. 또한, 삼양라면의 옛날 공업용우지 사건이 재조명되고 있습니다. 이러한 트렌드에 대한 지속적인 모니터링과 분석이 필요합니다. 김민석의 이미지를 회복하기 위한 대응책 마련과 삼양라면의 브랜드 이미지를 회복하기 위한 마케팅 전략 수립이 필요합니다.",
+  "analyzed_at": "2026-08-11T10:00:34.343Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
