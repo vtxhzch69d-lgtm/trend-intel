@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "수도 이전, 대운하, 선거 공약 등 정치 및 사회 관련 주제가热議되고 있습니다.",
-      "post_count": 15,
+      "topic": "이성윤 보좌질",
+      "summary": "이성윤 보좌질에 대한 논란이 클리앙 커뮤니티에서 논의되고 있습니다. 일부 사용자는 이성윤의 행동을 비판하며, 다른 사용자는 그의 행동을 옹호하고 있습니다.",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "기술 및 산업",
-      "summary": "AI, 로봇, OLED 등 기술 및 산업 관련 주제가 많이讨論되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "김민석 총리",
+      "summary": "김민석 총리의 전국투어 정책설명회에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 일부 사용자는 그의 정책을 지지하며, 다른 사용자는 그의 정책을 비판하고 있습니다.",
+      "post_count": 3,
+      "sentiment": "mixed",
+      "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "경제 및 금융 관련 주제가 일부讨論되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "게임주",
+      "summary": "게임주에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다. 일부 사용자는 게임주가 암흑의 터널에서 끝이 보이는 것으로 보이며, 다른 사용자는 게임주가 여전히 어려움에 직면해 있다고 생각합니다.",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
+      "keyword": "이성윤",
       "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 적용"
+      "sentiment": "negative",
+      "context": "이성윤 보좌질에 대한 논란"
     },
     {
-      "keyword": "로봇",
+      "keyword": "김민석",
+      "count": 8,
+      "sentiment": "mixed",
+      "context": "김민석 총리의 정책에 대한 논의"
+    },
+    {
+      "keyword": "게임주",
       "count": 5,
       "sentiment": "positive",
-      "context": "로봇 기술의 발전과 적용"
-    },
-    {
-      "keyword": "수도 이전",
-      "count": 3,
-      "sentiment": "mixed",
-      "context": "수도 이전에 대한 찬반 논란"
+      "context": "게임주에 대한 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 10,
-    "neutral": 15,
-    "overall_mood": "중립적이고 정보적인 분위기"
+    "positive": 20,
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전과 적용",
-      "action": "AI 기술을 활용한 신제품 개발",
+      "insight": "이성윤 보좌질에 대한 논란이 클리앙 커뮤니티에서 논의되고 있습니다.",
+      "action": "이성윤 보좌질에 대한 논란을 주시하고, 필요한 경우 대응策을 마련해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "로봇 기술의 발전과 적용",
-      "action": "로봇 기술을 활용한 생산성 향상",
+      "insight": "김민석 총리의 정책에 대한 논의가 클리앙 커뮤니티에서 진행되고 있습니다.",
+      "action": "김민석 총리의 정책에 대한 논의를 주시하고, 필요한 경우 대응策을 마련해야 합니다.",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치 및 사회, 기술 및 산업, 경제 및 금융 등 다양한 주제가讨論되고 있습니다. 특히 AI와 로봇 기술의 발전과 적용이 많은 관심을 받고 있습니다. 이러한 트렌드를 반영하여 AI 기술을 활용한 신제품 개발이나 로봇 기술을 활용한 생산성 향상을 위한 액션을 취할 수 있습니다.",
-  "analyzed_at": "2026-08-11T04:00:34.580Z",
+  "narrative": "클리앙 커뮤니티에서 이성윤 보좌질과 김민석 총리의 정책에 대한 논의가 진행되고 있습니다. 일부 사용자는 이성윤의 행동을 비판하며, 다른 사용자는 그의 행동을 옹호하고 있습니다. 또한, 게임주에 대한 논의가 진행되고 있습니다. 일부 사용자는 게임주가 암흑의 터널에서 끝이 보이는 것으로 보이며, 다른 사용자는 게임주가 여전히 어려움에 직면해 있다고 생각합니다. 이러한 논의를 주시하고, 필요한 경우 대응策을 마련해야 합니다.",
+  "analyzed_at": "2026-08-11T05:31:25.088Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
