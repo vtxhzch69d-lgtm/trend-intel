@@ -1,73 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "김민석과 정청래의 선거 관련 논란, 정치권의 움직임",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 분야에서 AI 기술의 활용이 증가하고 있다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술 개발과 적용, 관련 기업들의 움직임",
+      "topic": "정치",
+      "summary": "정치 관련된 주제가 많이 обсужд되고 있다. 정치인에 대한 비판과 정치 현상에 대한 분석이 이루어지고 있다.",
       "post_count": 15,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스, 기업들의 움직임과 정부 정책",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술 제품",
+      "summary": "새로운 기술 제품에 대한 관심이 높아지고 있다. 특히 폴드폰과 갤럭시S27 시리즈에 대한 चर척이 많다.",
+      "post_count": 10,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "김민석",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "정치권의 논란"
-    },
-    {
       "keyword": "AI",
-      "count": 10,
+      "count": 25,
       "sentiment": "positive",
-      "context": "최신 기술 개발"
+      "context": "AI 기술의 발전과 응용"
     },
     {
-      "keyword": "경제",
+      "keyword": "정치",
+      "count": 20,
+      "sentiment": "negative",
+      "context": "정치 관련된 주제"
+    },
+    {
+      "keyword": "폴드폰",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "관련 뉴스"
+      "sentiment": "positive",
+      "context": "새로운 기술 제품"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "positive": 30,
+    "negative": 25,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "최신 AI 기술 개발",
-      "action": "투자와 연구 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 응용을 연구하고 개발해야 한다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 뉴스",
-      "action": "시장 분석과 전략 수립",
+      "insight": "새로운 기술 제품은 소비자의 관심을 끌 수 있다.",
+      "action": "새로운 기술 제품을 개발하고 마케팅해야 한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치권의 움직임",
-      "action": "정책 분석과 대응 전략",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 AI 기술 개발에 관한 논란과 움직임이 주를 이루고 있습니다. 경제 관련 뉴스도 중요한 역할을 하고 있지만, 정치권의 움직임과 최신 기술 개발이 더 많은 관심을 받고 있습니다. 이러한 트렌드는 기업과 정부에게 중요한 시사점을 제공하며, 시장 분석과 전략 수립, 정책 분석과 대응 전략 등의 액션을 요구합니다.",
-  "analyzed_at": "2026-08-12T07:00:34.081Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술과 정치 관련된 주제가 많이 обсужд되고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 새로운 기술 제품은 소비자의 관심을 끌 수 있다. 따라서 AI 기술의 응용을 연구하고 개발해야 하며, 새로운 기술 제품을 개발하고 마케팅해야 한다. 또한, 정치 관련된 주제에 대한 관심이 높아지고 있으므로, 정치 현상에 대한 분석과 비판이 필요하다.",
+  "analyzed_at": "2026-08-12T08:30:34.323Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
