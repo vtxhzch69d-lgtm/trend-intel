@@ -1,67 +1,72 @@
 {
   "trending_topics": [
     {
+      "topic": "부동산",
+      "summary": "부동산 시장의 현재 상황과 정부의 정책에 대한 논의",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI의 활용이 증가하고 있다.",
+      "summary": "최신 AI 기술의 개발과 적용에 대한 관심",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "부동산 시장",
-      "summary": "부동산 시장의 상황과 정부의 정책에 대한 논의가 활발하다. 서울과 경기 외 지역의 부동산 가격에 대한 관심이 높다.",
-      "post_count": 8,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 논평이 많다. 민주당과 정부의 정책에 대한 평가와 비판이 있다.",
-      "post_count": 10,
+      "summary": "정치권의 동향과 여론에 대한 논의",
+      "post_count": 8,
       "sentiment": "negative",
-      "urgency": "high"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용"
+      "keyword": "부동산",
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "부동산 시장의 현재 상황"
     },
     {
-      "keyword": "부동산",
-      "count": 10,
-      "sentiment": "neutral",
-      "context": "부동산 시장의 상황과 정부의 정책"
+      "keyword": "AI",
+      "count": 18,
+      "sentiment": "positive",
+      "context": "최신 AI 기술의 개발과 적용"
     },
     {
       "keyword": "정치",
-      "count": 15,
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스와 논평"
+      "context": "정치권의 동향과 여론"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 30,
-    "neutral": 20,
-    "overall_mood": "부정적인 감정이 더 강한 것으로 나타났다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
-      "action": "AI 기술의 발전을 주시하고 이를 활용할 수 있는 방안을 모색한다.",
+      "insight": "부동산 시장의 안정화",
+      "action": "정부의 정책 지원",
+      "priority": "medium"
+    },
+    {
+      "insight": "AI 기술의 개발과 적용",
+      "action": "투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 상황은 정부의 정책과 경제 상황에 따라 변할 수 있다.",
-      "action": "부동산 시장의 상황을 주시하고 정부의 정책에 대한 반응을 준비한다.",
+      "insight": "정치권의 동향과 여론",
+      "action": "여론 분석과 대응",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술과 부동산 시장, 정치 등이 주요 관심사로 나타났다. AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있지만, 부동산 시장의 상황은 정부의 정책과 경제 상황에 따라 변할 수 있다. 정치 관련 뉴스와 논평은 부정적인 감정을 자극하는 경우가 많다. 이러한 트렌드와 키워드를 고려하여 마케팅 전략을 수립할 수 있다.",
-  "analyzed_at": "2026-08-12T19:01:30.714Z",
+  "narrative": "최근의 트렌드 분석 결과, 부동산 시장의 안정화와 AI 기술의 개발과 적용이 주요 관심사로 나타났습니다. 또한, 정치권의 동향과 여론에 대한 논의도 활발하게 진행되고 있습니다. 이러한 트렌드에 따라, 기업과 기관은 부동산 시장의 안정화와 AI 기술의 개발과 적용에 대한 투자와 연구 개발을 고려해야 합니다. 또한, 정치권의 동향과 여론에 대한 여론 분석과 대응도 중요합니다.",
+  "analyzed_at": "2026-08-12T20:30:34.183Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
