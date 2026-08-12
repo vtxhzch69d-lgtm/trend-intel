@@ -1,70 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 그 응용에 대한 관심이 높아지고 있다. 다양한 분야에서 AI 기술의 활용이 증가하고 있다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "정치",
-      "summary": "정치 관련된 주제가 많이 обсужд되고 있다. 정치인에 대한 비판과 정치 현상에 대한 분석이 이루어지고 있다.",
-      "post_count": 15,
-      "sentiment": "negative",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술 제품",
-      "summary": "새로운 기술 제품에 대한 관심이 높아지고 있다. 특히 폴드폰과 갤럭시S27 시리즈에 대한 चर척이 많다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에 관한 내용입니다.",
+      "post_count": 100,
+      "sentiment": "mixed",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전과 응용"
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "정치",
+      "keyword": "이슈",
       "count": 20,
       "sentiment": "negative",
-      "context": "정치 관련된 주제"
-    },
-    {
-      "keyword": "폴드폰",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "새로운 기술 제품"
+      "context": "이슈게시판 관련 글"
     }
   ],
   "sentiment_overview": {
     "positive": 30,
-    "negative": 25,
-    "neutral": 20,
-    "overall_mood": "중립적"
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
-      "action": "AI 기술의 응용을 연구하고 개발해야 한다.",
+      "insight": "커뮤니티 이용자들은 다양한 주제에 관심이 있습니다.",
+      "action": "다양한 주제의 콘텐츠 제공",
       "priority": "high"
     },
     {
-      "insight": "새로운 기술 제품은 소비자의 관심을 끌 수 있다.",
-      "action": "새로운 기술 제품을 개발하고 마케팅해야 한다.",
+      "insight": "이슈게시판 관련 글에 대한 부정적인 반응이 있습니다.",
+      "action": "이슈게시판 관련 글의 품질 개선",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, AI 기술과 정치 관련된 주제가 많이 обсужд되고 있다. AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으며, 새로운 기술 제품은 소비자의 관심을 끌 수 있다. 따라서 AI 기술의 응용을 연구하고 개발해야 하며, 새로운 기술 제품을 개발하고 마케팅해야 한다. 또한, 정치 관련된 주제에 대한 관심이 높아지고 있으므로, 정치 현상에 대한 분석과 비판이 필요하다.",
-  "analyzed_at": "2026-08-12T08:30:34.323Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티의 인기 게시글은 주로 자유게시판과 이슈게시판에 관한 내용입니다. 이용자들은 다양한 주제에 관심이 있으므로 다양한 주제의 콘텐츠를 제공하는 것이 중요합니다. 그러나 이슈게시판 관련 글에 대한 부정적인 반응이 있으므로 관련 글의 품질 개선이 필요합니다. 중립적인 분위기의 커뮤니티이므로 이용자들의 다양한 의견을 수용하고 반영하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-12T10:00:33.753Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
