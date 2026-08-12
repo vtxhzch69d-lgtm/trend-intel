@@ -1,72 +1,98 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 대통령 아파트 근저당으로 악의적인 선동은 하지 맙시다, 연임 개헌 헌법상 위법이에요 등 다양한 정치 관련 주제가 논의되고 있습니다.",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 그에 따른 다양한 산업의 변화",
       "post_count": 15,
-      "sentiment": "negative",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "경제",
-      "summary": "경제 관련 주제도 많은 것으로 나타났습니다. 부동산 올리시는 분들 궁금해서 여쭤봅니다, 세금낼 돈도 없는 주제에 서울 아파트 거주할 생각하지 마세요 등 다양한 경제 관련 주제가 논의되고 있습니다.",
-      "post_count": 8,
+      "topic": "경제 및 재정",
+      "summary": "경제 및 재정 관련 뉴스와 분석",
+      "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "기술",
-      "summary": "기술 관련 주제도 많은 것으로 나타났습니다. 유튜브, 돈 버는 문턱 높인다…쇼츠 1000만회 못 넘으면 수익 중단, 다나와, 생성형 AI 유입 119% 증가 등 다양한 기술 관련 주제가 논의되고 있습니다.",
-      "post_count": 10,
+      "topic": "정치 및 사회",
+      "summary": "정치 및 사회 관련 뉴스와 분석",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "기술 및 과학 관련 뉴스와 분석",
+      "post_count": 7,
       "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "문화 및 예술",
+      "summary": "문화 및 예술 관련 뉴스와 분석",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정치",
+      "keyword": "AI",
       "count": 20,
-      "sentiment": "negative",
-      "context": "정치 관련 뉴스와 논란"
+      "sentiment": "positive",
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "경제",
       "count": 15,
       "sentiment": "neutral",
-      "context": "경제 관련 주제"
+      "context": "경제 및 재정 관련 뉴스"
+    },
+    {
+      "keyword": "정치",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "정치 및 사회 관련 뉴스"
     },
     {
       "keyword": "기술",
-      "count": 12,
+      "count": 10,
       "sentiment": "positive",
-      "context": "기술 관련 주제"
+      "context": "기술 및 과학 관련 뉴스"
+    },
+    {
+      "keyword": "사회",
+      "count": 8,
+      "sentiment": "neutral",
+      "context": "사회 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 40,
-    "overall_mood": "중립적인 분위기"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 많은 것으로 나타났습니다.",
-      "action": "정치 관련 뉴스와 논란을 주시하여 대응해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 이를 활용하여 비즈니스 모델을 개선할 수 있다.",
       "priority": "high"
     },
     {
-      "insight": "경제 관련 주제도 많은 것으로 나타났습니다.",
-      "action": "경제 관련 주제를 주시하여 대응해야 합니다.",
+      "insight": "경제 및 재정 관련 뉴스는 비즈니스에 영향을 미칠 수 있다.",
+      "action": "경제 및 재정 관련 뉴스를 주시하고 이를 활용하여 비즈니스 전략을 수립할 수 있다.",
       "priority": "medium"
     },
     {
-      "insight": "기술 관련 주제가 많은 것으로 나타났습니다.",
-      "action": "기술 관련 주제를 주시하여 대응해야 합니다.",
+      "insight": "정치 및 사회 관련 뉴스는 비즈니스에 영향을 미칠 수 있다.",
+      "action": "정치 및 사회 관련 뉴스를 주시하고 이를 활용하여 비즈니스 전략을 수립할 수 있다.",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 정치 관련 뉴스와 논란이 많은 것으로 나타났습니다. 대통령 아파트 근저당으로 악의적인 선동은 하지 맙시다, 연임 개헌 헌법상 위법이에요 등 다양한 정치 관련 주제가 논의되고 있습니다. 또한 경제 관련 주제도 많은 것으로 나타났습니다. 부동산 올리시는 분들 궁금해서 여쭤봅니다, 세금낼 돈도 없는 주제에 서울 아파트 거주할 생각하지 마세요 등 다양한 경제 관련 주제가 논의되고 있습니다. 기술 관련 주제도 많은 것으로 나타났습니다. 유튜브, 돈 버는 문턱 높인다…쇼츠 1000만회 못 넘으면 수익 중단, 다나와, 생성형 AI 유입 119% 증가 등 다양한 기술 관련 주제가 논의되고 있습니다. 이러한 주제를 주시하여 대응해야 합니다.",
-  "analyzed_at": "2026-08-12T02:30:34.145Z",
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 그에 따른 다양한 산업의 변화가 주목을 끌고 있다. 또한, 경제 및 재정 관련 뉴스와 정치 및 사회 관련 뉴스도 비즈니스에 영향을 미칠 수 있는 중요한 요소로 나타났다. 이러한 트렌드와 키워드를 분석하여 비즈니스 전략을 수립하고, 이를 통해 경쟁력을 높일 수 있을 것이다. 또한, AI 기술의 발전을 주시하고 이를 활용하여 비즈니스 모델을 개선할 수 있다. 이러한 분석 결과를 통해, 비즈니스에 영향을 미치는 다양한 요소를 파악하고, 이를 통해 경쟁력을 높일 수 있는 전략을 수립할 수 있을 것이다.",
+  "analyzed_at": "2026-08-12T04:00:34.235Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
