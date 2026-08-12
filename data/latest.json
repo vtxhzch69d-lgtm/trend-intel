@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "最近의 정치 뉴스와 이슈",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 적용 사례",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "최신 AI 기술과 관련 뉴스",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "부동산 시장",
+      "summary": "부동산 시장의 동향과 政府의 정책",
+      "post_count": 8,
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 시장과 관련 뉴스",
-      "post_count": 8,
+      "topic": "정치",
+      "summary": "정치 관련 뉴스와 의견",
+      "post_count": 10,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 25,
+      "count": 20,
       "sentiment": "positive",
-      "context": "최신 기술"
-    },
-    {
-      "keyword": "정치",
-      "count": 18,
-      "sentiment": "mixed",
-      "context": "最近의 뉴스"
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "부동산",
       "count": 10,
+      "sentiment": "neutral",
+      "context": "부동산 시장의 동향"
+    },
+    {
+      "keyword": "정치",
+      "count": 15,
       "sentiment": "negative",
-      "context": "시장 동향"
+      "context": "정치 관련 뉴스와 의견"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 30,
+    "neutral": 20,
+    "overall_mood": "부정적인 기분이 강함"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "최신 기술을 활용한 비즈니스 모델 개발",
+      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능",
+      "action": "AI 기술의 연구와 개발에 투자",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 변화",
-      "action": "부동산 시장의 동향을 분석하고 대응策 개발",
+      "insight": "부동산 시장의 동향은 政府의 정책에 따라 변동",
+      "action": "부동산 시장의 동향을 주시",
       "priority": "medium"
     },
     {
-      "insight": "정치의 영향",
-      "action": "정치 뉴스와 이슈를 분석하고 비즈니스에 적용",
+      "insight": "정치 관련 뉴스와 의견은 사회적 분위기를 반영",
+      "action": "정치 관련 뉴스와 의견을 분석",
       "priority": "low"
     }
   ],
-  "narrative": "最近의 정치 뉴스와 이슈, AI 기술의 발전, 부동산 시장의 변화 등이 트렌드에 영향을 미치고 있습니다. 이러한 트렌드를 분석하고 비즈니스에 적용하면 최신 기술을 활용한 비즈니스 모델 개발, 부동산 시장의 동향을 분석하고 대응策 개발, 정치 뉴스와 이슈를 분석하고 비즈니스에 적용 등의 기회를 찾을 수 있습니다.",
-  "analyzed_at": "2026-08-12T16:00:33.880Z",
+  "narrative": "최근의 트렌드는 AI 기술의 발전과 부동산 시장의 동향, 정치 관련 뉴스와 의견이 주를 이루고 있습니다. AI 기술의 발전은 다양한 산업에 적용 가능하여 많은 관심을 받고 있습니다. 부동산 시장의 동향은 政府의 정책에 따라 변동하며, 정치 관련 뉴스와 의견은 사회적 분위기를 반영합니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-12T17:30:34.247Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
