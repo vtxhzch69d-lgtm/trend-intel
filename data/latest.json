@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "AI 기술",
-      "summary": "최근 클리앙 커뮤니티에서 AI 기술 관련 게시물이 많아졌습니다. 특히, AI 생성형 텍스트와 영상에 대한 관심이 높아졌습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치",
+      "summary": "김민석과 정청래의 선거 관련 논란, 정치권의 움직임",
+      "post_count": 10,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "주식 시장",
-      "summary": "클리앙 커뮤니티에서 주식 시장 관련 게시물이 많아졌습니다. 특히, 코스닥 ETF와 삼성전자 주식에 대한 관심이 높아졌습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술 개발과 적용, 관련 기업들의 움직임",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "클리언 커뮤니티에서 정치 관련 게시물이 많아졌습니다. 특히, 대통령 지지율과 정치인에 대한 관심이 높아졌습니다.",
+      "topic": "경제",
+      "summary": "경제 관련 뉴스, 기업들의 움직임과 정부 정책",
       "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 20,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 게시물에서 많이 언급되었습니다."
-    },
-    {
-      "keyword": "주식",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "주식 시장과 관련된 게시물에서 많이 언급되었습니다."
-    },
-    {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "김민석",
+      "count": 5,
       "sentiment": "negative",
-      "context": "정치와 관련된 게시물에서 많이 언급되었습니다."
+      "context": "정치권의 논란"
+    },
+    {
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술 개발"
+    },
+    {
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 45,
-    "overall_mood": "중립적인 분위기이지만, 일부에서는 부정적인 감정도 존재합니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전",
-      "action": "AI 기술을 활용한 새로운 비즈니스 모델 개발",
+      "insight": "최신 AI 기술 개발",
+      "action": "투자와 연구 개발",
       "priority": "high"
     },
     {
-      "insight": "주식 시장의 변동",
-      "action": "주식 시장의 변동에 대응하는 투자 전략 개발",
+      "insight": "경제 관련 뉴스",
+      "action": "시장 분석과 전략 수립",
       "priority": "medium"
     },
     {
-      "insight": "정치적 불안정성",
-      "action": "정치적 불안정성에 대응하는 비즈니스 전략 개발",
+      "insight": "정치권의 움직임",
+      "action": "정책 분석과 대응 전략",
       "priority": "low"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 AI 기술, 주식 시장, 정치 등 다양한 주제의 게시물이 많아졌습니다. 이러한 게시물들은 클리앙 커뮤니티 사용자의 관심사와 우려를 반영하며, 이를 통해 비즈니스 인사이트를 얻을 수 있습니다. 특히, AI 기술의 발전과 주식 시장의 변동은 비즈니스 전략 개발에 중요한 요소입니다. 따라서, 이러한 주제에 대한 관심과 분석을 통해 비즈니스 기회를 찾고, 위험을 관리할 수 있습니다.",
-  "analyzed_at": "2026-08-12T05:30:34.220Z",
-  "post_count": 60,
+  "narrative": "최근의 트렌드는 정치와 AI 기술 개발에 관한 논란과 움직임이 주를 이루고 있습니다. 경제 관련 뉴스도 중요한 역할을 하고 있지만, 정치권의 움직임과 최신 기술 개발이 더 많은 관심을 받고 있습니다. 이러한 트렌드는 기업과 정부에게 중요한 시사점을 제공하며, 시장 분석과 전략 수립, 정책 분석과 대응 전략 등의 액션을 요구합니다.",
+  "analyzed_at": "2026-08-12T07:00:34.081Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
