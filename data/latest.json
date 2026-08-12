@@ -2,21 +2,21 @@
   "trending_topics": [
     {
       "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 적용 사례",
+      "summary": "AI 기술의 발전과 응용에 대한 관심이 높아지고 있다. 다양한 산업에서 AI의 활용이 증가하고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "부동산 시장",
-      "summary": "부동산 시장의 동향과 政府의 정책",
+      "summary": "부동산 시장의 상황과 정부의 정책에 대한 논의가 활발하다. 서울과 경기 외 지역의 부동산 가격에 대한 관심이 높다.",
       "post_count": 8,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
       "topic": "정치",
-      "summary": "정치 관련 뉴스와 의견",
+      "summary": "정치 관련 뉴스와 논평이 많다. 민주당과 정부의 정책에 대한 평가와 비판이 있다.",
       "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
@@ -27,46 +27,41 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "context": "AI 기술의 발전과 응용"
     },
     {
       "keyword": "부동산",
       "count": 10,
       "sentiment": "neutral",
-      "context": "부동산 시장의 동향"
+      "context": "부동산 시장의 상황과 정부의 정책"
     },
     {
       "keyword": "정치",
       "count": 15,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스와 의견"
+      "context": "정치 관련 뉴스와 논평"
     }
   ],
   "sentiment_overview": {
     "positive": 25,
     "negative": 30,
     "neutral": 20,
-    "overall_mood": "부정적인 기분이 강함"
+    "overall_mood": "부정적인 감정이 더 강한 것으로 나타났다."
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 다양한 산업에 적용 가능",
-      "action": "AI 기술의 연구와 개발에 투자",
+      "insight": "AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있다.",
+      "action": "AI 기술의 발전을 주시하고 이를 활용할 수 있는 방안을 모색한다.",
       "priority": "high"
     },
     {
-      "insight": "부동산 시장의 동향은 政府의 정책에 따라 변동",
-      "action": "부동산 시장의 동향을 주시",
+      "insight": "부동산 시장의 상황은 정부의 정책과 경제 상황에 따라 변할 수 있다.",
+      "action": "부동산 시장의 상황을 주시하고 정부의 정책에 대한 반응을 준비한다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련 뉴스와 의견은 사회적 분위기를 반영",
-      "action": "정치 관련 뉴스와 의견을 분석",
-      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 AI 기술의 발전과 부동산 시장의 동향, 정치 관련 뉴스와 의견이 주를 이루고 있습니다. AI 기술의 발전은 다양한 산업에 적용 가능하여 많은 관심을 받고 있습니다. 부동산 시장의 동향은 政府의 정책에 따라 변동하며, 정치 관련 뉴스와 의견은 사회적 분위기를 반영합니다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-08-12T17:30:34.247Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, AI 기술과 부동산 시장, 정치 등이 주요 관심사로 나타났다. AI 기술의 발전은 다양한 산업에서 새로운 기회를 창출할 수 있지만, 부동산 시장의 상황은 정부의 정책과 경제 상황에 따라 변할 수 있다. 정치 관련 뉴스와 논평은 부정적인 감정을 자극하는 경우가 많다. 이러한 트렌드와 키워드를 고려하여 마케팅 전략을 수립할 수 있다.",
+  "analyzed_at": "2026-08-12T19:01:30.714Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
