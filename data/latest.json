@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "내각제",
-      "summary": "내각제에 대한 논의가 클리앙 커뮤니티에서 활발하게 진행되고 있다. 일부 사용자는 내각제의 장점을 언급하며, 다른 사용자는 내각제의 단점과 위험성을 지적하고 있다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "AI 및 기술",
+      "summary": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다. 특히, GPT와 같은 AI 모델의 종료 문제 및 사이버 정책에 대한 논의가 활발합니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 기술의 발전과 관련된 뉴스와 논의가 클리앙 커뮤니티에서 많이 진행되고 있다. 사용자들은 AI의 잠재적 응용과 위험성에 대해 논의하고 있다.",
-      "post_count": 10,
-      "sentiment": "positive",
+      "topic": "경제 및 정치",
+      "summary": "경제 및 정치 관련 뉴스와 논의가 많습니다. 특히, 청년주택청약 비과세 폐지와 관련된 뉴스가 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련 뉴스와 논의가 클리앙 커뮤니티에서 진행되고 있다. 사용자들은 정치 현안과 정책에 대해 논의하고 있다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "엔터테인먼트",
+      "summary": "엔터테인먼트 관련 콘텐츠가 많습니다. 특히, 아이돌과 관련된 뉴스와 영상이 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "내각제",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "내각제에 대한 논의"
-    },
-    {
       "keyword": "AI",
       "count": 15,
-      "sentiment": "positive",
-      "context": "AI 기술의 발전"
+      "sentiment": "neutral",
+      "context": "AI와 관련된 기술 및 제품에 대한 관심"
     },
     {
-      "keyword": "정치",
-      "count": 10,
+      "keyword": "GPT",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "GPT와 같은 AI 모델의 종료 문제 및 사이버 정책"
+    },
+    {
+      "keyword": "경제",
+      "count": 8,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스와 논의"
+      "context": "경제 관련 뉴스와 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 30,
+    "neutral": 20,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "내각제에 대한 논의가 증가하고 있다.",
-      "action": "내각제에 대한教育과 홍보를 강화할 필요가 있다.",
-      "priority": "medium"
-    },
-    {
-      "insight": "AI 기술의 발전이 가속화되고 있다.",
-      "action": "AI 기술의 응용과 개발을 강화할 필요가 있다.",
+      "insight": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다.",
+      "action": "AI와 관련된 제품 및 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 논의가 증가하고 있다.",
-      "action": "정치 현안과 정책에 대한 교육과 홍보를 강화할 필요가 있다.",
+      "insight": "경제 및 정치 관련 뉴스와 논의가 많습니다.",
+      "action": "경제 및 정치 관련 뉴스와 논의에 대한 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 내각제, AI, 정치 등 다양한 주제에 대한 논의가 진행되고 있다. 내각제에 대한 논의는 증가하고 있으며, AI 기술의 발전은 가속화되고 있다. 정치 관련 뉴스와 논의도 증가하고 있다. 이러한 주제에 대한 교육과 홍보를 강화할 필요가 있다. 또한, 클리앙 커뮤니티의 사용자들은 다양한 주제에 대해 열린 마음으로 논의하고 있으며, 이러한 논의는 사회와 정치에 대한 이해를 높이는 데 기여할 수 있다.",
-  "analyzed_at": "2026-08-13T15:01:33.955Z",
+  "narrative": "현재의 트렌드는 AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다. 특히, GPT와 같은 AI 모델의 종료 문제 및 사이버 정책에 대한 논의가 활발합니다. 또한, 경제 및 정치 관련 뉴스와 논의가 많습니다. 이러한 트렌드를 분석하여 AI와 관련된 제품 및 서비스 개발 및 경제 및 정치 관련 뉴스와 논의에 대한 분석을 통해 사업적 기회를 찾을 수 있습니다.",
+  "analyzed_at": "2026-08-13T16:30:34.804Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
