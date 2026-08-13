@@ -2,24 +2,31 @@
   "trending_topics": [
     {
       "topic": "AI 및 기술",
-      "summary": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다. 특히, 구글의 픽셀 태그 출시와 네이버의 AI 수출 등이 주목을 받고 있습니다.",
+      "summary": "AI 기술의 발전과 그应用에 대한 관심이 높아지고 있다.",
       "post_count": 15,
       "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제 및 산업",
-      "summary": "경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 현대차의 로봇 개발과 LG이노텍의 로봇 눈 양산 등이 주목을 받고 있습니다.",
+      "summary": "경제 및 산업 관련 뉴스와 분석이 많다.",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
       "topic": "사회 및 정치",
-      "summary": "사회 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 교회 어린이 사망사건과 대리투표 의혹 등이 주목을 받고 있습니다.",
+      "summary": "사회 및 정치 관련 뉴스와 의견이 다양하다.",
       "post_count": 8,
-      "sentiment": "negative",
+      "sentiment": "mixed",
       "urgency": "high"
+    },
+    {
+      "topic": "문화 및 엔터테인먼트",
+      "summary": "문화 및 엔터테인먼트 관련 뉴스와 정보가 있다.",
+      "post_count": 5,
+      "sentiment": "positive",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,46 +34,52 @@
       "keyword": "AI",
       "count": 20,
       "sentiment": "positive",
-      "context": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다."
+      "context": "AI 기술의 발전"
     },
     {
       "keyword": "경제",
       "count": 10,
       "sentiment": "neutral",
-      "context": "경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있습니다."
+      "context": "경제 관련 뉴스"
     },
     {
       "keyword": "정치",
       "count": 8,
-      "sentiment": "negative",
-      "context": "사회 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다."
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스"
+    },
+    {
+      "keyword": "테슬라",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "테슬라 관련 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 25,
+    "negative": 10,
+    "neutral": 20,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다.",
-      "action": "AI와 관련된 기술 및 제품에 대한 마케팅 및 광고를 강화해야 합니다.",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있다.",
+      "action": "AI 기술의 적용을 고려하자",
       "priority": "high"
     },
     {
-      "insight": "경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있습니다.",
-      "action": "경제 및 산업 관련 뉴스에 대한 마케팅 및 광고를 강화해야 합니다.",
+      "insight": "경제 및 산업 관련 뉴스와 분석은 중요한 의사결정에 영향을 미칠 수 있다.",
+      "action": "경제 및 산업 관련 뉴스를 주시하자",
       "priority": "medium"
     },
     {
-      "insight": "사회 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다.",
-      "action": "사회 및 정치 관련 뉴스에 대한 마케팅 및 광고를 강화해야 합니다.",
+      "insight": "사회 및 정치 관련 뉴스와 의견은 다양한 관점을 제공할 수 있다.",
+      "action": "사회 및 정치 관련 뉴스를 주시하자",
       "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다. 특히, 구글의 픽셀 태그 출시와 네이버의 AI 수출 등이 주목을 받고 있습니다. 또한, 경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 현대차의 로봇 개발과 LG이노텍의 로봇 눈 양산 등이 주목을 받고 있습니다. 그러나, 사회 및 정치 관련 뉴스에 대한 관심도 높아지고 있습니다. 특히, 교회 어린이 사망사건과 대리투표 의혹 등이 주목을 받고 있습니다. 따라서, 마케터는 이러한 트렌드를 고려하여 마케팅 및 광고 전략을 수립해야 합니다.",
-  "analyzed_at": "2026-08-13T18:00:34.348Z",
+  "narrative": "현재의 트렌드는 AI 기술의 발전과 경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있다. 또한 사회 및 정치 관련 뉴스와 의견도 다양하다. 이러한 트렌드를 고려하여 사업 전략을 수립하고 의사결정에 반영하는 것이 중요하다. 특히 AI 기술의 발전은 다양한 산업에 영향을 미칠 수 있으므로 이를 고려하여 사업 전략을 수립하는 것이 필요하다.",
+  "analyzed_at": "2026-08-13T19:30:34.085Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
