@@ -1,68 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산 정책",
-      "summary": "정부의 부동산 정책에 대한 논의가 활발하게 진행되고 있습니다. 특히, 청년 비아파트 매매대책과 공공임대 공급에 대한 의견이 분분합니다.",
-      "post_count": 10,
+      "topic": "이재명 대통령",
+      "summary": "이재명 대통령에 대한 다양한 의견과 반응",
+      "post_count": 5,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "스타벅스 마케팅",
-      "summary": "스타벅스의 마케팅 전략에 대한 논의가 진행되고 있습니다. 특히, '탱크데이' 마케팅에 대한 반응이 두고두고 논란이 되고 있습니다.",
-      "post_count": 3,
+      "topic": "수능 논술",
+      "summary": "수능 논술 도입에 대한 의견과 반응",
+      "post_count": 4,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "high"
     },
     {
-      "topic": "AI 기술",
-      "summary": "AI 기술에 대한 논의가 활발하게 진행되고 있습니다. 특히, 네이버의 AI 데이터센터 개발과 구글의 AI 칩 개발에 대한 관심이 집중되고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "부동산",
+      "summary": "부동산 가격과 정책에 대한 의견과 반응",
+      "post_count": 3,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "부동산 정책과 관련된 키워드"
+      "keyword": "이재명",
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "이재명 대통령에 대한 의견과 반응"
     },
     {
-      "keyword": "스타벅스",
+      "keyword": "수능",
+      "count": 4,
+      "sentiment": "negative",
+      "context": "수능 논술 도입에 대한 의견과 반응"
+    },
+    {
+      "keyword": "부동산",
       "count": 3,
       "sentiment": "negative",
-      "context": "스타벅스의 마케팅 전략에 대한 키워드"
-    },
-    {
-      "keyword": "AI",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "AI 기술과 관련된 키워드"
+      "context": "부동산 가격과 정책에 대한 의견과 반응"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
+    "positive": 10,
+    "negative": 20,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "부정적인 반응이 많지만 중립적인 의견도 존재"
   },
   "business_insights": [
     {
-      "insight": "부동산 정책에 대한 관심이 높아지고 있습니다.",
-      "action": "부동산 정책에 대한 분석을 진행하여 고객의 니즈를 파악해야 합니다.",
+      "insight": "이재명 대통령에 대한 의견과 반응을 분석하여 정치적 트렌드를 파악",
+      "action": "정치적 트렌드에 대한 분석 보고서 작성",
       "priority": "high"
     },
     {
-      "insight": "AI 기술에 대한 관심이 높아지고 있습니다.",
-      "action": "AI 기술에 대한 투자를 고려하여 고객의 니즈를 충족해야 합니다.",
+      "insight": "수능 논술 도입에 대한 의견과 반응을 분석하여 교육 정책에 대한 트렌드를 파악",
+      "action": "교육 정책에 대한 분석 보고서 작성",
       "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 부동산 정책과 AI 기술에 대한 관심이 높아지고 있습니다. 특히, 청년 비아파트 매매대책과 공공임대 공급에 대한 의견이 분분합니다. 또한, 스타벅스의 마케팅 전략에 대한 반응이 두고두고 논란이 되고 있습니다. 이러한 트렌드를 고려하여 고객의 니즈를 파악하고, 적절한 마케팅 전략을 수립해야 합니다. 또한, AI 기술에 대한 투자를 고려하여 고객의 니즈를 충족해야 합니다.",
-  "analyzed_at": "2026-08-13T09:01:29.132Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드는 이재명 대통령과 수능 논술, 부동산 가격과 정책에 대한 의견과 반응이 주를 이루고 있습니다. 이재명 대통령에 대한 의견과 반응은混合적인 반응을 보이고 있으며, 수능 논술 도입에 대한 의견과 반응은 부정적인 반응이 많습니다. 부동산 가격과 정책에 대한 의견과 반응도 부정적인 반응이 많습니다. 이러한 트렌드를 분석하여 정치적 트렌드와 교육 정책에 대한 트렌드를 파악할 수 있습니다.",
+  "analyzed_at": "2026-08-13T10:30:34.407Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
