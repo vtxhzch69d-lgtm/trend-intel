@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "AI 및 기술",
-      "summary": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다. 특히, GPT와 같은 AI 모델의 종료 문제 및 사이버 정책에 대한 논의가 활발합니다.",
+      "summary": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다. 특히, 구글의 픽셀 태그 출시와 네이버의 AI 수출 등이 주목을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "경제 및 산업",
+      "summary": "경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 현대차의 로봇 개발과 LG이노텍의 로봇 눈 양산 등이 주목을 받고 있습니다.",
       "post_count": 10,
       "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 정치",
-      "summary": "경제 및 정치 관련 뉴스와 논의가 많습니다. 특히, 청년주택청약 비과세 폐지와 관련된 뉴스가 있습니다.",
+      "topic": "사회 및 정치",
+      "summary": "사회 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 교회 어린이 사망사건과 대리투표 의혹 등이 주목을 받고 있습니다.",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
-    },
-    {
-      "topic": "엔터테인먼트",
-      "summary": "엔터테인먼트 관련 콘텐츠가 많습니다. 특히, 아이돌과 관련된 뉴스와 영상이 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "AI",
-      "count": 15,
-      "sentiment": "neutral",
-      "context": "AI와 관련된 기술 및 제품에 대한 관심"
-    },
-    {
-      "keyword": "GPT",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "GPT와 같은 AI 모델의 종료 문제 및 사이버 정책"
+      "count": 20,
+      "sentiment": "positive",
+      "context": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다."
     },
     {
       "keyword": "경제",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있습니다."
+    },
+    {
+      "keyword": "정치",
       "count": 8,
       "sentiment": "negative",
-      "context": "경제 관련 뉴스와 논의"
+      "context": "사회 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 15,
-    "neutral": 20,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
       "insight": "AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다.",
-      "action": "AI와 관련된 제품 및 서비스 개발",
+      "action": "AI와 관련된 기술 및 제품에 대한 마케팅 및 광고를 강화해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "경제 및 정치 관련 뉴스와 논의가 많습니다.",
-      "action": "경제 및 정치 관련 뉴스와 논의에 대한 분석",
+      "insight": "경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있습니다.",
+      "action": "경제 및 산업 관련 뉴스에 대한 마케팅 및 광고를 강화해야 합니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 및 정치 관련 뉴스에 대한 관심이 높아지고 있습니다.",
+      "action": "사회 및 정치 관련 뉴스에 대한 마케팅 및 광고를 강화해야 합니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "현재의 트렌드는 AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다. 특히, GPT와 같은 AI 모델의 종료 문제 및 사이버 정책에 대한 논의가 활발합니다. 또한, 경제 및 정치 관련 뉴스와 논의가 많습니다. 이러한 트렌드를 분석하여 AI와 관련된 제품 및 서비스 개발 및 경제 및 정치 관련 뉴스와 논의에 대한 분석을 통해 사업적 기회를 찾을 수 있습니다.",
-  "analyzed_at": "2026-08-13T16:30:34.804Z",
+  "narrative": "현재의 트렌드는 AI와 관련된 기술 및 제품에 대한 관심이 높아지고 있습니다. 특히, 구글의 픽셀 태그 출시와 네이버의 AI 수출 등이 주목을 받고 있습니다. 또한, 경제 및 산업 관련 뉴스에 대한 관심이 높아지고 있습니다. 특히, 현대차의 로봇 개발과 LG이노텍의 로봇 눈 양산 등이 주목을 받고 있습니다. 그러나, 사회 및 정치 관련 뉴스에 대한 관심도 높아지고 있습니다. 특히, 교회 어린이 사망사건과 대리투표 의혹 등이 주목을 받고 있습니다. 따라서, 마케터는 이러한 트렌드를 고려하여 마케팅 및 광고 전략을 수립해야 합니다.",
+  "analyzed_at": "2026-08-13T18:00:34.348Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
