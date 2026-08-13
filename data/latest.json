@@ -1,67 +1,54 @@
 {
   "trending_topics": [
     {
-      "topic": "이재명 대통령",
-      "summary": "이재명 대통령에 대한 다양한 의견과 반응",
-      "post_count": 5,
+      "topic": "정치",
+      "summary": "클리앙 커뮤니티에서 정치 관련 게시글이 많이 등장하고 있습니다. 내각제, 대통령 직선제, 정당 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "수능 논술",
-      "summary": "수능 논술 도입에 대한 의견과 반응",
-      "post_count": 4,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "클리앙 커뮤니티에서 기술 관련 게시글이 많이 등장하고 있습니다. AI, 로봇, 전기차 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
-    },
-    {
-      "topic": "부동산",
-      "summary": "부동산 가격과 정책에 대한 의견과 반응",
-      "post_count": 3,
-      "sentiment": "negative",
-      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 7,
-      "sentiment": "mixed",
-      "context": "이재명 대통령에 대한 의견과 반응"
+      "keyword": "내각제",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "내각제에 대한 비판적인 의견이 많습니다."
     },
     {
-      "keyword": "수능",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "수능 논술 도입에 대한 의견과 반응"
-    },
-    {
-      "keyword": "부동산",
-      "count": 3,
-      "sentiment": "negative",
-      "context": "부동산 가격과 정책에 대한 의견과 반응"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "AI 기술에 대한 관심과 기대가 높습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "부정적인 반응이 많지만 중립적인 의견도 존재"
+    "positive": 25,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "클리앙 커뮤니티의 전체적인 분위기는 중립적이지만, 기술 관련 주제에 대한 긍정적인 의견이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "이재명 대통령에 대한 의견과 반응을 분석하여 정치적 트렌드를 파악",
-      "action": "정치적 트렌드에 대한 분석 보고서 작성",
-      "priority": "high"
+      "insight": "클리앙 커뮤니티에서 정치 관련 주제가 많이 논의되고 있습니다. 따라서, 정치 관련 제품이나 서비스를 제공하는 기업은 이 커뮤니티를 타겟으로 하는 것이 좋습니다.",
+      "action": "클리앙 커뮤니티에서 정치 관련 주제를 모니터링하고, 이를 기반으로 마케팅 전략을 수립하세요.",
+      "priority": "medium"
     },
     {
-      "insight": "수능 논술 도입에 대한 의견과 반응을 분석하여 교육 정책에 대한 트렌드를 파악",
-      "action": "교육 정책에 대한 분석 보고서 작성",
-      "priority": "medium"
+      "insight": "클리앙 커뮤니티에서 기술 관련 주제가 많이 논의되고 있습니다. 따라서, 기술 관련 제품이나 서비스를 제공하는 기업은 이 커뮤니티를 타겟으로 하는 것이 좋습니다.",
+      "action": "클리앙 커뮤니티에서 기술 관련 주제를 모니터링하고, 이를 기반으로 마케팅 전략을 수립하세요.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 이재명 대통령과 수능 논술, 부동산 가격과 정책에 대한 의견과 반응이 주를 이루고 있습니다. 이재명 대통령에 대한 의견과 반응은混合적인 반응을 보이고 있으며, 수능 논술 도입에 대한 의견과 반응은 부정적인 반응이 많습니다. 부동산 가격과 정책에 대한 의견과 반응도 부정적인 반응이 많습니다. 이러한 트렌드를 분석하여 정치적 트렌드와 교육 정책에 대한 트렌드를 파악할 수 있습니다.",
-  "analyzed_at": "2026-08-13T10:30:34.407Z",
+  "narrative": "클리앙 커뮤니티는 정치와 기술 관련 주제가 많이 논의되는 공간입니다. 따라서, 이러한 주제에 대한 관심과 기대를 이해하는 것이 중요합니다. 클리앙 커뮤니티에서 정치 관련 주제는 중립적인 의견이 많지만, 기술 관련 주제는 긍정적인 의견이 많습니다. 따라서, 정치 관련 제품이나 서비스를 제공하는 기업은 이 커뮤니티를 타겟으로 하는 것이 좋으며, 기술 관련 제품이나 서비스를 제공하는 기업은 이 커뮤니티에서 기술 관련 주제를 모니터링하고, 이를 기반으로 마케팅 전략을 수립하는 것이 좋습니다.",
+  "analyzed_at": "2026-08-13T12:00:35.057Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
