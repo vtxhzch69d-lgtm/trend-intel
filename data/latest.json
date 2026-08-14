@@ -2,66 +2,77 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명에 대한 논의와 정치적 상황에 대한 관심이 높다.",
-      "post_count": 15,
+      "summary": "정청래 지지 이유, 이재명 심판 선거 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "기술",
-      "summary": "최신 기술 뉴스와 제품 출시에 대한 관심이 높다.",
+      "summary": "최신 기술 뉴스와 트렌드, 특히 AI와 스마트폰 관련 주제가 많은 관심을 받고 있습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
       "topic": "사회",
-      "summary": "사회적 문제와 논의에 대한 관심이 높다.",
-      "post_count": 10,
+      "summary": "임대주택, 세대 갈라치기, 공원 아파트 등 사회 관련 주제가 논쟁을 일으키고 있습니다.",
+      "post_count": 8,
       "sentiment": "negative",
-      "urgency": "low"
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
+      "keyword": "정청래",
+      "count": 5,
+      "sentiment": "positive",
+      "context": "정치 관련 주제"
+    },
+    {
       "keyword": "이재명",
-      "count": 10,
+      "count": 4,
       "sentiment": "negative",
-      "context": "정치적 상황에 대한 논의"
+      "context": "정치 관련 주제"
     },
     {
       "keyword": "AI",
-      "count": 5,
+      "count": 6,
       "sentiment": "positive",
-      "context": "최신 기술 뉴스"
+      "context": "기술 관련 주제"
     },
     {
-      "keyword": "스마트폰",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "최신 기술 뉴스"
+      "keyword": "임대주택",
+      "count": 3,
+      "sentiment": "negative",
+      "context": "사회 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "positive": 25,
+    "negative": 20,
+    "neutral": 15,
     "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치적 상황에 대한 관심이 높아지고 있다.",
-      "action": "정치적 상황에 대한 분석을 강화해야 한다.",
+      "insight": "정치 관련 주제가 많은 관심을 받고 있으므로, 관련된 마케팅 전략을 수립할 필요가 있습니다.",
+      "action": "정치 관련 주제에 대한 마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스에 대한 관심이 높아지고 있다.",
-      "action": "최신 기술 뉴스에 대한 분석을 강화해야 한다.",
+      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높으므로, 기술 관련 주제에 대한 콘텐츠를 생성할 필요가 있습니다.",
+      "action": "기술 관련 콘텐츠 생성",
       "priority": "medium"
+    },
+    {
+      "insight": "사회 관련 주제가 논쟁을 일으키고 있으므로, 관련된 마케팅 전략을 수립할 필요가 있습니다.",
+      "action": "사회 관련 주제에 대한 마케팅 전략 수립",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드는 정치적 상황과 최신 기술 뉴스에 대한 관심이 높아지고 있다. 정치적 상황에 대한 논의는 매우 활발하며, 최신 기술 뉴스에 대한 관심도 높아지고 있다. 이러한 트렌드는 기업과 마케터에게 새로운 기회와 도전을 제공한다. 따라서, 이러한 트렌드에 대한 분석과 이해가 필요하다.",
-  "analyzed_at": "2026-08-14T20:31:22.924Z",
+  "narrative": "현재의 트렌드는 정치, 기술, 사회 관련 주제가 많은 관심을 받고 있습니다. 특히 정치 관련 주제는 정청래와 이재명에 대한 관심이 높으며, 기술 관련 주제는 AI와 스마트폰 관련 뉴스가 많은 관심을 받고 있습니다. 사회 관련 주제는 임대주택과 세대 갈라치기 등이 논쟁을 일으키고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 필요가 있습니다. 또한, 기술 관련 콘텐츠를 생성하여 최신 기술 뉴스와 트렌드에 대한 관심을满足할 수 있습니다.",
+  "analyzed_at": "2026-08-14T22:00:34.249Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
