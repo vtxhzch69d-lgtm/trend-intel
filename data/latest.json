@@ -1,44 +1,70 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판입니다.",
-      "post_count": 1000,
+      "topic": "정치 및 사회",
+      "summary": "최근 클리앙 커뮤니티에서 정치 및 사회 관련 주제가 많이 обсужд되고 있습니다. 특히 개헌과 정치인에 대한 논의가 활발합니다.",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "기술 및 과학",
+      "summary": "클리앙 커뮤니티에서 기술 및 과학 관련 주제도 많이 обсужд되고 있습니다. 특히 AI, 로봇, 전기차 등에 대한 논의가 활발합니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 주제도 클리앙 커뮤니티에서 많이 обсужд되고 있습니다. 특히 기업 뉴스와 경제 정책에 대한 논의가 활발합니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 500,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "개헌",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "클리앙 커뮤니티에서 개헌에 대한 반대 의견이 많습니다."
     },
     {
-      "keyword": "이슈",
-      "count": 200,
-      "sentiment": "negative",
-      "context": "이슈게시판 주제"
+      "keyword": "AI",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "클리앙 커뮤니티에서 AI 기술에 대한 관심이 많습니다."
+    },
+    {
+      "keyword": "로봇",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "클리언 커뮤니티에서 로봇 기술에 대한 관심이 많습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 300,
-    "negative": 400,
-    "neutral": 300,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 10,
+    "overall_mood": "클리앙 커뮤니티의 전체적인 분위기는 중립적이지만, 일부 주제에 대한 부정적인 의견이 많습니다."
   },
   "business_insights": [
     {
-      "insight": "뽐뿌 커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립할 수 있습니다.",
-      "action": "마케팅 전략 수립",
+      "insight": "클리앙 커뮤니티에서 기술 및 과학 관련 주제에 대한 관심이 많습니다.",
+      "action": "기술 및 과학 관련 콘텐츠를 제공하여 클리앙 커뮤니티와의 상호 작용을 증가시킵니다.",
       "priority": "high"
+    },
+    {
+      "insight": "클리앙 커뮤니티에서 경제 관련 주제에 대한 논의가 활발합니다.",
+      "action": "경제 관련 뉴스와 정보를 제공하여 클리앙 커뮤니티와의 상호 작용을 증가시킵니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 다양한 주제의 게시글이 존재하지만, 이슈게시판이 가장 인기 있습니다. 마케터는 이러한 트렌드를 분석하여 타겟 고객에게 효과적인 마케팅 전략을 수립할 수 있습니다. 또한, 커뮤니티의 분위기를 중립적이지만 약간 부정적인 것으로 분석되므로, 마케팅 전략에 이를 고려해야 합니다.",
-  "analyzed_at": "2026-08-14T11:30:34.017Z",
-  "post_count": 2,
+  "narrative": "클리앙 커뮤니티는 다양한 주제에 대한 논의가 활발하게 진행되고 있습니다. 특히 정치 및 사회, 기술 및 과학, 경제 관련 주제에 대한 관심이 많습니다. 클리앙 커뮤니티의 전체적인 분위기는 중립적이지만, 일부 주제에 대한 부정적인 의견이 많습니다. 기술 및 과학 관련 주제에 대한 관심이 많기 때문에, 기술 및 과학 관련 콘텐츠를 제공하여 클리앙 커뮤니티와의 상호 작용을 증가시킬 수 있습니다. 또한, 경제 관련 뉴스와 정보를 제공하여 클리앙 커뮤니티와의 상호 작용을 증가시킬 수 있습니다.",
+  "analyzed_at": "2026-08-14T13:01:30.376Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
