@@ -2,8 +2,8 @@
   "trending_topics": [
     {
       "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판을 중심으로 나타남",
-      "post_count": 100,
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판입니다.",
+      "post_count": 1000,
       "sentiment": "mixed",
       "urgency": "medium"
     }
@@ -11,37 +11,32 @@
   "keywords": [
     {
       "keyword": "뽐뿌",
-      "count": 50,
+      "count": 500,
       "sentiment": "neutral",
       "context": "커뮤니티 이름"
     },
     {
       "keyword": "이슈",
-      "count": 20,
+      "count": 200,
       "sentiment": "negative",
-      "context": "이슈게시판 관련 글"
+      "context": "이슈게시판 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됨"
+    "positive": 300,
+    "negative": 400,
+    "neutral": 300,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "커뮤니티 이용자들은 다양한 주제에 관심이 있음",
-      "action": "다양한 주제의 콘텐츠 제공",
+      "insight": "뽐뿌 커뮤니티에서 인기 있는 주제를 분석하여 마케팅 전략을 수립할 수 있습니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
-    },
-    {
-      "insight": "이슈게시판 관련 글들이 부정적인 감정을 유발함",
-      "action": "이슈게시판 글들의 감정 분석 및 대응 전략 수립",
-      "priority": "medium"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티의 인기 게시글은 주로 자유게시판과 이슈게시판을 중심으로 나타남. 이용자들은 다양한 주제에 관심이 있지만, 이슈게시판 관련 글들은 부정적인 감정을 유발함. 이를 위해 다양한 주제의 콘텐츠 제공 및 이슈게시판 글들의 감정 분석 및 대응 전략 수립이 필요함. 또한, 커뮤니티 이용자들의 감정 분석을 통해 중립적이지만 약간 부정적인 기운이 감지됨. 이는 마케팅 전략 수립 시 참고할 수 있는 중요한 정보임.",
-  "analyzed_at": "2026-08-14T10:30:33.996Z",
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제의 게시글이 존재하지만, 이슈게시판이 가장 인기 있습니다. 마케터는 이러한 트렌드를 분석하여 타겟 고객에게 효과적인 마케팅 전략을 수립할 수 있습니다. 또한, 커뮤니티의 분위기를 중립적이지만 약간 부정적인 것으로 분석되므로, 마케팅 전략에 이를 고려해야 합니다.",
+  "analyzed_at": "2026-08-14T11:30:34.017Z",
   "post_count": 2,
   "sources": [
     "ppomppu"
