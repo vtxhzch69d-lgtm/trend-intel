@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 관련 뉴스와 의견이 많습니다. 대통령 지지율, 개헌, 정치적 이슈 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 15,
+      "summary": "이재명 정부의 정책 방향을 지지하는 글과 반대하는 글들이 많이 올라왔습니다.",
+      "post_count": 10,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 관련 뉴스와 제품 출시가 많습니다. AI, 5G, 스마트폰, 로봇 등 다양한 기술이 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
+      "topic": "경제",
+      "summary": "서울 집값이 독일에서 제일 비싼 뮌헨 집값이랑 같다는 글과 관련된 경제 뉴스가 많이 올라왔습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "사회 관련 뉴스와 의견이 많습니다. 독립운동가, 광복절, 교육 등 다양한 주제가 논의되고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "기술",
+      "summary": "신규 스마트폰과 전기차 관련 뉴스가 많이 올라왔습니다.",
+      "post_count": 12,
+      "sentiment": "positive",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "대통령",
-      "count": 10,
+      "keyword": "이재명",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정부의 정책 방향을 지지 또는 반대하는 글"
+    },
+    {
+      "keyword": "서울 집값",
+      "count": 8,
       "sentiment": "negative",
-      "context": "대통령 지지율과 정치적 이슈 관련"
+      "context": "서울 집값이 독일에서 제일 비싼 뮌헨 집값이랑 같다는 글"
     },
     {
-      "keyword": "AI",
-      "count": 5,
+      "keyword": "전기차",
+      "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술과 제품 출시 관련"
-    },
-    {
-      "keyword": "독립운동가",
-      "count": 3,
-      "sentiment": "positive",
-      "context": "광복절과 독립운동가 관련"
+      "context": "신규 전기차 모델과 관련된 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
+    "positive": 20,
+    "negative": 25,
     "neutral": 30,
-    "overall_mood": "중립적"
+    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술과 제품 출시가 많아 기술 관련 비즈니스 기회가 많습니다.",
-      "action": "기술 관련 비즈니스 기회를 탐색",
+      "insight": "정부의 정책 방향을 지지하는 고객을 타겟으로 하는 마케팅 전략을 수립해야 합니다.",
+      "action": "마케팅 전략 수립",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견이 많아 정치 관련 비즈니스 기회가 있습니다.",
-      "action": "정치 관련 비즈니스 기회를 탐색",
+      "insight": "서울 집값과 관련된 경제 뉴스를 주시하여 시장 동향을 파악해야 합니다.",
+      "action": "시장 동향 분석",
+      "priority": "medium"
+    },
+    {
+      "insight": "신규 스마트폰과 전기차 모델을 주시하여 기술 동향을 파악해야 합니다.",
+      "action": "기술 동향 분석",
       "priority": "medium"
     }
   ],
-  "narrative": "最近의 정치 관련 뉴스와 의견이 많습니다. 대통령 지지율, 개헌, 정치적 이슈 등 다양한 주제가 논의되고 있습니다. 또한 최신 기술과 제품 출시가 많아 기술 관련 비즈니스 기회가 많습니다. 독립운동가와 광복절 관련 뉴스와 의견도 많습니다. 이러한 트렌드와 인사이트를 통해 비즈니스 기회를 탐색할 수 있습니다.",
-  "analyzed_at": "2026-08-14T06:00:34.549Z",
+  "narrative": "최근의 트렌드 분석 결과, 政治와 경제, 기술 관련 주제가 많이 обсужд되고 있습니다. 政治 관련 글은 이재명 정부의 정책 방향을 지지하는 글과 반대하는 글들이 많이 올라왔습니다. 경제 관련 글은 서울 집값이 독일에서 제일 비싼 뮌헨 집값이랑 같다는 글과 관련된 뉴스가 많이 올라왔습니다. 기술 관련 글은 신규 스마트폰과 전기차 관련 뉴스가 많이 올라왔습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하고, 시장 동향과 기술 동향을 파악해야 합니다.",
+  "analyzed_at": "2026-08-14T07:30:34.638Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
