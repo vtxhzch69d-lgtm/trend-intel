@@ -2,71 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 관련된 정치적 이슈가 주목을 받고 있습니다.",
+      "summary": "이재명 대통령과 관련된 정치 뉴스 및 논평",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드가 논의되고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제",
-      "summary": "경제적 이슈와 산업 동향이 분석되고 있습니다.",
+      "topic": "기술",
+      "summary": "최신 기술 뉴스 및 트렌드",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
+    },
+    {
+      "topic": "사회",
+      "summary": "사회 문제 및 논평",
       "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
       "count": 10,
-      "sentiment": "negative",
-      "context": "정치적 이슈"
+      "sentiment": "mixed",
+      "context": "정치 뉴스 및 논평"
     },
     {
       "keyword": "AI",
       "count": 5,
       "sentiment": "positive",
-      "context": "기술 트렌드"
+      "context": "최신 기술 뉴스"
     },
     {
-      "keyword": "경제",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "산업 동향"
+      "keyword": "스마트폰",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "복합적인 감정"
+    "positive": 25,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 이슈는 소비자들의 관심을 끌 수 있습니다.",
-      "action": "마케팅 전략 조정",
-      "priority": "high"
-    },
-    {
-      "insight": "기술 트렌드는 산업의 미래를 결정할 수 있습니다.",
-      "action": "기술 투자 증가",
+      "insight": "정치 뉴스 및 논평이 증가하고 있습니다.",
+      "action": "정치 관련 콘텐츠를 제공하여 사용자와의 상호작용을 증가시킵니다.",
       "priority": "medium"
     },
     {
-      "insight": "경제적 이슈는 소비자들의 구매 결정에 영향을 줄 수 있습니다.",
-      "action": "마케팅 전략 재평가",
-      "priority": "low"
+      "insight": "최신 기술 뉴스 및 트렌드가 사용자의 관심을 끌고 있습니다.",
+      "action": "최신 기술 뉴스 및 트렌드를 제공하여 사용자의 관심을 끌어들이고 있습니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치적 이슈와 기술 트렌드가 주목을 받고 있습니다. 이러한 트렌드는 소비자들의 관심과 구매 결정에 영향을 줄 수 있으므로, 마케팅 전략을 조정하고 기술 투자를 증가시켜야 합니다. 또한, 경제적 이슈는 소비자들의 구매 결정에 영향을 줄 수 있으므로, 마케팅 전략을 재평가해야 합니다. 이러한 트렌드와 인사이트를 고려하여, 기업은 미래의 성장과 성공을 위한 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-08-14T17:31:32.127Z",
+  "narrative": "최근의 트렌드는 정치 뉴스 및 논평, 최신 기술 뉴스 및 트렌드가 사용자의 관심을 끌고 있습니다. 사용자의 관심을 끌어들이기 위해 정치 관련 콘텐츠와 최신 기술 뉴스 및 트렌드를 제공하는 것이 중요합니다. 또한, 사용자의 감정 분석 결과 중립적인 분위기가 나타나고 있습니다. 따라서, 사용자와의 상호작용을 증가시키기 위해 중립적인 콘텐츠를 제공하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-14T19:00:33.661Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
