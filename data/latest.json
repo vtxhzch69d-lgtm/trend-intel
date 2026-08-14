@@ -2,32 +2,32 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 대통령과 관련된 정치 뉴스 및 논평",
+      "summary": "이재명에 대한 논의와 정치적 상황에 대한 관심이 높다.",
       "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스 및 트렌드",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "high"
     },
     {
+      "topic": "기술",
+      "summary": "최신 기술 뉴스와 제품 출시에 대한 관심이 높다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "medium"
+    },
+    {
       "topic": "사회",
-      "summary": "사회 문제 및 논평",
+      "summary": "사회적 문제와 논의에 대한 관심이 높다.",
       "post_count": 10,
       "sentiment": "negative",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
       "count": 10,
-      "sentiment": "mixed",
-      "context": "정치 뉴스 및 논평"
+      "sentiment": "negative",
+      "context": "정치적 상황에 대한 논의"
     },
     {
       "keyword": "AI",
@@ -37,31 +37,31 @@
     },
     {
       "keyword": "스마트폰",
-      "count": 3,
-      "sentiment": "positive",
+      "count": 5,
+      "sentiment": "neutral",
       "context": "최신 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "정치 뉴스 및 논평이 증가하고 있습니다.",
-      "action": "정치 관련 콘텐츠를 제공하여 사용자와의 상호작용을 증가시킵니다.",
-      "priority": "medium"
+      "insight": "정치적 상황에 대한 관심이 높아지고 있다.",
+      "action": "정치적 상황에 대한 분석을 강화해야 한다.",
+      "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스 및 트렌드가 사용자의 관심을 끌고 있습니다.",
-      "action": "최신 기술 뉴스 및 트렌드를 제공하여 사용자의 관심을 끌어들이고 있습니다.",
-      "priority": "high"
+      "insight": "최신 기술 뉴스에 대한 관심이 높아지고 있다.",
+      "action": "최신 기술 뉴스에 대한 분석을 강화해야 한다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 뉴스 및 논평, 최신 기술 뉴스 및 트렌드가 사용자의 관심을 끌고 있습니다. 사용자의 관심을 끌어들이기 위해 정치 관련 콘텐츠와 최신 기술 뉴스 및 트렌드를 제공하는 것이 중요합니다. 또한, 사용자의 감정 분석 결과 중립적인 분위기가 나타나고 있습니다. 따라서, 사용자와의 상호작용을 증가시키기 위해 중립적인 콘텐츠를 제공하는 것이 중요합니다.",
-  "analyzed_at": "2026-08-14T19:00:33.661Z",
+  "narrative": "최근의 트렌드는 정치적 상황과 최신 기술 뉴스에 대한 관심이 높아지고 있다. 정치적 상황에 대한 논의는 매우 활발하며, 최신 기술 뉴스에 대한 관심도 높아지고 있다. 이러한 트렌드는 기업과 마케터에게 새로운 기회와 도전을 제공한다. 따라서, 이러한 트렌드에 대한 분석과 이해가 필요하다.",
+  "analyzed_at": "2026-08-14T20:31:22.924Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
