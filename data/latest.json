@@ -1,75 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정권 유지를 목표로 하는 정부의 정책과 대응에 대한 논의",
-      "post_count": 15,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판을 중심으로 나타남",
+      "post_count": 100,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "부동산 가격 상승과 경제 성장에 대한 우려",
-      "post_count": 8,
-      "sentiment": "negative",
       "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 동향과 발전에 대한 논의",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정권",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정권 유지를 목표로 하는 정부의 정책"
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
     },
     {
-      "keyword": "부동산",
-      "count": 8,
+      "keyword": "이슈",
+      "count": 20,
       "sentiment": "negative",
-      "context": "부동산 가격 상승과 경제 성장에 대한 우려"
-    },
-    {
-      "keyword": "AI",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "최신 기술 동향과 발전"
+      "context": "이슈게시판 관련 글"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "우려와 비관적인 분위기"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 기운이 감지됨"
   },
   "business_insights": [
     {
-      "insight": "정부의 정책과 대응에 대한 논의가 활발",
-      "action": "정책과 경제 동향을 주시",
+      "insight": "커뮤니티 이용자들은 다양한 주제에 관심이 있음",
+      "action": "다양한 주제의 콘텐츠 제공",
       "priority": "high"
     },
     {
-      "insight": "부동산 가격 상승과 경제 성장에 대한 우려",
-      "action": "부동산 시장과 경제 동향을 주시",
+      "insight": "이슈게시판 관련 글들이 부정적인 감정을 유발함",
+      "action": "이슈게시판 글들의 감정 분석 및 대응 전략 수립",
       "priority": "medium"
-    },
-    {
-      "insight": "최신 기술 동향과 발전에 대한 논의",
-      "action": "기술 발전과 시장 동향을 주시",
-      "priority": "low"
     }
   ],
-  "narrative": "현재의 정치와 경제 동향은 우려와 비관적인 분위기를 보이고 있습니다. 정부의 정책과 대응에 대한 논의가 활발하게 진행되고 있으며, 부동산 가격 상승과 경제 성장에 대한 우려도 존재합니다. 또한, 최신 기술 동향과 발전에 대한 논의도 진행되고 있습니다. 이러한 동향을 주시하고, 政策과 경제 동향을 분석하여 사업 전략을 수립하는 것이 중요합니다.",
-  "analyzed_at": "2026-08-14T09:01:29.347Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티의 인기 게시글은 주로 자유게시판과 이슈게시판을 중심으로 나타남. 이용자들은 다양한 주제에 관심이 있지만, 이슈게시판 관련 글들은 부정적인 감정을 유발함. 이를 위해 다양한 주제의 콘텐츠 제공 및 이슈게시판 글들의 감정 분석 및 대응 전략 수립이 필요함. 또한, 커뮤니티 이용자들의 감정 분석을 통해 중립적이지만 약간 부정적인 기운이 감지됨. 이는 마케팅 전략 수립 시 참고할 수 있는 중요한 정보임.",
+  "analyzed_at": "2026-08-14T10:30:33.996Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
