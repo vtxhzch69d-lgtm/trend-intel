@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "4년 중임제",
-      "summary": "청와대가 4년 중임제를 추진하고 있으며, 일부 커뮤니티 이용자들은 이를 반대하고 있다.",
+      "topic": "정치",
+      "summary": "最近의 정치 관련 뉴스와 의견이 많습니다. 대통령 지지율, 개헌, 정치적 이슈 등 다양한 주제가 논의되고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "내각제",
-      "summary": "일부 커뮤니티 이용자들은 내각제를 반대하고 있으며, 일부 이용자들은 이를 찬성하고 있다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "기술",
+      "summary": "최신 기술 관련 뉴스와 제품 출시가 많습니다. AI, 5G, 스마트폰, 로봇 등 다양한 기술이 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "제왕적 대통령제",
-      "summary": "일부 커뮤니티 이용자들은 제왕적 대통령제를 문제시하고 있으며, 일부 이용자들은 이를 반대하고 있다.",
-      "post_count": 5,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "사회",
+      "summary": "사회 관련 뉴스와 의견이 많습니다. 독립운동가, 광복절, 교육 등 다양한 주제가 논의되고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "4년 중임제",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "청와대가 추진하는 4년 중임제에 대한 논의"
-    },
-    {
-      "keyword": "내각제",
+      "keyword": "대통령",
       "count": 10,
       "sentiment": "negative",
-      "context": "일부 커뮤니티 이용자들이 반대하고 있는 내각제"
+      "context": "대통령 지지율과 정치적 이슈 관련"
     },
     {
-      "keyword": "제왕적 대통령제",
+      "keyword": "AI",
       "count": 5,
-      "sentiment": "negative",
-      "context": "일부 커뮤니티 이용자들이 문제시하고 있는 제왕적 대통령제"
+      "sentiment": "positive",
+      "context": "최신 기술과 제품 출시 관련"
+    },
+    {
+      "keyword": "독립운동가",
+      "count": 3,
+      "sentiment": "positive",
+      "context": "광복절과 독립운동가 관련"
     }
   ],
   "sentiment_overview": {
-    "positive": 10,
+    "positive": 25,
     "negative": 20,
     "neutral": 30,
-    "overall_mood": "중立적이지만 일부 이용자들은 강한 부정적 감정을 가지고 있다."
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "일부 커뮤니티 이용자들은 4년 중임제를 반대하고 있으며, 이는 정치적 불안정성을 증가시킬 수 있다.",
-      "action": "정치적 불안정성에 대한 대비책을 마련해야 한다.",
+      "insight": "최신 기술과 제품 출시가 많아 기술 관련 비즈니스 기회가 많습니다.",
+      "action": "기술 관련 비즈니스 기회를 탐색",
       "priority": "high"
     },
     {
-      "insight": "내각제에 대한 반대는 일부 커뮤니티 이용자들의 강한 부정적 감정으로 이어질 수 있다.",
-      "action": "내각제에 대한 반대 여론을 감소시키기 위한 대책을 마련해야 한다.",
+      "insight": "정치 관련 뉴스와 의견이 많아 정치 관련 비즈니스 기회가 있습니다.",
+      "action": "정치 관련 비즈니스 기회를 탐색",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 커뮤니티 트렌드 분석 결과, 4년 중임제와 내각제에 대한 논의가 활발히 진행되고 있다. 일부 커뮤니티 이용자들은 4년 중임제를 반대하고 있으며, 이는 정치적 불안정성을 증가시킬 수 있다. 또한, 내각제에 대한 반대는 일부 커뮤니티 이용자들의 강한 부정적 감정으로 이어질 수 있다. 이러한 트렌드에 대한 분석과 대책을 마련하는 것은 정치적 불안정성을 감소시키고, 국민의 만족도를 증가시키기 위한 중요한 과제이다.",
-  "analyzed_at": "2026-08-14T03:00:34.371Z",
+  "narrative": "最近의 정치 관련 뉴스와 의견이 많습니다. 대통령 지지율, 개헌, 정치적 이슈 등 다양한 주제가 논의되고 있습니다. 또한 최신 기술과 제품 출시가 많아 기술 관련 비즈니스 기회가 많습니다. 독립운동가와 광복절 관련 뉴스와 의견도 많습니다. 이러한 트렌드와 인사이트를 통해 비즈니스 기회를 탐색할 수 있습니다.",
+  "analyzed_at": "2026-08-14T06:00:34.549Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
