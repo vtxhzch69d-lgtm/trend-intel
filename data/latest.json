@@ -2,71 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "이재명 정부의 정책 방향을 지지하는 글과 반대하는 글들이 많이 올라왔습니다.",
-      "post_count": 10,
+      "summary": "정권 유지를 목표로 하는 정부의 정책과 대응에 대한 논의",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "서울 집값이 독일에서 제일 비싼 뮌헨 집값이랑 같다는 글과 관련된 경제 뉴스가 많이 올라왔습니다.",
+      "summary": "부동산 가격 상승과 경제 성장에 대한 우려",
       "post_count": 8,
       "sentiment": "negative",
       "urgency": "medium"
     },
     {
       "topic": "기술",
-      "summary": "신규 스마트폰과 전기차 관련 뉴스가 많이 올라왔습니다.",
+      "summary": "최신 기술 동향과 발전에 대한 논의",
       "post_count": 12,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 15,
-      "sentiment": "mixed",
-      "context": "정부의 정책 방향을 지지 또는 반대하는 글"
+      "keyword": "정권",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "정권 유지를 목표로 하는 정부의 정책"
     },
     {
-      "keyword": "서울 집값",
+      "keyword": "부동산",
       "count": 8,
       "sentiment": "negative",
-      "context": "서울 집값이 독일에서 제일 비싼 뮌헨 집값이랑 같다는 글"
+      "context": "부동산 가격 상승과 경제 성장에 대한 우려"
     },
     {
-      "keyword": "전기차",
-      "count": 10,
+      "keyword": "AI",
+      "count": 5,
       "sentiment": "positive",
-      "context": "신규 전기차 모델과 관련된 뉴스"
+      "context": "최신 기술 동향과 발전"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 25,
-    "neutral": 30,
-    "overall_mood": "부정적인 감정이 조금 더 강한 것으로 나타났습니다."
+    "negative": 30,
+    "neutral": 50,
+    "overall_mood": "우려와 비관적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정부의 정책 방향을 지지하는 고객을 타겟으로 하는 마케팅 전략을 수립해야 합니다.",
-      "action": "마케팅 전략 수립",
+      "insight": "정부의 정책과 대응에 대한 논의가 활발",
+      "action": "정책과 경제 동향을 주시",
       "priority": "high"
     },
     {
-      "insight": "서울 집값과 관련된 경제 뉴스를 주시하여 시장 동향을 파악해야 합니다.",
-      "action": "시장 동향 분석",
+      "insight": "부동산 가격 상승과 경제 성장에 대한 우려",
+      "action": "부동산 시장과 경제 동향을 주시",
       "priority": "medium"
     },
     {
-      "insight": "신규 스마트폰과 전기차 모델을 주시하여 기술 동향을 파악해야 합니다.",
-      "action": "기술 동향 분석",
-      "priority": "medium"
+      "insight": "최신 기술 동향과 발전에 대한 논의",
+      "action": "기술 발전과 시장 동향을 주시",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 政治와 경제, 기술 관련 주제가 많이 обсужд되고 있습니다. 政治 관련 글은 이재명 정부의 정책 방향을 지지하는 글과 반대하는 글들이 많이 올라왔습니다. 경제 관련 글은 서울 집값이 독일에서 제일 비싼 뮌헨 집값이랑 같다는 글과 관련된 뉴스가 많이 올라왔습니다. 기술 관련 글은 신규 스마트폰과 전기차 관련 뉴스가 많이 올라왔습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하고, 시장 동향과 기술 동향을 파악해야 합니다.",
-  "analyzed_at": "2026-08-14T07:30:34.638Z",
+  "narrative": "현재의 정치와 경제 동향은 우려와 비관적인 분위기를 보이고 있습니다. 정부의 정책과 대응에 대한 논의가 활발하게 진행되고 있으며, 부동산 가격 상승과 경제 성장에 대한 우려도 존재합니다. 또한, 최신 기술 동향과 발전에 대한 논의도 진행되고 있습니다. 이러한 동향을 주시하고, 政策과 경제 동향을 분석하여 사업 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-14T09:01:29.347Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
