@@ -2,24 +2,24 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래 지지 이유, 이재명 심판 선거 등 정치 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 10,
+      "summary": "정청래 당대표와 민주당 전대 관련된 게시글이 많습니다. 또한, 임대주택과 부동산 관련된 게시글도 많습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "기술",
-      "summary": "최신 기술 뉴스와 트렌드, 특히 AI와 스마트폰 관련 주제가 많은 관심을 받고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "사회",
-      "summary": "임대주택, 세대 갈라치기, 공원 아파트 등 사회 관련 주제가 논쟁을 일으키고 있습니다.",
-      "post_count": 8,
-      "sentiment": "negative",
+      "topic": "테크",
+      "summary": "삼성전자와 애플 관련된 게시글이 많습니다. 또한, AI와 로봇 관련된 게시글도 많습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "high"
+    },
+    {
+      "topic": "사회",
+      "summary": "광복절과 위안부 후원자 관련된 게시글이 있습니다. 또한, 길고양이와 임대주택 관련된 게시글도 있습니다.",
+      "post_count": 10,
+      "sentiment": "negative",
+      "urgency": "low"
     }
   ],
   "keywords": [
@@ -27,52 +27,41 @@
       "keyword": "정청래",
       "count": 5,
       "sentiment": "positive",
-      "context": "정치 관련 주제"
+      "context": "당대표 관련된 게시글"
     },
     {
-      "keyword": "이재명",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "정치 관련 주제"
-    },
-    {
-      "keyword": "AI",
-      "count": 6,
-      "sentiment": "positive",
-      "context": "기술 관련 주제"
+      "keyword": "삼성전자",
+      "count": 10,
+      "sentiment": "neutral",
+      "context": "테크 관련된 게시글"
     },
     {
       "keyword": "임대주택",
-      "count": 3,
+      "count": 8,
       "sentiment": "negative",
-      "context": "사회 관련 주제"
+      "context": "부동산 관련된 게시글"
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 20,
-    "neutral": 15,
-    "overall_mood": "복합적인 감정"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 관련 주제가 많은 관심을 받고 있으므로, 관련된 마케팅 전략을 수립할 필요가 있습니다.",
-      "action": "정치 관련 주제에 대한 마케팅 전략 수립",
+      "insight": "테크 산업은 계속 성장할 것으로 예상됩니다.",
+      "action": "테크 산업에 투자하기",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 뉴스와 트렌드에 대한 관심이 높으므로, 기술 관련 주제에 대한 콘텐츠를 생성할 필요가 있습니다.",
-      "action": "기술 관련 콘텐츠 생성",
+      "insight": "부동산 관련된 정책은慎重하게 다루어야 합니다.",
+      "action": "부동산 정책에 주의하기",
       "priority": "medium"
-    },
-    {
-      "insight": "사회 관련 주제가 논쟁을 일으키고 있으므로, 관련된 마케팅 전략을 수립할 필요가 있습니다.",
-      "action": "사회 관련 주제에 대한 마케팅 전략 수립",
-      "priority": "high"
     }
   ],
-  "narrative": "현재의 트렌드는 정치, 기술, 사회 관련 주제가 많은 관심을 받고 있습니다. 특히 정치 관련 주제는 정청래와 이재명에 대한 관심이 높으며, 기술 관련 주제는 AI와 스마트폰 관련 뉴스가 많은 관심을 받고 있습니다. 사회 관련 주제는 임대주택과 세대 갈라치기 등이 논쟁을 일으키고 있습니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립할 필요가 있습니다. 또한, 기술 관련 콘텐츠를 생성하여 최신 기술 뉴스와 트렌드에 대한 관심을满足할 수 있습니다.",
-  "analyzed_at": "2026-08-14T22:00:34.249Z",
+  "narrative": "최근의 트렌드는 정치와 테크 산업이 주도하고 있습니다. 정청래 당대표와 민주당 전대 관련된 게시글이 많으며, 삼성전자와 애플 관련된 게시글도 많습니다. 또한, 임대주택과 부동산 관련된 게시글도 많습니다. 테크 산업은 계속 성장할 것으로 예상되며, 부동산 관련된 정책은慎重하게 다루어야 합니다. 이러한 트렌드를 고려하여 마케팅 전략을 수립하는 것이 중요합니다.",
+  "analyzed_at": "2026-08-14T23:30:34.086Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
