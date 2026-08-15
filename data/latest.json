@@ -1,73 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치 및 사회",
-      "summary": "이재명 대통령에 대한 논란과 친일 반민족자 재산 환수에 대한 의견이 분분하다.",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "이재명 대통령과 관련된 정치 뉴스 및 논평",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크 및 과학",
-      "summary": "애플, 중국 시장 겨냥한 자체 모델 개발과 스페이스X의 코딩 스타트업 인수 등이 화제다.",
-      "post_count": 15,
+      "topic": "테크",
+      "summary": "최신 기술 뉴스 및 트렌드",
+      "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 금융",
-      "summary": "부동산 문제와 경기 채무비율이 논란이 되고 있다.",
-      "post_count": 8,
-      "sentiment": "negative",
-      "urgency": "high"
+      "topic": "경제",
+      "summary": "최신 경제 뉴스 및 트렌드",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 5,
+      "count": 10,
       "sentiment": "negative",
-      "context": "대통령에 대한 비판"
+      "context": "정치 뉴스"
     },
     {
-      "keyword": "애플",
-      "count": 3,
+      "keyword": "AI",
+      "count": 8,
       "sentiment": "positive",
-      "context": "중국 시장 진출"
+      "context": "테크 뉴스"
     },
     {
-      "keyword": "부동산",
-      "count": 4,
-      "sentiment": "negative",
-      "context": "문제와 논란"
+      "keyword": "경제",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "경제 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 50,
+    "negative": 15,
+    "neutral": 30,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치 및 사회적 이슈에 대한 관심이 높아지고 있다.",
-      "action": "이슈에 대한 대응 전략 수립",
+      "insight": "정치 뉴스에 대한 관심이 높아지고 있다",
+      "action": "정치 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이는 마케팅 전략을 수립한다",
       "priority": "high"
     },
     {
-      "insight": "테크 및 과학 분야의 뉴스가 많은 관심을 받고 있다.",
-      "action": "관련 분야에 대한 투자와 연구",
+      "insight": "테크 뉴스에 대한 관심이 높아지고 있다",
+      "action": "테크 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이는 마케팅 전략을 수립한다",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 금융 분야의 뉴스가 부정적인 반응을 일으키고 있다.",
-      "action": "리스크 관리와 대응 전략 수립",
-      "priority": "high"
+      "insight": "경제 뉴스에 대한 관심이 낮아지고 있다",
+      "action": "경제 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이는 마케팅 전략을 수립한다",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치 및 사회, 테크 및 과학, 경제 및 금융 분야의 뉴스가 많은 관심을 받고 있다. 특히 정치 및 사회 분야의 뉴스는 높은 관심과 논란을 일으키고 있다. 테크 및 과학 분야의 뉴스는 긍정적인 반응을 일으키고 있다. 경제 및 금융 분야의 뉴스는 부정적인 반응을 일으키고 있다. 이러한 트렌드를 분석하여 사업 전략을 수립하는 것이 중요하다.",
-  "analyzed_at": "2026-08-15T05:30:34.009Z",
-  "post_count": 61,
+  "narrative": "현재 정치 뉴스에 대한 관심이 높아지고 있으며, 테크 뉴스에 대한 관심도 높아지고 있다. 그러나 경제 뉴스에 대한 관심은 낮아지고 있다. 따라서 마케팅 전략을 수립할 때에는 정치 뉴스와 테크 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이는 것이 중요하다. 또한 경제 뉴스에 대한 콘텐츠를 생성하여 관심을 끌어들이는 마케팅 전략을 수립하는 것도 필요하다.",
+  "analyzed_at": "2026-08-15T07:00:33.926Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
