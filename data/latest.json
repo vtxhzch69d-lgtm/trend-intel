@@ -2,66 +2,66 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "민주당과 관련된 다양한 정치적인 주제가 논의되고 있습니다. 대표적인 주제로는 정청래의 대표 가능성, 대통령 지지율, 호남 지역의 정치적 상황 등이 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "부동산",
-      "summary": "부동산 가격과 관련된 주제가 논의되고 있습니다. 아파트 가격의 상승과 하락, 부동산 정책 등이 주요한 관심사입니다.",
-      "post_count": 8,
+      "summary": "정청래의 대표 출마와 민주당 경선이 논란이 되고 있다. 일부 사용자는 정청래의 지능을 문제삼으며 대표가 되면 안 된다고 주장한다.",
+      "post_count": 10,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "기술",
-      "summary": "최신 기술 트렌드와 관련된 주제가 논의되고 있습니다. AI, 반도체, 스마트폰 등이 주요한 관심사입니다.",
-      "post_count": 20,
+      "topic": "부동산",
+      "summary": "부동산 세재개편과 집 마련에 대한 관심이 높다. 일부 사용자는 부동산 투자와 관련된 뉴스를 공유하며 의견을 나눈다.",
+      "post_count": 5,
+      "sentiment": "neutral",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련 뉴스가 많다. 일부 사용자는 AI의 발전과 관련된 기술 뉴스를 공유하며 의견을 나눈다.",
+      "post_count": 15,
       "sentiment": "positive",
-      "urgency": "low"
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
       "keyword": "정청래",
-      "count": 5,
+      "count": 10,
       "sentiment": "negative",
-      "context": "정청래의 대표 가능성과 관련된 논의"
+      "context": "정청래의 대표 출마와 관련된 논란"
     },
     {
       "keyword": "부동산",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "부동산 가격과 관련된 논의"
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "부동산 투자와 관련된 뉴스"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "최신 기술 트렌드와 관련된 논의"
+      "context": "AI의 발전과 관련된 기술 뉴스"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
-    "negative": 30,
-    "neutral": 10,
-    "overall_mood": "부정적인 감정의 비중이 높습니다."
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "부동산 가격과 관련된 정책이 중요합니다.",
-      "action": "부동산 정책을 주시하고, 관련된 정보를 제공합니다.",
+      "insight": "정치와 부동산에 대한 관심이 높다",
+      "action": "관련된 뉴스와 정보를 제공한다",
       "priority": "high"
     },
     {
-      "insight": "최신 기술 트렌드와 관련된 정보를 제공할 필요가 있습니다.",
-      "action": "최신 기술 트렌드와 관련된 정보를 제공합니다.",
+      "insight": "AI와 기술에 대한 관심이 높다",
+      "action": "관련된 뉴스와 정보를 제공한다",
       "priority": "medium"
     }
   ],
-  "narrative": "최근의 정치적인 상황과 부동산 가격의 변동이 주요한 관심사입니다. 또한, 최신 기술 트렌드와 관련된 정보를 제공할 필요가 있습니다. 이러한 주제와 관련된 정보를 제공함으로써, 사용자의 관심을 끌고, 관련된 산업의 발전에 기여할 수 있습니다.",
-  "analyzed_at": "2026-08-15T22:00:33.682Z",
+  "narrative": "최근의 트렌드는 정치와 부동산, AI와 기술에 대한 관심이 높다는 것이다. 정청래의 대표 출마와 민주당 경선이 논란이 되고 있으며, 부동산 투자와 관련된 뉴스가 많다. 또한 AI와 기술 관련 뉴스가 많으며, 일부 사용자는 AI의 발전과 관련된 기술 뉴스를 공유하며 의견을 나눈다. 이러한 트렌드를 고려하여 관련된 뉴스와 정보를 제공할 수 있다.",
+  "analyzed_at": "2026-08-15T23:30:34.015Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
