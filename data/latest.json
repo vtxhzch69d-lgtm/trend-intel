@@ -1,68 +1,73 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명과 정청래 등 정치인에 대한 논의가 활발합니다. 정치적 상황과 정책에 대한 관심이 높아지고 있습니다.",
-      "post_count": 15,
+      "topic": "정청래",
+      "summary": "정청래의 총선 출마와 관련된 게시글이 많습니다. 일부 사용자는 그의 출마를 지지하는 반면, 다른 일부 사용자는 그의 출마에 대해 비판적입니다.",
+      "post_count": 5,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI",
+      "summary": "AI와 관련된 기술 뉴스 및 개발이 많은 관심을 받고 있습니다. 일부 사용자는 AI의 발전에 대해 긍정적인 반응을 보이지만, 다른 일부 사용자는 AI의 잠재적인 위험에 대해 우려를 표합니다.",
+      "post_count": 10,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
       "topic": "경제",
-      "summary": "반도체와 부동산 등 경제 관련 주제가 많이 обсужд되고 있습니다. 경제 상황과 정책에 대한 관심이 높아지고 있습니다.",
-      "post_count": 10,
+      "summary": "경제와 관련된 뉴스 및 분석이 많은 관심을 받고 있습니다. 일부 사용자는 경제 상황에 대해 우려를 표하는 반면, 다른 일부 사용자는 경제의 회복 가능성에 대해 긍정적인 반응을 보입니다.",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI와 반도체 등 기술 관련 주제가 많이 обсужд되고 있습니다. 기술 발전과 산업 동향에 대한 관심이 높아지고 있습니다.",
-      "post_count": 8,
-      "sentiment": "positive",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정치적 상황과 정책에 대한 논의"
+      "keyword": "정청래",
+      "count": 7,
+      "sentiment": "mixed",
+      "context": "정청래의 총선 출마와 관련된 게시글"
     },
     {
-      "keyword": "반도체",
-      "count": 8,
+      "keyword": "AI",
+      "count": 12,
       "sentiment": "positive",
-      "context": "기술 발전과 산업 동향"
+      "context": "AI와 관련된 기술 뉴스 및 개발"
     },
     {
-      "keyword": "부동산",
-      "count": 5,
+      "keyword": "경제",
+      "count": 9,
       "sentiment": "negative",
-      "context": "경제 상황과 정책에 대한 논의"
+      "context": "경제와 관련된 뉴스 및 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 30,
-    "neutral": 50,
-    "overall_mood": "중립적이지만 약간 부정적인 기조"
+    "positive": 15,
+    "negative": 12,
+    "neutral": 10,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적 상황과 정책에 대한 관심이 높아지고 있습니다.",
-      "action": "정책과 정치적 상황에 대한 분석을 강화해야 합니다.",
+      "insight": "AI 기술의 발전",
+      "action": "AI 기술의 개발 및 투자",
       "priority": "high"
     },
     {
-      "insight": "기술 발전과 산업 동향에 대한 관심이 높아지고 있습니다.",
-      "action": "기술 발전과 산업 동향에 대한 분석을 강화해야 합니다.",
+      "insight": "경제 상황의 불안정",
+      "action": "경제 상황의 모니터링 및 대응",
       "priority": "medium"
+    },
+    {
+      "insight": "정치적 불안정",
+      "action": "정치적 상황의 모니터링 및 대응",
+      "priority": "low"
     }
   ],
-  "narrative": "현재 정치적 상황과 정책에 대한 관심이 높아지고 있습니다. 이재명과 정청래 등 정치인에 대한 논의가 활발합니다. 또한 경제 상황과 정책에 대한 관심도 높아지고 있습니다. 반도체와 부동산 등 경제 관련 주제가 많이 обсужд되고 있습니다. 기술 발전과 산업 동향에 대한 관심도 높아지고 있습니다. AI와 반도체 등 기술 관련 주제가 많이 обсужд되고 있습니다. 이러한 상황에서 기업과 마케터는 정치적 상황과 정책, 기술 발전과 산업 동향에 대한 분석을 강화해야 합니다. 또한 경제 상황과 정책에 대한 분석도 강화해야 합니다. 이러한 분석을 통해 기업과 마케터는 시장의 동향을 파악하고 전략을 수립할 수 있습니다.",
-  "analyzed_at": "2026-08-15T08:31:23.739Z",
-  "post_count": 61,
+  "narrative": "최근의 트렌드 분석 결과, AI 기술의 발전과 경제 상황의 불안정성이 많은 관심을 받고 있습니다. 또한, 정청래의 총선 출마와 관련된 게시글이 많습니다. 이러한 트렌드들은 기업 및 마케터들에게 중요한 인사이트를 제공하며, AI 기술의 개발 및 투자, 경제 상황의 모니터링 및 대응, 정치적 상황의 모니터링 및 대응 등의 액션을 취할 필요가 있습니다.",
+  "analyzed_at": "2026-08-15T10:01:33.845Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
