@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "부동산",
-      "summary": "부동산 가격과 관련된 다양한 의견과 분석이 나타남",
-      "post_count": 10,
+      "topic": "정치",
+      "summary": "민주당과 관련된 다양한 정치적인 주제가 논의되고 있습니다. 대표적인 주제로는 정청래의 대표 가능성, 대통령 지지율, 호남 지역의 정치적 상황 등이 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 다양한 의견과 분석이 나타남",
-      "post_count": 15,
+      "topic": "부동산",
+      "summary": "부동산 가격과 관련된 주제가 논의되고 있습니다. 아파트 가격의 상승과 하락, 부동산 정책 등이 주요한 관심사입니다.",
+      "post_count": 8,
       "sentiment": "negative",
       "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련된 다양한 뉴스와 의견이 나타남",
+      "topic": "기술",
+      "summary": "최신 기술 트렌드와 관련된 주제가 논의되고 있습니다. AI, 반도체, 스마트폰 등이 주요한 관심사입니다.",
       "post_count": 20,
       "sentiment": "positive",
-      "urgency": "medium"
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "부동산",
-      "count": 15,
+      "keyword": "정청래",
+      "count": 5,
       "sentiment": "negative",
-      "context": "부동산 가격과 관련된 의견"
+      "context": "정청래의 대표 가능성과 관련된 논의"
     },
     {
-      "keyword": "정치",
-      "count": 20,
+      "keyword": "부동산",
+      "count": 10,
       "sentiment": "negative",
-      "context": "정치 관련된 의견"
+      "context": "부동산 가격과 관련된 논의"
     },
     {
       "keyword": "AI",
-      "count": 10,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI와 기술 관련된 뉴스와 의견"
+      "context": "최신 기술 트렌드와 관련된 논의"
     }
   ],
   "sentiment_overview": {
     "positive": 20,
     "negative": 30,
     "neutral": 10,
-    "overall_mood": "부정적인 감정의 비중이 높음"
+    "overall_mood": "부정적인 감정의 비중이 높습니다."
   },
   "business_insights": [
     {
-      "insight": "부동산 가격과 관련된 의견을 분석하여 마케팅 전략을 수립할 수 있음",
-      "action": "부동산 관련된 콘텐츠를 제작하여 소비자와의 소통을 강화할 수 있음",
-      "priority": "medium"
+      "insight": "부동산 가격과 관련된 정책이 중요합니다.",
+      "action": "부동산 정책을 주시하고, 관련된 정보를 제공합니다.",
+      "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련된 뉴스와 의견을 분석하여 새로운 비즈니스 기회를 찾을 수 있음",
-      "action": "AI와 기술 관련된 콘텐츠를 제작하여 소비자와의 소통을 강화할 수 있음",
-      "priority": "high"
+      "insight": "최신 기술 트렌드와 관련된 정보를 제공할 필요가 있습니다.",
+      "action": "최신 기술 트렌드와 관련된 정보를 제공합니다.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 부동산과 정치 관련된 의견이 많았으며, AI와 기술 관련된 뉴스와 의견도 많이 나타남. 이러한 결과를 바탕으로 마케팅 전략을 수립하고, 새로운 비즈니스 기회를 찾을 수 있을 것으로 기대됨. 또한, 소비자와의 소통을 강화하기 위해 관련된 콘텐츠를 제작할 수 있음.",
-  "analyzed_at": "2026-08-15T20:31:24.617Z",
+  "narrative": "최근의 정치적인 상황과 부동산 가격의 변동이 주요한 관심사입니다. 또한, 최신 기술 트렌드와 관련된 정보를 제공할 필요가 있습니다. 이러한 주제와 관련된 정보를 제공함으로써, 사용자의 관심을 끌고, 관련된 산업의 발전에 기여할 수 있습니다.",
+  "analyzed_at": "2026-08-15T22:00:33.682Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
