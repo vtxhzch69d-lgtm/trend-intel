@@ -1,61 +1,68 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래와 김민석의 정치 현안",
-      "summary": "정청래와 김민석의 정치 현안이 클리앙 커뮤니티에서热한 논제로 떠올랐다. 정청래의 승리 예측과 김민석의 당대표 출마가 주목을 받고 있다.",
+      "topic": "정청래와 민주당 경선",
+      "summary": "정청래의 민주당 경선 결과와 관련된 논의가 많습니다. 일부 사용자는 정청래의 패배를 호남의 뜻을 해석하는 데 연결시키고 있습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술 뉴스",
-      "summary": "AI와 기술 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있다. 네이버의 일본 법인 설립과 AI 성능 경쟁이 주목을 받고 있다.",
-      "post_count": 20,
-      "sentiment": "neutral",
+      "topic": "호남 반도체와 경제",
+      "summary": "호남 반도체 산업과 관련된 뉴스 및 논의가 있습니다. 일부 사용자는 호남 반도체의 중요성을 강조하고 있습니다.",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "low"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 관련된 기술 뉴스 및 논의가 많습니다. 일부 사용자는 AI의 발전과 관련된 기사들을 공유하고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
       "keyword": "정청래",
-      "count": 10,
-      "sentiment": "positive",
-      "context": "정청래의 승리 예측"
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "민주당 경선 결과와 관련된 논의"
     },
     {
-      "keyword": "김민석",
-      "count": 8,
-      "sentiment": "negative",
-      "context": "김민석의 당대표 출마"
+      "keyword": "호남 반도체",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "호남 반도체 산업의 중요성"
     },
     {
       "keyword": "AI",
-      "count": 12,
-      "sentiment": "neutral",
-      "context": "AI와 기술 관련 뉴스"
+      "count": 25,
+      "sentiment": "positive",
+      "context": "AI의 발전과 관련된 기술 뉴스"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적인 분위기"
+    "positive": 40,
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "정청래와 김민석의 정치 현안이 클리앙 커뮤니티에서 주목을 받고 있다.",
-      "action": "정치 관련 콘텐츠를 제공하여 클리앙 커뮤니티와의 상호작용을 tăng强한다.",
+      "insight": "호남 반도체 산업의 중요성",
+      "action": "호남 반도체 산업에 대한 투자와 지원",
       "priority": "medium"
     },
     {
-      "insight": "AI와 기술 관련 뉴스가 클리앙 커뮤니티에서 많이 обсужд되고 있다.",
-      "action": "AI와 기술 관련 콘텐츠를 제공하여 클리앙 커뮤니티와의 상호작용을 tăng强한다.",
-      "priority": "low"
+      "insight": "AI의 발전과 관련된 기술 뉴스",
+      "action": "AI 기술에 대한 연구와 개발",
+      "priority": "high"
     }
   ],
-  "narrative": "클리앙 커뮤니티에서는 정청래와 김민석의 정치 현안이 주목을 받고 있다. 정청래의 승리 예측과 김민석의 당대표 출마가 많은 논제로 떠올랐다. 또한, AI와 기술 관련 뉴스가 많이 обсужд되고 있다. 네이버의 일본 법인 설립과 AI 성능 경쟁이 주목을 받고 있다. 이러한 트렌드를 반영하여 정치 관련 콘텐츠와 AI와 기술 관련 콘텐츠를 제공하여 클리앙 커뮤니티와의 상호작용을 tăng强할 수 있다.",
-  "analyzed_at": "2026-08-15T11:30:34.394Z",
-  "post_count": 60,
+  "narrative": "현재의 트렌드는 정청래와 민주당 경선, 호남 반도체, AI와 기술 등으로 나타나고 있습니다. 사용자들은 이러한 주제에 대해 논의하고 있으며, 일부 사용자는 호남 반도체 산업의 중요성을 강조하고 있습니다. 또한, AI의 발전과 관련된 기술 뉴스가 많이 공유되고 있습니다. 이러한 트렌드를 통해, 호남 반도체 산업에 대한 투자와 지원, AI 기술에 대한 연구와 개발 등의 비즈니스 인사이트를 얻을 수 있습니다.",
+  "analyzed_at": "2026-08-15T13:00:34.468Z",
+  "post_count": 62,
   "sources": [
     "ppomppu",
     "clien"
