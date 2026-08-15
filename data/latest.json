@@ -1,67 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정청래와 민주당 경선",
-      "summary": "정청래의 민주당 경선 결과와 관련된 논의가 많습니다. 일부 사용자는 정청래의 패배를 호남의 뜻을 해석하는 데 연결시키고 있습니다.",
-      "post_count": 15,
-      "sentiment": "mixed",
+      "topic": "김민석",
+      "summary": "김민석 후보에 대한 논의와 지지",
+      "post_count": 5,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "호남 반도체와 경제",
-      "summary": "호남 반도체 산업과 관련된 뉴스 및 논의가 있습니다. 일부 사용자는 호남 반도체의 중요성을 강조하고 있습니다.",
-      "post_count": 5,
-      "sentiment": "positive",
-      "urgency": "low"
+      "topic": "AI 기술",
+      "summary": "최신 AI 기술과 관련된 뉴스 및 개발",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "high"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 관련된 기술 뉴스 및 논의가 많습니다. 일부 사용자는 AI의 발전과 관련된 기사들을 공유하고 있습니다.",
-      "post_count": 20,
-      "sentiment": "positive",
-      "urgency": "high"
+      "topic": "정치",
+      "summary": "한국 정치와 관련된 논의",
+      "post_count": 8,
+      "sentiment": "mixed",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "민주당 경선 결과와 관련된 논의"
-    },
-    {
-      "keyword": "호남 반도체",
-      "count": 10,
+      "keyword": "김민석",
+      "count": 7,
       "sentiment": "positive",
-      "context": "호남 반도체 산업의 중요성"
+      "context": "대통령 후보"
     },
     {
       "keyword": "AI",
-      "count": 25,
-      "sentiment": "positive",
-      "context": "AI의 발전과 관련된 기술 뉴스"
+      "count": 12,
+      "sentiment": "neutral",
+      "context": "기술 개발"
+    },
+    {
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "한국 정치"
     }
   ],
   "sentiment_overview": {
-    "positive": 40,
-    "negative": 20,
-    "neutral": 30,
-    "overall_mood": "중립적이지만 약간 긍정적인 분위기"
+    "positive": 15,
+    "negative": 8,
+    "neutral": 20,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "호남 반도체 산업의 중요성",
-      "action": "호남 반도체 산업에 대한 투자와 지원",
-      "priority": "medium"
+      "insight": "AI 기술은 빠르게 발전하고 있다",
+      "action": "최신 기술을 연구하고 투자하기",
+      "priority": "high"
     },
     {
-      "insight": "AI의 발전과 관련된 기술 뉴스",
-      "action": "AI 기술에 대한 연구와 개발",
-      "priority": "high"
+      "insight": "한국 정치는 복잡하고 다양하다",
+      "action": "정치 뉴스를 지속적으로 모니터링하기",
+      "priority": "medium"
     }
   ],
-  "narrative": "현재의 트렌드는 정청래와 민주당 경선, 호남 반도체, AI와 기술 등으로 나타나고 있습니다. 사용자들은 이러한 주제에 대해 논의하고 있으며, 일부 사용자는 호남 반도체 산업의 중요성을 강조하고 있습니다. 또한, AI의 발전과 관련된 기술 뉴스가 많이 공유되고 있습니다. 이러한 트렌드를 통해, 호남 반도체 산업에 대한 투자와 지원, AI 기술에 대한 연구와 개발 등의 비즈니스 인사이트를 얻을 수 있습니다.",
-  "analyzed_at": "2026-08-15T13:00:34.468Z",
+  "narrative": "최근의 트렌드와 키워드를 분석한 결과, 김민석과 AI 기술이 주목을 받고 있다. 한국 정치는 다양한 의견과 논의가 존재한다. 이러한 트렌드는 기업과 마케터에게 새로운 기회와 도전을 제공한다. 최신 기술을 연구하고 투자하며, 정치 뉴스를 지속적으로 모니터링하는 것이 중요하다.",
+  "analyzed_at": "2026-08-15T14:31:31.572Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
