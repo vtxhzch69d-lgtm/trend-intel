@@ -1,72 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "호남 반도체",
-      "summary": "호남 반도체 성사에 대한 논의",
-      "post_count": 2,
-      "sentiment": "positive",
-      "urgency": "high"
-    },
-    {
-      "topic": "AI 기술",
-      "summary": "AI 기술의 발전과 관련된 뉴스",
+      "topic": "정청래",
+      "summary": "정청래에 대한 논의가 활발히 진행 중입니다. 정청래의 출구는 많이 만들어졌으며, 그의 정치적 가능성에 대해 다양한 의견이 있습니다.",
       "post_count": 10,
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "urgency": "medium"
     },
     {
-      "topic": "정치",
-      "summary": "정치 관련된 논의",
+      "topic": "AI",
+      "summary": "AI 기술의 발전과 그에 따른 영향에 대한 논의가 진행 중입니다. AI의 성능 경쟁과 그에 따른 문제점에 대해 다양한 의견이 있습니다.",
       "post_count": 15,
-      "sentiment": "mixed",
+      "sentiment": "neutral",
       "urgency": "high"
+    },
+    {
+      "topic": "민주당",
+      "summary": "민주당의 역대 최악의 당대표에 대한 논의가 진행 중입니다. 민주당의 현재 상황과 미래에 대한 다양한 의견이 있습니다.",
+      "post_count": 8,
+      "sentiment": "negative",
+      "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "호남 반도체",
-      "count": 5,
-      "sentiment": "positive",
-      "context": "호남 반도체 성사에 대한 논의"
+      "keyword": "정청래",
+      "count": 15,
+      "sentiment": "mixed",
+      "context": "정청래에 대한 논의"
     },
     {
       "keyword": "AI",
-      "count": 15,
+      "count": 20,
       "sentiment": "neutral",
-      "context": "AI 기술의 발전과 관련된 뉴스"
+      "context": "AI 기술의 발전"
     },
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "정치 관련된 논의"
+      "keyword": "민주당",
+      "count": 12,
+      "sentiment": "negative",
+      "context": "민주당의 현재 상황"
     }
   ],
   "sentiment_overview": {
     "positive": 10,
-    "negative": 15,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기"
+    "negative": 20,
+    "neutral": 30,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "호남 반도체 성사에 대한 관심이 높아지고 있다",
-      "action": "호남 반도체 관련된 뉴스와 정보를 제공한다",
+      "insight": "AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다.",
+      "action": "AI 기술의 발전을 주시하고, 그에 따른 기회와 위협을 분석해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전이 빠르게 진행되고 있다",
-      "action": "AI 기술 관련된 뉴스와 정보를 제공한다",
+      "insight": "정청래의 정치적 가능성은 다양한 의견을 불러일으킵니다.",
+      "action": "정청래의 정치적 활동을 주시하고, 그에 따른 영향을 분석해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "정치 관련된 논의가 많아지고 있다",
-      "action": "정치 관련된 뉴스와 정보를 제공한다",
-      "priority": "high"
     }
   ],
-  "narrative": "최근 클리앙 커뮤니티에서 호남 반도체, AI 기술, 정치 관련된 논의가 많아지고 있다. 호남 반도체 성사에 대한 관심이 높아지고 있으며, AI 기술의 발전이 빠르게 진행되고 있다. 또한, 정치 관련된 논의가 많아지고 있다. 이러한 트렌드를 반영하여, 관련된 뉴스와 정보를 제공하고, 관심 있는 사용자에게 추천한다. 또한, 호남 반도체와 AI 기술 관련된 산업 동향을 분석하여, 관련된 기업과 기관에게 정보를 제공한다.",
-  "analyzed_at": "2026-08-16T08:30:33.503Z",
+  "narrative": "현재의 트렌드는 정청래, AI, 민주당에 대한 논의가 활발히 진행 중입니다. AI 기술의 발전은 다양한 산업에 영향을 미칠 것입니다. 정청래의 정치적 가능성은 다양한 의견을 불러일으킵니다. 민주당의 현재 상황과 미래에 대한 다양한 의견이 있습니다. 이러한 트렌드를 주시하고, 그에 따른 기회와 위협을 분석해야 합니다.",
+  "analyzed_at": "2026-08-16T10:00:34.087Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
