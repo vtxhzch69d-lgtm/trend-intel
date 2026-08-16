@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "정청래의 대표 출마와 민주당 경선이 논란이 되고 있다. 일부 사용자는 정청래의 지능을 문제삼으며 대표가 되면 안 된다고 주장한다.",
-      "post_count": 10,
-      "sentiment": "negative",
+      "summary": "最近의 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
+      "post_count": 15,
+      "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "부동산",
-      "summary": "부동산 세재개편과 집 마련에 대한 관심이 높다. 일부 사용자는 부동산 투자와 관련된 뉴스를 공유하며 의견을 나눈다.",
-      "post_count": 5,
-      "sentiment": "neutral",
+      "topic": "AI 및 기술",
+      "summary": "AI와 기술 관련 뉴스 및 개발이 많은 관심을 받고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련 뉴스가 많다. 일부 사용자는 AI의 발전과 관련된 기술 뉴스를 공유하며 의견을 나눈다.",
-      "post_count": 15,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "topic": "경제",
+      "summary": "最近의 경제 관련 뉴스와 분석이 많은 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "정청래",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "정청래의 대표 출마와 관련된 논란"
-    },
-    {
-      "keyword": "부동산",
-      "count": 5,
-      "sentiment": "neutral",
-      "context": "부동산 투자와 관련된 뉴스"
-    },
-    {
       "keyword": "AI",
-      "count": 15,
+      "count": 25,
       "sentiment": "positive",
-      "context": "AI의 발전과 관련된 기술 뉴스"
+      "context": "AI의 발전과 적용에 대한 관심"
+    },
+    {
+      "keyword": "정치",
+      "count": 20,
+      "sentiment": "mixed",
+      "context": "정치 관련 뉴스와 의견"
+    },
+    {
+      "keyword": "경제",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "경제 관련 뉴스와 분석"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
     "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치와 부동산에 대한 관심이 높다",
-      "action": "관련된 뉴스와 정보를 제공한다",
+      "insight": "AI와 기술의 발전이 많은 관심을 받고 있습니다.",
+      "action": "AI와 기술 관련 제품 및 서비스 개발",
       "priority": "high"
     },
     {
-      "insight": "AI와 기술에 대한 관심이 높다",
-      "action": "관련된 뉴스와 정보를 제공한다",
+      "insight": "정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
+      "action": "정치 관련 콘텐츠 개발",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스와 분석이 많은 관심을 받고 있습니다.",
+      "action": "경제 관련 콘텐츠 개발",
+      "priority": "low"
     }
   ],
-  "narrative": "최근의 트렌드는 정치와 부동산, AI와 기술에 대한 관심이 높다는 것이다. 정청래의 대표 출마와 민주당 경선이 논란이 되고 있으며, 부동산 투자와 관련된 뉴스가 많다. 또한 AI와 기술 관련 뉴스가 많으며, 일부 사용자는 AI의 발전과 관련된 기술 뉴스를 공유하며 의견을 나눈다. 이러한 트렌드를 고려하여 관련된 뉴스와 정보를 제공할 수 있다.",
-  "analyzed_at": "2026-08-15T23:30:34.015Z",
+  "narrative": "最近의 정치, AI 및 기술, 경제 관련 뉴스와 의견이 많은 관심을 받고 있습니다. AI와 기술의 발전이 많은 관심을 받고 있으며, 정치 관련 뉴스와 의견도 많은 관심을 받고 있습니다. 경제 관련 뉴스와 분석도 많은 관심을 받고 있지만, 중립적인 반응을 보이고 있습니다. 이러한 트렌드를 고려하여, AI와 기술 관련 제품 및 서비스 개발, 정치 관련 콘텐츠 개발, 경제 관련 콘텐츠 개발 등을 통해 사업을 발전시킬 수 있습니다.",
+  "analyzed_at": "2026-08-16T01:00:33.542Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
