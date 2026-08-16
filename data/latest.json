@@ -2,66 +2,71 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아 정치적인 상황이 변동하고 있는 것으로 보인다. 특히 이재명과 관련된 게시글이 많다.",
-      "post_count": 20,
+      "summary": "이재명 대통령 예단 사례, 정청래 공천, 민주당 경선 등 정치 관련 주제가 많이 논의되고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테슬라",
-      "summary": "테슬라의 사이버트럭이 미국에서 망한 것으로 보인다.",
-      "post_count": 1,
-      "sentiment": "negative",
+      "topic": "테크",
+      "summary": "AI, 반도체, 스마트폰 등 기술 관련 주제가 많이 논의되고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "AI",
-      "summary": "AI 관련 기술과 기업에 대한 게시글이 많다. 특히 오픈AI와 앤트로픽에 대한 글이 많다.",
+      "topic": "생활",
+      "summary": "날씨, 음식, 음악 등 일상 생활 관련 주제가 많이 논의되고 있습니다.",
       "post_count": 10,
-      "sentiment": "positive",
-      "urgency": "medium"
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
       "keyword": "이재명",
-      "count": 10,
-      "sentiment": "mixed",
-      "context": "정치적인 상황과 관련된 키워드"
-    },
-    {
-      "keyword": "테슬라",
-      "count": 1,
+      "count": 5,
       "sentiment": "negative",
-      "context": "테슬라의 사이버트럭이 미국에서 망한 것으로 보인다."
+      "context": "정치 관련 주제에서 많이 언급되고 있습니다."
     },
     {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "AI 관련 기술과 기업에 대한 키워드"
+      "context": "테크 관련 주제에서 많이 언급되고 있습니다."
+    },
+    {
+      "keyword": "스마트폰",
+      "count": 5,
+      "sentiment": "neutral",
+      "context": "테크 관련 주제에서 많이 언급되고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 15,
-    "negative": 10,
-    "neutral": 20,
-    "overall_mood": "중립적인 분위기이지만 정치적인 상황에 대한 우려가 존재한다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "정치적인 상황이 변동하고 있다.",
-      "action": "정치적인 상황을 주시하고 대응할 수 있는 전략을 수립한다.",
+      "insight": "정치 관련 주제가 많이 논의되고 있습니다.",
+      "action": "정치 관련 콘텐츠를 생성하여 이용자와의 상호작용을 높일 수 있습니다.",
       "priority": "high"
     },
     {
-      "insight": "AI 관련 기술과 기업이 부상하고 있다.",
-      "action": "AI 관련 기술과 기업에 대한 투자와 협력을 고려한다.",
+      "insight": "테크 관련 주제가 많이 논의되고 있습니다.",
+      "action": "테크 관련 콘텐츠를 생성하여 이용자와의 상호작용을 높일 수 있습니다.",
       "priority": "medium"
+    },
+    {
+      "insight": "일상 생활 관련 주제가 많이 논의되고 있습니다.",
+      "action": "일상 생활 관련 콘텐츠를 생성하여 이용자와의 상호작용을 높일 수 있습니다.",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 정치 관련 게시글이 많아 정치적인 상황이 변동하고 있는 것으로 보인다. 특히 이재명과 관련된 게시글이 많다. 또한 테슬라의 사이버트럭이 미국에서 망한 것으로 보인다. 반면에 AI 관련 기술과 기업에 대한 게시글이 많아 AI 관련 기술과 기업이 부상하고 있는 것으로 보인다. 이러한 상황을 고려하여 정치적인 상황을 주시하고 대응할 수 있는 전략을 수립하고, AI 관련 기술과 기업에 대한 투자와 협력을 고려한다.",
-  "analyzed_at": "2026-08-16T13:01:22.905Z",
+  "narrative": "최근의 트렌드는 정치, 테크, 생활 등 다양한 주제가 혼재되어 있습니다. 정치 관련 주제는 이재명 대통령 예단 사례, 정청래 공천, 민주당 경선 등이 많이 논의되고 있습니다. 테크 관련 주제는 AI, 반도체, 스마트폰 등이 많이 논의되고 있습니다. 일상 생활 관련 주제는 날씨, 음식, 음악 등이 많이 논의되고 있습니다. 이러한 트렌드를 분석하여 이용자와의 상호작용을 높일 수 있는 콘텐츠를 생성할 수 있습니다.",
+  "analyzed_at": "2026-08-16T14:31:31.200Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
