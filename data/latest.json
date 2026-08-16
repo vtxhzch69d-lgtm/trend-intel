@@ -1,62 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 생활 관련 이야기와 경험 공유입니다.",
-      "post_count": 100,
+      "topic": "정치",
+      "summary": "정청래의 민주당 탈당과 이재명의 구조적 소수 전략 등 정치 관련 주제가热한 관심을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "AI 및 기술",
+      "summary": "AI 성능 경쟁과 벤치마킹, 네이버의 일본 법인 설립 등 기술 관련 주제가 많이 обсужд되고 있습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
     },
     {
-      "topic": "클리앙 인기 게시글",
-      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 사회 문제에 관한 토론입니다.",
-      "post_count": 50,
-      "sentiment": "mixed",
-      "urgency": "high"
+      "topic": "경제 및 산업",
+      "summary": "삼성전자와 LG이노텍의 상반기 실적, 중소형 배터리 공장 가동률 등 경제 및 산업 관련 주제가 관심을 받고 있습니다.",
+      "post_count": 8,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "생활",
-      "count": 50,
+      "keyword": "AI",
+      "count": 12,
       "sentiment": "positive",
-      "context": "일상 생활과 관련된 이야기"
+      "context": "AI 기술의 발전과 관련된 주제"
     },
     {
-      "keyword": "기술",
-      "count": 30,
-      "sentiment": "neutral",
-      "context": "최신 기술과 트렌드에 관한 토론"
+      "keyword": "정치",
+      "count": 10,
+      "sentiment": "mixed",
+      "context": "정치 관련 주제"
     },
     {
-      "keyword": "사회 문제",
-      "count": 20,
+      "keyword": "이재명",
+      "count": 5,
       "sentiment": "negative",
-      "context": "현재 사회에서 논란이 되는 문제들"
+      "context": "이재명의 구조적 소수 전략 등 관련 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 60,
-    "negative": 20,
-    "neutral": 20,
-    "overall_mood": "대체적으로 긍정적인 분위기이지만 일부 부정적인 의견도 존재합니다."
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "소비자들의 생활과 기술에 대한 관심이 높습니다.",
-      "action": "관련 제품이나 서비스를 개발하고 홍보하세요.",
+      "insight": "AI 기술의 발전은 기업의 경쟁력 강화에 기여할 수 있습니다.",
+      "action": "AI 기술 투자",
       "priority": "high"
     },
     {
-      "insight": "사회 문제에 대한 논란이 존재합니다.",
-      "action": "브랜드 이미지를 보호하기 위해 사회 책임을 강조하세요.",
+      "insight": "정치 관련 주제는 여론을 형성하는 데 중요한 역할을 합니다.",
+      "action": "정치 관련 주제 모니터링",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 및 산업 관련 주제는 기업의 전략 수립에 중요한 역할을 합니다.",
+      "action": "경제 및 산업 관련 주제 분석",
+      "priority": "low"
     }
   ],
-  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글을 분석한 결과, 생활과 기술에 관한 이야기들이 많은 관심을 받고 있습니다. 또한 사회 문제에 대한 토론도 활발하게 진행되고 있지만, 일부 부정적인 의견도 존재합니다. 이러한 분석 결과를 바탕으로 기업은 소비자들의 관심사를 이해하고, 관련 제품이나 서비스를 개발하여 홍보할 수 있습니다. 또한 사회 책임을 강조하여 브랜드 이미지를 보호할 수 있습니다.",
-  "analyzed_at": "2026-08-16T05:31:26.075Z",
-  "post_count": 2,
+  "narrative": "최근의 트렌드 분석 결과, 정치, AI 및 기술, 경제 및 산업 관련 주제가 많이 обсужд되고 있습니다. AI 기술의 발전은 기업의 경쟁력 강화에 기여할 수 있으며, 정치 관련 주제는 여론을 형성하는 데 중요한 역할을 합니다. 또한, 경제 및 산업 관련 주제는 기업의 전략 수립에 중요한 역할을 합니다. 이러한 트렌드 분석 결과를 바탕으로, 기업은 자신의 전략을 수립하고 경쟁력을 강화할 수 있습니다.",
+  "analyzed_at": "2026-08-16T07:01:28.951Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
