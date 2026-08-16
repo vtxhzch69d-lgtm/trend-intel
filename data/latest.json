@@ -2,71 +2,59 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "最近의 정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
-      "post_count": 15,
+      "summary": "최근 정치 관련 게시글이 많아졌으며, 특히 민주당과 관련된 주제가 많이 обсужд되고 있습니다. 일부 게시글에서는 당대표에 대한 지지와 반대 의견이 분분합니다.",
+      "post_count": 20,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI와 기술 관련 뉴스 및 개발이 많은 관심을 받고 있습니다.",
-      "post_count": 20,
+      "topic": "테크",
+      "summary": "테크 관련 뉴스가 많이 올라왔으며, 특히 AI와 관련된 주제가 많이 обсужд되고 있습니다. 일부 게시글에서는 테크 기업들의 최근 동향과 기술 개발에 대한 관심이 높습니다.",
+      "post_count": 15,
       "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "最近의 경제 관련 뉴스와 분석이 많은 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "민주당",
+      "count": 10,
+      "sentiment": "negative",
+      "context": "당대표에 대한 비판"
+    },
+    {
       "keyword": "AI",
-      "count": 25,
+      "count": 8,
       "sentiment": "positive",
-      "context": "AI의 발전과 적용에 대한 관심"
+      "context": "기술 개발과 미래 전망"
     },
     {
-      "keyword": "정치",
-      "count": 20,
-      "sentiment": "mixed",
-      "context": "정치 관련 뉴스와 의견"
-    },
-    {
-      "keyword": "경제",
-      "count": 15,
+      "keyword": "삼성",
+      "count": 5,
       "sentiment": "neutral",
-      "context": "경제 관련 뉴스와 분석"
+      "context": "기업 동향과 기술 개발"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 20,
-    "neutral": 50,
-    "overall_mood": "중립적"
+    "positive": 20,
+    "negative": 15,
+    "neutral": 25,
+    "overall_mood": "복합적인 감정"
   },
   "business_insights": [
     {
-      "insight": "AI와 기술의 발전이 많은 관심을 받고 있습니다.",
-      "action": "AI와 기술 관련 제품 및 서비스 개발",
+      "insight": "테크 기업들의 기술 개발과 미래 전망에 대한 관심이 높아지고 있습니다.",
+      "action": "테크 관련 주제에 대한 콘텐츠 개발",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 의견이 많은 관심을 받고 있습니다.",
-      "action": "정치 관련 콘텐츠 개발",
+      "insight": "정치 관련 주제에 대한 관심이 높아지고 있습니다.",
+      "action": "정치 관련 주제에 대한 콘텐츠 개발",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스와 분석이 많은 관심을 받고 있습니다.",
-      "action": "경제 관련 콘텐츠 개발",
-      "priority": "low"
     }
   ],
-  "narrative": "最近의 정치, AI 및 기술, 경제 관련 뉴스와 의견이 많은 관심을 받고 있습니다. AI와 기술의 발전이 많은 관심을 받고 있으며, 정치 관련 뉴스와 의견도 많은 관심을 받고 있습니다. 경제 관련 뉴스와 분석도 많은 관심을 받고 있지만, 중립적인 반응을 보이고 있습니다. 이러한 트렌드를 고려하여, AI와 기술 관련 제품 및 서비스 개발, 정치 관련 콘텐츠 개발, 경제 관련 콘텐츠 개발 등을 통해 사업을 발전시킬 수 있습니다.",
-  "analyzed_at": "2026-08-16T01:00:33.542Z",
+  "narrative": "최근 정치와 테크 관련 주제가 많이 обсужд되고 있습니다. 특히 민주당과 관련된 주제가 많이 논의되고 있으며, 테크 기업들의 기술 개발과 미래 전망에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 반영하여 콘텐츠 개발과 마케팅 전략을 수립하는 것이 중요해 보입니다. 또한, 테크 관련 주제에 대한 콘텐츠 개발과 정치 관련 주제에 대한 콘텐츠 개발을 통해 사용자들의 관심을 끌 수 있을 것입니다.",
+  "analyzed_at": "2026-08-16T02:31:23.177Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
