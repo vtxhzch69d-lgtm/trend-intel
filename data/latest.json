@@ -1,72 +1,72 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "정청래의 민주당 탈당과 이재명의 구조적 소수 전략 등 정치 관련 주제가热한 관심을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
+      "topic": "호남 반도체",
+      "summary": "호남 반도체 성사에 대한 논의",
+      "post_count": 2,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "AI 및 기술",
-      "summary": "AI 성능 경쟁과 벤치마킹, 네이버의 일본 법인 설립 등 기술 관련 주제가 많이 обсужд되고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "AI 기술",
+      "summary": "AI 기술의 발전과 관련된 뉴스",
+      "post_count": 10,
+      "sentiment": "neutral",
       "urgency": "medium"
     },
     {
-      "topic": "경제 및 산업",
-      "summary": "삼성전자와 LG이노텍의 상반기 실적, 중소형 배터리 공장 가동률 등 경제 및 산업 관련 주제가 관심을 받고 있습니다.",
-      "post_count": 8,
-      "sentiment": "neutral",
-      "urgency": "low"
+      "topic": "정치",
+      "summary": "정치 관련된 논의",
+      "post_count": 15,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "AI",
-      "count": 12,
+      "keyword": "호남 반도체",
+      "count": 5,
       "sentiment": "positive",
-      "context": "AI 기술의 발전과 관련된 주제"
+      "context": "호남 반도체 성사에 대한 논의"
+    },
+    {
+      "keyword": "AI",
+      "count": 15,
+      "sentiment": "neutral",
+      "context": "AI 기술의 발전과 관련된 뉴스"
     },
     {
       "keyword": "정치",
-      "count": 10,
+      "count": 20,
       "sentiment": "mixed",
-      "context": "정치 관련 주제"
-    },
-    {
-      "keyword": "이재명",
-      "count": 5,
-      "sentiment": "negative",
-      "context": "이재명의 구조적 소수 전략 등 관련 주제"
+      "context": "정치 관련된 논의"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
+    "positive": 10,
     "negative": 15,
-    "neutral": 25,
-    "overall_mood": "중립적"
+    "neutral": 20,
+    "overall_mood": "중립적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "AI 기술의 발전은 기업의 경쟁력 강화에 기여할 수 있습니다.",
-      "action": "AI 기술 투자",
+      "insight": "호남 반도체 성사에 대한 관심이 높아지고 있다",
+      "action": "호남 반도체 관련된 뉴스와 정보를 제공한다",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 주제는 여론을 형성하는 데 중요한 역할을 합니다.",
-      "action": "정치 관련 주제 모니터링",
+      "insight": "AI 기술의 발전이 빠르게 진행되고 있다",
+      "action": "AI 기술 관련된 뉴스와 정보를 제공한다",
       "priority": "medium"
     },
     {
-      "insight": "경제 및 산업 관련 주제는 기업의 전략 수립에 중요한 역할을 합니다.",
-      "action": "경제 및 산업 관련 주제 분석",
-      "priority": "low"
+      "insight": "정치 관련된 논의가 많아지고 있다",
+      "action": "정치 관련된 뉴스와 정보를 제공한다",
+      "priority": "high"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 정치, AI 및 기술, 경제 및 산업 관련 주제가 많이 обсужд되고 있습니다. AI 기술의 발전은 기업의 경쟁력 강화에 기여할 수 있으며, 정치 관련 주제는 여론을 형성하는 데 중요한 역할을 합니다. 또한, 경제 및 산업 관련 주제는 기업의 전략 수립에 중요한 역할을 합니다. 이러한 트렌드 분석 결과를 바탕으로, 기업은 자신의 전략을 수립하고 경쟁력을 강화할 수 있습니다.",
-  "analyzed_at": "2026-08-16T07:01:28.951Z",
+  "narrative": "최근 클리앙 커뮤니티에서 호남 반도체, AI 기술, 정치 관련된 논의가 많아지고 있다. 호남 반도체 성사에 대한 관심이 높아지고 있으며, AI 기술의 발전이 빠르게 진행되고 있다. 또한, 정치 관련된 논의가 많아지고 있다. 이러한 트렌드를 반영하여, 관련된 뉴스와 정보를 제공하고, 관심 있는 사용자에게 추천한다. 또한, 호남 반도체와 AI 기술 관련된 산업 동향을 분석하여, 관련된 기업과 기관에게 정보를 제공한다.",
+  "analyzed_at": "2026-08-16T08:30:33.503Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
