@@ -1,60 +1,67 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "최근 정치 관련 게시글이 많아졌으며, 특히 민주당과 관련된 주제가 많이 обсужд되고 있습니다. 일부 게시글에서는 당대표에 대한 지지와 반대 의견이 분분합니다.",
-      "post_count": 20,
+      "topic": "호남 지역 발전",
+      "summary": "호남 지역의 발전과 관련된 다양한 주제들이 논의되고 있습니다. 주차장 사업, 정부의 돌파구, 위과선 노선 결정 등이 주요한 내용입니다.",
+      "post_count": 10,
       "sentiment": "mixed",
+      "urgency": "medium"
+    },
+    {
+      "topic": "AI와 기술",
+      "summary": "AI와 기술 관련된 주제들이 많이 논의되고 있습니다. AI 성능 경쟁, 벤치맥싱, 네이버파이낸셜의 일본 법인 설립 등이 주요한 내용입니다.",
+      "post_count": 15,
+      "sentiment": "positive",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "테크 관련 뉴스가 많이 올라왔으며, 특히 AI와 관련된 주제가 많이 обсужд되고 있습니다. 일부 게시글에서는 테크 기업들의 최근 동향과 기술 개발에 대한 관심이 높습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
+      "topic": "정치와 사회",
+      "summary": "정치와 사회 관련된 주제들이 논의되고 있습니다. 이재명, 정청래, 5.18 부채의식 등이 주요한 내용입니다.",
+      "post_count": 12,
+      "sentiment": "negative",
       "urgency": "medium"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
-      "count": 10,
-      "sentiment": "negative",
-      "context": "당대표에 대한 비판"
+      "keyword": "호남",
+      "count": 20,
+      "sentiment": "neutral",
+      "context": "호남 지역 발전과 관련된 주제"
     },
     {
       "keyword": "AI",
-      "count": 8,
+      "count": 15,
       "sentiment": "positive",
-      "context": "기술 개발과 미래 전망"
+      "context": "AI와 기술 관련된 주제"
     },
     {
-      "keyword": "삼성",
+      "keyword": "이재명",
       "count": 5,
-      "sentiment": "neutral",
-      "context": "기업 동향과 기술 개발"
+      "sentiment": "negative",
+      "context": "정치와 사회 관련된 주제"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 25,
-    "overall_mood": "복합적인 감정"
+    "positive": 30,
+    "negative": 25,
+    "neutral": 40,
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "테크 기업들의 기술 개발과 미래 전망에 대한 관심이 높아지고 있습니다.",
-      "action": "테크 관련 주제에 대한 콘텐츠 개발",
-      "priority": "high"
+      "insight": "호남 지역의 발전을 위한 투자와 지원이 필요합니다.",
+      "action": "호남 지역에 대한 투자와 지원을 증가시킵니다.",
+      "priority": "medium"
     },
     {
-      "insight": "정치 관련 주제에 대한 관심이 높아지고 있습니다.",
-      "action": "정치 관련 주제에 대한 콘텐츠 개발",
-      "priority": "medium"
+      "insight": "AI와 기술 관련된 주제들이 많이 논의되고 있습니다.",
+      "action": "AI와 기술 관련된 주제에 대한 투자와 지원을 증가시킵니다.",
+      "priority": "high"
     }
   ],
-  "narrative": "최근 정치와 테크 관련 주제가 많이 обсужд되고 있습니다. 특히 민주당과 관련된 주제가 많이 논의되고 있으며, 테크 기업들의 기술 개발과 미래 전망에 대한 관심이 높아지고 있습니다. 이러한 트렌드를 반영하여 콘텐츠 개발과 마케팅 전략을 수립하는 것이 중요해 보입니다. 또한, 테크 관련 주제에 대한 콘텐츠 개발과 정치 관련 주제에 대한 콘텐츠 개발을 통해 사용자들의 관심을 끌 수 있을 것입니다.",
-  "analyzed_at": "2026-08-16T02:31:23.177Z",
+  "narrative": "최근의 트렌드 분석 결과, 호남 지역 발전, AI와 기술, 정치와 사회 관련된 주제들이 많이 논의되고 있습니다. 호남 지역의 발전을 위한 투자와 지원이 필요하며, AI와 기술 관련된 주제에 대한 투자와 지원을 증가시켜야 합니다. 또한, 정치와 사회 관련된 주제들이 논의되고 있으므로, 관련된 정책과 지원이 필요합니다. 중립적인 분위기에서 다양한 주제들이 논의되고 있으므로, 각 주제에 대한 세부적인 분석과 대응이 필요합니다.",
+  "analyzed_at": "2026-08-16T04:00:34.540Z",
   "post_count": 62,
   "sources": [
     "ppomppu",
