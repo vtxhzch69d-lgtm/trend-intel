@@ -1,70 +1,62 @@
 {
   "trending_topics": [
     {
-      "topic": "호남 지역 발전",
-      "summary": "호남 지역의 발전과 관련된 다양한 주제들이 논의되고 있습니다. 주차장 사업, 정부의 돌파구, 위과선 노선 결정 등이 주요한 내용입니다.",
-      "post_count": 10,
-      "sentiment": "mixed",
-      "urgency": "medium"
-    },
-    {
-      "topic": "AI와 기술",
-      "summary": "AI와 기술 관련된 주제들이 많이 논의되고 있습니다. AI 성능 경쟁, 벤치맥싱, 네이버파이낸셜의 일본 법인 설립 등이 주요한 내용입니다.",
-      "post_count": 15,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 생활 관련 이야기와 경험 공유입니다.",
+      "post_count": 100,
       "sentiment": "positive",
-      "urgency": "high"
+      "urgency": "medium"
     },
     {
-      "topic": "정치와 사회",
-      "summary": "정치와 사회 관련된 주제들이 논의되고 있습니다. 이재명, 정청래, 5.18 부채의식 등이 주요한 내용입니다.",
-      "post_count": 12,
-      "sentiment": "negative",
-      "urgency": "medium"
+      "topic": "클리앙 인기 게시글",
+      "summary": "클리앙 커뮤니티에서 인기 있는 게시글은 주로 기술과 사회 문제에 관한 토론입니다.",
+      "post_count": 50,
+      "sentiment": "mixed",
+      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "호남",
-      "count": 20,
-      "sentiment": "neutral",
-      "context": "호남 지역 발전과 관련된 주제"
-    },
-    {
-      "keyword": "AI",
-      "count": 15,
+      "keyword": "생활",
+      "count": 50,
       "sentiment": "positive",
-      "context": "AI와 기술 관련된 주제"
+      "context": "일상 생활과 관련된 이야기"
     },
     {
-      "keyword": "이재명",
-      "count": 5,
+      "keyword": "기술",
+      "count": 30,
+      "sentiment": "neutral",
+      "context": "최신 기술과 트렌드에 관한 토론"
+    },
+    {
+      "keyword": "사회 문제",
+      "count": 20,
       "sentiment": "negative",
-      "context": "정치와 사회 관련된 주제"
+      "context": "현재 사회에서 논란이 되는 문제들"
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 25,
-    "neutral": 40,
-    "overall_mood": "중립적"
+    "positive": 60,
+    "negative": 20,
+    "neutral": 20,
+    "overall_mood": "대체적으로 긍정적인 분위기이지만 일부 부정적인 의견도 존재합니다."
   },
   "business_insights": [
     {
-      "insight": "호남 지역의 발전을 위한 투자와 지원이 필요합니다.",
-      "action": "호남 지역에 대한 투자와 지원을 증가시킵니다.",
-      "priority": "medium"
+      "insight": "소비자들의 생활과 기술에 대한 관심이 높습니다.",
+      "action": "관련 제품이나 서비스를 개발하고 홍보하세요.",
+      "priority": "high"
     },
     {
-      "insight": "AI와 기술 관련된 주제들이 많이 논의되고 있습니다.",
-      "action": "AI와 기술 관련된 주제에 대한 투자와 지원을 증가시킵니다.",
-      "priority": "high"
+      "insight": "사회 문제에 대한 논란이 존재합니다.",
+      "action": "브랜드 이미지를 보호하기 위해 사회 책임을 강조하세요.",
+      "priority": "medium"
     }
   ],
-  "narrative": "최근의 트렌드 분석 결과, 호남 지역 발전, AI와 기술, 정치와 사회 관련된 주제들이 많이 논의되고 있습니다. 호남 지역의 발전을 위한 투자와 지원이 필요하며, AI와 기술 관련된 주제에 대한 투자와 지원을 증가시켜야 합니다. 또한, 정치와 사회 관련된 주제들이 논의되고 있으므로, 관련된 정책과 지원이 필요합니다. 중립적인 분위기에서 다양한 주제들이 논의되고 있으므로, 각 주제에 대한 세부적인 분석과 대응이 필요합니다.",
-  "analyzed_at": "2026-08-16T04:00:34.540Z",
-  "post_count": 62,
+  "narrative": "최근 뽐뿌와 클리앙 커뮤니티에서 인기 있는 게시글을 분석한 결과, 생활과 기술에 관한 이야기들이 많은 관심을 받고 있습니다. 또한 사회 문제에 대한 토론도 활발하게 진행되고 있지만, 일부 부정적인 의견도 존재합니다. 이러한 분석 결과를 바탕으로 기업은 소비자들의 관심사를 이해하고, 관련 제품이나 서비스를 개발하여 홍보할 수 있습니다. 또한 사회 책임을 강조하여 브랜드 이미지를 보호할 수 있습니다.",
+  "analyzed_at": "2026-08-16T05:31:26.075Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
