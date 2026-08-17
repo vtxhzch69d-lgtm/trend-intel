@@ -2,72 +2,54 @@
   "trending_topics": [
     {
       "topic": "정치",
-      "summary": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 대의원 투표와 당 대표 선거가 주목을 받고 있습니다.",
+      "summary": "최근 정치 관련된 게시글이 많아 정치적인 주제가 트렌드하고 있습니다. 특히, 김민석 후보와 관련된 게시글이 많습니다.",
       "post_count": 15,
       "sentiment": "mixed",
       "urgency": "high"
     },
     {
-      "topic": "테크",
-      "summary": "최신 기술과 제품에 대한 관심이 높습니다. 특히, AI와 반도체 관련 뉴스가 많이 등장하고 있습니다.",
+      "topic": "기술",
+      "summary": "최근 기술 관련된 게시글이 많아 기술적인 주제가 트렌드하고 있습니다. 특히, AI와 관련된 게시글이 많습니다.",
       "post_count": 20,
       "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "경제",
-      "summary": "경제 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 기업의 수주와 투자에 대한 뉴스가 주목을 받고 있습니다.",
-      "post_count": 10,
-      "sentiment": "neutral",
-      "urgency": "low"
     }
   ],
   "keywords": [
     {
+      "keyword": "김민석",
+      "count": 5,
+      "sentiment": "negative",
+      "context": "김민석 후보와 관련된 게시글에서 많이 언급되었습니다."
+    },
+    {
       "keyword": "AI",
       "count": 10,
       "sentiment": "positive",
-      "context": "최신 기술과 제품에 대한 관심이 높습니다."
-    },
-    {
-      "keyword": "반도체",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "최신 기술과 제품에 대한 관심이 높습니다."
-    },
-    {
-      "keyword": "당 대표",
-      "count": 5,
-      "sentiment": "mixed",
-      "context": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다."
+      "context": "AI와 관련된 게시글에서 많이 언급되었습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 25,
-    "negative": 15,
-    "neutral": 30,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 20,
+    "neutral": 50,
+    "overall_mood": "중립적인 기분이 대부분입니다."
   },
   "business_insights": [
     {
-      "insight": "최신 기술과 제품에 대한 관심이 높습니다.",
-      "action": "최신 기술과 제품에 대한 마케팅을 강화하세요.",
+      "insight": "정치적인 주제가 트렌드하고 있습니다.",
+      "action": "정치적인 주제에 대한 게시글을 더 많이 작성해야 합니다.",
       "priority": "high"
     },
     {
-      "insight": "정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
-      "action": "정치 관련 뉴스와 이슈에 대한 마케팅을 강화하세요.",
+      "insight": "기술적인 주제가 트렌드하고 있습니다.",
+      "action": "기술적인 주제에 대한 게시글을 더 많이 작성해야 합니다.",
       "priority": "medium"
-    },
-    {
-      "insight": "경제 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
-      "action": "경제 관련 뉴스와 이슈에 대한 마케팅을 강화하세요.",
-      "priority": "low"
     }
   ],
-  "narrative": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 대의원 투표와 당 대표 선거가 주목을 받고 있습니다. 또한, 최신 기술과 제품에 대한 관심이 높습니다. 특히, AI와 반도체 관련 뉴스가 많이 등장하고 있습니다. 경제 관련 뉴스와 이슈도 많은 관심을 받고 있습니다. 특히, 기업의 수주와 투자에 대한 뉴스가 주목을 받고 있습니다. 이러한 트렌드를 반영하여 마케팅을 강화하면 효과적인 결과를 얻을 수 있을 것입니다.",
-  "analyzed_at": "2026-08-17T03:00:33.776Z",
-  "post_count": 62,
+  "narrative": "최근 정치와 기술 관련된 주제가 트렌드하고 있습니다. 특히, 김민석 후보와 AI와 관련된 게시글이 많습니다. 중립적인 기분이 대부분입니다. 정치적인 주제에 대한 게시글을 더 많이 작성하고, 기술적인 주제에 대한 게시글을 더 많이 작성해야 합니다.",
+  "analyzed_at": "2026-08-17T04:30:33.936Z",
+  "post_count": 61,
   "sources": [
     "ppomppu",
     "clien"
