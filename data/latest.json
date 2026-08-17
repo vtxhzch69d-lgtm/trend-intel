@@ -1,49 +1,75 @@
 {
   "trending_topics": [
     {
-      "topic": "뽐뿌 인기 게시글",
-      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에 관한 것입니다. 사용자들은 다양한 주제에 대해 обсужд하고 있습니다.",
-      "post_count": 100,
+      "topic": "정치",
+      "summary": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 대의원 투표와 당 대표 선거가 주목을 받고 있습니다.",
+      "post_count": 15,
       "sentiment": "mixed",
+      "urgency": "high"
+    },
+    {
+      "topic": "테크",
+      "summary": "최신 기술과 제품에 대한 관심이 높습니다. 특히, AI와 반도체 관련 뉴스가 많이 등장하고 있습니다.",
+      "post_count": 20,
+      "sentiment": "positive",
       "urgency": "medium"
+    },
+    {
+      "topic": "경제",
+      "summary": "경제 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 기업의 수주와 투자에 대한 뉴스가 주목을 받고 있습니다.",
+      "post_count": 10,
+      "sentiment": "neutral",
+      "urgency": "low"
     }
   ],
   "keywords": [
     {
-      "keyword": "뽐뿌",
-      "count": 50,
-      "sentiment": "neutral",
-      "context": "커뮤니티 이름"
+      "keyword": "AI",
+      "count": 10,
+      "sentiment": "positive",
+      "context": "최신 기술과 제품에 대한 관심이 높습니다."
     },
     {
-      "keyword": "이슈",
-      "count": 20,
-      "sentiment": "negative",
-      "context": "문제 또는 논란"
+      "keyword": "반도체",
+      "count": 8,
+      "sentiment": "positive",
+      "context": "최신 기술과 제품에 대한 관심이 높습니다."
+    },
+    {
+      "keyword": "당 대표",
+      "count": 5,
+      "sentiment": "mixed",
+      "context": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다."
     }
   ],
   "sentiment_overview": {
-    "positive": 30,
-    "negative": 40,
+    "positive": 25,
+    "negative": 15,
     "neutral": 30,
-    "overall_mood": "중립적이지만 약간 부정적인 분위기"
+    "overall_mood": "중립적"
   },
   "business_insights": [
     {
-      "insight": "사용자들은 다양한 주제에 대해 관심이 있습니다.",
-      "action": "다양한 주제에 대한 콘텐츠 제공",
+      "insight": "최신 기술과 제품에 대한 관심이 높습니다.",
+      "action": "최신 기술과 제품에 대한 마케팅을 강화하세요.",
       "priority": "high"
     },
     {
-      "insight": "사용자들은 이슈 또는 문제에 대해 논의합니다.",
-      "action": "이슈 또는 문제에 대한 해결책 제공",
+      "insight": "정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
+      "action": "정치 관련 뉴스와 이슈에 대한 마케팅을 강화하세요.",
       "priority": "medium"
+    },
+    {
+      "insight": "경제 관련 뉴스와 이슈가 많은 관심을 받고 있습니다.",
+      "action": "경제 관련 뉴스와 이슈에 대한 마케팅을 강화하세요.",
+      "priority": "low"
     }
   ],
-  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 обсужд과 이슈에 대한 논의가 활발하게 진행되고 있습니다. 사용자들은 중립적이지만 약간 부정적인 분위기를 보이고 있습니다. 따라서 다양한 주제에 대한 콘텐츠 제공과 이슈 또는 문제에 대한 해결책 제공이 필요합니다. 또한, 사용자들의 관심을 끌기 위해 새로운 주제나 콘텐츠를 제공하는 것이 중요할 것입니다.",
-  "analyzed_at": "2026-08-17T00:30:33.609Z",
-  "post_count": 2,
+  "narrative": "최근 정치 관련 뉴스와 이슈가 많은 관심을 받고 있습니다. 특히, 대의원 투표와 당 대표 선거가 주목을 받고 있습니다. 또한, 최신 기술과 제품에 대한 관심이 높습니다. 특히, AI와 반도체 관련 뉴스가 많이 등장하고 있습니다. 경제 관련 뉴스와 이슈도 많은 관심을 받고 있습니다. 특히, 기업의 수주와 투자에 대한 뉴스가 주목을 받고 있습니다. 이러한 트렌드를 반영하여 마케팅을 강화하면 효과적인 결과를 얻을 수 있을 것입니다.",
+  "analyzed_at": "2026-08-17T03:00:33.776Z",
+  "post_count": 62,
   "sources": [
-    "ppomppu"
+    "ppomppu",
+    "clien"
   ]
 }
