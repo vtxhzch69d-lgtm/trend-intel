@@ -1,75 +1,49 @@
 {
   "trending_topics": [
     {
-      "topic": "정치",
-      "summary": "이재명 대통령과 김영호의 동시 사퇴, 김용의 성남 리모델링 조합장 등 정치 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 10,
+      "topic": "뽐뿌 인기 게시글",
+      "summary": "뽐뿌 커뮤니티에서 인기 있는 게시글은 주로 자유게시판과 이슈게시판에 관한 것입니다. 사용자들은 다양한 주제에 대해 обсужд하고 있습니다.",
+      "post_count": 100,
       "sentiment": "mixed",
-      "urgency": "high"
-    },
-    {
-      "topic": "경제",
-      "summary": "한국 수출액의 일본 추월, 네이버파이낸셜의 일본법인 설립, 애플의 중국 시장 겨냥한 자체 모델 개발 등 경제 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 15,
-      "sentiment": "positive",
       "urgency": "medium"
-    },
-    {
-      "topic": "기술",
-      "summary": "AI 성능 경쟁, 애플의 중국 시장 겨냥한 자체 모델 개발, 스페이스X의 코딩 스타트업 인수 등 기술 관련 뉴스가 주목을 받고 있습니다.",
-      "post_count": 12,
-      "sentiment": "positive",
-      "urgency": "high"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "count": 5,
+      "keyword": "뽐뿌",
+      "count": 50,
+      "sentiment": "neutral",
+      "context": "커뮤니티 이름"
+    },
+    {
+      "keyword": "이슈",
+      "count": 20,
       "sentiment": "negative",
-      "context": "정치 관련 뉴스에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "AI",
-      "count": 8,
-      "sentiment": "positive",
-      "context": "기술 관련 뉴스에서 자주 언급됩니다."
-    },
-    {
-      "keyword": "애플",
-      "count": 4,
-      "sentiment": "positive",
-      "context": "기술 관련 뉴스에서 자주 언급됩니다."
+      "context": "문제 또는 논란"
     }
   ],
   "sentiment_overview": {
-    "positive": 20,
-    "negative": 15,
-    "neutral": 10,
-    "overall_mood": "중립적"
+    "positive": 30,
+    "negative": 40,
+    "neutral": 30,
+    "overall_mood": "중립적이지만 약간 부정적인 분위기"
   },
   "business_insights": [
     {
-      "insight": "한국의 경제 성장",
-      "action": "투자 증가",
+      "insight": "사용자들은 다양한 주제에 대해 관심이 있습니다.",
+      "action": "다양한 주제에 대한 콘텐츠 제공",
       "priority": "high"
     },
     {
-      "insight": "AI 기술의 발전",
-      "action": "연구 개발 투자",
+      "insight": "사용자들은 이슈 또는 문제에 대해 논의합니다.",
+      "action": "이슈 또는 문제에 대한 해결책 제공",
       "priority": "medium"
-    },
-    {
-      "insight": "정치적 불안정성",
-      "action": "위험 관리",
-      "priority": "low"
     }
   ],
-  "narrative": "현재 한국의 온라인 커뮤니티에서는 정치, 경제, 기술 관련 뉴스가 주목을 받고 있습니다. 이재명 대통령과 김영호의 동시 사퇴, 김용의 성남 리모델링 조합장 등 정치 관련 뉴스는 혼재된 반응을 보이고 있습니다. 한편, 한국 수출액의 일본 추월, 네이버파이낸셜의 일본법인 설립, 애플의 중국 시장 겨냥한 자체 모델 개발 등 경제 관련 뉴스는 긍정적인 반응을 보이고 있습니다. 또한, AI 성능 경쟁, 애플의 중국 시장 겨냥한 자체 모델 개발, 스페이스X의 코딩 스타트업 인수 등 기술 관련 뉴스는 높은 관심을 받고 있습니다. 이러한 트렌드를 고려하여, 한국의 경제 성장과 AI 기술의 발전에 대한 투자 증가, 연구 개발 투자, 위험 관리 등이 필요할 것입니다.",
-  "analyzed_at": "2026-08-16T23:00:34.790Z",
-  "post_count": 62,
+  "narrative": "뽐뿌 커뮤니티는 다양한 주제에 대한 обсужд과 이슈에 대한 논의가 활발하게 진행되고 있습니다. 사용자들은 중립적이지만 약간 부정적인 분위기를 보이고 있습니다. 따라서 다양한 주제에 대한 콘텐츠 제공과 이슈 또는 문제에 대한 해결책 제공이 필요합니다. 또한, 사용자들의 관심을 끌기 위해 새로운 주제나 콘텐츠를 제공하는 것이 중요할 것입니다.",
+  "analyzed_at": "2026-08-17T00:30:33.609Z",
+  "post_count": 2,
   "sources": [
-    "ppomppu",
-    "clien"
+    "ppomppu"
   ]
 }
